@@ -2664,7 +2664,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 
 
-# <font color="red"> Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
+## <font color="red"> Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
 # cat(readLines('np.html'))
@@ -5209,7 +5209,7 @@ Loven indeholder ikke et generelt forbud mod brug af variabel løn eller salgsm�
 
 ---
 
-##<font color="red">Behovsanalysen<sup> Premium </font></sup>
+## <font color="red">Behovsanalysen<sup> Premium </font></sup>
 
 Forsikringsdistributøren skal ifølge  forsikringsformidlingslov på baggrund af oplysninger fra kunden fastlægge kundens krav og behov, inden en forsikringsaftale indgås.
 
