@@ -7,9 +7,3 @@ system("git add . && git commit -a -m . && git push")
 
 
 
-echo "# jura29sep" >> README.md
-git init
-git add README.md
-git commit -m "1commit"
-git remote add origin https://github.com/cphthomas/jura29sep.git
-git push -u origin master
