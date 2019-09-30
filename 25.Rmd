@@ -2666,9 +2666,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ## <font color="red"> Rettigheder og forpligtelser i forsikringsretten<sup> Premium </font></sup>
 
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
-```
+
 
 
 
@@ -2945,11 +2943,7 @@ Se fra sager fra praksis:
 
 ### <font color="red">Præmien (betalingen) for forsikringen<sup> Premium </font></sup>
 
-```{r, echo=FALSE, results='asis'}
 
-cat(readLines('npp.html'))
-
-```
 
 Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det f.eks. kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
 
@@ -4333,9 +4327,7 @@ Den kapital, der kan anvendes til at dække solvensmargenen, betegnes basiskapit
 
 ## <font color="red">Pensions- og livsforsikringer<sup> Premium </font></sup>
 
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
-```
+
 
 
 ![](img/pension3.png)
@@ -4991,9 +4983,7 @@ beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 
 
 ## <font color="red">Forsikringsformidling<sup> Premium </font></sup> 
 
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
-```
+
 
 
 Lov 2018-01-22 nr. 41 om forsikringsformidling gennemfører dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
@@ -5050,7 +5040,7 @@ Bkg 2018 455 om god skik for forsikringsdistributører.
 
 ---
 
-## <font color="red">Definitioner<sup> Premium </font></sup>
+### <font color="red">Definitioner<sup> Premium </font></sup>
 
 
 I forsikringsformidlerloven fremgår der følgende definitioner:
@@ -5133,7 +5123,7 @@ For så vidt angår sædvanlig dividende eller afkast, der tilkommer en ejer af 
 
 ---
 
-## <font color="red">Kompetencekrav<sup> Premium </font></sup>
+### <font color="red">Kompetencekrav<sup> Premium </font></sup>
 
 I loven stilles der følgende kompetencekrav på forsikringsformidlingsområdet:
 
@@ -5175,7 +5165,7 @@ Derudover stilles der krav om, at den ansatte skal kunne afdække og identificer
 
 ---
 
-## <font color="red">God skik for forsikringsformidling<sup> Premium </font></sup>
+### <font color="red">God skik for forsikringsformidling<sup> Premium </font></sup>
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal drive virksomhed i overensstemmelse med redelig forretningsskik og god praksis for virksomhedsområdet, jf. lovens § 12.
 
@@ -5190,7 +5180,7 @@ om god skik for forsikringsdistributører, hvorefter, en forsikringsdistributør
 
 ---
 
-## <font color="red">Forsikringsformidlerens aflønningsstruktur<sup> Premium </font></sup>
+### <font color="red">Forsikringsformidlerens aflønningsstruktur<sup> Premium </font></sup>
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal sikre, at formidlerens aflønningsstrukturer ikke strider mod formidlerens forpligtelse til at handle i kundens bedste interesse, herunder god skik-reglerne.
 
@@ -5209,7 +5199,7 @@ Loven indeholder ikke et generelt forbud mod brug af variabel løn eller salgsm�
 
 ---
 
-## <font color="red">Behovsanalysen<sup> Premium </font></sup>
+### <font color="red">Behovsanalysen<sup> Premium </font></sup>
 
 Forsikringsdistributøren skal ifølge  forsikringsformidlingslov på baggrund af oplysninger fra kunden fastlægge kundens krav og behov, inden en forsikringsaftale indgås.
 
