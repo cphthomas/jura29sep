@@ -1,7 +1,7 @@
-# <font color="red">Skadesforsikring<sup> Premium </font></sup>
+# <font color="red">Skades-, pensions- og livsforsikringer<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden. 
@@ -16,6 +16,27 @@ Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
 
 ---
 
+*Kontraheringspligt*
+
+Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller forsikringsselskabets pligt til at tegne en bestemt forsikring.
+
+Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en forsikring.Efter færdselslovens § 105, stk. 1, skal der f.eks. tegnes ansvarsforsikring for motordrevne køretøjer, og efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde.
+
+Det kan også nævnes, at der f.eks. skal tegnes ansvarsforsikring for luftfartøjer, jf. luftfartslovens § 130, stk. 1, ligesom statsautoriserede og registrerede revisorer, ejendomsformidlere og forsikringsmæglere har pligt til at tegne ansvarsforsikring. Se fx. Bekendtgørelse 2015-12-09 nr. 1537
+om garantistillelse og ansvarsforsikring for ejendomsmæglere, ejendomsformidlingsvirksomheder m.v. jf. § 4, stk. 1:
+
+"Enhver ejendomsmægler har pligt til gennem en erklæring fra et forsikringsselskab, jf. dog § 8, at dokumentere, at vedkommende person som ejendomsmægler er dækket af en ansvarsforsikring, og at forsikringsselskabet hæfter direkte over for formueskade påført en forbruger ved enhver form for uagtsom handling eller undladelse, der skyldes ejendomsmægleren eller ejendomsmæglerens personale og for krav omfattet af lovens § 47. Forsikringssummen skal andrage mindst 3 millioner kroner pr. forsikringsår. Det skal fremgå af erklæringen, at forsikringsselskabet hæfter over for den skadelidte tredjemand for en af ejendomsmægleren påtaget selvrisiko".
+
+---
+
+Pligt til at tegne forsikring kan endvidere være pålagt medlemmerne af en forening mv. For eksempel skal advokater efter vedtægterne for Det Danske Advokatsamfund tegne en ansvarsforsikring, og efter retsplejelovens § 143 har en advokat pligt til at være medlem af Advokatsamfundet.
+
+Det kan også i en aftale være bestemt, at en af parterne skal tegne en forsikring, f.eks. at sælgeren af en vare skal tegne forsikring for varen, indtil den når frem til bestemmelsesstedet. 
+
+Nævnes kan også pantebrevsformular A og B vedrørende pantsætning af fast ejendom, hvorefter den pantsatte ejendom skal være behørigt brandforsikret.
+
+---
+
 *Hvad er forskellen på Skadesforsikring vs. Livsforsikring?*
 
 
@@ -23,11 +44,13 @@ Ordet skadeforsikring - dækker over forsikring af skader på ejendele eller per
 
 Det dækker over traditionelle forsikringer, som f.eks.
 
-Bilforsikring
+*Bilforsikring*
 
-Familie- og Indboforsikring
+*Familie- og Indboforsikring*
 
-Husforsikring
+*Husforsikring*
+
+Se uddybdende nedenfor.
 
 Derudover dækker ordet også over sundheds- og ulykkesforsikringer hvor man kan komme til at gøre skade på sig selv eller andre (ansvarsforsikringer).
 
@@ -145,23 +168,25 @@ Klassifikation af risici ved hjælp af forsikringsklasser.
 
 
 
-Skadesforsikring er for eksempel:
+Skadesforsikring er således for eksempel:
 
-Bygningsforsikring, 
+*Bygningsforsikring*, 
 
-Løsøreforsikring, 
+*Løsøreforsikring*, 
 
-Erhvervsansvarsforsikring, 
+*Erhvervsansvarsforsikring*, 
 
-Indboforsikring, 
+*Indboforsikring*, 
 
-Familieansvarsforsikring, 
+*Familieansvarsforsikring*, 
 
-Sygeforsikring, 
+*Sygeforsikring*, 
 
-Personulykkesforsikring og 
+*Personulykkesforsikring*,
 
-Retshjælpsforsikring.
+*Ansvarsforsikring*
+
+*Retshjælpsforsikring*.
 
 ---
 
@@ -2668,7 +2693,9 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 
 
+Forsikringsaftalen, herunder policen og de almindelige forsikringsbetingelser, samt forsikringsaftaleloven regulerer nærmere, hvilke rettigheder og forpligtelser, parterne har under forsikringens løbetid.
 
+---
 
 
 ### <font color="red">Forsikringsselskabets begrundelsespligt<sup> Premium </font></sup> 
@@ -4363,7 +4390,7 @@ En *livrente* er en pension i forsikringsklæder. For med livrenten får man udb
 
 ---
 
-## <font color="red">Opdelingen af det danske pensionssytem<sup> Premium </font></sup>
+### <font color="red">Opdelingen af det danske pensionssytem<sup> Premium </font></sup>
  
 Det danske pensionssystem opdeles i tre dele: 
 
@@ -4398,13 +4425,7 @@ Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få
 
 ### <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup>
 
-![](img/pension2.jpg).
-
-
-
- 
-
-
+![](img/pension2.jpg)
 
 Følgende afdækning af pension og erhvervsevnetab bygger især på Forsikringsankenævnets informative oplysninger, herunder Ankenævnets praksis på området for pension og erhvervsevnetab.  
 
@@ -4430,7 +4451,6 @@ Det betyder, at det er forsikringsselskabet, der afholder ens udgifter til præm
 
 På denne måde kan man bevare hele eller dele af de aftalte dækninger – eksempelvis retten til dødsfaldsdækning eller til pensionsydelser, når man når pensionsalderen.  
  
-
 Det er normalt en betingelse, at ens erhvervsevnetab opstår i forsikringstiden, det vil sige, mens man er omfattet af den pågældende forsikring eller indbetaler til en pensionsordning. 
 
 Ophører man med at indbetale til en pensionsordning, vil ens erhvervsevnetabsforsikring typisk ophøre – eventuelt efter en vis overgangsperiode.  
