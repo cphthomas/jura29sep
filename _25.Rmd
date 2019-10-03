@@ -3605,7 +3605,65 @@ Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende
 
 ---
 
-*Definitioner indenfor skadesforsikring:*
+---
+
+### <font color="red">Forsikringsformidling<sup> Premium </font></sup> 
+
+Lov 2018-01-22 nr. 41 om forsikringsformidling gennemfører dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
+Loven har til formål at gennemføre dele af EP/Rdir 2016/97 om forsikringsdistribution (herefter betegnet forsikringsdistributionsdirektivet (IDD)) i dansk ret. 
+
+Forsikringsdistributionsdirektivet er et minimumsdirektiv og er dermed ikke til hinder for, at medlemslandene kan indføre strengere regler for at beskytte forsikringskunderne yderligere.
+
+Loven skærper derved ansvaret over for ledelserne, bl.a. ved at stille krav til den hvidvaskansvarliges omdømme og adfærd og ved at give Finanstilsynet bedre mulighed for at gribe ind over for ledelsesmedlemmer og hvidvaskansvarlige, der ikke lever op til deres ansvar. 
+
+Loven indebærer desuden, at Finanstilsynet ved særligt grove overtrædelser af hvidvaskreglerne får mulighed for at inddrage en virksomheds tilladelse.
+
+Den nye regulering vil have betydning for alle forsikringsmæglere, -agenter, -underagenter mv., der efter den nye lov om forsikringsformidling skal have tilladelse som enten forsikringsformidler eller registreres som accessorisk forsikringsformidler. 
+
+Disse aktører skal, hvis de er omfattet af de nye regler, søge om nye tilladelser eller registreres på ny i Finanstilsynets register.
+
+---
+
+**Video: Ansøgning som forsikringsformidler & genforsikringsformidler**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/jfiEp2XIE6Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Sådan ansøger du om at blive accessorisk forsikringsformidler**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/m-oGXItShsQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+Loven erstatter den tidligere lov om forsikringsformidling L 2013 1065 og sikrer en øget forbrugerbeskyttelse på området inden for distribution af forsikringer. 
+
+Ved loven om forsikringsformidling sikres forbrugerne den samme beskyttelse, uanset om de køber deres forsikringer direkte fra forsikringsselskabet, fra en agent eller fra en virksomhed, der formidler forsikringer.
+
+Den nye forsikringsformidlingslov medfører, at forsikringsagentvirksomhed vil kræve tilladelse fra Finanstilsynet både for nye og eksisterende virksomheder og personer, der hidtil har udøvet forsikringsagentvirksomhed.
+
+Hertil kommer, at både nye og eksisterende virksomheder og personer, der ønsker at drive virksomhed som (uafhængige) forsikringsformidlere skal have tilladelse.
+
+Loven indebærer således, at flere distributører af forsikringer skal have tilladelse og være underlagt tilsyn af Finanstilsynet, og at alle led i distributionen af en forsikring skal efterleve de samme regler. 
+
+Der vil desuden blive stillet større krav til de enkelte aktører i form af oplysningsforpligtelser, god skik regler, aflønningsregler og kompetencekrav.
+
+
+---
+
+*Administrative forskrifter:*
+
+Bkg 2018 363 om kompetencekrav og krav til godt omdømme for ansatte i forsikringsselskaber, genforsikringsselskaber og ansatte hos en forsikringsformidler og en genforsikringsformidler.
+
+Bkg 2018 481 om forsikringsformidlere, genforsikringsformidlere og accessoriske forsikringsformidleres ansvarsforsikring, garantistillelse og behandling af betroede midler.
+
+Bkg 2018 455 om god skik for forsikringsdistributører.
+
+---
+
+*Definitioner:*
 
 *Forsikringsdistribution:*
 
@@ -4294,7 +4352,7 @@ Den kapital, der kan anvendes til at dække solvensmargenen, betegnes basiskapit
 
 
 
-## <font color="red">Pensionsforsikringer<sup> Premium </font></sup>
+## <font color="red">Pensions- og livsforsikringer<sup> Premium </font></sup>
 
 
 
@@ -4946,8 +5004,9 @@ beregningstekniske antagelser om forrentning, risiko og omkostninger, og at G82 
 ## <font color="red">Forsikringsformidling<sup> Premium </font></sup> 
 
 
-Lov 2018-01-22 nr. 41 om forsikringsformidling har gennemført dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
 
+
+Lov 2018-01-22 nr. 41 om forsikringsformidling gennemfører dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
 Loven har til formål at gennemføre dele af EP/Rdir 2016/97 om forsikringsdistribution (herefter betegnet forsikringsdistributionsdirektivet (IDD)) i dansk ret. 
 
 Forsikringsdistributionsdirektivet er et minimumsdirektiv og er dermed ikke til hinder for, at medlemslandene kan indføre strengere regler for at beskytte forsikringskunderne yderligere.
@@ -5058,7 +5117,7 @@ Forsikringsproduktet knytter sig ikke til det produkt, som banken yder, men knyt
 
 ---
 
-*Aflønning* i forhold til forsikringsformidlingsloven er enten fast eller variabel.
+*Aflønning* i forhold til loven er enten fast eller variabel.
 
 Aflønning er fast, når den endelige værdi af løndelen er kendt på forhånd. 
 
@@ -5130,7 +5189,7 @@ Derudover stilles der krav om, at den ansatte skal kunne afdække og identificer
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal drive virksomhed i overensstemmelse med redelig forretningsskik og god praksis for virksomhedsområdet, jf. lovens § 12.
 
-Bestemmelsen svarer til de bestemmelser om god skik, som allerede findes generelt på det finansielle område, JF. fil § 43. 
+Bestemmelsen svarer til de bestemmelser om god skik, som allerede findes generelt på det finansielle område. 
 
 God skik regler har til formål at sikre, at kunderne kan have tillid til markedet og de virksomheder, der agerer på markedet, og reglerne bidrager endvidere til at sikre et velfungerende marked. 
 
@@ -5144,6 +5203,7 @@ om god skik for forsikringsdistributører, hvorefter, en forsikringsdistributør
 ### <font color="red">Forsikringsformidlerens aflønningsstruktur<sup> Premium </font></sup>
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal sikre, at formidlerens aflønningsstrukturer ikke strider mod formidlerens forpligtelse til at handle i kundens bedste interesse, herunder god skik-reglerne.
+
 
 En forsikringsformidler og en accessorisk forsikringsformidler må ikke indføre aflønningsordninger eller salgsmål, som tilskynder formidleren eller dennes ansatte til at anbefale et bestemt forsikringsprodukt til en kunde, når formidleren udbyder et andet produkt, der dækker kundens behov bedre. 
 
