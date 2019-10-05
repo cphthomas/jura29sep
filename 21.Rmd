@@ -1,7 +1,7 @@
 # Handel med fast ejendom
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/handel.jpg)
@@ -732,6 +732,16 @@ Ejendomsmægleren kan ikke tage et generelt forbehold for eventuelle synlige man
 Det må som udgangspunkt antages at være i strid med god ejendomsmæglerskik, hvis ikke ejendomsmægleren i forbindelse med værdiansættelse foretager en fysisk besigtigelse af ejendommen, jf. kendelse (103-2009) fra Disciplinærnævnet for Ejendomsmæglere afsagt i 2011. 
 
 LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov og mulighed for en byggeteknisk gennemgang i forbindelse med værdiansættelsen, herunder muligheden for at benytte sig af huseftersynsordningen. 
+
+---
+
+**Video: Om huseftersynsordningen**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
 
 ![](img/hus13.jpg)
 
