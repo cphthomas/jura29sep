@@ -203,7 +203,9 @@ Inkassolovens indhold:
 
 Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
-Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. 
+
+Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
 
 Kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
 
@@ -381,9 +383,9 @@ Hvis kreditor ikke har et fundament, skal kreditor:
 
 Have en dom for kravet eller
 
-Udfylde et betalingspåkrav, jf. RPL kap. 44a.
+Udfylde et betalingspåkrav, jf. RPL kap. 44a
 
-Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten.
+Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten
 
 Betalingspåkravet kan kun anvendes hvis:
 
@@ -458,7 +460,7 @@ Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almind
 
 Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
 
-Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstande og værdier: 
+Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
 
 * Boliginventar (Opretholdelse af et beskedent hjem)
 
@@ -664,13 +666,11 @@ Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjo
 
 ### Konkursmassen
 
-Konkursmassen er konkursboets samlede aktiver og passiver.
-
-Konkursboets aktiver (konkursmassen) omfatter:
+Boets aktiver (konkursmassen) omfatter:
 
 *HR:*	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
 
-*U1:*	Aktiver, som kreditor ikke kan få udlæg i, jf. KL § 36. 
+*U1:*	Aktiver, som kreditor ikke kan få udlæg i, KL § 36. 
 
 *U2:*	Skyldners arbejdsindtægter under konkursen. 
 
@@ -695,7 +695,7 @@ De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
  
 ### Konkursordenen
 
-Konkursordenen inddeler alle konkursboets kreditorer i klasser.
+Konkursordenen inddeler alle boets kreditorer i klasser.
 
 Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse.
 

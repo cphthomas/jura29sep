@@ -63,6 +63,8 @@ Der kan være tale om penge eller andre værdier, som stammer fra handel med nar
 
 <img src="img/Hvidvask 11.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+
+
 For at kunne bruge udbyttet fra en strafbar handling skal de personer, som har begået handlingen, sørge for at få udbyttet til at se ud, som om at det er erhvervet på lovlig vis.
 
 Derfor skal udbyttets ulovlige oprindelse skjules.
@@ -317,7 +319,7 @@ Efter lovens § 1, stk. 1, nr. 7, er *forsikringsmæglere* omfattet, når de for
 
 Forsikringsmæglere skal have tilladelse i henhold til § 4 i lov om forsikringsformidling. 
 
-Forsikringsmæglere er kun omfattet af hvidvaskloven, når de formidler livsforsikring eller andre investeringsrelaterede forsikringer, se nærmere kapitel 25.
+Forsikringsmæglere er kun omfattet af hvidvaskloven, når de formidler livsforsikring eller andre investeringsrelaterede forsikringer.
 
 ---
 
@@ -501,8 +503,6 @@ Der kan f.eks. være tale om, at advokaten kontaktes telefonisk af en person, de
 
 Hvidvasklovens § 1, stk. 1, nr. 14, litra a, omfatter advokater af lovens anvendelsesområde, når de yder bistand ved rådgivning om eller udførelse af transaktioner for deres klienter i forbindelse med køb og salg af fast ejendom eller virksomheder, forvaltning af klienters penge, værdipapirer eller andre aktiver, åbning eller forvaltning af bankkonti eller værdipapirdepoter, tilvejebringelse af nødvendig kapital til oprettelse, drift eller ledelse af virksomheder, eller oprettelse, drift eller ledelse af virksomheder, fonde m.v. 
 
----
-
 *Advokaters ejendomsformidlingsvirksomhed* er omfattet af bestemmelsen i det omfang, der udføres forvaltning af klienters aktiver. 
 
 Ejendomsformidlingsvirksomhed, der udøves af en advokat, men ikke i dennes egenskab af at være advokat eller som et led i dennes advokatvirksomhed eller advokatselskab, vil ikke være omfattet af lovens anvendelsesområde, jf. lovens § 1, stk. 1, nr. 17. 
@@ -555,11 +555,11 @@ Advokaters ejendomsformidlingsvirksomhed er omfattet af lovens § 1, stk. 1, nr.
 
 Hvidvaskloven indebærer, at alle typer af opgaver, som ejendomsmæglere udfører for deres kunder i forbindelse med hvervet som ejendomsmægler, er omfattet af loven, herunder når ejendomsmæglere foretager værdiansættelser mod vederlag eller formidler lejemål.
 
-Efter hvidvasklovens § 1, stk. 1, nr. 17, er virksomheder og personer, der i øvrigt erhvervsmæssigt leverer samme ydelser som de i nr. 14-16 nævnte persongrupper, herunder revisorer, som ikke er godkendt i henhold til revisorloven, skatterådgivere og eksterne bogholdere, omfattet af lovens anvendelsesområde.
+Efter hvidvasklovens § 1, stk. 1, nr. 17, er virksomheder og personer, der i øvrigt erhvervsmæssigt leverer samme ydelser som de i nr. 14-16 nævnte persongrupper, herunder *revisorer*, som ikke er godkendt i henhold til revisorloven, skatterådgivere og eksterne bogholdere, omfattet af lovens anvendelsesområde.
 
 Disse virksomheder og personer er derfor omfattet, i det omfang virksomheden eller personen i øvrigt ikke er omfattet af § 1, stk. 1. 
 
-Omfattet er f.eks. revisorer og revisionsvirksomheder, der *ikke* er godkendt i henhold til revisorloven, skatterådgivere, eksterne bogholdere og ejendomsadministratorer, i det omfang de erhvervsmæssigt udøver samme aktivitet som en ejendomsmægler, herunder køb og salg af ejendomme, samt ejendomsformidling, der udøves af en advokat, men ikke i dennes egenskab af advokat eller som et led i dennes advokatvirksomhed eller advokatselskab, jf. oven for bemærkningerne til § 1, stk. 1, nr. 14 og 16. 
+Omfattet er f.eks. *revisorer og revisionsvirksomheder*, der ikke er godkendt i henhold til revisorloven, skatterådgivere, eksterne bogholdere og ejendomsadministratorer, i det omfang de erhvervsmæssigt udøver samme aktivitet som en ejendomsmægler, herunder køb og salg af ejendomme, samt ejendomsformidling, der udøves af en advokat, men ikke i dennes egenskab af advokat eller som et led i dennes advokatvirksomhed eller advokatselskab, jf. oven for bemærkningerne til § 1, stk. 1, nr. 14 og 16. 
 
 ---
 
@@ -865,7 +865,7 @@ Kundebegrebet omfatter retssubjekter af enhver art, dvs. fysiske og juridiske pe
 
 Hvidvaskloven anvender generelt betegnelsen "kundekendskabsprocedurer" i modsætning til den tidligere lov, der talte om "legitimationsprocedurer". 
 
-Hermed markeres, at kundeforhold skal overvåges til stadighed, og at oplysninger skal opdateres, når der indtræder relevante ændringer i kundens forhold.
+Hermed markedes, at kundeforhold skal overvåges til stadighed, og at oplysninger skal opdateres, når der indtræder relevante ændringer i kundens forhold.
 
 En kundes relevante omstændigheder kan f.eks. ændre sig, ved at der fremkommer oplysninger om, at en virksomhedskunde har ændret ejer- og kontrolstruktur. 
 
@@ -3252,9 +3252,7 @@ Virksomheden skal derfor vurdere trusten, og herunder trustens stiftere, forvalt
 
 Er kunden ejet af en *(børsnoteret) virksomhed*, hvis ejerandele handles på et reguleret marked, vil det være kundens daglige ledelse, der skal betragtes som reelle ejere, da der ikke er reelle ejere af den (børsnoterede) virksomhed. 
 
-Ved identifikation af, hvem der er reel ejer i andre typer juridiske personer mv. kan henvises til Erhvervsstyrelsens Vejledning om reelle ejere, som bl.a. vejleder om identifikation af reelle ejere selskaber, fonde, visse foreninger og i virksomheder, som er omfattet af finansiel lovgivning mv. 
-
-Erhvervsstyrelsens Vejledning bilag 2 er et fortolkningsbidrag i forbindelse med udførelse af kundekendskabsprocedurer til, hvem der skal betragtes som reelle ejere i de situationer, hvor der ikke kan identificeres nogle fysiske personer, der ejer eller kontrollerer virksomheden i en sådan grad, at de bliver reelle ejere i hvidvasklovens forstand. 
+Ved identifikation af, hvem der er reel ejer i andre typer juridiske personer mv. kan henvises til Erhvervsstyrelsens Vejledning om reelle ejere, som bl.a. vejleder om identifikation af reelle ejere selskaber, fonde, visse foreninger og i virksomheder, som er omfattet af finansiel lovgivning mv. Erhvervsstyrelsens Vejledning bilag 2 er et fortolkningsbidrag i forbindelse med udførelse af kundekendskabsprocedurer til, hvem der skal betragtes som reelle ejere i de situationer, hvor der ikke kan identificeres nogle fysiske personer, der ejer eller kontrollerer virksomheden i en sådan grad, at de bliver reelle ejere i hvidvasklovens forstand. 
 
 ---
 
@@ -3581,8 +3579,6 @@ Korrespondenten kan eksempelvis, som en del af undersøgelsen af respondenten:
 
 Det er af afgørende betydning, at korrespondenten, ud fra en risikovurdering, ikke alene forlader sig på information levereret af respondenten selv, f.eks. via Wolfsberg Group’s Standard Anti-Money Laundering Questionnaire. 
 
----
-
 Ad: Indhente godkendelse hos den hvidvaskansvarlige:
 
 Den hvidvaskansvarlige skal i sin eventuelle godkendelse af en korrespondentforbindelse foretage en reel vurdering af respondentforbindelsen på baggrund af de oplysninger, som korrespondenten har indhentet om respondenten. Der gælder ingen formkrav til godkendelsen, men virksomheden skal kunne dokumentere den. 
@@ -3760,9 +3756,9 @@ Det er virksomheden, der på baggrund af sin risikovurdering skal vurdere, hvad 
 
 Der er dog nogle lovbestemte situationer, hvor virksomhederne altid skal gennemføre skærpede kundekendskabsprocedurer: 
 
-Hvis kunden har hjemsted i et land, der er opført på Europa-Kommissionens liste over lande, hvor der vurderes at være en øget risiko for hvidvask eller finansiering af terrorisme.
+- hvis kunden har hjemsted i et land, der er opført på Europa-Kommissionens liste over lande, hvor der vurderes at være en øget risiko for hvidvask eller finansiering af terrorisme.
 
-Det kan dog undlades på baggrund af en risikovurdering for en filial eller et majoritetsejet datterselskab af en juridisk person, hvor den juridiske person er etableret i et EU- eller EØS-land og underlagt krav, der følger af Europa-Parlamentets og Rådets direktiv 2015/849/EU af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme, og filialen eller det majoritetsejede datterselskab overholder koncernens politikker og procedurer, jf. § 9, stk. 2. 
+- det kan dog undlades på baggrund af en risikovurdering for en filial eller et majoritetsejet datterselskab af en juridisk person, hvor den juridiske person er etableret i et EU- eller EØS-land og underlagt krav, der følger af Europa-Parlamentets og Rådets direktiv 2015/849/EU af 20. maj 2015 om forebyggende foranstaltninger mod anvendelse af det finansielle system til hvidvask af penge eller finansiering af terrorisme, og filialen eller det majoritetsejede datterselskab overholder koncernens politikker og procedurer, jf. § 9, stk. 2. 
 
 Hvis en virksomhed har kunder, der har hjemsted i et land, der er opført på Europa-Kommissionens liste over lande, hvor der vurderes at være en øget risiko for hvidvask eller finansiering af terrorisme, er det nødvendigt, at virksomheden sikrer, at virksomheden løbende har kendskab til Europa-Kommissionens liste. 
 
@@ -3774,11 +3770,11 @@ Hvis det konkrete kundeforhold omfattes af undtagelsen, fordi det er en filial e
 
 Derudover skal der altid gennemføres skærpede kundekendskabsprocedurer: 
 
-Hvis kunden er en politisk eksponeret person (PEP). 
+- hvis kunden er en politisk eksponeret person (PEP). 
 
 Her kræves bl.a. en godkendelse af forretningsforbindelsen af virksomhedens hvidvaskansvarlige ved indgåelse af forretningsforbindelsen med kunden, se Finanstilsynets vejledning til reglerne om politisk eksponerede personer. 
 
-Ved etablering af en grænseoverskridende korrespondentforbindelse med respondenter fra lande uden for Den Europæiske Union, som Unionen ikke har indgået aftale med på det finansielle område. 
+- ved etablering af en grænseoverskridende korrespondentforbindelse med respondenter fra lande uden for Den Europæiske Union, som Unionen ikke har indgået aftale med på det finansielle område. 
 
 I disse situationer skal virksomheden følge de procedurer, der følger af hvidvasklovens § 18 og § 19. Se Finanstilsynets vejledning til reglerne om politisk eksponerede personer og afsnittet "om korrespondentforbindelser".
 
@@ -3827,11 +3823,11 @@ Virksomheden skal allerede fra indgåelsen af forretningsforbindelsen med kunden
 
 Dette kan f.eks. være:
 
-Hvis kunden ændrer transaktionsmønster, f.eks. ved at foretage langt større transaktioner end sædvanligt eller til geografiske områder, som kunden ikke tidligere har været forbundet med.
+- Hvis kunden ændrer transaktionsmønster, f.eks. ved at foretage langt større transaktioner end sædvanligt eller til geografiske områder, som kunden ikke tidligere har været forbundet med.
 
-Hvis kunden har et usædvanligt mønster eller kundens brug af transaktioner, produkter og/eller tjenesteydelser er væsentlig mere komplekse end andre lignende kunders ”normale” adfærd. 
+- Hvis kunden har et usædvanligt mønster eller kundens brug af transaktioner, produkter og/eller tjenesteydelser er væsentlig mere komplekse end andre lignende kunders ”normale” adfærd. 
 
-Hvis der opstår tvivl om, hvorvidt kundens angivne oplysninger er korrekte, eller hvis virksomheden får kendskab til et påviseligt formål, som ikke er overensstemmende med kundens oplysninger. 
+- Hvis der opstår tvivl om, hvorvidt kundens angivne oplysninger er korrekte, eller hvis virksomheden får kendskab til et påviseligt formål, som ikke er overensstemmende med kundens oplysninger. 
 
 ---
 
@@ -3885,7 +3881,7 @@ at virksomheden alene kontrollerer kundens identitetsoplysninger på baggrund af
 
 at virksomheden gennemfører kundekendskabsprocedurer med henblik på at opdatere kundens identitetsoplysninger sjældnere end for andre kunder, f.eks. sjældnere end for kunder med mellem og høj risiko.
 
-at virksomheden ikke indhenter oplysninger om kundens formål med forretningsforbindelsen, fordi det er givet i selve produkttypen, og fordi produkttypen ikke har høj risiko. 
+- at virksomheden ikke indhenter oplysninger om kundens formål med forretningsforbindelsen, fordi det er givet i selve produkttypen, og fordi produkttypen ikke har høj risiko. 
 
 at virksomheden overvåger kunden i et mere begrænset omfang, end virksomheden f.eks. overvåger kunden med en højere risikoprofil. 
 
@@ -4156,8 +4152,6 @@ Sekretariatet modtager også underretninger fra offentlige myndigheder.
 
 [På Finanstilsynets hjemmeside her findes flere informationer om hvidvask](https://www.finanstilsynet.dk/Tilsyn/Information-om-udvalgte-tilsynsomraader/Hvidvask)
 
----
-
 
 ## <font color="red">Whistleblower-ordning<sup> Premium </font></sup>
 
@@ -4192,7 +4186,7 @@ Anonyme henvendelser til en whistleblowerordning kan svække mulighederne for at
 
 Det er imidlertid vigtigt at sikre, at ansatte, der anvender ordningen, kan være fuldstændig anonyme, idet det kan være svært for en ansat at beslutte at indberette en overtrædelse til virksomheden, hvis det ikke kan ske anonymt. 
 
-En overtrædelse eller en potentiel overtrædelse betyder enhver overtrædelse eller potentiel overtrædelse af virksomhedens eller personens forpligtelser, også selvom denne ikke kan henføres til en enkelt person, men eksempelvis skyldes en grundlæggende systemfejl i virksomheden. 
+En overtrædelse eller en potentiel overtrædelse betyder enhver overtrædelse ellerpotentiel overtrædelse af virksomhedens eller personens forpligtelser, også selvom denne ikke kan henføres til en enkelt person, men eksempelvis skyldes en grundlæggende systemfejl i virksomheden. 
 
 Der vil tillige kunne blive indberettet overtrædelser, der skyldes undladelser. 
 
@@ -4376,8 +4370,6 @@ Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analys
 Finanstilsynet har offentligjort en liste over de danske politisk udsatte personer, men ikke deres pårørende eller samarbejdspartnere:
 
 https://www.finanstilsynet.dk/Tal-og-Fakta/PEP-liste
-
----
 
 
 I Erhvervsministeriet er der mulighed for at abonnere på en service fra en informationsudbyder, der har specialiseret sig i at udarbejde og ajourføre lister over politisk eksponerede personer.
