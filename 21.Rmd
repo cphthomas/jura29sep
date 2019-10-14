@@ -31,8 +31,7 @@ Lovgivning til regulering af køb af fast ejendom:
 
 Aftaleloven, købeloven og markedsføringsloven
 
-Lov om formidling af fast ejendom, jf. Lov nr. 526 af 28. maj 2014 
-	om formidling af fast ejendom m.v. (LOFE)
+Lov om formidling af fast ejendom, jf. Lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. (LOFE)
 	
 Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom, jf. Lovbekendtgørelse nr. 1123 af 22. september 2015 om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. (LFFE)
 
@@ -529,9 +528,9 @@ Ejendomsmægleren skal ikke nødvendigvis basere oplysningerne om forbrugsafhæn
 
 <div class="Keats">
 
-**Formidlingsbekendtgørelsen**
+*Formidlingsbekendtgørelsen*
 
-**Forbrugsafhængige forhold** 
+*Forbrugsafhængige forhold* 
 
 ---
 
@@ -803,7 +802,7 @@ I dansk ret er udgangspunktet, at der ikke gælder en almindelig fortrydelses- o
 
 Der er i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. fastsat en generel fortrydelsesret ved erhvervelse af fast ejendom og ved indgåelse af aftale om opførelse af en bolig, jf. nærmere Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LFFE) kapitel 2 og 3^[Følgende afsnit om fysiske mangler bygger på *Sonny Kristoffersen*: Forbrugerretten II, Den civilretlige forbrugerbeskyttelse, 5. udg. 2016, KarnovGroup, kap. 4 om Forbrugerbeskyttelse ved erhvervelse af fast ejendom.].   
 
-Ifølge lovforarbejderne til loven har bevæggrunden for indførelsen af fortrydelsesretten været, at der i overvejende grad er tale om ikke-sagkyndiges indgåelse af en særdeles vidtrækkende og kompliceret aftale af afgørende betydning for de pågældendes økonomi. E
+Ifølge lovforarbejderne til loven har bevæggrunden for indførelsen af fortrydelsesretten været, at der i overvejende grad er tale om ikke-sagkyndiges indgåelse af en særdeles vidtrækkende og kompliceret aftale af afgørende betydning for de pågældendes økonomi. 
 
 En privat person har således yderst vanskeligt ved, på en begrænset tid, at foretage en fyldestgørende overvejelse af alle en ejendomshandels økonomiske og juridiske konsekvenser.  
 
@@ -1004,7 +1003,13 @@ Et advokatforbehold kan efter omstændighederne være formuleret således, at de
 
 Blot en meddelelse fra den pågældende advokat om, at handlen ikke kan godkendes, vil således efter omstændighederne medføre, at købsaftalen bortfalder i sin helhed.
 
-Et forbehold, der ikke indeholder en sidste frist for meddelelse af godkendelse eller nægtelse heraf, mister sin gyldighed, hvis den pågældende advokat ikke reagerer inden rimelig tid. 
+Et forbehold, der ikke indeholder en sidste frist for meddelelse af godkendelse eller nægtelse heraf, mister sin gyldighed, hvis den pågældende advokat ikke reagerer inden rimelig tid. Efter retspraksis maks. 30 dage.
+
+Se **U 1994.13/1 V**, hvor et advokatforbehold i en slutseddel ikke kunne gøres gældende efter godt en måneds forløb. Sælgeren af en fast ejendom tog i slutsedlen, som han underskrev den 4. eller 6. april, forbehold om sin advokats godkendelse af slutsedlen. Ved skrivelse af 9. maj meddelte advokaten, at han ikke kunne godkende slutsedlen. Da advokatforbeholdet herefter ikke var gjort gældende inden rimelig tid, var sælgeren bundet af aftalen.
+
+Advokaten skal rådgive køberen inden udløbet af advokatforbeholdet, jf. **U 2015.2846/2 H**. 
+Advokat havde tilsidesat god advokatskik og var erstatningsansvarlig over for købere af fast ejendom for udgifter til ulovlige elinstallationer, da han ikke havde rådgivet køberne inden udløbet af fristen for et advokatforbehold i forbindelse med handlen "Højesteret udtalte, at A tilsidesatte sine pligter som advokat ved ikke efter 19. februar at rekvirere sagens dokumenter og tage kontakt til sine klienter for at rådgive dem om købet, herunder om betydningen af tilstandsrapporten og muligheden for at sikre sig mod tab, og at det påhvilede A, der først gennemgik dokumenterne den 7. marts, at gøre dette, således at advokatforbeholdet kunne gøres gældende inden fristens udløb".
+
 
 ---
 
