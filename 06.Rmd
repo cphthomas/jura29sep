@@ -575,15 +575,15 @@ Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er 
 Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med hjem fra et andet land? <a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Prøv forbrug.dks quiz om kopivarer, og bliv klogere her.</a>
 
 
----
+<!-- --- -->
 
-## Quiz
+<!-- ## Quiz -->
 
-<h3><a href="https://quiz.tepedu.dk/jura6" target="_blank">Quiz Forbrugeraftaler   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
+<!-- <h3><a href="https://quiz.tepedu.dk/jura6" target="_blank">Quiz Forbrugeraftaler   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3> -->
 
 
 
----
+
+
+<!-- --- -->
 

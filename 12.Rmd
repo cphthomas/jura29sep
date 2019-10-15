@@ -792,15 +792,15 @@ Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte
 
 ---
 
-## Quiz
+<!-- ## Quiz -->
 
-<h3><a href="https://quiz.tepedu.dk/jura12" target="_blank">Quiz Virksomhedsformer og hæftelser <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
+<!-- <h3><a href="https://quiz.tepedu.dk/jura12" target="_blank">Quiz Virksomhedsformer og hæftelser <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3> -->
 
 
 
----
+
+
+<!-- --- -->
 
 
 

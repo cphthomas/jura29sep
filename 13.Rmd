@@ -2163,13 +2163,13 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 
 ---
 
-## Quiz
+<!-- ## Quiz -->
 
-<h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
+<!-- <h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3> -->
 
 
 
----
+
+
+<!-- --- -->
 
