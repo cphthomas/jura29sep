@@ -1491,7 +1491,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 ---
 
 
-## Quizeer
+## Quizzes
 
 ![](img/quisz.png)
 
@@ -1573,10 +1573,170 @@ Tag forbrug.dks udsalgsquiz, og find ud af, om du har styr på dine rettigheder,
 
 ---
 
-*Quiz om køb*
+<a href="https://www.forbrug.dk/quiz/abonnementer/?rn=43716" target="_blank"> Quiz: Abonnementer</a> 
 
-![](img/kob.jpg)
+---
+ 
+<a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Quiz: Betalingskort</a> 
 
-<h3><a href="https://quiz.tepedu.dk/jurakoeb" target="_blank">Quiz Køb</a></h3>
+---
+
+
+
+<a href="https://www.forbrug.dk/quiz/biler/?rn=43716" target="_blank">Quiz: Biler</a> 
+
+---
+
+
+
+<a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz: Boligsalg</a> 
+
+---
+
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/blaasygesikring/?rn=43716" target="_blank">Quiz: Det blå EU-sygesikringskort</a> 
+
+---
+
+
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Quiz: Elektronik</a> 
+
+---
+
+
+
+<a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Quiz: Forbrugerrettigheder</a> 
+
+---
+
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Quiz: Forbrugslån</a> 
+
+---
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/klagemuligheder/?rn=43716" target="_blank">Quiz: Klagemuligheder</a> 
+
+--- 
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Quiz: Kopivarer</a> 
+
+--- 
+ 
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/markedsfoeringslov/?rn=43716" target="_blank">Quiz: Markedsføringsloven</a> 
+
+--- 
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/priser-og-moms-quiz/?rn=43716" target="_blank">Quiz: Moms</a> 
+
+--- 
+
+
+
+
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Quiz: Nethandel</a> 
+
+--- 
+
+
+
+
+ 
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Quiz: Nethandel og rejser</a> 
+
+--- 
+
+
+
+<a href="https://www.forbrug.dk/quiz/proevepakke/?rn=43716" target="_blank">Quiz: Prøvepakker</a> 
+
+--- 
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Quiz: Realkreditlån</a> 
+
+--- 
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/skiferie/?rn=43716" target="_blank">Quiz: Skiferie</a> 
+
+---  
+
+
+
+ 
+
+
+
+<a href="https://www.forbrug.dk/quiz/snyd-i-din-mailboks/?rn=43716" target="_blank">Quiz: Snyd i din mailbox</a> 
+
+---
+
+
+
+ 
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Quiz: Spam og reklamer</a> 
+
+---
+
+
+
+
+
+<a href="https://www.forbrug.dk/quiz/toej-og-sko/?rn=43716" target="_blank">Quiz: Tøj og sko</a> 
 
 ---

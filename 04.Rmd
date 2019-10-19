@@ -1594,11 +1594,7 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 ![](img/aftale2.jpg)
 
-<h3><a href="https://quiz.tepedu.dk/juraaftale2" target="_blank">Quiz Aftaleindgåelse   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-<h3><a href="https://quiz.tepedu.dk/juraaftale" target="_blank">Quiz Aftalers fortolkning og udfyldning   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-<h3><a href="https://quiz.tepedu.dk/jura4" target="_blank">Quiz Jura aftaleret   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+<h3><a href="https://quiz.tepedu.dk/jura4" target="_blank">Quiz aftaleret   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 
