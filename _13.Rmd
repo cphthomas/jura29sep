@@ -1,7 +1,7 @@
 # Insolvensret
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 
@@ -203,9 +203,7 @@ Inkassolovens indhold:
 
 Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
-Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. 
-
-Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
 
 Kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
 
@@ -377,23 +375,242 @@ Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank Ne
 
 ---
 
+### Fogedretten
+
+Fogedretten er afdeling under byretten ligesom skifteretten.
+
+*Hvad sker der på et møde i fogedretten?*
+
+Man kan blive indkaldt til møde i fogedretten, hvis man skylder penge i henhold til for eksempel et frivilligt forlig eller en dom og ikke betaler til tiden.
+
+Fogedretten behandler således sager om tvangsgennemførelse af krav. Det kan for eksempel være krav om betaling af penge eller krav om at få en ting udleveret.
+
+En kreditor kan få fogedrettens hjælp til at inddrive kravet.
+
+Hvis den der skylder penge ikke kan betale, kan kreditor bede fogedretten om at foretage udlæg i skyldners ejendele.
+
+Har en sælger solgt en ting på afbetaling, for eksempel en bil, og betaler køber ikke afdragene til tiden, kan sælger få fogedrettens hjælp til at få tingen tilbage.
+
+Hvis en lejer ikke betaler sin husleje til tiden, kan udlejeren få fogedretten til at sætte lejeren ud.
+Fogedretten holder også tvangsauktioner over fast ejendom.
+ 
+Selv om en rettighed ikke er klart fastslået, kan fogedretten i visse tilfælde hjælpe med en foreløbig sikring af rettigheden.
+
+---
+
+*Fogedforretninger:* 
+
+Når fogedretten hjælper med at få gennemført et krav, kaldes det en fogedforretning.
+Udlæg, arrest, Bistand til opretholdelse af forbud og påbud, bevissikring, inddrivelse, tilbagetagelse og udsættelse af lejemål er eksempler på forskellige typer af fogedforretninger. 
+
+---
+
+*Umiddelbare fogedforretninger:* 
+
+Umiddelbare fogedforretninger er en type fogedsager, der ikke handler om betaling af pengebeløb. 
+
+En umiddelbar fogedforretning kan for eksempel handle om, at ejeren af en ting ønsker fogedens bistand til at få tingen udleveret fra en anden. 
+
+En umiddelbar fogedforretning kan også handle om, at ejeren af en ejendom ønsker fogedens bistand til at få en lejer sat ud af lejemålet.
+
+---
+
+*Mødet i fogedretten*
+
+Hvis man er skyldner, skal man medbringe alle oplysninger om ens egne og ens husstands økonomiske forhold til mødet, for eksempel registreringsattest til bil, matrikelnummer på fast ejendom og oplysninger om kontonumre på bankkonti.
+
+Man har pligt til at svare på de spørgsmål, der bliver stillet på mødet, og til at tale sandt. Man kan straffes, hvis man taler usandt i fogedretten.
+
+På mødet vil ens muligheder for at betale blive gennemgået. 
+
+Hvis man ikke kan betale hele gælden straks, kan man normalt indgå en afdragsordning. 
+
+Afdragsordningen kan dog ikke strække sig over længere tid end 10 måneder, medmindre andet bliver aftalt. 
+
+I de tilfælde skal man typisk stille ens eventuelle aktiver, for eksempel hus eller bil, til sikkerhed for kreditors krav, indtil det er betalt. Det kaldes udlæg, se nedenfor.
+
+Betaler man de aftalte afdrag til tiden, beholder man rådigheden over tingene. 
+
+Hvis ikke kan man risikere, at kreditor anmoder om tvangsauktion over de udlagte genstande, som man så mister.
+
+Kan man hverken betale straks eller afdrage, og ejer man intet af værdi, kan man afgive en insolvenserklæring til fogeden. 
+
+Det betyder, at man normalt først kan blive indkaldt til fogedretten igen efter 6 måneder.
+
+Hvis man mener, at man ikke skylder pengene, eller vil man protestere over andre forhold i sagen, kan man gøre det på mødet. 
+
+Hvis fogeden ikke kan tage stilling til ens protest straks, kan fogeden vælge at udsætte sagen til et nyt møde, hvor der er afsat mere tid til at behandle sagen.
+
+Hvis man er utilfreds med fogedrettens afgørelse, kan man normalt kære (klage) den til landsretten.
+
+---
+
+*Mødepligt i fogedsager:*
+
+Man har pligt til at møde i fogedretten. Men man kan – med mindre fogedretten har bestemt andet – lade en anden møde for sig, hvis man udfylder den fuldmagt, man har modtaget med indkaldelsen til mødet i fogedretten.
+ 
+Den person, som møder for én, skal kende til sagen og til ens økonomiske forhold. 
+
+Gør personen ikke det, kan fogedretten stille krav om, at man selv møder personligt.
+
+Hvis man bliver syg, har man ikke pligt til at møde. 
+
+Fogedretten kan stille krav om, at man dokumenterer sin sygdom med en lægeattest. 
+
+Man skal selv medbringe denne blanket hos ens egen læge. Man skal selv betale for attesten. Man kan ikke udeblive, fordi man skal på arbejde.
+
+Møder man ikke, kan man risikere, at politiet afhenter én uden yderligere varsel. Man kan også risikere, at fogeden samme dag eller senere møder op på ens bopæl.
+
+---
+
+*Indgivelse af anmodning:* 
+
+*Hvor skal man sende anmodning hen?*
+
+I fogedretten kan man få hjælp til at få inddrevet et krav, som skyldner har anerkendt ved f.eks. at underskrive et gældsbrev.
+
+Sagen skal normalt sendes til fogedretten i den retskreds, hvor skyldneren bor, hvor der er pant for fordringen, hvorfra skyldner driver virksomhed, eller hvor den genstand, sagen drejer sig om, befinder sig.
+
+Fogedretten behandler også betalingspåkrav. Ønsker man at indgive et betalingspåkrav, gælder samme regler som for civile sager. 
+
+Et betalingspåkrav skal derfor indgives til fogedretten i den retskreds, hvor skyldneren bor.
+
+---
+
+*Hvornår kan man sende sin anmodning?*
+
+Retsplejeloven fastsætter frister for, hvornår man kan få fogedrettens hjælp til at få gennemtvunget en afgørelse eller få inddrevet et krav.
+
+Domme kan først gennemtvinges, når fuldbyrdelsesfristen er udløbet, og kun hvis modparten ikke forinden har anket afgørelsen. 
+
+Fuldbyrdelsesfristen er 14 dage medmindre andet er bestemt i dommen.
+
+Retsforlig og gældsbreve kan først inddrives eller gennemtvinges, når der er gået 14 dage fra den dag, man kunne kræve beløbet/ydelsen betalt, medmindre andet er bestemt i dokumentet.
+
+---
+
+*Hvad sker der, hvis sagen ikke er indgivet det rette sted?*
+
+Hvis en sag bliver sendt til en forkert fogedret, vil retten så vidt muligt videresende sagen til den rigtige.
+
+Foreløbig sikring af rettigheder:
+
+*Arrest:*
+
+Hvis man mener, at man har krav på penge fra en anden person, kan man i særlige tilfælde sikre sit krav ved at få foretaget arrest i personens formue.
+
+Der kan for eksempel være tale om ulovlig brug af et patent eller om udgivelse af en bog, der indeholder fortrolige oplysninger.
+
+Man har mulighed for at anmode fogedretten om at foretage arrest for krav, som man ikke kan få foretaget udlæg for.
+
+Man skal som hovedregel sende sin anmodning til fogedretten i den retskreds, hvor den person eller virksomhed arresten skal rettes imod, har adresse.
+
+Arrest kan kun foretages,
+
+•	hvis det bliver sandsynliggjort, at der er et krav, og
+
+•	hvis det må antages, at muligheden for senere at få dækning for kravet bliver væsentligt forringet, hvis ikke der foretages arrest.
+
+•	Når der er foretaget arrest i en genstand, må ejeren ikke sælge den.
+
+Hvis fogedretten foretager arrest, skal den, der har anmodet om arresten, anlægge sag ved civilretten inden 1 uge.
+
+Man kan klage til landsretten over fogedrettens afgørelse.
+
+---
+
+*Bevissikring:*
+
+Hvis man har mistanke om, at en anden person foretager handlinger, der krænker ens immaterielle rettigheder, for eksempel ved ulovlig musik- eller softwarekopiering, kan man anmode fogedretten om at foretage en bevissikringsundersøgelse hos den pågældende person.
+
+For at der kan foretages en bevissikringsundersøgelse, skal det sandsynliggøres, at der er foretaget krænkelser af en immateriel rettighed, og at krænkelserne er sket i erhvervsmæssigt øjemed eller har haft et betydeligt omfang.
+
+Bevissikringsundersøgelsen bliver som regel foretaget ved, at fogeden tager ud til det sted, hvor de påståede krænkelser har fundet sted. 
+
+Her foretager fogeden en undersøgelse af stedet. 
+
+Hvis fogeden finder genstande, der tyder på, at der er foregået krænkelser, kan fogedretten bestemme, at disse genstande skal beslaglægges.
+
+For at beviserne ikke bliver skaffet af vejen, kan fogeden bestemme, at bevissikringsundersøgelsen skal foretages uden på forhånd at underrette den person, som påstås at have foretaget krænkelserne.
+
+Den, der anmoder om en bevissikring, skal anlægge sag ved civilretten inden 4 uger efter, at fogedretten har afsluttet undersøgelsen.
+
+Fogedrettens afgørelse om bevissikring kan kæres til landsretten. 
+
+Landsretten kan dog ikke tage stilling til de spørgsmål, som skal behandles under den civile sag.
+
+--
+
+*Udlæg:*
+
+Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene.
+
+I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. 
+
+Hvis man ikke kan betale, kan fogedretten foretage udlæg i et eller flere af ens aktiver. 
+
+Det kan for eksempel være ens faste ejendom eller ens bil. 
+
+Udlæg betyder, at kreditor kan forlange, at det aktiv, der er foretaget udlæg i, sælges på auktion, så kreditor kan få sine penge.
+
+Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andre ting af beskeden værdi, som er nødvendige for familiens erhverv eller uddannelse, se nærmere nedenfor for en gennemgang af *udlæg*.
+
+---
+
+*Inddrivelse af gæld til det offentlige:* 
+
+Gæld til det offentlige inddrives af Skat/Inddrivelsescentret. 
+
+Hvis skyldner protesterer over afgørelsen om udlæg, bliver sagen sendt til fogedretten.
+
+Fogedretten indkalder herefter til et møde, hvor fogedretten tager stilling til indsigelsen.
+
+---
+
+*Tilbagetagelsessager:*
+
+Har en sælger solgt en ting på afbetaling, for eksempel en bil, og betaler køber ikke afdragene til tiden, kan sælger få fogedrettens hjælp til at få tingen tilbage.
+
+Bistand til opretholdelse af forbud og påbud:  
+ 
+Hvis en person eller virksomhed overtræder et forbud eller påbud, som er meddelt af civilretten, kan man anmode fogedretten om hjælp til at opretholde forbuddet eller påbuddet.
+
+Fogedretten kan eksempelvis hindre, at et forbud bliver overtrådt, sikre at et påbud bliver efterkommet eller tilintetgøre, hvad der er foretaget i strid med forbuddet eller påbuddet. 
+
+Fogedretten kan også under visse betingelser beslagægge genstande, som anvendes eller har været anvendt ved overtrædelse af forbuddet eller påbuddet.
+
+Man skal som hovedregel sende ens anmodning om bistand eller beslaglæggelse til fogedretten i den retskreds, hvor ens modpart har adresse eller til fogedretten ved den byret, der har meddelt forbuddet eller påbuddet.
+
+Hvis man vil anmode om beslaglæggelse, og der allerede er en sag i gang om meddelelse af midlertidigt forbud og påbud ved civilretten eller Sø- og Handelsretten, skal man sende anmodningen til denne ret, som samtidig træffer afgørelse om beslaglæggelse. 
+
+Retten kan dog henvise spørgsmålet om beslaglæggelse til fogedretten.
+
+Hvis man er uenig i fogedrettens afgørelse om bistand, herunder beslaglæggelse, kan man kære den til landsretten. 
+
+Det vil sige, at landsretten efterfølgende behandler sagen og træffer en ny afgørelse.
+
+
+---
+
 ### Betalingspåkrav
 
 Hvis kreditor ikke har et fundament, skal kreditor:
 
 Have en dom for kravet eller
 
-Udfylde et betalingspåkrav, jf. RPL kap. 44a
+Udfylde et betalingspåkrav, jf. RPL kap. 44a.
 
-Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten
+Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten.
 
 Betalingspåkravet kan kun anvendes hvis:
 
-  +	Kreditor har et pengekrav på højst 100.000 kr.
-  +	Kravet er ubetinget og ubestridt af skyldner
-  +	Skyldner har fået et ”inkassobrev”
++	Kreditor har et pengekrav på højst 100.000 kr.
++	Kravet er ubetinget og ubestridt af skyldner
++	Skyldner har fået et ”inkassobrev”
   
 Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
+
+---
  
 
 ### Udlæg
@@ -460,7 +677,7 @@ Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almind
 
 Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
 
-Spørgsmål er i et hvilket omfan,g der kan foretages udlæg i følgende genstande og værdier: 
+Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstande og værdier: 
 
 * Boliginventar (Opretholdelse af et beskedent hjem)
 
@@ -666,11 +883,13 @@ Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjo
 
 ### Konkursmassen
 
-Boets aktiver (konkursmassen) omfatter:
+Konkursmassen er konkursboets samlede aktiver og passiver.
+
+Konkursboets aktiver (konkursmassen) omfatter:
 
 *HR:*	Alt hvad skyldner ejer ved konkursdekrets afsigelse og under konkursen tilfalder ham, jf. KL § 32
 
-*U1:*	Aktiver, som kreditor ikke kan få udlæg i, KL § 36. 
+*U1:*	Aktiver, som kreditor ikke kan få udlæg i, jf. KL § 36. 
 
 *U2:*	Skyldners arbejdsindtægter under konkursen. 
 
@@ -695,7 +914,7 @@ De vigtigste niveauer i konkursordenen er i rækkefølge Konkurslovens kap. 10:
  
 ### Konkursordenen
 
-Konkursordenen inddeler alle boets kreditorer i klasser.
+Konkursordenen inddeler alle konkursboets kreditorer i klasser.
 
 Hver konkursklasse bliver fyldestgjort fuldt ud, før der udloddes til næste klasse.
 
@@ -1944,5 +2163,13 @@ Værdien af vognen kan derfor i det omfang den i øvrigt er ubehæftet, tjene ti
 
 ---
 
+<!-- ## Quiz -->
 
+<!-- <h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3> -->
+
+
+
+
+
+<!-- --- -->
 
