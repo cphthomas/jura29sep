@@ -49,7 +49,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ## Grundloven om Danmarks forfatning
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet. 
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**.
 
 EU-retten står over dansk ret, sådan at en dansk lov kan være ulovlig, nemlig, hvis den enten strider mod EU-retten eller mod grundloven.
 
@@ -425,7 +425,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævelsen af Mette Frderiksen som kongelig undersøger efter folketingsvalget i  2019.
+Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i  2019.
 
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. 
 
@@ -615,7 +615,9 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 
 
-Domstolene er den dømmende magt i Danmark. De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
+Domstolene er den dømmende magt i Danmark. 
+
+De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
 
 Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. 
 
@@ -865,6 +867,8 @@ Byretterne kan i en række tilfælde henvise en civil sag til behandling ved lan
 
 Hvis der ikke er lavet en værnetingsaftale mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted) 
 
+Følger også af romerretten: "actor sequitur forum rei";	sagsøgeren skal anlægge sagen ved sagsøgtes værneting.
+
 Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
 
 ---
@@ -938,9 +942,19 @@ text_tbl%>%
 
 *Den frie bevisbedømmelse*: Retten har frihed til på objektivt grundlag at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
 
+*"de minimis non curat prætor"*	Dommeren bekymrer sig ikke om uvæsentlige forhold.
+
 ---
 
 *Bevisbyrde*: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
+
+Ved domstolene gælder *"forhandlingsmaksimen"* eller forhandlingsprincippet.
+
+Retten skal afgøre sagen på grundlag af parternes påstande og de oplysninger, som de tilvejebringer - det modsatte er 
+
+*"officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariateterne som skal oplyse sagen. 
+
+
 
 
 ---
@@ -1087,6 +1101,12 @@ Retsmægling er en frivillig måde at løse konflikter på, hvor en mægler i fo
 Mægleren kan ikke træffe afgørelse i sagen.
 
 Retsmægleren er en dommer, en domstolsjurist eller en advokat, som har gennemgået en særlig uddannelse i retsmægling. 
+
+---
+
+En "advokat" er en person, der i mindst 3 år efter bestået juridisk embedseksamen (cand. jur./jurist) har været i praktisk juridisk virksomhed, og som herefter af justitsministeren er blevet beskikket som advokat. Advokatfuldmægtig	er en jurist/cand. jur., som er under uddannelse til advokat på et advokatkontor,
+
+---
 
 Mægleren bliver udpeget af retten og skal være upartisk.
 

@@ -7,6 +7,7 @@ cat(readLines('np.html'))
 ![](img/aftale.jpg)
 
 
+Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -25,7 +26,7 @@ cat(readLines('np.html'))
 
 
 
-• *Opfordring contra tilbud*, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
+• *Opfordring kontra tilbud*, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker
   
 • *Aftaleindgåelse*, aftalelovens § 2-7 og § 40
 
@@ -108,7 +109,7 @@ U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
 
 U3: "En aftale bliver også ugyldig, hvis den strider mod "lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
 
-Fx et løfte om at ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fatbøder eller, at retssystemet skulle håndhæve mangler i forbindelse med udførelsen af sort arbejde. 
+Fx et løfte om at ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fartbøder eller, at retssystemet skulle håndhæve mangler i forbindelse med udførelsen af sort arbejde. 
 
 Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. 
 
@@ -138,6 +139,8 @@ De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om a
 Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
 
 Kontrakten er skriftlig, og den kan håndhæves i retssystemet. 
+
+Latinsk udtryk i en aftale: "clausula rebus sic stantibus": klausul om, at aftalen kun er gældende, hvis forholdene ikke ændrer sig.
 
 ---
 
@@ -535,6 +538,7 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 ### Accept - forsinket
 
+Forsinket accept,	anses i aftaleretten som et nyt tilbud fra acceptanten, jf. aftalelovens § 4, stk. 1.
 
 Accepten kommer for sent frem – fristen er sprunget - Aftalelovens § 4:
 
@@ -624,7 +628,7 @@ Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal s�
 
 ---
 
-**U 1989.561 H:** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen.
+**U 1989.561 H:** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangsauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen.
 
 ---
 
@@ -769,7 +773,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
 *"Tilblivelsesmangler"* – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde)
 
-*"Habilitetsmangler"* – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens.
+*"Habilitetsmangler"* – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 *"Indholdsmangler"* – indholdet er i strid med loven, moral, almindelig hæderlighed mv.
 
@@ -1003,6 +1007,12 @@ Gældsbrevslovens § 17:
 
 Ved ikke-voldelig kompulsiv tvang fx afpresning, er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til hans kundskab, jf. aftalelovens § 29. Denne bestemmelse omhandler en såkaldt svag ugyldighedsgrund, som kan fortabes over for en godtroende erklæringsmodtager, se nærmere nedenfor.
 
+---
+
+Afpresning	i straffeloven er fremsættelse af trusler mod en anden for derved at opnå en uberettiget vinding, jf. straffelovens § 281.
+
+Sager om afpresning kan efter omstændighederne have betydelig grovhed og nærme sig røveriforhold. I nyere tid er der således set sager, hvor rockere og 2. generationsindvandrerbander med gangsterlignende metoder i form af trusler med tæskehold o.l. har tvunget andre til at betale »dummebøder« ofte til betydelige beløb. Som eksempler fra trykt praksis på andre grove afpresningsforhold kan nævnes **U 1975 1117** (telefonisk trussel om at ødelægge forretning med bombe, sammen med en anden skriftligt truet på livet - i første tilfælde krævet 60.000 kr., i sidste tilfælde 800.000 kr. - hver fængsel i 1 år 3 mdr.), **U 1978 216** (truet med at bringe 4 bomber til sprængning på skibe, medmindre der betaltes 300.000 - fængsel i 2 år, jf. § 286).
+
 
 ---
 
@@ -1015,7 +1025,7 @@ Ved ikke-voldelig kompulsiv tvang fx afpresning, er retshandelen derimod gyldig,
 
 Personer under 18 år:
 
-Det er hovedregken i dansk ret, at umyndige ikke kan indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro, jf. værgemålslovens §§ 44 og 45.
+Det er hovedregen i dansk ret, at umyndige ikke kan indgå retshandler eller råde over deres formue, fx købe på kredit, sælge sine ting, pantsætte sine ting – aftale vil være ugyldig, uanset om løftemodtager var i god tro, jf. værgemålslovens §§ 44 og 45.
 
 ---
 
@@ -1325,9 +1335,13 @@ Reglen i aftalelovens § 32, stk. 1, omfatter kun tilfælde, hvor uoverensstemme
 
 *Fejlskrift* er fx en mail, der får et andet indhold end tilsigtet fra den der afgiver viljeserklæringen, dvs. den der sender mailen. 
 
+En *"erklæringsvildfarelse"* er en ubevidst uoverensstemmelse mellem vilje og erklæring, fx ved en fejlskift. Kaldes også *"uægte vildfarelse"*.
+
 Løftet i mailen er ikke bindende for løftegiver, hvis løftemodtager indså eller burde have indset, at der var tale om en fejl, idet løftemodtager så ville være i ond tro.
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
+
+
 
 ---
 
@@ -1356,7 +1370,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
 
 ### God og ond tro
 
-*God tro* er:
+*God tro* (på latin; "bona fide")	god tro er:
 
 + Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
       

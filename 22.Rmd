@@ -12,7 +12,13 @@ cat(readLines('npp.html'))
 *Lov om finansiel virksomhed § 43*
 
 
-Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: "Introduktion til forsikringsreglerne", 2019, Hans Reitzels Forslag.]. 
+Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse 2019-09-06 nr. 937 om finansiel virksomhed.] (FIL), så skal finansiel virksomhed drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet^[Følgende afsnit om god skik for finansielle virksomheder bygger på *Sonny Kristoffersen*: "Introduktion til forsikringsreglerne", 2019, Hans Reitzels Forslag.]. 
+
+---
+
+**Lov om finansiel virksomhed**, se nærmere lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 ![](img/finans.jpg)
 
@@ -97,7 +103,7 @@ Disse spørgsmål afgøres af de private finansielle ankenævn, og i den sidste 
 
 
 
-Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.]   
+Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.] Se bekendtgørelsen i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**  
 
 ---
 
@@ -572,7 +578,7 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 
 
-Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) 
+Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) Se bekendtgørelsen i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -1043,7 +1049,7 @@ Selskabet har på baggrund af sagen fået påbud om at informere og rådgive de 
 
 Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom. 
 
-Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen). 
+Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen), se nærmere lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 Den finansielle virksomhed er omfattet af boligkreditbekendtgørelsens regler, hvis den finansielle virksomhed yder lån til en forbruger mod pant i fast ejendom og andelsbolig. 
 
@@ -1163,7 +1169,7 @@ En boligkreditgiver må som udgangspunkt kun tilbyde boligkreditaftaler med pant
 
 ---
 
-### <font color="red">Afgørelse fra Finanstilsynet om boligkredit<sup> Premium </font></sup>
+### <font color="red">Afgørelse om boligkredit<sup> Premium </font></sup>
 
 
 Se Finanstilsynets afgørelse om påtale for manglende overholde af regler om kombinationssalg i dagældende boligkreditbekendtgørelsens § 24, stk. 2 (nu § 29, stk. 2):  
@@ -1199,7 +1205,26 @@ Det er Finanstilsynets vurdering, at Jyske Bank ved i perioden fra den 9. maj 20
 
 På baggrund af dette påtaler Finanstilsynet, at Jyske Bank har handlet i strid med § 24, stk. 2, i bekendtgørelse om god skik for boligkredit ved i perioden fra den 9. maj 2016 til den 7. november 2016 at have stillet krav om, at kunden etablerede et helkundeforhold med banken som betingelse for at yde et prioritetslån.
 
-Finanstilsynet har vurderet, at Jyske Bank efter den 7. november 2016 har tilrettet sine it-systemer og forretningsgange således, at Jyske Bankboliglån tilbydes til såvel helkunder som delkunder, og at ydelsen af lånet derfor ikke længere betinges af et helkundeforhold i banken”.    
+Finanstilsynet har vurderet, at Jyske Bank efter den 7. november 2016 har tilrettet sine it-systemer og forretningsgange således, at Jyske Bankboliglån tilbydes til såvel helkunder som delkunder, og at ydelsen af lånet derfor ikke længere betinges af et helkundeforhold i banken”.
+
+---
+
+### <font color="red">Afgørelse om erstatningskrav over manglende rådgivning ved realkreditbelåning<sup> Premium </font></sup>
+
+Det Finansielle Ankeknævn behandler klagesager om erstatningskrav over manglende rådgivning ved fx realkreditbelåning:
+
+**Sagsnummer:	182/2018**: Erstatningskrav begrundet i mangelfuld rådgivning om realkreditbelåning af ideelle anparter af fast ejendom:
+"Klagerne ønskede at foretage en tilbygning til deres ejendom, at opdele ejendommen i to dele og frasælge den oprindelig ejendom. De havde i den forbindelse kontakt til kommunen, som ifølge mail af 13. februar 2017 meddelte blandt andet, at der formelt set kun ville være én bolig på ejendommen. 
+Ifølge parterne blev en del af kommunens mail af 13. februar 2017 oplæst for rådgivere på et møde den 20. februar 2017. Banken har bestridt at være gjort bekendt med, at kommunens forhåndstilsagn indebar, at ejendommen fortsat ville have status af enfamiliehus. 
+Banken har ikke udarbejdet referat af dette møde. Som anført i Finans Danmarks responsum af 22. februar 2019 er det en betingelse for realkreditbelåning af ideelle anparter, at ejendommen har status i BBR som et tofamiliehus.
+Ankenævnet finder, at det er omfattet af bankens rådgivningsforpligtelse i en situation som den foreliggende at rådgive kunder om dette krav. Det bemærkes herved, at banken i forbindelse med tidligere låneformidling var bekendt med ejendommens status som enfamiliehus.
+Det er efter det oplyste ikke godtgjort, at banken har rådgivet klagerne om denne forudsætning for realkreditbelåning. Banken er derfor erstatningsansvarlig for det påregnelige tab, der er en følge af bankens tilsidesættelse af denne rådgivningsforpligtelse. Banken er således ikke forpligtet til at erstatte klagernes eventuelle værditab, idet dette eventuelle tab ikke skyldes bankens rådgivning, men at kommunen på grund af offentlige regler ikke kunne godkende ændring af ejendommens status til tofamilieejendom.
+Banken har bestridt klagernes tabsopgørelse og har forbeholdt sig at kommentere yderligere på de enkelte poster i klagernes tabsopgørelse, hvis Ankenævnet måtte nå frem til, at banken har handlet ansvarspådragende. Ankenævnet har derfor ikke taget stilling til erstatningsbeløbets størrelse.
+Klagerne henvises til at indgive en ny klage til Ankenævnet vedrørende erstatningsopgørelsen, hvis der ikke kan opnås enighed mellem parterne herom.
+Ankenævnets afgørelse:
+Danske Bank skal inden 30 dage anerkende at være erstatningsansvarlig over for klagerne for det påregnelige tab som følge af, at de i 2017 igangsatte det omhandlede projekt på deres ejendom i stedet for at sælge ejendommen, som den var.
+Klagerne får klagegebyret tilbage".
+
 
 
 ---

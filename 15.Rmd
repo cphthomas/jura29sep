@@ -15,13 +15,11 @@ cat(readLines('np.html'))
 
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:*
 
- 
-
 *Kautionsformer især sondringen mellem simpel og selvskyldnerkaution*
 
 *Sondring mellem privat- og erhvervskaution*
 
-*Oplysning til kautionisterne i lov om finansiel virksomhed (LFV) § 47 og 48 i forbindelse med hoveddebitors misligholdelse af betaling*
+*Oplysning til kautionisterne i lov om finansiel virksomhed (FIL) § 47 og 48 i forbindelse med hoveddebitors misligholdelse af betaling*
   
 *Kautionisternes hæftelse og indbyrdes regres*
 
@@ -37,7 +35,9 @@ cat(readLines('np.html'))
 
 Ordet *kaution* kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
 
-Kaution er en sikkerhedsstillelse for et gældsforhold.
+Kaution er således en sikkerhedsstillelse for en andens gældsforhold.
+
+Begrebet *"hovedmanden"*	anvendes ved kaution om den person, der er kautioneret for, dvs. debitor.
 
 ---
 
@@ -168,15 +168,15 @@ Aftalelovens regler gælder også for kautionsaftaler, fx:
 
 +	Forudsætningslæren.
 
-+	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36.
++	Generalklausulen om tilsidesættelse af urimelige aftaler i aftalelovens §§ 38c, jf. 36, se nærmere gennemgangen af disse lovregler i ***afsnit 4.4.*** **https://jura.tepedu.dk/aftaleret.html#urimelige-aftaler.**
 
 ---
   
-Kaution er også reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse nr. 1140 af 26. september 2017 om finansiel virksomhed (forkortet; FIL), jf. her §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor et pengeinstitut. 
+Kaution er ligeledes reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse 2019-09-06 nr. 937 om finansiel virksomhed (forkortet; FIL), jf. her §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor et pengeinstitut, se lov om finansiel virksomhed (FIL) i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
 
 Hvis der ikke er tale om kaution over for et pengeinstitut, så anvendes aftalelovens regler for en nærmere vurdering om kautionsforpligtelsen er ugyldig.
 
-Det er vigtigt at skelne mellem erhvervskaution (§ 47) og privat kaution (§ 48).
+Det er vigtigt at skelne mellem "erhvervskaution" (FIL § 47) og "privat kaution" (FIL § 48).
 
 ---
 
@@ -231,6 +231,16 @@ Efter en samlet vurdering, hvori indgår, at der er tale om kaution for familiem
 
 ---
 
+**Studenteropgave:**
+
+**Find 3 nævnsafgørelser i det Det Finansielle Ankenævn (Tidligere Pengeinstitutankenævnet), hvor der sker tilsidesættelse af kautionsaftaler efter aftalelovens §§ 38c, jf. 36.**
+
+Link:
+
+**https://fanke.dk/soeg-i-afgoerelser/**
+
+---
+
 ## Privat kaution eller erhvervskaution
 
 *Privatkaution* stilles typisk af en fysisk person overfor en person eller en virksomhed.
@@ -238,6 +248,12 @@ Efter en samlet vurdering, hvori indgår, at der er tale om kaution for familiem
 Der vil ofte være en nær relation mellem debitor og kautionist.
 
 *Erhvervskaution* stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
+
+---
+
+Begrebet "debitorskifte" betyder indtræden af en ny skyldner i et gældsforhold. 
+
+Kan kun ske med fordringshaverens samtykke, som dog kan være meddelt på forhånd.
 
 ---
 
@@ -746,7 +762,7 @@ Simpel kaution finder anvendelse, medmindre andet er aftalt fx en selvskyldnerka
 
 Simpel kaution adskiller sig fra selvskyldnerkautionen med hensyn til tidspunktet for kautionsforpligtelsens indtræden. 
 
-Udover misligholdelsen kræves det ved simpel kaution også, at betaling ikke kan opnås hos hovedmanden. Altså at han er insolvent, jf. her definionen i konkurslovens § 17:
+Udover misligholdelsen kræves det ved simpel kaution også, at betaling ikke kan opnås hos hovedmanden. Altså at han er insolvent, jf. her definitionen i konkurslovens § 17:
 
 "Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver.
 Stk. 2. En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående".
@@ -953,7 +969,7 @@ På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk
 
 ---
   
-## Hvad nu hvis kautionisten dør?
+## Hvis kautionisten dør?
 
   <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -961,12 +977,12 @@ På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk
 
 *Eksempel*:
 
-Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
+"Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
 Med venlig hilsen X"
 
 *Svar fra advokaten:*
 
-Hvis kautionsforpligtelsen stadig er gældende, når din mand afgår ved døden, vil kreditor anmelde kravet i dødsboet efter din mand. 
+"Hvis kautionsforpligtelsen stadig er gældende, når din mand afgår ved døden, vil kreditor anmelde kravet i dødsboet efter din mand. 
 
 De gældsforpligtelser, som din mand har på dødsfaldstidspunktet, overtager du ikke, med mindre du vælger at sidde i uskiftet bo.
 
@@ -982,7 +998,7 @@ Kreditor vil alene kunne rette kravet mod datteren.
 
 Med venlig hilsen
 
-Advokat Sonny Kristoffersen
+Advokat Sonny Kristoffersen"
 
 ---
 
@@ -1027,6 +1043,12 @@ Da læringsmålene i relation til spørgsmålet i relation til købeloven er beg
 
 Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
+---
+
+Om **forbrugeraftaleloven, se lovsamlingen:** **https://jura.tepedu.dk/lovsamling.html-**
+
+Om **forbrugeraftaler, se kapitel 6**: **https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html.**
+
 *Svar slut*.
 
 ---
@@ -1052,6 +1074,12 @@ Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette
 Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
 
 Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
+
+---
+
+Om **købeloven, se kapitel 8**: **https://jura.tepedu.dk/kb.html**
+
+Se **købeloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 *Svar slut*.
 
@@ -1086,6 +1114,12 @@ Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besva
 
 Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
+---
+
+Om **individuel kreditforfølgning, se kapitel 13 om Insolvensret:**
+
+**https://jura.tepedu.dk/insolvensret.html.**
+
 *Svar slut*.
 
 
@@ -1109,6 +1143,10 @@ Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser o
 
 Det gælder også svar, som demonstrerer en generel forståelse af emnet.
 
+---
+
+Om **konkurs, se afsnit 3.5.:** **https://jura.tepedu.dk/insolvensret.html#konkurs.**
+
 *Svar slut*.
 
 ---
@@ -1128,6 +1166,11 @@ Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere d
 Nok er Peter blevet begunstiget, men det er ikke utilbørligt og ingen af omstødelsesreglerne er relevante, hvorfor kuratoren ikke har ret.
 
 Svar, som demonstrerer en generel forståelse af emnet bør også belønnes.
+
+
+---
+
+Om **konkurs, se afsnit 3.5.:** **https://jura.tepedu.dk/insolvensret.html#konkurs.**
 
 *Svar slut*.
 
@@ -1152,6 +1195,11 @@ Spm. 6. Hvilke selskabsformer bør Peter overveje og hvad skal han vælge? (10%)
 Læringsmål: Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
 
 Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kapitalselskaber, og foretrække et kapitalselskab, hvor hæftelsen begrænses til det indskudte beløb, så Peter bør vælge et ApS eller er IVS.
+
+---
+
+Se kapitel 23 om virksomhedsformer og hæftelse: 
+**https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html.**
 
 *Svar slut*
 
@@ -1184,6 +1232,7 @@ Den korrekte besvarelse bør endvidere berøre konsekvensen af henstanden jf.§ 
 Besvarelser, der demonstrerer en generel forståelse af de hensyn, der ligger bag oplysningspligten mv. i FIL § 48, bør belønnes. 
 
 Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være privat, men fornuftige argumenter i relation til erhvervskaution bør også belønnes.
+
 
 *Svar slut.*
 

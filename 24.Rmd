@@ -75,9 +75,9 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 ---
 
-## Oversigt over arveloven 
+## Oversigt over arveloven, se loven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
-(Lov 2007-06-06 nr. 515)
+(Lov 2007-06-06 nr. 515):
 
 *KAP. 1 SLÆGTNINGES ARVERET*  
 
@@ -405,6 +405,12 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
+Hvis der skulle være fejl i et testamente, har Domstolene mulighed for at rette og korrigere i et testamente efter romerrettens grundsætning: *"falsa demonstratio non nocet"*;	"en forkert betegnelse i et testamente af en person eller en ting skader ikke." 
+
+Domstolene kan således rette en sådan fejl, hvis retten er sikker på, hvad testator mente.
+
+---
+
 **Video: Hvorfor skrive et testamente**
 
 <div style="width:100%; height:0; position: relative; padding-bottom:28.125%"><iframe src="//jyskebank.tv/v.ihtml/player.html?showDescriptions=0&source=site&photo%5fid=13036756&autoPlay=1&endOn=loop" style="width:100%; height:100%; position: absolute; top: 0; left: 0;" frameborder="0" border="0" scrolling="no" allowfullscreen="1" mozallowfullscreen="1" webkitallowfullscreen="1"></iframe></div>
@@ -421,6 +427,8 @@ Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, 
 Registrerer testamentet i Centralregistret for testamenter
 
 Notartestamentet er svært at anfægte i praksis.
+
+En "bortkomstklausul" er en klausul i et notartestamente om, at den underskrevne genpart af testamentet, som opbevares i skifteretten, skal have samme gyldighed som originaleksemplaret.
 
 ---
 
@@ -546,8 +554,103 @@ Et uigenkaldeligt testamente indskrænker testators testationskompetence – arv
 
 Hvis forudsætningerne for at oprette et uigenkaldeligt testamente brister eller var urigtige, kan testamentet være ugyldigt, jf. AL § 77. 
 
+---
+
+### Begravelsestestamente
+
+"Begravelsestestamente" er	en erklæring om, hvilken type begravelse, man ønsker (religiøs eller ikke religiøs, ligbrænding eller jordfæstelse). 
+
+Hverken pårørende eller myndigheder kan omgøre ens beslutning vedrørende dette. 
+
+Bedemænd udleverer gratis folderen ”Min Sidste Vilje,” hvor alle ønsker til begravelsen kan noteres (musik, salmer, blomster, højtidelighed, efterfølgende samvær, gravstenens udformning, inskription, etc.).
 
 ---
+
+### Børnetestamente
+
+Et "børnetestamente" er en tilkendegivelse om, hvem der skal have forældremyndigheden, hvis forældrene dør. Kræver ikke testamentsform.
+
+I et børnetestamente kan forældrene tilkendegive, hvem de ønsker skal have forældremyndigheden over deres børn, hvis de dør, inden barnet/børnene bliver myndige. 
+
+Sker det utænkelige, at begge forældre dør på samme tid, er det Familieretshuset, der vurderer, hvem der skal have forældremyndigheden over  børnene/barnet. Det vurderes ud fra, hvad der er til barnets bedste. Har forældrene oprettet et børnetestamente, vil Familieretshuset følge forældrenes ønsker - medmindre forholdene konkret taler imod.
+
+Ved at forældrene selv tager stilling, undgår man en eventuel konflikt mellem to efterladte familier, som skal blive enige om, hvorvidt det fx er den ene forældres søster eller den andens, som skal have forældremyndigheden.
+
+Er man alene med sine børn, og har man forældremyndigheden, kan man også med fordel oprette et børnetestamente. Hvis den anden forælder fortsat er i live, skal man dog være opmærksom på, at vedkommende altid har fortrinsret - medmindre særlige forhold taler imod.
+
+Mange enlige forældre vælger at oprette et børnetestamente, fordi de gerne vil forklare, hvorfor den biologiske far eller mor ikke skal have forældremyndigheden. Så er det op til Familieretshuset at afgøre, om de vil fravige udgangspunktet, så den anden forælder ikke får forældremyndigheden.
+
+Er man alene med sine børn, skal man være opmærksom på, at den efterlevende forælder har fortrinsret, medmindre særlige forhold taler imod.
+
+Er ens børn fyldt 12 år, har de ret til at få medindflydelse på Familieretshusets afgørelse.
+
+Der er som nævnt ikke nogen juridiske krav til, hvordan et børnetestamente skal se ud. Det kan laves som et selvstændigt dokument, hvor man selv skriver, hvem man ønsker skal have forældremyndigheden over ens børn, hvis man dør, før de er myndige. Herudover skal det indeholde en dato og underskrifter.
+
+Børnetestamente kan også indgå i et “almindeligt” testamente, hvor man også tager stilling til andre vigtige ting om arvens fordeling og vilkår.
+
+Uanset om testamentet kun indeholder ønsker om ens børn, eller om det også omhandler bestemmelser om fordelingen af arven efter forældrene, så kan testamentet underskrives for en notar. 
+
+Når det er underskrevet for notaren, opbevares det i et centralt arkiv og kommer helt automatisk frem efter forældrenes død. Det sikrer, at Familieretshuset får kendskab til forældrenes ønsker. 
+
+---
+
+### Donortestamente
+
+I et donortestamente tager man stilling til, om organer må fjernes og anvendes, efter at man er erklæret hjernedød. Man kan både give tilladelse og nedlægge forbud, lige som man kan donere udvalgte organer eller dem alle. 
+
+Et donortestamente skal registreres i Donorregistret og kan oprettes på www.sundhed.dk 
+
+Spørgsmål og svar om organdonation:
+
+
+**https://organdonor.dk/spoergsmaal-og-svar-om-organdonation/**
+
+---
+
+## Fradømmelse af arveretten
+
+Der kan ske en fradømmelse af arveretten for arvingen ved dennes forsætlige forbrydelse mod den afdøde.
+
+Følgende fremgår således af arvelovens § 48:
+
+"Når en person har begået en forsætlig overtrædelse af straffeloven, som har medført en andens død, kan det ved dom bestemmes, at den pågældende fortaber retten til at få arv, forsikringssummer, pensioner eller andre ydelser, der var afhængige af den dræbtes død. Tilsvarende kan det bestemmes, at den pågældendes arv eller andel i forsikringssummer, pension eller andre ydelser ikke må forøges som følge af lovovertrædelsen.
+Stk. 2.  Den, der har forsøgt at dræbe en slægtsarving, øvet vold mod eller groft krænket den pågældende eller truet vedkommende på strafbar måde, kan efter den forurettedes anmodning fradømmes retten til arv, forsikringssummer, pensioner eller andre ydelser, der er afhængige af den pågældendes død...".
+
+Bestemmelsen i arvelovens § 48 handler om fradømmelse af arveret - med en præcisering af, at bestemmelsen også finder anvendelse på forsikringssummer, pensioner, herunder kapital- og ratepensioner og andre ydelser, der kommer til udbetaling som følge af dødsfaldet, herunder f.eks. udbetalinger fra Lønmodtagernes Dyrtidsfond.
+
+Reglen i § 48 er fakultativ (frivillig), men det normale er fortabelse af arveretten, særlig ved forsætligt drab. 
+
+Det kræves ikke, at f.eks. et drab er begået for at arve eller på anden måde begunstige sig. Uagtsomt drab efter strfl § 241 kan ikke føre til frakendelse, hvorimod medvirken til drab kan, uanset om straffen nedsættes eller bortfalder, f.eks. ved straffrihed pga. psykisk abnormitet, strfl § 16. 
+
+---
+
+Se fra retspraksis om frakendelse **U 2005 123 H** (drab af far); **U 2002 2434 H** (drab af ægtefælle); **U 1997 1686 H**; **U 1996 1645 H**; **U 1995 57 H**; **U 1993 921 H** (skyldig i drab, men straffri efter § 16 og anbringelse på hospital for sindslidende); **U 1990 591 H** (farmor); **U 1946 812 H** (medvirken). Se praksis, hvor der ikke skete fortabelse: **U 1983 439 V** (en abnorm enkeltreaktion, hvor tiltalte følte sig truet og uretfærdigt behandlet af faderen); **U 1981 615 Ø** (sønnerne ønskede faderen bevarede arveretten) og **U 1973 406 Ø**. Arveretsfortabelse rammer kun de skyldige, ikke deres livsarvinger, som derfor får arven.
+
+---
+
+## Dødsgaver
+
+"Dødsgave" er en	gave, som ikke kan gøres gældende, så længe giveren lever. Kræver testamentsform, jf. arvelovens § 93.
+
+"Dødslejegave	gave", som gives på dødslejet. Kræver testamentsform, jf. arvelovens § 93, dog ikke "sædvanlige gaver", jf. arvelovens § 93, stk. 2.
+
+Ved sædvanlige gaver tænkes navnlig på fødselsdagsgaver, bryllupsgaver, konfirmationsgaver og andre gaver, som gives i anledning af en bestemt begivenhed. 
+
+Også gaver, der ydes uden nogen bestemt ydre anledning, kan være omfattet af bestemmelsen. 
+
+Det forhold, at en gave er omfattet af reglen om afgiftsfritagelse i boafgiftslovens § 22, medfører ikke i sig selv, at gaven kan anses for en sædvanlig gave, og at der ikke stilles krav om iagttagelse af testamentsreglerne. 
+
+Der stilles efter bestemmelsen i arvelovens § 93, stk. 2 ingen nærmere krav til gavens art, og penge kan således også anses for en sædvanlig gave. 
+
+Ved bedømmelsen af, om der er tale om en sædvanlig gave, må der bl.a. ses på giverens indkomst- og formueforhold på gavetidspunktet, samt på, hvad der tidligere er givet som gave, og om værdien står i misforhold til giverens kår. 
+Fx vil det forhold, at en døende person betænker sit barnebarn med en konfirmationsgave på 10.000 kr., iflg. motiverne til arveloven ikke kræve, at der oprettes testamente, hvis også øvrige børnebørn eller andre slægtninge er blevet betænkt med en lignende gave. 
+
+Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgaver, der er undtaget fra omstødelse i konkurs, vil i øvrigt være vejledende ved den nærmere fastlæggelse af, hvad der kan anses for sædvanlige gaver.
+
+
+---
+
+
 
 **Video: Webseminar om Arv, testamenter og pensioner**
 

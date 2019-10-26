@@ -35,7 +35,9 @@ cat(readLines('np.html'))
 
 ## Erstatningsansvar uden en lovgivning
 
-Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel, se nedenfor bibliotek.]
+Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel, se nærmere biblioteket: **https://jura.tepedu.dk/bibliotek-premium.html**.]
+
+---
 
 ![](img/erstat1.jpg)
 
@@ -47,16 +49,29 @@ I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kal
 
 Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. 
 
-Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd), som kan føres tilbage romerrettens culparegel. 
+Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd), som kan føres tilbage romerrettens culparegel. Modsat "diskulpere"	fritage for skyld.
 
 Culpa er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
 
 En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis skadevolder har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
 
+Vi mennesker skal i dagligdagen udvise  "diligentia quam in suis rebus": den omhu, vi udviser i egne anliggender.
+
+---
+
+Brug af culpabegrebet i en praksiskontekst:
+
+[Jura] | culpa | - Den tiltalte havde udøvet culpa, og var derfor erstatningsansvarlig.
+
+[Jura] | forseelse | - Hun er strafskyldig på grund af en uagtsom forseelse.
+
+[Jura] | skyld | - De beviste, at vandværket havde udvist skyld i sagen.
+
+---
+
 Se følgende domme om erstatningsansvaret:  
 
 
----  
 
 
 
@@ -211,7 +226,7 @@ For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraks
 
 *	Der er årsagssammenhæng ("*kausalitet*") mellem den skete skade og det lidte tab, dvs. at tabet er en direkte følge af skaden.  
 
-*	Der er påregnelighed ("*adækvans*") mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.  
+*	Der er påregnelighed ("*adækvans*") mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.  En skadevolder er ikke erstatningsansvarlig for upåregnelige, atypiske følger af sine handlinger.
 
 Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring, se følgende dom:
 
@@ -386,12 +401,6 @@ Nævnsafgørelser (kendelser) fra Ankenævnet for Forsikring:
 
 **Ankenævnskendelse i sagsnr.: 63.558**: Groft uagtsomt at efterlade ulåst bil med nøgler i tændingslås i flere timer på privat vej, men forholdsvis tæt på befærdet vej. (Utrykt)
 
-**Quiz**
-
-Tøj og sko får en hård medfart hver dag. Selvom sælgeren ikke kan gøres ansvarlig for, at tøjet eller skoene bliver slidt, kan du stille visse krav til kvaliteten. <a href="https://www.forbrug.dk/quiz/toej-og-sko/" target="_blank"> Tag testen her.</a>
-
-
----
 
 ## Forsæt (med vilje)
 
@@ -432,6 +441,16 @@ Forsætlige skader dækker forsikringen ikke, medmindre skadevolder er under 14 
 ![](img/selv.jpg)
 
 Se Højesteretsdom **H.D. 19 december 2016 i sag 235/2015 (1. afdeling):** Skadelidte, der var sindssyg, forsøgte at begå selvmord ved at køre ind i en modkørende lastbil. Retten til erstatning for personskade bortfaldt som følge af forsætlig medvirken.
+
+---
+
+**Studenteropgave:**
+
+**Find retssager i UfR, som nærmere behandler grov uagtsomhed i færdselsulykker.**
+
+Link til UfR (ugeskrift for Retsvæsen):
+
+https://pro.karnovgroup.dk/journals/ufr
 
 ---
 
@@ -477,6 +496,16 @@ Lejeloven indeholder et objektiv ansvar for installationer, som kan finde analog
 
 **TBB2014.722**: Andelshaver ansvarlig efter analogi fra lejelovens § 29, stk. 10, overfor andelsboligforening for vandskade hidrørende fra vandtilslutning til vaskemaskine:
 "Andelshaveren A fik en bekendt til at installere en vaskemaskine for sig i sin lejlighed. Kort tid efter kunne underboen konstatere en vandskade, der viste sig at skyldes udsivende vand i A's lejlighed. Årsagen til vandskaden var en utæthed mellem spulehanen og aquastoppet. Andelsboligforeningen G lod skaden udbedre og afkrævede herefter A betaling herfor. A gjorde gældende, at der ikke forelå et ansvarsgrundlag, og at risikoen for skaden ikke påhvilede hende. G anførte, at tvisten måtte afgøres efter en analogi fra lejelovens § 29, stk. 10, således at A var objektivt ansvarlig for installationer, som hun har ladet foretage, og at A i øvrigt måtte være den nærmeste til at bære risikoen i et sådant tilfælde. Såvel byret som landsret fandt, at da forholdet ikke var reguleret af G's vedtægter, kunne lejelovens bestemmelse om objektivt ansvar for installationer finde analog anvendelse. A blev derfor pålagt at betale en skønsmæssigt fastsat erstatning på 75.000 kr.".
+
+---
+
+**Studenteropgave:**
+
+**Find retssager i UfR, som nærmere behandler det objektive ansvar.**
+
+Link til UfR (ugeskrift for Retsvæsen):
+
+https://pro.karnovgroup.dk/journals/ufr
 
 
 ---
@@ -548,6 +577,16 @@ De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansv
 ---
 
 Se dommen **FED 2003.836:** Som følge af identitet mellem forsikringstageren og ejeren af et sommerhus, var der ikke dækning på en erhvervsansvarsforsikring for skade forvoldt af forsikringstagerens ansatte under udførelse af entreprise på sommerhuset.
+
+---
+
+**Studenteropgave:**
+
+**Find retssager i UfR, som nærmere behandler objektive ansvarsfrihedsgrunde.**
+
+Link til UfR (ugeskrift for Retsvæsen):
+
+https://pro.karnovgroup.dk/journals/ufr
 
 ---
 
@@ -738,13 +777,13 @@ Se fx. dommen **U 1989.278 V**: To brødre på 4 og 6 år, S og L, klatrede over
 
 ## Erstatningsansvaret og EAL § 19
 
-I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1
+I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1, se nærmere erstatningsansvarsloven (EAL) i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**.
 
 Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. 
 
 Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
 
-Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedreglen imidlertid kun følgende tilfældegrupper:
+Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter dog hovedreglen imidlertid kun følgende tilfældegrupper:
 
 1) ansvar for skader i privatlivet, der er forvoldt ved simpel uagtsomhed;
 
@@ -753,6 +792,27 @@ Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter hovedregle
 3) arbejdstageres personlige ansvar for skader, der er forvoldt ved simpel uagtsomhed, jf. stk. 3.
 
 Reglen gælder ikke enhver skadesforsikring, der omfattes af forsikringsaftaleloven, men kun forsikringer, hvor forsikringsydelsen bestemmes enten af tingens værdi eller af dens afkastningsinteresse i relation til en virksomheds drift. Kreditforsikringer, kautionsforsikringer og lign. falder derfor udenfor.
+
+---
+
+Se Højesteretsdom **H.D. 9. september 2019 i sag 99/2018 og 160/2018 (1. afd.)**
+
+
+En 14-årig dreng var erstatningsansvarlig for brandskader på en skolebygning, mens en 13-årig dreng blev frifundet. Lempelse af erstatningen:.
+"A på 14 år og B på 13 år havde sammen opholdt sig på en skole, hvor A tændte ild i noget papir i en container, mens B så på. Ilden bredte sig til bygningen. Skolens forsikringsselskab G udbetalte erstatning for skaderne med ca. 7,4 mio. kr. og rettede et regreskrav mod A og B. Højesteret fandt, at A havde forvoldt skaderne på skolebygningen ved grov uagtsomhed. A var derfor erstatningsansvarlig for skaderne, jf. erstatningsansvarslovens § 19, stk. 2, nr. 1.
+
+B fandtes derimod ikke havde medvirket ved ildspåsættelsen. Højesteret udtalte, at en person som udgangspunkt ikke bliver erstatningsansvarlig ved at undlade at foretage en handling, som kunne have forhindret eller begrænset en skade forvoldt af en anden. Højesteret fandt, at B heller ikke var erstatningsansvarlig, fordi han ikke forsøgte at forhindre ildspåsættelsen og ikke forsøgte at forhindre, at ilden bredte sig. Regreskravet mod A blev nedsat efter erstatningsansvarslovens § 24 a til 250.000 kr. med forrentning fra den 15. maj 2022, hvor A var fyldt 24 år. (Dissens.). Højesteret stadfæstede herefter landsrettens dom alene med ændring vedrørende erstatningsbeløbet".
+
+---
+
+**Studenteropgave:**
+
+**Find retssager i UfR, som nærmere behandler erstatningskrav mod børn.**
+
+Link til UfR (ugeskrift for Retsvæsen):
+
+https://pro.karnovgroup.dk/journals/ufr
+
 
 ---
 

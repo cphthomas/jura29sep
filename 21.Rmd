@@ -31,9 +31,11 @@ Lovgivning til regulering af køb af fast ejendom:
 
 Aftaleloven, købeloven og markedsføringsloven
 
-Lov om formidling af fast ejendom, jf. Lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. (LOFE)
+Lov om formidling af fast ejendom, jf. Lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. (LOFE), 
 	
 Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom, jf. Lovbekendtgørelse nr. 1123 af 22. september 2015 om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. (LFFE)
+
+Se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 
 ![](img/hus1.jpg)
@@ -301,6 +303,12 @@ Der vil som udgangspunkt ikke være tvivl herom i de situationer, hvor ejendomsm
 
 For så vidt angår betingelserne for, hvornår det kan anføres, at der er indgået en købsaftale, skal handlen være gyldig og uden forbehold og betingelser, jf. dog bemærkningerne nedenfor vedr. handel med betinget skøde. 
 
+---
+
+Begrebet "betinget skøde" er et skøde, som er betinget af købesummens betaling eller af andre forhold, fx af en udstykningstilladelse. Når betingelserne er opfyldt, meddeles endeligt skøde til køberen.
+
+---
+
 Foreligger der forbehold eller betingelser, skal disse være fjernet, før retten til vederlag kan udløses. 
 
 Endvidere skal fortrydelsesfristen efter lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom også være udløbet.  
@@ -452,6 +460,8 @@ Dette princip videreføres i LOFE § 39, stk. 1, som også bestemmer, at ejendom
 Salgsopstillingen skal indeholde en udførlig beskrivelse af ejendommen, og herunder altså oplysning om de årlige ejerudgifter.  
 
 Ved den årlige ejerudgift forstås de samlede årlige udgifter forbundet med at eje ejendommen beregnet på grundlag af foreliggende oplysninger om ejendomsskat, ejendomsforsikring, gæld uden for købesummen, som overtages af køber, fællesudgifter m.v. 
+
+*"Fællesudgifter"* er de udgifter, som medlemmer fx i en ejerforening betaler i fællesskab, fx vedligeholdelse, renovation, forsikringer, trappelys.
 
 Afgrænsningen af udgifterne er fastsat i formidlingsbekendtgørelsens §§ 6 (salgsopstillingen) og 12 (ejerudgiften).  
 
@@ -1232,6 +1242,8 @@ Der skal gøres nogle generelle bemærkninger til området for »fysiske mangler
 Købeloven gælder ikke for køb af fast ejendom.  
 
 Mange af købelovens regler udtrykker imidlertid almindelige køberetlige grundsætninger, og principperne i købeloven anvendes derfor i vidt omfang også analogt ved køb og salg af fast ejendom. 
+
+"Analogi" i en juridisk sammenhæng betyder anvendelse af en retsregel på et forhold, der ikke dækkes af ordlyden, når der foreligger årsagernes lighed.
 
 Dette gælder bl.a. købelovens regler om mangler^[Følgende afsnit om fysiske mangler bygger på *Sonny Kristoffersen*: Forbrugerretten II, Den civilretlige forbrugerbeskyttelse, 5. udg. 2016, KarnovGroup, kap. 4 om Forbrugerbeskyttelse ved erhvervelse af fast ejendom.].  
 

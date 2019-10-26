@@ -18,7 +18,7 @@ cat(readLines('np.html'))
 
 ![](img/buing.jpg)
 
-Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb. 
+Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**. 
 
 Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge.  
 
@@ -108,6 +108,10 @@ Kaldet; *"B2C"*
 
 Tilsvarende definitioner på forbrugeraftaler findes bl.a. i aftalelovens § 38 a, stk. 2, kreditaftalelovens § 1, jf. § 4, nr. 1–3, forbrugeraftalelovens § 2, stk. 1, rentelovens § 7, stk. 1, og betalingslovens § 7, nr. 15, jf. også forbrugerklagelovens § 2.
 
+Se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+
+---
+
 Det købte skal hovedsageligt bruges privat.
 
 Det er transaktionsfomålet med det købte i aftaleøjeblikket, der er afgørende for, om der er tale om et forbrugerkøb. 
@@ -190,6 +194,10 @@ Se dommen om et civilkøb af en bil i **U 2019.3071 V** vedrørende et vilkår i
 Et handelskøb er som tidligere nævnt et køb, hvor både køber og sælger er erhvervsdrivende, og hvor aftalen om købet indgås som led i en virksomhed. kaldet *"B2B"*. 
 
 Købelovens regler ved handelskøb er deklaratoriske dvs., at de kan fraviges ved aftale mellem de to erhvervsdrivende.
+
+---
+
+Se nærmere handelskøbsreglerne i købeloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 
 ---
@@ -332,6 +340,10 @@ Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, o
 
 Varerne skal være individualiseret/udskilte fra andre varer, som står hos sælger.
 
+---
+
+Ved en "bindende individualisering" ved genuskøb opnår køber beskyttelse mod sælgerens retsforfølgende kreditorer, når bestemte genstande er udskilt til fordel for køber på en for sælger bindende måde.
+
 
 ---
 
@@ -378,7 +390,9 @@ Til internationale køb anvendes *INCOTERMS 2010*.
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
 * *Forsinkelse med levering* (afsnit 8.8.1.).
+
 * *Faktiske mangler - mangler ved den leverede vare* (afsnit 8.8.2.). 
+
 * *Retlige mangler – vanhjemmel* (afsnit 8.8.3.).
 
 ---
@@ -750,6 +764,8 @@ Sælger er berettiget til at bortskaffe varen.
 
 
 Se købelovens forbrugerafsnit.jf. KBL §§ 72-87.
+
+Se nærmere forbrugerkøbsreglerne i købeloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 *Købelovens regler om forbrugerkøb er beskyttelsespræceptive:* 
 
@@ -1152,6 +1168,8 @@ Klager over leasing af biler.
 Klager over medlemsskaber f.eks. fitness.
 
 Sælger leverer ikke varen.
+
+
 
 ---
 

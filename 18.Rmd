@@ -74,6 +74,8 @@ Ejeren kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og pa
 
 Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning.
 
+"Allonge"	er et tillæg - til et pantebrev.
+
 ---
 
 ## Pant som sikkerhed
@@ -491,25 +493,60 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 
 ---
 
+Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
+om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
+
 *Alle rettigheder over fast ejendom skal tinglyses:*
 
-* Tinglyses i Tingbogen med angivelse af et eller flere matrikelnumre
+* Tinglyses i Tingbogen med angivelse af et eller flere matrikelnumre.
 
-* Adkomst – skøde tinglyses for at sikre ejendomsretten
+* Adkomst – skøde tinglyses for at sikre ejendomsretten.
 
-* Byrder/servitutter - også kaldet en deklaration - fx en lejekontrakt, vejret, byggehøjde eller ægtepagt tinglyses for at sikre sig mod evt. køber
+* Byrder/servitutter - også kaldet en deklaration - fx en lejekontrakt, vejret, byggehøjde eller ægtepagt tinglyses for at sikre sig mod evt. køber.
 
-* Hæftelser – pant og udlæg tinglyses for at sikre prioritet på evt. tvangsauktion  
+* Hæftelser – pant og udlæg tinglyses for at sikre prioritet på evt. tvangsauktion.  
 
-* Flere panthavere i samme ejendom – prioritetsstilling
+* Flere panthavere i samme ejendom – prioritetsstilling.
 
-* Skal et foranstående pant udvides, skal efterstående panthavere give tilladelse (rykningspåtegning)
+* Skal et foranstående pant udvides, skal efterstående panthavere give tilladelse (rykningspåtegning).
 
-* Der er oftest aftalt oprykningsret i et pantebrev, og så rykker det op i prioritetsstillingen efterhånden som gælden i foranstående pantebrev bliver nedbragt
+* Der er oftest aftalt oprykningsret i et pantebrev, og så rykker det op i prioritetsstillingen efterhånden som gælden i foranstående pantebrev bliver nedbragt.
 
-* Kreditor kan højst give henstand med betaling på pantebrevet 1 år, ellers vil rentekravet komme sidst i prioritetsordenen
+* Kreditor kan højst give henstand med betaling på pantebrevet 1 år, ellers vil rentekravet komme sidst i prioritetsordenen.
 
-* Ejerpant kan opstå, hvis der ikke er aftalt oprykningsret, og et gælden i et foranstående pantebrev er nedbragt
+* Ejerpant kan opstå, hvis der ikke er aftalt oprykningsret, og et gælden i et foranstående pantebrev er nedbragt.
+
+---
+
+### Begrebet "hævd"
+
+*"Hævd"* er en	særlig erhvervelsesmåde, hvor retten stiftes ved en uhjemlet råden i 20 år eller i alderstid. Danske Lov 5-5-1 lyder således:
+
+"Hvis Gods og Ejendom nogen haver haft i Haand og Hævd i tyve Aar Ulast og Ukært til Tinge, det beholder hand, uden anden Adkomst at fremvise, angerløst og Uafvundet, medmindre det bevisis, at hand hafde det, enten til pant eller i Forlæning, eller i Forsvar". Se Danske Lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+Hævd er således en særlig form for erhvervelse af ejendomsret. 
+
+Hævd erhverves ved kontinuerlig uretmæssig brug af en ejendom. 
+
+Brugen af ejendommen må således ikke ske i overensstemmelse med aftale med ejeren af ejendommen. 
+
+Hævd kan opnås af en eller flere personer og der kan ske udskiftning i personkredsen undervejs i hævdsperioden.
+
+Erhvervelse af hævd forudsætter, at den uretmæssige råden er forløbet over en længere årrække. Der skal mindst være tale om en kontinuerlig råden i 20 år og i visse tilfælde op mod 40-50 år. 
+
+Den 20-årige råden kaldes ordinær hævd mens den længere rådighedsperiode kaldes alderstidshævd.
+
+Rådigheden afbrydes, hvis ejeren opstiller en fysisk hindring eller foretager retslige skridt mod den eller de personer, der bruger ejendommen.
+
+Når der vindes hævd får den eller de, der har brugt ejendommen, ejendomsret i overensstemmelse med den råden, der er udvist. 
+
+Hvis den skete råden er begrænset, bliver der kun hævd som bruger af ejendommen.
+
+Hævd skal tinglyses på samme måde som servitutter, for at blive beskyttet. 
+
+Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde som servitutter, altså ved aftale og passivitet m.v.
 
 ---
 
@@ -696,6 +733,14 @@ Omfatter løsøreaktiver, som er:
    
 
 Indlagt løsøre er omfattet af ejendomspantet og særskilt ret over det kan ikke opretholdes (hverken ejendomsforbehold eller pant)
+
+---
+
+Et juridiske begreber:
+
+"Afståelsesret" er en	ret for en lejer til at lade en anden indtræde i sit sted på uændrede vilkår.
+
+"Aftægt" er en ret til en fri bolig og evt. visse naturalydelser, som er forbeholdt i forbindelse med overdragelse af en fast ejendom.
 
 
 ---
@@ -1393,7 +1438,7 @@ Kautionen bør formuleres som en selvskyldnerkaution.
 SoundNeed har også brug for en ny mixerpult til lydstudiet, og Johan forslår, at kreditten til købet finasieres med et lån i banken sikret med pant i mixerpulten.
 
 
-*Eksamensspørgsmået:*
+*Eksamensspørgsmålet:*
 
 4. Hvilke muligheder har banken for at få pant i mixerpulten?
 

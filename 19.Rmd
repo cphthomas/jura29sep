@@ -26,6 +26,12 @@ Se kapitel 20 om tingsretlige konflikter.
 
 ---
 
+Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
+om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+
+---
+
 *Tinglysning som sikringsakt*
 
 Tinglysning er en sikringsakt, hvor rettighedshaveren sikrer sin rettighed (ejendomsret, pant mv.) mod andre rettigheder, der stiftes efterfølgende, og som strider mod ens egen rettighed. 
@@ -71,6 +77,10 @@ Tingbøgerne har det, som man kalder ”negativ troværdighed”.
 Det betyder for eksempel, at en køber/panthaver mv. ikke kan blive mødt med krav, der ikke er tinglyst. 
 
 Dette gælder, hvis køberen/panthaveren mv. ikke ad anden vej havde kendskab til kravets eksistens. 
+
+---
+
+"Aflysning" betyder	annullation af en tinglyst ret.
 
 ---
 
@@ -391,6 +401,8 @@ Kravet om vitterlighedsvidner gælder aldrig for offentlige myndigheder.
 ## <font color="red">Om Andelsboligbogen<sup> Premium </font></sup>  
 
 ![](img/andel.jpg)
+
+En "andelsboligforening" er en forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har brugsret til de enkelte lejligheder.
 
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.
 

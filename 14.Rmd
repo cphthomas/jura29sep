@@ -96,7 +96,9 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.] anvendes i de fleste aftaler om lån, kredit eller køb på kredit. Se lovsamlingen under kap. 26.
+Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.] anvendes i de fleste aftaler om lån, kredit eller køb på kredit. Se **kreditaftaleloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 ![](img/sonny.jpg)
 
@@ -118,13 +120,35 @@ Definitionen er overensstemmende med definitionerne af forbrugeraftaler/køb i a
 
 ---
 
+Begreber:
+
 En *»kreditgiveren«* forstås som forbrugerens modpart. 
 
 Kreditgiver er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. 
 
 Ved aftaler om ydelse af pengelån/kredit, der skal tilbagebetales, er långiver kreditgiver. 
 
-De finansielle institutioners udlån til forbrugere er derfor omfattet af loven (pengeinstitutter, kreditinstitutter, finansieringsselskaber, realkreditinstitutter, låneforeninger, livsforsikringsselskaber (policelån), pensionskasser, erhvervsdrivende udlånsfonde osv).
+*"Amortisering"* betyder	en regelmæssig tilbagebetaling af et lån.
+
+*"Betalingsstedet"* er normalt fordringshaverens bopæl eller forretningssted. "Pengeskyld er bringeskyld".
+
+Betegnelsen *"fordringshaver"* er	den, der har noget til gode.
+
+*"Fordringshavermora"* foreligger, når opfyldelse forhindres på grund af fordringshaverens forhold. Ved betalingsforpligtelser kan skyldneren i visse tilfælde blive frigjort ved deponering, jf. deponeringsloven.
+
+*"Fordringshaverskifte"*	betyder indtræden af ny fordringshaver i et gældsforhold. Kan normalt ske uden skyldnerens samtykke.
+
+*"Forfaldstid"* er	det tidspunkt, på hvilket fordringshaveren kan kræve betaling.
+
+*"Forhalingsrente"* er en	rente som følge af for sen betaling - i modsætning til almindelig kreditrente.
+
+*"Forældelse"*	ophør af en fordring på grund af dennes alder.
+
+"*forældelsesfrist"* er normalt på 10 år fra fordringens stiftelse, jf. forældelseslovens § 6. En række krav forældelse dog på 3 år fra forfaldstid, jf. nærmere **forældelsesloven** i lovsamlingen **https://jura.tepedu.dk/lovsamling.html.**
+
+---
+
+De finansielle institutioners udlån til forbrugere er derfor omfattet af kreditaftaleloven (pengeinstitutter, kreditinstitutter, finansieringsselskaber, realkreditinstitutter, låneforeninger, livsforsikringsselskaber (policelån), pensionskasser, erhvervsdrivende udlånsfonde osv).
 
 ---
 
@@ -664,6 +688,8 @@ Såfremt forbrugeren har betalt mere end det, denne er pligtig at betale ifølge
 
 Forbrugerens retsstilling fastsættes i sådanne tilfælde efter dansk rets almindelige regler om *condictio indebiti* (tilbagesøgning). 
 
+"condictio indebiti" betyder	tilbagesøgning af beløb, som er erlagt i en urigtig formening om skyld.
+
 Har sælgeren i et kreditkøb ikke givet oplysninger som foreskrevet i KAL § 8, kan kreditgiveren i almindelighed ikke kræve godtgørelse for omkostninger, som ellers ville påløbe i anledning af forbrugerens misligholdelse, jf. KAL § 24.
 
 ---
@@ -1022,10 +1048,16 @@ Forbrugerens krav mod den finansierende tredjemand kan som nævnt højst andrage
 Det afgørende ved beregningen af kravet er således ikke, at forbrugeren har et køberetligt krav på sælgeren på fx. 100.000 kr., men at forbrugeren har betalt eksempelvis 50.000 kr. til den pågældende tredjemand.  
 
 
-Princippet er praktiseret i en række afgørelser ved Forbrugerklagenævnet, jf. fx Juridisk Årbog 1998, s. 153 og 155, Juridisk Årbog 1999, s. 214 og 216, samt Juridisk Årbog 2001, s. 112.
+Princippet er praktiseret i en række afgørelser ved Forbrugerklagenævnet, jf. fx **Juridisk Årbog 1998, s. 153 og 155**, **Juridisk Årbog 1999, s. 214 og 216**, samt **Juridisk Årbog 2001, s. 112**.
 
 
 Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter for produktskader i helt samme omfang som sælgeren. 
+
+---
+
+"Cut-off-klausul" er en klausul om, at skyldneren ikke skal kunne rejse indsigelse mod en erhverver af fordringen. 
+
+Er ikke gyldig i forbrugerforhold, jfr. kreditaftalelovens § 33.
 
 ---
 
@@ -1035,6 +1067,8 @@ Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter f
 <img src="img/kredit12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *Ejendomsforbehold* er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1.
+
+Ved et gydligt ejendomsforbehold	har sælger således forbeholdt sig ejendomsretten til det solgte, hvis købesummen ikke betales.
 
 Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold.
 
@@ -1066,7 +1100,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-*Formkrav til et gyldigt ejendomsforbehold:*
+*Formkravet til et gyldigt ejendomsforbehold:*
 
  
 *Et gyldigt ejendomsforbehold skal efter KAL § 34, stk. 1 være:*
@@ -1091,11 +1125,9 @@ Desuden skal ejendomsforbehold i motorkøretøjer tinglyses i bilbogen, jf. TL �
 OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et gyldigt ejendomsforbehold.
  
 
-
- 
 ---
 
- **Konflikt med senere rettigheder ved et gyldigt ejendomsforbehold*
+*Konflikt med senere rettigheder ved et gyldigt ejendomsforbehold*
 
 *HR:* Et gyldigt stiftet ejendomsforbehold beskytter sælgers ejendomsret til aktivet overfor købers andre kreditorer og aftaleerhververe. 
 
@@ -1105,7 +1137,9 @@ OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et 
 
 *U2*: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber.
 
-*U3:* Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber.
+*U3:* Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber. 
+
+*"Forhandlergrundsætning"*	betyder, at et ejendomsforbehold ikke kan gøres gældende, hvis sælgeren har solgt genstanden til en person, om hvem han vidste eller burde vide, at denne var forhandler af genstande af den pågældende art, og forhandleren herefter har videresolgt genstanden til en godtroende erhverver, som har fået genstanden i hænde.
 
 ---
 

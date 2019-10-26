@@ -24,13 +24,15 @@ cat(readLines('np.html'))
 
 ![](img/forb.jpg)
 
+Forbrugeraftaleloven, jf. Lov 2013-12-17 nr. 1457 om forbrugeraftaler, se nærmere forbrugeraftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**
+
 Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på *Sonny Kristoffersen*: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
 Forbrugeraftaleloven kan vel karakteriseres som forbrugernes grundlov. Eller angivet som "færdselsloven" for den erhvervsdrivende, hvordan den erhvervsdrivende skal behandle forbrugeren, når der indgåes forbrugeraftaler.
 
 Forbrugeraftaleloven er *beskyttelsespræceptiv* – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
 
-En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. Det kaldes for det *civilrelige forbrugerbegreb*.^[Se *Sonny Kristoffersen* artikel i U.2011B.258: Afgrænsning af det civilretlige forbrugerbegreb, se nærmere ebogens bibliotek.]
+En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. Det kaldes for det *civilrelige forbrugerbegreb*.^[Se *Sonny Kristoffersen* artikel i U.2011B.258: Afgrænsning af det civilretlige forbrugerbegreb, se nærmere ebogens bibliotek **https://jura.tepedu.dk/bibliotek-premium.html.**]
 
 En erhvervsdrivende formidler er en, der skaber kontakt imellem private handlende, fx et internetauktionsfirma, som også skal overholde forbrugeraftaleloven.
 
@@ -107,7 +109,7 @@ Virksomheden der gerne må ringe uanmodet, skal tjekke	*Robinson-listen* inden h
 
 Derudover gælder markedsføringslovens § 10, stk. 6: 
 
-"Den erhvervsdrivende skal derfor ved den første henvendelse til forbrugeren, oplyse denne om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden".
+"Den erhvervsdrivende skal derfor ved den første henvendelse til forbrugeren, oplyse denne om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden", se markedsføringsloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
@@ -145,7 +147,7 @@ Den erhvervsdrivende kan ikke påberåbe sig ugyldigheden.
 
 ## Forbud mod negativ aftalebinding (-aftaleindgåelse)
 
-En forbruger kan som udgangspunkt ikke blive bundet ved sin passivitet, jf. fbl § 6.
+En forbruger kan som udgangspunkt ikke blive bundet ved sin passivitet, jf. FBL § 6.
 
 Ses særligt inden for TV/sattelitaftaler,IT/internetforbindelser, avis- og bladabonnementer
 
@@ -428,7 +430,7 @@ Der kan anvendes en standardfortrydelsesformular.
 
 ## Urimelige aftaler
 
-Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36. 
+Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36, se nærmere aftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**. 
 
 Generelle betragtninger- vurdering:
 

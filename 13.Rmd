@@ -32,9 +32,9 @@ Modsat universalforfølgning som f.eks. konkurs.
 
 De juridiske udfordringer for en individualforfølgning er:
 
-Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, retsplejelovens kapitel 44a og § 478.
+Udlægsgrundlag (eksekutionsgrundlag) – herunder betalingspåkrav, jf. retsplejelovens kapitel 44a og § 478.
   
-Udlæggets genstand (trangsbeneficiet m.m.), retsplejelovens § 507-515.
+Udlæggets genstand (trangsbeneficiet m.m.), jf. retsplejelovens § 507-515.
 
 ---
   
@@ -44,7 +44,7 @@ Når kreditorerne går sammen for at inddrive deres krav (insolvensbehandling). 
 
 Eksempler på universalforfølgning er konkurs, tvangsakkord og gældssanering. Ligelighedsprincippet er centralt. 
 
-Der er desuden mulighed for omstødelse iht. konkursloven (KL). 
+Der er desuden mulighed for omstødelse iht. konkursloven (KL), se nærmere konkursloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 Modsat: *individualforfølgning*.
 
@@ -60,17 +60,17 @@ Overordnet om rekonstruktion - anmodning, betingelser og retsvirkning:
   
 Konkursret – anmodning, 
   
-Betingelser, KL § 17-21, 
+Betingelser, jf. KL § 17-21, 
   
-Fristdag, KL § 1 
+Fristdag, jf. KL § 1 
 
-Nærtstående, KL § 2, 
+Nærtstående, jf. KL § 2, 
 
-Konkursordenen, KL kapitel 10, 
+Konkursordenen, jf. KL kapitel 10, 
   
-Separatister  og underpanthavere, KL §§ 82 og 86, 
+Separatister  og underpanthavere, jf. KL §§ 82 og 86, 
   
-omstødelse, KL kapitel 8 
+omstødelse, jf. KL kapitel 8 
 
 ---				
 
@@ -88,7 +88,7 @@ Reguleret i Retsplejeloven (RPL; Lovbekendtgørelse nr. 1284 af 14. november 201
   
 *Universalforfølgning:*
 
-Reguleret i konkursloven (KL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering.
+Reguleret i konkursloven (KL; Lovbekendtgørelse nr. 11 af 6. januar 2014), og omfatter konkurs, rekonstruktion og gældssanering, jf. konkursloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
   
 Formålet er at stille kreditorerne lige i konkursboet.
   
@@ -98,6 +98,7 @@ Kun hvis skyldneren er insolvent, jf. KL § 17:
 
 Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående”.
  
+---
 
 Ordet *”insolvent”*
 
@@ -145,14 +146,14 @@ En juridisk person kan som »skyldner« erklæres konkurs, hvis enten ingen delt
 
 Pengeinstitutter kan erklæres konkurs, men beskikkelse af kurator sker efter forhandling med Finanstilsynet, se lov om finansiel virksomhed § 246, stk. 3. 
 
-Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet.
+Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, hvorefter bl.a. beskikkelse af kurator sker efter forhandling med Finanstilsynet. Se lov om finansiel virksomhed i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
 
 Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
 
 ![](img/insolvent3.jpg)
 
 
-Insolvens antages i almindelighed at foreligge efter KKL § 18, hvis:
+Insolvens antages i almindelighed at foreligge efter KL § 18, hvis:
 
 * skyldneren erkender at være insolvent, 
 
@@ -180,10 +181,14 @@ Den tredje rykkerskrivelse skal indeholde et inkassovarsel.
 
 ![](img/ryk.jpg)
 
+---
+
+Om renteloven, jf. Lovbekendtgørelse 2014-05-13 nr. 459 om renter og andre forhold ved forsinket betaling (renteloven), se **renteloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 
-
-Inkasso reguleres af Lovbekendtgørelse nr. 1018 af 9. september 2014 om inkassovirksomhed. 
+Inkasso reguleres af Lovbekendtgørelse nr. 1018 af 9. september 2014 om inkassovirksomhed, se nærmere **inkassoloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
 
 Formålet med inkassoloven er at sikre, at privat inkassovirksomhed, dvs. den inddrivelse af fordringer på andres vegne, der sker uden fogedretternes medvirken som led i privat inkassovirksomhed, foregår på en rimelig og forsvarlig måde. 
 
@@ -351,6 +356,12 @@ Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 * Krav fra offentlige myndigheder fx Skat.
 
 * Gældsbreve, hvis der står, det kan tvangsfuldbyrdes.
+
+---
+
+"Eksekutionsfundament" er et dokument, der danner grundlag for tvangsfuldbyrdelse, fx en dom, et retsforlig, et frivilligt forlig eller et gældsbrev.
+
+"Eksigibel" er	udtryk for, at et dokument kan tvangsfuldbyrdes.
 
 ---
 
@@ -605,8 +616,8 @@ Betalingspåkravet udfyldes af kreditor og indgives til Fogedretten.
 Betalingspåkravet kan kun anvendes hvis:
 
 +	Kreditor har et pengekrav på højst 100.000 kr.
-+	Kravet er ubetinget og ubestridt af skyldner
-+	Skyldner har fået et ”inkassobrev”
++	Kravet er ubetinget og ubestridt af skyldner.
++	Skyldner har fået et ”inkassobrev”.
   
 Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
 
@@ -637,17 +648,17 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 *U2:* Særlige indlån i pengeinstitut fx bil købt på afbetaling som et kreditkøb med ejendomsforbehold.
 
-*U3:* Endnu ikke udbetalt løn, RPL § 511.
+*U3:* Endnu ikke udbetalt løn, jf. RPL § 511.
 
 *U4:* Udbetalt erstatning fx fra ulykkesforsikring, RPL § 513 Erstatningen skal være holdt adskilt fra øvrige midler.
 
-*U5:* Personlige aktiver med beskeden værdi, RPL § 515, stk. 1
+*U5:* Personlige aktiver med beskeden værdi, jf. jf. RPL § 515, stk. 1.
 
-*U6:* Personlige hjælpemidler, RPL § 515, stk. 2
+*U6:* Personlige hjælpemidler, jf. RPL § 515, stk. 2.
 
-*U7:* Båndlagte gaver, RPL § 514
+*U7:* Båndlagte gaver, jf. RPL § 514.
 
-*U8:* Trangsbeneficiet, RPL § 509
+*U8:* Trangsbeneficiet, jf. RPL § 509.
 
 
 ---
@@ -691,7 +702,7 @@ Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstan
 
 * Kæledyr
 
-* Gaver
+* Gaver, 
 
 * Værdier med affektionsværdi
 
@@ -777,10 +788,15 @@ Man kan også give en skriftlig fuldmagt til en anden person, der så kan byde f
 ## Konkurs
 
 
+Se **konkursloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+
 
 ![](img/insolvent7.jpg)
 
 For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er insolvent. 
+
+En "fallent"	person, er en person der er gået konkurs.
 
 Man er insolvent, hvis man ikke kan betale sin gæld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. 
 
@@ -1023,6 +1039,8 @@ Fristdagen er derfor som udgangspunkt den dag, da skifteretten modtog begæring 
 
 Det er dagen hvor begæringen modtages, som er afgørende for fristdagen.
 
+*"Afkræftelse"* er et	gammelt ord for omstødelse af dispositioner forud for en konkurs.
+
 ---
 
 
@@ -1164,6 +1182,27 @@ Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets dire
 **Video: Hvad er forskellen på frivillig gældssanering og konkurs?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-x0_B732-Pw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Studenteropgave:**
+
+**Find domme i UfR, hvor der er sket omstødelse.**
+
+Se link til Ugeskrift for Retsvæsen (UfR):
+
+**https://pro.karnovgroup.dk/journals/ufr**
+
+---
+
+Om gavebegrebet:
+
+En *"gave"*	defineres i juraen som en vederlagsfri overførsel af et formuegode som et udslag af gavmildhed (animus donandi). 
+
+Et gaveløfte	er en ensidig viljeserklæring om at ville yde en anden en gave. Skriftlige gaveløfter kræver ikke accept. 
+
+Mundtlige gaveløfter skal accepteres straks.
+
 
 
 ---
@@ -1600,6 +1639,8 @@ En tvangsakkord kan som hovedregel ikke gennemføres, hvis fordringerne nedsætt
 
 Vedtagelse af en tvangsakkord kræver tilslutning fra mindst 60% af de deltagende fordringshavere efter antal. 
 
+Betegnelsen "fordringshaver" er	den, der har noget til gode.
+
 De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bestemt andel af det samlede beløb, der giver stemmeret; andelen afhænger af akkordforslagets indhold, men udgør mindst 60%.
 
 --- 
@@ -1815,6 +1856,8 @@ Hvis gælden bliver sat ned, bliver der lavet en afdragsordning for resten af g�
 
 ![](img/h.jpg)
 
+En *"gældssanering"* er	bortfald eller nedsættelse af gæld ved en kendelse afsagt af skifteretten.
+
 Gældssanering er en ordning, hvor man får nedsat en stor og håbløs gæld til et beløb, som man er i stand til at betale.
 
 Skifteretten nedsætter ens gæld til en procentdel af den oprindelige gæld, og som udgangspunkt omfatter en gældssanering alle ens kreditorer. 
@@ -1827,7 +1870,10 @@ Beløbet, som man skal betale, fastsættes, så man har et bestemt rådighedsbel
 
 Hvis ens rådighedsbeløb og husleje m.v. svarer til ens indtægter, kan skifteretten træffe afgørelse om, at gælden helt bortfalder. 
 
-Mankan læse reglerne om gældssanering i konkurslovens kapitel 25-29.
+---
+
+Man kan læse reglerne om gældssanering i konkurslovens kapitel 25-29, se konkursloven i lovsamlingen:
+**https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 

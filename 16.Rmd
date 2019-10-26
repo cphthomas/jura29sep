@@ -1,7 +1,7 @@
 # Fordringer, gældsbreve og pantebreve
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ![](img/lon.jpg)
@@ -9,6 +9,10 @@
 
 
 Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og *Lars Hedegaard Kristensen og Henrik Kure*: Elektroniske Karnovkommentar til gældsbrevsloven].
+
+---
+
+Se **gældsbrevsloven** (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”) i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**  
 
 ---
 
@@ -121,13 +125,17 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ---
  
-Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simple fordringer, jf. (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”). 
+Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simple fordringer, jf. (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”). Se **gældsbrevsloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
-Denne lov indeholder ikke nogen direkte definition af begrebet ”gældsbrev”. 
+---
+
+GBL indeholder ikke nogen direkte definition af begrebet *”gældsbrev”*. 
 
 Gældsbrevslovens forarbejder henholder sig til den gængse juridiske forståelse, nemlig at der ved et gældsbrev forstås: 
 
 *"En skriftlig Erklæring, der hjemler en i Hovedsagen, ubetinget, ensidig Fordring på et bestemt Pengebeløb"*. 
+
+Eller udtrykt på en anden måde: Et gældsbrev er en skriftlig skylderklæring, hvor udstederen erkender, at der påhviler ham eller hende en ensidig ubetinget forpligtelse til at betale et bestemt pengebeløb.
 
 Kravet om, at der skal foreligge en skriftlig erklæring, indebærer, at der skal foreligge et dokument. 
 

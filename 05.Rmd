@@ -9,9 +9,11 @@ cat(readLines('np.html'))
 
 *Hvad er en fuldmagt?*
 
+Fuldmagt er en	ret til at handle i en andens navn og for en andens regning.
+
 Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lade en anden (fuldmægtigen) handle på sine vegne overfor andre (tredjepart). 
 
-Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
+Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 

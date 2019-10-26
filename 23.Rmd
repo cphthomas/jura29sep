@@ -32,7 +32,7 @@ cat(readLines('np.html'))
 
 ![](img/agtefalledloven1.jpg)
 
-Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet "ÆL")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes. 
+Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet "ÆL")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes.Se loven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 ***Under ægteskabet er ægtefællerne to selvstændige personer med hver sin økonomi***. 
 
@@ -1128,6 +1128,12 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 **Video: Guide til bodeling ved skilsmisse**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cKeZZuNhIaw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+Guiden når man går fra hinanden:
+
+**https://www.borger.dk/familie-og-boern/skilsmisse-og-familiebrud**
 
 ---
 

@@ -16,7 +16,10 @@ cat(readLines('np.html'))
 * *Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5*
 
 
+---
 
+Lovgrundlaget er **selskabsloven**, jf. Lovbekendtgørelse 2019-07-23 nr. 763
+om aktie- og anpartsselskaber og **erhvervsvirksomhedsloven** (LEV), jf. Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern, se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 
 
@@ -50,9 +53,11 @@ cat(readLines('np.html'))
 ### Forskellen på en juridisk person og fysisk person
 
 
-En juridisk person er en organisation, som har selvstændig retsevne, som f.eks. et selskab, en fond eller en forening. 
+En *"juridisk person"* er en organisation, som har selvstændig retsevne, som f.eks. et selskab, en fond eller en forening. 
 
-Fysiske personer af kød og blod anses ikke for juridiske personer.
+En *"forening"* er en sammenslutning med en vekslende medlemskreds til opnåelse af et fælles formål af økonomisk eller ideel karakter.
+
+*"Fysiske personer"* af kød og blod, som et biologisk væsen, anses ikke for juridiske personer.
 
 En juridisk person er en retlig enhed, der opstår af en sammenslutning af personer, fx et selskab, en andelsboligforening, fonde, kommunen, staten, en organisation, et konkursbo eller dødsbo.
 
@@ -161,7 +166,9 @@ Virksomhedens navn er navneretligt beskyttet, jf. LEV § 6, stk. 2.
 
 Hæftelse: Personligt, ubegrænset og direkte, med alt hvad han eller hun ejer.
 
-Lovgivning: Lov om visse erhvervsdrivende virksomheder (Lovbekendtgørelse nr. 1295 af 15. november 2013 om visse erhvervsdrivende virksomheder; LEV).
+---
+
+Lovgivning: Lov om visse erhvervsdrivende virksomheder: Erhvervsvirsomhedsloven (LEV) (Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern), se erhvervsvirksomhedsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
  
@@ -263,7 +270,10 @@ Beslutninger: Skal ske i enighed, medmindre andet aftales.
 ![](img/kapital.png)
 
 
-Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse nr. 1089 af 14. september 2015 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). 
+Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse 2019-07-23 nr. 763
+om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). Se selskabsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 Det omfatter Bestemmelsen i § 1, stk. 1 angiver selskabslovens anvendelsesområde.
 
@@ -321,6 +331,8 @@ For så vidt angår ledelsen påhviler pligten til løbende at udøve dette skø
 Kapitalberedskabet skal således til enhver tid være forsvarligt, dvs. stå i rimeligt forhold til selskabets aktiviteter. Ledelsen er personligt ansvarlig for dette forhold. 
 
 Pligten er for hvert enkelt relevant ledelsesorgan fastslået henholdsvis i § 115, nr. 5 (som en af bestyrelsens opgaver), i § 116, nr. 5 (som en af tilsynsrådets opgaver), og i § 118, stk. 2 (som en af direktionens opgaver).
+
+"Bestyrelsen" er de personer, som har den overordnede ledelse af et selskab eller en forening. Vælges på generalforsamlingen.
 
 
 2. Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
@@ -598,6 +610,16 @@ Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget li
 I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning.
 
 Koncernforbundne selskaber kan indgå aftaler og handle med hinanden på sædvanlige vilkår.
+
+---
+
+Begreber der er godt at kunne i selskabsretten:
+
+*"Corporate governance"*:	De overordnede principper og strukturer, der regulerer samspillet mellem ledelsesorganerne i et selskab, ejerne og andre, der direkte berøres af selskabets dispositioner og virksomhed.
+
+*"CSR"*	Corporate Social Responsibility: Ved virksomheders samfundsansvar forstås, at virksomheder frivilligt integrerer hensyn til blandt andet menneskerettigheder, sociale forhold, miljø- og klimamæssige forhold samt bekæmpelse af korruption i deres forretningsstrategi og forretningsaktiviteter.
+
+---
 
 ![](img/google.png)
   

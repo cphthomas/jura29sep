@@ -5,9 +5,9 @@ cat(readLines('np.html'))
 ```
 
 
-Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden. 
+***Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden***. 
 
-Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden.
+***Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden***.
 
 ---
 
@@ -19,7 +19,7 @@ Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet 
 
 ---
 
-Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler.
+Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler, **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**
 
 ![](img/forsikringsaftalelov.jpg)
 
@@ -33,11 +33,11 @@ Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
 
 Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller forsikringsselskabets pligt til at tegne en bestemt forsikring.
 
-Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en forsikring.
+Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring.
 
-Efter færdselslovens § 105, stk. 1, skal der f.eks. tegnes ansvarsforsikring for motordrevne køretøjer, og efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde.
+Efter færdselslovens § 105, stk. 1, skal der fx. tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. Se nærmere lovsamlingen i kapitel 26.
 
-Det kan også nævnes, at der f.eks. skal tegnes ansvarsforsikring for luftfartøjer, jf. luftfartslovens § 130, stk. 1, ligesom statsautoriserede og registrerede revisorer, ejendomsformidlere og forsikringsmæglere har pligt til at tegne ansvarsforsikring. 
+Det kan også nævnes, at der f.eks. skal tegnes ansvarsforsikring for luftfartøjer, jf. luftfartslovens § 130, stk. 1, ligesom **statsautoriserede og registrerede revisorer, ejendomsformidlere og forsikringsmæglere har pligt til at tegne ansvarsforsikring**. 
 
 Se fx. Bekendtgørelse 2015-12-09 nr. 1537 om garantistillelse og ansvarsforsikring for ejendomsmæglere, ejendomsformidlingsvirksomheder m.v. jf. § 4, stk. 1:
 
@@ -55,7 +55,21 @@ Nævnes kan også pantebrevsformular A og B vedrørende pantsætning af fast eje
 
 ---
 
-*Forskellen på Skadesforsikring vs. livsforsikring*
+Om brandforsikring, jf. forsikringsaftalelovens § 79.
+
+Brandforsikring dækker den ved ildsvåde forårsagede skade på en af forsikringen omfattet genstand, selv om denne ikke kommer i brand. 
+
+Skade, forårsaget ved ild, der ikke kan betegnes som ildsvåde, omfattes ikke af forsikringen.
+
+Der skal foreligge en flammedannelse, der er sluppet løs.
+
+Ildebrand forudsætter således en flammedannelse; skader på halmfyr, som skyldtes en glødebrand, er derfor ikke omfattet. 
+
+Svideskader dækkes heller ikke.
+
+---
+
+*Forskellen på skadesforsikring vs. livsforsikring*
 
 
 Ordet skadeforsikring - dækker over forsikring af skader på ejendele eller personer.
@@ -72,11 +86,11 @@ Derudover dækker ordet også over *sundheds- og ulykkesforsikringer* hvor man k
 
 ---
 
-*"Væddemålet med livsforsikringsselskabet på hvilket tidspunkt man dør"*
+*"Væddemålet med livsforsikringsselskabet om på hvilket tidspunkt man dør"*
 
 ![](img/djav.jpg)
 
-Livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden. 
+***En livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden***. 
 
 Det garanterer altså ikke, at man lever for altid - men den kan resultere i en økonomisk udbetaling til ens familie og de efterladte, hvis man dør for tidligt.
 
@@ -107,23 +121,35 @@ Livsforsikring er således ikke skadesforsikring, men en *summaforsikring*, der 
 
 ---
 
-Der skal således være tale om en *"lovlig interesse"*, der kan forsikres af skadesforsikringen. 
+*Lad os grave os nærmere ind i skadesforsikringsuniverset:* 
 
-Justitsministeriel har i en skrivelse fra 1972 som refereret i Dansk Forsikringstidende nr. 21 af 17. juli 1972, bemærket følgende: 
+Der skal således være tale om en *"lovlig interesse"*, der kan forsikres af skadesforsikringen. Interessen der ønskes forsikret, må ikke være i strid med "lov og ærbarhed", Lov og ærbarhed, vending, der stammer helt tilbage fra **Christian 5.s Danske (1683) Lov 5-1-2**, hvori der står fremhævet og som stadigvæk gælder den dag i dag, at aftaler skal holdes, hvis de "ikke er imod Loven, eller Ærbarhed", 
+
+Det latinske udtryk "contra bonos mores"	i strid med lov og ærbarhed. Danske Lov 5-1-2: "Alle contracter, som friviligen giøris af dennem, som ere myndige, og komne til deris lavalder, vær sig ved kiøb, sal, gave, mageskifte, pant, laan, leje, forpligter, forløfter og andet, ved hvad navn det nævnis kand, som ikke er imod loven, eller ærbarhed, skulde holdis i alle deris ord og puncter, saa som de indgangne ere". **Se nærmere Danske Lov i lovsamlingen https://jura.tepedu.dk/lovsamling.html** (5: femte bog, 1: kap. 1, 2: 2 afsnit)
+
+Se tilsvarende det latinske udtryk: "Ex injuria jus non oritur" "Fra ulovligheder skal lovgivning ikke opstå" og refererer til det grundlæggende juridiske princip at ulovlige handlinger ikke skal sætte præcedens for efterfølgende lovliggørelse af lovovertræderens handlinger.
+
+
+
+Justitsministeriel har ligeledes i et notat fra 1972 som refereret i Dansk Forsikringstidende nr. 21 af 17. juli 1972, bemærket følgende: 
 "at den interesse, der består i at undgå de strafferetlige følger af et retsbrud, må anses for en ulovlig interesse. Forsikring kan således ikke tegnes mod faren for at blive idømt bødestraf eller konfiskation. På samme måde vil interessen i at opnå økonomisk udbytte af en strafbar handling som udgangspunkt ikke kunne anses som en lovlig interesse. Endvidere kan forsikring af en interesse være udelukket ved lov". 
 
-
-Et forsikringselskab kan derfor fx ikke tilbyde at sælge forsikringer imod fartbøder, det vil ikke være en lovlig interesse.
+Et forsikringselskab kan derfor fx ikke tilbyde at sælge forsikringer imod fartbøder eller parkeringsafgifter, det vil ikke være en lovlig interesse.
 
 ---
 
-Forsikringselskaberne skal ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder, fx. opståede skader i forbindelse med hæleri, tyveri eller skader udført af en håndværker med betaling af beløbet uden moms.
+Forsikringselskaberne skal således ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder, fx. opståede skader i forbindelse med hæleri, tyveri eller skader og mangler udført af en håndværker med betaling af beløbet uden moms (sortarbejde). Man vil heller ikke som forbruger kunne klage til Byggeriets Ankenævn over den mangelfulde ydelse fra "den sorte håndværker"
+
+---
+
+
+
 
 ![](img/haler.jpg)
 
 ---
 
-Forsikringsankenævnet har tilsyneladende strammet sin praksis, hvis det er overvejende sandsynlgt, at en stjålen genstand er hælervare:
+Forsikringsankenævnet har tilsyneladende også strammet sin praksis, hvis det er overvejende sandsynlgt, at en stjålen genstand er hælervare:
 
 Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde købt en helt ny computer via den blå avis: 
 "Computeren var købt på en finasieringsaftale med et kreditkort, der var stjålet. Ved købet fik hun udleveret fakturaen, hvor hun kunne se, at hendes sælger ikke var den person, der havde købt computeren. Hun betalte en betydelig lavere pris for computeren end den kostede i forretningen. Efter nævnets opfattelse burde klagerens datter have indset, at sælger ikke var kommet i besiddelse af computeren på lovlig vis. At der ikke blev rejst tiltale mod datteren for hæleri, kunne ikke føre til andet resultat".
@@ -134,7 +160,7 @@ Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde kø
 
 
 
-**Forsikringsankenævnskendelse sagsnr.: 89.051.** I dette tilfælde oplyste klageren, at han havde købt en kongekæde af nogle rockere. Han ville ikke oplyse nærmere om sælgernesidenditet. Han vidste heller ikke, hvor rockerne havde kæden fra. Kongekæden til en værdi af 180.000 kr. var nu stjålet. Nævnet fandt ikke anledning til at kritisere, at selskabet havde afvist dækning med henvisning til FAL § 35.
+**Forsikringsankenævnskendelse sagsnr.: 89.051.** I dette tilfælde oplyste klageren, at han havde købt en kongekæde af nogle rockere. Han ville ikke oplyse nærmere om sælgernes idenditet. Han vidste heller ikke, hvor rockerne havde kæden fra. Kongekæden til en værdi af 180.000 kr. var nu stjålet. Nævnet fandt ikke anledning til at kritisere, at selskabet havde afvist dækning med henvisning til FAL § 35.
 
 ---
 
@@ -143,6 +169,18 @@ Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde kø
 
 ---
 
+Se andre domme og nævnsafgørelser om spørgsmålet om der er tale om en ulovlig eller lovlig interesse som evt. kan forsikres:
+
+
+**FED2002.2010ANF** – Edb-programmer der ulovligt var overdraget til forsikringstageren af dennes arbejdsgiver, kunne ikke erstattes af forsikringen.
+
+**FED1997.1488/2ANF** – Dækning for tyveri af en boltsaks, som en tidligere indbrudstyv havde efterladt!
+
+**FED1995.1575/2ANF** – Værdien af stjålet pistol udgjorde lovlig interesse trods efterfølgende inddragelse af våbentilladelse.
+
+---
+
+
 
 ## <font color="red">Forsikringsklasser indenfor skadesforsikring<sup> Premium </font></sup>
 
@@ -150,7 +188,7 @@ Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde kø
 
 Ved skadesforsikring forstås begrebsmæssigt forsikringer omfattet af de forsikringsklasser (forsikringstyper), der fremgår af bilag 7 til Lov om finansiel virksomhed: 
 
-Bilag 7 oplister de forsikringsklasser (nr. 1-18), der anses for skadesforsikring, i overensstemmelse med de bagvedliggende EU-regler herom på forsikringsområdet:
+**Bilag 7 oplister de forsikringsklasser (nr. 1-18), der anses for skadesforsikring**, i overensstemmelse med de bagvedliggende EU-regler herom på forsikringsområdet:
 
 "BILAG 7
 
@@ -219,8 +257,6 @@ Skadesforsikring er således for eksempel:
 *Retshjælpsforsikring*.
 
 
-
-
 ---
 
 
@@ -230,17 +266,19 @@ Dette omfatter fx aftaler vedrørende vejhjælp, hjemtransport eller anden assis
 
 ---
 
-Skadesforsikringens genstand skal kunne ansættes til en økonomisk værdi før, at der kan ske dækning på skadesforsikringen:
+**Skadesforsikringens genstand skal kunne ansættes til en økonomisk værdi før, at der kan ske dækning på skadesforsikringen**
+
+Hvis genstanden ikke har nogen nævneværdig økonomisk værdi afvises der dækning på skadesforsikringen:
 
 ![](img/born4.jpg)
 
-**FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser.
+Se fx. **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser.
 
 ---
 
 ## <font color="red">Udvalgte skadesforsikringer<sup> Premium </font></sup>
 
-Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring samt informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.
+Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring samt informationer fra Forsikringsoplysningen samt domme fra UfR og FED udgivet af KarnovGroup.
 
 ---
 
@@ -252,7 +290,7 @@ Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* I
 
 *Bilforsikringen:*
 
-Langt de fleste private bilejere har forsikret deres bil med en kombineret kasko- og ansvarsforsikring. 
+Langt de fleste private bilejere har forsikret deres bil med en ***kombineret kasko- og ansvarsforsikring***. 
 
 Er der ikke gæld i bilen, og er der tale om en ældre bil, nøjes mange med den lovpligtige ansvarsforsikring. 
 
@@ -268,14 +306,12 @@ Er der ikke gæld i bilen, og er der tale om en ældre bil, nøjes mange med den
 
 ![](img/farsels.jpg)
 
-
-
 Ifølge færdselsloven (Lovbekendtgørelse 2018-11-21 nr. 1324
-Færdselsloven) skal den ansvarlige for et motorkøretøj erstatte de skader, som køretøjet volder ved færdselsuheld, ved eksplosion eller ved brand.
+Færdselsloven) skal den ansvarlige for et motorkøretøj erstatte de skader, som køretøjet volder ved færdselsuheld, ved eksplosion eller ved brand, **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 Se færdselslovens § 101:
 
-" Den, der er ansvarlig for et motordrevet køretøj, skal erstatte skader, som køretøjet volder ved færdselsuheld eller ved eksplosion eller brand, der hidrører fra brændstofanlæg i køretøjet.
+"Den, der er ansvarlig for et motordrevet køretøj, skal erstatte skader, som køretøjet volder ved færdselsuheld eller ved eksplosion eller brand, der hidrører fra brændstofanlæg i køretøjet.
 Stk. 2. Erstatningen for personskade eller tab af forsørger kan nedsættes eller bortfalde, hvis skadelidte eller afdøde forsætligt  har medvirket til skaden. Erstatningen kan endvidere nedsættes og i særlige tilfælde bortfalde, hvis skadelidte eller afdøde ved grov uagtsomhed har medvirket til skaden.
 Stk. 3. Erstatningen for tingsskade kan nedsættes eller bortfalde, hvis skadelidte forsætligt eller uagtsomt har medvirket til skaden".
 
@@ -283,7 +319,7 @@ Det betyder, at ejeren altid er erstatningspligtig for disse uheld.
 
 Disse erstatningskrav vil blive betalt via motorkøretøjets lovpligtige ansvarsforsikring.
 
-Se færselslovens § 105:
+Se færdselslovens § 105:
 
 "Krav om erstatning for skader forvoldt af motordrevne køretøjer skal være dækket af en forsikring i et ansvarsforsikringsselskab, der har Finanstilsynets tilladelse (koncession) til at drive forsikringsvirksomhed. ...".
 
@@ -294,7 +330,7 @@ Se færselslovens § 105:
 
 ![](img/bil9.png)
 
-Ansvarsforsikringen for et motorkøretøj er lovpligtig og dækker det erstatningsansvar, som ejer eller bruger kan få. 
+Ansvarsforsikringen for et motorkøretøj er således lovpligtig og dækker det erstatningsansvar, som ejer eller bruger kan få. 
 
 Den lovpligtige ansvarsforsikring dækker skade på tredjemands person eller ting, også i det skadevoldende køretøj. 
 
@@ -302,7 +338,7 @@ Ejeren, brugeren og føreren er derimod ikke dækket, medmindre en sådan dækni
 
 Dommen i *U 1960 235 H* (ansvarsforsikringen dækkede ikke skade, der overgik ejeren, medens denne var passager) og 
 
-Dommen *U 1961 925 V* (tilsvarende afgørelse). 
+Dommen i *U 1961 925 V* (tilsvarende afgørelse). 
 
 Dommen i *U 1998 1626 H* (ansvarsforsikringen dækkede ikke forsikringstagers eget tab), da man ikke kan være erstatningsansvarlig overfor sig selv, skal så dækkes af forsikrinstagerens kaskoforsikring på bilen eller dennes ulykkesforsikring i forhold om der er tale om forsikringstagerens ting- eller personskade. 
 
@@ -314,6 +350,8 @@ Dommen i *U 1969 779 Ø* (ansvarsforsikringen dækker ikke politiets udgifter ti
 
 Dommen i *U 2011 3264 Ø* (det erstatningsretlige opgør i et tilfælde, hvor en bil, der forvoldte en færdselsulykke, viste sig ikke at være ansvarsforsikret efter ejerskifte).
 
+---
+
 Ansvarsforsikringen dækker for et enkelt uheld personskader eller tab af forsørger op til 111 mio. kr. og tingskader op til 24 mio. kr. 
 
 Dækningssummerne bliver reguleret hvert år pr. 1. januar. 
@@ -321,6 +359,8 @@ Dækningssummerne bliver reguleret hvert år pr. 1. januar.
 Ansvarsforsikringen dækker ikke skade på motorkøretøjets fører. Derimod er passagererne dækket. 
 
 Forsikringen dækker heller ikke skade på forsikringstagerens eller brugerens ting eller skade på tilkoblet køretøj, f.eks. trailer. 
+
+**Erstatningsretlig princip: Man kan ikke være erstatningsansvarlig overfor sig selv**.
 
 Hvis det skadevoldende køretøj ikke er forsikret eller forsvandt fra uheldsstedet (flugtbilist), har man mulighed for at få erstatning fra en fællespulje. 
 
@@ -343,11 +383,15 @@ Bemærk: Er der tale om en flugtbilist, kan der også udbetales erstatning for t
 
 *Kaskoforsikringen på forsikringstagerens bil*
 
-Ejere af et motordrevet køretøj (bil, motorcykler eller knallert) kan ud over den lovpligtige ansvarsforsikring også kaskoforsikre deres køretøj. 
+Ejere af et motordrevet køretøj (bil, motorcykler eller knallert) kan ud over den lovpligtige ansvarsforsikring også kaskoforsikre deres eget køretøj. 
+
+---
 
 Ordforklaring:
 
-Ordet *”kasko”* kommer sig af det spanske ”casco”, der betyder ”skibsskrog”, og var oprindelig et ord for forsikring af skibes motorer, skrog og inventar. ... Med en kaskoforsikring, får man dækket skader på selve ens bil.
+Ordet *”kasko”* kommer sig af det spanske ”casco”, der betyder ”skibsskrog”, og var oprindelig et ord for forsikring af skibes motorer, skrog og inventar. ... Med en kaskoforsikring, får man dækket skader på selve ens egen bil.
+
+---
 
 Forsikringen dækker de skader, der sker på ejerens bil. 
 
@@ -355,8 +399,10 @@ Har man lånt penge til at finansiere købet, er det normalt altid et krav fra b
 
 Forsikringen dækker enhver skade på det forsikrede køretøj, samt tyveri af køretøjet, medmindre at der foreligger grov uagtsomhed hos forsikringstageren, fx hvis bilen forlades af forsikrngstageren mens bilen er i tomgang. 
 
+---
 
-Se Forsikringsankenævnets afgørelse  
+
+*Se Forsikringsankenævnets afgørelse:*  
 
 
 ![](img/bil10.jpg)
@@ -366,7 +412,9 @@ Se Forsikringsankenævnets afgørelse
 Se **Forsikringsankenævnets sagsnr.: 73491.** Klager over afslag på dækning for en kaskoskade opstået i forbindelse med et tyveri: 
 "Klager havde tegnet bilforsikring. Klagerens bil var blevet stjålet, da hendes ægtefælle havde parkeret bilen uden for en servicestation, medens han skulle handle. Bilen var ikke låst og der lå en bilnøgle i bilen. Bilen blev skadet da gerningsmanden mistede herredømmet over bilen. Nævnet fandt ifølge politirapporten at kunne lægge til grund, at klagerens ægtefælle, ved at have forladt bilen med nøgle i tændingslåsen som sket, havde forvoldt skaden ved grov uagtsomhed. Endvidere fandt nævnet, at klageren ikke havde haft kendskab til det hændte, hvorfor hun ikke derved havde udvist grov uagtsomhed. Selskabet havde dog anført i betingelserne, at der ikke var dækning, hvis den grove uagtsomhed var udvist at en ægtefælle eller en samlever. Klageren måtte således tåle at blive identificeret med sin ægtefælle. Selskab medhold".
 
-Se nedvidere **Forsikringsankenævnets sagsnr.: 82352.**
+---
+
+Se endvidere **Forsikringsankenævnets sagsnr.: 82352.**
 
 Klager over afvisning af dækning for en stjålet bil. Klager fik stjålet sin bil, mens han var inde i en bagerforretning:
 "Han anførte, at han havde forsøgt at låse med fjernbetjeningen, men at denne åbenbart ikke virkede, og at gerningsmanden måtte have fundet klagers glemte ekstranøgle i handskerummet. Bilen blev senere fundet, og klager var utilfreds med, at selskabet erklærede den totalskadet, når selskabet efterfølgende ikke var villig til at udbetale erstatning. Gerningsmanden forklarede, at motoren havde stået i tomgang. Selskabet afviste dækning med henvisning til, at klager havde fremkaldt forsikringsbegivenheden ved grov uagtsomhed. Nævnet fandt, at skaden måtte anses for forvoldt ved grov uagtsomhed, uanset om motoren havde kørt i tomgang, eller om tyven havde fundet nøglen i handskerummet. Nævnet måtte lægge til grund, at taksator på korrekt vis havde erklæret bilen totalskadet, og at klager ved sin underskrift på erstatningsopgørelsen selv havde godkendt dette. Klager havde ikke godtgjort, at selskabet havde påført ham et tab, som det var forpligtet til at dække. Selskab medhold".
@@ -378,7 +426,7 @@ Klager over afvisning af dækning for en stjålet bil. Klager fik stjålet sin b
 
 
 Samt **Forsikringsankenævnets sagsnr.: 73618.** Klager over afslag på dækning for skade på bil: 
-"Klager havde tegnet bilforsikring. Klageren punkterede og kørte herefter ca. 250 meter videre, da han ikke ville stoppe trafikken. Han parkerede herefter bilen og opdagede først der, at begge hjul var punkterede. Selskabet fandt, at klageren havde haft mulighed for, at standse langt tidligere end han havde gjort, og selskabet ville derfor ikke dække skaden. Selskabet mente, at klageren havde tilsidesat sin tabsbegrænsningspligt, og at han dermed havde fremkaldt forsikringsbegivenheden ved grov uagtsomhed. Nævnet fandt, at undladelsen af at standse efter en punktering kunne anses for en tilsidesættelse af den generelle regel i FAL § 52 om sikredes afværge- og tabsbegrænsningspligt. Nævnet fandt, at klageren havde tilsidesat pligten ved grov uagtsomhed. Selskab medhold". 
+"Klager havde tegnet bilforsikring. Klageren punkterede og kørte herefter ca. 250 meter videre, da han ikke ville stoppe trafikken. Han parkerede herefter bilen og opdagede først der, at begge hjul var punkterede. Selskabet fandt, at klageren havde haft mulighed for, at standse langt tidligere end han havde gjort, og selskabet ville derfor ikke dække skaden. Selskabet mente, at klageren havde tilsidesat sin tabsbegrænsningspligt, og at han dermed havde fremkaldt forsikringsbegivenheden ved grov uagtsomhed. Nævnet fandt, at undladelsen af at standse efter en punktering kunne anses for en tilsidesættelse af den generelle regel i FAL § 52 om sikredes afværge- og tabsbegrænsningspligt. Nævnet fandt, at klageren havde tilsidesat pligten ved grov uagtsomhed. Selskab medhold".
 
 ---
 
@@ -390,7 +438,7 @@ Endvidere **Forsikringsankenævnets sagsnr.: 73632.** Klager over afslag på dæ
 
 ---
 
-Der er dog nogle *undtagelser på bilforsikringen:* 
+Der er dog nogle *undtagelser på bilkaskoforsikringen:* 
 
 Kaskoforsikringen dækker ikke ved:
 
@@ -405,6 +453,12 @@ Kaskoforsikringen dækker ikke ved:
 * Skader forvoldt, mens køretøjet blev ført af en person, der var påvirket af spiritus, medmindre det godtgøres, at føreren var uden skyld i uheldet.
 
 * Skader indtrådt, mens køretøjet blev ført af en person, der ikke har kørekort, medmindre det godtgøres, at skaden ikke skyldes manglende kørefærdighed. 
+
+---
+
+***Studenteropgave:***
+
+***Find afgørelser på Forsikringsankenævnets hjemmeside, som afvises pga. undtagelserne på bilkaskoforsikringen***.
 
 
 ---
@@ -476,7 +530,7 @@ Her skal de vigtigste dækninger kort nævnes:
 
 ---
 
-*Korrekt ejer/bruger af bilen*
+*Korrekt ejer/bruger af bilen?*
 
 ![](img/bil13.jpg)
 
@@ -492,13 +546,13 @@ Er barnet reelt bruger eller ejer af bilen, får forsikringsselskabet ikke den p
 
 Opdager forsikringsselskabet at ejer-/brugerforholdet ikke er korrekt – og det sker som regel, når forsikringstager anmelder en skade – kan det få store konsekvenser for erstatningen. 
 
-Rent juridisk vil sådanne forhold efter Forsikringsankenævnets praksis blive vurderet efter forsikringsaftalelovens regler om urigtige risikooplysninger (§§4-10) eller reglerne om fareforøgelse (§§ 45-50).
+Rent juridisk vil sådanne forhold efter Forsikringsankenævnets praksis blive vurderet efter forsikringsaftalelovens regler om urigtige risikooplysninger (§§4-10) eller reglerne om fareforøgelse (§§ 45-50), **se forsikringsaftaleloven (FAL) https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
 Se eksempelvis **Forsikringsankenævnets sagsnr.: 87068 og sagsnr.:85571:**
 
----
+
 
 **Sagsnr.: 87068.** Klager over afvisning af dækning for en totalskadet bil: "Nævnet fandt, at klager havde afgivet urigtige oplysninger, idet klager ikke havde oplyst til selskabet, at den reelle bruger af bilen var hendes søn. Selskabet var derfor berettiget til at opsige kaskodelen af forsikringen og undlade at dække den indtrådte kaskoskade. For så vidt angår ansvarsforsikringen - som selskabet videreførte - fandt nævnet, at selskabet var berettiget til med tilbagevirkende kraft at forhøje præmien. Selskab medhold".
 
@@ -571,7 +625,7 @@ Forsikringen dækker normalt ikke bedrageri, underslæb og lignende.
 
 ---
 
-*Hvilke genstande der er omfattet af familie-/indboforsikringen*
+*Hvilke genstande, der er omfattet af familie-/indboforsikringen*
 
 ---
 
@@ -584,7 +638,7 @@ Forsikringen dækker normalt ikke bedrageri, underslæb og lignende.
 
 Forsikringen dækker kun skader på ens *private indbo*. 
 
-Ved privat indbo forstås navnlig de ting, der er i ens hjem, som man kan tage med sig, hvis man skulle flytte, og som ikke har noget med ens erhverv eller med ens bil at gøre. 
+***Ved privat indbo forstås navnlig de ting, der er i ens hjem, som man kan tage med sig, hvis man skulle flytte, og som ikke har noget med ens erhverv eller med ens bil at gøre***. 
 
 
 
@@ -632,9 +686,11 @@ Se også **sagsnr.: 87968**, hvor Forsikringsankenævnet fandt, at en lejet juke
 
 ---
 
-Er ens indbo ualmindeligt eller meget dyrt, skal man ofte tegne specialforsikringer eller tillægsdækninger. 
+***Er ens indbo ualmindeligt eller meget dyrt, skal man ofte tegne specialforsikringer eller tillægsdækninger***. 
 
-Det kan eksempelvis være tilfældet, hvis man har mange antikviteter, meget guld/sølv, værdifulde instrumenter eller mange designermøbler mv.
+***Det kan eksempelvis være tilfældet, hvis man har mange antikviteter, meget guld/sølv, værdifulde instrumenter eller mange designermøbler mv***.
+
+
 
 ![](img/design.jpg)
 
@@ -644,7 +700,7 @@ Sådanne genstande er mere udsat for at blive stjålet. Familie-/indboforsikring
 
 ---
 
-Genstande – eksempelvis værktøj – kan være af en sådan karakter, kvalitet eller omfang, at de ikke falder ind under begrebet privat indbo. 
+**Genstande – eksempelvis værktøj – kan være af en sådan karakter, kvalitet eller omfang, at de ikke falder ind under begrebet privat indbo**. 
 
 Se en vekslende nævnspraksis i **sagsnr.: 87053, 84928 og 67965:**
 
@@ -702,7 +758,7 @@ Efter Forsikringsankenævnets praksis afhænger det af arten og antallet, se eks
 
 ---
 
-*Hvor dækker familie-/indboforsikringen?*
+**Hvor dækker familie-/indboforsikringen?**
 
 Forsikringen dækker genstande, som man opbevarer på forsikringsstedet – typisk ens folkeregisteradresse. 
 
@@ -734,11 +790,11 @@ Det er derfor vigtigt, at den sum, man har forsikret ens indbo for, svarer til d
 
 ---
 
-Forsikringen dækker normalt også genstande, der midlertidigt befinder sig uden for forsikringsstedet. 
+**Forsikringen dækker normalt også genstande, der midlertidigt befinder sig uden for forsikringsstedet**. 
 
-For så vidt angår sommerhuse, bør man tegne en fritidshusforsikring, der foruden bygningen dækker indbogenstande i fritidshuset, se nærmere nedenfor.
+For så vidt angår **sommerhuse, bør man tegne en fritidshusforsikring**, der foruden bygningen dækker indbogenstande i fritidshuset, se nærmere nedenfor.
 
-Ved flytning dækker forsikringen i en kortere periode (normalt en måned) genstande i både den gamle og den nye helårsbolig.
+Ved **flytning dækker forsikringen i en kortere periode** (normalt en måned) genstande i både den gamle og den nye helårsbolig.
 
 Har man indbo stående andre steder i længere tid, skal man sørge for at indgå en aftale med forsikringsselskabet om, at forsikringen også dækker dette indbo. 
 
@@ -757,9 +813,9 @@ Men normalt omfatter hustanden ud over forsikringstageren, er ægtefælle/samlev
 
 Det er normalt et krav, at personerne er tilmeldt folkeregisteradresse på forsikringsstedet.
 
-Udeboende børn under 21 år, der er ugifte og ikke lever i fast parforhold eller har fastboende børn, kan være dækket. 
+**Udeboende børn under 21 år, der er ugifte og ikke lever i fast parforhold eller har fastboende børn, kan være dækket**. 
 
-Enkelte forsikringsselskaber har en dækningsgrænse helt op til 26 år for udeboende børn.
+Enkelte forsikringsselskaber (Alka) har en dækningsgrænse helt op til 26 år for udeboende børn.
 
 Har man hørt til husstanden, men bliver man eksempelvis skilt, er man normalt dækket i en kortere tidsperiode. 
 
@@ -768,6 +824,12 @@ Bliver man skilt og/eller flytter, skal man indgå en aftale med forsikringssels
 Ellers risikerer man, at der ikke er dækning. 
 
 Tjek også, hvem forsikringen dækker, hvis man har personer boende i kortere eller længere tid, som ikke er en del af husstanden.
+
+---
+
+**Studenteropgave**
+
+**Find 6 forsikringselskaber og gennemgå deres forsikringsdækning for udeboende børn**
 
 ---
 
@@ -2503,7 +2565,7 @@ Dette gælder dog ikke for børn under 14 år, der handler forsætligt, medmindr
 
 Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
 
-"Bestemmelserne i FAL§ 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt".
+"Bestemmelserne i FAL§ 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt", **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 
 ---
@@ -2514,14 +2576,14 @@ Se følgende domme:
 <img src="img/bee.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 **U 1964.786 H:** To 7-årige drenge havde begået hærværk på en bigård og herved pådraget sig erstatningsansvar:
-"Deres forældre havde tegnet familieansvarsforsikringer. Da de i de pågældende selskabers policer indeholdte vilkår ikke med tilstrækkelig klarhed udelukkede anvendelse af den særlige bestemmelse i forsikringsaftalelovens. § 19, stk. 1, jfr. § 18, tilpligtedes selskaberne at friholde drengene for erstatningsansvaret".
+"Deres forældre havde tegnet familieansvarsforsikringer. Da de i de pågældende selskabers policer indeholdte vilkår ikke med tilstrækkelig klarhed udelukkede anvendelse af den særlige bestemmelse i forsikringsaftalelovens. § 19, stk. 1, jfr. § 18, tilpligtedes selskaberne at friholde drengene for erstatningsansvaret", **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
 ![](img/drab4.jpg)
 
 **U 1954.746 H:** Hvor en mand fik udbetalt en ulykkeserstatning for hustruen uanset, at han havde dræbt hende og deres 6 børn:
-"Da han var sindssyg i gerningsøjeblikket, lidende af en psykogen sindssygdom, måtte det antages, at han ved begåelsen af drabet på grund af sindssygdom havde manglet evnen til at handle fornuftsmæssigt og da drabet måtte anses for en af forsikringen omfattet begivenhed, fandtes han i medfør af forsikringsaftalelovens § 19, stk. 1, at have krav på forsikringsydelsen".
+"Da han var sindssyg i gerningsøjeblikket, lidende af en psykogen sindssygdom, måtte det antages, at han ved begåelsen af drabet på grund af sindssygdom havde manglet evnen til at handle fornuftsmæssigt og da drabet måtte anses for en af forsikringen omfattet begivenhed, fandtes han i medfør af forsikringsaftalelovens § 19, stk. 1, at have krav på forsikringsydelsen", **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
@@ -2929,7 +2991,7 @@ Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste 
 
 Situationen er den, at forsikringstageren ikke har handlet uagtsomt ved afgivelse af oplysningen til forsikringsselskabet.
 
-Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning har ingen indflydelse på selskabets ansvar, medmindre han burde være klar over, at den ikke oplyste omstændighed var af betydning for selskabet, og hans forhold kan tilregnes ham som grov uagtsomhed. I så fald anses han, som om han havde givet urigtig oplysning, jf. FAL § 6
+Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning har ingen indflydelse på selskabets ansvar, medmindre han burde være klar over, at den ikke oplyste omstændighed var af betydning for selskabet, og hans forhold kan tilregnes ham som grov uagtsomhed. I så fald anses han, som om han havde givet urigtig oplysning, jf. FAL § 6, **se forsikringsaftaleloven (FAL) i lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
@@ -3519,7 +3581,7 @@ Betaler man derimod selv eksempelvis håndværkeren, og selskabet skal erstatte 
 
 Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvis en del af erstatningen kan opgøres, og det er sikkert, at selskabet under alle omstændigheder skal udbetale dette beløb i erstatning til forsikringstageren. 
 
-Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25.
+Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25, **se forsikringsaftaleloven (FAL) i lovsamlingen https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
@@ -3575,7 +3637,7 @@ Forsikringsselskabet betaler i den situation alene erstatning for ens skade og i
 
 ![](img/for4.jpg)
 
-For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet. 
+For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet, jf. forældelsesloven, **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**. 
 
 Som udgangspunkt sker der forældelse efter 3 år, jf. forældelseslovens § 3, stk. 1. 
 
@@ -3611,6 +3673,10 @@ Dog kan selskabet gyldigt aftale en anmeldelsesfrist i forbindelse med forsikrin
 *Ankenævnet for Forsikring* er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
 
 Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
+
+De private godkendte ankenævn (tvistløsningsorganer) er reguleret af forbrugerklageloven, **se lovsamlingen https://jura.tepedu.dk/lovsamling.html**
+
+---
 
 *Kriterier for at klage*  
 
@@ -4969,6 +5035,12 @@ Er man kommet med 1. januar 2008 eller senere, så betyder „nærmeste pårøre
 
 ---
 
+En "begunstigelsesklausul" er en bestemmelse i livs- eller ulykkesforsikring, pensionsforsinkring om, hvem der skal have beløbet udbetalt ved den forsikredes eller kontohaverens død.
+
+"Begunstiget" er den, der skal have en livs- eller ulykkesforsikringssum, pensionsforsikringen udbetalt ved dødsfald.
+
+---
+
 
 *Hvis man heller ikke har oprettet testamente:*
 
@@ -5062,7 +5134,7 @@ Se dommen i **U 2016.1487 H** En forsikringsaftale indeholdt en ydelsesgaranti, 
 ## <font color="red">Forsikringsformidling<sup> Premium </font></sup> 
 
 
-Lov 2018-01-22 nr. 41 om forsikringsformidling har gennemført dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet. 
+Lov 2018-01-22 nr. 41 om forsikringsformidling har gennemført dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet, **se nærmere forsikringsformidlingsloven i lovsamlingen https://jura.tepedu.dk/lovsamling.html**. 
 
 Loven har til formål at gennemføre dele af EP/Rdir 2016/97 om forsikringsdistribution (herefter betegnet forsikringsdistributionsdirektivet (IDD)) i dansk ret. 
 
