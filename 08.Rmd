@@ -18,15 +18,19 @@ cat(readLines('np.html'))
 
 ![](img/buing.jpg)
 
-Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**. 
+Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
 
-Køb forstås traditionelt som en aftale om overdragelse af et formuegode mod vederlag i penge.  
+Med *"Køb"* forstås traditionelt som en aftale om overdragelse af ejendomsretten af et formuegode (løsøre) mod vederlag i penge. 
 
-Der skal være tale om en gensidigt bebyrdende aftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. 
+Modsat *"lån til brug"*, som er en	aftale om vederlagsfri brug af en ting, hvor selve tingen skal leveres tilbage, når forholdet ophører.
+
+Der skal være tale om en gensidigt bebyrdende købsaftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. 
 
 Sælgerens ydelse er et formuegode, dvs. en ejendomsgenstand. 
 
-Der er hyppigst tale om overdragelse af ejendomsretten til løsøre (dvs. ting), men der kan også være tale om overdragelse af fordringsrettigheder (f.eks. aktier og skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed, jf. f.eks. dommen i **U 1952.288/3 H** (om køb af udnyttelsesretten til et mergelleje) osv. 
+Der er hyppigst tale om overdragelse af ejendomsretten til løsøre (dvs. ting), men der kan også være tale om overdragelse af fordringsrettigheder (f.eks. aktier og skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed, jf. f.eks. dommen i **U 1952.288/3 H** (om køb af udnyttelsesretten til et mergelleje) osv.: **https://pro.karnovgroup.dk/document/7000216644/1** 
+
+Et *"løsøre"* er en	rørlige, fysiske genstande, herunder dyr, der hverken er fast ejendom eller fordringer.
 
 Selv om købeloven udtrykkeligt angiver kun at regulere »køb«, er købeloven i vidt omfang udtryk for almindelige *obligationsretlige grundsætninger*. 
 
@@ -94,7 +98,7 @@ Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretni
 
 ![](img/restaurant.jpg)
 
-Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt.
+Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt: **https://pro.karnovgroup.dk/document/7000197909/1**
 
 ---
 
@@ -244,7 +248,9 @@ Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køb
 
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1, som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om f.eks. reparation af en allerede eksisterende genstand). 
 
-Skabelsen af en ny vare, fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er således omfattet af købelovens regler. 
+Se begrebet *"specificatio"*	romerretligt udtryk for frembringelse, dvs. bearbejdelse af et materiale, der tilhører en anden, hvorved der opstår et nyt produkt, fx vindruer, der bliver til vin, eller en marmorblok, der bliver til en statue.
+
+Skabelsen af en ny vare, fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er omfattet af købelovens regler. 
 
 Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. 
 

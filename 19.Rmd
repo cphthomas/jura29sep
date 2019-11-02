@@ -40,15 +40,15 @@ Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler samt kr
 
 Når en ejendom bliver solgt, bliver skøde og købsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at køber nu ejer ejendommen, hvis f.eks.  
 
-sælgeren af ejendommen sælger ejendommen til andre og får tinglyst dette skøde,
+Sælgeren af ejendommen sælger ejendommen til andre og får tinglyst dette skøde,
 
-sælgeren af ejendommen pantsætter ejendommen og får tinglyst pantebrevet,
+Sælgeren af ejendommen pantsætter ejendommen og får tinglyst pantebrevet,
 
-sælgers kreditorer foretager udlæg i ejendommen og får tinglyst udlægget,
+Sælgers kreditorer foretager udlæg i ejendommen og får tinglyst udlægget,
 
-sælger bliver erklæret konkurs eller
+Sælger bliver erklæret konkurs eller
 
-sælger giver andre en begrænset rettighed over ejendommen (f.eks. en brugsret), og denne rettighed bliver tinglyst.
+Sælger giver andre en begrænset rettighed over ejendommen (f.eks. en brugsret), og denne rettighed bliver tinglyst.
 
 Tinglysning kan også være relevant for en kreditor, som yder lån mod pant i en fast ejendom. Kreditor sikrer sin prioritetsstilling over for andre utinglyste panterettigheder ved at få tinglyst sin rettighed.
 
@@ -195,6 +195,8 @@ Tinglysning sker med andre ord for at beskytte sig mod andres eventuelle krav. F
 Rettigheder tinglyst som adkomst, pant eller byrde/servitut bliver opstillet i rangorden. 
 
 Det vil sige i den rækkefølge, de har sikkerhed i ejendommen, køretøjet, andelsboligen eller løsøret. 
+
+Se romerrettens ejendomsretlige princip om: *"prior tempore, potior jure"*; "først i tid, bedst i ret". Grundsætningen om, at ældre rettigheder går forud for yngre.
 
 Rækkefølgen bliver afgjort dels af tidspunktet for tinglysning, dels af eventuelle tinglyste erklæringer om at ville respektere senere tinglyste rettigheder (rykningspåtegninger).
 
@@ -402,7 +404,11 @@ Kravet om vitterlighedsvidner gælder aldrig for offentlige myndigheder.
 
 ![](img/andel.jpg)
 
-En "andelsboligforening" er en forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har brugsret til de enkelte lejligheder.
+En "andelsboligforening" er en forening, som ejer en eller flere faste ejendomme, hvor foreningens medlemmer har *"brugsret"* til de enkelte lejligheder.
+
+En *"lejlighed"* betegner en beboelseslokalitet med dertil hørende selvstændigt køkken, normalt med indlagt vand og afløb. Er modstykket til enkeltværelser.
+
+*"Leje"* er en	brugsret mod vederlag i modsætning til lån til brug.
 
 I Andelsboligbogen kan kreditorer registrere deres rettigheder (pant, udlæg mv.) over andele i andelsboligforeninger, og aktier og anparter i henholdsvis boligaktieselskaber og boliganpartsselskaber omfattet af tinglysningslovens kapitel 6 b.
 

@@ -619,6 +619,8 @@ Domstolene er den dømmende magt i Danmark.
 
 De afgør, om personer har overtrådt landets love, og afgør uoverensstemmelser mellem to parter i civile sager.
 
+Se romerrettens grundlæggende princip: "jura novit curia";	retten kender retsreglernes indhold.
+
 Alle har ret til en retfærdig rettergang. Det står i den europæiske menneskerettighedskonvention. 
 
 Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk. 
@@ -652,6 +654,9 @@ Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retss
 
 Almindelige borgere kan være med til at dømme i straffesager som domsmænd eller nævninge, afhængigt af sagens karakter. 
 
+Domsmænd eller nævninge må ikke være jurister.
+
+
 ---
 
 Domsmænd og nævninge kan være inhabile, se dommen i **U 2019.2824 Ø, ** hvor en domsmand inhabil. Under ankesag påstod T, født 1987, byretsdommen ophævet under henvisning til inhabilitet hos en af domsmændene, som han havde kendt i teenageårene. Det var domsmandens opfattelse, at hun og T ikke kendte hinanden »rigtigt godt«, som T ellers havde oplyst, og at de havde været venner på Facebook, men at hun slettede T før sagen, da hun vurderede, at hun ikke ønskede »sådan en ven«. Landsretten udtalte, at der var forløbet lang tid siden den kontakt, som ubestridt havde været mellem T og den pågældende domsmand. Imidlertid fandtes der efter en samlet vurdering, herunder navnlig domsmandens udtalelse, at foreligge omstændigheder, som var egnede til at bevirke, at der kunne rejses sådan tvivl om domsmandens fuldstændige upartiskhed, jf. retsplejelovens § 61, jf. § 66, at hun ikke havde kunnet handle som domsmand i sagen. Påstanden om ophævelse af dommen og hjemvisning af sagen til byretten blev således taget til følge.
@@ -673,11 +678,15 @@ Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, op
 
 ---
 
-*Straffesager* er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven. 
+*Straffesager* er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven især traffeloven, se denne lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 Afgørelser, der træffes i forbindelse med politiets efterforskning, er også straffesager. 
 
 Det kan f.eks. være afgørelser om varetægtsfængsling, beslaglæggelse og ransagning.
+
+Se det retssikkerhedsbegrebet: *"in dubio pro reo";	"enhver grundet tvivl bør komme den sigtede til gode".
+
+Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her straffelovens § 1: "Straf kan kun pålægges for et forhold, hvis strafbarhed er hjemlet ved lov, eller som ganske må ligestilles med et sådant".
 
 ---
 
@@ -712,11 +721,31 @@ Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der ha
 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. 
 
+En kendelse	er en beslutning truffet af en domstol, et nævn eller en kommission. 
+
+*"Kære"* er en appelform, hvor kendelser indbringes for en højere ret.
+
+Behandlingen af *"kæremål"* sker som regel skriftligt.
+
+En kendelse af domstol "kæres" således til en højere domstol. 
+
+Kærefristen	er normalt 2 uger, dog 4 uger i fogedsager.
+
+En dom "ankes" til en højere domstol. 
+
+*"Opsættende virkning"*	anvendes fx ved anke af en byretsdom. Anken til landsretten har opsættende (suspensiv) virkning, hvis anken sker inden 14 dage efter dommens afsigelse, dvs byretsdommens virkning udsættes til landsrettens afgørelse, som enten kan stadfæste byrettens dom eller ændre byrettens dom.
+
+
+
+---
+
 Man kan altså ikke anlægge sag direkte ved Højesteret.
 
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. 
 
 Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
+
+---
 
 I straffesager kan Højesteret ikke tage stilling til skyldsspørgsmålet.
 
@@ -755,6 +784,8 @@ I nogle straffesager medvirker nævninger, i andre domsmænd.
 I enkelte sager deltager personer, der er særligt sagkyndige på et specielt område.
 
 Vestre og Østre Landsret er appelinstanser for byretterne.
+
+Begrebet "in terminis";	betyder ordret. Anvendes når en byretsdom eller byrettens kendelse stadfæstes af landsretten med uændret begrundelse.
 
 ---
 
@@ -843,7 +874,9 @@ Byretterne behandler civile sager, straffesager, notarialforretninger og skiftes
 
 Alle sager begynder som udgangspunkt i byretten.
 
-Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
+Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. 
+
+Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
 
 ---
 
@@ -946,13 +979,30 @@ text_tbl%>%
 
 ---
 
-*Bevisbyrde*: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret).
+*Bevisbyrde*: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret) modsat et præsumptionsansvar - omvendt bevisbyrde, som undtagelsesvis gælder fx i markedsføringsloven, hvor det er den erhvervsdrivende, der har bevisbyrden for, at reklamen taler sandt.
+
+---
 
 Ved domstolene gælder *"forhandlingsmaksimen"* eller forhandlingsprincippet.
 
 Retten skal afgøre sagen på grundlag af parternes påstande og de oplysninger, som de tilvejebringer - det modsatte er 
 
-*"officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariateterne som skal oplyse sagen. 
+*"Officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariateterne som skal oplyse sagen. 
+
+---
+
+Den procesuelle grundsætning: *ne bis in idem*; der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
+
+---
+
+*"Ordre public"* domstolenes adgang til ikke at anvende retsregler fra fremmed ret, som er i strid med fundamentale danske retsprincipper.
+
+---
+
+*"Sagens anlæg"* sker ved stævningens indlevering til retten. Fra sagens anlæg afbryder forældelse, og der tilkendes normalt procesrente fra sagens anlæg.
+
+*"Udeblivelsesdom"* er en	dom afsagt i en sag, hvor sagsøgte er udeblevet.
+
 
 
 
@@ -998,7 +1048,7 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
 
 ---
 
-**Video: Når du skal i retten**
+**Video: Når man skal i retten**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1015,6 +1065,8 @@ At retten hjælper med grundig vejledning og assistance til parter, som ikke rep
 
 At man kan få behandlet en sag om mindre krav på en lettere måde med færre omkostninger.
 
+---
+
 *Hvorfor en småsagsproces?*
 
 Formålet med småsagsprocessen er:
@@ -1028,6 +1080,8 @@ At det bliver lettere at gå i retten for privatpersoner og mindre erhvervsdrive
 Murermester Hansen har en kunde, fru Nielsen, som nægter at betale sin regning på 29.000 kr. for en reparation på skorstenen, fordi hun ikke mener, at murermester Hansen har udført arbejdet grundigt nok. Hun kræver, at murermester Hansen gør arbejdet om, før hun vil betale regningen.
 
 Murermester Hansen vil have sine penge og anlægger derefter sagen i småsagsprocessen blot ved at udfylde en stævningsblanket til retten. Retten hjælper derefter både muremester Hansen og fru Nielsen med at tilrettelægge sagen, formulere deres påstande og evt. få en sagkyndig til at undersøge skorstenen. Tidligere skulle de selv have sørget for det.
+
+---
 
 *Værd at vide om småsagsprocessen*  
 

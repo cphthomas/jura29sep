@@ -172,7 +172,7 @@ Aftalelovens regler gælder også for kautionsaftaler, fx:
 
 ---
   
-Kaution er ligeledes reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse 2019-09-06 nr. 937 om finansiel virksomhed (forkortet; FIL), jf. her §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor et pengeinstitut, se lov om finansiel virksomhed (FIL) i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
+Kaution er ligeledes reguleret i Lov om finansiel virksomhed, se Lovbekendtgørelse 2019-09-06 nr. 937 om finansiel virksomhed (forkortet; FIL), jf. her §§ 47 (erhvervskaution) og 48 (privat kaution), hvis kaution gives overfor et pengeinstitut, se lov om finansiel virksomhed (FIL) i lovsamlingen, se kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
 
 Hvis der ikke er tale om kaution over for et pengeinstitut, så anvendes aftalelovens regler for en nærmere vurdering om kautionsforpligtelsen er ugyldig.
 
@@ -190,22 +190,26 @@ Om anvendelse af aftalelovens § 36 på kautionsforhold findes der en del retspr
 
 ---
 
-I dommen **U 1993.949 V** blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene.
+I dommen **U 1993.949 V** blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36. En 73-årig kvinde K, der var nervesvækket og uden indsigt i økonomiske anliggender, havde over for en sparekasse S påtaget sig selvskyldnerkaution på indtil 100.000 kr. for sin stedsøn P’s ældre og fremtidige gæld til S. Ved kautionsløftets afgivelse var P’s engagement med S nødlidende på grund af overtræk på ca. 124.000 kr. og ville blive opsagt, hvis der ikke blev skaffet yderligere sikkerhed, fx ved kaution. K var ikke af S blevet informeret om P’s engagement og overtrækkene:
+**https://pro.karnovgroup.dk/document/7000200948/1**
 
 
 ---
 
 ![](img/kau11.jpg)
 
-I dommen **U 1994.126 V** blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36:   
+I dommen **U 1994.126 V** blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36: 
+**https://pro.karnovgroup.dk/document/7000200410/1**  
 
 ---
 
-I dommen **U 1997.522 Ø** fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36.
+I dommen **U 1997.522 Ø** fandtes det ikke urimeligt eller i strid med redelig handlemåde, at et pengeinstitut gjorde en låneaftale gældende, da pengeinstituttet ved et låns oprettelse ikke burde have vidst, at en 18-årig ikke inden overskuelig tid ville kunne betale de månedlige ydelser. Der blev overført godt 170.000 kr. til en bilsælger, uden at banken sikrede sig, at låntager var indforstået hermed. Selvom dette kunne anses som en fejl, fandtes det, under hensyn til at låntager havde indgået en endelig handel og modtaget bilen, ikke urimeligt eller i strid med redelig handlemåde, at pengeinstituttet gjorde aftalen gældende, jf. aftalelovens § 36:
+**https://pro.karnovgroup.dk/document/7000202267/1**
+
 
 ---
 
-I dommen **U 2010.1628 H** blev en kautionsaftale delvist tilsidesat efter aftalelovens § 36**.
+I dommen **U 2010.1628 H** blev en kautionsaftale delvist tilsidesat efter aftalelovens § 36: **https://pro.karnovgroup.dk/document/7000438164/1**
 
 ---
 
@@ -336,11 +340,13 @@ Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
 
 Se følgende domme:
 
-**U 1992.442 Ø**, hvor der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende.   
+**U 1992.442 Ø**, hvor der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende:
+**https://pro.karnovgroup.dk/document/7000200021/1**
 
-**U 1995.77 V**, da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen.
+**U 1995.77 V**, da låntagers formue måtte antages at være negativ allerede inden udløbet af seksmånedersfristen, fandtes kautionisternes regreskrav ikke at være forringet ved den undladte underretning, og kautionisterne skulle indfri kautionen: **https://pro.karnovgroup.dk/document/7000201414/1**
 
-**U 2011.3248 V**, hvor to kautionister hæftede solidarisk for et beløb på 450.000 kr., idet det ikke var godtgjort, at de hver især havde påtaget sig at kautionere med den følge, at banken, som var kreditor, opnåede en samlet sikkerhed på 900.000 kr.: "S og J, der var indehavere af anparterne i et byggefirma, etablerede den 28. maj 2004 en kassekredit i en bank med et maksimum på 125.000 kr. Den 27. august 2004 blev der til brug for et konkret byggeprojekt etableret en kassekredit med et kreditmaksimum på 575.000 kr. gældende indtil 2. maj 2005, og til sikkerhed for denne kassekredit påtog S og J sig en selvskyldnerkaution på 575.000 kr. Den 9. september 2005 blev der indgået endnu en kreditkontrakt mellem anpartsselskabet og banken med et kreditmaksimum på 450.000 kr. For denne gæld påtog S og J sig selvskyldnerkaution, og kautionen var begrænset til kreditmaksimum i henhold til den samtidig oprettede kreditkontrakt. Den kautionssikrede gæld på sidstnævnte konto blev fuldt indfriet den 24. august 2006, hvilket skete ved overførsel af 471.557 kr. fra en byggekonto, der var etableret samme dag med et kreditmaksimum på 2,6 mio. kr. Dette byggelån var sikret ved selvskyldnerkaution på 2,6 mio. kr. fra hver af S og J. Byggekontoen blev indfriet den 30. september 2008 i forbindelse med overførsel af 2.696.421 kr. fra den oprindelige kassekredit, der i juli 2008 var blevet forhøjet til kreditmaksimum på 3.325.000 kr. Banken påstod S og J tilpligtet at betale hver 450.000 kr., og gjorde til støtte herfor gældende, at de havde påtaget sig en tidsubegrænset selvskyldnerkaution over for ethvert mellemværende mellem banken og anpartsselskabet. S og J påstod sig frifundet, under henvisning til at deres kautionsforpligtelser ophørte i forbindelse med indfrielsen af lånet den 24. august 2006, og subsidiært gjorde de gældende, at bankens samlede kautionssikkerhed hos S og J ikke kunne overstige 450.000 kr. Landsretten anførte, at kautionserklæringerne angik erhvervsforhold og indeholdt en klar og tydelig angivelse af, at der kautioneredes som selvskyldnerkautionist for opfyldelse af enhver forpligtelse, som anpartsselskabet måtte få over for banken i henhold til ethvert nuværende og fremtidigt mellemværende. S og J havde dermed accepteret, at deres hæftelse - uanset det beløbsmæssige sammenfald - ikke kun vedrørte det samtidigt bevilgede lån på 450.000 kr. til anpartsselskabet. Når hensås hertil, og til at såvel S som J var anpartshavere i selskabet og havde indsigt i og bestemmende indflydelse på selskabets låneforhold, var der ikke grundlag for at anse kautionsforpligtelsen for ophørt ved indfrielsen af lånet på 450.000 kr. De var derfor ikke frigjort for kautionsforpligtelsen. S og J havde tidligere påtaget sig selvskyldnerkaution på 575.000 kr. i forbindelse med etableringen i august 2004 af en kassekredit på et tilsvarende beløb. Det blev lagt til grund, at de blev frigjort fra kautionsforpligtelsen, da gælden blev indfriet i maj 2005. I september 2005 blev der etableret en ny kassekredit på 450.000 kr., og i den forbindelse kautionerede de ligeledes begge. Efter S' og J's forklaringer havde de den forståelse, at de solidarisk påtog sig kaution for et beløb på i alt 450.000 kr. Under hensyn til det tidligere forløb samt at kautionserklæringerne blev udstedt i det væsentlige samtidigt, og i forbindelse med at der blev optaget et lån på netop 450.000 kr., fandtes det ikke, at det mod S' og J's forklaringer var godtgjort, at de hver især havde påtaget sig at kautionere for 450.000 kr. med den følge, at banken opnåede en samlet sikkerhed på 900.000 kr. S og J blev herefter dømt til in solidum at betale 450.000 kr. til banken.
+**U 2011.3248 V**, hvor to kautionister hæftede solidarisk for et beløb på 450.000 kr., idet det ikke var godtgjort, at de hver især havde påtaget sig at kautionere med den følge, at banken, som var kreditor, opnåede en samlet sikkerhed på 900.000 kr.: "S og J, der var indehavere af anparterne i et byggefirma, etablerede den 28. maj 2004 en kassekredit i en bank med et maksimum på 125.000 kr. Den 27. august 2004 blev der til brug for et konkret byggeprojekt etableret en kassekredit med et kreditmaksimum på 575.000 kr. gældende indtil 2. maj 2005, og til sikkerhed for denne kassekredit påtog S og J sig en selvskyldnerkaution på 575.000 kr. Den 9. september 2005 blev der indgået endnu en kreditkontrakt mellem anpartsselskabet og banken med et kreditmaksimum på 450.000 kr. For denne gæld påtog S og J sig selvskyldnerkaution, og kautionen var begrænset til kreditmaksimum i henhold til den samtidig oprettede kreditkontrakt. Den kautionssikrede gæld på sidstnævnte konto blev fuldt indfriet den 24. august 2006, hvilket skete ved overførsel af 471.557 kr. fra en byggekonto, der var etableret samme dag med et kreditmaksimum på 2,6 mio. kr. Dette byggelån var sikret ved selvskyldnerkaution på 2,6 mio. kr. fra hver af S og J. Byggekontoen blev indfriet den 30. september 2008 i forbindelse med overførsel af 2.696.421 kr. fra den oprindelige kassekredit, der i juli 2008 var blevet forhøjet til kreditmaksimum på 3.325.000 kr. Banken påstod S og J tilpligtet at betale hver 450.000 kr., og gjorde til støtte herfor gældende, at de havde påtaget sig en tidsubegrænset selvskyldnerkaution over for ethvert mellemværende mellem banken og anpartsselskabet. S og J påstod sig frifundet, under henvisning til at deres kautionsforpligtelser ophørte i forbindelse med indfrielsen af lånet den 24. august 2006, og subsidiært gjorde de gældende, at bankens samlede kautionssikkerhed hos S og J ikke kunne overstige 450.000 kr. Landsretten anførte, at kautionserklæringerne angik erhvervsforhold og indeholdt en klar og tydelig angivelse af, at der kautioneredes som selvskyldnerkautionist for opfyldelse af enhver forpligtelse, som anpartsselskabet måtte få over for banken i henhold til ethvert nuværende og fremtidigt mellemværende. S og J havde dermed accepteret, at deres hæftelse - uanset det beløbsmæssige sammenfald - ikke kun vedrørte det samtidigt bevilgede lån på 450.000 kr. til anpartsselskabet. Når hensås hertil, og til at såvel S som J var anpartshavere i selskabet og havde indsigt i og bestemmende indflydelse på selskabets låneforhold, var der ikke grundlag for at anse kautionsforpligtelsen for ophørt ved indfrielsen af lånet på 450.000 kr. De var derfor ikke frigjort for kautionsforpligtelsen. S og J havde tidligere påtaget sig selvskyldnerkaution på 575.000 kr. i forbindelse med etableringen i august 2004 af en kassekredit på et tilsvarende beløb. Det blev lagt til grund, at de blev frigjort fra kautionsforpligtelsen, da gælden blev indfriet i maj 2005. I september 2005 blev der etableret en ny kassekredit på 450.000 kr., og i den forbindelse kautionerede de ligeledes begge. Efter S' og J's forklaringer havde de den forståelse, at de solidarisk påtog sig kaution for et beløb på i alt 450.000 kr. Under hensyn til det tidligere forløb samt at kautionserklæringerne blev udstedt i det væsentlige samtidigt, og i forbindelse med at der blev optaget et lån på netop 450.000 kr., fandtes det ikke, at det mod S' og J's forklaringer var godtgjort, at de hver især havde påtaget sig at kautionere for 450.000 kr. med den følge, at banken opnåede en samlet sikkerhed på 900.000 kr. S og J blev herefter dømt til in solidum at betale 450.000 kr. til banken:
+**https://pro.karnovgroup.dk/document/7000500861/1**
 
 ---
 
@@ -1002,12 +1008,13 @@ Advokat Sonny Kristoffersen"
 
 ---
 
-
+## Eksamensopgave med vejledning
 
 *Eksamensopgave om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.*
 
 
 <img src="img/prinsessefødselsdag.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 
@@ -1045,7 +1052,7 @@ Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og
 
 ---
 
-Om **forbrugeraftaleloven, se lovsamlingen:** **https://jura.tepedu.dk/lovsamling.html-**
+Om **forbrugeraftaleloven, se lovsamlingen i kapitel 26:** **https://jura.tepedu.dk/lovsamling.html-**
 
 Om **forbrugeraftaler, se kapitel 6**: **https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html.**
 
@@ -1079,7 +1086,7 @@ Da læringsmålene i relation til købeloven er begrænset til en generel viden 
 
 Om **købeloven, se kapitel 8**: **https://jura.tepedu.dk/kb.html**
 
-Se **købeloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Se **købeloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 *Svar slut*.
 

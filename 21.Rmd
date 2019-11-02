@@ -37,6 +37,17 @@ Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom, jf. Lovbekendtgøre
 
 Se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
+---
+
+Andre begreber om overdragelse af fast ejendom:
+
+Et *"mageskifte"* er ikke et køb af fast ejendom, men	bytte af fast ejendom.
+
+*"Negotium mixtum cum donatione"* er en	blandet gave og køb, fx hvor en far overdrager en fast ejendom til sin søn for 500.000 kr, hvoraf 200.000 kr. er en gave.
+
+*"Skæringsdagen"* ved et ejerskifte	den dag, pr. hvilken renter, bidrag, ejendomsskatter m.v. fordeles mellem sælger og køber i en refusionsopgørelse. Er normalt pr. overtagelsesdagen.
+
+---
 
 ![](img/hus1.jpg)
 
@@ -189,7 +200,9 @@ Forbrugeren kan således tilkendegive sin tiltrædelse af forlængelsen mundtlig
 
 Den mundtlige tilkendegivelse vil dog kunne indebære bevismæssige problemer for ejendomsmægleren, der i tvivlstilfælde skal løfte bevisbyrden for, at der rent faktisk er indgået en aftale om forlængelse.  
 
-Hvis aftaleperioden udløber, har ejendomsmægleren dog stadig ret til vederlag, hvis der efterfølgende indgås en købsaftale på baggrund af mæglerens indsats, jf. nærmere herom i LOFE § 32, stk. 2.  
+Hvis aftaleperioden udløber, har ejendomsmægleren dog stadig ret til vederlag, hvis der efterfølgende indgås en købsaftale på baggrund af mæglerens indsats, jf. nærmere herom i LOFE § 32, stk. 2. 
+
+En *"købsaftale"* er såedes en	aftale om overdragelse af fast ejendom, som har erstattet udtrykket slutseddel.
 
 ---
 
@@ -427,6 +440,24 @@ Som et typisk eksempel på indtægt for sælger ved en handel kan nævnes kontan
 
 Typiske udgifter kan være udgifter til indfrielse af realkreditlån og private pantebreve, ejerskiftegebyr, prioriteringsomkostninger, ejendomsmæglerens vederlag, herunder udlæg til tredjemand og markedsføringsomkostninger, samt udgift til tilstandsrapport, ejer-skifteforsikring, elinstallationsrapport og energimærke. 
 
+---
+
+Begreber ved køb og sag af fast ejendom:
+
+En *"tilstandsrapport"* er en	rapport udarbejdet af en bygningssagkyndig vedrørende en bygnings fysiske tilstand.
+
+*"energikonsulent"* er en	arkitekt eller ingeniør, der er godkendt til at udarbejde energimærkning og energiplan.
+
+Et *"energimærke"* er en	status over en ejendoms energi- og vandforbrug udarbejdet af en energikonsulent.
+
+En *"energiplan"*	forslag til energi- og vandbesparende foranstaltninger.
+
+En *"ejerskifteforsikring"* er en	forsikring, der dækker visse skjulte mangler ved huskøb. Kaldes også køberforsikring.
+
+Er *"ejerskiftelån"* er et	lån, der optages som led i en overdragelse af fast ejendom.
+
+---
+
 Uanset i hvilken form sælger betales, skal salgsprovenuet beregnes og angives med et kontantbeløb.  
 
 Beregningen af salgsprovenuet skal i øvrigt foretages i henhold til god ejendomsmæglerskik. 
@@ -489,7 +520,7 @@ Afgrænsningen af udgifterne er fastsat i formidlingsbekendtgørelsens §§ 6 (s
 
 7. Den hidtidige benyttelse, hvis den afviger væsentligt fra ejendommens nu-værende benyttelse, og dette er relevant.
 
-8. Ejendommens nuværende forsikringsforhold, herunder eventuelle særlige forhold som f.eks., at ejendommen ikke er forsikret mod svamp og insekter.
+8. Ejendommens nuværende forsikringsforhold, herunder eventuelle særlige forhold som fx, at ejendommen ikke er forsikret mod svamp og insekter.
 
 9. Byrder og gæld, som måtte påhvile ejendommen eller sælger personligt, og som køber skal overtage uden for købesummen, jf. dog § 7, 2. pkt.
 
@@ -498,6 +529,8 @@ Afgrænsningen af udgifterne er fastsat i formidlingsbekendtgørelsens §§ 6 (s
 11.	Ejendommens energimærke, såfremt der påhviler sælgeren pligt til at ud-levere energimærkning til ejendomsmægleren i henhold til lov om fremme af energibesparelser i bygninger.
 
 12.	Særlige eller væsentlige begrænsninger i udnyttelsen af ejendommen i kraft af planbestemmelser (lokalplan m.v.) og servitutter m.v.
+
+En *"servitut"* er en begrænset ret over fremmed ejendom. Kan være en rådighedsservitut, fx en færdselsret, en tilegnelsesservitut, fx en grusgravningsret, eller en tilstandsservitut, fx et forbud mod, at naboen bygger i 2 etager. 
 
 13.	Forurening kortlagt på vidensniveau 1 eller vidensniveau 2 eller oplysninger om lettere forurenet jord efter lov om forurenet jord, jf. stk. 3.
 
@@ -1342,7 +1375,8 @@ I retspraksis har man fraveget dette udgangspunkt, »idet der ved afgørelsen af
 
 Formålet med et forholdsmæssigt afslag er således at gennemføre en delvis restitution.   
 
-Et forholdsmæssigt afslag er ikke betinget af, at der foreligger et ansvarsgrundlag eller andet særligt retsgrundlag. Udgangspunktet er således, at den pågældende mangel kan siges at være værdiforringende, idet man dog ser bort fra rene bagateller, se hertil afgørelsen **U 2008.2284 V**.  
+Et forholdsmæssigt afslag er ikke betinget af, at der foreligger et ansvarsgrundlag eller andet særligt retsgrundlag. Udgangspunktet er således, at den pågældende mangel kan siges at være værdiforringende, idet man dog ser bort fra rene bagateller, se hertil afgørelsen **U 2008.2284 V**:
+**https://pro.karnovgroup.dk/document/7000385757/1**
 
 Praksis om mangler ved fast ejendom (før indførelsen af lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv.) har – med skiftende variationer – sat bagatelgrænsen forholdsvis højt, ofte op mod 5-8 % af købesummen, førend der kunne gives køberen et forholdsmæssigt afslag.  
 
@@ -1553,7 +1587,8 @@ I almindelighed påhviler det forbrugeren, som vil kræve erstatning, at bevise,
 
 Se dommen i **U 2019.2221 H** Ikke grundlag for erstatningsansvar i anledning af en ejendomsmæglers vurdering af værdien af en andelsboligforenings ejendom:
 
-"B, der var ejendomsmægler og valuar, vurderede pr. 31. december 2005 en andelsboligforenings ejendom til 40 mio. kr., og andelsboligforeningen besluttede, at andelsværdierne skulle fastsættes på baggrund af denne vurdering. I maj til september 2006 solgte A1-A6 deres andele til priser fastsat på dette grundlag, og sagen angik, om B havde pådraget sig erstatningsansvar over for dem ved at have vurderet ejendommen for lavt. Ejendommens værdi skulle ifølge aftale med andelsboligforeningen ansættes efter vurderingsprincippet i andelsboligforeningslovens § 5, stk. 2, litra b, til den kontante handelsværdi som udlejningsejendom. Højesteret udtalte, at en betingelse for at pålægge en valuar erstatningsansvar over for sælgeren af en andel i en andelsboligforening er, at sælgeren godtgør, at der foreligger væsentlige fejl eller mangler ved valuarvurderingen, eller at vurderingen har ført til en åbenbart urigtig værdiansættelse, jf. Højesterets dom af 7. marts 2019 i sag BS-15214/2018. Højesteret fandt, at B ikke havde begået fejl ved at have anvendt et afkastprincip ved ansættelsen af ejendommens værdi, ligesom det ikke var godtgjort, at B havde begået fejl ved at anvende en afkastprocent på ca. 1,5. Højesteret fandt det heller ikke godtgjort, at B’s vurdering af ejendommens værdi var åbenbart urigtig. Der var herefter ikke grundlag for at pålægge B erstatningsansvar, og Højesteret stadfæstede landsrettens dom om frifindelse af B".
+"B, der var ejendomsmægler og valuar, vurderede pr. 31. december 2005 en andelsboligforenings ejendom til 40 mio. kr., og andelsboligforeningen besluttede, at andelsværdierne skulle fastsættes på baggrund af denne vurdering. I maj til september 2006 solgte A1-A6 deres andele til priser fastsat på dette grundlag, og sagen angik, om B havde pådraget sig erstatningsansvar over for dem ved at have vurderet ejendommen for lavt. Ejendommens værdi skulle ifølge aftale med andelsboligforeningen ansættes efter vurderingsprincippet i andelsboligforeningslovens § 5, stk. 2, litra b, til den kontante handelsværdi som udlejningsejendom. Højesteret udtalte, at en betingelse for at pålægge en valuar erstatningsansvar over for sælgeren af en andel i en andelsboligforening er, at sælgeren godtgør, at der foreligger væsentlige fejl eller mangler ved valuarvurderingen, eller at vurderingen har ført til en åbenbart urigtig værdiansættelse, jf. Højesterets dom af 7. marts 2019 i sag BS-15214/2018. Højesteret fandt, at B ikke havde begået fejl ved at have anvendt et afkastprincip ved ansættelsen af ejendommens værdi, ligesom det ikke var godtgjort, at B havde begået fejl ved at anvende en afkastprocent på ca. 1,5. Højesteret fandt det heller ikke godtgjort, at B’s vurdering af ejendommens værdi var åbenbart urigtig. Der var herefter ikke grundlag for at pålægge B erstatningsansvar, og Højesteret stadfæstede landsrettens dom om frifindelse af B":
+**https://pro.karnovgroup.dk/document/7000837036/1**
 
 
 ---
@@ -1576,11 +1611,16 @@ Ejendomsmægler har et objektivt ansvar, jf. LOFE § 47, hvis
 
 ![](img/hus7.png)
   
-Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidling*, dog ikke over værdiansættelsen af ejendommen.
+Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidling*, dog ikke over værdiansættelsen af ejendommen:
+**https://www.ejendomsmaeglernaevnet.dk/**
 
-*Disciplinærnævnet for Ejendomsmægler* træffer afgørelse i klagesager om overtrædelse af LOFE, herunder god skik for ejendomsmæglere.
+
+*Disciplinærnævnet for Ejendomsmægler* træffer afgørelse i klagesager om overtrædelse af LOFE, herunder god skik for ejendomsmæglere:
+**https://naevneneshus.dk/start-din-klage/disciplinaernaevnet-for-ejendomsmaeglere/**
 
 ---
+
+## Eksamensopgave med vejledning
 
 *Eksamensopgavesæt i ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.*
 
@@ -1589,7 +1629,17 @@ Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidli
 ![](img/hus8.jpg)
 
 
-Kalle og Sille er kærester og ønsker at finde drømmehuset og flytte sammen. Og heldigvis har Kalle nu endelig efter 1½ års liggetid fået solgt sin lille 2-værelses ejerlejlighed. Kalle har underskrevet købeaftalen torsdag den 16. oktober og køber modtog et brev fra ejendomsmægleren om Kalles accept dagen efter. Kalle og Sille er henrykte og benytter weekenden den 18. og 19. oktober til at se på udvalgte huse i området. Søndag ser de på ejendommen Lærkevej 10, som de falder pladask for. Mandag kontakter de deres bankrådgiver, som umiddelbart er positiv overfor købet af ejendommen, da de nu har fået solgt ejerlejligheden. Han tilføjer dog: ”I første omgang må I lige afvente fortrydelsesfristens udløb”.
+Kalle og Sille er kærester og ønsker at finde drømmehuset og flytte sammen. 
+
+Og heldigvis har Kalle nu endelig efter 1½ års liggetid fået solgt sin lille 2-værelses ejerlejlighed. 
+
+Kalle har underskrevet købeaftalen torsdag den 16. oktober og køber modtog et brev fra ejendomsmægleren om Kalles accept dagen efter. 
+
+Kalle og Sille er henrykte og benytter weekenden den 18. og 19. oktober til at se på udvalgte huse i området. Søndag ser de på ejendommen Lærkevej 10, som de falder pladask for. 
+
+Mandag kontakter de deres bankrådgiver, som umiddelbart er positiv overfor købet af ejendommen, da de nu har fået solgt ejerlejligheden. 
+
+Han tilføjer dog: ”I første omgang må I lige afvente fortrydelsesfristens udløb”.
 
 
 *Eksamensspørgsmålet*:
@@ -1626,11 +1676,17 @@ Læringsmål: At anvende og formidle centrale regler og praksis for køb og salg
 
 Kalle beholder ejendommen, salgsaftalen ophører med at eksistere og parterne skal tilbageføre eventuet udvekslede ydelser og situationen i øvrigt jf. LFFE §§ 9, 10 og 12. 
 
-Derudover modtager han fra sælger boden på 1%, af den nominelle købesum, i henhold til LFFE § 11, evt. via modregning i deponeringen. Alt dette skal den fortrydende køber sørge for inden for fristen på 6 hverdage.
+Derudover modtager han fra sælger boden på 1%, af den nominelle købesum, i henhold til LFFE § 11, evt. via modregning i deponeringen. 
+
+Alt dette skal den fortrydende køber sørge for inden for fristen på 6 hverdage.
 
 *Svar slut*.
 
-Heldigvis ønsker køberen at gennemføre købet af ejerlejligheden og det betyder, at Kalle og Silles køb af Lærkevej 10, nu kan gå i opfyldelse. Ejendommen koster kr. 1.795.000 kontant, som de får finansieret ved et realkreditlån på 1.435.000, et banklån på kr. 260.000 og en kontant udbetaling på kr. 100.000. Til finansiering af et nyt køkken og div. istandsættelser af ejendommen får de endvidere et lån fra Silles forældre på kr. 250.000 mod sikkerhed i ejendommen.
+Heldigvis ønsker køberen at gennemføre købet af ejerlejligheden og det betyder, at Kalle og Silles køb af Lærkevej 10, nu kan gå i opfyldelse. 
+
+Ejendommen koster kr. 1.795.000 kontant, som de får finansieret ved et realkreditlån på 1.435.000, et banklån på kr. 260.000 og en kontant udbetaling på kr. 100.000. 
+
+Til finansiering af et nyt køkken og div. istandsættelser af ejendommen får de endvidere et lån fra Silles forældre på kr. 250.000 mod sikkerhed i ejendommen.
 
 *Eksamensspørgsmålet*
 
@@ -1642,13 +1698,23 @@ Emne: Kreditsikring, omsætningsbeskyttelse.
 
 Regler: Tinglysningslovens (TL) § 1.
 
-Læringsmål: Den studerende har færdighed i at afdække den finansielle sektors behov for og gennemførelsen af en given sikkerhedsstillelse. Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner. Anvende centrale regler om tinglysning, af relevans for den finansielle sektor. 
+Læringsmål: Den studerende har færdighed i at afdække den finansielle sektors behov for og gennemførelsen af en given sikkerhedsstillelse. 
+
+Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner. 
+
+Anvende centrale regler om tinglysning, af relevans for den finansielle sektor. 
 
 Panthaverne aftaler underpant i ejendommen, som herefter tinglyses for at opnå beskyttelse jf. TL § 1.
 
 *Svar slut*.
 
-Kalle og Sille underskriver lånedokumenterne i banken den 9. december. Banken får dog på grund af travlhed i afdelingen først tinglyst deres pantebrev den 12. december kl. 12.30 og samme dag kl. 10.15 var realkreditpantebrevet, som var underskrevet den 10. december, ligeledes blevet tinglyst. Den 11. december har Kalle og Sille underskrevet lånedokumenterne hos forældrenes advokat, som får tinglyst ejerpantebrevet samme dag. Dette medfører en række anmærkninger ved tinglysningen og der opstår derfor uenighed mellem de tre panthavere om prioritetsstillingen i ejendommen.
+Kalle og Sille underskriver lånedokumenterne i banken den 9. december. 
+
+Banken får dog på grund af travlhed i afdelingen først tinglyst deres pantebrev den 12. december kl. 12.30 og samme dag kl. 10.15 var realkreditpantebrevet, som var underskrevet den 10. december, ligeledes blevet tinglyst. 
+
+Den 11. december har Kalle og Sille underskrevet lånedokumenterne hos forældrenes advokat, som får tinglyst ejerpantebrevet samme dag. 
+
+Dette medfører en række anmærkninger ved tinglysningen og der opstår derfor uenighed mellem de tre panthavere om prioritetsstillingen i ejendommen.
 
 *Eksamensspørgsmålet*:
 
@@ -1667,12 +1733,18 @@ Hvis forældrene forudsættes at være i god tro, fortrænger de de to andre, i 
 
 Selv om casen strengt taget ikke giver noget konkret holdepunkt for mistanke, kan det forekomme naturligt at overveje forældrenes gode tro. 
 
-Det er vanskeligt at forestille sig, at de under ”normale omstændigheder”, ikke indså eller burde indse, at der måtte være, i det mindste, et realkreditlån, som de skulle respektere. En diskussion heraf i besvarelsen bør belønnes. Konklusionerne betyder mindre. 
+Det er vanskeligt at forestille sig, at de under ”normale omstændigheder”, ikke indså eller burde indse, at der måtte være, i det mindste, et realkreditlån, som de skulle respektere. 
+
+En diskussion heraf i besvarelsen bør belønnes. Konklusionerne betyder mindre. 
 
 *Svar slut*.
 
 
-Kalle og Sille har overtaget Lærkevej 10 og er begyndt at renovere ejendommen. De undrer sig dog over, at der ikke er en bygningstegning over værelserne på 1. salen, hvor loftshøjden også er noget lavere end i resten af huset. Ved en henvendelse til kommunens tekniske forvaltning finder de ud af, at 1. salen slet ikke er godkendt til beboelse. 
+Kalle og Sille har overtaget Lærkevej 10 og er begyndt at renovere ejendommen. 
+
+De undrer sig dog over, at der ikke er en bygningstegning over værelserne på 1. salen, hvor loftshøjden også er noget lavere end i resten af huset. 
+
+Ved en henvendelse til kommunens tekniske forvaltning finder de ud af, at 1. salen slet ikke er godkendt til beboelse. 
 
 I salgsopstillingen, som var udarbejdet af ejendomsmægler Kryger fra MyHome stod der følgende: 
 
@@ -1680,7 +1752,9 @@ I salgsopstillingen, som var udarbejdet af ejendomsmægler Kryger fra MyHome sto
 
 Der var ikke udarbejdet nogen tilstandsrapport i forbindelse med handlen.
 
-Lovliggørelse af 1. salen til beboelse vil ifølge en arkitekt koste 180.000. Sælger af ejendommen var et dødsbo og Kalle og Sille ønsker nu at gøre et erstatningskrav gældende mod ejendomsmægler Kryger, som de mener, ikke har undersøgt forholdene ved ejendommen tilstrækkeligt i forbindelse med salget. 
+Lovliggørelse af 1. salen til beboelse vil ifølge en arkitekt koste 180.000. 
+
+Sælger af ejendommen var et dødsbo og Kalle og Sille ønsker nu at gøre et erstatningskrav gældende mod ejendomsmægler Kryger, som de mener, ikke har undersøgt forholdene ved ejendommen tilstrækkeligt i forbindelse med salget. 
 
 Kryger nægter at betale erstatning og siger, at de jo selv måtte have været opmærksomme på dette ved deres besigtigelse af ejendommen og modtagelsen af handelens dokumenter.
 
@@ -1696,9 +1770,15 @@ Regler: Erstatningsretlige grundregler samt LOFE § 47.
 
 Læringsmål: Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor.
 
-Mægleren er ansvarlig jf. LOFE § 47: Culpa med skærpet uagtsomhedsvurdering, professionsansvar, der ser ud til at være fuldbyrdet, når mægleren, i det han henviser køberne til sagens dokumenter, ikke bare var forpligtet til at undersøge og oplyse, men også havde adgang hertil. Der er et tab i.f.t. købers berettigede forventning, som er en kausal følge af mæglerens fejl i salgsopstillingen, hvilket desuden må siges at være adækvat; egnet til at fremkalde den berettigede forventning.
+Mægleren er ansvarlig jf. LOFE § 47: Culpa med skærpet uagtsomhedsvurdering, professionsansvar, der ser ud til at være fuldbyrdet, når mægleren, i det han henviser køberne til sagens dokumenter, ikke bare var forpligtet til at undersøge og oplyse, men også havde adgang hertil. 
 
-Uden at det konkrete svar behøver at tillægges stor vægt, bør besvarelsen diskutere et eventuelt element af egen skyld. I en situation som denne, må en lægmand nok have lov til at stole på de oplysninger han modtager fra den professionelle mægler. Det kan næppe belaste ham, at han ved en nærme gennemgang af dokumenterne kunne have opdaget fejlen.
+Der er et tab i.f.t. købers berettigede forventning, som er en kausal følge af mæglerens fejl i salgsopstillingen, hvilket desuden må siges at være adækvat; egnet til at fremkalde den berettigede forventning.
+
+Uden at det konkrete svar behøver at tillægges stor vægt, bør besvarelsen diskutere et eventuelt element af egen skyld. 
+
+I en situation som denne, må en lægmand nok have lov til at stole på de oplysninger han modtager fra den professionelle mægler. 
+
+Det kan næppe belaste ham, at han ved en nærme gennemgang af dokumenterne kunne have opdaget fejlen.
 
 Samlet, er der altså gode udsigter for et søgsmål.
 
@@ -1817,17 +1897,17 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-* Købers advokat skal rådgive køberen om hushandlen og gennemgå hushandlens væsentlige dokumenter
+* Købers advokat skal rådgive køberen om hushandlen og gennemgå hushandlens væsentlige dokumenter.
   
-* Advokaten skal sørge for at få tinglyst nyt skøde på ejendommen, for at sikre købers adkomst til ejendommen
+* Advokaten skal sørge for at få tinglyst nyt skøde på ejendommen, for at sikre købers adkomst til ejendommen.
   
-* Skødet vil få anmærkninger om sælgers endnu ikke aflyste lån
+* Skødet vil få anmærkninger om sælgers endnu ikke aflyste lån.
 
-* Efterhånden som sælgers lån bliver indfriet, vil anmærkningerne på skødet blive fjernet fra tingbogen
+* Efterhånden som sælgers lån bliver indfriet, vil anmærkningerne på skødet blive fjernet fra tingbogen.
   
-* Når skødet er anmærkningsfrit kan købesummen frigives til sælgeren
+* Når skødet er anmærkningsfrit kan købesummen frigives til sælgeren.
   
-* Advokaten skal udarbejde en refusionsopgørelse til afslutning af ejendomshandlen
+* Advokaten skal udarbejde en refusionsopgørelse til afslutning af ejendomshandlen.
 
 
 ---
@@ -1837,6 +1917,8 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PrxUe5RjQso" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
+
+## Eksamensopgave med vejledning
 
 *Eksamensopgave: Handel med fast ejendom*
 

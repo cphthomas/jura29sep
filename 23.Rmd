@@ -32,7 +32,7 @@ cat(readLines('np.html'))
 
 ![](img/agtefalledloven1.jpg)
 
-Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet "ÆL")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes.Se loven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet "ÆL")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes.Se loven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.** 
 
 ***Under ægteskabet er ægtefællerne to selvstændige personer med hver sin økonomi***. 
 
@@ -136,6 +136,7 @@ Bestemmelsen omfatter ikke kun råden over ægtefællens delingsformue, men hele
 
 Baggrunden herfor er, at forringelse af en ægtefælles særeje m.v. kan får betydning ved formuedelingen, f.eks. hvis den ene ægtefælle har et *regulerings- og misbrugskrav* efter lovens kapitel 11, der bl.a. kan rettes mod den anden ægtefælles særeje.   
 
+
 ---
 
 Overtrædelse af ÆL § 1, stk. 2 er ikke selvstændigt sanktioneret, men *misbrug af formuen* kan udløse misbrugskrav efter ÆL § 40, og efter ÆL § 10 kan gaver til tredjemand i visse situationer kræves tilbage.  
@@ -197,11 +198,9 @@ Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevi
 
 Der kan være tale om *erstatnings- eller kontraktsforpligtelser*, jf. dommene: i 
 
-**U 1986 212** (erstatningsansvar for uberettiget afhændelse)*; 
+**U 1986 212** Erstatningsansvar for uberettiget afhændelse*; 
 
-**U 1966 151 H: **
-
-Tvist mellem fraskilte ægtefæller, som havde haft fuldstændig særeje, om retten til diverse smykker og pelse:
+**U 1966 151 H:** Tvist mellem fraskilte ægtefæller, som havde haft fuldstændig særeje, om retten til diverse smykker og pelse:
 "Ca. 1 år efter opløsningen af et ægteskab, som havde varet ca. 7 år, og hvori der bestod fuldstændigt særeje, anlagde H sag mod M med påstand om udlevering af eller erstatning for en forlovelsesring med brillanter, 5 minkskind og en 5 karat stor brillantring. M gjorde gældende, at H under et skænderi havde tilbagegivet ham forlovelsesringen, som han derefter havde solgt, og at skindene aldrig havde tilhørt H. Med hensyn til den store brillantring bestred M, at han havde givet den til 11 og hævdede, at han alene havde haft den i udvalg og overvejet at købe den som kapitalanbringelse; antoges en gave at foreligge, var M imidlertid enig i, at der efter ægtefællernes forhold ikke krævedes ægtepagt.  Det ansås ikke for godtgjort, at H havde tilbagegivet forlovelsesringen til M, der heller ikke fik medhold for så vidt angår minkskindene. Med hensyn til den store brillantring fandt Højesteret ikke tilstrækkelig grund til at ændre landsrettens bevisbedømmelse, hvorefter ringen måtte anses foræret H af M. (Dissens). Idet ringenes værdi ansattes til henholdsvis 5000 kr. og 38.000 kr., dømtes M til at betale disse beløb og udlevere skindene".
 
 ---
@@ -241,9 +240,13 @@ Det betyder, at en ægtepagt både kan laves og indgås før eller efter man er 
 
 Derfor er ægtepagtens gyldighed den samme, uanset hvad man vælger. 
 
+
+
 ---
 
 Det er kun en *skriftlig og tinglyst ægtepagt* (i Personbogen), der vil være gyldig. 
+
+Det latinske ord "inter partes"; mellem parterne indbyrdes, betyder i denne sammenhæng, at en utinglyst ægtepagt er ugyldig ikke blot i forhold til omverdenen, men også inter partes.
 
 Da en ægtepagt er en aftale, kræves det (som ved alle andre typer af aftaler), at der er enighed mellem parterne. 
 
@@ -320,7 +323,8 @@ Det følger af ÆL § 4, at ægtefællerne har en *gensidig forsørgelsespligt*.
 
 Der kan efter bestemmelserne i kapitel 16 i loven pålægges en ægtefælle, der ikke opfylder sin forsørgelsespligt efter stk. 1, at betale bidrag til den anden ægtefælle.
 
-Statsforvaltningen er nedlagt ved familieretshusloven, hvorefter det enten er familieretshuset eller familieretten, der træffer afgørelse om pligt til at udrede bidrag til den anden ægtefælle, jf. lovens § 60 a, stk. 2.
+Statsforvaltningen er nedlagt ved familieretshusloven, hvorefter det enten er familieretshuset eller familieretten, der træffer afgørelse om pligt til at udrede bidrag til den anden ægtefælle, jf. lovens § 60 a, stk. 2:
+**https://familieretshuset.dk/**
 
 *Forsørgelsespligten efter § 4 er en grundlæggende del af ægteskabet*. 
 
@@ -349,7 +353,8 @@ Spørgsmålet har konsekvenser dels over for ægtepars kreditorer, dels over for
 
 Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevis herfor, idet der som udgangspunkt er en formodning for, at overførsel af pengebeløb til ægtefællen sker til opfyldelse af forsørgelsespligten.  
 
-Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001.2184**.  
+Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001.2184**:
+**https://pro.karnovgroup.dk/document/7000229969/1**
 
 ---
 
@@ -548,6 +553,44 @@ Hvis tinglysning eller anden sikringsakt er nødvendig for, at gavemodtager opn�
 Har en ægtefælle overladt løsøre til brug i den anden ægtefælles erhvervsvirksomhed, bliver den ægtefælle, der ejer løsøret, bundet af aftaler om løsøret, som den anden ægtefælle har indgået med tredjemand. 
 
 Dette gælder dog ikke, hvis tredjemand vidste eller burde vide, at ægtefællen ikke var berettiget til at indgå aftalen, jf. ÆL § 11.
+
+---
+
+### Afgiftsfrie gavebeløb
+
+
+I 2019 kan der afgiftsfrit gives gave indtil kr. 65.700 til børn, stedbørn, børnebørn, forældre, stedforældre og bedsteforældre.
+
+Dvs. forældre samlet kan give skattefrit gaver til deres barn for 2 X 65.700 kr. = 131.400 kr.
+
+Af gaver hvis værdi overstiger kr. 65.700 skal der betales en afgift på 15 %, dog skal stedforældre betale en afgift på 36,25 %.
+
+Til svigerbørn kan der i 2019 gives afgiftsfrie gaver på indtil kr. 23.000. Ved gaver derudover skal der betales en afgift på 15 %. 
+
+Ved gaver mellem søskende eller ubeslægtede skal der betales indkomstskat.
+
+
+
+Hvem skal evt. betale gaveafgiften derudover?
+
+Giver af gaven eller  
+
+Modtager af gaven.  
+
+Afgiften bliver lidt mindre, hvis giver betaler afgiften. 
+
+Giveren hæfter for afgiften, hvis modtageren ikke betaler.
+
+Giver man gaver over ud over det afgiftsfri bestemte beløb til sin nærmeste familie, skal der betales gaveafgift, og man skal udfylde en blanket og sende den til SKAT. 
+
+Hvis man giver en gave under afgiftsgrænsen, skal hverken gavegiver eller modtageren gøre noget.
+
+Gaveafgiftsbeløbet indeksreguleres årligt, se link til SKAT om gaver og evt. indberetning for gaver over afgiftsgrænsen:
+
+**https://skat.dk/skat.aspx?oid=2234842**
+
+
+
 
 ---
 
@@ -1019,6 +1062,7 @@ Givers kreditorer er henvist til at søge gaven omstødt efter konkurslovens § 
 En ægtepagt er kun gyldig, når den er underskrevet af begge ægtefæller og tinglyst i personbogen efter reglerne herom i lov om tinglysning. 
 
 Skal en ægtefælles værge efter værgemålsloven give samtykke til ægtepagten, er ægtepagten kun gyldig, hvis også værgen har underskrevet den, jf. ÆL § 20.  
+Der glæder et *"specifikationskrav"* i ægtepagter;	særejet skal i ægtepagter angives på en sådan måde, at det ikke overlades til ejerægtefællen vilkårligt at forøge særejets omfang.
 
 Ægtepagter anmeldes digitalt til tinglysning på samme måde som dokumenter om overdragelse og belåning af fast ejendom mv. 
 
@@ -1080,7 +1124,7 @@ Tilsvarende vil arvingen ved bestemmelse om sumdeling kunne forbruge arven og al
 
 Arvelader kan således i testamente gøre arven til særeje, og det sker ofte i praksis.  
 
-Arveforskud må behandles som gave; ikke som arv, jf. dommen **U 1975.473**. 
+Arveforskud må behandles som gave; ikke som arv, jf. dommen i **U 1975.473Ø:** **https://pro.karnovgroup.dk/document/7000211567/1**
 
 En bestemmelse om, at arveforskud skal være særeje, skal være truffet senest samtidig med, at arveforskuddet ydes. 
 
@@ -1096,7 +1140,8 @@ Spørgsmålet har været, om aktivet kan siges at være givet som gave med den v
 
 Praksis, som især vedrører fast ejendom, hvor friværdien gives som gave, er ikke entydig. 
 
-Se fra praksis f.eks. dommen **U 1987.763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje). 
+Se fra praksis f.eks. dommen **U 1987.763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje):
+**https://pro.karnovgroup.dk/document/7000206313/1**
 
 ---
 
@@ -1154,7 +1199,9 @@ Reglerne om behandling af sager om deling af ægtefællers formue findes fortsat
 
 Reglerne om formuedeling ved en ægtefælles død findes i ÆL, kapitel 15.  
 
- 
+---
+
+*"Skæringsdagen"* ved separation og skilsmisse	den dag, hvor formuefællesskabet ophører, dvs. datoen for familieretshusets modtagelse af anmodning om separation eller skilsmisse.
 
 ---
 
@@ -1794,17 +1841,24 @@ Der må foretages en samlet bedømmelse af ægtefællens dispositioner set i for
 
 Forretningsfolk i vid forstand har en bred margin, således at kun forretningsspekulationer, der i høj grad er letsindige eller åbenbart uforsvarlige kan begrunde vederlagskrav. 
 
+Se begrebet *"vanrøgt"* som er en	uforsvarlig behandling. Kan give den anden ægtefælle ret til vederlagskrav.
+
 ---
 
 Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i **TFA 2016.116 Ø** (misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo); 
 
-dommen i **U 2006.2792** (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); dommen i TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav); 
+Dommen i **U 2006.2792** (boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.); dommen i TFA 2006 119 (salg af andelsbolig i 2-familie hus. Ikke misbrugskrav):
+**https://pro.karnovgroup.dk/document/7000355637/1**
 
-dommen i **TFA 2001.305** (ikke misbrugskrav); dommen i U 1965 820 (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter); 
+Dommen i **TFA 2001.305** (ikke misbrugskrav); 
 
-dommen i **U 1964.174** (forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.) 
+Dommen i **U 1965.820 Ø** (betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter):
+**https://pro.karnovgroup.dk/document/7000212639/1**
 
-samt dommen i **TFA 1997.96** (forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr.). 
+Dommen i **U 1964.174 V** Forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.:
+**https://pro.karnovgroup.dk/document/7000210541/1**
+
+samt dommen i **TFA 1997.96** Forbrug på ca. 236.000 kr. på ½ år fra samlivsophævelsen; krav på 127.500 kr. 
 
 ---
 
@@ -1942,6 +1996,11 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 <div class="video-container"><iframe src="https://www.youtube.com/embed/o3E7r1JbvpA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 ---
+
+Andre bestemmelser om ægteskabet:
+
+Der kan ske omstødelse af et ægteskab. Ægteskabet kan opløses på grund af fx. bigami (en person gift med flere personer), eller ved blodskam (samleje eller handling af samlejelignende karakter mellem nærtbeslægtede).
+
 
 
  

@@ -35,7 +35,7 @@ cat(readLines('np.html'))
 
 ## Erstatningsansvar uden en lovgivning
 
-Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel, se nærmere biblioteket: **https://jura.tepedu.dk/bibliotek-premium.html**.]
+Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel, se nærmere biblioteket i kapitel 27: **https://jura.tepedu.dk/bibliotek-premium.html**.]
 
 ---
 
@@ -53,9 +53,13 @@ Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin 
 
 Culpa er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
 
+Der er tale om en *"integritetskrænkelse"* hvorved der er sket	fysisk skade på en person (personskade) eller på en ting (tingsskade).
+
 En skadevolder har udvist culpa, optrådt culpøst, overtrådt culpareglen, hvis skadevolder har handlet enten forsætligt, dvs. med vilje og viden om handlingens elementer, eller uagtsomt. 
 
-Vi mennesker skal i dagligdagen udvise  "diligentia quam in suis rebus": den omhu, vi udviser i egne anliggender.
+Vi mennesker skal i dagligdagen udvise "diligentia quam in suis rebus"; den omhu, vi udviser i egne anliggender.
+
+Eller et andet latinsk udtryk fra romerretten: "impossibilia nulla est obligatione";	man kan ikke forpligtelse sig til noget, der ikke er muligt.
 
 ---
 
@@ -89,7 +93,8 @@ Se dommen **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, d
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **U 2015.572 H**: Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter.
+Se dommen **U 2015.572 H**: Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter:
+**https://pro.karnovgroup.dk/document/7000720888/1**
 
 ---     
 
@@ -97,7 +102,7 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 
 Ved tingsskader vil det være værdien af eller reparation af det ødelagte. 
 
-Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (forkortet; EAL). 
+Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (forkortet; EAL), se erstatningsansvarsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 Det er f.eks. erstatning for varige mén, tabt arbejdsfortjeneste eller tab af forsørger. 
 
@@ -107,7 +112,7 @@ Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situatione
 
 <img src="img/golf.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **FED 2012.3:** A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig.*
+Se dommen i **FED 2012.3:** "A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig".
 
 
 
@@ -177,7 +182,8 @@ Hvs gæsten smadder værtens indbo i vrede, så er der selvfølgelig ikke tale o
 
 Se dommen **FED 2003.1091:** Hønseejer var ikke ansvarlig for cyklists tilskadekomst, da cykel på landevej ramte fritgående høne.
 
-Se dommen **U 2013.84 V:** Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende.
+Se dommen **U 2013.84 V:** Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende:
+**https://pro.karnovgroup.dk/document/7000521782/1**
 
 **H.K. af 24. juni 2002. Sag: 206/2002:** Museum var ikke ansvarligt for tilskadekomst, da gæst under privat besøg gled i hundeekskrementer og faldt.
 
@@ -251,7 +257,7 @@ Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der i
 ---
 
 Se dommen i **U 2019.1382 V**, hvor en spiludbyder havde handlet ansvarspådragende over for spiller og skulle erstatte tab, der skønsmæssigt blev fastsat til 1.200.000 kr.:
-"A oprettede i 2010 en spilkonto hos en spiludbyder, U, der lukkede kontoen den 2. september 2013. I en sag anlagt af A mod U om erstatning for det tab, A havde lidt ved at spille, blev det lagt til grund, at spilkontoen blev lukket, da A selv havde givet udtryk for, at han led af ludomani. A forklarede, at han ret tidligt i forløbet havde fortalt, at han havde fået en erstatning som følge af en arbejdsskade, og at han også fortalte om sine psykiske problemer. Det blev lagt til grund, at der siden sommeren 2012 havde været en tæt og løbende kontakt mellem A og en ansat i U, og A havde i en mail af 7. september 2012 anført, at han indtil videre havde spillet for ca. 1,5 mio. kr. hos U. Den 11. oktober 2012 skrev han bl.a., at han ikke helt hyggede sig med at spille længere, men at det nu var lidt mere desperation for at prøve at vinde lidt af det tabte tilbage. Hans spilforbrug steg i perioden fra juni 2012 til november 2012 fra 0 kr. om måneden til 428.000 kr. om måneden. Fra maj 2012 til november 2012 forhøjede A flere gange sin grænse for indbetaling på sin spilkonto, som var 100 kr. i maj 2012 og 600.000 kr. i november 2012. Landsretten fandt under disse omstændigheder, at U i hvert fald omkring oktober 2012 burde have indset, at der var en betydelig risiko for, at A havde et alvorligt spilproblem, og at U burde have iværksat foranstaltninger med henblik på at søge dette afklaret og i givet fald f.eks. have taget yderligere skridt til at søge at motivere ham til at anvende forskellige beskyttelsesforanstaltninger, som kunne medvirke til at begrænse hans spil og eventuelt i sidste ende lukke spilkontoen. U havde ikke taget sådanne initiativer, og kundeforholdet og kontakten til A var fortsat efter oktober 2012 i det væsentlige uændret, herunder med løbende tildeling af forskellige former for bonus, der var med til at fastholde A i sit spil. U fandtes herefter i perioden fra oktober 2012 og indtil kontoens lukning at have handlet ansvarspådragende over for A og skulle erstatte det lidte tab. Efter oplysningerne om A’s spilforbrug i denne periode, og da der var den fornødne årsagssammenhæng, blev erstatningen skønsmæssigt fastsat til 1.200.000 kr."
+"A oprettede i 2010 en spilkonto hos en spiludbyder, U, der lukkede kontoen den 2. september 2013. I en sag anlagt af A mod U om erstatning for det tab, A havde lidt ved at spille, blev det lagt til grund, at spilkontoen blev lukket, da A selv havde givet udtryk for, at han led af ludomani. A forklarede, at han ret tidligt i forløbet havde fortalt, at han havde fået en erstatning som følge af en arbejdsskade, og at han også fortalte om sine psykiske problemer. Det blev lagt til grund, at der siden sommeren 2012 havde været en tæt og løbende kontakt mellem A og en ansat i U, og A havde i en mail af 7. september 2012 anført, at han indtil videre havde spillet for ca. 1,5 mio. kr. hos U. Den 11. oktober 2012 skrev han bl.a., at han ikke helt hyggede sig med at spille længere, men at det nu var lidt mere desperation for at prøve at vinde lidt af det tabte tilbage. Hans spilforbrug steg i perioden fra juni 2012 til november 2012 fra 0 kr. om måneden til 428.000 kr. om måneden. Fra maj 2012 til november 2012 forhøjede A flere gange sin grænse for indbetaling på sin spilkonto, som var 100 kr. i maj 2012 og 600.000 kr. i november 2012. Landsretten fandt under disse omstændigheder, at U i hvert fald omkring oktober 2012 burde have indset, at der var en betydelig risiko for, at A havde et alvorligt spilproblem, og at U burde have iværksat foranstaltninger med henblik på at søge dette afklaret og i givet fald f.eks. have taget yderligere skridt til at søge at motivere ham til at anvende forskellige beskyttelsesforanstaltninger, som kunne medvirke til at begrænse hans spil og eventuelt i sidste ende lukke spilkontoen. U havde ikke taget sådanne initiativer, og kundeforholdet og kontakten til A var fortsat efter oktober 2012 i det væsentlige uændret, herunder med løbende tildeling af forskellige former for bonus, der var med til at fastholde A i sit spil. U fandtes herefter i perioden fra oktober 2012 og indtil kontoens lukning at have handlet ansvarspådragende over for A og skulle erstatte det lidte tab. Efter oplysningerne om A’s spilforbrug i denne periode, og da der var den fornødne årsagssammenhæng, blev erstatningen skønsmæssigt fastsat til 1.200.000 kr.": **https://pro.karnovgroup.dk/document/7000834034/1**
 
 ---
 
@@ -270,10 +276,11 @@ Se her nævnte domme:
 
 
 
-**U 2012.524 H:** A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. "Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K".
+**U 2012.524 H:** A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. "Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K":
+**https://pro.karnovgroup.dk/document/7000506494/1**
 
 
-**U 2010.1609 H:** Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring.
+**U 2010.1609 H:** Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring: **https://pro.karnovgroup.dk/document/7000438162/1**
 
 ---
 
@@ -297,7 +304,9 @@ Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, 
 
 ![](img/ild.jpg)
 
-Se dommen **U 1915.242 H**: (Uagtsom Brandstiftelse). En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed.
+Se dommen i **U 1915.242 H**: (Uagtsom Brandstiftelse). "En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed":
+**https://pro.karnovgroup.dk/document/7000764552/1**
+
 
 ---
 
@@ -442,6 +451,8 @@ Forsætlige skader dækker forsikringen ikke, medmindre skadevolder er under 14 
 
 Se Højesteretsdom **H.D. 19 december 2016 i sag 235/2015 (1. afdeling):** Skadelidte, der var sindssyg, forsøgte at begå selvmord ved at køre ind i en modkørende lastbil. Retten til erstatning for personskade bortfaldt som følge af forsætlig medvirken.
 
+Her et passende udtryk fra romerretten: *"res ipsa loquitur"*;	"tingene taler for sig selv".
+
 ---
 
 **Studenteropgave:**
@@ -518,7 +529,7 @@ Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en dri
 
 Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. 
 
-Det fremgår af Lov om erstatningsansvar (Lovbekendtgørelse nr. 1070 af 24. august 2018). 
+Det fremgår af Lov om erstatningsansvar (EAL) (Lovbekendtgørelse nr. 1070 af 24. august 2018), se EAL i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
 
 
 ![](img/rude.jpg)
@@ -537,17 +548,103 @@ I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommend
 
 De objektive ansvarsfrihedsgrunde består af:
 
-*Nødværge*, jf. straffelovens § 13. Nødværge betegner en handling, som foretages i et forsøg på at afværge et angreb, og hvor den person, der foretager nødværget handler på en måde, som medfører indgreb i den angribendes retsgoder.
+*Nødværge*, jf. straffelovens § 13:
+
+"Handlinger foretagne i nødværge er straffri, for så vidt de har været nødvendige for at modstå eller afværge et påbegyndt eller overhængende uretmæssigt angreb og ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt.
+Stk. 2. Overskrider nogen grænserne for lovligt nødværge, bliver han dog straffri, hvis overskridelsen er rimeligt begrundet i den ved angrebet fremkaldte skræk eller ophidselse".
+
+Nødværge betegner en handling, som foretages i et forsøg på at afværge et angreb, og hvor den person, der foretager nødværget handler på en måde, som medfører indgreb i den angribendes retsgoder.
 
 Såfremt nødværgehandlingerne er nødvendige for at afværge eller modstå et påbegyndt eller overhængende angreb, og handlingerne ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt, er nødværget lovligt
 
-*Nødret*, jf. straffelovens § 14. Et juridisk udtryk for talemåden "nød bryder alle love"; udsagnet gælder imidlertid kun under visse betingelser. En handling, der ellers ville være en strafbar lovovertrædelse, straffes ifølge straffeloven § 14 ikke, hvis den var nødvendig for at afværge truende skade på mennesker eller andre værdier; det er ikke afgørende, hvordan nødsituationen er opstået. Nødretshandlingen er ikke straffri, hvis det truede gode kunne være reddet med lovlige midler. Handlingen kan foretages af den person, hvis værdier er truet, eller af andre, og den kan være rettet mod en tredje persons værdier. For at være straffri skal handlingen endvidere være af væsentlig mindre betydning end den skade, der ville være sket uden indgriben.
+Se straffeloven, jf. Lovbekendtgørelse 2019-09-17 nr. 976 i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
+
+Domme om nødret:
+
+**U 1938.134/2 V** Slag med gulvskrubbe for at hindre 3 berusede personer i at trænge sig ind i en butik:
+**https://pro.karnovgroup.dk/document/7000774882/1**
+
+
+**U 1937.164** Tiltalte, hvis hund: var kommet i slagsmål med en glubsk hund, kastede en lukket havesaks efter hundene, hvorved den glubske hund blev såret og fik blodforgiftning - det udtaltes, at handlingen ikke fandtes at gå ud over, hvad der var forsvarligt - §§ 13 og 14 ikke citeret:
+**https://pro.karnovgroup.dk/document/7000775514/1**
+
+**U 1934.509 H** Nazistisk stormafdelings forsvar med gummistykker overfor angreb med stakittremmer. Arbejdere, der havde angrebet og været i håndgemæng med marcherende nazister, idømt bøder. Nazisterne frifundet ("rimeligt forsvar"): **https://pro.karnovgroup.dk/document/7000240511/1** 
+
+**U 1926.11 H** En betjents forsvar - der endog medførte døden - overfor en beruset person, der havde slået betjenten i ansigtet anset berettiget:
+**https://pro.karnovgroup.dk/document/7000239406/1**
+
+**U 1988.74 V** Modsat sig grov provokation, herunder ved slag i brystet, tildelt den pågældende et slag med en ølflaske i hovedet, frifindelse efter § 13, stk. 1 og 2: **https://pro.karnovgroup.dk/document/7000197908/1**
+
+**U 1998.504 V** De tiltalte havde opfattet situationen således, at modparten såvel verbalt som ved sin fremtræden havde givet udtryk for et ønske om at komme i slagsmål med de tiltalte. De tiltaltes slag med knytnæver anset som straffri efter § 13, stk. 1:
+**https://pro.karnovgroup.dk/document/7000202350/1**
+
+
+**U 2003.1353 V** Tiltalte, der - efter at en person havde råbt, at forurettede stod bag tiltalte med en kniv fremme - vendte sig om og slog forurettede i ansigtet med en ølflaske, og med to knytnæveslag, frifundet på grund af nødværge, jf. § 13, stk. 1:
+**https://pro.karnovgroup.dk/document/7000265254/1**
+
+---
+
+Se på den anden side tilfælde, hvor nødværge ikke er statueret: 
+
+**U 1936.172 Ø** Slag med gummiknippel for at få en person til at slippe tag i gerningsmandens cykel, tildelt 2 slag, efter at taget varsluppet:
+**https://pro.karnovgroup.dk/document/7000240776/1**
+
+
+**U 1933.817** Skud, der ramte krybskytte i benene, efter at krybskytten havde skudt gerningsmandens hund:
+**https://pro.karnovgroup.dk/document/7000240401/1**
+
+**JD 1942.346** Nedskydning af brevduer, der beskadigede en nylig tilsået mark - hverken §§ 13 eller 14 berettigede hertil, 
+
+**JD 1939.14** Slag med stok på person for at fjerne ham fra en gerningsmanden sammen med andre tilhørende strandgrund, 
+
+**U 1974.729** (drab med kniv af betydeligt større og kraftigere person, der havde overfaldet tiltalte. Strafnedsættelse efter dagældende § 84, stk. 1, nr. 1 og 4, og § 85), 
+
+**U 1975.518 H**, **U 1992 752** 17-årigt besætningsmedlems medvirken til indførsel i USA af 4448 kg kokain, der blev taget om bord på skibet i internationalt farvand; det havde været yderst vanskeligt for ham at tage afstand fra hele den øvrige besætning, ligesom han havde næret frygt for sit liv, hvis han ikke deltog. Ikke frifundet efter § 13, men den forskyldte straf bortfaldt i medfør af dagældende § 84, stk. 1, nr. 2 og 5, jf. stk. 2 og § 85. 
+
+**U 2008.1299 Ø** To politifolk, der under anholdelsesaktion havde benyttet tjenestepistol, frifundet for overtrædelse af § 246. efter § 13, stk. 1, og stk. 2, og fik i øvrigt strafbortfald efter § 83: 
+**https://pro.karnovgroup.dk/document/7000378613/1**
+
+
+
+---
+
+*Nødret*, jf. straffelovens § 14: 
+
+"En handling, der ellers ville være strafbar, straffes ikke, når den var nødvendig til afværgelse af truende skade på person eller gods, og lovovertrædelsen måtte anses for at være af forholdsvis underordnet betydning".
+
+Et juridisk udtryk for talemåden "nød bryder alle love"; udsagnet gælder imidlertid kun under visse betingelser. 
+
+En handling, der ellers ville være en strafbar lovovertrædelse, straffes ifølge straffeloven § 14 ikke, hvis den var nødvendig for at afværge truende skade på mennesker eller andre værdier; det er ikke afgørende, hvordan nødsituationen er opstået. 
+
+Nødretshandlingen er ikke straffri, hvis det truede gode kunne være reddet med lovlige midler. Handlingen kan foretages af den person, hvis værdier er truet, eller af andre, og den kan være rettet mod en tredje persons værdier. 
+
+For at være straffri skal handlingen endvidere være af væsentlig mindre betydning end den skade, der ville være sket uden indgriben.
 
 Visse værdier af ikke-økonomisk art kan aldrig ofres i en nødsituation; det er fx ikke tilladt at dræbe et menneske for at redde et eller flere menneskeliv. Se også nødværge.
 
 I erstatningsretten gælder, at den part, som nødretten udøves til fordel for, skal erstatte de skader, som er sket ved nødretshandlingen; ansvarsgrundlaget er objektivt ansvar. 
 
-*Negotiorum gestio* Begrebet betyder uanmodet forretningsførelse og betegner den situation, hvor en person på en andens vegne, men uden bemyndigelse fra den anden, varetager den andens interesser, mens den anden selv er forhindret i at varetagne sine egne interesser.
+Se straffeloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
+
+Domme om stillingtagen til anvendelsen af straffelovens § 14:
+
+Se dommen i **U 1998.1769 Ø**: Bilists hastighedsovertrædelse under overhaling, nødvendiggjort af trafikforholdene, ikke strafbar, jf. straffelovens § 14.
+"T havde kørt med en hastighed af 93 km/t, hvor der højst måtte køres 50 km/t. Som sagen forelå oplyst, fandtes T's forklaring ikke at kunne afvises om, at en lastbil, som kørte til højre for T, pressede T over i en vognbane for modkørende færdsel, og at T derfor var nødsaget til at accelerere op til den af politiet målte hastighed, for at kunne overhale lastbilen, inden der opstod fare for sammenstød med lastbilen eller modkørende færdsel. T's overskridelse af den tilladte hastighed fandtes herefter ikke at have været en strafbar handling, jf. straffelovens § 14, hvorfor T frifandtes":
+**https://pro.karnovgroup.dk/document/7000204419/1**
+
+---
+
+Samt anderledes dommen i **U 2014.2941 V**: Fjernelse af to franske bulldogs fra kennel på grund af mistanke om dyremishandling var tyveri, der ikke var straffrit i medfør af straffelovens § 14, og der var ikke grundlag for at anvende straffelovens § 83, 2. pkt., eller § 82, nr. 3 og 7. Fastsættelsen af straffen blev udsat, jf. straffelovens § 56, stk. 1:
+"De tiltalte erkendte, at de uden ejerens tilladelse havde bortfjernet to hunde fra en kennel, men nægtede sig skyldige i tyveri under henvisning til, at fjernelsen havde været nødvendig på grund af kritisable forhold, som dyrene efter deres opfattelse levede under. Efter forklaring fra den, som havde passet kennelen under ejerens ferie, og fra dyrlægen og efter at have set fotos af dyrene, fandtes fjernelsen af hundene ikke at have været nødvendig til afværgelse af truende fare på disse, jf strfl § 14, og de tiltalte ansås skyldige i tyveri. Ikke grundlag for strafbortfald efter § 83, 2. pkt., eller strafnedsættelse efter § 82, nr. 13 og 14":
+**https://pro.karnovgroup.dk/document/7000652650/1**
+
+---
+
+*Negotiorum gestio:* Begrebet betyder uanmodet forretningsførelse og betegner den situation, hvor en person på en andens vegne, men uden bemyndigelse fra den anden, varetager den andens interesser, mens den anden selv er forhindret i at varetagne sine egne interesser.
 
 Hvis en handling, som udføres på en ansvarlig måde, er nødvendig for at afværge et formuetab, ifalder skadevolderen ikke erstatningsansvar for skade, han forvolder på den hvis ting, han forsøger at redde, og 
 
@@ -560,13 +657,14 @@ Fælles for de objektive ansvarsfrihedsgrunde er, at de fritager for erstatnings
 ---
 
 Se fx dommen om nødret i **U 2019.1874 V**, hvor en voksen person greb i nakken på en 10-årig dreng, der stod med en brandsprøjte i hænderne, det var en overtrædelse af voldsbestemmelsen i straffelovens § 244, men straffrit efter straffelovens § 13, stk. 1, om nødværge:
-"T, der var officer på en NATO-base i Tyskland, var tiltalt for overtrædelse af straffelovens § 244 ved Sankt Hans aften på basen at have grebet fat i nakken på en 10-årig dreng A med blå mærker på begge sider af halsen til følge. Landsretten anførte, at T’s handling i form af greb på få sekunders varighed i nakken på A var omfattet af gerningsindholdet i straffelovens § 244, og at T havde haft forsæt til at udføre grebet. Det blev lagt til grund, at en brandmand stod i en afstand på ca. 3 m fra A og talte med en anden på det tidspunkt, hvor T tog fat i A, og at C på dette tidspunkt stod et stykke bagved A, uden at det kunne lægges fast, hvor stor afstanden var mellem T og A. A havde på dette tidspunkt fat med begge hænder om en brandsprøjtes greb, som han holdt ind mod sit bryst, og T havde verbalt opfordret A til at stoppe, inden han tog fat i A. Efter en erklæring, der var afgivet af en brigadechef fra Beredskabsstyrelsen, blev det lagt til grund, at der er risiko for øjenskader, hvis man rammes af en stråle fra et højtryksrør, at risikoen forstærkes jo tættere afstanden er mellem strålerør og øje, og at risikoen ved en afstand mellem strålerør og øje på få meter er meget høj. Landsretten fandt efter denne erklæring sammenholdt med en vurdering af den måde, som A havde holdt brandsprøjten på, at hans handling havde været et overhængende angreb over for de personer, der stod relativt tæt på ham, og at angrebet var uretmæssigt. T havde derfor været i en situation, hvor det var nødvendigt at handle for at afværge det overhængende uretmæssige angreb. Efter en samlet vurdering af situationen var T’s handling ikke gået åbenbart ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retgodes betydning havde været forsvarligt. T’s handling var derfor straffri, jf. straffelovens § 13, stk. 1, og T blev herefter frifundet".
+"T, der var officer på en NATO-base i Tyskland, var tiltalt for overtrædelse af straffelovens § 244 ved Sankt Hans aften på basen at have grebet fat i nakken på en 10-årig dreng A med blå mærker på begge sider af halsen til følge. Landsretten anførte, at T’s handling i form af greb på få sekunders varighed i nakken på A var omfattet af gerningsindholdet i straffelovens § 244, og at T havde haft forsæt til at udføre grebet. Det blev lagt til grund, at en brandmand stod i en afstand på ca. 3 m fra A og talte med en anden på det tidspunkt, hvor T tog fat i A, og at C på dette tidspunkt stod et stykke bagved A, uden at det kunne lægges fast, hvor stor afstanden var mellem T og A. A havde på dette tidspunkt fat med begge hænder om en brandsprøjtes greb, som han holdt ind mod sit bryst, og T havde verbalt opfordret A til at stoppe, inden han tog fat i A. Efter en erklæring, der var afgivet af en brigadechef fra Beredskabsstyrelsen, blev det lagt til grund, at der er risiko for øjenskader, hvis man rammes af en stråle fra et højtryksrør, at risikoen forstærkes jo tættere afstanden er mellem strålerør og øje, og at risikoen ved en afstand mellem strålerør og øje på få meter er meget høj. Landsretten fandt efter denne erklæring sammenholdt med en vurdering af den måde, som A havde holdt brandsprøjten på, at hans handling havde været et overhængende angreb over for de personer, der stod relativt tæt på ham, og at angrebet var uretmæssigt. T havde derfor været i en situation, hvor det var nødvendigt at handle for at afværge det overhængende uretmæssige angreb. Efter en samlet vurdering af situationen var T’s handling ikke gået åbenbart ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retgodes betydning havde været forsvarligt. T’s handling var derfor straffri, jf. straffelovens § 13, stk. 1, og T blev herefter frifundet": **https://pro.karnovgroup.dk/document/7000836492/1**
 
 ---
 
 En lovlig politiforretning kan undtage politiet et erstatningsansvar:
 
-Se **U 2019.1069 V** Politiet ikke erstatningsansvarlig over for udlejer for ødelagt dør, som politiet havde måttet sparke ind for at anholde eftersøgt person, da der havde været tale om en lovlig politiforretning, og politiet havde ikke handlet ansvarspådragende
+Se **U 2019.1069 V** Politiet ikke erstatningsansvarlig over for udlejer for ødelagt dør, som politiet havde måttet sparke ind for at anholde eftersøgt person, da der havde været tale om en lovlig politiforretning, og politiet havde ikke handlet ansvarspådragende:
+**https://pro.karnovgroup.dk/document/7000832674/1**
 
 ---
 
@@ -586,7 +684,7 @@ Se dommen **FED 2003.836:** Som følge af identitet mellem forsikringstageren og
 
 Link til UfR (ugeskrift for Retsvæsen):
 
-https://pro.karnovgroup.dk/journals/ufr
+**https://pro.karnovgroup.dk/journals/ufr**
 
 ---
 
@@ -771,7 +869,8 @@ Resten må den skadelidte kræve, at barnet betaler.
 
 ![](img/mink1.jpg)
 
-Se fx. dommen **U 1989.278 V**: To brødre på 4 og 6 år, S og L, klatrede over hegnet til M's minkfarm og åbnede her 979 bure, hvorfra 1882 dyr løb ud. Deres ansvarsforsikringsselskab havde alene villet anerkende erstatningsansvaret for M's udgifter til indfangning af løsslupne mink (23.500 kr.), og S og L gjorde gældende, at den øvrige skade. (600.845 kr.) havde været psykologisk upåregnelig for dem og derfor ikke kunne kræves erstattet. Heri fik de ikke medhold af Vestre Landsret, idet der ikke var tale om atypiske skader, som det var rimeligt at lade M bære risikoen for. Der fandtes heller ikke grundlag for at nedsætte erstatningen efter myndighedslovens § 63, 2. led.
+Se fx. dommen **U 1989.278 V**: To brødre på 4 og 6 år, S og L, klatrede over hegnet til M's minkfarm og åbnede her 979 bure, hvorfra 1882 dyr løb ud. Deres ansvarsforsikringsselskab havde alene villet anerkende erstatningsansvaret for M's udgifter til indfangning af løsslupne mink (23.500 kr.), og S og L gjorde gældende, at den øvrige skade. (600.845 kr.) havde været psykologisk upåregnelig for dem og derfor ikke kunne kræves erstattet. Heri fik de ikke medhold af Vestre Landsret, idet der ikke var tale om atypiske skader, som det var rimeligt at lade M bære risikoen for. Der fandtes heller ikke grundlag for at nedsætte erstatningen efter myndighedslovens § 63, 2. led.:
+**https://pro.karnovgroup.dk/document/7000198503/1**
 
 ---
 

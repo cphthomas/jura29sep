@@ -7,7 +7,7 @@ cat(readLines('np.html'))
 ![](img/aftale.jpg)
 
 
-Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**
+Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -132,7 +132,12 @@ Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, f.eks
 
 Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftalelovens § 1. 
 
-Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–2 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
+Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. Danske Lov 5-1-1:
+"Een hver er pligtig at efterkomme hvis hand med mund, haand og sejl, lovet og indgaaet haver".
+
+Se Danske lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
 
 De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
 
@@ -258,6 +263,8 @@ Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold 
 
 til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, dvs. erstatning i form af såkaldt "positiv opfyldelsesinteresse" (forudsat naturligvis, at der foreligger et ansvarsgrundlag).
 
+Positiv opfyldelsesinteresse	er en erstatning, der stiller den anden part, som om aftalen var blevet opfyldt efter sit indhold. Giver i modsætning til negativ kontraktsinteresse dækning for den tabte fortjeneste.
+
 
 *"Tilbud":* Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
 
@@ -271,6 +278,8 @@ Et *"svar"*, hvori man siger ja til et tilbud.
 *"Accepten"* er både et løfte, der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. 
 
 *"Kommet frem":* Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
+
+Et brev er kommet frem, når det er kommet så vidt, at modtageren kan gøre sig bekendt med indholdet ved handlinger, som han eller hun efter almindelig skik og brug eller særlig tilkendegivelse bør foretage. Det er uden betydning, om modtageren rent faktisk læser brevet.
 
 *Kommet til kundskab:* Det øjeblik, modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst indholdet. 
 
@@ -401,7 +410,7 @@ HR: Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
 
 Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
 
-Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl.
+Tilbud er bindende i butikker og butiksvinduer, medmindre køber burde indse, at der var tale om en fejl (latinsk; lapsus).
     
 Tilbud er fx bindende i web-butikker, når sælger selv har råderet over websitet og muligvis, at der også er en indkøbsfunktion på websitet.
 
@@ -434,7 +443,8 @@ Nogle typer tilbud er ikke bindende for sælger, kaldet "opfordring til tilbud",
 ![](img/ko1.jpg)
 
 Se dommen i **U 2002.631 V** Sælgers direktørs notering af kundes ønske om køb af allerede solgt kø-tilbudsvare havde skabt berettiget forventning hos kunden om køb af varen. Erstatning for prisdifferencen:
-"Sælger S havde i en annonce i en reklameavis under overskriften »KØ-TILBUD« reklameret med, at man lørdag den 6. maj 2000 kl. 9 kunne købe en nærmere angiven rotorklipper, der før havde kostet 4.995 kr., for 2.995 kr. Det fremgik af annoncen bl.a., at der kun var 1 stk., og at der ikke var andre plæneklippere til salg som køtilbud. Kunde K stillede sig som nr. 5 i køen og konstaterede ved henvendelse til de foranstående, at ingen af dem ønskede at købe plæneklipperen. S' direktør D noterede - uden at være opmærksom på, at K's ønske om køb vedrørte et allerede inden den 6. maj ved en fejl solgt køtilbud - K's ønske om køb ned. Lidt efter fik K, mens K stadig stod i køen, af D at vide, at plæneklipperen var solgt et par dage i forvejen. K anlagde retssag mod S med -endelig - påstand om betaling af 2.000 kr. Landsretten udtalte, at prisangivelser i reklamer, der er rettet mod en større kreds, som udgangspunkt alene kan anses som opfordringer til at afgive tilbud og ikke som tilbud. Landsretten anførte videre, at plæneklipperen var annonceret på forsiden af en reklameavis som et af flere køtilbud, og at det af annoncen fremgik, at der kun var et eksemplar til salg, og at der ikke var andre plæneklippere til salg som køtilbud, samt at plæneklipperen ved en fejl fra S' side var solgt inden tidspunktet for salget af køtilbuddene. Selv om der som følge af salget ikke var nogen plæneklipper til salg som køtilbud, noterede D K's ønske om køb heraf under sin gennemgang af køen uden for forretningen og gjorde først senere K bekendt med, at plæneklipperen var solgt. Det blev lagt til grund, at K ikke havde kendskab til et opslag i forretningen om salget, og at K var den første i køen, som ønskede at købe plæneklipperen, der endvidere ikke kunne anses for omfattet af reklameavisens forbehold om udsolgte varer. Under disse omstændigheder havde K ved S' notering af K's ønske om køb fået en berettiget forventning om, at K havde købt plæneklipperen, og S skulle betale K 2.000 kr."
+"Sælger S havde i en annonce i en reklameavis under overskriften »KØ-TILBUD« reklameret med, at man lørdag den 6. maj 2000 kl. 9 kunne købe en nærmere angiven rotorklipper, der før havde kostet 4.995 kr., for 2.995 kr. Det fremgik af annoncen bl.a., at der kun var 1 stk., og at der ikke var andre plæneklippere til salg som køtilbud. Kunde K stillede sig som nr. 5 i køen og konstaterede ved henvendelse til de foranstående, at ingen af dem ønskede at købe plæneklipperen. S' direktør D noterede - uden at være opmærksom på, at K's ønske om køb vedrørte et allerede inden den 6. maj ved en fejl solgt køtilbud - K's ønske om køb ned. Lidt efter fik K, mens K stadig stod i køen, af D at vide, at plæneklipperen var solgt et par dage i forvejen. K anlagde retssag mod S med -endelig - påstand om betaling af 2.000 kr. Landsretten udtalte, at prisangivelser i reklamer, der er rettet mod en større kreds, som udgangspunkt alene kan anses som opfordringer til at afgive tilbud og ikke som tilbud. Landsretten anførte videre, at plæneklipperen var annonceret på forsiden af en reklameavis som et af flere køtilbud, og at det af annoncen fremgik, at der kun var et eksemplar til salg, og at der ikke var andre plæneklippere til salg som køtilbud, samt at plæneklipperen ved en fejl fra S' side var solgt inden tidspunktet for salget af køtilbuddene. Selv om der som følge af salget ikke var nogen plæneklipper til salg som køtilbud, noterede D K's ønske om køb heraf under sin gennemgang af køen uden for forretningen og gjorde først senere K bekendt med, at plæneklipperen var solgt. Det blev lagt til grund, at K ikke havde kendskab til et opslag i forretningen om salget, og at K var den første i køen, som ønskede at købe plæneklipperen, der endvidere ikke kunne anses for omfattet af reklameavisens forbehold om udsolgte varer. Under disse omstændigheder havde K ved S' notering af K's ønske om køb fået en berettiget forventning om, at K havde købt plæneklipperen, og S skulle betale K 2.000 kr.":
+**https://pro.karnovgroup.dk/document/7000246785/1**
     
 ---
 
@@ -628,7 +638,8 @@ Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal s�
 
 ---
 
-**U 1989.561 H:** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangsauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen.
+**U 1989.561 H:** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangsauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen:
+**https://pro.karnovgroup.dk/document/7000198607/1**
 
 ---
 
@@ -730,11 +741,15 @@ Afsender bærer selv risiko for, at mailen kommer frem til modtageren.
 
 ---
 
-Den er *”kommet frem”* - når mailen ligger i indbakken.
+Den er *”kommet frem”* - når e-mailen ligger i indbakken. 
 
-Den er *”kommet til kundskab”* - når mailen åbnes og læses.
+Det er uden betydning, om modtageren rent faktisk læser e-mailen.
 
-Aftalelovens § 40 om at *”give meddelelse”* omfatter også e-mails.
+Den er *”kommet til kundskab”* - når e-mailen åbnes og læses. 
+
+Det er uden betydning, om modtageren rent faktisk forstå indholdet, fx indholdet i en tilstandsrapport.
+
+Aftalelovens § 40 om, at *”give meddelelse”* omfatter også e-mails.
 
 ---
 
@@ -785,40 +800,42 @@ Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
 *Oversigt:*
 
-Umyndige (under 18 år og under lavværgemål), jf.
+*"Umyndige"* (under 18 år og under lavværgemål), jf.
 værgemålsloven § 44.
 
----
-
-Fornuftsmangel – Værgemålslovens § 46.
+*"Myndighed"* er	evnen til at kunne forpligte sin person eller formue ved retshandler.
 
 ---
 
-Falsk, tiltrådt uden bemyndigelse.
+*"Fornuftsmangel"* – Værgemålslovens § 46.
 
 ---
 
-Forfalskning, rettet i gyldig dokument.
+*"Falsk"*; tiltrådt uden bemyndigelse.
 
 ---
 
-Voldelig tvang, vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
+*"Forfalskning"*; rettet i gyldig dokument.
 
 ---
 
-Forvanskning, løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
+*"Voldelig tvang"*; vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
 
 ---
 
-Simpel tvang, anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
+*"Forvanskning2*; løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
 
 ---
 
-Svig, urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro, jf. aftalelovens § 30.
+*"Simpel tvang"*; anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
 
 ---
 
-Udnyttelse/åger, misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
+*"Svig"*; urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro, jf. aftalelovens § 30.
+
+---
+
+*"Udnyttelse/åger"*; misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
 
 ---
 
@@ -826,15 +843,15 @@ Fejltagelse, løftet har fået et andet indhold end tilsigtet hvis ond tro, jf. 
 
 ---
 
-Stridende mod almindelig hæderlighed hvis ond tro, jf. aftalelovens § 33 smhl. § 39.
+*"Stridende mod almindelig hæderlighed hvis ond tro"*; jf. aftalelovens § 33 smhl. § 39.
 
 ---
 
-Urimeligt/i strid med redelig handlemåde (generalklausulen), jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
+*"Urimeligt/i strid med redelig handlemåde (generalklausulen)"*; jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
 
 ---
 
-Bristende forudsætninger.
+*"Bristende forudsætninger"*.
 
 ---
 
@@ -890,13 +907,17 @@ De stærke ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 ![](img/falsk1.jpg)
 
-Løftet er ægte fra starten, men indholdet af løftet ændres. Eller der bliver forfalsket en underskrift.
+Løftet er ægte fra starten, men indholdet af løftet ændres. 
+
+Eller der bliver forfalsket med en underskrift.
 
 ---
 
 *Forvanskning:* Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2, fx af et bud eller i en fax:
 
 "Bliver en afgiven viljeserklæring, som befordres ved telegraf eller mundtlig fremføres ved bud, forvansket ved fejl fra telegrafvæsenets side eller ved urigtig gengivelse af budet, er afgiveren ikke bundet ved erklæringen i den skikkelse hvori den kom frem, selv om den, til hvem erklæringen er afgivet, var i god tro. Vil afgiveren gøre gældende at erklæringen er uforbindende, har han dog at give meddelelse derom uden ugrundet ophold, efter at forvanskningen er kommet til hans kundskab. Undlader han det, er han bundet ved erklæringen i den skikkelse, hvori den kom frem, såfremt den, til hvem erklæringen er afgivet, var i god tro".
+
+
 
 ![](img/forvan.jpg)
 
@@ -910,24 +931,45 @@ Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige af
 
 ![](img/sjov7.jpg)
 
-Bestemmelsen i aftalelovens § 32, stk. 2 tager ikke stilling til, om afsenderen har pligt til at erstatte den godtroende erklæringsmodtager det tab, denne lider ved at stole på erklæringen. Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes hans fejl, eller ansvar kan støttes på DL 3-19-2, jf. fx. dommen i **U 1920 355 H:**
+Bestemmelsen i aftalelovens § 32, stk. 2 tager ikke stilling til, om afsenderen har pligt til at erstatte den godtroende erklæringsmodtager det tab, denne lider ved at stole på erklæringen. 
 
-En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt.
+Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes hans fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2, jf. fx. dommen i **U 1920.355 H:**
+
+"En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt":
+**https://pro.karnovgroup.dk/document/7000238916/1**
+
+---
 
 
-Se **U 2018.553 V**: Aftalelovens §§ 32 og 39 anvendelig på fejl i pensionsselskabs tilbud til kunde om månedlige udbetalinger på en ratepension, idet de månedlige udbetalinger ved en fejlskrift var angivet til 84.429 kr. i stedet for 74.429 kr.
+Se **U 2018.553 V**: Aftalelovens §§ 32 og 39 anvendelig på fejl i pensionsselskabs tilbud til kunde om månedlige udbetalinger på en ratepension, idet de månedlige udbetalinger ved en fejlskrift var angivet til 84.429 kr. i stedet for 74.429 kr.:
+**https://pro.karnovgroup.dk/document/7000804760/1**
+
+---
 
 **U 2007.640 V** Forretning var ikke bundet af forkert priskiltning:
-"A og B henvendte sig i november 2003 i en tæppeforretning, T, hvor de så et ægte tæppe ophængt på væggen. På bagsiden af tæppet var der et prismærke, som angav, at prisen var nedsat fra 2.999 kr. til 2.499 kr. Efter indtastning af varenummeret viste det sig, at tæppets korrekte pris var 24.990 kr., hvorefter T nægtede at sælge tæppet for 2.499 kr. A og B nedlagde under sagen påstand om betaling af prisdifferencen 22.491 kr. Naturalopfyldelse ville ikke være mulig, da tæppet i mellemtiden var stjålet i forretningen. Efter bevisførelsen blev det lagt til grund, at der var tale om et ægte tæppe, og at det var et sted i forretningen, hvor der var udstillet andre ægte tæpper i forskellige størrelser, og at A og B så et tæppe umiddelbart ved siden af det omhandlede tæppe, som var mindre end dette, og som kostede ca. 4.000 kr. Under disse omstændigheder fandt både byretten og landsretten, at det for A og B måtte have stået som en nærliggende mulighed, at angivelsen af prisen kunne skyldes en fejl. Herefter, og da A og B allerede i forbindelse med købet af tæppet blev gjort opmærksom på, at prisen ikke var korrekt, blev T frifundet for A's og B's krav".
+"A og B henvendte sig i november 2003 i en tæppeforretning, T, hvor de så et ægte tæppe ophængt på væggen. På bagsiden af tæppet var der et prismærke, som angav, at prisen var nedsat fra 2.999 kr. til 2.499 kr. Efter indtastning af varenummeret viste det sig, at tæppets korrekte pris var 24.990 kr., hvorefter T nægtede at sælge tæppet for 2.499 kr. A og B nedlagde under sagen påstand om betaling af prisdifferencen 22.491 kr. Naturalopfyldelse ville ikke være mulig, da tæppet i mellemtiden var stjålet i forretningen. Efter bevisførelsen blev det lagt til grund, at der var tale om et ægte tæppe, og at det var et sted i forretningen, hvor der var udstillet andre ægte tæpper i forskellige størrelser, og at A og B så et tæppe umiddelbart ved siden af det omhandlede tæppe, som var mindre end dette, og som kostede ca. 4.000 kr. Under disse omstændigheder fandt både byretten og landsretten, at det for A og B måtte have stået som en nærliggende mulighed, at angivelsen af prisen kunne skyldes en fejl. Herefter, og da A og B allerede i forbindelse med købet af tæppet blev gjort opmærksom på, at prisen ikke var korrekt, blev T frifundet for A's og B's krav":
+**https://pro.karnovgroup.dk/document/7000361980/1**
+
+---
 
 **U 2000.1218 V** Part ikke bundet af modparts accept, da modparten burde have indset, at der forelå en fejltagelse, jf. aftalelovens § 32:
-"I et retsmøde den 18. juni 1998 godkendtes et honorar på 12.146,25 kr. til en skønsmand i forbindelse med et udenretligt syn og skøn. Sagsøgerens advokat forespurgte herefter skriftligt den 29. s.m. sagsøgtes advokat, om sagsøgte ville forlige sagen f.s.v. angik omkostninger således, at sagsøgte betalte et beløb på 7.000 kr. inkl. moms. Den 14. juli accepterede sagsøgte forligsforslaget og indbetalte samtidig 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet. Den 15. juli meddelte sagsøgerens advokat, at de 7.000 kr. kun dækkede advokatomkostninger, og at sagsøgte yderligere skulle betale skønsomkostningerne på 12.146,25 kr. Sagsøgte nægtede at betale dette beløb. Da sagsøgte måtte have indset, at der forelå en fejltagelse, og da sagsøgeren straks efter modtagelsen af de 7.000 kr. gjorde sagsøgte opmærksom på fejlen, var sagsøgeren ikke bundet af sagsøgtes accept af betaling af 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet, jf. aftalelovens § 32".
+"I et retsmøde den 18. juni 1998 godkendtes et honorar på 12.146,25 kr. til en skønsmand i forbindelse med et udenretligt syn og skøn. Sagsøgerens advokat forespurgte herefter skriftligt den 29. s.m. sagsøgtes advokat, om sagsøgte ville forlige sagen f.s.v. angik omkostninger således, at sagsøgte betalte et beløb på 7.000 kr. inkl. moms. Den 14. juli accepterede sagsøgte forligsforslaget og indbetalte samtidig 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet. Den 15. juli meddelte sagsøgerens advokat, at de 7.000 kr. kun dækkede advokatomkostninger, og at sagsøgte yderligere skulle betale skønsomkostningerne på 12.146,25 kr. Sagsøgte nægtede at betale dette beløb. Da sagsøgte måtte have indset, at der forelå en fejltagelse, og da sagsøgeren straks efter modtagelsen af de 7.000 kr. gjorde sagsøgte opmærksom på fejlen, var sagsøgeren ikke bundet af sagsøgtes accept af betaling af 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet, jf. aftalelovens § 32":
+**https://pro.karnovgroup.dk/document/7000196494/1**
+
+---
 
 **U 1996.459 Ø** Bud på tvangsauktion uforbindende efter aftalelovens § 32:
-"Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32".
+"Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32":
+**https://pro.karnovgroup.dk/document/7000202164/1**
+
 
 **U 1989.273 V** Fejl i skøde vedrørende betaling af tilslutningsafgifter. Aftalelovens § 32:
-"Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne".
+"Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne":
+**https://pro.karnovgroup.dk/document/7000198499/1**
+
+---
+
+Se også udtrykket fra romerretten: *"reservatio mentalis"*;	"bevidst uoverensstemmelse mellem vilje og erklæring."
     
 ---
 
@@ -980,18 +1022,21 @@ Gør løftegiver ikke det, bliver vedkommende bundet af sit løfte og aftalen er
 
 Reglerne i aftalelovens §§ 28-29 omfatter den såkaldte kompulsive tvang, dvs. at erklæringsgiveren er bevæget til at afgive løftet ved trussel om påførelse af et onde.
 
-Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter § 29 den ikke-voldelige kompulsive tvang.
+Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter aftalelovens § 29 den ikke-voldelige kompulsive tvang.
 
 *Kompulsiv*: Fremkaldt ved trusler.
 
-Ved voldelig kompulsiv tvang i § 28 er retshandelen ugyldig, selv om løftemodtageren var i god tro. 
+Kompulsiv tvang	er tvang, der retter sig mod viljen. Modsat mekanisk tvang.
+
+Ved voldelig kompulsiv tvang i aftalelovens § 28 er retshandelen ugyldig, selv om løftemodtageren var i god tro. 
 
 Bestemmelsen omhandler en såkaldt stærk ugyldighedsgrund, der som udgangspunkt bevares selv over for en erklæringsmodtager i god tro, jf. dog aftalelovens § 28, stk. 2 om manglende reklamation.
 
 
 Se dommen i **U 2010.1819 Ø** Bruger af betalingskort hæftede for samlevers misbrug:
 "A havde erhvervet et betalingskort med tilhørende pinkode. Hendes samlever, S, tvang hende ved vold og trussel om vold til at udlevere betalingskortet og pinkoden til sig, hvorefter han benyttede kortet til indkøb, til kortet blev spærret ca. 10 dage senere. Kortudsteder
-krævede herefter betaling af A for de foretagne indkøb. Landsretten fandt, at A havde udleveret koden til kortet til S under omstændigheder, hvor hun måtte have indset, at der var risiko for misbrug, jf. den dagældende betalingsmiddellovs § 11, stk. 6. Udtalt, at betalingsmiddellovens § 11, stk. 6, i overensstemmelse med forarbejderne må fortolkes således, at den ikke finder anvendelse, når kort og kode er fratvunget indehaveren ved voldsanvendelse eller trussel herom. Dette må imidlertid forudsætte, at kortindehaveren i overensstemmelse med princippet i aftalelovens § 28, stk. 2, underretter kortudsteder uden ugrundet ophold, efter at tvangen er ophørt. A hæftede derefter for S' misbrug af kortet efter det tidspunkt, hvor A havde mulighed for at underrette kortudstederen om misbruget".
+krævede herefter betaling af A for de foretagne indkøb. Landsretten fandt, at A havde udleveret koden til kortet til S under omstændigheder, hvor hun måtte have indset, at der var risiko for misbrug, jf. den dagældende betalingsmiddellovs § 11, stk. 6. Udtalt, at betalingsmiddellovens § 11, stk. 6, i overensstemmelse med forarbejderne må fortolkes således, at den ikke finder anvendelse, når kort og kode er fratvunget indehaveren ved voldsanvendelse eller trussel herom. Dette må imidlertid forudsætte, at kortindehaveren i overensstemmelse med princippet i aftalelovens § 28, stk. 2, underretter kortudsteder uden ugrundet ophold, efter at tvangen er ophørt. A hæftede derefter for S' misbrug af kortet efter det tidspunkt, hvor A havde mulighed for at underrette kortudstederen om misbruget":
+**https://pro.karnovgroup.dk/document/7000443622/1**
 
 ---
 
@@ -1000,6 +1045,8 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven § 17 
 Gældsbrevslovens § 17:
 
 "Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering".
+
+*"Handleevne"* betyder	en persons evne til at forpligte sig ved retshandler.
 
 ---
 
@@ -1020,6 +1067,12 @@ Sager om afpresning kan efter omstændighederne have betydelig grovhed og nærme
 
 
 <img src="img/myndig.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+---
+
+*"Umyndige"* er personer under 18 år, der ikke har indgået ægteskab (mindreårige), samt personer, der har fået frataget handleevnen efter værgemålslovens § 6.
+
+Se nærmere **værgemålsloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -1078,6 +1131,8 @@ Hver part skal tilbagelevere, hvad de hver især har modtaget. Hvis det er mulig
 
 Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har været den umyndige til nytte, fx cykel eller computer, kan den umyndige risikere at skulle betale erstatning til løftemodtager efter nyttereglen, jf. værgemålslovens § 45.
 
+*"Nyttereglen"*: Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
+
 Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
 
 Derudover gælder de almindelige erstatningsretlige regler.
@@ -1100,7 +1155,11 @@ I **Juridisk Årbog 2000, s. 98**, er refereret en afgørelse vedrørende en 13-
 
 I **Juridisk Årbog 2000, s. 99**, er refereret en sag om en umyndig forbruger, der indgik aftale om køb af en høretelefonforstærker for midler, han havde erhvervet til sin konfirmation. Forbrugerklagenævnet fandt derfor, at aftalen ikke kunne anses for ugyldig. Der var i sagen ikke oplysning om beløbsstørrelsen, men dette er jo også irrelevant, når den umyndige faktisk disponerede over penge, han havde til fri rådighed. Sagen vedrører herudover købelovens § 75 om sælgerens leveringsforbehold. (**Afgørelsessagsnr.: 1999-4011/7-209**).
 
+---
 
+Se endvidere begrebet *"ratihabition"*; "efterfølgende godkendelse". 
+
+Anvendes fx på aftaler indgået af mindreårige, som efterfølgende bliver gyldige ved, at den nu myndige opfylder aftalen.
 
 ---
 
@@ -1156,7 +1215,7 @@ Den ikke-voldelige kompulsiv tvang/psykisk tvang, er fx trusler om boykot, skand
 
 ---
 
-For det første skal den handling, der trues med, være lovlig, jf. herved dommen i **U 1928.47 H**.
+For det første skal den handling, der trues med, være lovlig, jf. herved dommen i **U 1928.47 H**: **https://pro.karnovgroup.dk/document/7000239630/1**
 
 For det andet skal den handling, der trues til, være lovlig.
 
@@ -1176,10 +1235,11 @@ Se Lovbekendtgørelse 2014-09-19 nr. 1018 om inkassovirksomhed.
 Det er ligeledes retmæssigt at true en butikstyv med politianmeldelse, hvis ikke tyven betaler købesummen (altså ikke blot den lavere indkøbspris) for den stjålne vare. Det er derimod retsstridigt under trussel om politianmeldelse at true butikstyven til at betale et større beløb, jf. dommene i **U 1968.512 V** og **U 1975.656 V**:
 
 **U 1968.512 V** Butiksbestyrers handlemåde over for butikstyv bedømt som afpresning og straffet med dagbøder, jf. strfl. § 287:
-"T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr."
+"T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr." **https://pro.karnovgroup.dk/document/7000213223/1**
 
 **U 1975.656 V** Betinget dom uden straffastsættelse samt bøde for at afpresse butikstyve for store beløb under trusler om politianmeldelse:
 "T, der var ejer af flere supermarkeder, havde i flere tilfælde under trussel om politianmeldelse formået eller forsøgt at formå kunder, som havde begået butikstyveri i forretninger, til at betale beløb, svarende til 20 gange værdien af de stjålne varer. T ansås skyldig efter straffelovens § 281, nr. 2, og forholdene fandtes, navnlig under hensyn til størrelsen af de beløb, som T havde søgt at afpresse kunderne, og til, at der i en række forhold var fulgt en systematisk fremgangsmåde, at måtte henføres under straffelovens § 285, stk. 1. T ansås med betinget dom uden straffastsættelse og en bøde i medfør af straffelovens § 58 på 10.000 kr."
+**https://pro.karnovgroup.dk/document/7000211639/1**
 
 
 
@@ -1293,11 +1353,12 @@ Det er navnlig ved erklæringens afgivelse, om der er bestående en underlegenhe
 
 ---
 
-Se dommen i **U 1985.672 V**, hvor en aftale med 79 årlig lejer om pligt til fraflytning blev tilsidesat: "Mellem en 79-årig lejer af en ejerlejlighed L og K, som den 18. oktober 1983 købte lejligheden på en tvangsauktion, var der den foregående dag indgået en skriftlig aftale, hvorefter L kunne blive boende i lejligheden til den 31. oktober 1984. Aftalen blev den 3. november 1983 gentaget ved et tillæg til lejekontrakten, men L blev boende i lejligheden, som K herefter påstod hende dømt til at fraflytte. - Det blev lagt til grund, at K før den 17. oktober 1983 af sin advokat var blevet vejledet om sin og L's retsstilling, hvis han købte lejligheden, hvorimod L var uden kendskab hertil. Herefter og under hensyn til det i øvrigt foreliggende om L's personlige forhold, herunder hendes alder og helbredstilstand, fandtes aftalen at burde tilsidesættes som ugyldig i medfør af aftalelovens § 31".
+Se dommen i **U 1985.672 V**, hvor en aftale med 79 årlig lejer om pligt til fraflytning blev tilsidesat: "Mellem en 79-årig lejer af en ejerlejlighed L og K, som den 18. oktober 1983 købte lejligheden på en tvangsauktion, var der den foregående dag indgået en skriftlig aftale, hvorefter L kunne blive boende i lejligheden til den 31. oktober 1984. Aftalen blev den 3. november 1983 gentaget ved et tillæg til lejekontrakten, men L blev boende i lejligheden, som K herefter påstod hende dømt til at fraflytte. - Det blev lagt til grund, at K før den 17. oktober 1983 af sin advokat var blevet vejledet om sin og L's retsstilling, hvis han købte lejligheden, hvorimod L var uden kendskab hertil. Herefter og under hensyn til det i øvrigt foreliggende om L's personlige forhold, herunder hendes alder og helbredstilstand, fandtes aftalen at burde tilsidesættes som ugyldig i medfør af aftalelovens § 31": **https://pro.karnovgroup.dk/document/7000205936/1**
 
 ---
 
-Se dommen i **U 1951.486 H**, hvor et testamente og pantebrev blev anset uforbindende efter aftalelovens § 31: "Den i 1863 fødte fru E, hvis væsentligste formue bestod i en beboelsesejendom, indsatte i 1937 ved testamente en halvsøsters datter fru A som enearving og overdrog i 1940 ejendommen til fru A, der for restkøbesummen 42.825 kr., udstedte pantebrev til E. Senere blev forholdet til fru A og dennes ægtefælle mindre godt, og E ændrede testamentet. Et af E i 1947 oprettet testamente, hvorved fru A uigenkaldeligt indsattes som hovedarving, og en påtegning på pantebrevet, hvorefter dette skulle være uopsigeligt fra E's side og efter hendes død udlægges fru A, ansås fremkaldte ved utilbørlig udnyttelse af E's situation og afhængighedsfølelse overfor fru A og dennes ægtefælle og ansås som omfattede af aftalelovens § 31 uforbindende for E".
+Se dommen i **U 1951.486 H**, hvor et testamente og pantebrev blev anset uforbindende efter aftalelovens § 31: "Den i 1863 fødte fru E, hvis væsentligste formue bestod i en beboelsesejendom, indsatte i 1937 ved testamente en halvsøsters datter fru A som enearving og overdrog i 1940 ejendommen til fru A, der for restkøbesummen 42.825 kr., udstedte pantebrev til E. Senere blev forholdet til fru A og dennes ægtefælle mindre godt, og E ændrede testamentet. Et af E i 1947 oprettet testamente, hvorved fru A uigenkaldeligt indsattes som hovedarving, og en påtegning på pantebrevet, hvorefter dette skulle være uopsigeligt fra E's side og efter hendes død udlægges fru A, ansås fremkaldte ved utilbørlig udnyttelse af E's situation og afhængighedsfølelse overfor fru A og dennes ægtefælle og ansås som omfattede af aftalelovens § 31 uforbindende for E":
+**https://pro.karnovgroup.dk/document/7000222560/1**
 
 ---
 
@@ -1305,7 +1366,7 @@ Har løftemodtageren ligefrem været ude af stand til at handle fornuftsmæssigt
 
 ---
 
-Se dommen i **U 1957.129 H**, hvor en 66-årig gårdejers salg af gård til ung husbestyrerinde blev anset uforbindende (ugyldig) pga. manglende evne til at handle fornuftsmæssigt: "En 66-årig gårdejer G, der kort efter sin hustrus død solgte sin landejendom til sin 18-årige husbestyrerinde, var ifølge en af Retslægerådet afgivet erklæring åndssvag i lettere grad og hans psykiske habitus så ringe, at det ikke kunne antages, at han havde været i stand til at forstå usædvanlige dispositioners rækkevidde. Under hensyn hertil, til sagens øvrige oplysninger og de for G uheldige vilkår i salgsaftalen statueredes denne i medfør af myndighedslovens § 65, stk. 1, at være uforbindende for G".
+Se dommen i **U 1957.129 H**, hvor en 66-årig gårdejers salg af gård til ung husbestyrerinde blev anset uforbindende (ugyldig) pga. manglende evne til at handle fornuftsmæssigt: "En 66-årig gårdejer G, der kort efter sin hustrus død solgte sin landejendom til sin 18-årige husbestyrerinde, var ifølge en af Retslægerådet afgivet erklæring åndssvag i lettere grad og hans psykiske habitus så ringe, at det ikke kunne antages, at han havde været i stand til at forstå usædvanlige dispositioners rækkevidde. Under hensyn hertil, til sagens øvrige oplysninger og de for G uheldige vilkår i salgsaftalen statueredes denne i medfør af myndighedslovens § 65, stk. 1, at være uforbindende for G": **https://pro.karnovgroup.dk/document/7000223700/1**
 
 ---
 
@@ -1345,10 +1406,10 @@ Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, 
 
 ---
 
-
 Er erklæringen udformet af en anden, men har et andet indhold end erklæringsgiveren forestillede sig, finder bestemmelsen anvendelse.
 
-Se dommen i **U 1972.568 H**, hvor en 75-årig kvindes underskrivelse på skøde i den tro, at det var et testamente, blev tilsidesat efter aftalelovens § 32, stk. 1: "En 75-årig kvinde S tilkaldte under en sygdom K for at tale med ham om oprettelse af et testamente, hvori hun ville begunstige K og hans familie. K fik hos en advokat udfærdiget et testamente og et skøde hvorved S overdrog sin ejendom til ham, og i forbindelse hermed et sælgerpantebrev med transport til K's børn. Hun underskrev disse dokumenter, uden at de blev oplæst for hende. Hun gjorde senere gældende, at hun havde underskrevet skødet og transportpåtegningen i den tro, at det var et testamente, der blev forelagt hende. Da K havde varetaget sine egne interesser uden på behørig måde at sikre sig, at S var indforstået med dispositionerne, fandtes de uforbindende for hende i medfør af aftalelovens § 32, stk. 1". 
+Se dommen i **U 1972.568 H**, hvor en 75-årig kvindes underskrivelse på skøde i den tro, at det var et testamente, blev tilsidesat efter aftalelovens § 32, stk. 1: "En 75-årig kvinde S tilkaldte under en sygdom K for at tale med ham om oprettelse af et testamente, hvori hun ville begunstige K og hans familie. K fik hos en advokat udfærdiget et testamente og et skøde hvorved S overdrog sin ejendom til ham, og i forbindelse hermed et sælgerpantebrev med transport til K's børn. Hun underskrev disse dokumenter, uden at de blev oplæst for hende. Hun gjorde senere gældende, at hun havde underskrevet skødet og transportpåtegningen i den tro, at det var et testamente, der blev forelagt hende. Da K havde varetaget sine egne interesser uden på behørig måde at sikre sig, at S var indforstået med dispositionerne, fandtes de uforbindende for hende i medfør af aftalelovens § 32, stk. 1": 
+**https://pro.karnovgroup.dk/document/7000214865/1**
 
 
 ---
@@ -1492,6 +1553,8 @@ En *ugyldig aftale* er, når parterne ikke er forpligtet af det løfte de har af
 Kaldet den *negativ kontraktsinteresse*:
       
 Erstatningskrav, hvor man i økonomisk henseende stilles, som om aftalen slet ikke var indgået – tilbage til status quo.
+
+Dvs. "negativ kontraktsinteresse"	er en erstatning, der stiller en part i et kontraktsforhold, som om kontrakten slet ikke var indgået. Modsat *"positiv opfyldelsesinteresse"*, hvor også den mistede fortjeneste skal erstattes.
       
 ---
 
@@ -1512,19 +1575,20 @@ Se fra retspraksis:
 ![](img/viasat.png)
 
 Se dommen i **U 2005.2960 S** Vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, tilsidesat:
-"V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette".
+"V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette":
+**https://pro.karnovgroup.dk/document/7000311279/1**
 
 ---
 
 **U 2003.1883 V** Forbruger fritaget for TDC's krav om betaling af opkald til St. Helena, jf. aftalelovens § 38 c, jf. § 36:
-"Der var via A's telefonforbindelse i tiden fra 14. til 27. juli 2000 foretaget 74 udlandsopkald til St. Helena, og TDC afkrævede A et beløb på 30.969,26 kr. herfor. Udlandsopkaldene var gennemført via et opkaldsprogram, der var blevet downloadet på A's pc, og opkaldsprogrammet havde foretaget opkaldene. A havde ikke godtgjort, at opkaldene havde haft karakter af uanmodede opkald, og det blev lagt til grund, at A's søn S havde udløst de enkelte opkald gennem accepterende kommandoer via tastaturet til computeren og dermed - i hvert fald rent teknisk - godkendt opkaldene. Det var ikke umiddelbart synligt i forbindelse med internettet, at opkaldet ikke foregik via den sædvanlige forbindelse til almindelig takst, men derimod via en telefonforbindelse til et land til en minuttakst, der i det foreliggende tilfælde havde vist sig at være mange gange større end den sædvanlige. Det måtte efter bevisførelsen antages, at det for den almindelige forbruger uden særlige forudsætninger ved udførelsen af de pågældende accepterende kommandoer kunne fremstå som ganske uklart, hvilke nærmere konsekvenser accepten ville få, og det havde formodningen mod sig, at S ville have foretaget de pågældende opkald, hvis han havde haft nogen ide om, at det kunne udløse et krav som det foreliggende, der måtte anses for at kunne være velfærdstruende for en almindelig forbruger. Det sås ikke at være oplyst over for A ved tegningen af internetabonnementet, at forbindelsen kunne føre til foretagelsen af opkald til en anden og langt højere takst end den almindelige takst for internetforbindelsen. Det måtte antages, at TDC havde haft indtægter ved opkald til den pågældende sextjeneste, og at TDC forud for de omstridte opkald var klar over, at der var problemer med bl.a. opkald til sexnumre på St. Helena i forbindelse med surfing på internettet, og der havde været klager over regninger på for store beløb vedrørende brug af sextjenester som den foreliggende. TDC burde på den baggrund have taget effektive skridt til at sørge for en løsning eller i det mindste en begrænsning af problemerne, men havde ikke på det relevante tidspunkt iværksat tiltag, f.eks. ved etablering af automatisk udlandsspærring m.v. På den anførte baggrund fandt landsretten det urimeligt og stridende mod redelig handlemåde i medfør af abonnementsvilkårene at opkræve de beløb, der vedrørte opkald til St. Helena, jf. aftalelovens § 38 c, jf. 36, og A blev frifundet for TDC's krav".
+"Der var via A's telefonforbindelse i tiden fra 14. til 27. juli 2000 foretaget 74 udlandsopkald til St. Helena, og TDC afkrævede A et beløb på 30.969,26 kr. herfor. Udlandsopkaldene var gennemført via et opkaldsprogram, der var blevet downloadet på A's pc, og opkaldsprogrammet havde foretaget opkaldene. A havde ikke godtgjort, at opkaldene havde haft karakter af uanmodede opkald, og det blev lagt til grund, at A's søn S havde udløst de enkelte opkald gennem accepterende kommandoer via tastaturet til computeren og dermed - i hvert fald rent teknisk - godkendt opkaldene. Det var ikke umiddelbart synligt i forbindelse med internettet, at opkaldet ikke foregik via den sædvanlige forbindelse til almindelig takst, men derimod via en telefonforbindelse til et land til en minuttakst, der i det foreliggende tilfælde havde vist sig at være mange gange større end den sædvanlige. Det måtte efter bevisførelsen antages, at det for den almindelige forbruger uden særlige forudsætninger ved udførelsen af de pågældende accepterende kommandoer kunne fremstå som ganske uklart, hvilke nærmere konsekvenser accepten ville få, og det havde formodningen mod sig, at S ville have foretaget de pågældende opkald, hvis han havde haft nogen ide om, at det kunne udløse et krav som det foreliggende, der måtte anses for at kunne være velfærdstruende for en almindelig forbruger. Det sås ikke at være oplyst over for A ved tegningen af internetabonnementet, at forbindelsen kunne føre til foretagelsen af opkald til en anden og langt højere takst end den almindelige takst for internetforbindelsen. Det måtte antages, at TDC havde haft indtægter ved opkald til den pågældende sextjeneste, og at TDC forud for de omstridte opkald var klar over, at der var problemer med bl.a. opkald til sexnumre på St. Helena i forbindelse med surfing på internettet, og der havde været klager over regninger på for store beløb vedrørende brug af sextjenester som den foreliggende. TDC burde på den baggrund have taget effektive skridt til at sørge for en løsning eller i det mindste en begrænsning af problemerne, men havde ikke på det relevante tidspunkt iværksat tiltag, f.eks. ved etablering af automatisk udlandsspærring m.v. På den anførte baggrund fandt landsretten det urimeligt og stridende mod redelig handlemåde i medfør af abonnementsvilkårene at opkræve de beløb, der vedrørte opkald til St. Helena, jf. aftalelovens § 38 c, jf. 36, og A blev frifundet for TDC's krav": **https://pro.karnovgroup.dk/document/7000267521/1**
 
 ---
 
 En andelsboligforening opfattes som forbrugere og kan derfor påberåbe sig urimelighedsreglerne i aftalelovens §§ 38 c og 36 og dermed få tilsidesat eller ændret kontraktsindgåelser med tredjemand.
 
 Se dommen i **U 2019.2389 V**. Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. Aftalen om honorering var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt: 
-"Andelsboligforeningen A indgik en aftale med anpartsselskabet R om juridisk rådgivning med henblik på nedsættelse af ejendomsskat. Honoraret for konsulentydelsen udgjorde første hele års ejendomsskattebesparelse til amt og kommune, og såfremt ejendomsskattebesparelsen også omfattede tidligere år endvidere 25 % af ejendomsskattebesparelsen for de tidligere år. Hvis der ikke blev opnået en ejendomsskattebesparelse, blev der ikke opkrævet honorar. I 2011 fik A tilbagebetalt i alt 372.012,10 kr. på baggrund af en ændret beregning af ejendomsskatten. R fremsendte herefter en opkrævning på 162.344,35 kr. i honorar, som A betalte. Honoraraftalen blev efterfølgende ændret, således at honoraret for konsulentydelsen udgjorde 30 % af skattebesparelsen og et tilsvarende honorar for den samlede besparelse for tidligere år, der måtte være omfattet af sagen. I 2014 fik A tilbagebetalt 1.072.412, 13 kr. i ejendomsskat. R opkrævede herefter A et honorar på 440.004,04 kr., hvoraf A havde betalt 162.344,35 kr., hvilket A betalte. R havde opgjort sit tidsforbrug til 93,5 timer. A anlagde efterfølgende sag mod R med påstand om tilbagebetaling af 400.000 kr. Landsretten anførte, at A i relation til den indgåede aftale om juridisk rådgivning skulle anses som forbruger, og at rådgivningsaftalens bestemmelser om honorering var i strid med § 3, stk. 4, i bekendtgørelse nr. 684 af 22. juni 2006 om god skik for juridisk rådgivning (god skik-bekendtgørelsen). Lov nr. 419 af 5. september 2006 om juridisk rådgivning og god skik-bekendtgørelsen, der er udstedt i medfør af loven, indeholder en offentligretlig regulering af de juridiske rådgiveres forhold, der er strafsanktioneret. Der er ikke ved loven taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36. Den oprindelige bestemmelse om honorering var indeholdt i en standardaftale udarbejdet af R, der foruden bestemmelsen om honorering bl.a. indeholdt et vilkår om uopsigelighed. Både den oprindelige honorering og den ændrede honorering ifølge allongen var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4. Landsretten fandt, at et samlet honorar på 440.004,04 kr. efter oplysningerne om karakteren og omfanget af det rådgivningsarbejde, som konkret havde været udført af R for A, væsentligt oversteg et rimeligt honorar for juridisk rådgivning. På den anførte baggrund havde honoraraftalen ikke kunnet gøres gældende af R over for A, hvorfor A som udgangspunkt var berettiget til tilbagebetaling af den del, som oversteg et rimeligt honorar for det udførte arbejde. Opkrævningen på 162.344,35 kr. i 2011 faldt i forlængelse af en gennemført regulering af ejendomsskatten hos ,A, der havde resulteret i en tilbagebetaling. Efter formuleringen af rådgivningsaftalen og allongen blev det lagt til grund, at der var tale om en endelig fakturering for udført rådgivningsarbejde og ikke alene opkrævning af aconto honorar. Forældelsesfristen for A’s tilbagesøgningskrav skulle regnes fra betalingen af fakturaen primo februar 2012, jf. forældelseslovens § 2, hvorfor denne del af tilbagesøgningskravet var forældet. Da et rimeligt honorar for R’s rådgivning ikke oversteg det betalte beløb på 162.344,35 kr., tog landsretten A’s påstand delvis til følge med 268.290,45 kr. svarende til den resterende del af A’s tilbagesøgningkrav".
+"Andelsboligforeningen A indgik en aftale med anpartsselskabet R om juridisk rådgivning med henblik på nedsættelse af ejendomsskat. Honoraret for konsulentydelsen udgjorde første hele års ejendomsskattebesparelse til amt og kommune, og såfremt ejendomsskattebesparelsen også omfattede tidligere år endvidere 25 % af ejendomsskattebesparelsen for de tidligere år. Hvis der ikke blev opnået en ejendomsskattebesparelse, blev der ikke opkrævet honorar. I 2011 fik A tilbagebetalt i alt 372.012,10 kr. på baggrund af en ændret beregning af ejendomsskatten. R fremsendte herefter en opkrævning på 162.344,35 kr. i honorar, som A betalte. Honoraraftalen blev efterfølgende ændret, således at honoraret for konsulentydelsen udgjorde 30 % af skattebesparelsen og et tilsvarende honorar for den samlede besparelse for tidligere år, der måtte være omfattet af sagen. I 2014 fik A tilbagebetalt 1.072.412, 13 kr. i ejendomsskat. R opkrævede herefter A et honorar på 440.004,04 kr., hvoraf A havde betalt 162.344,35 kr., hvilket A betalte. R havde opgjort sit tidsforbrug til 93,5 timer. A anlagde efterfølgende sag mod R med påstand om tilbagebetaling af 400.000 kr. Landsretten anførte, at A i relation til den indgåede aftale om juridisk rådgivning skulle anses som forbruger, og at rådgivningsaftalens bestemmelser om honorering var i strid med § 3, stk. 4, i bekendtgørelse nr. 684 af 22. juni 2006 om god skik for juridisk rådgivning (god skik-bekendtgørelsen). Lov nr. 419 af 5. september 2006 om juridisk rådgivning og god skik-bekendtgørelsen, der er udstedt i medfør af loven, indeholder en offentligretlig regulering af de juridiske rådgiveres forhold, der er strafsanktioneret. Der er ikke ved loven taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36. Den oprindelige bestemmelse om honorering var indeholdt i en standardaftale udarbejdet af R, der foruden bestemmelsen om honorering bl.a. indeholdt et vilkår om uopsigelighed. Både den oprindelige honorering og den ændrede honorering ifølge allongen var åbenbart i strid med god skik-bekendtgørelsens § 3, stk. 4. Landsretten fandt, at et samlet honorar på 440.004,04 kr. efter oplysningerne om karakteren og omfanget af det rådgivningsarbejde, som konkret havde været udført af R for A, væsentligt oversteg et rimeligt honorar for juridisk rådgivning. På den anførte baggrund havde honoraraftalen ikke kunnet gøres gældende af R over for A, hvorfor A som udgangspunkt var berettiget til tilbagebetaling af den del, som oversteg et rimeligt honorar for det udførte arbejde. Opkrævningen på 162.344,35 kr. i 2011 faldt i forlængelse af en gennemført regulering af ejendomsskatten hos ,A, der havde resulteret i en tilbagebetaling. Efter formuleringen af rådgivningsaftalen og allongen blev det lagt til grund, at der var tale om en endelig fakturering for udført rådgivningsarbejde og ikke alene opkrævning af aconto honorar. Forældelsesfristen for A’s tilbagesøgningskrav skulle regnes fra betalingen af fakturaen primo februar 2012, jf. forældelseslovens § 2, hvorfor denne del af tilbagesøgningskravet var forældet. Da et rimeligt honorar for R’s rådgivning ikke oversteg det betalte beløb på 162.344,35 kr., tog landsretten A’s påstand delvis til følge med 268.290,45 kr. svarende til den resterende del af A’s tilbagesøgningkrav": **https://pro.karnovgroup.dk/document/7000837142/1**
  
 ---
 
@@ -1559,6 +1623,8 @@ Se fra retspraksis:
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 
 *Rimelighedsreglen:* Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
+
+*"Udfyldningsregel"* er enregel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
 
 
 ![](img/fortolk1.jpg)

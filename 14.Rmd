@@ -120,7 +120,7 @@ Definitionen er overensstemmende med definitionerne af forbrugeraftaler/køb i a
 
 ---
 
-Begreber:
+Kreditretlige begreber:
 
 En *»kreditgiveren«* forstås som forbrugerens modpart. 
 
@@ -144,7 +144,14 @@ Betegnelsen *"fordringshaver"* er	den, der har noget til gode.
 
 *"Forældelse"*	ophør af en fordring på grund af dennes alder.
 
-"*forældelsesfrist"* er normalt på 10 år fra fordringens stiftelse, jf. forældelseslovens § 6. En række krav forældelse dog på 3 år fra forfaldstid, jf. nærmere **forældelsesloven** i lovsamlingen **https://jura.tepedu.dk/lovsamling.html.**
+"*forældelsesfrist"* er normalt på 10 år fra fordringens stiftelse, jf. forældelseslovens § 6. En række krav forældelse dog på 3 år fra forfaldstid, jf. nærmere **forældelsesloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+
+
+*"Saldokvittering"* er en	kvittering for betaling til fuld og endelig afgørelse af ethvert mellemværende.
+
+En *"skadesløs kvittering"* er en kvittering, hvor den betalende tager forhold om tilbagesøgning, hvis det viser sig, at der betalt for meget.
+
+*"Vanhjemmel"* er en retlige mangler ved det solgte, fx at dette var behæftet med pant eller ejendomsforbehold.
 
 ---
 
@@ -260,7 +267,8 @@ Loven indeholder derfor en række formkrav til kreditaftaler og bestemmelser om,
 
 ---
 
-Det påhviler som nævnt domstolene – i praksis navnlig fogedretterne – ex officio (af egen drift) at iagttage, om det dokument, der fremlægges i en (foged-)sag, er omfattet af loven, og at de foreskrevne kreditoplysninger er givet på behørigt vis, jf. dommen i **U 2000.461 V**.
+Det påhviler som nævnt domstolene – i praksis navnlig fogedretterne – ex officio (af egen drift) at iagttage, om det dokument, der fremlægges i en (foged-)sag, er omfattet af loven, og at de foreskrevne kreditoplysninger er givet på behørigt vis, jf. dommen i **U 2000.461 V**:
+**https://pro.karnovgroup.dk/document/7000196125/1**
 
 ---
 
@@ -330,7 +338,7 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 *3*. Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden, jf. lovens § 4, nr. 12 om definitionen af det samlede kreditbeløb. Det lånebeløb som forbrugeren kan råde over (låneprovenuet). 
 
-*4.* Kreditaftalens løbetid.
+*4.* Kreditaftalens løbetid. Løbetiden er	den periode, over hvilken et lån afvikles
 
 *5*. Ved kredit i form af henstand med betalingen for en specifik vare eller tjenesteydelse og tilknyttede kreditaftaler, varen eller tjenesteydelsen og kontantprisen herfor. 
 
@@ -676,7 +684,8 @@ Sanktionsreglen i KAL § 23, stk. 1, gælder ikke, hvis kreditgiveren kan godtg�
 
 I betragtning af den høje detaljeringsgrad, der er i lovens bestemmelser om kreditgiverens oplysningspligt, kan det ikke antages, at bestemmelsen i KAL § 23, stk. 3, har væsentlig betydning. 
 
-Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i dommen **U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven.
+Det er desuden hensigten med bestemmelsen, at denne skal have et snævert anvendelsesområde, således at den altovervejende hovedregel er, at en tilsidesættelse af oplysningspligten fører til, at der skal ske en regulering, jf. nærmere præmisserne i dommen **U 2004.317 H** om aftale om leje af videoapparat med ret til at købe for 1 kr. efter 5 år. Dette var i strid med kreditaftaleloven:
+**https://pro.karnovgroup.dk/document/7000279473/1**
 
 Undtagelser i kreditaftaleloven skal således fortolkes indskrænkende grundet lovens forbrugerbeskyttende hensigt.
 
@@ -716,7 +725,8 @@ Reduktion af en rentesats rejser ligesom andre rettelser af en kontrakt spørgsm
 
 ![](img/rente.png)
 
-Dommen i **U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at rentefoden er blevet nedsat til en høj sats, måske den højeste sats som ikke kunne være tilsidesat, men ikke til den lavere sats, som er almindelig eller gennemsnitlig praksis på markedet.
+Dommen i **U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at rentefoden er blevet nedsat til en høj sats, måske den højeste sats som ikke kunne være tilsidesat, men ikke til den lavere sats, som er almindelig eller gennemsnitlig praksis på markedet:
+**https://pro.karnovgroup.dk/document/7000214859/1**
 
 ---
 
@@ -906,7 +916,10 @@ Finansieres et køb eller tjenesteydelse ved et fritstående lån, har kreditaft
  
 Når det skal afgøres, om der foreligger et fritstående lån eller et kreditkøb (oprindeligt trepartsforhold), som er omfattet af KAL § 4, nr. 15, litra b, er det efter lovforarbejderne afgørende, om der foreligger en sådan grad af forbindelse – et sådant samvirke mellem køb og lån – mellem sælger og långiver, at forholdet med rimelighed bør anses for et kreditkøb med de i loven angivne konsekvenser, mens lovteksten i KAL § 4, nr. 15, litra b kræver en aftale om finansiering mellem sælger og tredjemand. 
 
-Der skal ikke efter retspraksis meget til før at en sådan aftale foreligger mellem sælgeren og tredjemand, hør om U 1995.192/2 H (Vandsengedommen):
+Der skal ikke efter retspraksis meget til før at en sådan aftale foreligger mellem sælgeren og tredjemand, hør om **U 1995.192/2 H** (Vandsengedommen):
+Køb af vandseng omfattet af kreditkøbslovens § 1, stk. 2, nr. 2 (nu kreditaftalelovens § 5, nr. 2):
+"I forbindelse med at K for ca. 10.000 kr. købte en vandseng i forretningen S, optog han hos finansieringsselskabet F et lån, hvis provenu blev anvendt til betaling af købesummen. Lånet kom i stand ved, at K i forretningen udfyldte en af S udleveret låneansøgning, som herefter af S pr. telefax blev indsendt til F, hvorefter denne pr. telefax bevilgede lånet, medens K fortsat opholdt sig i forretningen. K hævede senere købet af vandsengen på grund af væsentlige mangler og fremsatte over for F krav om tilbagebetaling af de betalte ydelser på lånet, i alt ca. 9.000 kr., med henvisning til kreditkøbslovens § 1, stk. 2, nr. 2, jf. § 12, stk. 1 (nu kreditaftalelovens § 5, nr. 2, jf. § 33, stk. 1 og 2). K fik medhold ved Forbrugerklagenævnet, men F sagsøgte K med påstand om, at han skulle betale de resterende låneydelser, i alt ca. 3.400 kr., og anerkende ikke at have krav på tilbagebetaling af det allerede erlagte. Ved at udlevere brochurer med låneansøgningsskemaer til S havde F over for S tilkendegivet at være villig til på sine sædvanlige betingelser og vilkår at yde lån til forretningens kunder til finansiering af disses køb i forretningen. Selv om F havde forbeholdt sig ret til at afslå låneansøgninger på grundlag af en kreditvurdering foretaget efter kriterier fastsat af F selv, måtte denne tilkendegivelse anses for at være et løfte, som F ikke vilkårligt kunne undlade at opfylde. Der fandtes herefter at foreligge en aftale mellem F og S som omhandlet i kreditkøbslovens § 1, stk. 2, nr. 2. Under de omstændigheder, hvorunder lånetilbudet var blevet indhentet, måtte lånet til K anses for indrømmet på grundlag af denne aftale, og der forelå således et køb på kredit i henhold til den nævnte bestemmelse. K kunne herefter påberåbe sig lovens § 12, stk. 1, og hans påstande om tilbagebetaling af de erlagte låneydelser og fritagelse for betaling af de resterende blev derfor taget til følge":
+**https://pro.karnovgroup.dk/document/7000201462/1**
 
 ---
 
@@ -1245,7 +1258,8 @@ Spørgsmålet om, hvorvidt sælgeren kan vindicere genstanden fra tredjemand,  m
 
 Udgangspunktet i dansk ret er, at kreditgiveren (sælgeren) kan *vindicere* (tilbagefører) genstanden fra en senere erhverver. 
 
-Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvist uforsigtighed eller passivitet, jf. fx dommen i **U 1984.846 V** (om videresalg af en motorcykel).
+Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvist uforsigtighed eller passivitet, jf. fx dommen i **U 1984.846 V** Om videresalg af en motorcykel:
+**https://pro.karnovgroup.dk/document/7000205503/1**
 
 ![](img/motor.jpg)
 
@@ -1273,9 +1287,11 @@ Efter KAL § 34, stk. 1, nr. 1, skal et ejendomsforbehold således være aftalt 
 
 Dette krav harmonerer med den almindelige regel i køberetten, hvorefter sælgerens ret til at hæve (sælgerens standsningsret) går tabt, når salgsgenstanden er overgivet til køberen, jf. købelovens § 28, stk. 2 og § 39. 
 
-Kriteriet for, at der er sket overgivelse af genstanden, er, at genstanden faktisk befinder sig hos forbrugeren, dennes repræsentant eller under forhold, der ganske må ligestilles hermed, jf. dommen i **U 1957.324 H.**  
+Kriteriet for, at der er sket overgivelse af genstanden, er, at genstanden faktisk befinder sig hos forbrugeren, dennes repræsentant eller under forhold, der ganske må ligestilles hermed, jf. dommen i **U 1957.324 H:**
+**https://pro.karnovgroup.dk/document/7000223971/1**
 
-Er en overgivelse oprindelig sket i henhold til en aftale om lån, leje, prøve eller udvalg mv., er det tilstrækkeligt, at ejendomsforbeholdet aftales senest samtidig med aftalen om køb, jf. herved dommen i **U 1967.805 H**. 
+Er en overgivelse oprindelig sket i henhold til en aftale om lån, leje, prøve eller udvalg mv., er det tilstrækkeligt, at ejendomsforbeholdet aftales senest samtidig med aftalen om køb, jf. herved dommen i **U 1967.805 H:**
+**https://pro.karnovgroup.dk/document/7000213445/1**
 
 Kravet om, at ejendomsforbeholdet skal være aftalt senest ved overgivelsen, gælder både inter partes og i forhold til køberens kreditorer. 
 
@@ -1285,7 +1301,7 @@ Kravet om, at ejendomsforbeholdet skal være aftalt senest ved overgivelsen, gæ
 
 Et yderligere krav for, at der foreligger et gyldigt ejendomsforbehold, er, at kreditprisen skal overstige 2.000 kr., jf. KAL § 34, stk. 1, nr. 2.  
 
-Kravet er opfyldt, når det samlede beløb, der skal betales, overstiger 2.000 kr., også selv om kontrakten omfatter flere genstande, der hver for sig er prissat til et beløb under det angivne minimumsbeløb, jf. dommen i **U 1991.124 V**.  
+Kravet er opfyldt, når det samlede beløb, der skal betales, overstiger 2.000 kr., også selv om kontrakten omfatter flere genstande, der hver for sig er prissat til et beløb under det angivne minimumsbeløb, jf. dommen i **U 1991.124 V**: **https://pro.karnovgroup.dk/document/7000199447/1**  
 
 Det samlede beløb, der skal betales af forbrugeren, beregnes på tidspunktet for indgåelsen af kreditaftalen, jf. KAL § 8, stk. 2, nr. 7.
 

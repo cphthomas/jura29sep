@@ -122,13 +122,13 @@ Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt.
 
 Der må ved afgørelsen om skyldnerens insolvens, og dermed en konkursbehandling tages der hensyn til en række momenter i praksis:
 
-En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001 2592 Ø** (skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter). 
+En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, jf. dommen **U 2001.2592 Ø** Skyldner, der siden 2000-02-10 ved (delvis) betaling havde afværget 15 konkursbegæringer, var insolvent, da han ikke kunne betale 50.798 kr. ifølge en udeblivelsesdom, og da han havde yderligere gældsposter: **https://pro.karnovgroup.dk/document/7000236282/1**
 
 Det må kræves, at der består en fordring mod skyldneren, men ikke, at den er forfalden. 
 
 Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
-At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen i **U 1973 673 H**.
+At fordringen er genstand for en ikke afsluttet retssag, udelukker ikke i sig selv, at den kan tjene som grundlag for konkurs, se f.eks. dommen i **U 1973 673 H**: **https://pro.karnovgroup.dk/document/7000209919/1**
 
 ---
 
@@ -365,11 +365,12 @@ Tvangsinddrivelse kræver et fundament, jf. RPL § 478 fx:
 
 ---
 
-Se dommen i **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste.
+Se dommen i **U 2019.3219 V** Der kunne ikke ske tvangsfuldbyrdelse på grundlag af et digitalt gældsbrev, hvor underskriften ikke var tilføjet digitalt af den anførte debitor, men ifølge debitors forklaring af hendes daværende kæreste: **https://pro.karnovgroup.dk/document/7000841373/1**
 
 ---
 
-Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank NemID, kunne tvangsfuldbyrdes, jf. retsplejelovens § 478, stk. 1, nr. 5.
+Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank NemID, kunne tvangsfuldbyrdes, jf. retsplejelovens § 478, stk. 1, nr. 5:
+**https://pro.karnovgroup.dk/document/7000840573/1**
 
 ---
 
@@ -412,7 +413,10 @@ Selv om en rettighed ikke er klart fastslået, kan fogedretten i visse tilfælde
 *Fogedforretninger:* 
 
 Når fogedretten hjælper med at få gennemført et krav, kaldes det en fogedforretning.
+
 Udlæg, arrest, Bistand til opretholdelse af forbud og påbud, bevissikring, inddrivelse, tilbagetagelse og udsættelse af lejemål er eksempler på forskellige typer af fogedforretninger. 
+
+En *"justificationssag"* betegner en	sag til efterprøvelse af lovligheden af en arrest eller et fogedforbud.
 
 ---
 
@@ -423,6 +427,8 @@ Umiddelbare fogedforretninger er en type fogedsager, der ikke handler om betalin
 En umiddelbar fogedforretning kan for eksempel handle om, at ejeren af en ting ønsker fogedens bistand til at få tingen udleveret fra en anden. 
 
 En umiddelbar fogedforretning kan også handle om, at ejeren af en ejendom ønsker fogedens bistand til at få en lejer sat ud af lejemålet.
+
+En umiddelbar fogedforretning	kan ligeledes være en gennemtvingelse af udleveringskrav via fogedretten uden forudgående dom - fx til udlevering af et barn, som holdes tilbage efter samværsbesøg.
 
 ---
 
@@ -527,6 +533,8 @@ Arrest kan kun foretages,
 Hvis fogedretten foretager arrest, skal den, der har anmodet om arresten, anlægge sag ved civilretten inden 1 uge.
 
 Man kan klage til landsretten over fogedrettens afgørelse.
+
+Se romerrettens begreb: *"periculum in mora"*;	"fare ved udsættelse" - anvendes fx om situationer, hvor øjemedet med et indgreb vil forspildes, hvis man skal afvente en retskendelse.
 
 ---
 
@@ -665,7 +673,7 @@ Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andr
 
 
 Se dommen i **U 2019.3256** om krav i henhold til gældsbrev var ikke fritaget fra udlæg i medfør af retsplejelovens § 513, stk. 1, om beskyttelse mod kreditorforfølgning af personskadeerstatning:
-"A blev i maj 2014 erklæret konkurs. I 2015 lånte A 600.000 kr. til B. Beløbet blev overført fra en konto, hvor indeståendet stammede fra As personskadeerstatning, og der var enighed om, at beløbet på kontoen var beskyttet mod kreditorforfølgning, jf. retsplejelovens § 513, stk. 1. Sagen angik, om beskyttelsen af beløbet som følge af udlånet til B ophørte, således at konkursboet kunne kræve, at B betalte de 600.000 kr. til boet. Højesteret fandt, at beløbet efter udbetalingen til B var blevet sammenblandet med andre midler, og at der herefter ikke var den fornødne sikkerhed for, at beløb, der senere betales til A fra B i henhold til gældsbrevet, hidrørte fra det udbetalte erstatningsbeløb. Højesteret bemærkede herved, at B efter sin forklaring havde videreudlånt beløbet til sin samlevers søn til brug for stiftelse af et anpartsselskab, som drives af samleveren, der er under konkurs. Højesteret tiltrådte på denne baggrund, at kravet i henhold til gældsbrevet ikke var fritaget fra udlæg efter § 513, stk. 1, og at B derfor skulle betale 600.000 kr. til konkursboet. Højesteret stadfæstede herved landsrettens dom".
+"A blev i maj 2014 erklæret konkurs. I 2015 lånte A 600.000 kr. til B. Beløbet blev overført fra en konto, hvor indeståendet stammede fra As personskadeerstatning, og der var enighed om, at beløbet på kontoen var beskyttet mod kreditorforfølgning, jf. retsplejelovens § 513, stk. 1. Sagen angik, om beskyttelsen af beløbet som følge af udlånet til B ophørte, således at konkursboet kunne kræve, at B betalte de 600.000 kr. til boet. Højesteret fandt, at beløbet efter udbetalingen til B var blevet sammenblandet med andre midler, og at der herefter ikke var den fornødne sikkerhed for, at beløb, der senere betales til A fra B i henhold til gældsbrevet, hidrørte fra det udbetalte erstatningsbeløb. Højesteret bemærkede herved, at B efter sin forklaring havde videreudlånt beløbet til sin samlevers søn til brug for stiftelse af et anpartsselskab, som drives af samleveren, der er under konkurs. Højesteret tiltrådte på denne baggrund, at kravet i henhold til gældsbrevet ikke var fritaget fra udlæg efter § 513, stk. 1, og at B derfor skulle betale 600.000 kr. til konkursboet. Højesteret stadfæstede herved landsrettens dom": **https://pro.karnovgroup.dk/document/7000840517/1**
 
 ---
 
@@ -794,9 +802,23 @@ Se **konkursloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 ![](img/insolvent7.jpg)
 
-For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er insolvent. 
+For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er *insolvent*, jf. kravet i konkurslovens § 17:
 
-En "fallent"	person, er en person der er gået konkurs.
+"Er en skyldner insolvent, skal hans bo tages under konkursbehandling, når det begæres af skyldneren eller en fordringshaver.
+
+Stk. 2. En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, efterhånden som de forfalder, medmindre betalingsudygtigheden må antages blot at være forbigående". 
+
+---
+
+*"Insolvens":*
+
+En person er insolvent, når passiverne overstiger aktiverne (insufficiens), eller når han ikke er i stand til at opfylde sine forpligtelser efterhånden som disse forfalder (illikviditet)
+
+Begrebet *illikviditet* betegner manglende evne til at betale forpligtelserne, efterhånden som disse forfalder.
+
+*"Insufficiens"* er	udtryk for, at passiverne overstiger aktiverne.
+
+En "fallent"	person, er en person, der er gået konkurs.
 
 Man er insolvent, hvis man ikke kan betale sin gæld til tiden, og betalingsvanskelighederne ikke kun er midlertidige. 
 
@@ -804,9 +826,9 @@ Konkurs er en universalforfølgning, formålet er at dele skyldners aktiver ud t
 
 Begæring kan indgives til skifteretten af skyldner eller kreditor, jf. KL § 17, stk. 1.
 
-Skyldner mister rådighed over sine aktiver ved dekretets afsigelse, jf. KL § 29
+Skyldner mister rådighed over sine aktiver ved dekretets afsigelse, jf. KL § 29.
 
-Skifteretten udpeger kurator (advokat), som handler på vegne af konkursboet
+Skifteretten udpeger kurator (advokat), som handler på vegne af konkursboet.
 
 Annoncering i Statstidende - virkning for enhver, jf. KL § 30.
 
@@ -883,17 +905,19 @@ Er det i Storkøbenhavn (København, Lyngby, Glostrup og Frederiksberg  retskred
 
 *Under konkursbehandlingen sker der følgende:*
 
-Separatistkrav bliver fyldestgjort før konkursmassen gøres op
+Separatistkrav bliver fyldestgjort før konkursmassen gøres op.
 
-Kurator skal sælge og opgøre alle konkursboets aktiver
+En *"separatist"* er den, der er berettiget til i et konkursbo at forfølge sin ret til en individuel genstand uden hensyn til de andre berettigede i boet, fx ejere, sælgere med ejendomsforbehold, håndpanthavere.
 
-Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler
+Kurator skal sælge og opgøre alle konkursboets aktiver.
 
-Konkursboet vurderer, om der kan være omstødelige dispositioner
+Konkursboet skal overveje, om det vil indtræde i gensidigt bebyrdende aftaler.
 
-Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen
+Konkursboet vurderer, om der kan være omstødelige dispositioner.
 
-Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen
+Kurator opgør alle kreditorernes krav og placerer dem i konkursordenen.
+
+Når konkursboets aktiver og passiver er gjort op bliver kreditorerne fyldestgjort efter konkursordenen.
 
 ---
 
@@ -939,10 +963,30 @@ Først dækkes omkostninger i forbindelse med konkursen (massekrav), og herefter
 * Hvis der ikke er dækning til hele klassen, fx de simple krav, bliver der udloddet en dividende. Efterstående konkursklasser får ingen dækning.
 
 ---
+
+Konkursordenen	betyder derfor inddelingen af konkurskreditorerne i klasser, således at intet krav i en lavere klasse dækkes, så længe der ikke er fuld dækning til alle krav i en højere klasse:
+
+Massekrav
+
+Sekundære massekrav
+
+Privilegerede krav
+
+3a: Lønkrav
+
+3b: Leverandørkrav for en række afgifter
+
+Simple krav
+
+Efterstillede krav
+
+---
  
 ### Udlodning af dividende
 
 En dividende på 10 % til simple krav betyder, at kreditor med et krav på 100.000 kr. får en dækning på 10.000 kr.
+
+Ordet *"udlodning"* betyder	udbetaling af arv i et dødsbo eller dividende i et konkursbo.
 
 *Udækket gæld:*
 
@@ -1004,6 +1048,8 @@ Kuratorer og rekonstruktører vurderer i alle konkursboer og rekonstruktionssage
 Den, der bliver pålagt konkurskarantæne, registreres i et konkurskarantæneregister. 
 
 Personer i dette register kan ikke blive registreret som medlem af ledelsen i et erhvervsdrivende selskab og kan ikke i strid med karantænen blive momsregistreret eller registreret som arbejdsgiver hos SKAT.
+
+---
 
 *Hvem har adgang til konkurskarantæneregistret?*
 
@@ -1175,7 +1221,7 @@ timevis(data, showZoom = FALSE)%>%
 
 ---
 
-Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets direktør kort før konkursen, hvorved selskabets gæld til direktøren blev nedbragt ved modregning, omstødt i medfør af konkurslovens § 67, stk. 1, jf. § 69.
+Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets direktør kort før konkursen, hvorved selskabets gæld til direktøren blev nedbragt ved modregning, omstødt i medfør af konkurslovens § 67, stk. 1, jf. § 69: **https://pro.karnovgroup.dk/document/7000839974/1**
 
 ---
 

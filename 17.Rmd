@@ -25,7 +25,7 @@ cat(readLines('np.html'))
 
 ---
 
-## Definition og regel
+## Modregningsadgang
 
 
 *Modregning* er en måde at opfylde/afslutte krav på. 
@@ -68,7 +68,11 @@ edges <- data.frame(from = c(1,2), to = c(2,1),
 
 ---
 
-Det gøres ved, at den ene parts krav fratrækkes den anden parts krav.
+Se det gældende hovedprincip om modregningsadgang fra romerretten: "inter easdem personas";	modregning kan som udgangspunkt kun ske når hovedkrav og modkrav er mellem de samme personer.
+
+---
+
+Modregning gøres ved, at den ene parts krav fratrækkes den anden parts krav.
 
 Modregning har karakter af betaling. 
 
@@ -96,7 +100,7 @@ Modregning sker ved, at den ene part afgiver en erklæring (modregningserklærin
 
 ---
 
-I modregning gælder der et særligt sprogbrug af begreber: 
+I modregning gælder der et særligt sprogbrug af juridiske begreber: 
 
 
 *Modregneren:* Den der ønsker at modregne og derfor afgiver en modregningserklæring.
@@ -107,7 +111,13 @@ I modregning gælder der et særligt sprogbrug af begreber:
 
 *Hovedfordringen*: Modregnerens skyld til den anden part.
 
-*Konneksitet* betyder, at der er tale om krav, som har fælles oprindelse.
+*Konneksitet*: Det betyder, at der er tale om krav, som har fælles oprindelse. Konneks anvendes om fordringer, der udspringer af samme retsforhold, dvs.at hovedkravet og modkravet udspringer af det samme retsforhold. 
+
+Fx, at forbrugeren skylder afdrag (hovedkravet) i forbindelse med køb af en bil, og at der er konstateret mangler ved bilen, som køberen vil modregne (modkravet) i de afdrag, der skyldes på bilen overfor sælgeren.
+
+Der er udvidet adgang til modregning med konnekse modfordringer. 
+
+Se nedenfor de 4 beingelser for, at der kan foretages *"tvungen ikke-konneks modregningsafgang"*, dvs. at hovedkrav og modkrav ikke udspringer af samme retsforhold.
 
 ---
 
@@ -116,34 +126,42 @@ Ved tvungen ikke-konneks modregning kan modregning ske, uden at der foreligger e
 Tvungen ikke-konneks modregning iværksættes ved, at modregneren afgiver en modregningserklæring. 
 
 Modregningserklæringen har karakter af påbud til hovedmanden. 
+
 Han kan derfor ikke afvise erklæringen, og den har virkning, så snart den er kommet frem til ham.
 
 Fordringer vedbliver således med at bestå med deres fulde beløb, indtil modregning er erklæret, og ophører først, når erklæringen er nået frem til hovedmanden.
 
 ---
 
-## Betingelser for tvungen ikke-konneks modregning
+### Betingelser for tvungen ikke-konneks modregning
 
 For at tvungen ikke-konneks modregning må finde sted, er der en række betingelser, der skal være opfyldte.
 
 Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne ikke-konnekse modregning iværksættes.
 
+Betingelserne er følgende:
+
+*1. Kravene er udjævnelige.*
+
+*2. Kravene er afviklingsmodne.*
+
+*3. Kravene er gensidige.*
+
+*4. Modkravet er retskraftigt.*
+
 ---
 
-*Betingelserne for modregning er følgende*:
-
-* Kravene er udjævnelige
-* Kravene er afviklingsmodne
-* Kravene er gensidige
-* Modkravet er retskraftigt
-
----
-
-*Ad. Kravene til udjævnelighed*
+*Ad. 1. Kravene til udjævnelighed*
 
 Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. 
 
 Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordringen er pengefordringer.
+
+Dvs. krav om *"komputabel"*;	sammenregnelig. 
+
+Det er en betingelse for modregning, at hovedfordring og modfordring er komputable, fx. 2 krav på penge. 
+
+Hovedkravet er penge og modkravet er penge.
 
 Kravene behøver ikke at være lige store, for at tvungen modregning må gennemføres. 
 
@@ -151,13 +169,13 @@ Blot kravene er delelige, må der modregnes over for en hovedfordring, der er st
 
 ---
 
-*Ad. Kravene er afviklingsmodne*
+*Ad. 2. Kravene er afviklingsmodne*
 
 At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. 
 
-Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kræve, at debitor betaler, hvad han skylder. 
+Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kræve, at debitor betaler, hvad debitor skylder. 
 
-Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre sig ved at betale, hvad han skylder.
+Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre sig ved at betale, hvad debitor skylder.
 
 Denne betingelse er begrundet i, at en kreditor kan kræve betaling, når forfaldstidspunktet er kommet, mens en debitor kan frigøre sig fra sin gæld, når frigørelsestidspunktet er kommet.
 
@@ -165,15 +183,17 @@ Med *"forfaldstidspunkt"* menes sidste rettidige betalingsdag, da betaling som u
 
 ---
 
-*Ad. Kravene er gensidige*
+*Ad. 3. Kravene er gensidige*
 
 Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav på hinanden, således at debitor efter den ene fordring er kreditor efter den anden fordring.
 
 ---
 
-*Ad. Modkravet er retskraftigt*
+*Ad. 4. Modkravet er retskraftigt*
 
-At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *forældelse* eller *præklusion* (En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt f.eks. en kreditors krav, når der indrykkes et proklama i et dødsbo).
+At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *forældelse* eller *præklusion* 
+
+(En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt f.eks. en kreditors krav, når der indrykkes et proklama i et dødsbo).
 
 Hvis modfordringen er bortfaldet, er modregning udelukket.
 

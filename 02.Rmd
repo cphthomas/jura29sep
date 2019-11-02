@@ -74,7 +74,11 @@ God skik regler
 
 En lov er underlagt grundloven for 1953 og må ikke stride mod grundloven og/eller internationale konventioner fx menneskerettighedskonventionen (EMRK).
 
-En lov er hierarkisk højere rangeret end en bekendtgørelse. jf. herom forneden. Love er bindende for private, virksomheder og myndigheder. 
+Her gælder *"lex superior"*, hvor en	grundlovbestemmelse går forud for en lovbestemmelse, som går forud for bestemmelse i bekendtgørelse.
+
+En lov er hierarkisk højere rangeret end en bekendtgørelse. jf. herom forneden. 
+
+Love er bindende for private, virksomheder og myndigheder. 
 
 Før en lov kan blive vedtaget, skal den behandles 3 gange i folketinget. 
 
@@ -82,8 +86,19 @@ Det er regeringen, der fremsætter lovforslaget, og det er folketinget, der vedt
 
 Der gælder et retssikkerhedsmæssigt princip i Danmark om lighed for loven, uanset om man er fattig eller rig.
 
+Se tillige det latinske udtryk: "ignorantia juris non nocet"; ukendskab til loven fritager ikke for ansvar.
+
+Samt "lex posterior";	nyere lovbestemmelse går forud for ældre lovbestemmelse, samt
+
+"Lex specialis";	specielle lovbestemmelser går forud for generelle lovbestemmelser (lex generalis).
+
+En vigtigt forståelse af, hvordan loven skal fortolkes er *"formålsfortolkning"*, hvad er formålet med loven: *"ratio legis"*;	"lovens formål".
+
+---
+
 ![](img/lov7.jpg)
 
+Justitia (rettens gudinde) med en vægt i den ene hånd og et sværd i den anden er blevet et afgørende symbol på rettens betydning og lovens upartiske (blinde) retfærdighed. 
  
 ---
 
@@ -227,16 +242,53 @@ Se fra romerretten: "ex æquo et bono"	efter ret og billighed (rimelighed).
 
 ![](img/romer.jpg)
 
-Dansk ret er påvirket af romerrettens begrebsapparat fx. at man som jurist eller jurainteresseret skal kunne forstå elementer af romerretten, samt de klassisk latinsk-juridiske begreber som f.eks. actio, bona fide, caveat emptor, conditio sine qua non, reformatio in pejus, dolus eventualis, depositum, ex offio, ex nunc, ex tunc, in extenso, in dubio pro reo, in absentia, insolvens, de lege lata, de lege feranda, et cetera, et cetera.
+"jus romanum" er den ret, der gjaldt i Romerriget. Denne ret har spillet en afgørende rolle for den europæiske retsudvikling og er en meget vigtig del af kulturarven fra antikken. ^[Følgende afsnit om romerretten bygger især på *Mathias Hein Jessen* https://videnskab.dk/kultur-samfund/du-kan-takke-romerriget-du-skal-folge-loven.] 
 
-Fx.: 
 
-ex nunc	fra nu af.
-ex officio	af egen drift.
-ex tunc	fra da af, (dvs. med tilbagevirkende kraft).
-ex tuto	for en sikkerheds skyld.
 
-Andre latinske udtryk vil løbende blive forklaret igennem kapitlerne.
+
+
+Romerretten har leveret afgørende begreber og kategorier om eksempelvis magt, jurisdiktion og ejendom til politisk tænkning og har været en meget afgørende del af den måde, vi tænker politik, stat, suverænitet, magt og ejendom på her i Vesten.
+
+Vores kendskab til romerretten stammer først og fremmest fra den lovsamling, den samling af skrifter, love og dokumenter, der blev foretaget af den østromerske (byzantinske) kejser Justinian i mellem 529 og 534.
+
+Denne lovsamling, som i dag kendes som **Corpus juris civilis**, skulle vise sig at blive et af de helt afgørende dokumenter i den vestlige idéhistorie. Corpus juris civilis består af fire dele:
+
+**Institutiones**, som er en lærebog eller indføring i romerret for studerende (som også havde lovkraft); **Codex**, som er en samling af kejserlige forordninger; **Novellae**, som er Justinians lovgivning efter samlingen af lovværket (som først blev tilføjet senere); og endelig den måske vigtigste af dem alle, **Digesta**.
+
+*Digesta* (en systematisk, ordnet fremstilling) eller *Pandectae* (latin: altomfattende) var en samling af den vigtigste romerretslige litteratur fra først og fremmest den såkaldte klassiske periode mellem cirka 100 f.v.t. til 300 e.v.t.
+
+Digesta består således af 50 bøger, hvor 39 romerske jurister er citeret (og flere end 100 omtales og refereres til). 
+
+Den mest citerede er *Ulpian* (fra første halvdel af det 3. årh. e.v.t.). 
+
+Justinians ambition var at samle alle centrale bestemmelser og skriverier fra romerretten til ét stort, sammenhængende lovværk uden interne modsigelser, der dermed skulle erstatte de tidligere spredte og usammenhængende lovskrifter (vigtigst af dem de **tolv tavlers lov**).
+
+Som nævnt skulle Corpus juris civilis, og særligt Digesta, blive et af de mest afgørende dokumenter i den vestlige idehistorie. 
+
+Det første kapitel af første bog af Digesta drejer sig helt overordnet om, hvad retfærdighed og lov overhovedet er.
+
+Her udlægges det (gennem Ulpian), der også kalder jurister for 'lovens præster', hvordan den, der vil studere loven og retten, først må vide, hvor ordet ret (jus) kommer fra.
+
+Det kommer fra justitia (retfærdighed), som er en »konstant og vedvarende vilje til at tildele enhver sin ret«, hvis basale principper er »at leve ærværdigt, ikke at skade andre og at tildele enhver sit eget.«
+
+Det handler altså basalt set om et ordentligt, godt liv og sikring af ejendom uden at forvolde skade mod andre, se fx sikringen i grundlovens § 73 om ejendomsretten ukrænkelighed, samt udviklingen af erstatningsretten, som har sit fodfæste i romerretten.
+
+Dansk ret og sprog er således påvirket af romerrettens begrebsapparat fx. at man som jurist ( en person, der har bestået juridisk embedseksamen, dvs. cand. jur. fra universitetet) eller jurainteresseret skal kunne forstå elementer af romerretten, samt de klassisk latinsk-juridiske begreber for at forstå til fulde dansk gældende ret; som f.eks. de latinske udtryk som "actio, bona fide", "caveat emptor", "conditio sine qua non", "reformatio in pejus", "dolus eventualis", "depositum", "ex offio", "ex nunc", "ex tunc", "in extenso", "in dubio pro reo", "in absentia", "insolvens", "de lege lata", "de lege feranda", "et cetera", "et cetera" osv..
+
+Fx. betyder: 
+
+"ex nunc";	fra nu af.
+
+"ex officio";	af egen drift.
+
+"ex tunc";	fra da af, (dvs. med tilbagevirkende kraft).
+
+"ex tuto";	for en sikkerheds skyld.
+
+Andre latinske juridiske udtryk vil løbende blive forklaret igennem herværende kapitler.
+
+---
 
 ![](img/romer1.jpg)
 
@@ -431,6 +483,6 @@ Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfæl
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
 
 
-I juridisk Ordbog (***Bo von Eyben***, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
+I juridisk Ordbog (*Bo von Eyben*, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
 
 ---

@@ -12,7 +12,7 @@ cat(readLines('npp.html'))
 
 *Introduktion til markedsføringsloven*
 
-Lov nr. 426 af 3. maj 2017 om markedsføring (MFL), se nærmere markedsføringsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+Lov nr. 426 af 3. maj 2017 om markedsføring (MFL), se nærmere markedsføringsloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.** 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FtVlOzjQitY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
@@ -221,9 +221,11 @@ Efter Forbrugerombudsmandens opfattelse er stofmisbrug et samfundsproblem, som i
 
 Hensynet til de erhvervsdrivende interesser:
 
-Se dommen i **U 2004.1561 H** – BR legetøj – domænenavn.
+Se dommen i **U 2004.1561 H** – BR legetøj – domænenavn:
+**https://pro.karnovgroup.dk/document/7000290526/1**
 
-Se dommen i **U 1992.909 SH** – Superellipsebordet.
+Se dommen i **U 1992.909 SH** – Superellipsebordet:
+**https://pro.karnovgroup.dk/document/7000200268/1**
 
 ---
  
@@ -490,7 +492,9 @@ Som efter stk. 1 er det et krav, at markedsføringen har en kommerciel effekt, s
 
 ---
 
-Se hertil dommen i **U 2013.2396 SH** (moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn).
+Se hertil dommen i **U 2013.2396 SH** Moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn:
+**https://pro.karnovgroup.dk/document/7000537950/1**
+
 
 ---
 
@@ -642,7 +646,8 @@ Erhvervsdrivende må ikke benytte forretningskendetegn og lignende, der ikke til
 
 En krænkelse kræver, at der er en vis forvekslingsrisiko, og må vurderes konkret fra sag til sag.
 
-Se dommen i **U 1997.253 H** om pølsemanden ”McAllan”: "Anvendelse af navnet McAllan ved pølsevogn ikke i strid med varemærkeloven eller markedsføringsloven. A forhandlede pølser fra en pølsevogn under anvendelse af navnet McAllan. Selv om der var tale om en vis lighed med de varer, der forhandledes af restaurationsvirksomheden McDonald's, var der ikke risiko for forveksling. Anvendelsen af forstavelserne Mc indebar heller ikke nogen utilbørlig udnyttelse af McDonald's varemærkers særpræg eller renommé og kunne heller ikke anses egnet til at skade særpræget eller renomméet. Endvidere var navnet McAllan gengivet på pølsevognen uden at efterligne McDonald's markedsføring. Der forelå derfor ikke en overtrædelse af varemærkeloven eller markedsføringsloven". 
+Se dommen i **U 1997.253 H** om pølsemanden ”McAllan” Anvendelse af navnet McAllan ved pølsevogn ikke i strid med varemærkeloven eller markedsføringsloven: "A forhandlede pølser fra en pølsevogn under anvendelse af navnet McAllan. Selv om der var tale om en vis lighed med de varer, der forhandledes af restaurationsvirksomheden McDonald's, var der ikke risiko for forveksling. Anvendelsen af forstavelserne Mc indebar heller ikke nogen utilbørlig udnyttelse af McDonald's varemærkers særpræg eller renommé og kunne heller ikke anses egnet til at skade særpræget eller renomméet. Endvidere var navnet McAllan gengivet på pølsevognen uden at efterligne McDonald's markedsføring. Der forelå derfor ikke en overtrædelse af varemærkeloven eller markedsføringsloven": **https://pro.karnovgroup.dk/document/7000201905/1**
+
 
 ---
 

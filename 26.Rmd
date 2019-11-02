@@ -27,6 +27,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=143107" target="_blank">Gældsbrevsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=194694" target="_blank">Hundeloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209981" target="_blank">Hvidvaskloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=174776" target="_blank">Høstpantebrevsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=158134" target="_blank">Konkursloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209544" target="_blank">Kreditaftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142961" target="_blank">Købeloven</a></h3>
@@ -43,6 +44,8 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209542" target="_blank">Retsplejeloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209846"
 target="_blank">Selskabsloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209398"
+target="_blank">Straffeloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142900" target="_blank">Tinglysningsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=2681" target="_blank">Værgemålsloven</a></h3>
 
