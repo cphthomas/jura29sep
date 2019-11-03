@@ -1,7 +1,7 @@
 # Familieret
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/familieret.jpg)
@@ -568,6 +568,16 @@ Af gaver hvis værdi overstiger kr. 65.700 skal der betales en afgift på 15 %, 
 Til svigerbørn kan der i 2019 gives afgiftsfrie gaver på indtil kr. 23.000. Ved gaver derudover skal der betales en afgift på 15 %. 
 
 Ved gaver mellem søskende eller ubeslægtede skal der betales indkomstskat.
+
+Hver person er én giver/modtager uanset ægteskabelig formueordning. Ved gaver ydet fra ægtefæller til børn anses ægtefællerne for to selvstændige gavegivere.
+
+Forældre kan således i 2019 hver - uden afgiftsberegning - give deres barn 65.700 kr., således at barnet modtager 131.400 kr. afgiftsfrit. 
+
+Gaven skal dog være overført fra giverens bodel.
+
+Indskud på børneopsparingskonti tæller med i det beløb på højst 65.700 kr., som man i 2019 afgiftsfrit kan give til hvert af sine børn eller børnebørn.
+**https://skat.dk/skat.aspx?oid=1947450**
+
 
 
 

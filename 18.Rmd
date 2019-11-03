@@ -1,7 +1,7 @@
 # Pant i fast ejendom, løsøre og virksomhedspant
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/tinglysning7.jpg)
@@ -73,7 +73,6 @@ Den der har ejendomsretten er rettighedshaver.
 Ejeren kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver.
 
 Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning. Se tinglysningsloven i lovsamlingen i kapitel 26:
-
 **https://jura.tepedu.dk/lovsamling.html.**
 
 "Allonge"	er et tillæg - til et pantebrev.
@@ -524,7 +523,7 @@ om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lo
 
 ### Begrebet "hævd"
 
-*"Hævd"* er en	særlig erhvervelsesmåde, hvor retten stiftes ved en uhjemlet råden i 20 år eller i alderstid. Danske Lov 5-5-1 lyder således:
+*"Hævd"* er en	særlig erhvervelsesmåde, hvor retten stiftes ved en uhjemlet råden (ikke lovmæssig råden) i 20 år eller i alderstid. Danske Lov 5-5-1 lyder således:
 
 "Hvis Gods og Ejendom nogen haver haft i Haand og Hævd i tyve Aar Ulast og Ukært til Tinge, det beholder hand, uden anden Adkomst at fremvise, angerløst og Uafvundet, medmindre det bevisis, at hand hafde det, enten til pant eller i Forlæning, eller i Forsvar". Se Danske Lov i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
@@ -576,7 +575,7 @@ Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde s
 
 *De vigtigste dokumenter, der således kan tinglyses:*
 
-*Endeligt skøde:* Ikke andre betingelser end købesummens betaling
+*Endeligt skøde:* Ikke andre betingelser end købesummens betaling.
 
 *Betinget skøde:* Endelig overdragelse er gjort betinget af andre forhold end købesummens betaling.
 
@@ -614,7 +613,7 @@ En bygning på en lejet grund kan i nogle tilfælde være særskilt fast ejendom
 
 *Ejendomspant i løsøre beskrives af:*
 
-+ Tilvækstlæren
++ Tilvækstlæren.
 
 + TL § 38 om indlagt løsøre.
 
@@ -785,10 +784,10 @@ TL § 38 kan anvendes analogt på tilbehør til grunden.
 
 ![](img/gart.jpg)
 
-Dommen **U 1934 167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38:
+Dommen **U 1934.167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38:
 **https://pro.karnovgroup.dk/document/7000240470/1**
 
-Dommen **U 1932 603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38:
+Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38:
 **https://pro.karnovgroup.dk/document/7000240219/1**
 
 
@@ -804,8 +803,7 @@ Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan
 
 ![](img/hons.jpg)
 
-Dommen **U 1939 883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38:
-**https://pro.karnovgroup.dk/document/7000241331/1**
+Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38: **https://pro.karnovgroup.dk/document/7000241331/1**
 
 
 ---
@@ -814,7 +812,7 @@ Dommen **U 1939 883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ej
 
 Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, således at særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom:
 
-Se dommen **U 1991 447/1 V:** Vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter TL § 38; pantsætning måtte derfor ske efter reglerne for løsøre:
+Se dommen **U 1991.447/1 V:** Vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter TL § 38; pantsætning måtte derfor ske efter reglerne for løsøre:
 **https://pro.karnovgroup.dk/document/7000199565/1**
 
 
@@ -841,7 +839,7 @@ Se dommen **U 1987.854 V:** Køleskabe, komfurer og elradiatorer, der var opstil
 
 Kravet om, at anskaffelsen skal være sket på ejerens bekostning. 
 
-Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ejeren, jf. dommen i **U 1941 731/2 H**: **https://pro.karnovgroup.dk/document/7000241579/1**
+Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ejeren, jf. dommen i **U 1941.731/2 H**: **https://pro.karnovgroup.dk/document/7000241579/1**
 
 ---
 
@@ -1044,16 +1042,18 @@ Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), ka
  
 ---
 
-*Eksamensopgavesæt om pant i fast ejendom, virksomhedspnat, pantets omfang, konkurs, omstødelse, tvangsfuldbyrdelse og rekonstruktion mv.*
+## Eksamensopgave med vejledning
+
+*Eksamensopgavesæt om pant i fast ejendom, virksomhedspant, pantets omfang, konkurs, omstødelse, tvangsfuldbyrdelse og rekonstruktion mv.*
+
+<img src="img/dyre bilmærker.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 
 *Fine biler og dyre vaner*
 
----
 
-<img src="img/dyre bilmærker.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
----
 
 Super Cars I/S beskæftigede sig med salg af nye og brugte, eksklusive specialbiler som Porsche, Ferrari, Maseratti, Jaguar. 
 
@@ -1456,6 +1456,8 @@ mydf %>%
 ```
 
 ---
+
+## Eksamensopgave med vejledning
 
 *Eksamensopgavesæt og løsning om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.*
 
