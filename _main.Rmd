@@ -35546,7 +35546,7 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 # <font color="red">Skades-, pensions- og livsforsikringer<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 
