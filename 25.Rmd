@@ -1,13 +1,13 @@
 # <font color="red">Skades-, pensions- og livsforsikringer<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('npp.html'))
+# cat(readLines('np.html'))
 ```
 
 
 ***Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden***. 
 
-***Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden***.
+***Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden***.
 
 ---
 
@@ -33,9 +33,9 @@ Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
 
 Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller forsikringsselskabets pligt til at tegne en bestemt forsikring.
 
-Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring fx en ansvarsforsikring på bil og hund..
+Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring fx en ansvarsforsikring på bil og hund.
 
-Efter færdselslovens § 105, stk. 1, skal der fx. tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. Se nærmere lovsamlingen i kapitel 26:
+Efter færdselslovens § 105, stk. 1, skal der fx tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. Se nærmere lovsamlingen i kapitel 26:
 **https://jura.tepedu.dk/lovsamling.html**
 
 ---
@@ -52,7 +52,7 @@ Forsikringssummen skal andrage mindst 3 millioner kroner pr. forsikringsår. Det
 
 Pligt til at tegne forsikring kan endvidere være pålagt medlemmerne af en forening mv. For eksempel skal advokater efter vedtægterne for Det Danske Advokatsamfund tegne en ansvarsforsikring, og efter retsplejelovens § 143 har en advokat pligt til at være medlem af Advokatsamfundet.
 
-Det kan også i en aftale være bestemt, at en af parterne skal tegne en forsikring, f.eks. at sælgeren af en vare skal tegne forsikring for varen, indtil den når frem til bestemmelsesstedet. 
+Det kan også i en aftale være bestemt, at en af parterne skal tegne en forsikring, fx at sælgeren af en vare skal tegne forsikring for varen, indtil den når frem til bestemmelsesstedet. 
 
 Nævnes kan også pantebrevsformular A og B vedrørende pantsætning af fast ejendom, hvorefter den pantsatte ejendom skal være behørigt brandforsikret.
 
@@ -72,9 +72,7 @@ Ildebrand forudsætter således en flammedannelse; skader på halmfyr, som skyld
 
 Svideskader dækkes heller ikke.
 
-Omkring "lynnedslag", jf.	forsikringsaftalelovens § 81, stk. 1:
-
-Hvis ikke andet er aftalt, svarer selskabet også for skade, som forvoldes ved lynnedslag, selv om der ikke derved opstår brand, på samme måde som for brandskade.
+Omkring "lynnedslag", jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svarer selskabet også for skade, som forvoldes ved lynnedslag, selv om der ikke derved opstår brand, på samme måde som for brandskade.
 
 ---
 
@@ -87,20 +85,24 @@ Link: **http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%
 
 ---
 
-*Forskellen på skadesforsikring vs. livsforsikring*
+*Forskellen på skadesforsikring vs. livsforsikring:*
 
 
 Ordet skadeforsikring - dækker over forsikring af skader på ejendele eller personer.
 
-Det dækker over traditionelle forsikringer, som fx
+Det dækker over traditionelle forsikringer, som fx:
 
 **Bilforsikring**
 
-**Familie- og Indboforsikring**
+**Familie- og Indboforsikring, herunder rejseforsikring**
 
 **Husforsikring**
 
-Derudover dækker ordet også over **sundheds- og ulykkesforsikringer** hvor man kan komme til at gøre skade på sig selv eller andre (ansvarsforsikringer).
+**Bygningsforsikring**
+
+**Ejerskifteforsikring**
+
+Derudover dækker ordet skadesforsikring også over **sundheds- og ulykkesforsikringer** hvor man kan komme til at gøre skade på sig selv eller andre (**ansvarsforsikringer**, som typisk er en del af familie- og indboforsikringen).
 
 ---
 
@@ -108,7 +110,7 @@ Derudover dækker ordet også over **sundheds- og ulykkesforsikringer** hvor man
 
 ![](img/djav.jpg)
 
-***En livsforsikring sikrer én eller ens families indtægter hvis én person skulle afgå ved døden***. 
+***En livsforsikring sikrer én eller ens families indtægter, hvis én person skulle afgå ved døden***. 
 
 Det garanterer altså ikke, at man lever for altid - men den kan resultere i en økonomisk udbetaling til ens familie og de efterladte, hvis man dør for tidligt.
 
@@ -120,13 +122,17 @@ Lever man længere er man sikret en fast indtægt. Dør man derimod tidligt, så
 
 De fleste kendte forsikringsselskaber tilbyder dog også livsforsikring. 
 
-Denne forsikring henvender sig til den som ønsker at forsikre sig f.eks. imod en eventuel død. 
+Denne forsikring henvender sig til den som ønsker at forsikre sig fx imod en eventuel død. 
 
 Så hvis situationen er, at ens familie er afhængig af ens indkomst, og man vil sikre sin familie såfremt man går bort, eller bliver uarbejdsdygtig. 
 
 Fastsættelse af præmierne består af flere elementer, dels summen man ønsker at bliver forsikret for, men ligeledes om ens helbredsoplysninger.
 
-Livsforsikring er således ikke skadesforsikring, men en *summaforsikring*, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab.
+Livsforsikring er således ikke skadesforsikring, men en *summaforsikring*, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab og uanset hvor mange livsforsikringer der er tegnet.
+
+Berigelsesforbudet i FAL § 39: "Selskabet er, selv om andet er aftalt, ikke forpligtet til at udrede større erstatning end, hvad der kræves til den lidte skades dækning": 
+
+Gælder kun ved *tingsforsikring*, men ikke for summaforsikring. Dvs fx hvis man har flere livsforsikringer får man udbetalt fra alle forsikringerne. 
 
 
 ---
@@ -247,7 +253,7 @@ Klassifikation af risici ved hjælp af forsikringsklasser.
 
 8) Brand og naturkræfter: alle skader på ejendom (bortset fra ejendom omfattet af klasserne 3, 4, 5, 6 og 7), når de er forårsaget af brand, eksplosion, storm, naturkræfter (bortset fra storm), kerneenergi og jordskred.
 
-9) Andre skader på ejendom: alle skader på ejendom (bortset fra ejendom omfattet af klasserne 3, 4, 5, 6 og 7), når disse skader skyldes hagl eller frost eller har andre årsager af enhver art, f.eks. tyveri, undtagen dem, der er anført under nr. 8.
+9) Andre skader på ejendom: alle skader på ejendom (bortset fra ejendom omfattet af klasserne 3, 4, 5, 6 og 7), når disse skader skyldes hagl eller frost eller har andre årsager af enhver art, fx tyveri, undtagen dem, der er anført under nr. 8.
 
 10) Ansvarsforsikring for motordrevne landkøretøjer: ethvert ansvar hidrørende fra brugen af motordrevne landkøretøjer (herunder førerens ansvar).
 
@@ -307,7 +313,7 @@ Hvis genstanden ikke har nogen nævneværdig økonomisk værdi afvises der dækn
 
 ![](img/born4.jpg)
 
-Se fx. **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser.
+Se fx **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser.
 
 ---
 
@@ -345,12 +351,11 @@ Ifølge færdselsloven (Lovbekendtgørelse 2018-11-21 nr. 1324
 Færdselsloven) skal den ansvarlige for et motorkøretøj erstatte de skader, som køretøjet volder ved færdselsuheld, ved eksplosion eller ved brand, se færdselsloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**.
 
 Se hertil færdselslovens § 101:
-
 "Den, der er ansvarlig for et motordrevet køretøj, skal erstatte skader, som køretøjet volder ved færdselsuheld eller ved eksplosion eller brand, der hidrører fra brændstofanlæg i køretøjet.
 Stk. 2. Erstatningen for personskade eller tab af forsørger kan nedsættes eller bortfalde, hvis skadelidte eller afdøde forsætligt  har medvirket til skaden. Erstatningen kan endvidere nedsættes og i særlige tilfælde bortfalde, hvis skadelidte eller afdøde ved grov uagtsomhed har medvirket til skaden.
 Stk. 3. Erstatningen for tingsskade kan nedsættes eller bortfalde, hvis skadelidte forsætligt eller uagtsomt har medvirket til skaden".
 
-Det betyder, at ejeren altid er erstatningspligtig for disse uheld. 
+Det betyder, at ejeren altid er erstatningspligtig for disse uheld, dvs. ejeren har et objektivt ansvar. 
 
 ---
 
@@ -369,20 +374,24 @@ Se færdselslovens § 105:
 
 Ansvarsforsikringen for et motorkøretøj er således lovpligtig og dækker det erstatningsansvar, som ejer eller bruger kan få. 
 
-Den lovpligtige ansvarsforsikring dækker skade på tredjemands person eller ting, også i det skadevoldende køretøj. 
+Den lovpligtige ansvarsforsikring dækker skade på tredjemands person eller ting, også i det skadevoldende køretøj, fx medpassagerne, men ikke skade på ejerens ting og person. 
+
+De skader må blive dækket på ejerens ulykkesforsikring og kaskoforsikring på bilen, hvis ejeren er skadevolderen.
+
+Man kan ikke være erstatningsansvarlig over for sig selv.
 
 Ejeren, brugeren og føreren er derimod ikke dækket, medmindre en sådan dækning fremgår af forsikringsaftalen. 
 
 ---
 
-**Domme om ansvarsforsaikrngen på motorkøretøjer**
+**Domme om ansvarsforsikringen på motorkøretøjer**
 
-Dommen i *U 1960.235 H* Ansvarsforsikringen dækkede ikke skade, der overgik ejeren, medens denne var passager:
+Dommen i *U 1960.235 H* Ansvarsforsikringen dækkede ikke skade, der overgik ejeren, medens denne var passager. Se hele dommen her:
 **https://pro.karnovgroup.dk/document/7000214026/1**
 
 Samt 
 
-Dommen i *U 1961.925 V* Tilsvarende afgørelse:
+Dommen i *U 1961.925 V* Tilsvarende afgørelse. Se hele dommen her:
 **https://pro.karnovgroup.dk/document/7000215882/1**
 
 Dommen i *U 1998.1626 H* Ansvarsforsikringen dækkede ikke forsikringstagers eget tab, da man ikke kan være erstatningsansvarlig overfor sig selv, skal så dækkes af forsikrinstagerens kaskoforsikring på bilen eller dennes ulykkesforsikring i forhold om der er tale om forsikringstagerens ting- eller personskade: **https://pro.karnovgroup.dk/document/7000204189/1** 
@@ -393,10 +402,10 @@ Det er dog nu en normal policebestemmelse, at forsikringsselskabet også hæfter
 
 Se fx dommen i *FED 2007.153 V* Bevist at A havde været passager i og ikke fører af bilen, hvorfor A, der led personskade, var omfattet af kredsen af sikrede i henhold til bilens ansvarsforsikring. 
 
-Dommen i *U 1969.779 Ø* Ansvarsforsikringen dækker ikke politiets udgifter til borttransport efter et færdselsuheld: 
+Dommen i *U 1969.779 Ø* Ansvarsforsikringen dækker ikke politiets udgifter til borttransport efter et færdselsuheld. Se hele dommen her:
 **https://pro.karnovgroup.dk/document/7000219125/1**
 
-Dommen i *U 2011.3264 Ø* Det erstatningsretlige opgør i et tilfælde, hvor en bil, der forvoldte en færdselsulykke, viste sig ikke at være ansvarsforsikret efter ejerskifte: **https://pro.karnovgroup.dk/document/7000501559/1**
+Dommen i *U 2011.3264 Ø* Det erstatningsretlige opgør i et tilfælde, hvor en bil, der forvoldte en færdselsulykke, viste sig ikke at være ansvarsforsikret efter ejerskifte. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000501559/1**
 
 ---
 
@@ -457,7 +466,7 @@ Forsikringen dækker således de skader, der sker på ejerens bil.
 
 Har man lånt penge til at finansiere købet, er det normalt altid et krav fra bankens side, at der tegnes kaskoforsikring - så panthaverens økonomiske interesser bliver sikret. 
 
-Forsikringen dækker enhver skade på det forsikrede køretøj, samt tyveri af køretøjet, medmindre at der foreligger grov uagtsomhed hos forsikringstageren, fx hvis bilen forlades af forsikrngstageren, mens bilen er i tomgang. 
+Forsikringen dækker enhver skade på det forsikrede køretøj, samt tyveri af køretøjet, medmindre at der foreligger grov uagtsomhed hos forsikringstageren, fx hvis bilen forlades af forsikringstageren, mens bilen er i tomgang. 
 
 ---
 
@@ -546,7 +555,7 @@ Om Forsikringsankenævnets praksis ved færdselsskader, som skyldes *selvforskyl
 
 
 
-**Sagsnr.: 88756.** Klager over regreskrav. Klager mistede herredømmet over sin bil og påkørte en fodgænger. Der skete desuden skade på bil og et plankeværk:
+**Forsikringsankenævnets sagsnr.: 88756.** Klager over regreskrav. Klager mistede herredømmet over sin bil og påkørte en fodgænger. Der skete desuden skade på bil og et plankeværk:
 "Selskabet rettede et regreskrav mod klager på 838.436,50 kr. med henvisning til, at klager havde forvoldt skaden ved grov hensynsløshed. Det fremgik, at klager havde haft en alkoholpromille på 1,64, og der var spor af sovemedicin og kokain i klagers blod/urin. Der var ulovlig dækmontering på bilen, som sammen med lavt dæktryk havde gjort bilen overstyret og med høj sandsynlighed medvirket til, at klager mistede kontrollen over bilen. Byretten havde i straffesagen vurderet, at klager før påkørslen af fodgængeren havde overtrådt straffelovens § 252, stk. 1, ved af grov kådhed eller lignende hensynsløshed at have forvoldt nærliggende fare for en cyklists liv og førlighed. Nævnet fandt det godtgjort, at klager havde forvoldt skaden ved grov hensynsløshed og kunne ikke pålægge selskabet at frafalde sit regreskrav. Nævnet forudsatte, at selskabet ved sin endelige opgørelse af regreskravet tog stilling til, at om der var grundlag for at lempe kravet efter erstatningsansvarslovens § 24, jf. U.2008.1332V. Selskab medhold".
 
 ---
@@ -555,7 +564,7 @@ Om Forsikringsankenævnets praksis ved færdselsskader, som skyldes *selvforskyl
 
 
 
-**Sagsnr.: 83055.** Klager over afvisning af dækning for en totalskadet bil og over opkrævning af selvrisiko: 
+**Forsikringsankenævnets sagsnr.: 83055.** Klager over afvisning af dækning for en totalskadet bil og over opkrævning af selvrisiko: 
 "Klager kørte 24 km mod kørselsretningen på en motorvej i spirituspåvirket tilstand (målt promille på 1,62) og blev bragt til standsning ved, at en politipatruljebil påkørte hans bil. Selskabet afviste dækning for klagers totalskadede bil med henvisning til, at skaden var fremkaldt ved selvforskyldt beruselse og grov uagtsomhed. Selskabet fratrak selvrisiko under ansvarsforsikringen i betalingen for resterne af bilen. Nævnet fandt, at klager havde valgt ikke at standse, selv om politiet havde forsøgt at få ham til det. Han måtte derfor regne med, at han ville blive forsøgt standset, og hans handling indebar dermed en indlysende fare for, at skade kunne opstå. Klager havde derfor handlet groft uagtsomt, og nævnet kunne ikke pålægge selskabet at udbetale erstatning for hans bil, jf. betingelserne. Forsikringen var tegnet med selvrisiko for ansvarsskader, og nævnet kunne ikke kritisere, at selskabet havde fratrukket denne selvrisiko i betalingen for resterne. Selskab medhold".
 
 ---
@@ -563,7 +572,7 @@ Om Forsikringsankenævnets praksis ved færdselsskader, som skyldes *selvforskyl
 ![](img/styrt.jpg)
 
 
-**Sagsnr.: 91822**. Klager over selskabet afslag på at yde dækning for anmeldt uarbejdsdygtighed: 
+**Forsikringsankenævnets sagsnr.: 91822**. Klager over selskabet afslag på at yde dækning for anmeldt uarbejdsdygtighed: 
 "Klager var den 15/4 2017 udsat for et ulykkestilfælde, hvor han styrtede på sin cykel og pådrog sig hovedskader, og han var efterfølgende uarbejdsdygtig. På tidspunktet for ulykken havde klager en promille på ca. 1.3. Ulykken skete, da han cyklede hjem en aften efter en bytur, og han kørte ud over en rampe, som han ikke havde set, på et skoleområde. Selskabet anførte, at klager var uarbejdsdygtig som følge af selvforskyldt beruselse. Klager anførte, at han var beruset, men at dette ikke var hovedårsagen til ulykken. Han anførte, at han på tidspunktet for ulykken allerede havde cyklet 14 km, at det var mørkt og regnede, og at der ikke var afmærkninger eller advarsler omkring rampen. Nævnet fandt efter en gennemgang af sagen, at selskabet ikke havde bevist, at den væsentligste årsag til ulykken og uarbejdsdygtigheden var klagers beruselse. Klager medhold".
 
 ![](img/bil12.jpg)
@@ -586,7 +595,7 @@ I tilknytning til den almindelige bilkaskoforsikring er det i de fleste forsikri
 
 Her skal de vigtigste dækninger kort nævnes:
 
-**Friskadedækning** betyder, at man undgår præmiestigning ved f.eks. skader på bilens glasdele, visse parkeringsskader, hærværk eller skader efter nedstyrtende genstande og skader som følge af tyveri og brand. 
+**Friskadedækning** betyder, at man undgår præmiestigning ved fx skader på bilens glasdele, visse parkeringsskader, hærværk eller skader efter nedstyrtende genstande og skader som følge af tyveri og brand. 
 
 **Bilsavnsforsikring** giver mulighed for erstatning enten som et nærmere bestemt beløb af reparationsudgiften ved en kaskoskade eller som et beløb pr. dag, man må undvære bilen, hvis den er blevet stjålet. 
 
@@ -616,13 +625,13 @@ Rent juridisk vil sådanne forhold efter Forsikringsankenævnets praksis blive v
 
 Se eksempelvis **Forsikringsankenævnets sagsnr.: 87068 og sagsnr.:85571:**
 
-**Sagsnr.: 87068.** Klager over afvisning af dækning for en totalskadet bil: "Nævnet fandt, at klager havde afgivet urigtige oplysninger, idet klager ikke havde oplyst til selskabet, at den reelle bruger af bilen var hendes søn. Selskabet var derfor berettiget til at opsige kaskodelen af forsikringen og undlade at dække den indtrådte kaskoskade. For så vidt angår ansvarsforsikringen - som selskabet videreførte - fandt nævnet, at selskabet var berettiget til med tilbagevirkende kraft at forhøje præmien. Selskab medhold".
+**Forsikringsankenævnets sagsnr.: 87068.** Klager over afvisning af dækning for en totalskadet bil: "Nævnet fandt, at klager havde afgivet urigtige oplysninger, idet klager ikke havde oplyst til selskabet, at den reelle bruger af bilen var hendes søn. Selskabet var derfor berettiget til at opsige kaskodelen af forsikringen og undlade at dække den indtrådte kaskoskade. For så vidt angår ansvarsforsikringen - som selskabet videreførte - fandt nævnet, at selskabet var berettiget til med tilbagevirkende kraft at forhøje præmien. Selskab medhold".
 
 ---
 
 ![](img/fars.jpg)
 
-**Sagsnr.: 85571.** Klager over præmieforhøjelse med tilbagevirkende kraft samt forhøjet selvrisiko: 
+**Forsikringsankenævnets sagsnr.: 85571.** Klager over præmieforhøjelse med tilbagevirkende kraft samt forhøjet selvrisiko: 
 "Klagers ”bonussøn” anmeldte, at han som fører af klagers bil havde påkørt en anden bil på en parkeringsplads. Han oplyste, at han og klager skiftedes til at betale forsikringspræmien. Selskabet anførte, at klager ved grov uagtsomhed havde undladt at oplyse, at ”bonussønnen” var medbruger af bilen. Selskabet, som havde dækket ansvarsskaden, krævede forhøjet præmie med tilbagevirkende kraft og efterbetaling af selvrisikodifference. Nævnet fandt, at klager ved grov uagtsomhed havde overtrådt sin oplysningspligt vedrørende bilens brugerforhold. Nævnet fandt, at selskabet var uberettiget til at kræve præmieforhøjelse med tilbagevirkende kraft, idet en sådan retsfølge hverken var indeholdt i forsikringsaftalelovens §§ 6-7 eller §§ 45-46 eller i parternes aftale. Nævnets flertal kunne ikke kritisere, at selskabet opkrævede selvrisikodifference hos klager i medfør af forsikringsaftalelovens § 7, jf. § 6, stk. 2. Mindretallet fandt, at der ikke i § 6, stk. 2, var hjemmel til at opkræve forhøjet selvrisiko med tilbagevirkende kraft. Klager delvis medhold".
 
 ---
@@ -637,12 +646,12 @@ Forsikringsankenævnet oplyser på deres hjemmeside, at det er svært at sige, h
 
 ***Studenteropgave***
 
-Find to nævnsafgørelser fra Forsiirngsankenævnet om der var tale om den rigtige ejer/bruger af bilen.
+Find to nævnsafgørelser fra Forsikringsankenævnet om der var tale om den rigtige ejer/bruger af bilen.
 Link: **http://ankeforsikring.dk/Sider/default.aspx**
 
 ---
 
-I nogle tilfælde bygger bilforsikringen på nogle forudsætninger om bilen (fx motorstørrelse mv.) eller om forsikringstageren (f.eks. om ens kørselsbehov eller om, at man ikke er registreret i RKI). 
+I nogle tilfælde bygger bilforsikringen på nogle forudsætninger om bilen (fx motorstørrelse mv.) eller om forsikringstageren (fx om ens kørselsbehov eller om, at man ikke er registreret i RKI). 
 
 Har man afgivet urigtige oplysninger herom i forbindelse med tegningen af bilforsikringen, kan man efter Forsikringsankenævnets opfattelse efter omstændighederne risikere, at man ikke får erstatning eller får nedsat erstatningen, fordi man har betalt en for lav præmie på bilforsikringen. 
 
@@ -656,7 +665,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 88440 og sagsnr.: 87783:**
 
 
 
-**Sagsnr.: 88440.** Klager over afslag på dækning for en kaskoskade på en veteranbil: 
+**Forsikringsankenævnets sagsnr.: 88440.** Klager over afslag på dækning for en kaskoskade på en veteranbil: 
 "Klager anmeldte, at hans søn var kørt galt. Selskabet konstaterede, at bilen var belagt med cyklamenfarvet film, havde sænket undervogn og fået nyt udstødningsrør. Selskabet afviste dækning og ophævede forsikringen med tilbagevirkende kraft med henvisning til, at det var en betingelse for dækning, at bilen var i original stand, og henviste til forsikringsaftalelovens § 7. Nævnet fandt, at selskabet ikke kunne påberåbe sig forsikringsaftalelovens § 7, bl.a. fordi selskabet havde afskåret sig herfra ved at fremsende en police til klager efter, at selskabet havde fået oplysninger om konstruktive ændringer på bilen. Videre fandt nævnet, at betingelsen om, at bilen skulle være i original stand alene medførte en ret for selskabet til at opsige forsikringen fremadrettet, hvis bestemmelsen blev overtrådt, ligesom forsikringsaftalelovens § 10, stk. 3, fandt anvendelse. Selskabet skulle herefter genoptage sagsbehandlingen. Klager medhold".
 
 
@@ -671,8 +680,8 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 88440 og sagsnr.: 87783:**
 
 ![](img/vindus.jpg)
 
-**Sagsnr.: 87783.** Klager over afvisning af dækning for tyveri af en bil: 
-"Selskabet henviste til, at klager ikke havde oplyst, at der var sket en ændring af anvendelsen af bilen, hvor klager efter det oplyste fra selskabet nu benyttede bilen erhvervsmæssigt som vinduespudser. Policen indeholdt ikke oplysninger om hvilken anvendelse af bilen, der var forudsat. Af betingelserne fremgik under "ændringer af risiko", at klager skulle oplyse, hvis "der skete forandring i den i policen angivne risiko - f.eks. … anvendelse". Nævnet fandt, at bestemmelsen var for generelt og upræcist formuleret, jf. FAL § 45, og at selskabet derfor ikke kunne påberåbe sig fareforøgelse. Nævnet fandt, at selskabet ikke havde bevist, at klager havde afgivet urigtige oplysninger ved tegningen af forsikringen. Selskabet skulle derfor betale erstatning. Klager medhold".
+**Forsikringsankenævnets sagsnr.: 87783.** Klager over afvisning af dækning for tyveri af en bil: 
+"Selskabet henviste til, at klager ikke havde oplyst, at der var sket en ændring af anvendelsen af bilen, hvor klager efter det oplyste fra selskabet nu benyttede bilen erhvervsmæssigt som vinduespudser. Policen indeholdt ikke oplysninger om hvilken anvendelse af bilen, der var forudsat. Af betingelserne fremgik under "ændringer af risiko", at klager skulle oplyse, hvis "der skete forandring i den i policen angivne risiko - fx … anvendelse". Nævnet fandt, at bestemmelsen var for generelt og upræcist formuleret, jf. FAL § 45, og at selskabet derfor ikke kunne påberåbe sig fareforøgelse. Nævnet fandt, at selskabet ikke havde bevist, at klager havde afgivet urigtige oplysninger ved tegningen af forsikringen. Selskabet skulle derfor betale erstatning. Klager medhold".
 
 ---
 
@@ -719,20 +728,20 @@ Forsikringen dækker kun skader på ens *private indbo*.
 
 
 
-Forsikringsankenævnet tog i **sagsnr.: 87984** stilling til, om en computer blev benyttet erhvervsmæssigt. Klager over afslag på erstatning for en Macbook Pro bærbar computer: 
+Forsikringsankenævnet tog i **Forsikringsankenævnets sagsnr.: 87984** stilling til, om en computer blev benyttet erhvervsmæssigt. Klager over afslag på erstatning for en Macbook Pro bærbar computer: 
 "Klager oplyste, at han anvendte computeren til at producere musik på, men at dette ikke var hans erhverv, da han var discjockey. Han oplyste, at den producerede musik ikke havde noget at gøre med hans virke som discjockey, da han ikke optrådte med den musik, han producerede. Selskabet anførte, at klager havde oplyst, at han anvendte computeren i sit arbejde som discjockey. Nævnet fandt, at selskabet ikke havde sandsynliggjort, at computeren var anvendt erhvervsmæssigt. Klager medhold".
 
 ---
 
 Småbåde, cykler og haveredskaber vil almindeligvis være dækket.
 
-Forsikringen dækker genstande, som man ejer eller bærer risikoen for, jf, fx nævnssagerne **sagsnr.: 85614** og **sagsnr.:87698**: 
+Forsikringen dækker genstande, som man ejer eller bærer risikoen for, jf, fx nævnssagerne **Forsikringsankenævnets sagsnr.: 85614** og **sagsnr.:87698**: 
 
 
 ![](img/skole.jpg)
 
 
-Forsikringsankenævnet har i **sagsnr.: 85614.** taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private indboforsikring: 
+Forsikringsankenævnet har i **Forsikringsankenævnets sagsnr.: 85614.** taget stilling til, om undervisningsmateriale udleveret af en skole – herunder en iPad – er omfattet af den private indboforsikring: 
 "Nævnet fandt, at dette ikke var tilfældet, da genstanden ikke kunne anses for at være en privat ejendel, som klagerne eller deres datter bar risikoen for: Klager over afslag dækning for en iPad og skolebøger. Genstandene lå i klagers skoletaske, der blev stjålet. Klager anførte, at de var udlånt af gymnasiet i hendes interesse til brug for uddannelsen, hvorfor hun bar risikoen for dem. Hun henviste til både DL 5-8-1 og en underskrevet kontrakt med skolen om lån af iPad. Selskabet henviste til, at genstandene tilhørte skolen, samt til udtalelser fra Folketingets Ombudsmand og Undervisningsministeriet, hvoraf fremgik, at DL 5-8-1 ikke fandt anvendelse ved skolers udlån af undervisningsmidler, og at der ikke gyldigt kunne indgås aftale om et mere vidtrækkende ansvar for de lånte genstande, end hvad der fulgte af den almindelige erstatningsretlige culparegel. Nævnet fandt, at klager ikke ejede genstandene og heller ikke bar risikoen for disse. Nævnet måtte lægge til grund, at kontraktens vilkår om, at klager bar tyveririsikoen for iPaden var ugyldigt, da vilkåret gik videre end dansk rets almindelige regler om erstatning. Nævnet fandt, at ansvar for skader på lånte genstande efter betingelserne var undtaget dækning, når der var gået mere end 30 dage efter overtagelsen. Selskabet var derfor ikke forpligtet til at dække tyveriet. Selskab medhold". 
 
 ---
@@ -740,8 +749,7 @@ Forsikringsankenævnet har i **sagsnr.: 85614.** taget stilling til, om undervis
 ![](img/lej2.jpg)
 
 
-Se også **sagsnr.: 87968**, hvor Forsikringsankenævnet fandt, at en lejet jukebox (til en værdi af 37.000 kr.) var en indbogenstand: 
-"Klager over afslag på dækning for en kortslutningsskade på en lejet jukebox til 37.000 kr. Selskabet anførte, at jukeboxen ikke kunne anses for at være en indbogenstand, og derfor ikke var dækket af indbo- eller ansvarsforsikringen. Nævnet fandt, at jukeboxen kunne anses for at være en indbogenstand. Nævnet fandt endvidere, at selskabet havde været berettiget til at afslå dækning af skaden i henhold til indboforsikringen, da skaden skyldtes fejlmontering. Nævnet fandt herefter, at selskabet skulle genoptage sagsbehandlingen i relation til ansvarsforsikringen, idet selskabet ikke havde vurderet om klager havde handlet ansvarspådragende i forbindelse med skaden. Klager medhold".
+Se også **Forsikringsankenævnets sagsnr.: 87968**, hvor Forsikringsankenævnet fandt, at en lejet jukebox (til en værdi af 37.000 kr.) var en indbogenstand: "Klager over afslag på dækning for en kortslutningsskade på en lejet jukebox til 37.000 kr. Selskabet anførte, at jukeboxen ikke kunne anses for at være en indbogenstand, og derfor ikke var dækket af indbo- eller ansvarsforsikringen. Nævnet fandt, at jukeboxen kunne anses for at være en indbogenstand. Nævnet fandt endvidere, at selskabet havde været berettiget til at afslå dækning af skaden i henhold til indboforsikringen, da skaden skyldtes fejlmontering. Nævnet fandt herefter, at selskabet skulle genoptage sagsbehandlingen i relation til ansvarsforsikringen, idet selskabet ikke havde vurderet om klager havde handlet ansvarspådragende i forbindelse med skaden. Klager medhold".
 
 ---
 
@@ -775,13 +783,13 @@ Sådanne genstande er mere udsat for at blive stjålet. Familie-/indboforsikring
 
 **Genstande – eksempelvis værktøj – kan være af en sådan karakter, kvalitet eller omfang, at de ikke falder ind under begrebet privat indbo**. 
 
-Se en vekslende nævnspraksis i **sagsnr.: 87053, 84928 og 67965:**
+Se en vekslende nævnspraksis i **Forsikringsankenævnets sagsnr.: 87053, 84928 og 67965:**
 
 ![](img/vark.jpg)
 
 
 
-I **sagsnr.: 87053** udtalte Forsikringsankenævnet, at en stor del af klagerens værktøj ikke var af en sådan karakter, at værktøjet ikke kunne karakteriseres som almindeligt privat indbo: 
+I **Forsikringsankenævnets sagsnr.: 87053** udtalte Forsikringsankenævnet, at en stor del af klagerens værktøj ikke var af en sådan karakter, at værktøjet ikke kunne karakteriseres som almindeligt privat indbo: 
 "Klager over erstatningsopgørelse efter indbrud i kælderrum i beboelsesejendom. Selskabet havde anerkendt indbruddet som dækningsberettigende. Vedrørende værktøj fandt nævnet, at omfanget (anmeldt for over 100.000 kr.), men ikke karakteren af værktøjet gjorde, at ikke alt værktøjet kunne anses som omfattet som "almindeligt privat indbo". Nævnet fandt ikke, at selskabet - som ikke havde undtaget grov uagtsomhed ved indbrudstyveri - ikke havde bevist, at klager havde fremkaldt tyveriet ved grov uagtsomhed. Nævnet fandt, at klager havde dokumenteret et krav på i alt 15.000 kr. Vedr. skøjter fandt nævnet ikke grundlag for at kritisere, at selskabet havde afskrevet med 50 % pga. alder/nedsat nytteværdi. For så vidt angår fiskeudstyret fandt nævnet, at selskabet alene var berettiget til at afskrive med 30%. Klager delvis medhold".
 
 ---
@@ -790,7 +798,7 @@ I **sagsnr.: 87053** udtalte Forsikringsankenævnet, at en stor del af klagerens
 
 
 
-Ankenævnet har i **sagsnr.: 84928** fastslået, at et stillads til en nypris på cirka 32.000 kr. var privat indbo: 
+Ankenævnet har i **Forsikringsankenævnets sagsnr.: 84928** fastslået, at et stillads til en nypris på cirka 32.000 kr. var privat indbo: 
 "Klager over afvisning af dækning for tyveri af et stillads. Selskabet henviste til, at et stillads ikke kunne betragtes som almindeligt privat indbo, og henviste til nævnets praksis AK 48.728. Nævnet fandt, at der siden 1999 var stadigt flere og flere private, der anskaffede sig et stillads til brug ved rensning af tagrender, småreparationer osv., og at et stillads som det pågældende i dag måtte betegnes som almindeligt privat indbo. Selskabet har derfor været uberettiget til at afvise dækning. Klager medhold".
 
 ---
@@ -799,7 +807,7 @@ Ankenævnet har i **sagsnr.: 84928** fastslået, at et stillads til en nypris p�
 
 
 
-Omvendt udtalte Ankenævnet i **sagsnr.: 67965**, at en gulvslibemaskine ikke var privat indbo.
+Omvendt udtalte Ankenævnet i **Forsikringsankenævnets sagsnr.: 67965**, at en gulvslibemaskine ikke var privat indbo.
 
 ---
 
@@ -807,7 +815,7 @@ Omvendt udtalte Ankenævnet i **sagsnr.: 67965**, at en gulvslibemaskine ikke va
 
 
 
-Husdyr (f.eks. hund, kat, fugl og fisk) kan være omfattet af indboforsikringen. 
+Husdyr (fx hund, kat, fugl og fisk) kan være omfattet af indboforsikringen. 
 
 Hvis ikke husdyr er oplistet under rækken af forsikrede genstande, kan husdyr falde ind under kategorien almindeligt privat indbo. 
 
@@ -817,7 +825,7 @@ Efter Forsikringsankenævnets praksis afhænger det af arten og antallet, se eks
 
 
 
-**Sagsnr.: 85215.** Klager over selskabets afvisning af at yde erstatning for 150 afdøde fisk til en samlet værdi af 148.200 kr.: 
+**Forsikringsankenævnets sagsnr.: 85215.** Klager over selskabets afvisning af at yde erstatning for 150 afdøde fisk til en samlet værdi af 148.200 kr.: 
 "Klagers fisk døde efter strømafbrydelse og derved manglende ilttilførsel til akvarierne. Nævnet fandt, at fisk i en sådan størrelsesorden og til en sådan værdi ikke kan betragtes som almindelig privat indbo, der hørte til en privat boligs normale udstyr i henhold til forsikringsbetingelserne. Selskab medhold".
 
 ---
@@ -826,7 +834,7 @@ Efter Forsikringsankenævnets praksis afhænger det af arten og antallet, se eks
 
 
 
-**Sagsnr.: 87090.** Klager over erstatningsopgørelse efter brandskade: 
+**Forsikringsankenævnets sagsnr.: 87090.** Klager over erstatningsopgørelse efter brandskade: 
 "Klagers udhus brændte. Nævnet fandt, at udhuse på grunden var omfattet af dækning. Under slukningsarbejdet smed brandfolkene tagplader i en havedam med fisk, hvorved folien i bunden af dammen blev beskadiget. Nævnet fandt, at havedammen var at anse som et bassin og derfor dækningsundtaget. Nævnet fandt, at fiskene i dammen ikke var erhvervsløsøre og var omfattet af forsikringen som husdyr. Nævnet kunne ikke afgøre, hvor stor en del af klagers plankeværk, der var nedbrændt. Klager delvis medhold”.
 
 ---
@@ -1015,14 +1023,14 @@ Ran adskilte sig fra tyveri ved at blive foretaget åbenlyst, mens tyveri blev b
 
 Ankenævnet har flere gange taget stilling til, om definitionen af "ran" er opfyldt. 
 
-Se eksempelvis **sagsnr.: 77996 og 75600:**
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 77996 og 75600:**
 
-**Sagsnr.: 77996.** Klager over, at selskabet havde anset et tyveri som et simpelt tyveri: 
+**Forsikringsankenævnets sagsnr.: 77996.** Klager over, at selskabet havde anset et tyveri som et simpelt tyveri: 
 "Klager anmeldte, at han havde været udsat for et tyveri i Spanien. Det fremgik, at gerningsmændene havde punkteret hans ene dæk, da hans bil holdt for rødt, og derefter havde tilbudt ham at hjælpe med at skifte dækket. Dette havde klager afslået, da han følte dig truet af dem, men umiddelbart efter opdagede han, at hans taske, som befandt sig i bilen, var forsvundet. Selskabet anerkendte at dække klagers taske samt de genstande, der befandt sig i tasken, men afviste at udbetale erstatning for smykker og kontanter med henvisning til, at hændelsen blev betragtet som et simpelt tyveri. Efter klagers opfattelse var der tale om røveri, ran eller tricktyveri. Nævnet fandt, at klager allerede i forbindelse med, at dækket punkterede, og gerningsmændene parkerede deres bil og nærmede sig, følte sig truet, hvorfor han noterede bilens nummer og ringede til politiet. Henset hertil, og idet han opdagede tyveriet umiddelbart efter, at gerningsmændene havde taget tasken og var på vej væk, fandt nævnet bestemmelsen i forsikringsbetingelserne om ran opfyldt. Selskabet skulle derfor anerkende, at klager havde været udsat for et dækningsberettigende ran. Klager medhold".
 
 ---
 
-**Sagsnr.: 75600.** Klager over, at selskabet anså tyveri som simpelt tyveri og i konsekvens deraf ikke dækkede stjålne kontanter: 
+**Forsikringsankenævnets sagsnr.: 75600.** Klager over, at selskabet anså tyveri som simpelt tyveri og i konsekvens deraf ikke dækkede stjålne kontanter: 
 "Klager var udsat for tricktyveri og bemærkede den stjålne pung, allerede da tyvene var på vej væk fra ham. Selskabet afviste med henvisning til, at der ikke var tale om ran, idet klager ikke havde bemærket tyveriet i gerningsøjeblikket. Nævnet fandt, at der var tale om ran, når forsikringstageren eller andre har bemærket, at gerningsmanden tog det stjålne, har set pågældende være i besiddelse af det, da vedkommende forsvandt, eller har bemærket særlige omstændigheder ved tyveriet. Det er således ikke i sig selv afgørende, om blot den formodede gerningsmand er set, eller om der er gjort anskrig. Da klager hurtigt opdagede tyveriet og råbte op, fandt nævnet, at der var tale om et dækningsberettigende ran. Klagen toges derfor til følge, og selskabet skulle anerkende tyveriet som ran. Klager medhold".
 
 ---
@@ -1048,29 +1056,29 @@ Ankenævnet afviser i nogle af sagerne dækning med henvisning til, at skimmelsv
 
 ---
 
-Se eksempelvis **sagsnr.: 87959, 86684, 85567, 85355 og 71468:**
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 87959, 86684, 85567, 85355 og 71468:**
  
-**Sagsnr.: 87959.** Klager over afvisning af dækning for skimmelsvampeskadet indbo: 
+**Forsikringsankenævnets sagsnr.: 87959.** Klager over afvisning af dækning for skimmelsvampeskadet indbo: 
 "Klager gjorde gældende, at skimmelsvampen var opstået som følge af en dækningsberettigende udsivning fra et vandrør. Selskabet henviste til, at indbogenstandene ikke var blevet vandpåvirket, hvorfor der ikke var tale om en følgeskade af udsivningen. Nævnet fandt, at det var bevist, at der var årsagssammenhæng mellem skimmelsvampeangrebet og vandudsivningen, hvilket selskabet skulle anerkende. En række ubeskadigede indbogenstande blev skimmelsvampepåvirket under genhusning på anden adresse. Nævnet fandt, at den skimmelsvamp, som opstod på indboet under genhusningen, ikke kunne anses for en adækvat følge af vandudsivningen i klagers egen bolig. Selskabet skulle derfor ikke dække de indbogenstande, der havde fået skimmelsvamp under genhusning. Klager delvis medhold".
 
 ---
 
-**Sagsnr.: 86684.** Klager over afslag på dækning for fugtskadet indbo: 
+**Forsikringsankenævnets sagsnr.: 86684.** Klager over afslag på dækning for fugtskadet indbo: 
 "Den 22/7 2011 trængte der i forbindelse med et skybrud vand ind i klagers kælderlejlighed, og der blev efterfølgende konstateret vækst af skimmelsvamp på en lang række af klagers indbogenstande. Nævnet fandt, at de omhandlede genstande i lejligheden ikke blev ramt af det indtrængende vand. Uanset om årsagen til, at der var sket angreb af skimmelsvamp på klagers indbogenstande i kælderen, var utilstrækkelig udtørring af kælderen efter skybruddet, fandt nævnet ikke at kunne kritisere, at selskabet havde afvist at yde forsikringsdækning. Nævnet lagde blandt andet vægt på, at skaderne var opstået på genstande, der ikke blev påvirket af vand under skybruddet, og at det ikke er ualmindeligt, at der kan komme skimmelsvamp på genstande, der opbevares i fugtige omgivelser. Selskab medhold".
 
 ---
 
-**Sagsnr.: 85567.** Klager over selskabets afslag på at yde dækning for en anmeldt skimmelsvampeskade på klagers indbo: 
+**Forsikringsankenævnets sagsnr.: 85567.** Klager over selskabets afslag på at yde dækning for en anmeldt skimmelsvampeskade på klagers indbo: 
 "Klager anmeldte i september 2013, at indbo, som hun opbevarede i kælderen, var ødelagt af skimmelsvamp opstået efter et skybrud den 2/7 2011. Indbogenstandene var ikke i kælderen under skybruddet. Selskabet afviste dækning med henvisning til, skimmelsvamp ikke var en dækningsberettigende skade, og at der ikke var årsagssammenhæng. Nævnet fandt ikke grundlag for at kritisere selskabets afslag på dækning under henvisning til, at der ikke indtrådt en dækningsberettigende skade. Selskab medhold".
 
 ---
 
-**Sagsnr.: 85355.** Klager over selskabets afslag på at yde dækning for en anmeldt skimmelsvampeskade på klagers indbo: 
+**Forsikringsankenævnets sagsnr.: 85355.** Klager over selskabets afslag på at yde dækning for en anmeldt skimmelsvampeskade på klagers indbo: 
 "Klager anmeldte i marts 2013, at indbo, som hun opbevarede i kælderen, var ødelagt af skimmelsvamp opstået efter et skybrud den 2/7 2011. Indbogenstandene var ikke blevet ramt af vandet under skybruddet. Selskabet afviste dækning med henvisning til, at skimmelsvamp ikke var en dækningsberettigende skade, og at der ikke var årsagssammenhæng. Nævnet fandt ikke grundlag for at kritisere selskabets afslag på dækning under henvisning til, at der ikke var indtrådt en dækningsberettigende skade. Selskab medhold".
 
 ---
 
-**Sagsnr.: 71468** Klager over afslag på dækning for skade på tøj forårsaget af mug og skimmelsvamp i garderobeskabe: 
+**Forsikringsankenævnets sagsnr.: 71468** Klager over afslag på dækning for skade på tøj forårsaget af mug og skimmelsvamp i garderobeskabe: 
 "Nævnet finder at måtte lægge til grund, at årsagen til opfugtningen af kældervæggene og dermed skimmelsvampeskaden på klagerens tøj er en sammenbrudt kloak uden for huset. Da tilfældet efter nævnets opfattelse hermed er omfattet af dækning i henhold til forsikringsbetingelserne, finder nævnet, at skaden er erstatningsberettigende. Klager medhold".
 
 ---
@@ -1079,26 +1087,26 @@ Familie-/indboforsikringen dækker normalt ikke bedrageri, underslæb og lignend
 
 Typisk dækker forsikringen ikke, hvis en potentiel køber af ens cykel/bil ønsker at prøvekøre ens cykel/bil, men aldrig vender tilbage med cyklen/bilen. Det skyldes, at man frivilligt har overdraget cyklen/bilen til gerningsmanden. 
 
-Se eksempelvis **sagsnr.: 86546.** Klager over afvisning af dækning for en stjålet cykel: 
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 86546.** Klager over afvisning af dækning for en stjålet cykel: 
 "Klager anmeldte, at hun havde haft besøg af en person, der havde henvendt sig på baggrund af en cykelsalgsannonce, at hun havde overladt ham sin cykel med henblik på prøvekørsel, og at han ikke kom tilbage med cyklen. Da det måtte formodes, at gerningsmanden ikke havde været en potentiel køber, men havde haft til hensigt at fravende klager cyklen ved at udgive sig for en sådan, forelå der hverken tyveri eller ran, men bedrageri. Tab ved bedrageri var ikke dækket af forsikringen, og nævnet fandt derfor, at selskabet havde været berettiget til at afvise dækning. Nævnet fandt, at klager ikke havde godtgjort, at en af selskabets medarbejdere i forbindelse med skadesanmeldelsen telefonisk havde givet hende et bindende dækningstilsagn. Selskab medhold".
 
 ---
 
 Nogle familie-/indboforsikringer kan også dække visse former for *tricktyverier*. 
 
-Om tricktyveri kan henvises til eksempelvis Forsikringsankenævnet i **sagsnr.: 86662, 86339 og 83094:**
+Om tricktyveri kan henvises til eksempelvis Forsikringsankenævnet i **Forsikringsankenævnets sagsnr.: 86662, 86339 og 83094:**
 
-**Sagsnr.: 86662.** Klager over afslag på dækning for tyveri af nogle smykker: 
+**Forsikringsankenævnets sagsnr.: 86662.** Klager over afslag på dækning for tyveri af nogle smykker: 
 "Klager oprettede en annonce på Den Blå Avis med henblik på at få rengøringshjælp. Hun blev kontaktet af en kvinde, der på første arbejdsdag stjal nogle af klagers smykker, mens kvinden var alene i huset. Selskabet henviste til, at der var tale om simpelt tyveri, hvorefter der ikke var dækning for smykker. Nævnets flertal fandt, at forsikringens undtagelsesbestemmelse om medhjælp førte til, at der ikke var forsikringsdækning. Mindretallet fandt, at der var tale om tricktyveri, og at klager skulle have medhold. Selskab medhold".
 
 ---
 
-**Sagsnr.: 86339.** Klager over afvisning af dækning for et anmeldt tricktyveri: 
+**Forsikringsankenævnets sagsnr.: 86339.** Klager over afvisning af dækning for et anmeldt tricktyveri: 
 "Klager, der var tidligere guldsmed, gav to fremmede kvinder adgang til sin bolig. Det var hans opfattelse, at den ene via en telefon guidede en tredje til at stjæle guld og smykker fra hans uaflåste hobbyrum. Selskabet afviste dækning for tricktyveri med henvisning til, at tyveriet ikke var begået af en af de to kvinder, der havde narret klager til at give sig adgang til boligen. Nævnet fandt ikke grundlag for at kritisere denne afgørelse. Selskabet afviste at yde dækning for guldet og smykkerne med henvisning til, at særlige private værdigenstande ikke dækkes ved simpelt tyveri. Klager henviste til dækningsskemaets bestemmelse om hobbygenstande, der dækkes "uanset art". Nævnet fandt, at bestemmelsen om særlige private værdigenstande måtte gå forud for bestemmelsen om hobbygenstande. Selskab medhold".
 
 ---
 
-**Sagsnr.: 83094.** Klager over afvisning af dækning for en stjålet guldring: 
+**Forsikringsankenævnets sagsnr.: 83094.** Klager over afvisning af dækning for en stjålet guldring: 
 "Klager anmeldte, at hun fik stjålet en guldring på et toilet i en lufthavn i Tyrkiet. Hun havde lagt ringen på vasken for at vaske hænder, da en person henvendte sig og fik hende til at vende sig om. Da hun kort efter kiggede tilbage, var ringen væk. Selskabet henviste til, at det anmeldte tyveri måtte karakteriseres som et simpelt tyveri, og at der ikke var dækning for simpelt tyveri af smykker. Selskabet henviste endvidere til, at tyveriet ikke omfattedes af dækningen for tricktyveri, idet tyveriet ikke var sket på forsikringsstedet. Nævnet var enig med selskabet i, at det omhandlede tyveri ikke var omfattet af dækningen for tricktyveri, idet tyveriet var sket uden for forsikringsstedet. Nævnets flertal udtalte, at et tyveri efter nævnets praksis kun blev anset for at være ran, når sikrede eller andre bemærkede, at gerningsmanden tog det stjålne, så vedkommende være i besiddelse af det stjålne, da han/hun forsvandt, eller havde bemærket særlige omstændigheder ved tyveriet. Det var således ikke i sig selv afgørende, om blot den formodede gerningsmand var set, eller om der var gjort anskrig. Flertallet fandt det ikke godtgjort, at betingelserne for dækning for ran var opfyldt i den foreliggende situation, og kunne ikke kritisere selskabets afgørelse. Mindretallet fandt efter en samlet bedømmelse, at forholdet måtte anses for ran, og stemte for at give klager medhold. Selskab medhold".
 
 ---
@@ -1125,7 +1133,7 @@ Det kan eksempelvis være:
 
 Her er det et krav, at skadevirkning og skadeårsag skal ske samtidig, og at skadeårsagen er udefrakommende. 
 
-Skader, der sker ved almindelig brug, som f.eks. ridser, skrammer, spild af væsker osv., er som regel undtaget.
+Skader, der sker ved almindelig brug, som fx ridser, skrammer, spild af væsker osv., er som regel undtaget.
 
 ---
 
@@ -1145,32 +1153,32 @@ Familie-/indboforsikringen sondrer mellem almindeligt privat indbo, særligt pri
 
 Man skal være opmærksom på, at sondringen ikke kun er relevant i forhold til tyveri. 
 
-Se f.eks. **Ankenævnets sagsnr.: 88600** om "pludselig skade" på et guldur. Klager over afvisning af dækning for pludselig skade på guldur: 
+Se fx **Forsikringsankenævnets sagsnr.: 88600** om "pludselig skade" på et guldur. Klager over afvisning af dækning for pludselig skade på guldur: 
 "Nævnet fandt, at gulduret var en særlig privatværdigenstand. 
 
 Der var ikke dækning for pludselig skade på særlige private værdigenstande. Selskab medhold”.
 
 Særlige private værdigenstande er typisk guld, sølv, platin, perler og ædelstene eller ting, hvori dette indgår som væsentlig bestanddel. 
 
-Se eksempelvis **nævnssagerne 84083 og 88600**. 
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 84083 og 88600**. 
 
 ---
 
 Herudover er smykker og samlinger også typisk særlige private værdigenstande: 
 
-**Sagsnr.: 84083.** Klager over erstatningsopgørelse efter et indbrudstyveri: 
+**Forsikringsankenævnets sagsnr.: 84083.** Klager over erstatningsopgørelse efter et indbrudstyveri: 
 "Selskabet udbetalte 263.067,50 kr. i erstatning, herunder dækningsmaksimum på 15 % af forsikringssummen for ”særlige private værdigenstande”, idet dette dækningsmaksimum var overskredet. Klager anførte, at et guldur, et Georg Jensen-sølvkorpus samt en række antikke sølvgenstande ikke kunne henføres til punktet ”særlige private værdigenstande” og derfor skulle erstattes uden for det særlige dækningsmaksimum. Nævnet fandt, at guld og sølv indgik som en væsentlig bestanddel af de omhandlede effekter, og at forsikringsbetingelserne måtte forstås således, at effekterne dermed skulle behandles som ”særlige private værdigenstande” og være omfattet af dækningsmaksimum herfor – uanset at effekterne også kunne henføres til punktet ”særligt privat indbo”. Selskab medhold".
 
 ---
 
-**Sagsnr.: 88600.** Klager over afvisning af dækning for pludselig skade på guldur: 
+**Forsikringsankenævnets sagsnr.: 88600.** Klager over afvisning af dækning for pludselig skade på guldur: 
 "Nævnet fandt, at gulduret var en særlig privatværdigenstand. Der var ikke dækning for pludselig skade på særlige private værdigenstande. Selskab medhold".
 
 ---
 
 Andre tyvetækkelige eller særligt værdifulde genstande er typisk defineret som særligt privat indbo. 
 
-Det gælder f.eks. antikviteter og ægte tæpper, ure, elektronik (af en vis værdi), skind og pelse samt vin og spiritus.
+Det gælder fx antikviteter og ægte tæpper, ure, elektronik (af en vis værdi), skind og pelse samt vin og spiritus.
 
 Sondringen har betydning i forhold til den dækning, man kan opnå fra forsikringsselskabet i tilfælde af blandt andet tyveri. 
 
@@ -1188,24 +1196,24 @@ Som udgangspunkt efter nævnets praksis skal vinduer og døre være lukkede og l
 
 Er gerningsmanden kommet ind ad en dør eller et vindue – som ikke var forsvarligt aflåst, og som forsikringsselskabet kan kritisere forsikringstageren for ikke at have aflåst forsvarligt – dækker forsikringen ikke efter reglerne om indbrudstyveri, men kun efter reglerne om simpelt tyveri. 
 
-Det kan betyde, at man ikke får dækning for eksempelvis stjålne smykker og kontanter. Se fx fra Forsikrngsankenævnets praksis, jf. **sagsnr.: 85719, 85697, 87541 og 84968:** 
+Det kan betyde, at man ikke får dækning for eksempelvis stjålne smykker og kontanter. Se fx fra Forsikrngsankenævnets praksis, jf. **Forsikringsankenævnets sagsnr.: 85719, 85697, 87541 og 84968:** 
 
-Se **sagsnr.: 85719**, hvor gerningsmanden kom ind gennem et kældervindue med kattelem, men med tremmer for: 
+Se **Forsikringsankenævnets sagsnr.: 85719**, hvor gerningsmanden kom ind gennem et kældervindue med kattelem, men med tremmer for: 
 "Klager over afvisning af dækning for stjålne smykker og kontanter. Gerningsmanden skaffede sig afgang via en kattelem i et kældervindue, der målte ca. 50x50 cm. For vinduet var der monteret jerntremmer, der indebar, at det største rum, hvor tyven kunne komme igennem, var 21x50 cm. Selskabet henviste til, at der var tale om simpelt tyveri, idet bygningen ikke var forsvarligt aflåst. Nævnets flertal fandt, at gerningsmanden uhindret havde kunnet skaffe sig adgang til boligen ved hjælp af kattelemmen. Flertallet fandt, at klager burde have kunnet indse, at en mindre person ville kunne komme igennem. Flertallet fandt derfor, at klager uagtsomt havde tilsidesat betingelsernes sikkerhedsforskrift om forsvarlig aflåsning. Mindretallet fandt, at klager ikke havde udvist uagtsomhed. Selskab medhold".
 
 ---
 
-Se **sagsnr.: 85697**, hvor gerningsmanden kom ind gennem et åbentstående soveværelsesvindue i stueetagen, mens familien spiste morgenmad i lokalet ved siden af: 
+Se **Forsikringsankenævnets sagsnr.: 85697**, hvor gerningsmanden kom ind gennem et åbentstående soveværelsesvindue i stueetagen, mens familien spiste morgenmad i lokalet ved siden af: 
 "Klager over, at selskabet behandlede et anmeldt indbrudstyveri som simpelt tyveri. Klageren anmeldte, at der var blevet stjålet smykker, penge og en computer fra hendes lejlighed beliggende i stueetagen. Gerningsmanden var kommet ind gennem et åbenstående vindue i klagerens soveværelse, mens klageren var hjemme om morgenen. Selskabet behandlede sagen som et simpelt tyveri, da lejligheden ikke var forsvarligt aflåst på gerningstidspunktet. Nævnet fandt, at klagerens hjem ikke havde været forsvarligt aflåst, og at sikkerhedsforskriften herom i forsikringsbetingelserne ikke var overholdt. Under henvisning til at tyveriet skete, da klager spiste morgenmad sammen med sin familie i lokalet ved siden af soveværelset, og da gerningsmanden havde brugt en cykel som en stige for at skaffe sig adgang, fandt nævnet, at tilsidesættelsen af sikkerhedsforskriften ikke kunne tilregnes klager som uagtsom. Nævnet fandt derfor, at selskabet skulle yde dækning i henhold til forsikringsbetingelsernes bestemmelse om indbrudstyveri. Klager medhold".
 
 ---
 
-Se **sagsnr.: 87541**, hvor klageren kortvarigt var ude at plukke bær i haven: 
+Se **Forsikringsankenævnets sagsnr.: 87541**, hvor klageren kortvarigt var ude at plukke bær i haven: 
 "Klager over afslag på dækning for tyveri af smykker. Klager anmeldte, at hun den 30/7 2014 gik ud af sin havedør for at plukke bær, og at hun pludselig kunne se, at der var en fremmed person i hendes køkken. Da hun kom tilbage i huset, observerede hun endnu en fremmed person, hvorefter det lykkedes hende at jage begge personer væk. Efterfølgende konstaterede hun, at der var blevet stjålet en række guldsmykker. Nævnet lagde til grund, at der ikke havde været andre ulåste døre end havedøren, og at hun kun kortvarigt havde været ude i haven tæt ved havedøren. Nævnet fandt, at overtrædelsen af sikkerhedsforsikringen om forsvarlig aflåsning på det foreliggende grundlag ikke kunne tilregnes klager som uagtsom. Nævnet fandt, at selskabet derfor skulle opgøre klagers krav efter bestemmelserne om indbrudstyveri. Klager medhold".
 
 ---
 
-Se **sagsnr.: 84968**, hvor Forsikringsankenævnet fandt, at der ikke var årsagssammenhæng mellem tyveriet og den ikke-forsvarlige aflåsning af boligen. Klager over erstatningsopgørelse: 
+Se **Forsikringsankenævnets sagsnr.: 84968**, hvor Forsikringsankenævnet fandt, at der ikke var årsagssammenhæng mellem tyveriet og den ikke-forsvarlige aflåsning af boligen. Klager over erstatningsopgørelse: 
 "Klager anmeldte et indbrudstyveri fra sit hus. Selskabet udbetalte 11.228 kr. i erstatning men afviste dækning for smykker og kontanter med henvisning til, at huset ikke var forsvarligt aflåst på tyveritidspunktet. Selskabet anførte desuden, at klager havde handlet groft uagtsomt, idet hun ikke havde omkodet husets låse efter et tasketyveri 5 måneder forinden, hvor identifikationspapirer og en husnøgle blev stjålet. Nævnet fandt, at klager havde tilsidesat sikkerhedsforskriften om forsvarlig aflåsning mht. en uaflåst kælderdør, men at selskabet ikke havde bevist, at der var årsagssammenhæng mellem tilsidesættelsen og det skete tyveri. Nævnet fandt det ikke bevist, at klager i øvrigt havde tilsidesat sikkerhedsforskriften om forsvarlig aflåsning. Selskabet var derfor ikke berettiget til at betragte tyveriet som et simpelt tyveri. Nævnet fandt, at selskabet ikke havde bevist, at klager ved grov uagtsomhed havde tilsidesat sin tabsbegrænsningspligt ved ikke at få omkodet sine låse efter tasketyveriet. Klager medhold".
 
 ---
@@ -1220,29 +1228,29 @@ Handler man groft uagtsomt, får man normalt ingen erstatning. Hos nogle forsikr
 
 ---
 
-Se fra Ankenævnets righoldige praksis **sagsnr.: 88475, 86538, 85733, 61413 og 56609:**
+Se fra Ankenævnets righoldige praksis **Forsikringsankenævnets sagsnr.: 88475, 86538, 85733, 61413 og 56609:**
  
-Se **sagsnr.: 88475**, hvor klageren handlede groft uagtsomt ved at forlade sin taske med værdier for ca. 18.000 kr. på en offentlig strand i 5 minutter, mens hun talte med en mand om bådudlejning: 
+Se **Forsikringsankenævnets sagsnr.: 88475**, hvor klageren handlede groft uagtsomt ved at forlade sin taske med værdier for ca. 18.000 kr. på en offentlig strand i 5 minutter, mens hun talte med en mand om bådudlejning: 
 "Klager over afslag på dækning for et anmeldt tyveri af bl.a. en iPhone 5s, Nintendo ds, smykker samt nogle kontanter (værdi i alt 18649 kr.). Nævnet fandt, at klager medbragte en taske indeholdende de pågældende genstande til en strand, hvortil der var offentlig adgang. På den baggrund - og henset til de stjålne genstandes værdi samt omstændighederne omkring disses forsvinden - fandt nævnet, at klager havde udvist grov uagtsomhed i forbindelse med tyveriet. Da selskabet i forsikringsbetingelserne havde forbeholdt sig fuldstændig ansvarsfrihed ved grov uagtsomhed, kunne nævnet ikke pålægge selskabet at udbetale erstatning. Selskab medhold".
 
 ---
 
-Se også **sagsnr.: 86538**, hvor det var groft uagtsomt at medbringe 6.000 dollars i kontanter og for ca. 180.000 kr. smykker mv. på et vietnamesisk marked: 
+Se også **Forsikringsankenævnets sagsnr.: 86538**, hvor det var groft uagtsomt at medbringe 6.000 dollars i kontanter og for ca. 180.000 kr. smykker mv. på et vietnamesisk marked: 
 "Klager over afslag på dækning for ran af bl.a. smykker og kontanter. Klager fik under et besøg på et marked i Vietnam fravristet en skuldertaske med 6.000 dollars i kontanter og genstande for ca. 180.000 kr. af to mænd på en forbipasserende mænd på scooter. Selskabet afviste bl.a. med henvisning til grov uagtsomhed. Nævnet fandt, at den anmeldte begivenhed skulle karakteriseres som ran i henhold til forsikringsbetingelserne, og at klager havde handlet groft uagtsomt jf. FAL § 18. Nævnet lagde bl.a. vægt på, at hun forud for sin afgang til markedet blev advaret om, at der var meget tyveri på det pågældende marked, og at hun desuagtet gennemførte besøget med usædvanligt værdifulde genstande i sin skuldertaske. Nævnet bemærkede, at selskabet i betingelserne ikke helt havde undtaget dækning for ran ved grov uagtsomhed, modsat hvad der gjaldt ved simpelt tyveri. Nævnet fandt, at selskabet skønsmæssigt var berettiget til afkorte 50 % i erstatningen, jf. FAL § 18, stk. 2. Nævnet tog ikke stilling til, om klager havde bevist størrelsen af sit krav. Klager delvist medhold".
 
 ---
 
-Se **sagsnr.: 85733.** Klager over erstatningsopgørelse i forbindelse med et tyveri: 
+Se **Forsikringsankenævnets sagsnr.: 85733.** Klager over erstatningsopgørelse i forbindelse med et tyveri: 
 "Klager anmeldte, at hun den 30/9 2013 fik stjålet sin taske indeholdende kr. 10.000 i kontanter og smykker for mere end kr. 100.000, da hun - på vej hen til sin bankboks - måtte stoppe i en tøjbutik. Selskabet afviste dækning for kontanter, da forsikringen ikke dækker simpelt tyveri af penge uden for den sikredes helårsbolig, og dækning for smykkerne blev afvist med henvisning til, at klager ikke havde godtgjort, at hendes taske indeholdt smykker af den oplyste værdi. Selskabet anførte også, at klager havde handlet groft uagtsomt ved tyveriet. Nævnet fandt, at klager ikke havde handlet groft uagtsomt. Nævnet fandt, at klager på tilstrækkelig vis havde bevist, at hun havde fået stjålet en taske og en pung til en værdi af henholdsvis 3.100 kr. og 700 kr. Nævnet fandt, at hun ikke havde bevist, at hun havde fået stjålet smykker til en værdi af mere end 100.000 kr. Klager delvis medhold".
 
 ---
 
-I **sagsnr.: 61413** var det groft uagtsomt at efterlade en taske indeholdende bl.a. et kamera under et bord, mens klageren under en fredagsbar på undervisningsstedet var på toilettet: 
+I **Forsikringsankenævnets sagsnr.: 61413** var det groft uagtsomt at efterlade en taske indeholdende bl.a. et kamera under et bord, mens klageren under en fredagsbar på undervisningsstedet var på toilettet: 
 "Nævnet udtaler, at klageren har handlet groft uagtsomt, men at selskabet ikke har fraskrevet sig ansvaret for grov uagtsomhed i de gældende forsikringsbetingelser, hvorfor selskabet ikke har været berettiget til helt at afvise dækning. Efter graden af den udviste uagtsomhed, kan erstatningen imidlertid nedsættes til 50 %. Klager delvist medhold".
 
 ---
 
-I **sagsnr.: 56609** fandt Forsikringsankenævnet, at det ikke var groft uagtsomt at efterlade et kamera i en barnevogn i zoo, mens klageren skiftede sit barn. Klager over selskabets afvisning af at yde dækning efter tyveri: 
+I **Forsikringsankenævnets sagsnr.: 56609** fandt Forsikringsankenævnet, at det ikke var groft uagtsomt at efterlade et kamera i en barnevogn i zoo, mens klageren skiftede sit barn. Klager over selskabets afvisning af at yde dækning efter tyveri: 
 "Klager var i zoo med søn. Klager skulle hurtigt skifte søn og lod taske med videokamera stå i barnevogn. Da klager kom tilbage 10 minutter efter var barnevognen incl. kamera, cd'er, sovepose mv. væk. Selskabet gør grov uagtsomhed gældende. Nævnet udtaler, at ved vurderingen af, om klager har udvist grov uagtsomhed må indgå hvilke effekter, der er tale om, hvor disse er efterladt, muligheden for at medtage effekterne, tiden og alm. handlemåde. Klagers handling var en spontan reaktion i en situation, der hverken gav anledning til særlige forudgående handlingstilrettelæggelser eller tid til nærmere overvejelser. Nævnet finder det betænkeligt at karakterisere klagers handling som grov uagtsom. Klager medhold".
 
 ---
@@ -1263,7 +1271,7 @@ Det vil sige, at forsikringstageren blandt andet skal bevise, at genstandene har
 
 Påberåber forsikringsselskabet sig en dækningsundtagelse – eksempelvis at forsikringstagerens bolig ikke var forsvarlig aflåst – er det dog selskabet, der skal bevise, at en sådan dækningsundtagelse foreligger.
 
-Når forsikringstageren anmelder f.eks. et tyveri eller en brandskade, beder selskabet forsikringstageren oplyse, hvad der er stjålet eller beskadiget. 
+Når forsikringstageren anmelder fx et tyveri eller en brandskade, beder selskabet forsikringstageren oplyse, hvad der er stjålet eller beskadiget. 
 
 Forsikringsselskabet vil i nogle tilfælde bede forsikringstageren om at indsende eksempelvis kvitteringer (nogle selskaber beder om originale kvitteringer) og fotos. 
 
@@ -1275,7 +1283,7 @@ Forsikringsselskabet tager herefter stilling til, om den anmeldte skade er dækk
 
 Hvis der er tale om en større skade eller en skade, hvor forsikringsselskabet er i tvivl om omfanget, eller om skaden er omfattet af forsikringen, sender forsikringsselskabet ofte en taksator ud til forsikringstageren for at undersøge skaden. 
 
-Forsikringsselskabet vil også ofte bede forsikringstageren om at sende yderligere dokumentation for det beskadigede eller stjålne f.eks. i form af kvitteringer eller fotos, hvor genstandene kan ses. 
+Forsikringsselskabet vil også ofte bede forsikringstageren om at sende yderligere dokumentation for det beskadigede eller stjålne fx i form af kvitteringer eller fotos, hvor genstandene kan ses. 
 
 Mange mennesker smider deres kvitteringer ud ret hurtigt efter købet. Det bevirker desværre ofte, at forsikringstageren får sværere ved at bevise sit tab. 
 
@@ -1289,7 +1297,7 @@ Er genstanden købt med betalingskort, kan forsikringstagerens kontoudskrifter h
 
 Man må som forsikringstager regne med, at forsikringsselskabet stiller øgede krav til bevis, hvis der er tale om dyre eller nye indbogenstande. 
 
-Man kan også blive bedt om at bevise, at der er tale om f.eks. et massivt guldsmykke, at smykket er af høj karat (og ikke plet), eller at stenene i smykket er ægte.
+Man kan også blive bedt om at bevise, at der er tale om fx et massivt guldsmykke, at smykket er af høj karat (og ikke plet), eller at stenene i smykket er ægte.
 
 Der gælder også skærpede beviskrav, hvis der er omstændigheder, der forekommer mistænkelige, eller hvis forsikringstageren har købt ting, som forekommer at være væsentligt dyrere, end hvad folk med forsikringstagerens indtægtsniveau eller hans eller hendes formueforhold plejer at eje. 
 
@@ -1299,7 +1307,7 @@ Forsikringstageren vil typisk blive bedt om at oplyse, hvem der har givet gaven,
 
 Det vil ofte være en fordel, hvis man kan fremvise billeder af genstandene over en længere periode – eksempelvis et maleri eller en antikvitet, man har haft i sit hjem gennem de sidste 20 år, eller dyre smykker, som man jævnligt har båret ved festlige lejligheder.
 
-Er genstandene blevet beskadiget – f.eks. af sod eller vand – bør forsikringstageren gemme genstandene i det omfang, det er muligt, så forsikringsselskabet kan besigtige dem og vurdere, om de kan repareres, hvilken stand de var i før skaden, og hvad de skal erstattes med. 
+Er genstandene blevet beskadiget – fx af sod eller vand – bør forsikringstageren gemme genstandene i det omfang, det er muligt, så forsikringsselskabet kan besigtige dem og vurdere, om de kan repareres, hvilken stand de var i før skaden, og hvad de skal erstattes med. 
 
 Smid derfor ikke noget ud, før det er aftalt med forsikringsselskabet.
 
@@ -1309,9 +1317,9 @@ Ud fra oplysningerne om genstandene vil forsikringsselskabet vurdere forsikrings
 
 ---
 
-Se eksempelvis Ankenævnets afgørelse i **sagsnr.: 85288**, hvor nævnet ikke havde grundlag for at kritisere de skøn, som forsikringsselskabet havde foretaget. 
+Se eksempelvis Ankenævnets afgørelse i **Forsikringsankenævnets sagsnr.: 85288**, hvor nævnet ikke havde grundlag for at kritisere de skøn, som forsikringsselskabet havde foretaget. 
  
-I **sagsnr.: 86815** fandt nævnet derimod, at selskabet havde opgjort erstatningen for lavt. 
+I **Forsikringsankenævnets sagsnr.: 86815** fandt nævnet derimod, at selskabet havde opgjort erstatningen for lavt. 
 
 ---
 
@@ -1320,7 +1328,7 @@ I **sagsnr.: 86815** fandt nævnet derimod, at selskabet havde opgjort erstatnin
 
 ---
 
-**Sagsnr.: 86815.** "Klager over erstatningsopgørelse i forbindelse med et anmeldt indbrudstyveri: 
+**Forsikringsankenævnets sagsnr.: 86815.** "Klager over erstatningsopgørelse i forbindelse med et anmeldt indbrudstyveri: 
 "Selskabet havde opgjort erstatningen skønsmæssigt for flere af de anmeldte effekter på grund af manglende dokumentation. Nævnet bemærkede, at selskabet ikke kunne skærpe det krav til dokumentation, der fremgik af forsikringsbetingelserne, men alene lade en mistanke til forsikringstager indgå som et element i skønsudøvelsen. Nævnet måtte lægge til grund, at selskabet havde anerkendt, at der forelå et dækningsberettigende indbrudstyveri, og at de anmeldte genstande havde tilhørt klager eller andre sikrede personer og ved indbrudstyveriet var blevet frastjålet ham eller disse. Nævnet fandt herefter, at selskabet for så vidt angik tv, computer og Canada Goose-jakke skulle erstatte klager i alt 4.000 kr. mere, men fandt i øvrigt ikke anledning til at kritisere selskabets skøn. Klager delvis medhold".
 
 ---
@@ -1354,7 +1362,7 @@ Hvis genstanden ikke er totalskadet, kan forsikringsselskabet vælge at lade den
 En reparation skal føre til, at genstanden bliver lige så god og anvendelig som før skaden. Forsikringstageren må normalt acceptere en vis kosmetisk ændring som følge af reparationen.
 
 
-Er genstanden totalskadet (f.eks. brændt eller stjålet), kan forsikringsselskabet vælge at genlevere eller udbetale erstatning.
+Er genstanden totalskadet (fx brændt eller stjålet), kan forsikringsselskabet vælge at genlevere eller udbetale erstatning.
 
 Erstatningen fastsættes som udgangspunkt til det beløb, som man kan købe en tilsvarende, ny genstand for på det tidspunkt, hvor skaden indtrådte. 
 
@@ -1392,7 +1400,7 @@ Er dette ikke tilfældet, er selskabet omfattet af forsikringsaftalelovens § 37
 
 Gælder denne bestemmelse for ens erstatning, kan selskabet kun foretage fradrag i ens erstatning, hvis genstandens nytteværdi var væsentligt nedsat før skaden. 
 
-Se eksempelvis **sagsnr.: 87735.** Klager over erstatningsopgørelse for et indbrudstyveri: 
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 87735.** Klager over erstatningsopgørelse for et indbrudstyveri: 
 "Af betingelserne fremgik, at der for genstande, der ikke var indkøbt som nye inden for det sidste år før skaden, kunne "foretages et rimeligt fradrag for værdiforringelse som følge af alder, brug, mode, nedsat anvendelighed eller andre omstændigheder (dagsværdi)". Nævnet fandt, at bestemmelsen ikke på tilstrækkelig tydelig måde fraveg FAL § 37, stk. 2, jf. U.1992.360V og kendelserne 65.320 og 83.119. Nævnet fandt, at selskabet derfor skulle genoptage sagsbehandlingen og opgøre klagers erstatning i henhold til FAL § 37, stk. 2. Nævnet fandt det ikke godtgjort, at nytteværdien af en stjålet kikkert var væsentligt nedsat, hvorfor selskabet ikke var berettiget til at afskrive på den. Klager medhold".
 
 ---
@@ -1400,7 +1408,7 @@ Se eksempelvis **sagsnr.: 87735.** Klager over erstatningsopgørelse for et indb
 Medmindre forsikringen indeholder særlige afskrivningstabeller, kan forsikringsselskabet ikke foretage fradrag på grund af genstandens alder og forventede levetid, hvis genstanden har særlig lang holdbarhed og anvendelighed – eksempelvis smykker, sølvtøj, malerier, antikviteter, designermøbler mv.
 
 
-Selskabet kan i forsikringsbetingelserne have indført afskrivningstabeller for visse genstande – typisk elektriske apparater som f.eks. tv, mobiltelefoner og computere samt cykler og briller.
+Selskabet kan i forsikringsbetingelserne have indført afskrivningstabeller for visse genstande – typisk elektriske apparater som fx tv, mobiltelefoner og computere samt cykler og briller.
 
 Forsikringsankenævnet bemærker hertil, at afskrivningen sker på den pris, som genstanden kan købes for på skadestidspunkt. 
 
@@ -1410,19 +1418,19 @@ Er dit totalskadede tv eksempelvis 5 år gammelt, og skal der efter afskrivnings
 
 Ankenævnet for Forsikring har fastslået i sin nævnspraksis, at forsikringsselskaberne ved opgørelse af erstatningen for en genstand ikke må kombinere en genleveringsrabat med en afskrivning. 
 
-Se f.eks. **sagsnr.: 73311, 81007 og 86874:**
+Se **Forsikringsankenævnets sagsnr.: 73311, 81007 og 86874:**
 
-**Sagsnr.: 73311.** Klager over størrelsen af den erstatning, som selskabet udbetalte for et par briller: 
+**Forsikringsankenævnets sagsnr.: 73311.** Klager over størrelsen af den erstatning, som selskabet udbetalte for et par briller: 
 "Når selskabet havde afskrevet på stellet, og der dermed ikke for det udbetalte beløb kunne ske genanskaffelse, var selskabet ikke berettiget til også at fratrække rabat. Nævnet fandt derfor, at selskabet skulle udbetale rabatbeløbet til klageren. Klager medhold".
 
 ---
 
-**Sagsnr.: 81007.** Klager over erstatningsopgørelse: 
+**Forsikringsankenævnets sagsnr.: 81007.** Klager over erstatningsopgørelse: 
 "Klager fik stjålet sin 9-10 år gamle cykel og var efter afskrivningsreglerne berettiget til en erstatning på 39 % af nyværdien på genanskaffelsestidspunktet eller genlevering. Selskabet, der kunne indkøbe en ny cykel med en særlig rabatordning, tilbød klager at levere en fabriksny cykel, hvis han indbetalte differencebeløbet, hvilket han afslog. Selskabet opgjorde herefter erstatningen med udgangspunkt i den pris, som selskabet ville have kunnet genlevere en ny cykel for, med fradrag af afskrivning og selvrisiko. Nævnet fandt, at genlevering kun kunne gennemføres, når det stillede sikrede i samme økonomiske situation som før skaden. Når der skulle foretages afskrivning, kunne der ikke uden sikredes samtykke gennemføres genlevering, idet sikrede for at modtage genstanden ville skulle bidrage med egenbetaling. Ønskede eller havde sikrede ikke mulighed herfor, ville selskabet opnå rabat, uden at sikrede fik genoprettet sit tab. Erstatningsberegningen skulle derfor ske med udgangspunkt i genanskaffelsesprisen uden rabat. Klager medhold".
 
 ---
 
-**Sagsnr.: 86874.** Klager over selskabets erstatningsopgørelse for en stjålen cykel: 
+**Forsikringsankenævnets sagsnr.: 86874.** Klager over selskabets erstatningsopgørelse for en stjålen cykel: 
 "Klager ønskede ikke genlevering. Selskabet tog ved erstatningsopgørelsen udgangspunkt i den af klager oplyste generhvervelsespris, fratrak 17 % i erstatningen med henvisning til selskabets rabataftale hos en samarbejdspartner og foretog derefter aldersafskrivning. Nævnets flertal fandt, at selskabet i overensstemmelse med nævnets tidligere praksis ikke kunne foretage afskrivning i forhold til den pris, som selskabet via en rabatordning kunne genanskaffe cyklen for, og at forsikringsbetingelserne ikke gav grundlag for anden afgørelse. Mindretallet fandt, at det fremgik med tilstrækkelig tydelighed af forsikringsbetingelserne, at selskabet kunne foretage afskrivning med udgangspunkt i rabatprisen. Klager medhold".
 
 ---
@@ -1449,7 +1457,7 @@ Det er policen og forsikringsbetingelserne, der sætter rammen for, om man som f
 
 Bygningsforsikringen dækker typisk skader på huset, der skyldes brand, kraftig storm, voldsomt tøbrud eller indbrud. 
 
-En *"stormskade"* er skader som følge af storm, dvs. hvis den gennemsnitlige vindstyrke over en periode på 10 minutter har været på mindst 17,2 meter pr. sekund (vindstyrke 8 efter Beauforts skala).
+En *"stormskade"* er skader som følge af storm, dvs. hvis den gennemsnitlige vindstyrke over en periode på 10 minutter har været på mindst 17,2 meter pr. sekund (vindstyrke 8 efter *Beauforts skala*).
 
 ---
 
@@ -1461,7 +1469,9 @@ Bygningsforsikringen indeholder nogle undtagelsesbestemmelser.
 
 Der er ofte undtagelser for skader, som skyldes manglende vedligeholdelse af bygningen, eller hvor bygningen har konstruktionsfejl, som er hovedårsagen til skaden. 
 
-Man skal være opmærksom på, at ens forsikringsbehov kan ændre sig med tiden. F.eks. skal man normalt tegne en tillægsforsikring, hvis man bygger om. 
+Man skal være opmærksom på, at ens forsikringsbehov kan ændre sig med tiden. 
+
+Fx skal man normalt tegne en tillægsforsikring, hvis man bygger om. 
 
 Ændrer man tagbelægning, etablerer solceller eller bygger til, skal forsikringsselskabet have besked, da man i modsat fald risikerer ikke at få erstatning for en skade eller delvis erstatning.  
 
@@ -1477,7 +1487,7 @@ Bliver man uenig med selskabet om vurderingen af den anmeldte skade, kan der væ
 
 Det er ofte et krav, at den sagkyndige har en god faglig indsigt og forholder sig sagligt til sagen. 
 
-Det kan f.eks. være en bygningsingeniør, arkitekt eller en bygningskonstruktør. Udtalelser fra en håndværker kan også anvendes. 
+Det kan fx være en bygningsingeniør, arkitekt eller en bygningskonstruktør. Udtalelser fra en håndværker kan også anvendes. 
 
 Man bør være opmærksom på, at udtalelser fra håndværkere ikke altid kan tillægges samme bevismæssige værdi som en udtalelse fra en uafhængig byggesagkyndig.
 
@@ -1488,7 +1498,7 @@ Medmindre andet er aftalt med selskabet, skal man selv betale for den sagkyndige
 
 Viser undersøgelsen, at der er en skade, som selskabet skal give erstatning for, kan man som udgangspunkt kræve, at selskabet refunderer ens udgifter til undersøgelsen i rimeligt omfang.
 
-Anmelder man f.eks., at et skjult vandrør muligvis er læk på en udvidet rørskadeforsikring, vil selskabet normalt bede én om at kontakte en VVS-installatør og få trykprøvet sine rør. 
+Anmelder man fx, at et skjult vandrør muligvis er læk på en udvidet rørskadeforsikring, vil selskabet normalt bede én om at kontakte en VVS-installatør og få trykprøvet sine rør. 
 
 Viser det sig, at der ikke er utætheder i rørsystemet, skal man normalt selv betale regningen for trykprøvningen. 
 
@@ -1506,7 +1516,7 @@ Også selvom det betyder, at reparationen midlertidigt må standses.
 
 Det, som forsikringstageren opfatter som én skade, er ikke nødvendigvis én skade, men kan være flere skader, for hvilke der opkræves en selvrisiko pr. styk. 
 
-Se eksempelvis **sagsnr.: 85631.** Klager over opkrævning af 3 gange selvrisiko. Råd i tre remender: 
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 85631.** Klager over opkrævning af 3 gange selvrisiko. Råd i tre remender: 
 "Klager anførte, at en remende var en “byggedel” og ikke en “bygningsdel”. Af forsikringsbetingelserne fremgik, at der opkrævedes 1 selvrisiko pr. bygningsdel. Selskabet anførte, at der er tale om bygningsdele. Klager havde i år 2005 haft samme skade, hvor 3 remender var ramt af råd. Samme selskab dækkede i 2005 skaden og opkrævede kun 1 selvrisiko. Nævnet udtalte, at en rem var en bygningsdel, og at selskabet i henhold til forsikringsbetingelserne havde været berettiget til at opkræve 3 x selvrisiko, uanset klageren ved tidligere oplevet skade alene blev opkrævet 1 x selvrisiko. Selskab medhold".
 
 ---
@@ -1574,7 +1584,7 @@ Nogle bygningsforsikringer dækker "anden pludselig skade".
 
 Det er et krav, at skadevirkning og skadeårsag sker pludseligt og samtidigt, og at skadeårsagen er udefra kommende. 
 
-Skader, der sker ved almindelig brug, som f.eks. ridser, skrammer, spild af væsker osv. er som regel undtaget på bygningsforsikringen.
+Skader, der sker ved almindelig brug, som fx ridser, skrammer, spild af væsker osv. er som regel undtaget på bygningsforsikringen.
 
 Hvis et vandrør udsættes for tæring og sprænges, hvorved der strømmer vand ud og forårsager vandskade, er skaden på røret ikke en pludselig skade. 
 
@@ -1614,7 +1624,7 @@ Hvis der er tale om sliddele på huset, kan forsikringsselskabet normalt foretag
 
 Det skyldes, at man ved udskiftning eller reparation af nogle bygningsdele kan opnå en forbedring af huset, og at man som følge heraf vil kunne mindske sine udgifter til fremtidig vedligeholdelse af den reparerede del af huset.
 
-Forsikringsankenævnet gør hertil opmærksom på, at det ikke kun er materialerne, forsikringsselskabet kan afskrive på, men også f.eks. arbejdsløn. 
+Forsikringsankenævnet gør hertil opmærksom på, at det ikke kun er materialerne, forsikringsselskabet kan afskrive på, men også fx arbejdsløn. 
 
 Hvis bygningsdelens levetid ikke forlænges som følge af reparationen, eller reparationen ikke har karakter af sædvanlig løbende vedligeholdelse af bygningsdelen, kan selskabet normalt ikke afskrive. 
 
@@ -1626,20 +1636,20 @@ Bygningsforsikringsselskabet kan derfor ikke afskrive i en sådan situation.
 
 ![](img/tap.jpg)
 
-Se f.eks. **Ankenævnets sagsnr.: 48276** (selskabet var uberettiget til at afskrive på udgift til tapetsering af en ud af fire vægge), 
+Se **Forsikringsankenævnets sagsnr.: 48276** (selskabet var uberettiget til at afskrive på udgift til tapetsering af en ud af fire vægge), 
 
-**Sagsnr.: 57310** (selskabet var uberettiget til at afskrive på udgift til 55 kvadratmeter partiel reparation af stråtag på 135 kvadratmeter), og 
+**Forsikringsankenævnets sagsnr.: 57310** (selskabet var uberettiget til at afskrive på udgift til 55 kvadratmeter partiel reparation af stråtag på 135 kvadratmeter), og 
 
-**sagsnr.: 79280** (selskabet var uberettiget til at afskrive på udskiftning af ”skallen” på et spabad).
+**Forsikringsankenævnets sagsnr.: 79280** (selskabet var uberettiget til at afskrive på udskiftning af ”skallen” på et spabad).
 
-**Sagsnr.: 48276.** Hus – Reparation efter vandskade – Udstrømmende vand fra cisterne fra overbo – Selskabet kan vælge mellem to erstatningsforslag.
+**Forsikringsankenævnets sagsnr.: 48276.** Hus – Reparation efter vandskade – Udstrømmende vand fra cisterne fra overbo – Selskabet kan vælge mellem to erstatningsforslag.
 
 ---
 
 ![](img/storm.jpg)
 
 
-**Sagsnr.: 57310.** Hus – afskrivning på stråtag: 
+**Forsikringsankenævnets sagsnr.: 57310.** Hus – afskrivning på stråtag: 
 "Klager over størrelsen af tilbudt erstatning efter stormskade på et stråtag. Klageren gør gældende, at selskabet ikke er berettiget til at opgøre skaden med udgangspunkt i, at taget var ca. 25 år, idet klageren kan dokumentere, at der har været udført tækkearbejde i 1993. Nævnet udtaler, at det lægges til grund, at der er foretaget en partiel reparation (55 m²) af den sydvendte tagflade på 135 m². Det er nævnets opfattelse, at reparationen ikke medfører en sådan forbedring (forøgelse af tagfladens levetid), at selskabet er berettiget til at foretage afskrivning. Selskab medhold".
 
 
@@ -1647,7 +1657,7 @@ Se f.eks. **Ankenævnets sagsnr.: 48276** (selskabet var uberettiget til at afsk
 
 ![](img/spa.jpg)
 
-**Sagsnr.: 79280.** Klager over selskabets afskrivning på reparationsomkostninger vedrørende et spabad: 
+**Forsikringsankenævnets sagsnr.: 79280.** Klager over selskabets afskrivning på reparationsomkostninger vedrørende et spabad: 
 "Selskabet havde anerkendt skaden som dækningsberettigende, men havde afskrevet 50 % på reparationsomkostningerne med henvisning til, at der bl.a. var forudbestående skader på spabadets skal. Nævnet fandt, henset til at selskabet havde anerkendt skaden og ikke havde undersøgt skadeårsagen, at selskabet i sin erstatningsopgørelse og i sin argumentation over for nævnet ikke havde det fornødne grundlag for at lægge til grund, at skaden på spabadet var en kombination af ikke dækningsberettigende skader og dækningsberettigende skader. Selskabet var derfor uberettiget til at nedsætte erstatningen med denne begrundelse. Herefter var der alene tilbage at vurdere, om selskabet kunne foretage almindelig aldersafskrivning. Efter det oplyste, hvor det alene var skallen på spabadet, der var udskiftet, og der ikke var angivet oplysninger om, at denne udskiftning ville forlænge spabadets forventede levetid, eller reducere de forventede vedligeholdelsesudgifter væsentligt, fandt nævnet det betænkeligt at fastslå, at selskabet havde været berettiget til at foretage afskrivning. Klager medhold.
 Sædvanligvis kan bygningsforsikringsselskabet kun aldersafskrive, hvis værdiforringelsen som følge af alder og slid er over 30 %. Højesteret har i afgørelsen trykt i Ugeskrift for Retsvæsen 2006.544 udtalt, at værdiforringelsesprocenten skulle beregnes på grundlag af den samlede værdi af de bygningsdele, der blev beskadiget ved forsikringsbegivenheden. Da det ikke var godtgjort, at værdiforringelsen beregnet af den samlede værdi af det beskadigede oversteg 30 % af nyværdien, var der ikke grundlag for at reducere erstatningen til dagsværdi".
 
@@ -1657,19 +1667,19 @@ Sædvanligvis kan bygningsforsikringsselskabet kun aldersafskrive, hvis værdifo
 ![](img/storm1.jpg)
 
 **U 2006.544 H:** A fik i 1998 sin ejendom forsikret til fuld- og nyværdi hos et forsikringsselskab F: 
-"F havde besigtiget ejendommen og ikke taget forbehold for eventuelle konstruktionsfejl. Efter en stormskade i 1999 afslog F at erstatte skader på bygningsdele, der havde konstruktionsfejl, og opgjorde erstatningen efter dagsværdi for skader på bygningsdele, hvis værdi før skaden var forringet med 30 % af nyværdien. Højesteret fastslog, at et forsikringsvilkår om dagsværdierstatning måtte forstås således, at værdiforringelsesprocenten skulle beregnes på grundlag af den samlede værdi af de bygningsdele, der blev beskadiget ved forsikringsbegivenheden. Da det ikke var godtgjort, at værdiforringelsen beregnet af den samlede værdi af det beskadigede oversteg 30 % af nyværdien, var der ikke grundlag for at reducere erstatningen til dagsværdi. Den omstændighed, at forsikringsselskabet havde besigtiget ejendommen i anledning af tegning af en sædvanlig bygningsforsikring og ikke taget forbehold for konstruktionsfejl, udelukkede ikke, at selskabet i forbindelse med en erstatningssag kunne afslå dækning under henvisning til konstruktionsfejl. Et vilkår i policen om, at erstatning udbetales, når de ødelagte bygninger var istandsat, måtte forstås som en aftale om forfaldsdagens indtræden. Da bygningerne ikke var istandsat, var der ikke grundlag for at lade erstatningen forrente":
+"F havde besigtiget ejendommen og ikke taget forbehold for eventuelle konstruktionsfejl. Efter en stormskade i 1999 afslog F at erstatte skader på bygningsdele, der havde konstruktionsfejl, og opgjorde erstatningen efter dagsværdi for skader på bygningsdele, hvis værdi før skaden var forringet med 30 % af nyværdien. Højesteret fastslog, at et forsikringsvilkår om dagsværdierstatning måtte forstås således, at værdiforringelsesprocenten skulle beregnes på grundlag af den samlede værdi af de bygningsdele, der blev beskadiget ved forsikringsbegivenheden. Da det ikke var godtgjort, at værdiforringelsen beregnet af den samlede værdi af det beskadigede oversteg 30 % af nyværdien, var der ikke grundlag for at reducere erstatningen til dagsværdi. Den omstændighed, at forsikringsselskabet havde besigtiget ejendommen i anledning af tegning af en sædvanlig bygningsforsikring og ikke taget forbehold for konstruktionsfejl, udelukkede ikke, at selskabet i forbindelse med en erstatningssag kunne afslå dækning under henvisning til konstruktionsfejl. Et vilkår i policen om, at erstatning udbetales, når de ødelagte bygninger var istandsat, måtte forstås som en aftale om forfaldsdagens indtræden. Da bygningerne ikke var istandsat, var der ikke grundlag for at lade erstatningen forrente". Se hele dommen her:
 **https://pro.karnovgroup.dk/document/7000318609/1**
 
 ---
 
-Se også **sagsnr.: 85454**. Sagen vedrørte et nyere hus, der var funderet på træpæle, som var rådnet væk: 
+Se også **Forsikringsankenævnets sagsnr.: 85454**. Sagen vedrørte et nyere hus, der var funderet på træpæle, som var rådnet væk: 
 "Selskabet ville afskrive reparationsudgiften inklusive udgiften til at fjerne gulve mv. med 80 % under henvisning til pælenes forventede levetid. ”Nævnet fandt, at der ikke kunne afskrives. Afgørelsen må forstås således, at udgiften til at fjerne i øvrigt ubeskadigede bygningsdele og ny-/genmontere dem indgår på lige vilkår med egentligt beskadigede bygningsdele i opgørelsen af, om værdiforringelsen er over 30 %".
 
 ---
 
 Man bør læse sine forsikringsbetingelser for at se, om der er særlige regler om afskrivning. 
 
-Nogle forsikringsselskaber har udarbejdet afskrivningstabeller, som gælder for udvalgte bygningsdele, f.eks. hårde hvidevarer. 
+Nogle forsikringsselskaber har udarbejdet afskrivningstabeller, som gælder for udvalgte bygningsdele, fx hårde hvidevarer. 
 
 Forsikringsbranchen har udgivet levetidstabeller med vejledende levetider for forskellige bygningsdele.
 
@@ -1689,7 +1699,7 @@ Man skal være opmærksom på, om der i policen er fastsat en forsikringssum for
 
 Som regel er det kun udhuse, landbrugsbygninger og lignende, der er sumforsikrede.
 
-De fleste bygningsforsikringer indeholder en regel, som under visse forudsætninger gør det muligt at anse bygningen for totalskadet, hvis den er mere end f.eks. 50 % skadet. 
+De fleste bygningsforsikringer indeholder en regel, som under visse forudsætninger gør det muligt at anse bygningen for totalskadet, hvis den er mere end fx 50 % skadet. 
 
 Er dette tilfældet, har forsikringstageren valget mellem at få bygningen repareret eller få bygget en ny.
 
@@ -1738,31 +1748,31 @@ Har taksatoren betinget sig, at en bestemt håndværker udbedrer skaden, eller e
 
 ---
 
-Se mere om denne problemstilling, hvortil Forsikringsankenævnet henviser i eksempelvis **sagsnr.: 57445, 73810, 81805, 86144 og 86219:**
+Se mere om denne problemstilling, hvortil Forsikringsankenævnet henviser i eksempelvis **Forsikringsankenævnets sagsnr.: 57445, 73810, 81805, 86144 og 86219:**
 
-**Sagsnr.: 57445.** Klager over afslag på erstatning for fejl ved reparationsarbejde i forbindelse med en dækningsberettigende rørskade: 
+**Forsikringsankenævnets sagsnr.: 57445.** Klager over afslag på erstatning for fejl ved reparationsarbejde i forbindelse med en dækningsberettigende rørskade: 
 "Selskabets taksator fravalgte den af klager forslåede murer, hvis overslag han fandt for højt. Herefter kontaktede taksator en anden murer, hvis tilbud han accepterede og henviste videre til klager. Mureren oplyste klager ved første henvendelse at have fået overdraget arbejdet og forestod i efterforløbet kontakten til de øvrige håndværkere, herunder elinstallatør og VVS-mand. Under disse omstændigheder finder nævnet, at det er selskabet, der har kontraheret med mureren, som efterfølgende har forestået kontakten til de øvrige håndværkere. Nævnet finder derfor, at selskabet må forestå udbedringen af fejlen. Klager medhold".
 
 ---
 
-**Sagsnr.: 73810.** Klager over, at selskabet anså klager for bygherre i forbindelse med udført tømrerarbejde, som var udført pga. en skade: 
+**Forsikringsankenævnets sagsnr.: 73810.** Klager over, at selskabet anså klager for bygherre i forbindelse med udført tømrerarbejde, som var udført pga. en skade: 
 "Klager var endvidere utilfreds med omfanget af en råd- og svampeskade samt over istandsættelsen af badeværelse, der var sket med mindre fliser. Klager havde tegnet husejerforsikring. Nævnet fandt, at det ikke var praksis, at selskaber påtog sig bygherrerollen eller kontrollerede byggeriets kvalitet. Nævnet fandt det ikke godtgjort, at selskabet havde accepteret at være bygherre eller ved sin ageren havde påtaget sig rollen. Nævnet kunne derfor ikke kritisere, at selskabet havde henvist klageren til entreprenøren vedr. sine mangelindsigelser. Ifølge § 14 i nævnets vedtægter måtte hver part afholde egne omkostninger i forbindelse med en klage til nævnet, hvorfor selskabet ikke kunne pålægges at betale klagegebyret. Selskab medhold".
 
 ---
 
-**Sagsnr.: 81805** Klager over afvisning af dækning til etablering af flisefodspark under skab samt smal fliserække langs badekar, gulvrist og kanter: 
+**Forsikringsankenævnets sagsnr.: 81805** Klager over afvisning af dækning til etablering af flisefodspark under skab samt smal fliserække langs badekar, gulvrist og kanter: 
 "Skaderne har forbindelse med en udbedret større skade, som selskabet har erstattet. Klagerne gør gældende, at de ikke har været involveret i udbedringsarbejdet eller bestilling af håndværkere mv. Selskabet gør gældende, at der ikke er tale om dækningsberettigende skader, og at klagerne må rette kravet mod de udførende håndværkere. Nævnet finder, at selskabet har påtaget sig at forestå udførelsen af reparationsarbejdet, hvorfor selskabet som udgangspunkt må påtage sig at dække udgifter ved mangler. Nævnet finder imidlertid at måtte lægge vægt på, at der blev afholdt afleveringsforretning i januar 2008, og at klagerne først rettede henvendelse til selskabet vedrørende de – ganske synlige – påklagede forhold i december 2010, altså næsten tre år efter afleveringsforretningen. Uanset om den påklagede fugebredde mellem fliserne i badeværelset forelå på tidspunktet for overtagelsesforretningen, eller om den først opstod i forbindelse med, at badeværelsesgulvet "kort tid efter" blev lagt om, finder nævnet, at den tid, der forløb indtil anmeldelsen til selskabet, har umuliggjort selskabets eventuelle udbedringskrav over for håndværkerne, og at klagerne må bære risikoen herfor. Selskab medhold".
 
 ---
 
 ![](img/vandskade.jpg)
 
-**Sagsnr.: 86144.** Klager over behandling af en vandskade. Klager mente, at udbedringen efter vandskaden var utilstrækkelig: 
+**Forsikringsankenævnets sagsnr.: 86144.** Klager over behandling af en vandskade. Klager mente, at udbedringen efter vandskaden var utilstrækkelig: 
 "Selskabets taksator havde anvist udbedringsmetoden. Nævnet fandt, at gulvet var blevet udtørret forsvarligt, inden selve udbedringsarbejdet blev igangsat. Nævnet fandt, at selskabet ikke hæftede for de fejl og mangler, som håndværkeren havde begået i forbindelse med udbedringsarbejdet, idet de anvisninger, som det af selskabet valgte fugtteknikfirma havde givet om udbedringsmetoden, ikke kunne danne grundlag for et erstatningsansvar. Nævnet fandt, at selskabet ikke var indtrådt som ansvarlig for den øvrige udbedringsmetode eller for den håndværksmæssige udførelse af selve udbedringsarbejdet. Selskab medhold".
 
 ---
 
-**Sagsnr.: 86219.** Klager over afvisning af erstatning for mangler ved udført udbedringsarbejde: 
+**Forsikringsankenævnets sagsnr.: 86219.** Klager over afvisning af erstatning for mangler ved udført udbedringsarbejde: 
 "Klager fik en dækningsberettigende vandskade. Hun tog kontakt til en entreprenør, hvis tilbud selskabet godkendte. Selskabet dækkede fakturaer for ca. 572.000 kr. En ingeniørrapport påviste væsentlige mangler ved arbejdet, og klager sagsøgte entreprenøren. Han blev frifundet som forkert sagsøgte med henvisning til, at entrepriseaftalen var indgået med tømrerens Aps – stiftet efter skadedagen og nu konkurs – og ikke tømrerens personlige virksomhed. Hverken selskabet eller klager havde opdaget denne selskabskonstruktion. Selskabet afviste at hæfte for arbejdets mangler med henvisning til, at det allerede havde opfyldt sin forpligtelse. Nævnet fandt, at klager var entreprenørens kunde, og at selskabet ikke havde påtaget sig at indestå for det udførte arbejde. Nævnet fandt, at klager ikke havde godtgjort, at selskabet havde begået ansvarspådragende forsømmelser i sin sagsbehandling eller rådgivning. Nævnet kunne derfor ikke pålægge selskabet at betale yderligere erstatning. Selskab medhold".
 
 
@@ -1778,6 +1788,8 @@ Ejerskifteforsikringen er en særlig forsikringsform som køber kan tegne i forb
 Forsikringen omfatter ejendommens bygninger, men ikke selve grunden. 
 
 Der er mange betingelser, som skal være opfyldt, før man som køber af fast ejendom kan få erstatning. 
+
+Derfor er ejerskifteforsikringen ikke nogen "kaskoforsikring", som skulle dække alle skjulte fejl og mangler ved et huskøb, som ikke er blevet nævnt i tilstandsrapporten eller i elinstallationsrapporten.
 
 Ejerskifteforsikringen, tilstandsrapporten og elinstallationsrapporten er instrumenter, som køber og sælger kan benytte sig af, når de henholdsvis køber og sælger fast ejendom.
 
@@ -1840,14 +1852,14 @@ Viser undersøgelsen, at der er en skade, som ejerskifteforsikringsselskabet ska
 
 I helt særlige tilfælde har Forsikringsankenævnet fastslået, at selskabet skal dække omkostninger til byggesagkyndige i videre omfang. 
 
-Se eksempelvis ankenævnssagerne **sagsnr.: 85837 og 86324:**
+Se eksempelvis ankenævnssagerne **Forsikringsankenævnets sagsnr.: 85837 og 86324:**
 
-**Sagsnr.:  85837.** Klager over afvisning af dækning for fugt- og skimmelskader på vægge, facader og terrændæk samt skader på skifertag. Ejendommen var fra 1900: 
+**Forsikringsankenævnets sagsnr.:  85837.** Klager over afvisning af dækning for fugt- og skimmelskader på vægge, facader og terrændæk samt skader på skifertag. Ejendommen var fra 1900: 
 "Den bygningssagkyndige var ved Disciplinær- og klagenævnet for beskikkede bygningssagkyndige fundet erstatningsansvarlig for skader på vægge, facader og tag pga. fejl i tilstandsrapporten, og han var blevet pålagt at betale erstatning – dog med fradrag for forbedringer. Nævnet fandt, at fugt og skimmel i vægge var af et omfang, så det i sig selv udgjorde en skade, og at selskabet derfor skulle erstatte klager 27.500 kr., som han ikke var blevet kompenseret for. Nævnet fandt, at forholdet vedrørende fugt i puds på facader var klart forkert anmærket i tilstandsrapporten, og at selskabet skulle erstatte klager 25.800 kr., som han ikke var kompenseret for. Selskabet kunne ved disse erstatninger ikke fratrække selvrisiko, som måtte anses for indeholdt i erstatningen fra den bygningssagkyndige. Nævnet fandt, at klager var kompenseret for skader på tag. Nævnet fandt, at klager ikke på det foreliggende grundlag havde bevist, at der var dækningsberettigende skader ved terrændækkonstruktionen uanset opfugtning af betonlag under fugtspærre. Nævnet fandt, at selskabet skulle genoptage sagsbehandlingen for så vidt angik genhusning, dække hans udgifter til advokat med indtil 20.000 kr. samt alle udgifter til sagkyndig bistand, uanset at rapporten vedrørende terrændækket ikke havde påvist dækningsberettigende skader. Klager delvis medhold".
 
 ---
 
-**Sagsnr.: 86324.** Klager over afvisning af dækning for skæve gulve: "Nivelleringer viste skævheder på 68 mm over 842 cm. Klager anførte, at årsagen var sætninger af terrændæk og henviste til, at huset var efterfunderet for 32 år siden. Selskabet anførte, at det ikke var bevist, at forholdet udgjorde en dækningsberettigende skade. Nævnet fandt det bevist, at de skæve gulve udgjorde en skade. Nævnet lagde vægt på taksators og skønsmandens beskrivelser og på, at selskabet ved sin kommunikation til klager havde tilkendegivet, at forholdet opfyldte skadebegrebet og alene betinget dækning af, at det ikke kunne godtgøres, at klager havde kendskab til forholdet, før forsikringen blev tegnet. Nævnet fandt, at det var sandsynliggjort, at skaden meget vel også kunne omfatte terrændækket, og at der var risiko for fremtidige sætninger. Nævnet fandt, at selskabet skulle bekoste udgifterne til en bygningssagkyndig undersøgelse af terrændækket for at afdække omfanget af skaden. Klager delvis medhold".
+**Forsikringsankenævnets sagsnr.: 86324.** Klager over afvisning af dækning for skæve gulve: "Nivelleringer viste skævheder på 68 mm over 842 cm. Klager anførte, at årsagen var sætninger af terrændæk og henviste til, at huset var efterfunderet for 32 år siden. Selskabet anførte, at det ikke var bevist, at forholdet udgjorde en dækningsberettigende skade. Nævnet fandt det bevist, at de skæve gulve udgjorde en skade. Nævnet lagde vægt på taksators og skønsmandens beskrivelser og på, at selskabet ved sin kommunikation til klager havde tilkendegivet, at forholdet opfyldte skadebegrebet og alene betinget dækning af, at det ikke kunne godtgøres, at klager havde kendskab til forholdet, før forsikringen blev tegnet. Nævnet fandt, at det var sandsynliggjort, at skaden meget vel også kunne omfatte terrændækket, og at der var risiko for fremtidige sætninger. Nævnet fandt, at selskabet skulle bekoste udgifterne til en bygningssagkyndig undersøgelse af terrændækket for at afdække omfanget af skaden. Klager delvis medhold".
 
 ---
 
@@ -2005,23 +2017,25 @@ Er der tale om sliddele på huset, har forsikringsselskabet nogle gange lov til 
 
 Det skyldes, at man ved udskiftning eller reparation af nogle bygningsdele kan opnå en forbedring af huset, og at man som følge heraf vil kunne mindske sine udgifter til fremtidig vedligeholdelse af den reparerede del af huset.
 
-Forsikringsankenævnet gør opmærksomhed på, at det ikke kun er materialerne, selskabet kan afskrive på, men også f.eks. arbejdsløn.
+Forsikringsankenævnet gør opmærksomhed på, at det ikke kun er materialerne, selskabet kan afskrive på, men også fx arbejdsløn.
 
 Er forsikringen tegnet efter den 1/5 2012, indeholder forsikringsbetingelserne nogle afskrivningstabeller, som bestemmer, hvornår og med hvilken procentsats forsikringsselskabet kan afskrive. 
 
-Afskrivningen afhænger dels af bygningsdelen, dels af, hvad den er lavet af, og endelig af, hvor gammel bygningsdelen er. Selskabet kan kun afskrive, hvis der er tale om en bygningsdel, der er nævnt i afskrivningstabellerne. Afskrivningen sker bygningsdel for bygningsdel. 
+Afskrivningen afhænger dels af bygningsdelen, dels af, hvad den er lavet af, og endelig af, hvor gammel bygningsdelen er. 
+
+Selskabet kan kun afskrive, hvis der er tale om en bygningsdel, der er nævnt i afskrivningstabellerne. Afskrivningen sker bygningsdel for bygningsdel. 
 
 ---
 
 
-Forsikringsankenævnet har behandlet problemstillinger om afskrivning i **sagsnr.: 85778 og 87692:**
+Forsikringsankenævnet har behandlet problemstillinger om afskrivning i **Forsikringsankenævnets sagsnr.: 85778 og 87692:**
 
-**Sagsnr.: 85778.** Klager bl.a. over erstatningsopgørelse for en anerkendt skade på en udvendig trappe til hoveddøren til et hus fra 1942: 
-"Der var skader i form af bl.a. løse sten og fuger bl.a. ved vange. Selskabet afskrev med henvisning til betingelsernes afskrivningstabel om vægkonstruktioner i murværk og dækkede 78 % af udbedringsomkostningerne. Klager var utilfreds hermed og gjorde endvidere gældende, at der var forkert fald på dele af trappen. Nævnet fandt, at det ikke var bevist, at der var forhold ved trappens konstruktion – f.eks. faldet – der udgjorde en dækningsberettigende skade. Nævnets flertal kunne ikke kritisere, at selskabet alene havde anerkendt at betale 78 % af udbedringsomkostningerne. Flertallet fandt modsat mindretallet, at trappen var integreret i murkonstruktionen, og at afskrivning derfor kunne ske i overensstemmelse med afskrivningstabellen. Flertallet fandt, at der ved indførelsen af de bindende afskrivningstabeller i ejerskifteforsikringen var givet selskaberne hjemmel til at foretage afskrivning også på udgifter, hvor der alene var tale om mindre beløb til udbedring. Selskab medhold".
+**Forsikringsankenævnets sagsnr.: 85778.** Klager bl.a. over erstatningsopgørelse for en anerkendt skade på en udvendig trappe til hoveddøren til et hus fra 1942: 
+"Der var skader i form af bl.a. løse sten og fuger bl.a. ved vange. Selskabet afskrev med henvisning til betingelsernes afskrivningstabel om vægkonstruktioner i murværk og dækkede 78 % af udbedringsomkostningerne. Klager var utilfreds hermed og gjorde endvidere gældende, at der var forkert fald på dele af trappen. Nævnet fandt, at det ikke var bevist, at der var forhold ved trappens konstruktion – fx faldet – der udgjorde en dækningsberettigende skade. Nævnets flertal kunne ikke kritisere, at selskabet alene havde anerkendt at betale 78 % af udbedringsomkostningerne. Flertallet fandt modsat mindretallet, at trappen var integreret i murkonstruktionen, og at afskrivning derfor kunne ske i overensstemmelse med afskrivningstabellen. Flertallet fandt, at der ved indførelsen af de bindende afskrivningstabeller i ejerskifteforsikringen var givet selskaberne hjemmel til at foretage afskrivning også på udgifter, hvor der alene var tale om mindre beløb til udbedring. Selskab medhold".
 
 ---
 
-**Sagsnr.: 87692.** Klager over størrelsen af erstatning for fugtskade i tagkonstruktion fra 1977: 
+**Forsikringsankenævnets sagsnr.: 87692.** Klager over størrelsen af erstatning for fugtskade i tagkonstruktion fra 1977: 
 "Nævnet måtte lægge til grund, at der var trængt vand ind ved overgangen fra hovedtag til kvisttag, og at undertag, gulv i tagetage og loftlister herved var blevet beskadiget. Selskabet foretog afskrivning på 52 % på baggrund af undertagpladernes alder og afskrivningstabellerne herfor. Nævnet fandt ikke at kunne kritisere selskabets afskrivning. Selskab medhold".
 
 ---
@@ -2040,7 +2054,7 @@ Der beregnes normalt kun selvrisiko en gang, hvis flere forskellige bygningsdele
  
 **Sagsnr.: 51661**. Skader i to værelser skyldtes i henhold til en indhentet syns- og skønsrapport bevægelse i væggene. Forsikringsankenævnet fandt, at der var tale om én årsag, hvorfor selskabet alene var berettiget til at opkræve selvrisiko én gang.
 
-I **sagsnr.: 56266** fandt Forsikringsankenævnet det bevist, at to rådskader på et gulv havde hver deres årsag, da rådskaderne var en følge af to forskellige fugtkilder. Selskabet var derfor berettiget til at opkræve to gange selvrisiko.
+I **Forsikringsankenævnets sagsnr.: 56266** fandt Forsikringsankenævnet det bevist, at to rådskader på et gulv havde hver deres årsag, da rådskaderne var en følge af to forskellige fugtkilder. Selskabet var derfor berettiget til at opkræve to gange selvrisiko.
 
 ---
 
@@ -2050,7 +2064,7 @@ Det fremgår af § 1 i bekendtgørelse om dækningsomfanget for ejerskifteforsik
 
 Det er dog i forarbejderne til loven forudsat, at forbeholdet ikke er af generel karakter, og at forbeholdet har udgangspunkt i tilstandsrapporten.
 
-Forsikringsankenævnet oplyser, at når Ankenævnet vurderer, om et forbehold er gyldigt i en klagesag, ser det blandt andet på, om forbeholdet tager udgangspunkt i oplysningerne i tilstandsrapporten, om det efter sin ordlyd er begrænset til bestemte bygningsdele eller bestemte installationer, og om det knytter sig til skadeoplysningerne, f.eks. K-bemærkningerne eller sælgeroplysningerne. 
+Forsikringsankenævnet oplyser, at når Ankenævnet vurderer, om et forbehold er gyldigt i en klagesag, ser det blandt andet på, om forbeholdet tager udgangspunkt i oplysningerne i tilstandsrapporten, om det efter sin ordlyd er begrænset til bestemte bygningsdele eller bestemte installationer, og om det knytter sig til skadeoplysningerne, fx K-bemærkningerne eller sælgeroplysningerne. 
 
 Ankenævnet lægger også vægt på, hvor bredt forbeholdet er formuleret, og hvor vanskeligt forbeholdet er at forstå for klageren, herunder om forsikringsselskabet har forklaret, hvorfor det er sagligt at tage forbeholdet.
 
@@ -2062,19 +2076,19 @@ Ankenævnet har i sine afgørelser blandt andet henvist til, at forbeholdene har
 
 Hvis selskabet generelt har taget et forbehold for alle K-påtegninger i tilstandsrapporten – og især, hvis selskabet tager forbehold for årsagen til og følgerne af skader, der udspringer af disse – underminerer man K-systemet, da et sådant forbehold reelt bevirker, at alle K-påtegningerne virker som K3- eller UN-påtegninger og dermed er undtaget fra dækning. Sådanne forbehold er efter Forsikringsankenævnets vurdering ugyldige, da de ikke er i overensstemmelse med formålet med Huseftersynsordningen. 
 
-Se til belysning heraf eksempelvis Forsikringsankenævnets **sagsnr.: 84782, 85886 og 88115:**
+Se til belysning heraf eksempelvis **Forsikringsankenævnets sagsnr.: 84782, 85886 og 88115:**
 
-**Sagsnr.: 84782.** Klager over afslag på dækning for fugtskade under gulve: 
+**Forsikringsankenævnets sagsnr.: 84782.** Klager over afslag på dækning for fugtskade under gulve: 
 "Selskabet henviste til forbehold i policen. Nævnet lagde til grund, at terrændæk under stuen var fejlkonstrueret, hvilket havde medført vækst af skimmelsvamp i gulvkonstruktionen, der ville tiltage, såfremt forholdet ikke udbedredes. Selskabet havde i klausul taget forbehold for skade, følger af skade og årsagerne til skade, der konstateredes på eller udbredte sig fra en række forhold i tilstandsrapporten, herunder K1 vedrørende gulvene. Selskabet havde i klausulen taget forbehold for hovedparten af de forhold, der gav anledning til bemærkninger i tilstandsrapporten, og klausulen var efter nævnets opfattelse af en sådan generel karakter … ved erhvervelse af fast ejendom mv., hvorfor den ikke kunne opretholdes som gyldig, og forbeholdet kunne allerede derfor ikke udvides til at omfatte det fejlkonstruerede terrændæk. Klager medhold".
 
 ---
 
-**Sagsnr.: 85886.** Klager over selskabets afvisning af at yde dækning i anledning af utætheder i husets tag: 
+**Forsikringsankenævnets sagsnr.: 85886.** Klager over selskabets afvisning af at yde dækning i anledning af utætheder i husets tag: 
 "Nævnet fandt, at et i policen taget dækningsforbehold var for generelt og ikke kunne opretholdes. Nævnet fandt, at det måtte lægges til grund, at det anmeldte forhold havde været til stedet på overtagelsestidspunktet. Nævnet fandt, at tilstandsrapportens beskrivelse af tagbelægningen var klart forkert, og at der var nærliggende risiko for skade. Nævnets flertal fandt, at selskabet efter bekendtgørelsen om dækningsomfanget for ejerskifteforsikringer var berettiget til at foretage afskrivning jf. tabellerne, også på udgifter, hvor der alene var tale om et mindre beløb til udbedring. Flertallet fandt modsat mindretallet, at afskrivning kunne ske, inden selvrisikoen blev fratrukket, hvorved der ikke var noget beløb til udbetaling. Selskab medhold".
 
 ---
 
-**Sagsnr.: 88115.** Klager over afvisning af dækning for stuegulv, der bulede op: 
+**Forsikringsankenævnets sagsnr.: 88115.** Klager over afvisning af dækning for stuegulv, der bulede op: 
 "Der var varmerør mellem strøer på betonlag i gulvkonstruktionen, men der manglede dampspærre. På parketgulvet var få måneder inden overtagelsen lagt nyt klikgulv i stedet for væg-til-væg-tæpper. Klikgulvet bulede voldsomt op få uger efter overtagelsen. Af byggeteknisk rapport og taksatorrapport fremgik, at undergulv var kraftigt opfugtet pga. manglende dampspærre, og fordi den nye konstruktion nu lukkede fugten inde. Der var tillige skimmel. Nævnet fandt, at forholdet udgjorde en skade, og at hele stuegulvet skulle fjernes. Nævnet fandt, at selskabet ikke kunne afvise dækning med henvisning til en K1 om let fjedrende og knirkede strøgulve samt sprækker flere steder. Nævnet fandt, at forsikringsaftalelovens §§ 4-6 ikke kunne gøres gældende over for klager i relation til oplysninger, der fremgik af tilstandsrapporten. Nævnet fandt, at klager heller ikke groft uagtsomt havde undladt at gøre selskabet opmærksom på faktuelle fejl i tilstandsrapporten angående væg-til-væg-tæpper, hvorfor forsikringsaftalelovens § 7 heller ikke kunne påberåbes af selskabet. Klager medhold".
 
 ---
@@ -2116,7 +2130,7 @@ Der findes 3 hovedformer for forsikringsdækning i forbindelse med rejser.
 
 *Rejseforsikring*, hvor man kan få forsikringsdækning, når man er ude at rejse. Det er typisk udgifter til lægelig behandling, erstatning for mistede feriedage, udgift til hjemtransport, udgift til erstatningsrejse mv., man kan få dækket via sin rejseforsikring.
 
-*Rejsegodsforsikring*. De fleste har gennem deres indbo/familieforsikring en rejsegodsforsikring, der dækker f.eks. tyveri af bagage, man medbringer på rejsen. 
+*Rejsegodsforsikring*. De fleste har gennem deres indbo/familieforsikring en rejsegodsforsikring, der dækker fx tyveri af bagage, man medbringer på rejsen. 
 
 Nogle rejseforsikringer dækker også i denne situation.
 
@@ -2128,7 +2142,7 @@ Ofte er forsikringen begrænset til at dække rejser i et specielt geografisk om
 
 Og ofte gælder forsikringen kun, hvis rejsen er af begrænset varighed – eksempelvis rejser af maksimalt 1 måneds varighed. Forsikringen kan også indeholde et alderskrav – eksempelvis at man ikke er fyldt 70 år. 
 
-Se **Forsikringsankenævnets sag 83386.** Klager over afvisning af dækning for behandlingsudgifter og hjemtransport i forbindelse med sygdom under en rejse i Tyrkiet: 
+Se **Forsikringsankenævnets sagsnr.: 83386.** Klager over afvisning af dækning for behandlingsudgifter og hjemtransport i forbindelse med sygdom under en rejse i Tyrkiet: 
 "Klagers datter bestilte den 24/8 2011 en rejse til Tyrkiet med afrejse den 17/8 2012 samt en årsrejseforsikring til sin far. Hun oplyste i den forbindelse telefonisk hans fødselsdato, og det blev fremhævet, at han var en ældre mand, der havde behov for at bo i stueplanet. Under ferierejsen blev klager syg og måtte behandles lokalt og hjemtransporteres. Selskabet afviste dækning med henvisning til, at klager, der var fyldt 70 år, ikke inden afrejsen havde indsendt en helbredserklæring, hvilket fremgik af betingelserne som et krav for at opnå dækning. Klager anførte, at hverken han eller hans datter var blevet vejledt om, at en helbredserklæring var en forudsætning for dækning. Nævnet fandt, at selskabet, her rejsebureauets medarbejder, burde have gjort klager opmærksom på dette ikke sædvanlige krav og derfor ikke burde have udstedt et forsikringsbevis uden at sikre sig, at klager var klar over, at forsikringen ikke var gyldig uden helbredsattest. At der på side 2 på billetten, der var udstedt den 31/7 2012 kort før afrejsen, var informeret om kravet, kunne ikke føre til et andet resultat. Nævnet fandt, at da selskabet således ikke havde ydet den nødvendige rådgivning om denne særlige betingelse, var selskabet forpligtet til at se bort fra kravet. Klager medhold".
 
 ---
@@ -2148,14 +2162,14 @@ Rejseforsikringen dækker normalt kun akut opstået sygdom.
 
 Rejseforsikringen dækker derfor ikke, hvis man inden afrejsen er syg, og man vælger at rejse alligevel, og denne sygdom gør, at man må søge dækning under rejsen. 
 
-Se eksempelvis sagerne i **sagsnr.: 88319, 88241, 88056, 87284 og 85452.**
+Se eksempelvis sagerne i **Forsikringsankenævnets sagsnr.: 88319, 88241, 88056, 87284 og 85452.**
 
-**Sagsnr.: 88319.** Klager over afslag på dækning i forbindelse med klagers afbestilling af to ferierejser: 
+**Forsikringsankenævnets sagsnr.: 88319.** Klager over afslag på dækning i forbindelse med klagers afbestilling af to ferierejser: 
 "Klager fik ved en helbredsundersøgelse konstateret en nyresten, og skulle have foretaget yderligere udredning. Han bestilte efterfølgende de to rejser. Det blev besluttet, at klagers ene nyre skulle fjernes. Klager anmodede selskabet om en forhåndsgodkendelse til dækning under rejserne. Selskabet indsatte en klausul vedrørende udgifter forbundet med nyre- og urinvejslidelser. Selskabet afbestilte herefter rejsen. Nævnet fandt, at selskabet havde været berettiget til at indsætte en klausul som sket, og at klagers sygdom var til stede på tidspunktet for bestillingen af rejsen. Selskab medhold".
 
 ---
 
-**Sagsnr.: 88241.** Klager over afslag på dækning for afbestilt rejse. "Selskabet henviste til, at klager var under et udredningsforløb, da hun bestilte rejsen. Klager blev den 12/11 2014 af egen læge henvist til en koloskopi, som blev foretaget den 11/12 2014. Den 1/12 2014 bestilte hun rejsen. Nævnet fandt, at afgørende for afvisning af dækning var, om klager på tidspunktet for rejsens bestilling havde kendskab til den sygdom, der var skyld i afbestillingen. Da klager kun var henvist til koloskopi kunne hun ikke anses for at have kendskab til sin sygdom. Klager medhold".
+**Forsikringsankenævnets sagsnr.: 88241.** Klager over afslag på dækning for afbestilt rejse. "Selskabet henviste til, at klager var under et udredningsforløb, da hun bestilte rejsen. Klager blev den 12/11 2014 af egen læge henvist til en koloskopi, som blev foretaget den 11/12 2014. Den 1/12 2014 bestilte hun rejsen. Nævnet fandt, at afgørende for afvisning af dækning var, om klager på tidspunktet for rejsens bestilling havde kendskab til den sygdom, der var skyld i afbestillingen. Da klager kun var henvist til koloskopi kunne hun ikke anses for at have kendskab til sin sygdom. Klager medhold".
 
 ---
 
@@ -2163,19 +2177,19 @@ Se eksempelvis sagerne i **sagsnr.: 88319, 88241, 88056, 87284 og 85452.**
 
 ---
 
-**Sagsnr.: 87284.** Klager over afslag på dækning for afbestilling af en rejse: 
+**Forsikringsankenævnets sagsnr.: 87284.** Klager over afslag på dækning for afbestilling af en rejse: 
 "Klager var den 14/8 2014 til konsultation hos sin læge på grund af vandladningsforstyrrelser, og han blev henvist til videre udredning på mistanke om kræft i blærehalskirtlen. Samme dag bestilte han en rejse for perioden fra den 2/9 til den 14/9 2014. Idet han blev indkaldt til hospitalsundersøgelse den 2/9 2014 afbestilte han rejsen den 30/8 2014. Nævnet fandt ikke grundlag for at kritisere selskabets afslag på dækning for den afbestilte rejse, idet klager på tidspunktet for bestillingen af rejsen havde symptomer, der var egnet til at give ham mistanke om alvorlig sygdom, der krævede hospitalsudredning. Selskab medhold".
 
 ---
 
-**Sagsnr.: 85452.** Klager over indsættelse af klausul i en rejseforsikring for sygdom i brysterne: 
+**Forsikringsankenævnets sagsnr.: 85452.** Klager over indsættelse af klausul i en rejseforsikring for sygdom i brysterne: 
 "Klager ansøgte den 18/11 2013 om forhåndsgodkendelse forud for en rejse til Australien fra 6/12 2013 til 2/1 2014. Hun havde været til behandling i oktober og november, og statusscanningerne i august og november viste uændrede forhold og normale blodprøver. Selskabets lægekonsulent oplyste, at hun måtte anses for at være i en stabil fase, idet hun ikke inden for de sidste 2 måneder før afrejse havde fået ændret medicinering eller været hospitalsindlagt og havde gået til kontrol. Selskabet meddelte forhåndsgodkendelse med forbehold for udgifter, der relaterede sig til sygdom i brysterne og enhver følge heraf. Nævnet fandt, at selskabet ikke i forbindelse med en forhåndsgodkendelse kunne klausulere forsikringsdækningen i videre omfang, end hvad der fulgte af forsikringsaftalen. Nævnet fandt, at selskabet ikke havde hjemmel til at indføje klausulen. Klager medhold".
 
 ---
 
 Er man kronisk syg eller er bekendt med, at man er syg, bør man kontakte sit forsikringsselskab for at høre, om man er dækket, eller om forsikringsselskabet kan give én et skriftligt forhåndstilsagn om, at forsikringsselskabet dækker, herunder hvad de dækker eller ikke dækker. 
 
-Se mere om forhåndstilsagn i **sagsnr.: 86321 og 86490**.
+Se mere om forhåndstilsagn i **Forsikringsankenævnets sagsnr.: 86321 og 86490**.
 
 Forsikringen dækker kun en særlig kreds af sikrede personer. De sikrede vil normalt være husstanden, men andre personer kan også være sikrede ifølge forsikringen. 
 
@@ -2183,16 +2197,20 @@ Den *"sikrede"* er den, der har ret til ydelsen fra en forsikring. Kaldes ved li
 
 Rejser man med venner eller familiemedlemmer – der ikke er en del af husstanden – og er alle rejsedeltagerne ikke omfattet af en og samme rejseforsikring, kan man risikere, at der ikke er dækning for ødelagt ferie/rejseledsagelse mv., hvis eksempelvis ens svigerfar eller en ven bliver alvorligt syg under rejsen. Læs derfor forsikringsbetingelserne inden afrejse. 
 
-Se også **sagsnr.: 77224 og 88471**.
+Se også **Forsikringsankenævnets sagsnr.: 77224 og 88471**.
 
 ---
 
 
 I skadesituationer, der kræver øjeblikkelig bistand, skal man normalt kontakte forsikringsselskabets alarmcentral, der vejleder én og hjælper med at arrangere behandling, hjemtransport mv. 
 
-Hvis man ikke koordinerer med forsikringsselskabets alarmcentral, risikerer man, at forsikringsselskabet afviser at betale eller kræver, at man skal betale prisforskellen mellem den løsning, man har fundet, og den billigere løsning, som selskabet ville have anvist. Se f.eks. **sagsnr.: 86567**.
+Hvis man ikke koordinerer med forsikringsselskabets alarmcentral, risikerer man, at forsikringsselskabet afviser at betale eller kræver, at man skal betale prisforskellen mellem den løsning, man har fundet, og den billigere løsning, som selskabet ville have anvist. 
 
-Anmelder man et krav til sit selskab, skal man bevise, at man har været ude for en begivenhed, der er dækket af forsikringen. Hvis man er uenig med forsikringsselskabet om størrelsen af en erstatning, skal man bevise, at man har ret.
+Se fx **Forsikringsankenævnets sagsnr.: 86567**.
+
+Anmelder man et krav til sit selskab, skal man bevise, at man har været ude for en begivenhed, der er dækket af forsikringen. 
+
+Hvis man er uenig med forsikringsselskabet om størrelsen af en erstatning, skal man bevise, at man har ret.
 
 Det er vigtigt, at man sikrer sig at få relevant dokumentation fra læger, hospitaler, politi mv. i udlandet, da det ofte vil være afgørende for, at man kan bevise, at man har ret til dækning.
 
@@ -2230,11 +2248,20 @@ Tjek derfor altid policen og forsikringsbetingelser.
 
 * Hjemtransport. Man kan få transport til Danmark, hvis sygdom, skade, krig, katastrofe eller lignende gør det nødvendigt at rejse hjem før tiden. 
 
-Se eksempelvis Forsikringsankenævnets **sagesnr.: 86567, 86484 og 84847**.
+---
+
+***Studenteropgave***
+
+Undersøg nærmere følgende afgørelser fra Forsikringsankenævnet:
+
+**Forsikringsankenævnets sagsnr.: 86567, 86484 og 84847**.
+
+---
+
 
 * Sygeledsagelse/tilkaldelse. Man kan få dækket merudgifter for medforsikrede ledsagere, der følger den syge, eller ved tilkaldelse til rejsedestinationen for pårørende.
 
-* Hjemkaldelse. Man kan få dækket ekstra rejseudgifter til hjemrejse f.eks. ved pårørendes alvorlige sygdom/død i Danmark.
+* Hjemkaldelse. Man kan få dækket ekstra rejseudgifter til hjemrejse fx ved pårørendes alvorlige sygdom/død i Danmark.
 
 * Erstatningsrejse/ødelagte rejsedage. 
 
@@ -2246,13 +2273,15 @@ Se eksempelvis Forsikringsankenævnets **sagsnr.: 84580, 84400, 83728, 83660 og 
 
 Erstatningsrejse er normalt betinget af, at man mindst har været ordineret indendørs ophold i mere end halvdelen af ferien.
 
-Ødelagte feriedage er en økonomisk godtgørelse for de dage, hvor man f.eks. har været sengeliggende syg. 
+Ødelagte feriedage er en økonomisk godtgørelse for de dage, hvor man fx har været sengeliggende syg. 
 
 Ødelagte feriedage er til forskel fra erstatningsrejse normalt relevant, hvis ens sygdom har varet kortere end halvdelen af ferien. 
 
 Man skal huske at få relevant dokumentation fra læge eller lignende.
 
-Bemærk, at det skal fremgå udtrykkeligt af policen, hvis man skal have ret til dækning i en situation, hvor man ikke har kunnet deltage i rejsens hovedaktivitet – eksempelvis skisport – men hvor man i øvrigt var rask nok til at "være på ferie". Se fx Forsikringsankenævnets afgørelse i **sagsnr.: 87625**.
+Bemærk, at det skal fremgå udtrykkeligt af policen, hvis man skal have ret til dækning i en situation, hvor man ikke har kunnet deltage i rejsens hovedaktivitet – eksempelvis skisport – men hvor man i øvrigt var rask nok til at "være på ferie". 
+
+Se fx **Forsikringsankenævnets sagsnr.: 87625**.
 
 ---
 
@@ -2260,29 +2289,29 @@ Bemærk, at det skal fremgå udtrykkeligt af policen, hvis man skal have ret til
 
 
 
-*Bagage* 
+**Bagagedækningen** 
 
-Her dækkes tyveri/forsinkelse. 
+Her dækkes der tyveri og forsinkelse med bagagen i forbindelse med transporten under rejsen. 
 
 Bliver ens bagage forsinket, skal man melde forsinkelsen til flyselskabet og sørge for at få en skriftlig bekræftelse i form af en PIR (Property Irregularity Report). 
 
 Derudover skal man gemme kvitteringer for de erstatningskøb, som man foretager på destinationen, samt om muligt få dokumentation for, hvornår man modtager ens bagage fra flyselskabet
 . 
-Se eksempelvis Forsikringsankenævnets **sagsnr.: 83945** – om en manglende PIR – og 
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 83945** – om en manglende PIR – og 
 
-Forsikringsankenævnets **sagsnr.: 83675** om, hvad der var nødvendige og rimelige indkøb på grund af forsinket bagage. 
+**Forsikringsankenævnets sagsnr.: 83675** om, hvad der var nødvendige og rimelige indkøb på grund af forsinket bagage. 
 
-Se også Forsikringsankenævnets **sagsnr.: 86240 og 82638** om nødvendige indkøb.
+Se også **Forsikringsankenævnets sagsnr.: 86240 og 82638** om nødvendige indkøb.
 
-I Forsikringsankenævnets **sagsnr.: 86082** fandt Forsikringsankenævnet, at klageren ikke havde handlet groft uagtsom ved at efterlade sin rejsetaske – der blev stjålet – i reception i 45 min. 
+I **Forsikringsankenævnets sagsnr.: 86082** fandt Forsikringsankenævnet, at klageren ikke havde handlet groft uagtsom ved at efterlade sin rejsetaske – der blev stjålet – i reception i 45 min. 
 
-Se også Forsikringsankenævnets **sagsnr.: 86720** om en håndbagagetaske med værdifuldt indhold, som blev opbevaret i bagagerummet på en bus under transporten.
+Se også **Forsikringsankenævnets sagsnr.: 86720** om en håndbagagetaske med værdifuldt indhold, som blev opbevaret i bagagerummet på en bus under transporten.
 
 ---
 
 *Forsinket fremmøde* 
 
-Man kan få dækket udgifter til at indhente rejseruten, hvis man f.eks. ikke når en flyafgang på grund af uforudsete begivenheder. 
+Man kan få dækket udgifter til at indhente rejseruten, hvis man fx ikke når en flyafgang på grund af uforudsete begivenheder. 
  
 Kan man ikke nå det planlagte transportmiddel, skal man normalt kontakte selskabets alarmcentral hurtigst muligt. 
 
@@ -2296,11 +2325,11 @@ Bliver ens rejse betydeligt forsinket, kan man få dækket rimelige og nødvendi
 
 Man skal have dokumentation for forsinkelsen fra transportselskabet, og man skal bevise, hvilke rimelige ekstraomkostninger man har afholdt. 
 
-Se eksempelvis **sagsnr.: 86931**.
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 86931**.
 
 ---
 
-Se nærmere om de juridske lovregler ved pakkerejser og flyrejser i bogen: ***"Juraen på rejsen"*** AF JAKOB HAHN OG SONNY KRISTOFFERSEN, 1. udg., 2019:
+Se nærmere om de juridiske lovregler ved pakkerejser, se pakkerejseloven og flyrejser, se Forordning 261/2004 flypassagers rettigheder, i bogen: ***"Juraen på rejsen"*** AF *Jakob Hahn og Sonny Kristoffersen*, 1. udg., 2019:
 
 **https://shop.karnovgroup.dk/products/juraen-pa-rejsen**
 
@@ -2334,7 +2363,7 @@ Her dækkes udgifter til læge-/hospitalsbehandling, hvis man bliver akut syg un
 
 Man skal være opmærksom på, at en rejseforsikring ikke dækker i alle situationer. 
 
-F.eks. er udgifter til behandling af kroniske lidelser, som man har fået konstateret før afrejsen, ofte undtaget. 
+Fx er udgifter til behandling af kroniske lidelser, som man har fået konstateret før afrejsen, ofte undtaget. 
 
 Udgifterne kan dog være dækket, hvis ens kritiske sygdom er i en stabil fase og har været det i en vis periode – eksempelvis i 2 måneder.
 
@@ -2359,7 +2388,6 @@ Ellers risikerer man, at ens erstatning bortfalder eller nedsættes. Se mere om 
 
 Afbestillingsforsikring kan tegnes selvstændigt eller som tillæg til ens rejseforsikring eller ens familieforsikring.  
 
-
 Hvis man er nødt til at aflyse sin rejse, kan en afbestillingsforsikring sikre én mulighed for at få erstattet rejsens pris. 
 
 Hvis man afbestiller lige før afrejsen, får man nemlig sjældent penge tilbage fra rejsearrangøren.  
@@ -2373,7 +2401,7 @@ Der er også dækning i tilfælde af indbrud eller brand i ens bolig eller ens v
 
 ***Aktiv ferie***
 
-Skal man på aktiv ferie som f.eks. ski-, dykker- eller golfferie, er det muligt at tegne en rejseforsikring eller i nogle tilfælde få udvidet den bestående forsikring med en dækning for ødelagt ferie, hvis man ikke kan udføre de aktiviteter, der var formålet med ferien. 
+Skal man på aktiv ferie som fx ski-, dykker- eller golfferie, er det muligt at tegne en rejseforsikring eller i nogle tilfælde få udvidet den bestående forsikring med en dækning for ødelagt ferie, hvis man ikke kan udføre de aktiviteter, der var formålet med ferien. 
 
 Gælder ikke kun formålsbestemte aktive ferier, men typisk alle ferier.
 
@@ -2383,7 +2411,7 @@ Gælder ikke kun formålsbestemte aktive ferier, men typisk alle ferier.
 
 En årsrejseforsikring er en standardrejseforsikring, som kan købes hos forsikringsselskaberne, og som dækker rejser hele året. 
 
-Forsikirngen dækker typisk kun rejser op til 30 dages varighed. 
+Forsikringen dækker typisk kun rejser op til 30 dages varighed. 
 
 Årsrejseforsikringen kan være et tilkøb til ens indboforsikring. 
 
@@ -2395,7 +2423,7 @@ En erstatningsrejse kan komme på tale, når sygdom eller tilskadekomst medføre
 
 Det er således de alvorlige sygdomme/tilskadekomster, som berettiger til dækning. 
 
-Det kan f.eks. være solskoldning, sneblindhed, barsk influenza, lungebetændelse og hospitalsindlæggelse. 
+Det kan fx være solskoldning, sneblindhed, barsk influenza, lungebetændelse og hospitalsindlæggelse. 
 
 Det er vigtigt, at den behandlende læge i sin lægeerklæring til forsikringstageren beskriver diagnosen præcist og forklarer betingelserne for diagnosen. 
 
@@ -2963,7 +2991,7 @@ Forsikringsankenævnet har i **sagsnr.: 85614** taget stilling til, om undervisn
 
 ---
 
-Skader som f.eks. tyveri, brand og lignende, der kan overgå genstande, man har lånt, lejet, eller som på anden måde er i ens varetægt, vil være omfattet af ens indboforsikring.
+Skader som fx tyveri, brand og lignende, der kan overgå genstande, man har lånt, lejet, eller som på anden måde er i ens varetægt, vil være omfattet af ens indboforsikring.
 
 Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en naturlig opdagetrang. 
 
@@ -2972,9 +3000,6 @@ Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en
 <img src="img/bulldozer.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Et vidtgående eksempel er dommen i **U 1980.1082 Ø.** Her skulle forsikringsselskabet erstatte, at to 16-årige drenge havde formået at starte en bulldozer med en skruetrækker, hvorefter bulldozeren kørte i havnen:
-
-
-
 "Kort efter at A ved hjælp af en skruetrækker, som B rakte ham, havde startet bulldozeren, kørte den i havnen. hvorved der opstod betydelig skade på bulldozeren. B’s fader havde i et forsikringsselskab tegnet en privatforsikring. Undtaget fra selskabets ansvar var “forsætlige skader”, “skader på ting, der var i den sikredes varetægt” og “skader forvoldt under benyttelse af motordrevet køretøj”. B fandtes erstatningsansvarlig efter almindelige regler, da han ansås for forsætligt at have medvirket til, at bulldozeren begyndte at køre, og da han og A ved uagtsomt forhold havde forvoldt skaden, der måtte anses for påregnelig. Skaden ansås dækket af forsikringspolicen, da skaden ikke var forårsaget ved forsæt, da et varetægtsforhold ikke ansås for opstået ved den kortvarige benyttelse af bulldozeren, og da undtagelsesbestemmelsen vedrørende motordrevet køretøj efter sit indhold ikke klart omfattede skaden på det benyttede køretøj. Erstatningen omfattede skadelidtes “egne leverancer” og et beløb til dækning af administrationsudgifter". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000208150/1**
 
 
@@ -3023,9 +3048,9 @@ Reglen i FAL § 3 b omfatter imidlertid også tilfælde, hvor selskabet ikke umi
 
 Forsikringsselskabet skal endvidere efter anmodning begrunde enhver opsigelse af forsikringsaftalen. 
 
-Opsigelsen skal således begrundes, uanset om den har hjemmel i lovgivningen (f.eks. forsikringsaftaleloven) eller i forsikringsbetingelserne. 
+Opsigelsen skal således begrundes, uanset om den har hjemmel i lovgivningen (fx forsikringsaftaleloven) eller i forsikringsbetingelserne. 
 
-Opsigelsen skal endvidere begrundes, uanset om den foretages i forsikringstiden eller til forsikringstidens udløb (f.eks. ved etårige forsikringer, der fornys for et år ad gangen, medmindre forsikringen inden da opsiges af selskabet eller forsikringstageren).  
+Opsigelsen skal endvidere begrundes, uanset om den foretages i forsikringstiden eller til forsikringstidens udløb (fx ved etårige forsikringer, der fornys for et år ad gangen, medmindre forsikringen inden da opsiges af selskabet eller forsikringstageren).  
 
 Begrundelsen kun skal gives efter anmodning, dvs. fra den, der har ønsket forsikringen (ved afslag) eller fra forsikringstageren (ved opsigelse). 
 
@@ -3033,11 +3058,11 @@ Det er alene selskabets (potentielle) aftalepart (forsikringstageren), der kan k
 
 Begrundelsen skal indeholde en henvisning til relevante retsregler, herunder i forsikringsaftaleloven eller i forsikringsbetingelserne, jf. FAL § 3 b, stk. 2, 1. pkt. 
 
-Dette vil navnlig have betydning ved opsigelse, hvor det skal anføres i begrundelsen, hvilke bestemmelser f.eks. i forsikringsbetingelserne der giver selskabet mulighed for at opsige forsikringen. 
+Dette vil navnlig have betydning ved opsigelse, hvor det skal anføres i begrundelsen, hvilke bestemmelser fx i forsikringsbetingelserne der giver selskabet mulighed for at opsige forsikringen. 
 
 Der skal kun henvises til retsregler, der er relevante for selskabets beslutning. 
 
-Hvis selskabets afvisning af at tegne en forsikring f.eks. er begrundet i en ren risikovurdering, vil der således normalt ikke være retsregler at henvise til i selskabets begrundelse.  
+Hvis selskabets afvisning af at tegne en forsikring fx er begrundet i en ren risikovurdering, vil der således normalt ikke være retsregler at henvise til i selskabets begrundelse.  
 
 Begrundelsen skal endvidere indeholde en kort redegørelse for, hvorfor forsikringen ikke kan tegnes, eller hvorfor forsikringsaftalen opsiges.  
 
@@ -3045,7 +3070,7 @@ Begrundelsen skal udformes på en sådan måde, at den fremtræder som en forkla
 
 Begrundelsen skal angive de væsentligste forhold, herunder navnlig de væsentligste faktiske omstændigheder, der ligger til grund for selskabets beslutning, og skal være udformet sådan, at den må anses for egnet til i hovedtræk at give den forsikringssøgende/forsikringstageren en forståelse af baggrunden for forsikringsselskabets beslutning.
 
-Det skal fremgå af begrundelsen, hvilke forhold der i det konkrete tilfælde gør, at selskabet ikke (længere) ønsker at tegne den pågældende forsikring, f.eks. ved angivelse af de konkrete helbredsforhold, der gør, at forsikringen ikke kan tegnes eller kun kan tegnes på skærpede vilkår. 
+Det skal fremgå af begrundelsen, hvilke forhold der i det konkrete tilfælde gør, at selskabet ikke (længere) ønsker at tegne den pågældende forsikring, fx ved angivelse af de konkrete helbredsforhold, der gør, at forsikringen ikke kan tegnes eller kun kan tegnes på skærpede vilkår. 
 
 En generel henvisning alene til »de afgivne helbredsoplysninger« vil normalt ikke være tilstrækkelig.
 
@@ -3053,11 +3078,11 @@ Selskabets afvisning af at tegne en forsikring eller opsigelse af en allerede in
 
 I disse tilfælde behøver begrundelsen ikke at angive samtlige de forhold, som selskabet har lagt vægt på, men skal blot angive de væsentligste elementer, som ligger til grund for selskabets beslutning.
 
-Begrundelsen skal efter anmodning gives skriftligt, jf. FAL § 3b, stk. 2, 2. pkt., hvilket også vil kunne ske f.eks. via e-mail.
+Begrundelsen skal efter anmodning gives skriftligt, jf. FAL § 3b, stk. 2, 2. pkt., hvilket også vil kunne ske fx via e-mail.
 
 ![](img/lage.png)
 
-Ved afslag på at tegne en forsikring, som er begrundet i alvorlig sygdom eller lignende, anmoder forsikringsselskabet i dag i visse tilfælde f.eks. den forsikringssøgendes egen læge om over for den pågældende at redegøre nærmere for indholdet af de lægeerklæringer mv., som selskabet har modtaget. 
+Ved afslag på at tegne en forsikring, som er begrundet i alvorlig sygdom eller lignende, anmoder forsikringsselskabet i dag i visse tilfælde fx den forsikringssøgendes egen læge om over for den pågældende at redegøre nærmere for indholdet af de lægeerklæringer mv., som selskabet har modtaget. 
 
 Selskabet vil kunne henvise den forsikringssøgende til i første omgang at få gennemgået de lægelige oplysninger hos sin egen læge, men således at selskabet efterfølgende må give en skriftlig begrundelse, hvis den forsikringssøgende ønsker det. 
 
@@ -3067,7 +3092,7 @@ Dette vil navnlig være relevant, hvis den pågældende giver udtryk for utilfre
 
 Reglen indeholder ikke et krav om, at selskabet på statistisk eller andet videnskabeligt grundlag skal kunne dokumentere sin risikovurdering, eller i øvrigt skal redegøre nærmere for indholdet af sin almindelige forretningspolitik eller for den risikovurdering, der ligger til grund for selskabets beslutning. 
 
-Det vil f.eks. således normalt være tilstrækkeligt, at selskabet henviser til et eller flere konkrete elementer i de afgivne helbredsoplysninger og meddeler, at selskabet på denne baggrund ikke ønsker at tegne forsikringen eller kun at tegne den på skærpede vilkår.
+Det vil fx således normalt være tilstrækkeligt, at selskabet henviser til et eller flere konkrete elementer i de afgivne helbredsoplysninger og meddeler, at selskabet på denne baggrund ikke ønsker at tegne forsikringen eller kun at tegne den på skærpede vilkår.
 
 Begrundelsen giver den forsikringssøgende/forsikringstageren mulighed for at vurdere, om afvisningen/opsigelsen skyldes forhold, der kan ændres af den pågældende, således at forsikringen alligevel kan tegnes eller opretholdes (eventuelt på andre vilkår), ligesom den pågældende kan undersøge mulighederne for at tegne forsikringen i et andet selskab. 
 
@@ -3120,7 +3145,7 @@ Den udviste svig skal være relevant, dvs. at den skal være af betydning for fo
 
 Angår svigen derimod et betydningsløst forhold, kan forsikringsselskabet ikke påberåbe sig FAL § 4. 
 
-Det synes uafklaret, i hvilket omfang selskabet kan påberåbe sig svig, som kun har mindre betydning for selskabet, f.eks. i tilfælde, hvor selskabet normalt ville have tegnet forsikringen på ændrede vilkår, f.eks. til en forhøjet præmie eller med særlige klausuler i forsikringsbetingelserne.  
+Det synes uafklaret, i hvilket omfang selskabet kan påberåbe sig svig, som kun har mindre betydning for selskabet, fx i tilfælde, hvor selskabet normalt ville have tegnet forsikringen på ændrede vilkår, fx til en forhøjet præmie eller med særlige klausuler i forsikringsbetingelserne.  
 
 Forsikringsselskabet har bevisbyrden for, at forsikringstageren har udvist svig, og at den udviste svig er af betydning for forsikringsselskabet. 
 
@@ -3307,7 +3332,7 @@ Se fra sager fra praksis:
 
 ### <font color="red">Præmien (betalingen) for forsikringen<sup> Premium </font></sup>
 
-Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det f.eks. kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
+Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det fx kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
 
 Forsikringstageren kan også vælge kvartalsvis, halvårlig eller helårlig betaling af præmien.  
 
@@ -3337,7 +3362,7 @@ Combined ratio kan beregnes brutto eller for egen regning.
 
 ***Om præmiens betaling:***
 
-En typisk forbrugerforsikring som Familiens Basisforsikring indeholder f.eks. følgende vilkår:   
+En typisk forbrugerforsikring som Familiens Basisforsikring indeholder fx følgende vilkår:   
 
 "Påkrav om betaling sendes til den opgivne betalingsadresse. Ændres betalingsadressen, skal selskabet straks underrettes. Betales præmien ikke, sender selskabet en påmindelse om betaling af præmien. Påmindelsen fremsendes tidligst 14 dage efter forfaldsdagen. Denne påmindelse indeholder oplysning om, at forsikringens dækning ophører, hvis præmien ikke er blevet betalt senest 14 dage efter afsendelsen af påmindelsen. Hvis selskabet har udsendt en sådan påmindelse, er det berettiget til at opkræve et ekspeditionsgebyr".
 
@@ -3364,7 +3389,7 @@ Bruger man den korte opsigelse, koster det normalt et gebyr.
 
 Har man haft forsikringen i mere end 1 år, vil gebyret være omkring 50 kroner. 
 
-Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, f.eks. 500 kroner. 
+Har man derimod haft forsikringen i mindre end 1 år, kan gebyret være væsentlig højere, fx 500 kroner. 
 
 Grunden til, at der er et gebyr, er, at forsikringsselskaberne har haft udgifter, da de oprettede forsikringen. 
 
@@ -3597,7 +3622,7 @@ Dommen i **U 2003.2269 H** – Grov uagtsomhed ikke godtgjort ved kollision efte
 
 ---
 
-Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra f.eks. håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. 
+Skal forsikringsselskabet erstatte skaden således, at selskabet betaler indkomne fakturaer fra fx håndværkere, tandlæge eller kiropraktor, skal selskabet normalt ikke betale renter til forsikringstageren. 
 
 Betaler forsikringstageren derimod selv eksempelvis håndværkeren, og forsikringsselskabet skal erstatte forsikringstagerens udlæg, forrentes forsikringstagerens krav som udgangspunkt 14 dage efter, at forsikringsselskabet har modtaget fakturaen og forsikringstagerens meddelelse om, at forsikringstageren har betalt (forudsat, at de øvrige betingelser er opfyldt).  
 
@@ -3740,7 +3765,7 @@ Tegner man flere forsikringer på samme tid i forsikringsselskabet, kan man risi
 
 ---
 
-Se eksempelvis **Forsikringsankenævnets sagsnr.: 99208.** Hvor klageren i forbindelse med køb af indbo-, bil- og ulykkesforsikring i selskabet havde sat kryds i "nej" som svar på spørgsmålet: "Har et selskab over for en i husstanden inden for de seneste tre år stillet krav om skærpede vilkår (f.eks. forhøjet præmie og/eller selvrisiko) efter anmeldelse af skade(r)?": "Klagerens tidligere bilforsikringsselskab havde 4 måneder før sendt et brev til klageren, hvor det oplyste, at det forhøjede selvrisikoen. Nævnet fandt, at selskabet ved fremlæggelse af sine interne acceptregler kunne sandsynliggøre, at det, såfremt klageren havde afgivet korrekte oplysninger, ikke ville have tegnet andre forsikringer end den lovpligtige ansvarsforsikring for bilen. Nævnet kunne derfor ikke kritisere, at selskabet havde ophævet alle forsikringerne – bortset fra ansvarsforsikringen for bilen – med tilbagevirkende kraft til tegningstidspunktet. Klageren fik som konsekvens heraf ikke udbetalt erstatning for et indbrudstyveri".
+Se eksempelvis **Forsikringsankenævnets sagsnr.: 99208.** Hvor klageren i forbindelse med køb af indbo-, bil- og ulykkesforsikring i selskabet havde sat kryds i "nej" som svar på spørgsmålet: "Har et selskab over for en i husstanden inden for de seneste tre år stillet krav om skærpede vilkår (fx forhøjet præmie og/eller selvrisiko) efter anmeldelse af skade(r)?": "Klagerens tidligere bilforsikringsselskab havde 4 måneder før sendt et brev til klageren, hvor det oplyste, at det forhøjede selvrisikoen. Nævnet fandt, at selskabet ved fremlæggelse af sine interne acceptregler kunne sandsynliggøre, at det, såfremt klageren havde afgivet korrekte oplysninger, ikke ville have tegnet andre forsikringer end den lovpligtige ansvarsforsikring for bilen. Nævnet kunne derfor ikke kritisere, at selskabet havde ophævet alle forsikringerne – bortset fra ansvarsforsikringen for bilen – med tilbagevirkende kraft til tegningstidspunktet. Klageren fik som konsekvens heraf ikke udbetalt erstatning for et indbrudstyveri".
 
 ---
 
@@ -3817,7 +3842,7 @@ Genforsikringsaftaler involverer endvidere betaling af provision fra genforsikri
 ### <font color="red">Under- og dobbeltforsikring<sup> Premium </font></sup>
 
 
-Forsikringssummen på ens forsikring skal altid mindst svare til forsikringsværdien af f.eks. indboet. 
+Forsikringssummen på ens forsikring skal altid mindst svare til forsikringsværdien af fx indboet. 
 
 Dvs. hvad det vil koste at genanskaffe alt dit indbo i tilfælde af en totalskade – fx en brand. 
 
@@ -3977,7 +4002,7 @@ Klagen skal angå et konkret økonomisk mellemværende:
 
 Klagen skal altså angå et spørgsmål af økonomisk betydning. 
 
-Ankenævnet kan ikke behandle klager over f.eks. ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed. 
+Ankenævnet kan ikke behandle klager over fx ansattes opførsel, et forsikringsselskabs markedsføring eller andre generelle forhold. Ankenævnet er således ikke et disciplinærnævn eller en tilsynsmyndighed. 
 
 ---
 
@@ -4014,7 +4039,7 @@ Stk. 2. Nævnets formand kan på nævnets vegne afvise sager, som ikke skønnes 
 
 *Behandling af klage* 
 
-Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, f.eks. Finanstilsynet, eller andre anke- eller klagenævn. 
+Ankenævnet kan ikke behandle klagen, hvis behandling hører under offentlige myndigheder, fx Finanstilsynet, eller andre anke- eller klagenævn. 
 
 Nævnet kan heller ikke behandle klagen, hvis ens sag er afgjort ved endelig dom, gyldigt bindende voldgift eller retsforlig.  
 
@@ -4186,7 +4211,7 @@ Det er normalt en betingelse, at ens erhvervsevnetab opstår i forsikringstiden,
 
 Ophører man med at indbetale til en pensionsordning, vil ens erhvervsevnetabsforsikring typisk ophøre – eventuelt efter en vis overgangsperiode.  
 
-Har man eksempelvis en arbejdsgiverbetalt pensionsordning, og ophører man med at arbejde – f.eks. fordi man bliver arbejdsløs – er det vigtigt, at man undersøger, hvordan man fremover vil være dækket. 
+Har man eksempelvis en arbejdsgiverbetalt pensionsordning, og ophører man med at arbejde – fx fordi man bliver arbejdsløs – er det vigtigt, at man undersøger, hvordan man fremover vil være dækket. 
 
 Mange forsikringspensionsselskaber giver mulighed for, at man kan fortsætte med selv at indbetale til pensionen og på den måde opretholde sin forsikring mod erhvervsevnetab. 
 
@@ -4380,7 +4405,7 @@ Det skyldes, at forsikringsselskabet foretager en konkret og selvstændig vurder
 
 ---
 
-Se f.eks. klagesagerne fra **Forsikringsankenævnet i sagsnr.: 86746** (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3): 
+Se fx klagesagerne fra **Forsikringsankenævnet i sagsnr.: 86746** (8 timers fleksjob, erhvervsevne var ikke nedsat med 2/3): 
 
 **Forsikringsankenævnets sagsnr.: 85017** (10 timers fleksjob, erhvervsevne nedsat med mindst 1/2), 
 
@@ -4443,7 +4468,7 @@ I sidstnævnte tilfælde vil det være en konkret vurdering, om ens erhvervsevne
 
 ---
 
-Se f.eks. **Forsikringsankenævnets sagsnr.: 85493** (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning). Klager over afvisning af at anerkende et erhvervsevnetab på 2/3, og at hun ikke blev anset for omfattet af nye forsikringsbetingelser:
+Se fx **Forsikringsankenævnets sagsnr.: 85493** (erhvervsevnetabet var indtrådt forud for optagelsen i en ny pensionsordning). Klager over afvisning af at anerkende et erhvervsevnetab på 2/3, og at hun ikke blev anset for omfattet af nye forsikringsbetingelser:
 "Klager pådrog sig en diskusprolaps i 2009 og blev opereret 3 gange i 2009 og 1 gang i 2011. Hun var sygemeldt frem til den 1/6 2012, hvor hun genoptog sit arbejde. Hun blev pr. 1/10 2013 tilkendt fleksjob med 12-14 timer/uge. Pr. 1/1 2013 fusionerede hendes selskab med AP Pension. Hun anførte, at hun ved fusionen blev omfattet af AP Pensions mere lempelige betingelser, og at selskabet derfor skulle yde fuld invalidepension og præmie fritagelse. Hun gjorde gældende, at hendes erhvervsevne var nedsat med 2/3. Selskabet afviste, at klager blev omfattet af de mere lempelige betingelser pr. 1/1 2013, da hendes erhvervsevne allerede var nedsat i dækningsberettigende grad fra den 1/2 2012, og at hun derfor ikke var fuldt arbejdsdygtig på fusionstidspunktet. Selskabet anførte også, at klagers erhvervsevne alene var nedsat med mellem 1/2 og 2/3. Nævnet fandt, at klagers erhvervsevnetab var indtrådt allerede i 2012, og at klagers sag derfor skulle vurderes efter de dagældende betingelser. Nævnet fandt, at klager ikke havde dokumenteret, at hendes erhvervsevne var nedsat med mindst 2/3. Selskab medhold".
 
 ---
@@ -4569,7 +4594,7 @@ Svarene bruger forsikringsselskabet til at vurdere den helbredsmæssige risiko.
 
 I de fleste tilfælde får oplysningerne om helbredet ingen betydning for forsikringstegningen, men har man helbredsforhold, der medfører øget risiko for kortere levetid, sygelighed eller uarbejdsdygtighed, kan det betyde, at forsikringen bliver tilbudt på skærpede vilkår - enten med en højere præmie eller med en klausul for helbredsforholdet. 
 
-For visse forsikringstyper, f.eks. nogle gruppelivsforsikringer, er det ikke muligt at tilbyde forsikring på skærpede vilkår. 
+For visse forsikringstyper, fx nogle gruppelivsforsikringer, er det ikke muligt at tilbyde forsikring på skærpede vilkår. 
 
 En helbredsmæssig forøget risiko vil derfor i nogle tilfælde betyde, at man ikke kan tegne forsikringen. 
 
@@ -4853,7 +4878,7 @@ Forsikringsproduktet knytter sig ikke til det produkt, som banken yder, men knyt
 
 Aflønning er fast, når den endelige værdi af løndelen er kendt på forhånd. 
 
-Fast aflønning er kendt på forhånd, når den er gennemsigtig med hensyn til det beløb, som tildeles og udbetales, f.eks. regelmæssigt på månedsbasis til modtageren. 
+Fast aflønning er kendt på forhånd, når den er gennemsigtig med hensyn til det beløb, som tildeles og udbetales, fx regelmæssigt på månedsbasis til modtageren. 
 
 Fast aflønning er endvidere af permanent karakter og uigenkaldelig. 
 
@@ -5090,7 +5115,7 @@ At kanalen tillige skal være uafhængig og selvstændig betyder, at der skal et
 
 ![](img/whi4.jpg)
 
-Det kan f.eks. være direkte til den afdeling eller ansatte, som behandler indberetningerne. 
+Det kan fx være direkte til den afdeling eller ansatte, som behandler indberetningerne. 
 
 Det kan eksempelvis være en complianceansvarlig eller en anden funktion, der er uafhængig af den daglige ledelse, herunder den ansattes foresatte.
 
@@ -5098,7 +5123,7 @@ Forsikringsformidleren og genforsikringsformidleren skal følge op på indberetn
 
 ![](img/whi2.jpg)
 
-At indberetninger skal kunne foretages anonymt indebærer, at den, der indberetter en overtrædelse, kan gøre dette fuldstændigt anonymt f.eks. via en løsning på formidlerens intranet, hvor der kan indsendes indberetninger uden angivelse af navn, uden mulighed for sporing af computerens IP-adresse og lignende. 
+At indberetninger skal kunne foretages anonymt indebærer, at den, der indberetter en overtrædelse, kan gøre dette fuldstændigt anonymt fx via en løsning på formidlerens intranet, hvor der kan indsendes indberetninger uden angivelse af navn, uden mulighed for sporing af computerens IP-adresse og lignende. 
 
 Indberetningerne bør som udgangspunkt alene være tilgængelige for den afdeling eller medarbejder, som behandler indberetningerne. Dette kan eksempelvis være den complianceansvarlige.
 
@@ -5126,7 +5151,7 @@ En forsikringsformidler og en genforsikringsformidler kan imidlertid ikke fraskr
 
 Ordningen kan etableres via kollektiv overenskomst. 
 
-I praksis betyder det, at arbejdsmarkedets parter efter aftale med formidleren har mulighed for at etablere en ordning i f.eks. et fagforbund, hvortil ansatte i formidleren kan indberette overtrædelser. 
+I praksis betyder det, at arbejdsmarkedets parter efter aftale med formidleren har mulighed for at etablere en ordning i fx et fagforbund, hvortil ansatte i formidleren kan indberette overtrædelser. 
 
 En whistleblowerordning, der baserer sig på en aftale mellem de forhandlingsberettigede parter, skal leve op til kravene i loven.
 
@@ -5460,7 +5485,7 @@ Størstedelen af de beløb, der optræder i forsikringsselskabers regnskaber und
 
 **Solvensdækning** er et udtryk for forholdet mellem solvensmargenen og basiskapitalen. 
 
-Hvis et forsikringsselskabs solvensdækning udgør f.eks. 350 %, betyder det, at selskabets basiskapital er så stor, at den dækker selskabets solvensmargen 3½ gang.
+Hvis et forsikringsselskabs solvensdækning udgør fx 350 %, betyder det, at selskabets basiskapital er så stor, at den dækker selskabets solvensmargen 3½ gang.
 
 ---
 

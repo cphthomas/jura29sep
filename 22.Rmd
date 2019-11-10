@@ -1,7 +1,7 @@
-# <font color="red">God skik for den finansielle virksomhed og erstatningsansvaret<sup> Premium </font></sup>
+# <font color="red">God skik for den finansielle virksomhed samt erstatningsansvaret<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('npp.html'))
+# cat(readLines('npp.html'))
 ```
   
 
@@ -16,7 +16,7 @@ Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse 
 
 ---
 
-**Lov om finansiel virksomhed**, se nærmere lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+**Lov om finansiel virksomhed**, se nærmere loven (forkortet "FIL") i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -30,7 +30,9 @@ Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsma
 <img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom Det Finansielle Ankenævn og Forsikringsankenævnet, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
+Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom 
+Det Finansielle Ankenævn **https://fanke.dk/** og 
+Forsikringsankenævnet **http://ankeforsikring.dk/Sider/default.aspx**, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
 
 Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
 
@@ -41,8 +43,6 @@ Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighe
 **Video: Rundvisning i Finanstilsynet**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/F0yv4eVfaxg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
 
 ---
 
@@ -75,7 +75,7 @@ Robinsonlisten er et register, hvor man kan frabede sig uanmodede henvendelser m
 
 I sagen havde syv forbrugere tilmeldt sig Robinsonlisten, og de havde ikke givet Forsikringsselskabet Vendsyssel særskilt samtykke til at ringe. Men det gjorde Forsikringsselskabet Vendsyssel alligevel, hvilket nu har resulteret i en bøde til selskabet, efter at Forbrugerombudsmanden gik ind i sagen.
 
-Forbrugerombudsmand *Christina Toftegaard Nielsen*, siger:
+Forbrugerombudsmand *Christina Toftegaard Nielsen*, udtalte:
 
 ”Når en forbruger tilmelder sig Robinsonlisten, ønsker han eller hun at blive fri for enhver form for telefonsalg. Det skal virksomhederne respektere.”
 
@@ -103,7 +103,7 @@ Disse spørgsmål afgøres af de private finansielle ankenævn, og i den sidste 
 
 
 
-Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.] Se bekendtgørelsen i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**  
+Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.] Se bekendtgørelsen i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**  
 
 ---
 
@@ -131,7 +131,7 @@ Rigtigheden af angivelser om faktiske forhold skal kunne dokumenteres.
 
 De former for adfærd, der er opregnet i godskik-bekendtgørelsens bilag 1, anses under alle omstændigheder for at være urimelige i private kundeforhold, og er ikke tilladt.  
 
-*Ex. på følgewnde former for vildlendende markedsføring (ikke en udtømmende liste):*  
+*Ex. på følgende former for vildlendende markedsføring (der er ikke en udtømmende liste):*  
 
 1) Den finansielle virksomhed hævder at have underskrevet en adfærdskodeks, selv om det ikke er tilfældet.
 
@@ -169,7 +169,7 @@ De former for adfærd, der er opregnet i godskik-bekendtgørelsens bilag 1, anse
 
 ![](img/agre1.jpg)
 
-*Aggressiv markedsføring*
+*Ex på aggressiv markedsføring*
 
 17)	Kunden bringes til at tro, at han ikke kan forlade lokalerne, før en kontrakt er indgået.
 
@@ -283,7 +283,7 @@ Den finansielle virksomhed kan lægge kundens oplysninger til grund, medmindre d
 
 ![](img/finans2.jpg)
 
-Rådgivning skal tage udgangspunkt i relevante oplysninger indhentet i henhold til bekendtgørelsens § 9 og det kendskab, den finansielle virksomhed i øvrigt har til kundens forhold, jf. godskikbekendtgørelsens § 10.  
+Rådgivning skal tage udgangspunkt i relevante oplysninger indhentet i henhold til bekendtgørelsens § 9 og det kendskab, den finansielle virksomhed i øvrigt har til kundens forhold, jf. godskik-bekendtgørelsens § 10.  
 
 En finansiel virksomhed skal anmode kunden om at opdatere oplysninger indhentet i henhold til godskik-bekendtgørelsens § 9, i det omfang det er nødvendigt for at kunne yde kunden rådgivning i løbende kundeforhold.  
 
@@ -374,7 +374,7 @@ Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelsk
 ### <font color="red">Finanstilsynets fortolkning af begrebet god skik i forhold til pengeinstitutter<sup> Premium </font></sup>
 
 
-*Finanstilsynet har truffet bl.a. følgende afgørelser om god skik i forhold til pengeinstitutterne:*
+*Finanstilsynet har truffet bl.a. følgende afgørelser om god skik overholdelse i forhold til pengeinstitutterne:*
 
 
 
@@ -463,11 +463,7 @@ Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelsk
 ![](img/basis.png)
 
 
-**Afgørelse af 20. juni 2019:** Kunder får bevilget lån de ikke kan betale tilbage
-To banker med speciale i hurtige forbrugslån fik  påbud om at foretage en ordentlig vurdering af, om kunderne kan betale tilbage, inden de får bevilget et lån. Påbuddene til Ekspres Bank og Basisbank kommer på baggrund af en større undersøgelse af temaet, som Finanstilsynet offentliggjorde tidligere i år. De to banker skulle senest til september dokumentere, at der for hver enkelt kunde sker en realistisk vurdering af, om kunden kan betale afdragene, og det vel at mærke inden, banken bevilger lånet.
-
-Finanstilsynet havde afdækket, at begge banker havde ydet lån på op til 75.000 kr. uden at beregne kundernes rådighedsbeløb, selv om banker som hovedregel netop skal gøre dette.
-Undersøgelsen viste også, at bankerne, når de faktisk beregnede rådighedsbeløb, systematisk lagde lave rådighedsbeløb til grund. Rådighedsbeløbene var på 3.000 kr. måned pr. voksen og 1.500 kr. pr. måned for børn.
+**Afgørelse af 20. juni 2019:** Kunder får bevilget lån de ikke kan betale tilbage. To banker med speciale i hurtige forbrugslån fik  påbud om at foretage en ordentlig vurdering af, om kunderne kan betale tilbage, inden de får bevilget et lån. Påbuddene til Ekspres Bank og Basisbank kommer på baggrund af en større undersøgelse af temaet, som Finanstilsynet offentliggjorde tidligere i år. De to banker skulle senest til september dokumentere, at der for hver enkelt kunde sker en realistisk vurdering af, om kunden kan betale afdragene, og det vel at mærke inden, banken bevilger lånet. Finanstilsynet havde afdækket, at begge banker havde ydet lån på op til 75.000 kr. uden at beregne kundernes rådighedsbeløb, selv om banker som hovedregel netop skal gøre dette. Undersøgelsen viste også, at bankerne, når de faktisk beregnede rådighedsbeløb, systematisk lagde lave rådighedsbeløb til grund. Rådighedsbeløbene var på 3.000 kr. måned pr. voksen og 1.500 kr. pr. måned for børn.
 
 ---
 
@@ -488,7 +484,7 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 
 
-*Finanstilsynet har truffet følgende retningsgivne afgørelser uden for området for pengeinstitutter:*  
+*Finanstilsynet har truffet følgende retningsgivne afgørelser uden for området for pengeinstitutter vedrørende overholdelse af god skik:*  
 
 **Afgørelse af 27. november 2006:** Et fondsmæglerselskab handlede i strid med redelig forretningsskik og god praksis, da selskabet udsendte markedsføringsmateriale om salg af svenske præmieobligationer, som efter en samlet vurdering måtte betegnes som uigennemskueligt og egnet til at bibringe forbrugere en fejlagtig opfattelse af, at de er særligt udvalgt til at vinde en milliongevinst.  
 
@@ -514,7 +510,7 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 ---
 
-**Afgørelse af 9. oktober 2008:** I strid med god skik at rette uanmodet henvendelse til aktionærer.  
+**Afgørelse af 9. oktober 2008:** I strid med god skik at rette uanmodet henvendelse til aktionærer, jf. også forbuddet om uanmodet henvendelser til forbrugere i markedsføringslovens § 10, stk. 1 og forbrugeraftalelovens § 4..  
 
 ---
 
@@ -578,7 +574,7 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 
 
-Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) Se bekendtgørelsen i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) Se bekendtgørelsen i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -688,7 +684,7 @@ Efter forsikringsbekendtgørelsens § 16, stk. 2, skal dokumentet med oplysninge
 
 1) Være et kort og selvstændigt dokument.
 
-2) Udformes og opstilles således, at det er klart og let læseligt, med brug af en læsevenlig skriftstørrelse.
+2) Udformes og opstilles således, at det er klart og let læseligt, med brug af en læsevenlig skriftstørrelse, jf. også koncipistreglen i aftalelovens § 38b.
 
 3) Være lige så forståeligt, hvis det oprindeligt er affattet i farver, men udskrives eller fotokopieres i sort-hvid.
 
@@ -771,7 +767,7 @@ Alle forsikringsaftaler, der foreslås kunden, skal være i overensstemmelse med
 
 ---
 
-Når en forsikringsdistributør yder rådgivning, inden en forsikringsaftale indgås, skal forsikringsdistributøren give en individuel anbefaling, der forklarer, hvorfor et bestemt produkt bedst opfylder kundens forsikringskrav og –behov, jf. forsikringsbekendtgørelsens § 21. 
+Når en forsikringsdistributør yder rådgivning, inden en forsikringsaftale indgås, skal forsikringsdistributøren give en individuel anbefaling, der forklarer, hvorfor et bestemt produkt bedst opfylder kundens forsikringskrav og –behov, jf. nærmere forsikringsbekendtgørelsens § 21. 
 
 ---
 
@@ -788,9 +784,11 @@ Selskabet skal i oversigten på tydelig måde gøre opmærksom på, at der kan v
 
 ---
 
-Anmeldes en skade på papir eller på andet varigt medium, skal forsikringsselskabet, hvis der gives helt eller delvis afslag på forsikringsdækning, meddele dette på papir eller på andet varigt medium, medmindre det klart fremgår af omstændighederne, at afslag kan meddeles på anden måde, jf. forsikringsbekendtgørelsens § 25.  
+Anmeldes en skade på papir eller på andet varigt medium, skal forsikringsselskabet, hvis der gives helt eller delvis afslag på forsikringsdækning, meddele dette på papir eller på andet varigt medium, medmindre det klart fremgår af omstændighederne, at afslag kan meddeles på anden måde, jf. nærmere forsikringsbekendtgørelsens § 25.  
 
-Anmeldes en skade på anden måde, har anmelderen efter anmodning krav på afslag i papirformat eller på andet varigt medium. Forbrugeren skal informeres om denne adgang.  
+Anmeldes en skade på anden måde, har anmelderen efter anmodning krav på afslag i papirformat eller på andet varigt medium. 
+
+Forbrugeren skal informeres om denne adgang.  
 
 ---
 
@@ -802,7 +800,7 @@ Anmeldes en skade på anden måde, har anmelderen efter anmodning krav på afsla
 
 Kapitel 11 i forsikringsbekendtgørelsen fastsætter supplerende krav til uafhængige forsikringsformidlere.  
 
-Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidling^[Lov nr. 41 af 22. januar 2018 om forsikringsformidling.],  indhenter tilbud på forsikringsaftaler for kunden hos en eller flere forsikringsdistributører (forsikringsselskaber), skal den uafhængige forsikringsformidler samtidig give de informationer til forsikringsdistributøren, der er nødvendige for, at forsikringsdistributøren kan fastsætte prisen på forsikringen, jf. forsikringsbekendtgørelsens § 26.  
+Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidling^[Lov nr. 41 af 22. januar 2018 om forsikringsformidling.], indhenter tilbud på forsikringsaftaler for kunden hos en eller flere forsikringsdistributører (forsikringsselskaber), skal den uafhængige forsikringsformidler samtidig give de informationer til forsikringsdistributøren, der er nødvendige for, at forsikringsdistributøren kan fastsætte prisen på forsikringen, jf. forsikringsbekendtgørelsens § 26.  
 
 ---
 
@@ -810,7 +808,9 @@ I pensionsordninger omfattet af pensionsbeskatningslovens afsnit I skal den uafh
 
 Den uafhængige forsikringsformidler skal samtidig oplyse forsikringsdistributøren om længden af den periode, hvori kunden og den uafhængige forsikringsformidler har aftalt, at honoraret skal indregnes i forsikringspræmien. 
 
-Perioden må ikke overstige tre år. Forsikringsdistributøren skal indregne dette honorar i forsikringspræmien og betale honoraret til den uafhængige forsikringsformidler, jf. forsikringsbekendtgørelsens § 27.   
+Perioden må ikke overstige tre år. 
+
+Forsikringsdistributøren skal indregne dette honorar i forsikringspræmien og betale honoraret til den uafhængige forsikringsformidler, jf. forsikringsbekendtgørelsens § 27.   
 
 ---
 
@@ -922,7 +922,7 @@ Efter forsikringsbekendtgørelsens § 35 kan forsikringsformidlere eller forsikr
 
 ---
 
-Om egnethedstest, jf. forsikringsbekendtgørelsens § 36:  
+Om *egnethedstest*, jf. forsikringsbekendtgørelsens § 36:  
 
 Når en forsikringsformidler eller et forsikringsselskab yder rådgivning om et forsikringsbaseret investeringsprodukt, skal formidleren eller selskabet indhente de nødvendige oplysninger om kundens kendskab til og erfaring på det investeringsområde, som er relevant for den specifikke form for produkt eller tjenesteydelse, samt for kundens finansielle situation, herunder den pågældende persons evne til at bære et tab, investeringsmål, og den pågældende persons risikovillighed, så forsikringsformidleren eller forsikringsselskabet kan anbefale kunden de forsikringsbaserede investeringsprodukter, der egner sig for vedkommende.  
 
@@ -938,7 +938,7 @@ På baggrund af oplysningerne skal forsikringsformidleren eller forsikringsselsk
 
 ---
 
-Udelukkende ordreudførelse (execution only), jf. forsikringsbekendtgørelsens § 38  
+Udelukkende ordreudførelse (*execution only*), jf. forsikringsbekendtgørelsens § 38  
 
 Når en forsikringsformidler eller et forsikringsselskab ikke yder rådgivning om forsikringsbaserede investeringsprodukter (execution only), kan formidleren eller selskabet undlade at opfylde forpligtelserne i forsikringsbekendtgørelsens § 37, stk. 1, når følgende betingelser er opfyldt:  
 
@@ -987,7 +987,7 @@ Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet 
 
 ---
 
-*Fra Finanstilsynets praksis om forsikrings- og pensionsselskaber kan nævnes følgende afgørelser:* 
+*Finanstilsynets praksis om forsikrings- og pensionsselskaber kan nævnes følgende afgørelser:* 
 
 **Finanstilsynets afgørelse af 11. marts 2003:** Det var ikke i strid med god skik, at et forsikringsselskab havde en politik om kun at betjene dansktalende personer, specielt herunder når der er tale om en praktisk foranstaltning som i det foreliggende tilfælde, hvor man ikke havde ressourcer til at ansætte personer, der var forsikringskyndige i andre sprog end dansk.  
 
@@ -1049,7 +1049,7 @@ Selskabet har på baggrund af sagen fået påbud om at informere og rådgive de 
 
 Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom. 
 
-Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen), se nærmere lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen), se nærmere Lovsamlingen i kapiel 26: **https://jura.tepedu.dk/lovsamling.html.** 
 
 Den finansielle virksomhed er omfattet af boligkreditbekendtgørelsens regler, hvis den finansielle virksomhed yder lån til en forbruger mod pant i fast ejendom og andelsbolig. 
 
@@ -2144,11 +2144,11 @@ Fintech er teknologi, der anvendes til at levere finansielle services (fintech e
 
 Fintech-virksomheder er finansielle virksomheder, der leverer alternative løsninger til den etablerede finansielle industri. 
 
-Processer og workflow, der tidligere blev håndteret i manuelle eller analoge processer, tilbydes og gennemføres nu i større og større omfang via digitale interfaces  – fintech.
+Processer og workflow, der tidligere blev håndteret i manuelle eller analoge processer, tilbydes og gennemføres nu i større og større omfang via digitale interfaces – fintech.
 
 ---
 
-**DEN MODERNE UDVIKLING AF FINTECH**
+**Den moderne udvikling af Fintech**
 
 ![](img/fin6.jpg)
 
@@ -2259,7 +2259,7 @@ Blockchain er særligt interessant for den finansielle industri, da det er tekno
 
 Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel på sorte markeder og til køb af ulovlige varer. 
 
-Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin  foretaget. 
+Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin foretaget. 
 
 En bitcoin kan traditionelt opdeles i 100.000.000 dele, som hver kan indkodes med hvilket som helst aktiv, hvad end det er 1 krone eller en aktie i et selskab. 
 

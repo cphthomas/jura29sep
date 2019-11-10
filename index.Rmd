@@ -1,6 +1,6 @@
 --- 
 title: "Erhvervs- og Finansjura"
-author: "Sonny Kristoffersen"
+author: "Af Sonny Kristoffersen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
+# cat(readLines('fp.html'))
 ```
 
 
@@ -67,11 +67,13 @@ Alt i alt en godt struktureret materialesamling, hvor den studerende har rig mul
 
 ***Denne materialesamling er kun til personligt brug. Alle rettigheder forbeholdes. Fotografering, kopiering eller anden gengivelse af dette materiale, er uden forfatterens skriftlige samtykke, forbudt, ifølge dansk lov om ophavsret.***
 
-***Materialesamlingens videoer, quizer, prodcast, domme, Finanstilsynets afgørelser, nævnsafgørelser samt latinske betegnelser fra romerretten mv., er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen***
+***Materialesamlingen anvendes i faget “Erhvervs- og Finansjura” på 1. og 2. semester, samt i brancheretningsfaget “Finansiel Rådgivning" på 3. semester, og materialesamlingen kan med fordel anvendes ved udarbejdelsen af hovedopgaven på 4. semester. Materialesamlingen kan bruges under den skriftlige eksamen, hvor der er netadgang.***
 
-***Materialesamlingen indeholder tidligere eksamensopgaver med rettevejledninger, samt studenteropgaver***
+***Materialesamlingens talrige videoer, quizer, podcast, domme, Finanstilsynets afgørelser, nævnsafgørelser, samt latinske-juridiske betegnelser fra romerretten mv., er ikke at betragte som en del af pensum, men er et supplement til pensum for at fremme din yderligere forståelse for Erhvervs- og Finansjuraen.***
 
-***Der er mulighed for at søge i materialesamlingen og selv at tilføje sine egne noter i materialesamlingen.***
+***Materialesamlingen indeholder tidligere eksamensopgaver med tilhørende rettevejledninger, samt studenteropgaver.***
+
+***Der er mulighed for at søge i materialesamlingen og man kan selv tilføje sine egne noter i materialesamlingen via programmet "Ourstrikys".***
 
 ***Link til dommene i materialesamlingen til karnovslovsamling/UfR (Ugeskrift for Retsvæsen), kræver opkompling hjemmefra via "fjernskrivebordet". Se nærmere vejledningen for opkomplingen for MAC og PC på Sharepoint/materiale/Erhvervs- og Finansjura. På skolen er der automatisk opkomling på Karnovslovsamling***. 
 

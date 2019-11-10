@@ -1,7 +1,7 @@
 # <font color="red">Tinglysning af rettigheder<sup> Premium </font></sup>  
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('npp.html'))
+# cat(readLines('npp.html'))
 ```
 
 ![](img/tinglysning5.jpg)
@@ -18,7 +18,7 @@ Rettigheder over en fast ejendom, f.eks. ejendomsret (skøder), pant (pantebreve
  
 Rettigheder over biler, campingvogne mv. som f.eks. ejendomsforbehold, pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og dødsfald, men ikke ejendomsret og brugsrettigheder.
 
-Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af Tinglysningslovens kapitel 6 b, f.eks. pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke f.eks. ejendomsret og brugsrettigheder.
+Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af tinglysningslovens kapitel 6 b, fx pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke fx ejendomsret og brugsrettigheder.
 
 Rettigheder over en virksomheds aktiver og fremtidige erhvervelser (virksomhedspant), rettigheder over bl.a. løsøre og ægtepagter.
 
@@ -27,7 +27,7 @@ Se kapitel 20 om tingsretlige konflikter.
 ---
 
 Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
-om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+om tinglysning, se nærmere tinglysningsloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 
 ---
@@ -36,9 +36,9 @@ om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lo
 
 Tinglysning er en sikringsakt, hvor rettighedshaveren sikrer sin rettighed (ejendomsret, pant mv.) mod andre rettigheder, der stiftes efterfølgende, og som strider mod ens egen rettighed. 
 
-Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler samt kreditorforfølgning (f.eks. udlæg) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. 
+Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler, samt kreditorforfølgning (fx udlæg) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. 
 
-Når en ejendom bliver solgt, bliver skøde og købsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at køber nu ejer ejendommen, hvis f.eks.  
+Når en ejendom bliver solgt, bliver skøde og købsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at køber nu ejer ejendommen, hvis fx  
 
 Sælgeren af ejendommen sælger ejendommen til andre og får tinglyst dette skøde,
 
@@ -48,7 +48,7 @@ Sælgers kreditorer foretager udlæg i ejendommen og får tinglyst udlægget,
 
 Sælger bliver erklæret konkurs eller
 
-Sælger giver andre en begrænset rettighed over ejendommen (f.eks. en brugsret), og denne rettighed bliver tinglyst.
+Sælger giver andre en begrænset rettighed over ejendommen (fx en brugsret), og denne rettighed bliver tinglyst.
 
 Tinglysning kan også være relevant for en kreditor, som yder lån mod pant i en fast ejendom. Kreditor sikrer sin prioritetsstilling over for andre utinglyste panterettigheder ved at få tinglyst sin rettighed.
 
@@ -58,7 +58,7 @@ For ægtepagter er tinglysning en gyldighedsbetingelse.
 
 ---
 
-*Prioritet*
+Hvad der menes med *Prioritet:*
 
 Rettigheder tinglyst som adkomst, pant eller byrde/servitut bliver opstillet i rangorden. 
 
@@ -129,11 +129,11 @@ Behandling af en tinglysningsanmeldelse kan resultere i:
    
 Der skal betales tinglysningsafgift i forbindelse med anmeldelse af de fleste typer af dokumenter.
 
-På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden hvor man henter tingbogsattester:  
+På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester samt udskrift af dokumenter tinglyst efter 7. september 2009, klik på billedet for at besøge siden, hvor man henter tingbogsattester:  
 
-<a href="https://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">
-<img border="0" alt="https://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%">
-</a>
+**<a href="https://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" target="_blank">**
+
+**<img border="0" alt="https://www.tinglysningsretten.dk/attester/Pages/Fast%20ejendom.aspx" src="img/tinglysning2.png" width="100%"></a>**
 
 
 ---
@@ -144,13 +144,13 @@ På www.tinglysning.dk har man desuden mulighed for at hente tingbogsattester sa
 
 Tinglysning er således en offentlig registrering af:
 
-Rettigheder over en fast ejendom, f.eks. ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). 
+Rettigheder over en fast ejendom, fx ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). 
 
 Siden 8. september 2009 er rettigheder over fast ejendom blevet tinglyst i Det Digitale Tinglysningssystem.
 
-Rettigheder over biler, campingvogne mv. som f.eks. ejendomsforbehold, pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og dødsfald, men ikke ejendomsret og brugsrettigheder. 
+Rettigheder over biler, campingvogne mv. som fx ejendomsforbehold, pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og dødsfald, men ikke ejendomsret og brugsrettigheder. 
 
-Siden 2. november 2010 er rettigheder over ovennævnte blevet tinglyst i Det Digitale Tinglysningssystem.  
+Siden den 2. november 2010 er rettigheder over ovennævnte blevet tinglyst i Det Digitale Tinglysningssystem.  
 
 Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af Tinglysningslovens kapitel 6 b, f.eks. pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke f.eks. ejendomsret og brugsrettigheder. 
 
@@ -158,7 +158,7 @@ Siden 21. marts 2011 er rettigheder over disse blevet tinglyst i Det Digitale Ti
 
 Rettigheder over en virksomheds aktiver og fremtidige erhvervelser (virksomhedspant), rettigheder over bl.a. løsøre og ægtepagter. 
 
-Siden 21. marts 2011 er rettigheder over disse rettigheder blevet tinglyst i Det Digitale Tinglysningssystem.
+Siden den 21. marts 2011 er rettigheder over disse rettigheder blevet tinglyst i Det Digitale Tinglysningssystem.
 
 
 ---
@@ -504,11 +504,12 @@ I Personbogen bliver det også registreret, hvis en person kun kan råde over si
 
 I Personbogen kan kreditorer også registrere rettigheder over andet løsøre end biler.
 
-Notartestamenter bliver registreret i Centralregisteret for Testamenter. 
- 
-Hvilke rettigheder kan blive tinglyst i Personbogen?
+Notartestamenter bliver registreret i Centralregisteret for Testamenter.
 
 ---
+ 
+*Hvilke rettigheder der kan blive tinglyst i Personbogen:*
+
 
 *Ægtepagter*:
 
@@ -626,25 +627,26 @@ I den situation kræves der en erklæring fra kreditor, fra debitor (eventuelt f
 
 *Erklæringen skal indeholde*:
 
-bekræftelse på, at pantebrevet begæres konverteret til digitalt pantebrev, og at det ikke er overdraget til anden kreditor kreditors identitet - inkl. cpr- eller cvr-nr orientering om, hvorvidt pantet var håndpantsat (og skal være underpantsat) plus cpr- eller cvr-nr. for denne eller disse rettighedshavere.
+En bekræftelse på, at pantebrevet begæres konverteret til digitalt pantebrev, og at det ikke er overdraget til anden kreditor kreditors identitet - inkl. cpr- eller cvr-nr orientering om, hvorvidt pantet var håndpantsat (og skal være underpantsat) plus cpr- eller cvr-nr. for denne eller disse rettighedshavere.
 
 For vedtægter til en ejerforening, der er lyst pantstiftende for under 45.000 kr. vil det i de fleste tilfælde være tilstrækkeligt, at der foreligger ovennævnte erklæring fra kreditor.
 
-Tinglysningsretten tager konkret stilling, når vi har modtaget anmodningen om konvertering sammen med de relevante erklæringer.
+Tinglysningsretten tager konkret stilling, når retten har modtaget anmodningen om konvertering sammen med de relevante erklæringer.
 
 Anmodningen samt de relevante erklæringer skal fremsendes per brev til Tinglysningsretten. 
 
 ---
 
-OBS!
 
-*Ejendomsret*
+*Ejendomsretten*
 
-Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. Der er ikke lovkrav om tinglysning af en ejendomsret. 
+Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. 
+
+Der er ikke lovkrav om tinglysning af en ejendomsret. 
 
 Men det er en god idé at få ejendomsretten tinglyst:
 
-Da man ellers kan få sin ret fortrængt af andre rettigheder, da dokumentet kan blive væk
+Da man ellers kan få sin ret fortrængt af andre rettigheder, da dokumentet kan blive væk.
 
 Da salg, pantsætning og anden disposition over ejendommen som udgangspunkt kun kan ske, når man har tinglyst ejendomsretten.
 
@@ -705,8 +707,10 @@ Tinglysningen er samlet under Tinglysningsretten i Hobro, og al tinglysning fore
 Hovedloven: Lovbekendtgørelse nr. 1075 af 30. september 2014 om tinglysning
 <a href="https://www.tinglysningsretten.dk/hvad/lovgrundlag/Pages/default.aspx" target="_blank">Links til love, bekendtgørelser og cirkulærer om tinglysning.</a>
 
+Se nærmere tinglysningsloven i lovsamlingen i kapitel 26:
+**https://jura.tepedu.dk/lovsamling.html.**
 
-Retsinformation.dk indeholder alene de officielle sammenskrivninger i form af lovbekendtgørelser og datasammenskrivninger, der udarbejdes af ministerierne.
+*https://www.retsinformation.dk/* indeholder alene de officielle sammenskrivninger i form af lovbekendtgørelser og datasammenskrivninger, der udarbejdes af ministerierne: Link 
 
 Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuelle ændringer til den lov, der søges. Ændringer vil fremgå til højre på den pågældende side.
 
