@@ -1,7 +1,7 @@
 # Arveretten
 
 ```{r, echo=FALSE, results='asis'}
-#cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ![](img/arv2.jpg)
