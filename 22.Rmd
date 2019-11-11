@@ -1,7 +1,7 @@
 # <font color="red">God skik for den finansielle virksomhed samt erstatningsansvaret<sup> Premium </font></sup>
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('npp.html'))
+cat(readLines('npp.html'))
 ```
   
 
