@@ -30,8 +30,10 @@ Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsma
 <img src="img/FO.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom 
+Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom:
+
 Det Finansielle Ankenævn **https://fanke.dk/** og 
+
 Forsikringsankenævnet **http://ankeforsikring.dk/Sider/default.aspx**, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
 
 Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
@@ -327,7 +329,15 @@ Hvis en finansiel virksomhed rådgiver om forhold, som kan være af væsentlig �
 
 Hvis et forsikringsselskab ikke har kendskab til den enkelte kundes identitet, eller hvor der i en forsikringsordning er en bemyndiget, kan de krævede oplysninger udleveres til den fysiske eller juridiske person, der er bemyndiget til at modtage dette materiale.  
 
-En finansiel virksomhed skal oplyse en kunde om de sikkerhedsforanstaltninger, der bør iagttages ved et givent produkt eller ydelse, herunder hvilke sikkerhedsmæssige krav kunden skal efterleve, og hvilket ansvar kunden kan ifalde ved tredjemands misbrug, jf. godskik-bekendtgørelsens § 14.  
+En finansiel virksomhed skal oplyse en kunde om de sikkerhedsforanstaltninger, der bør iagttages ved et givent produkt eller ydelse, herunder hvilke sikkerhedsmæssige krav kunden skal efterleve, og hvilket ansvar kunden kan ifalde ved tredjemands misbrug, jf. godskik-bekendtgørelsens § 14. 
+
+---
+
+**Studenteropgave**
+
+Redegører nærmere for begrebet god skik for finansielle virksomheder, samt Finanstilsynets praksis på området.
+
+Link til Finanstilsynets praksis om fortolkning af god skik for de finanssielle virksomheder: **https://www.finanstilsynet.dk/search?searchString=god%20skik&pagetype=undefined&filter=undefined&options=(take:20)(skip:0)(sort:)**
 
 ---
 
@@ -481,9 +491,6 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 ### <font color="red">Principielle god skik afgørelser på hele det finansielle område<sup> Premium </font></sup>
 
 
-
-
-
 *Finanstilsynet har truffet følgende retningsgivne afgørelser uden for området for pengeinstitutter vedrørende overholdelse af god skik:*  
 
 **Afgørelse af 27. november 2006:** Et fondsmæglerselskab handlede i strid med redelig forretningsskik og god praksis, da selskabet udsendte markedsføringsmateriale om salg af svenske præmieobligationer, som efter en samlet vurdering måtte betegnes som uigennemskueligt og egnet til at bibringe forbrugere en fejlagtig opfattelse af, at de er særligt udvalgt til at vinde en milliongevinst.  
@@ -574,7 +581,9 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 
 
-Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”) Se bekendtgørelsen i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; forsikringsbekendtgørelsen) fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”).
+
+Se bekendtgørelsen i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -1169,6 +1178,12 @@ En boligkreditgiver må som udgangspunkt kun tilbyde boligkreditaftaler med pant
 
 ---
 
+**Studenteropgave**
+
+Beskriv nærmere, hvordan en bolikreditrådgiver bedst muligt overholder god skik for boligkreditrådgivning.
+
+---
+
 ### <font color="red">Afgørelse om boligkredit<sup> Premium </font></sup>
 
 
@@ -1188,7 +1203,9 @@ Finanstilsynet modtog den 17. november 2016 Jyske Banks redegørelse 2016 og mod
 
 Det fremgår af oplysningerne, at Jyske Bank var opmærksom på de nye regler om kombinationssalg i bekendtgørelsen om god skik for boligkredit, og at forretningsgangene for prioritetslån (også kaldet Jyske Bankboliglån) nu var blevet tilrettet i overensstemmelse hermed.
 
-Tilretningen af forretningsgangen og orientering af rådgiverne skete imidlertid først i forbindelse med en nødvendig udvikling af it-systemerne i banken. Løsningen var derfor først klar til implementering i forhold til bankens rådgivere den 7. november 2016. Det fremgår nu af den gældende forretningsgang, at prioritetslånene kan tilbydes til såvel hel- som delkunder på de vilkår, som er beskrevet i forretningsgangen. 
+Tilretningen af forretningsgangen og orientering af rådgiverne skete imidlertid først i forbindelse med en nødvendig udvikling af it-systemerne i banken. Løsningen var derfor først klar til implementering i forhold til bankens rådgivere den 7. november 2016. 
+
+Det fremgår nu af den gældende forretningsgang, at prioritetslånene kan tilbydes til såvel hel- som delkunder på de vilkår, som er beskrevet i forretningsgangen. 
 
 I perioden fra den 9. maj 2016 til 7. november 2016 stillede Jyske Bank i henhold til sin forretningsgang krav om etablering af et helkundeforhold som betingelse for at yde et prioritetslån (Jyske Bankboliglån).  
 
@@ -1226,7 +1243,11 @@ Ankenævnets afgørelse:
 Danske Bank skal inden 30 dage anerkende at være erstatningsansvarlig over for klagerne for det påregnelige tab som følge af, at de i 2017 igangsatte det omhandlede projekt på deres ejendom i stedet for at sælge ejendommen, som den var.
 Klagerne får klagegebyret tilbage".
 
+---
 
+**Studenteropgave**
+
+Find klagesager i Det Finansielle Ankenævn om erstatningskrav ved boligkreditrådgivning.
 
 ---
 
@@ -1428,7 +1449,7 @@ Formålet med MiFID II og MiFIR er at øge de finansielle markeders sikkerhed og
 
 Mange af reglerne i MiFID II og MiFIR skal ses i lyset af begivenhederne under den finansielle krise, der blev indledt med Lehman Brothers’ konkurs i 2008. 
 
-De skal også ses i lyset af den seneste teknologiske udvikling med blandt andet lynhurtige handler foretaget af computere, der kan give anledning til voldsomme prisudsving inden for kort tid, som f.eks. under ”lynkrakket” i USA i maj 2010.
+De skal også ses i lyset af den seneste teknologiske udvikling med blandt andet lynhurtige handler foretaget af computere, der kan give anledning til voldsomme prisudsving inden for kort tid, som fx under ”lynkrakket” i USA i maj 2010.
 
 ---
 
@@ -1457,10 +1478,9 @@ Hvis værdipapirhandleren ikke udøver investeringsrådgivning, men blot gennemf
 
 Med hensigtsmæssighedstesten skal værdipapirhandleren vurdere, om kundens kendskab til og erfaring med det ønskede produkt er tiltrækkeligt til, at det er hensigtsmæssigt for kunden at investere i produktet.
 
-
 Værdipapirhandleren kan undlade at gennemføre hensigtsmæssighedstesten og foretage handlen som execution only, hvis værdipapirhandleren gennemfører ordrer, der udelukkende vedrører ikkekomplekse produkter. 
 
-Det kan f.eks. være aktier, der er optaget til handel på et reguleret marked, investeringsforeningsbeviser mv. 
+Det kan fx være aktier, der er optaget til handel på et reguleret marked, investeringsforeningsbeviser mv. 
 
 Med MiFID II opdateres listen over ikke-komplekse produkter. Disse fremgår af § 13 i bekendtgørelse nr. 747 af 7. juni 2017 om investorbeskyttelse ved værdipapirhandel.
 
@@ -1473,11 +1493,11 @@ Med MiFID II opdateres listen over ikke-komplekse produkter. Disse fremgår af �
 
 Investeringskunder skal efter investorbekendtgørelsens § 4 samt dennes bilag opdeles i følgende 3 kategorier:
 
-*	Godkendte modparter (andre finansielle virksomheder fx pensionsinstitut)
+*	Godkendte modparter (andre finansielle virksomheder fx pensionsinstitut).
 
-*	Professionelle kunder (større virksomheder)
+*	Professionelle kunder (større virksomheder).
 
-*	Detailkunder (resten – dvs. de fleste kunder – både virksomheder og privatpersoner)
+*	Detailkunder (resten – dvs. de fleste kunder – både virksomheder og privatpersoner).
 
 --- 
 
@@ -1493,7 +1513,9 @@ Kendskab til og erfaring på det investeringsområde, som er relevant for det sp
 
 Når en værdipapirhandler yder investeringsrådgivning og porteføljepleje skal værdipapirhandleren, med udgangspunkt i de i § 10, stk. 1 nævnte oplysninger, anbefale kunden den tjenesteydelse og de finansielle instrumenter, der egner sig for kunden og som er i overensstemmelse med vedkommendes risikovillighed og evne til at bære et tab.  
 
-Når en værdipapirhandler yder investeringsrådgivning, som munder ud i en anbefaling om krydssalg, skal værdipapirhandleren sikre, at den samlede pakke af tjenesteydelser eller produkter er egnet for kunden.  
+Når en værdipapirhandler yder investeringsrådgivning, som munder ud i en anbefaling om krydssalg, skal værdipapirhandleren sikre, at den samlede pakke af tjenesteydelser eller produkter er egnet for kunden.
+
+---
 
 Det følger af investorbekendtgørelsens § 11, at når en værdipapirhandler udøver investeringsrådgivning til en detailkunde, skal værdipapirhandleren, inden transaktionen foretages, udarbejde en erklæring om egnethed, hvoraf det fremgår, hvilken type investeringsrådgivning der er ydet, og hvordan denne rådgivning stemmer overens med kundens præferencer, mål og andre karakteristika. 
 
@@ -1589,6 +1611,7 @@ Værdipapirhandleren opfylder forpligtelserne i § 72, stk. 2, nr. 2, i lov om f
 *	Porteføljepleje
 
 +	Fuldmagt til at foretage investeringer på kundens vegne.
+
 +	Medfører pligt til at udarbejde investeringsprofil og udføre en egnethedstest.
 
 *	Udførelse/formidling af ordrer for detailkunder.
@@ -1648,10 +1671,13 @@ Værdipapirhandler skal træffe alle rimelige foranstaltninger for at opnå det 
 
 Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende faktorer:
 
-+	Pris
-+	Omkostninger
-+	Hurtighed
-+	Gennemførelses- og afregningssandsynlighed
++	Pris.
+
++	Omkostninger.
+
++	Hurtighed.
+
++	Gennemførelses- og afregningssandsynlighed.
   
 ---
   
@@ -1887,19 +1913,19 @@ Bekendtgørelsen finder anvendelse på pengeinstitutter og fondsmæglerselskaber
 Ved *investeringsprodukt* forstås:
 
 
-*	Instrumenter jf. bilag 5 i lov om finansiel virksomhed
+*	Instrumenter jf. bilag 5 i lov om finansiel virksomhed.
 
 
-*	Strukturerede indlånsprodukter
+*	Strukturerede indlånsprodukter.
 
 
-*	Garantbeviser
+*	Garantbeviser.
 
 
-*	Andelsbeviser
+*	Andelsbeviser.
 
 
-*	Pantebreve 
+*	Pantebreve.
 
 ---
 
@@ -1908,23 +1934,23 @@ Ved *investeringsprodukt* forstås:
 
 Den ansatte skal have 6 måneders dokumenteret fuldtidserfaring med ydelsen af den tjenesteydelse, som den ansatte yder og kompetencer inden for følgende områder:  
 
-*	Relevant lovgivning
+*	Relevant lovgivning.
 
-+	Bekendtgørelse om investorbeskyttelse ved værdipapirhandel med vejledning
++	Bekendtgørelse om investorbeskyttelse ved værdipapirhandel med vejledning.
     
-+	Bekendtgørelse om værdipapirhandleres udførelse af ordrer med vejledning
++	Bekendtgørelse om værdipapirhandleres udførelse af ordrer med vejledning.
     
-+	Bekendtgørelse om god skik for finansielle virksomheder med vejledning
++	Bekendtgørelse om god skik for finansielle virksomheder med vejledning.
     
-+	Bekendtgørelse om risikomærkning med vejledning
++	Bekendtgørelse om risikomærkning med vejledning.
   
-+	Udvalgte dele af lov om værdipapirhandel i form af et overordnet kendskab til reglerne om markedsmisbrug
++	Udvalgte dele af lov om værdipapirhandel i form af et overordnet kendskab til reglerne om markedsmisbrug.
   
 +	Udvalgte dele af lov om finansiel virksomhed i form af kendskab til, hvilke finansielle instrumenter, som er omfattet af loven, jf. bilag 5.
     
-*	Investeringsprodukter 
+*	Investeringsprodukter. 
 
-*	Økonomisk forståelse 
+*	Økonomisk forståelse. 
 
 
 Virksomheden skal sikre, at de af dens ansatte, der yder investeringsrådgivning, rådgivning om puljer eller formidler information om investeringsprodukter. 
@@ -2017,7 +2043,7 @@ Der er ingen erstatning for skuffede forventninger i den finansielle branche fx:
   
 +	Forventninger til, at værdipapirernes kurs stiger.
 
-Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bankkunden have lidt et økonomisk tab  
+Men hvis fx bankrådgiveren har garanteret et bestemt rådighedsbeløb, vil bankkunden have lidt et økonomisk tab.  
 
 ...
 
@@ -2034,8 +2060,7 @@ Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ve
 ---
 
 Bestyrelsen og direktionen kan også pådrage sig et erstatningsansvar, jf. **U 2019.1907 H**, hvor bestyrelsesformand, bestyrelsesmedlem og direktør i bank var erstatningsansvarlige for uforsvarlig långivning i banken i relation til konkrete udlånsarrangementer:
-
-"Sagen angik, om bestyrelsesformanden, A, et bestyrelsesmedlem, B, og en direktør, C, i en bank havde pådraget sig erstatningsansvar over for banken, der var gået konkurs og var overtaget af Finansiel Stabilitet, F, for tab på 11 konkrete udlånsengagementer bevilget i perioden 2007-2009. Højesteret fandt, at F havde kompetence til at indtale erstatningskrav som sket og havde en erstatningsretlig værnet interesse. Højesteret udtalte sig generelt om ansvarsvurderingen efter selskabsretlige regler (selskabslovens § 361) og i forbindelse med lånebevillinger, herunder om betydningen af advarsler fra Finanstilsynet, eventuelle lovovertrædelser og overtrædelser af bankens interne regler. Højesteret fandt det ikke godtgjort, at banken havde været indrettet og drevet på en måde, der i sig selv kunne begrunde et erstatningsansvar for tab på de 11 udlånsengagementer. Det beroede således på en konkret vurdering af det enkelte udlånsengagement, om de kunne pålægges erstatningsansvar. Højesteret fandt, at der forelå erstatningsansvar med hensyn til bankens tab i ni af de 11 lånearrangementer, idet ledelsesmedlemmerne havde handlet ansvarspådragende ved at bevilge lån eller foretage andre dispositioner, mens der ikke forelå et ansvarsgrundlag for så vidt angik to af arrangementerne. Erstatningsansvaret var ikke bortfaldet som følge af meddelt decharge på bankens generalforsamlinger, og der var ikke grundlag for at lempe erstatningsansvaret hverken efter selskabslovgivningen eller erstatningsansvarsloven. Højesteret opgjorde kravet til ca. 89 mio. kr., idet parterne var enige i beløbsmæssige justeringer i forhold til landsrettens dom. Højesteret stadfæstede herefter i realiteten landsrettens dom".
+"Sagen angik, om bestyrelsesformanden, A, et bestyrelsesmedlem, B, og en direktør, C, i en bank havde pådraget sig erstatningsansvar over for banken, der var gået konkurs og var overtaget af Finansiel Stabilitet, F, for tab på 11 konkrete udlånsengagementer bevilget i perioden 2007-2009. Højesteret fandt, at F havde kompetence til at indtale erstatningskrav som sket og havde en erstatningsretlig værnet interesse. Højesteret udtalte sig generelt om ansvarsvurderingen efter selskabsretlige regler (selskabslovens § 361) og i forbindelse med lånebevillinger, herunder om betydningen af advarsler fra Finanstilsynet, eventuelle lovovertrædelser og overtrædelser af bankens interne regler. Højesteret fandt det ikke godtgjort, at banken havde været indrettet og drevet på en måde, der i sig selv kunne begrunde et erstatningsansvar for tab på de 11 udlånsengagementer. Det beroede således på en konkret vurdering af det enkelte udlånsengagement, om de kunne pålægges erstatningsansvar. Højesteret fandt, at der forelå erstatningsansvar med hensyn til bankens tab i ni af de 11 lånearrangementer, idet ledelsesmedlemmerne havde handlet ansvarspådragende ved at bevilge lån eller foretage andre dispositioner, mens der ikke forelå et ansvarsgrundlag for så vidt angik to af arrangementerne. Erstatningsansvaret var ikke bortfaldet som følge af meddelt decharge på bankens generalforsamlinger, og der var ikke grundlag for at lempe erstatningsansvaret hverken efter selskabslovgivningen eller erstatningsansvarsloven. Højesteret opgjorde kravet til ca. 89 mio. kr., idet parterne var enige i beløbsmæssige justeringer i forhold til landsrettens dom. Højesteret stadfæstede herefter i realiteten landsrettens dom". Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000833530/1**
 
 ---
 
@@ -2063,7 +2088,9 @@ Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansva
 
 Aktuelt er der udstedt bkg 2016 330 om god skik for finansielle virksomheder, bkg 2018 1581 om god skik for boligkredit og bkg 2017 747 om investorbeskyttelse ved værdipapirhandel.]  
 
-Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen. 
+Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. 
+
+Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen. 
 
 Det vil sige, at de almindelige erstatningsretlige betingelser skal være opfyldt. 
 
@@ -2082,6 +2109,12 @@ Spørgsmålet om ansvarsgrundlagets tilstedeværelse er alene aktuelt i de situa
 Det vil næppe i sig selv kunne medføre erstatningsansvar, hvis overtrædelsen vedrører en regel, der må betragtes som en ren ordensforskrift. 
 
 Det beror på en konkret vurdering hos domstolene eller ved de finansielle ankenævn, om en overtrædelse af reglerne i god skik bekendtgørelserne medfører erstatningsansvar.  
+
+---
+
+**Studenteropgave**
+
+Beskriver nærmere hvilket erstatningsansvar en finansiel virksomhed har for fejlagtig rådgivning i forbindelse med en kundes økonomiske tab.
 
 ---
 
@@ -2107,7 +2140,7 @@ I 2016 blev der globalt foretaget venture capital investeringer i fintech for DK
 
 Den hurtige teknologiske udvikling og øgede interesse i fintech har betydelig indflydelse på den eksisterende “analoge” finansielle sektor. 
 
-En nyere undersøgelse viser f.eks., at omkring 60 % af finansansatte forventer, at hele eller del af deres arbejde vil blive automatiseret gennem ny teknologi . 
+En nyere undersøgelse viser fx, at omkring 60 % af finansansatte forventer, at hele eller del af deres arbejde vil blive automatiseret gennem ny teknologi . 
 
 Står denne forventning til trone, vil det indebære, at den traditionelle finansielle sektor står over for en stor og hurtig omvæltning, hvor ny teknologi vil blive implementeret på bekostning af arbejdspladser, men med effektivisering og vækst som konsekvens.
 
@@ -2130,7 +2163,7 @@ Finansielle services leveres traditionelt af pengeinstitutter, realkreditinstitu
 
 Eftersom finansielle services typisk indebærer, at erhvervsdrivende behandler eller rådgiver om brugen af andres penge, er industrien tæt reguleret af såvel dansk regler som regler udstedt af den Europæiske Union (EU). 
 
-Finansielle virksomheder reguleres mest nævneværdigt af lov om finansielle virksomheder, men der findes også anden lovgivning inden for industrien, f.eks. lov om værdipapirhandel, lov om betalingstjenester, hvidvaskloven, databeskyttelsesloven, m.fl., som kan finde anvendelse på en finansiel virksomhed.
+Finansielle virksomheder reguleres mest nævneværdigt af lov om finansielle virksomheder, men der findes også anden lovgivning inden for industrien, fx lov om værdipapirhandel, lov om betalingstjenester, hvidvaskloven, databeskyttelsesloven, m.fl., som kan finde anvendelse på en finansiel virksomhed.
 
 ---
 
@@ -2204,14 +2237,14 @@ Inden for økonomistyring optræder en lang række services lige fra at tilbyde 
 
 Detailbankforretningen bliver mere og mere digital og automatiseret, og pengeinstitutter kan i stigende omfang tilbyde traditionelle bankløsninger uden personlige og fysiske bankrådgivere. 
 
-Afslutningsvist skyder der flere og flere elektroniske markedspladser op i takt med, at penge og pengesubstitutter hurtigere og hurtigere skifter hænder. Disse markedspladser anvendes til at handle med ikke mindst værdipapirer, men også f.eks. fordringer og valutaer, herunder *bitcoin*.
+Afslutningsvist skyder der flere og flere elektroniske markedspladser op i takt med, at penge og pengesubstitutter hurtigere og hurtigere skifter hænder. Disse markedspladser anvendes til at handle med ikke mindst værdipapirer, men også fx fordringer og valutaer, herunder *bitcoin*.
 
 ---
 
 
 *Det fremtidige fintech-økosystem*
 
-Fintech-industrien er i rivende udvikling, og nye kategorier skyder frem hele tiden, herunder f.eks. regtech og insurtech, som senest har tiltrukket sig en del opmærksomhed . 
+Fintech-industrien er i rivende udvikling, og nye kategorier skyder frem hele tiden, herunder fx regtech og insurtech, som senest har tiltrukket sig en del opmærksomhed . 
 
 *Regtech* er teknologi til sikring af overholdelse af regler, og *insurtech* er teknologi inden for forsikringsvirksomhed. 
 
@@ -2227,9 +2260,9 @@ Med *kunstig intelligens* menes computere, der kan “tænke selv” og således
 
 Kunstig intelligens anvendes i dag mest inden for adfærdsgenkendelse. 
 
-Google anvender f.eks. en algoritme til at spore besøgendes adfærd på Internettet, hvormed søgemaskinen kan vise resultater, der umiddelbart er mest relevante eller ønskværdige for brugeren. 
+Google anvender fx en algoritme til at spore besøgendes adfærd på Internettet, hvormed søgemaskinen kan vise resultater, der umiddelbart er mest relevante eller ønskværdige for brugeren. 
 
-I kraft med at computeres analyseevner bliver bedre og bedre, kan teknologien anvendes mere og mere i den finansielle sektor i form af f.eks. computergenereret investeringsrådgivning og screening for svindel, som der gives eksempler på nedenfor.
+I kraft med at computeres analyseevner bliver bedre og bedre, kan teknologien anvendes mere og mere i den finansielle sektor i form af fx computergenereret investeringsrådgivning og screening for svindel, som der gives eksempler på nedenfor.
 
 *Blockchain* er i forhold til kunstig intelligent et nyt fænomen. 
 
@@ -2257,21 +2290,16 @@ Blockchain er særligt interessant for den finansielle industri, da det er tekno
 
 *Bitcoin* er en kryptovaluta og et betalingssystem. 
 
-Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel på sorte markeder og til køb af ulovlige varer. 
-
-Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin foretaget. 
-
-En bitcoin kan traditionelt opdeles i 100.000.000 dele, som hver kan indkodes med hvilket som helst aktiv, hvad end det er 1 krone eller en aktie i et selskab. 
-
-Derfor kan de fleste transaktioner foretages med bitcoins (eller “satoshis”, som en 100 milliontedel af en bitcoin populært kaldes, der er den mindste nuværende opdeling svarende til 0,00000001 BTC).
+Mange associerer fortsat bitcoin med et digitalt betalingsmiddel, der anvendes som betalingsmiddel på sorte markeder og til køb af ulovlige varer.
+Sikkerheden bag bitcoin og andre kryptovalutaer stiger dog, og i 2016 blev den første transaktion med Bitcoin foretaget. En bitcoin kan traditionelt opdeles i 100.000.000 dele, som hver kan indkodes med hvilket som helst aktiv, hvad end det er 1 krone eller en aktie i et selskab. Derfor kan de fleste transaktioner foretages med bitcoins (eller “satoshis”, som en 100 milliontedel af en bitcoin populært kaldes, der er den mindste nuværende opdeling svarende til 0,00000001 BTC).
 
 Det er fortsat uvist, hvor stor betydning en udvikling i brugen af kryptovaluater kommer til at få for den finansielle industri. 
 
 I dag foretages der kun et begrænset antal transaktioner med kryptovalutaer. 
 
-Selvom det er meget usandsynligt, at kryptovalutaer kommer til at erstatte nationale eller internationale valutaer, eftersom disse ikke er centraliserede fra stater eller banker, og der således ikke kan betales f.eks. skat med valutaerne, er der risiko for, at udvidet brug af kryptovalutaer kan ramme den finansielle sektor hårdt. 
+Selvom det er meget usandsynligt, at kryptovalutaer kommer til at erstatte nationale eller internationale valutaer, eftersom disse ikke er centraliserede fra stater eller banker, og der således ikke kan betales fx skat med valutaerne, er der risiko for, at udvidet brug af kryptovalutaer kan ramme den finansielle sektor hårdt. 
 
-Kendetegnet ved kryptovalutaer og blockchain er, at man skærer en mellemmand ud, som man med gængse valutaer normalt vil anvende til at verificere eller bistå med transaktionens gennemførsel, f.eks. en bank, revisor, advokat eller notar. 
+Kendetegnet ved kryptovalutaer og blockchain er, at man skærer en mellemmand ud, som man med gængse valutaer normalt vil anvende til at verificere eller bistå med transaktionens gennemførsel, fx en bank, revisor, advokat eller notar. 
 
 Denne proces foretages i stedet af parterne selv, og de mange personer, som fører den identiske blockchain rundt omkring i verden.
 
@@ -2303,7 +2331,7 @@ De beskrevne teknologier kan svært siges at indeholdes i den eksisterende finan
 
 Det er dog ikke kun inden for den finansielle regulering, der kan opstå udfordringer. 
 
-Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, kommer også hurtigt til at udfordre aktualiteten af f.eks. *skatte-, persondata- og hvidvaskreglerne, erstatningsreglerne og god skik-reglerne*.
+Adgangen til hurtigere og nemmere transaktioner, som teknologien åbner op for, kommer også hurtigt til at udfordre aktualiteten af fx *skatte-, persondata- og hvidvaskreglerne, erstatningsreglerne og god skik-reglerne*.
 
 ---
 
@@ -2337,7 +2365,7 @@ Stigningen fra 2015 til 2016 alene var på 10,9 %. Det er herudover anslået, at
 
 Fintech-industrien kan som en af de få industrier også prale med at være med til at vækste sig selv. 
 
-Nye fintech løsninger inden for långivning og finansiering, f.eks. crowdfunding (f.eks. crowdinvest.dk), gør, at kapitalsøgende virksomheder får nem og hurtig adgang til kontakt med investorer. 
+Nye fintech løsninger inden for långivning og finansiering, fx crowdfunding (fx crowdinvest.dk), gør, at kapitalsøgende virksomheder får nem og hurtig adgang til kontakt med investorer. 
 
 Når virksomheder får mulighed for at søge kapital hos flere tusinde investorer ad gangen, så øges sandsynligheden for at lykkedes med sin kapitalsøgning.
 
@@ -2384,7 +2412,7 @@ Af udvalgte krav, som lovgivningen stiller til finansielle virksomheder, kan næ
 
 Til lov om finansiel virksomhed er 8 bilag, som oplister et bredt udsnit af forretningsmæssige aktiviteter. 
 
-Såfremt man ønsker at drive virksomheder med en eller flere af disse aktiviteter, driver man finansiel virksomhed som f.eks. pengeinstitut, realkreditinstitut, forsikringsselskab eller værdipapirhandler, mv. 
+Såfremt man ønsker at drive virksomheder med en eller flere af disse aktiviteter, driver man finansiel virksomhed som fx pengeinstitut, realkreditinstitut, forsikringsselskab eller værdipapirhandler, mv. 
 
 Udøvelse af disse aktiviteter kræver som udgangspunkt tilladelse fra Finanstilsynet, der er tilsynsførende myndighed med finansielle virksomheder.
 
@@ -2481,7 +2509,7 @@ Alle finansielle virksomheder skal overholde god skik og praksis inden for virks
 
 Fælles for dem alle er dog, at reglerne har til hensigt at beskytte de finansielle virksomheders kunder ved at påbyde dem oplysningsforpligtelser, løbende overvågning over kundernes behov og sætte uddannelsesmæssige krav til de finansielle virksomheders medarbejdere. 
 
-De finansielle virksomheder skal udarbejde skriftlige forretningsgange med henblik på at overholde disse krav, og forretningsgange skal løbende evalueres og eventuelt opdateres, når der sker relevante ændringer i f.eks. virksomheden og kundekredsen.
+De finansielle virksomheder skal udarbejde skriftlige forretningsgange med henblik på at overholde disse krav, og forretningsgange skal løbende evalueres og eventuelt opdateres, når der sker relevante ændringer i fx virksomheden og kundekredsen.
 
 ---
 
@@ -2535,7 +2563,7 @@ Det danske fintech-miljø inspirerer i stigende grad unge IT-iværksættere med 
 
 De etablerede finansielle virksomheder er selv opmærksomme på det potentiale, som fintech har, men ikke alle virksomheder har det nødvendige fokus på udvikling af fintech. 
 
-Selvom f.eks. de fleste banker investerer betydelige beløb i fintech-løsninger, kræver det en betydelig indsats at lave nye produkter. 
+Selvom fx de fleste banker investerer betydelige beløb i fintech-løsninger, kræver det en betydelig indsats at lave nye produkter. 
 
 Årsagen er, at nye produkter i ældre banker er en stor omstilling fra bankernes ældre platforme, som svært taler sammen med nye og eksterne systemer .
 
@@ -2558,7 +2586,7 @@ Lovgivningen kan derfor virke som en hæmsko for fintech-startups og være med t
 
 De nye kapitalkrav for fondsmæglerselskaber er et skridt i den rigtige retning for at skabe konkurrencedygtige danske fintech-virksomheder i Europa, men lovgivningen er fortsat omfattende og svært overskuelig. 
 
-Således gælder der også forordninger vedtaget i EU, som er umiddelbart gyldige i Danmark, og selvom f.eks. lov om finansiel virksomhed gentager visse forordningsbestemmelser af praktiske hensyn, gentages alle ikke. 
+Således gælder der også forordninger vedtaget i EU, som er umiddelbart gyldige i Danmark, og selvom fx lov om finansiel virksomhed gentager visse forordningsbestemmelser af praktiske hensyn, gentages alle ikke. 
 
 Fintech-virksomheder skal derfor ikke alene navigere i dansk ret, men også i supranational EU-ret.
 

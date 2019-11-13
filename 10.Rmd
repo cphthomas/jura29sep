@@ -9,7 +9,13 @@ http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne^[Følgende afsnit
 
 ---
 
-Lovgrundlaget er **databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), samt **databeskyttelsesloven**, jf. Lov 2018-05-23 nr. 502 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, se databeskyttelsesloven i lovsamlingen kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Lovgrundlaget er **Databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), Se link til hele forordningen:
+
+**https://pro.karnovgroup.dk/document/7000751611/1**
+
+Samt 
+
+**Databeskyttelsesloven**, jf. Lov 2018-05-23 nr. 502 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, se databeskyttelsesloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -43,6 +49,16 @@ Reglerne på databeskyttelsesområdet indebærer også, at den dataansvarlige sk
 Når du som registreret stiller spørgsmålstegn ved en behandling af oplysninger om dig, eller du påberåber dig dine rettigheder over for den dataansvarlige, skal den dataansvarlige reagere på henvendelsen.
 
 Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarliges svar, kan du rette henvendelse til Datatilsynet, der kan vejlede dig yderligere om dine rettigheder, herunder dine muligheder for at klage.
+
+---
+
+**Studenteropgave**
+
+Hvilke rettigheder har den registrede og give pratiske eksemplar på dette?
+
+Se link til Datatilsynet: **https://www.datatilsynet.dk/**
+
+
 
 ---
 
@@ -131,8 +147,6 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 **Video: Hvad er persondata?**
 
-
-
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jmVTmSLkkh0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
@@ -155,7 +169,7 @@ Det kan fx være et personnummer, en bopælsadresse, et journalnummer, et bilreg
 
 Hvis oplysninger om fysiske personer er fuldstændig anonymiserede, er der ikke tale om personoplysninger.
 
-Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behandling”* forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, f.eks.: 
+Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behandling”* forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, fx: 
 
 * Indsamling. 
 
@@ -190,11 +204,11 @@ Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behand
 ![](img/data4.jpg)
 
 
-Begrebet *“automatisk databehandling”* er sammenfaldende med *“edb”* eller *“elektronisk behandling”*, som blev anvendt i dagældende databeskyttelsesdirektivets artikel 3, stk. 1. 
+Begrebet *“automatisk databehandling”* er sammenfaldende med *“edb”* eller *“elektronisk behandling”*, som blev anvendt i det dagældende databeskyttelsesdirektivs artikel 3, stk. 1. 
 
 Bestemmelsen i databeskyttelsesforordningens artikel 2 svarer således til det tidligere gældende databeskyttelsesdirektivs materielle anvendelsesområde.
 
-Privates aktiviteter på Facebook er ikke omfattet af databeskyttelsesforordningen.  
+Privates aktiviteter på Facebook er fx ikke omfattet af databeskyttelsesforordningen.  
 
 ![](img/face.jpg)
 
@@ -217,6 +231,12 @@ Behandlingsbegrebet skal således forstås meget bredt og dækker over enhver fo
 * Sletning.
 
 * Videregivelse.
+
+---
+
+**Studenteropgave**
+
+Find fansider på Facebook og se om der er nogen refleksioner i forhold til databeskyttelsesreglerne.
  
 ---
 
@@ -225,23 +245,23 @@ Behandlingsbegrebet skal således forstås meget bredt og dækker over enhver fo
 
 *Databeskyttelsesforordningen opdeler personoplysninger i tre typer:*  
 
-Almindelige ikke-følsomme oplysninger.
+1. Almindelige ikke-følsomme oplysninger.
 
-Særlige kategorier af oplysninger (følsomme oplysninger) og
+2. Særlige kategorier af oplysninger (følsomme oplysninger) og
 
-Oplysninger om straffedomme og lovovertrædelser eller tilknyttede sikkerhedsforanstaltninger. 
+3. Oplysninger om straffedomme og lovovertrædelser eller tilknyttede sikkerhedsforanstaltninger. 
 
 ---
 
-Der findes to kategorier af personoplysninger:
+Der findes to kategorier af personoplysninger i persondataretten:
 
-Almindelige ikke-følsomme personoplysninger fx:
+*1. Almindelige ikke-følsomme personoplysninger,* fx:
 
 Navn, adresse, telefonnummer, køn, alder.
 
 ---
 
-*Følsomme personoplysninger er fx:*
+*2. Følsomme personoplysninger* er fx:
 
 Race og etnisk baggrund.
 
@@ -309,7 +329,9 @@ mydf %>%
 
 ---
 
-En anden måde at se de forskellige kategorier af personoplysninger på. Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. 
+En anden måde at se de forskellige kategorier af personoplysninger på. 
+
+Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. 
 
 
 
@@ -323,15 +345,17 @@ Almindelige personoplysninger omfatter alle oplysninger, der ikke er klassificer
 
 Det kan for eksempel være identifikationsoplysninger som navn og adresse eller oplysninger om økonomi, skat, gæld, væsentlige sociale problemer, andre rent private forhold, sygedage, tjenstlige forhold, familieforhold, bolig, bil, eksamen, ansøgning, CV, ansættelsesdato og -stilling, arbejdsområde og arbejdstelefon. 
 
+---
+
 En virksomhed må kun behandle almindelige ikke-følsomme personoplysninger, hvis en af følgende betingelser er opfyldt:
 
-Virksomheden har et lovligt samtykke.
+1. Virksomheden har et lovligt samtykke.
 
-Behandling er nødvendig for at opfylde en aftale med den registrerede.
+2. Behandling er nødvendig for at opfylde en aftale med den registrerede.
 
-Virksomheden er iht. lov forpligtet til at behandle oplysningerne.
+3. Virksomheden er iht. lov forpligtet til at behandle oplysningerne.
 
-Hvis virksomheden har en saglig interesse i at behandle oplysningerne, som overstiger den registreredes interesser.
+4. Hvis virksomheden har en saglig interesse i at behandle oplysningerne, som overstiger den registreredes interesser.
 
 ---
 
@@ -350,7 +374,9 @@ Hvis virksomheden har en saglig interesse i at behandle oplysningerne, som overs
 ## <font color="red">Hvornår kan der ske behandling af følsomme oplysninger?<sup> Premium </font></sup>
 
 
-Særlige kategorier af personoplysninger (følsomme personoplysninger) følger af databeskyttelsesforordningens artikel 9, stk. 1. 
+Særlige kategorier af personoplysninger (følsomme personoplysninger) følger af databeskyttelsesforordningens artikel 9, stk. 1. Se link her:
+
+**https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A9**
 
 Følsomme personoplysninger er udtrykkelig afgrænset i databeskyttelsesforordningen, og adgangen til at behandle sådanne oplysninger er snævrere end ved almindelige personoplysninger. 
 
@@ -419,6 +445,14 @@ Der bør dog i videst muligt omfang søges indhentet et skriftligt samtykke fra 
 *At* behandling er nødvendig af hensyn til samfundsinteresser på folkesundhedsområdet (litra i), eller
  
 *At* behandling er nødvendig til arkivformål i samfundets interesse, til videnskabelige eller historiske forskningsformål eller til statistiske formål på grundlag af EU-retten eller medlemsstaternes nationale ret og står i rimeligt forhold til det mål, der forfølges, respekterer det væsentligste indhold af retten til databeskyttelse og sikrer passende og specifikke foranstaltninger til beskyttelse af den registreredes grundlæggende rettigheder og interesser (litra j).
+
+---
+
+**Studenteropgave**
+
+Hvad er følsomme oplysninger og hvornår kan der ske databehandling af følsomme oplysninger, herunder giv praktiske eksemplar på databehandling af følsomme oplysninger?
+
+Se link til Datatilsynet: **https://www.datatilsynet.dk/**
 
 ---
  
@@ -504,10 +538,19 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3QSmFgl4V2E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
+---
+
+**Studenteropgave**
+
+Hvad er nærmere god behandlingsskik og give pratiske eksemplar på dette.
+
+Se link til Datatilsynet:
+
+**https://www.datatilsynet.dk/**
 
 ---
 
-## <font color="red">Virksomhederne har en oplysningspligt når de behandler personoplysninger<sup> Premium </font></sup>
+## <font color="red">Virksomhederne har en oplysningspligt, når de behandler personoplysninger<sup> Premium </font></sup>
 
 Den registrerede skal kende virksomhedens identitet og skal vide, hvordan han eller hun kommer i kontakt med virksomheden.
 
@@ -541,7 +584,9 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 
 Ved spørgsmålet om, hvornår personoplysninger kan behandles, er den altovervejende hovedregel, at personoplysninger vil kunne behandles, såfremt der er det fornødne samtykke fra den registrerede til behandlingen. 
 
-Det følger af databeskyttelsesforordningens artikel 7, stk. 3, at den registrerede til enhver tid har ret til at trække sit samtykke tilbage. 
+Det følger af databeskyttelsesforordningens artikel 7, stk. 3, at den registrerede til enhver tid har ret til at trække sit samtykke tilbage:
+
+Se link: **https://pro.karnovgroup.dk/document/7000751611/4#EUFOR2016679_A7**
 
 Tilbagetrækning af samtykke berører ikke lovligheden af den behandling, der er baseret på samtykke inden tilbagetrækningen. 
 
@@ -577,17 +622,23 @@ Kan den dataansvarlige ikke bevise, at der foreligger et gyldigt samtykke, er ko
 
 *Frivilligt*
 
-Et samtykke skal være frivilligt. Formålet med et samtykke er at give de registrerede et valg og ikke mindst kontrol over personoplysninger om dem selv. 
+Et samtykke skal være frivilligt. 
 
-Et samtykke anses derfor ikke for at være afgivet frivilligt, hvis den registrerede ikke har et reelt eller frit valg. Et samtykke må f.eks. ikke være afgivet under tvang. 
+Formålet med et samtykke er at give de registrerede et valg og ikke mindst kontrol over personoplysninger om dem selv. 
+
+Et samtykke anses derfor ikke for at være afgivet frivilligt, hvis den registrerede ikke har et reelt eller frit valg. 
+
+Et samtykke må fx ikke være afgivet under tvang. 
 
 Dette gælder, uanset om det er den dataansvarlige eller andre, der udøver tvang over for den registrerede. 
 
-Den omstændighed, at den registrerede er i den dataansvarliges varetægt, f.eks. indsat i fængsel, undergivet værnepligt mv., udelukker ikke, at vedkommende kan give et gyldigt samtykke.
+Den omstændighed, at den registrerede er i den dataansvarliges varetægt, fx indsat i fængsel, undergivet værnepligt mv., udelukker ikke, at vedkommende kan give et gyldigt samtykke.
+
+---
 
 Eksempel - En privat sportsforening beder sine medlemmer om samtykke til at tage portrætbilleder af dem for at offentliggøre billederne på sportsforeningens hjemmeside. 
 
-Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (f.eks. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
+Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samtykke ikke medfører negative konsekvenser (fx. ekskludering af foreningen).^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 4.] 
 
 
 ![](img/datatilsynet.jpg)
@@ -606,7 +657,7 @@ Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekli
 
 Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation.
 
-Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som f.eks. salgs- og leveringsbetingelsesvilkår.
+Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som fx. salgs- og leveringsbetingelsesvilkår.
 
 Den dataansvarlige indhenter altid samtykke via et aktivt tilvalg fra den samtykkendes side.
 
@@ -632,6 +683,12 @@ Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt 
 
 ---
 
+**Studenteropgave**
+
+Hvilke krav stilles der til "samtykket" og find praktiske eksemplar på afgivelse af et samtykke ved en databehandling.
+
+---
+
 **Video: Et overblik for virksomheden om databeskyttelsesreglerne**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gzAiH6jpGVM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -639,7 +696,7 @@ Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt 
 
 --- 
 
-## <font color="red">Hvad er den registreredes rettigheder?<sup> Premium </font></sup>
+## <font color="red">Den registreredes rettigheder<sup> Premium </font></sup>
 
 
  
@@ -654,11 +711,13 @@ Det er i denne forbindelse afgørende, hvem der er den *"dataansvarlige"*.
 
 Den dataansvarlige er den person, virksomhed, forening eller myndighed m.v., som afgør, med hvilket formål og med hvilke hjælpemidler den registreredes personoplysninger behandles. 
 
+---
+
 *"Databehandleren"* er den, der behandler den registreredes personoplysninger på vegne af den dataansvarlige. 
 
 Databeskyttelsesreglerne indeholder en række rettigheder, som den registrerede kan påberåbe sig over for den dataansvarlige. 
 
-Som registreret har man således blandt andet følgende persondatarettigheder.  
+Som registreret har man således blandt andet følgende persondatarettigheder:  
 
 ---
 
@@ -668,11 +727,11 @@ Som registreret har man således blandt andet følgende persondatarettigheder.
 
 ![](img/tv.jpg)
 
-Den registrerede har ret til at se de personoplysninger, den dataansvarlige behandler om den registrerede, og få en række oplysninger om behandlingen.^[F.eks. it-systemer, men det kan også være tv-overvågningsbilleder, hvor den registrerede optræder eller oplysninger om den registreredes teletrafik mv.].  
+Den registrerede har ret til at se de personoplysninger, den dataansvarlige behandler om den registrerede, og få en række oplysninger om behandlingen.^[fx. it-systemer, men det kan også være tv-overvågningsbilleder, hvor den registrerede optræder eller oplysninger om den registreredes teletrafik mv.].  
 
-Det fremgår f.eks. af databeskyttelsesforordningens præambelbetragtning (forord) nr. 63, at en registreret bør have ret til indsigt i personoplysninger, der er indsamlet om vedkommende, og til let og med rimelige mellemrum at udøve denne ret med henblik på at forvisse sig om og kontrollere en behandlings lovlighed. 
+Det fremgår fx af databeskyttelsesforordningens præambelbetragtning (forord til Databeskyttelsesforordningen) nr. 63, at en registreret bør have ret til indsigt i personoplysninger, der er indsamlet om vedkommende, og til let og med rimelige mellemrum at udøve denne ret med henblik på at forvisse sig om og kontrollere en behandlings lovlighed. 
 
-Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, f.eks. data i deres lægejournaler om diagnoser, undersøgelsesresultater, lægelige vurderinger samt enhver behandling og ethvert indgreb, der er foretaget.
+Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, fx data i deres lægejournaler om diagnoser, undersøgelsesresultater, lægelige vurderinger samt enhver behandling og ethvert indgreb, der er foretaget.
 
 ---
 
@@ -681,7 +740,7 @@ Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, f.eks.
 
 ![](img/data11.jpg)
 
-Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig rettet. 
+Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig rettet af den dataansvarlige/databehandleren. 
 
 
 ---
@@ -700,7 +759,11 @@ Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig r
 
 ---
 
-Det fremgår af bestemmelsen i forordningens artikel 17, stk. 1, hvornår en registreret har *ret* til at få personoplysninger om sig slettet af den dataansvarlige uden unødig forsinkelse, og den dataansvarlige samtidig har *pligt* til at slette personoplysninger uden unødig forsinkelse. 
+Det fremgår af bestemmelsen i forordningens artikel 17, stk. 1, hvornår en registreret har *ret* til at få personoplysninger om sig slettet af den dataansvarlige uden unødig forsinkelse, og den dataansvarlige samtidig har *pligt* til at slette personoplysninger uden unødig forsinkelse. Se link her:
+
+**https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A17**
+
+---
 
 Bestemmelsen i forordningens artikel 17, stk. 1, må skulle forstås således, at forpligtelsen for den dataansvarlige til at slette som udgangspunkt alene opstår, når den registrerede gør brug af sin ret. 
 
@@ -725,7 +788,7 @@ Den dataansvarlige skal i dette tilfælde begrænse behandlingen af oplysningern
 
 b) Den dataansvarlige behandler oplysningerne ulovligt, og den registrerede modsætter sig sletning af oplysningerne, men anmoder om begrænsning af anvendelsen. 
 
-Den registrerede kan f.eks. foretrække begrænset behandling, hvis den registrerede ønsker, at det skal kunne dokumenteres, hvilke oplysninger, der har indgået i behandlingen af en sag. 
+Den registrerede kan fx. foretrække begrænset behandling, hvis den registrerede ønsker, at det skal kunne dokumenteres, hvilke oplysninger, der har indgået i behandlingen af en sag. 
 
 c) Den dataansvarlige har ikke længere brug for personoplysningerne til en behandling, men de er nødvendige for, at et retskrav kan fastlægges, gøres gældende eller forsvares. 
 
@@ -779,10 +842,17 @@ Det er Datatilsynet, som påser at virksomhederne overholder reglerne i databesk
 
 Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og beskyttelse af persondata.
 
+---
+
+**Studenteropgave**
+
+Hvilke rettigheder har den registrede over for en finansiel virksomhed og giv praktiske eksemplar på disse retigheders anvendelse ved kreditoplysninger.
+Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
+
 
 ---
 
-### <font color="red">Dataansvarlig og databehandler<sup> Premium </font></sup>  
+##<font color="red">Dataansvarlig og databehandler<sup> Premium </font></sup>  
 
 ---
 
@@ -853,7 +923,7 @@ Udstedelse af administrative bødeforelæg kan også tænkes anvendt i sager om 
 
 ---
 
-*De første bøder sager er begyndt at komme:*
+*De første bødersager er begyndt at komme:*
 
 ![](img/ide.png)
 
@@ -989,9 +1059,9 @@ Ja. Databeskyttelsesreglerne gælder for behandling af personoplysninger, uanset
 
 Foreningers registrering af oplysninger om medlemmerne er omfattet af databeskyttelsesreglerne.
 
-Det er i orden, at en forening registrerer almindelige oplysninger som f.eks. indmeldelsesdato, id-oplysninger, evt. tillids- eller hvervsposter m.m. 
+Det er i orden, at en forening registrerer almindelige oplysninger som fx. indmeldelsesdato, id-oplysninger, evt. tillids- eller hvervsposter m.m. 
 
-En forening vil som udgangspunkt også kunne registrere oplysninger af mere speciel karakter som f.eks. oplysninger om et medlems bedste score, golfhandicap, certifikat niveau m.m.
+En forening vil som udgangspunkt også kunne registrere oplysninger af mere speciel karakter som fx. oplysninger om et medlems bedste score, golfhandicap, certifikat niveau m.m.
 
 ---
 
@@ -1023,7 +1093,7 @@ Hvem har taget initiativ til projektet?
 
 Hvem finansierer projektet?
 
-Aflønnes forskeren af f.eks. den offentlige myndighed?
+Aflønnes forskeren af fx. den offentlige myndighed?
 
 På hvilket it-udstyr vil der ske behandling af forskningsoplysningerne?
 
@@ -1364,7 +1434,7 @@ Efter gentagne indbrud vil en familie for at få billeder af tyvene sætte kamer
 
 Tv-overvågningen er lovlig, da der ikke er tale om områder, som benyttes til almindelig færdsel. 
 
-Kameraerne skal sættes op, så de ikke filmer uden for grunden, f.eks. fortovet. Familiens opbevaring af optagelserne er undtaget fra databeskyttelsesreglerne.
+Kameraerne skal sættes op, så de ikke filmer uden for grunden, fx. fortovet. Familiens opbevaring af optagelserne er undtaget fra databeskyttelsesreglerne.
 
 Det er dog vigtigt at være opmærksom på, at tv-overvågningen ikke længere vil være som led i rent personlige eller familiemæssige aktiviteter, hvis familien deler tv-overvågningsbillederne med andre end politiet.
 
@@ -1390,7 +1460,7 @@ Udover tv-overvågningslovens krav om skiltning mv. skal arbejdsgiveren sørge f
 
 De ansatte skal bl.a. oplyses om formålet med tv-overvågningen og om, i hvilke tilfælde optagelserne vil blive gennemgået og videregivet til politiet. Oplysningerne kan fx gives i retningslinjer for arbejdspladsen eller i en personalehåndbog.
 
-Informationen skal være forudgående, så f.eks. nyansatte skal have besked i forbindelse med deres ansættelse, eller når de begynder at arbejde i tv-overvågede lokaler.
+Informationen skal være forudgående, så fx. nyansatte skal have besked i forbindelse med deres ansættelse, eller når de begynder at arbejde i tv-overvågede lokaler.
 
 OBS: Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overvågningsloven. Hvis du mener, at der er tale om overtrædelse af tv-overvågningslovens regler, kan henvendelse ske til politiet.
 
@@ -1536,3 +1606,9 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
+
+---
+
+Se seneste nyt fra Datatilsynet: **https://www.datatilsynet.dk/presse-og-nyheder/**
+
+---
