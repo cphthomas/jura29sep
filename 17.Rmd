@@ -117,7 +117,7 @@ Fx, at forbrugeren skylder afdrag (hovedkravet) i forbindelse med køb af en bil
 
 Der er udvidet adgang til modregning med konnekse modfordringer. 
 
-Se nedenfor de 4 beingelser for, at der kan foretages *"tvungen ikke-konneks modregningsafgang"*, dvs. at hovedkrav og modkrav ikke udspringer af samme retsforhold.
+Se nedenfor de 4 beingelser for, at der kan foretages *"tvungen ikke-konneks modregningsafgang"*, dvs. at hovedkrav og modkrav ikke udspringer af det samme retsforhold fx. kreditkøb af en bil samt mangler ved købet af en anden bil.
 
 ---
 
@@ -191,9 +191,9 @@ Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) h
 
 *Ad. 4. Modkravet er retskraftigt*
 
-At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *forældelse* eller *præklusion* 
+At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved *"forældelse"* eller *"præklusion:* 
 
-(En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt f.eks. en kreditors krav, når der indrykkes et proklama i et dødsbo).
+En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt fx en kreditors krav, når der indrykkes et proklama i et dødsbo.
 
 Hvis modfordringen er bortfaldet, er modregning udelukket.
 
@@ -229,27 +229,40 @@ De almindelige forældelsesregler er samlet i forældelsesloven, men der finder 
 
 ---
 
-Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 9. november 2015 om forældelse af fordringer) omfatter:
+Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 af 9. november 2015 om forældelse af fordringer), se **forældelsesloven** i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
+
+Forældelsesloven omfatter:
 
 Fordringer på penge eller andre ydelser, fx:
 
-+ Krav på løn
-+ Krav på erstatning
-+ Krav efter en faktura
++ Krav på løn.
+
++ Krav på erstatning.
+
++ Krav efter en faktura.
 
 Forældelsesloven omfatter ikke:
 
-+ Tinglyste pantebreve
-+ Krav på andet end penge
++ Tinglyste pantebreve.
 
-Særlige krav kan være forældet efter andre regler, fx købelovens reklamationsregler §§ 81 og 83
++ Krav på andet end penge.
 
-Skyldner skal ikke betale, hvis kravet er forældet
+---
+
+Særlige krav kan være forældet efter andre regler, fx købelovens reklamationsregler §§ 81 og 83.
+
+Skyldner skal ikke betale, hvis kravet er forældet.
+
+---
 
 Forældelsesfristen løber fra det tidligste tidspunkt kreditor kunne kræve betaling:
 
-+ Forfaldstidspunkt, der hvor skyldner skal betale fordringen
-+ Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt
++ Forfaldstidspunkt, der hvor skyldner skal betale fordringen.
+
++ Misligholdelsestidspunkt, hvis en kontrakt bliver misligholdt.
+
 + Skadestidspunkt, hvis kravet opstår som følge af erstatningsansvar for en skade.
    
 ---
@@ -270,7 +283,7 @@ Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til
 
 ### Om forældelsesfrister i forældelsesloven 
 
-Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år. 
+Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år (den relative forældelsesfrist). 
 
 Det fremgår af forældelseslovens § 3, stk. 1.
 
@@ -341,7 +354,7 @@ mydf %>%
 
 ---
 
-### Forældelsesfrister - pengelån, indlån, kaution 
+### Forældelsesfrister - pengelån, indlån og kaution 
 
 ---
 
@@ -349,7 +362,7 @@ mydf %>%
 
 ---
 
-Forældelsesloven indeholder særlige frister for visse fordringer, der har særlig interesse for pengeinstitutter.
+Forældelsesloven indeholder særlige frister for visse fordringer, der har særlig interesse for pengeinstitutter og andre långivere.
 
 For pengelån og overtræk er forældelsesfristen 10 år. For renter og gebyrer heraf dog kun 3 år, jf. forældelseslovens § 6.
 
@@ -362,14 +375,19 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
 *HR:* Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
 
 + Krav på renter og rykkergebyrer.
+
 + Krav som følge af mangler ved fast ejendom.
+
 + Overtræk på et kontokort.
    
 U: Nogle krav forældes efter 10 år, fx:
 
 + Underskrevet gældsbrev.
+
 + Frivilligt forlig.
+
 + Dom.
+
 + Pengelån.
  
 ---
@@ -387,17 +405,22 @@ Egentlig afbrydelse af en forældelsesfrist kan ske ved anerkendelse af gælden,
 Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 
 * Når fristen afbrydes, starter den forfra.
+
 * Afbrydelse sker når.
+
 + Skyldner erkender at skylde pengene, fx når:
    
 * Skyldner betaler renter og afdrag.
+
 * Underskriver et frivilligt forlig.
+
 * Eller accepterer på anden måde.
 
 + Vil skyldner ikke erkende gælden, må skyldner foretage retslige skridt, fx:
 
 * Forfølge krav i Fogedretten.
-* Klage til et godkendt tvistløsningsorgan (klage- og ankenævn) ankenævn).
+
+* Klage til et privat godkendt tvistløsningsorgan (klage- og ankenævn fx. forsikringsankenævnet og Det Finansielle Ankenævn).
 
 ---
 
@@ -419,15 +442,19 @@ Der gælder en almindelig uskreven passivitetsgrundsætning i dansk ret.
 
 Passivitetsgrundsætninger hviler på spørgsmålet om, hvorvidt kreditor ved at forholde sig passiv i en længere periode har givet debitor en berettiget forventning om, at kreditor ikke har til hensigt at forfølge sit krav. 
 
+---
+
 Hvis man som debitor vil påberåbe sig en ulovfæstet passivitetsgrundsætning som grundlag for, at kreditor ikke længere har en ret til at kræve betaling skal der udover at være passeret en længere rum tid også være nogle andre forhold der gør, at debitor ikke længere regnede med, at kreditor havde til hensigt at forfølge sit krav. 
 
 1.	Er debitor i god tro?
+
 2.	Skyldes vildfarelsen vedrørende betaling overvejende kreditors forhold?
+
 3.	Er fejlen opdaget og rettet hurtigt?
 
+---
 
-Sådanne nogle andre forhold skal vurderes ud fra den
-konkrete situation.
+Sådanne nogle andre forhold skal vurderes ud fra den konkrete situation.
 
 Det kan således ikke udelukkes, at domstolene i en konkret situation finder, at kreditor har fortabt sin ret til at kræve betaling på baggrund af passivitetsbetragtninger.
 
@@ -490,9 +517,9 @@ Deponering kan ske, når:
 
 Lidt begreber:
 
-"Deponering":	En betaling, som er betinget af, at visse krav bliver opfyldt.
+*"Deponering"*:	En betaling, som er betinget af, at visse krav bliver opfyldt.
 
-"Depositar": Den person, der påtager sig at opbevare en værdi (ting såvel som penge) for en anden. Depositaren forpligter sig samtidig til at tilbagelevere den samme ting.
+*"Depositar"*: Den person, der påtager sig at opbevare en værdi (ting såvel som penge) for en anden. Depositaren forpligter sig samtidig til at tilbagelevere den samme ting.
 
 
 ---

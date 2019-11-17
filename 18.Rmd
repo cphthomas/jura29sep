@@ -1,7 +1,7 @@
 # Pant i fast ejendom, løsøre og virksomhedspant
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ![](img/tinglysning7.jpg)
@@ -70,12 +70,18 @@ Ejeren af et aktiv har ejendomsretten til aktivet.
 
 Den der har ejendomsretten er rettighedshaver.
 
-Ejeren kan give pant i aktivet til panthaver. Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver.
+Ejeren kan give pant i aktivet til panthaver. 
 
-Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning. Se tinglysningsloven i lovsamlingen i kapitel 26:
+Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver.
+
+---
+
+Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning. Se tinglysningsloven i Lovsamlingen under kapitel 26:
 **https://jura.tepedu.dk/lovsamling.html.**
 
-"Allonge"	er et tillæg - til et pantebrev.
+---
+
+*"Allonge"*	er et tillæg - til et pantebrev.
 
 ---
 
@@ -146,6 +152,8 @@ Der må ikke ske forringe pantets værdi ud over sædvanlig slid og ælde, fx:
 
 * Fjerne aktiver fra pantet.
 
+---
+
 Pantsætter skal ofte sørge for at aktivet er forsikret mod tyveri og brand.
    
 ---
@@ -171,15 +179,29 @@ Det oftest anvendte, da pantsætter kan beholde rådigheden over aktivet (fx pan
 
 ---
    
-*Retspant* – er fx udlæg.
+*Retspant* – er fx et *"udlæg"*: 
+
+Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene.
+
+I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. 
+
+Hvis man ikke kan betale, kan fogedretten foretage udlæg i et eller flere af ens aktiver. 
+
+Det kan for eksempel være ens faste ejendom eller ens bil. 
+
+Udlæg betyder, at kreditor kan forlange, at det aktiv, der er foretaget udlæg i, sælges på auktion, så kreditor kan få sine penge.
+
+Der kan ikke foretages udlæg i små pengebeløb, sædvanligt indbo eller i andre ting af beskeden værdi, som er nødvendige for familiens erhverv eller uddannelse
 
 ---
 
-*Lovbestemt pant* – er fx ejendomsskat.
+*Lovbestemt pant* – er fx ejendomsskat. 
+
+Det offentliges lovbestemte pant har fortrinsret, hvad ejendomsskatter angår.
 
 ---
  
-## Pantebreve samt aftaler om pant
+## Pantebreve, samt aftaler om pant
 
 Et pantebrev er et lån ydet mod sikkerhed i fast ejendom. 
 
@@ -208,24 +230,23 @@ Begrebet *"viljesbestemt pant"* er pant stiftet ved aftale - i modsætning til r
 
 Der findes følgende pantebrevsformer:
 
-* *Realkreditpantebreve*, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til realkreditinstituttet.
+*Realkreditpantebreve*, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til realkreditinstituttet.
 
-* *Ejerpantebreve*, hvor ejeren af en fast ejendom reserverer et pant i sin ejendom og underpantsætter dette fx til sin bank. 
+---
+
+*Ejerpantebreve*, hvor ejeren af en fast ejendom reserverer et pant i sin ejendom og underpantsætter dette fx til sin bank. 
 
 Ejerpantebreve anvendes typisk som sikkerhed for lån i pengeinstitutter med tinglyst prioritetsstilling, men indebærer ikke i sig selv en pligt til forrentning og afdrag af et bestemt lånt beløb. 
+
+---
 
 *Skadesløsbreve*, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, når størrelsen af gælden ikke er endeligt fastlagt.
 
 Skadesløsbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kassekredit eller lignende.
 
-*Sælgerpantebreve*, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til kreditor (sælger).
-
 ---
 
-**Video: Fordele og ulemper ved et sælgerpantebrev**
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/241138810?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/241138810">H&oslash;r mere om fordele og ulemper ved et s&aelig;lgerpantebrev</a> from <a href="https://vimeo.com/seges">SEGES</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+*Sælgerpantebreve*, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til kreditor (sælger).
 
 ---
 
@@ -495,7 +516,7 @@ Pant i fast ejendom kan både bruges som sikkerhed via et pantebrev til køb af 
 ---
 
 Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
-om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+om tinglysning, se tinglysningsloven i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -525,7 +546,9 @@ om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lo
 
 *"Hævd"* er en	særlig erhvervelsesmåde, hvor retten stiftes ved en uhjemlet råden (ikke lovmæssig råden) i 20 år eller i alderstid. Danske Lov 5-5-1 lyder således:
 
-"Hvis Gods og Ejendom nogen haver haft i Haand og Hævd i tyve Aar Ulast og Ukært til Tinge, det beholder hand, uden anden Adkomst at fremvise, angerløst og Uafvundet, medmindre det bevisis, at hand hafde det, enten til pant eller i Forlæning, eller i Forsvar". Se Danske Lov i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+"Hvis Gods og Ejendom nogen haver haft i Haand og Hævd i tyve Aar Ulast og Ukært til Tinge, det beholder hand, uden anden Adkomst at fremvise, angerløst og Uafvundet, medmindre det bevisis, at hand hafde det, enten til pant eller i Forlæning, eller i Forsvar". Se **Danske Lov** i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 Hævd er således en særlig form for erhvervelse af ejendomsret. 
 
@@ -770,6 +793,8 @@ Herved er der åbnet mulighed for, at maskiner og andet tilbehør til erhvervsvi
 
 Der er hermed skabt ligestilling mellem erhvervsvirksomheder, der drives fra henholdsvis ejede og lejede lokaler. 
 
+---
+
 Efter retspraksis forstås ved *»indlagt«*, at genstanden varigt er anbragt på et bestemt sted i ejendommen, og at den udgør et nødvendigt, naturligt eller hensigtsmæssigt led i erhvervsvirksomheden. 
 
 Den nærmere afgrænsning har dog givet anledning til tvivl. 
@@ -784,10 +809,11 @@ TL § 38 kan anvendes analogt på tilbehør til grunden.
 
 ![](img/gart.jpg)
 
-Dommen **U 1934.167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38:
-**https://pro.karnovgroup.dk/document/7000240470/1**
+Dommen **U 1934.167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38. Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000240470/1**
 
-Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38:
+---
+
+Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38. Se link til hele dommen her:
 **https://pro.karnovgroup.dk/document/7000240219/1**
 
 
@@ -803,7 +829,7 @@ Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan
 
 ![](img/hons.jpg)
 
-Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38: **https://pro.karnovgroup.dk/document/7000241331/1**
+Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000241331/1**
 
 
 ---
@@ -812,7 +838,7 @@ Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ej
 
 Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, således at særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom:
 
-Se dommen **U 1991.447/1 V:** Vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter TL § 38; pantsætning måtte derfor ske efter reglerne for løsøre:
+Se dommen **U 1991.447/1 V:** Vindmølle, der udelukkende producerede el til videresalg og ikke forsynede den ejendom, hvorpå den var beliggende, ikke omfattet af pantet i ejendommen efter TL § 38; pantsætning måtte derfor ske efter reglerne for løsøre. Se link til dommen her:
 **https://pro.karnovgroup.dk/document/7000199565/1**
 
 
@@ -832,26 +858,25 @@ Generelt følger af begrebet »indlagt« dels et krav om, at genstanden skal væ
 
 ![](img/hvidvare.jpg)
 
-Se dommen **U 1987.854 V:** Køleskabe, komfurer og elradiatorer, der var opstillet i 2 nyopførte huse, men ikke var tilsluttet elnettet, anset for omfattet af TL § 38:
+Se dommen **U 1987.854 V:** Køleskabe, komfurer og elradiatorer, der var opstillet i 2 nyopførte huse, men ikke var tilsluttet elnettet, anset for omfattet af TL § 38. Se link til dommen her:
 **https://pro.karnovgroup.dk/document/7000206469/1**
 
 ---
 
 Kravet om, at anskaffelsen skal være sket på ejerens bekostning. 
 
-Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ejeren, jf. dommen i **U 1941.731/2 H**: **https://pro.karnovgroup.dk/document/7000241579/1**
+Udenfor falder herefter tilfælde, hvor anskaffelsen er bekostet af en lejer, idet det afgørende i denne henseende er, om vederlaget i realiteten betales af ejeren, ikke om betalingen formelt kommer fra ejeren, jf. dommen i **U 1941.731/2 H**. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000241579/1**
 
 ---
 
-Er en genstand anskaffet af ejendommens ejers ægtefælle, må udgangspunktet være, at den ikke omfattes af TL § 38, jf. dommene i **U 1983.951 V:** 
-**https://pro.karnovgroup.dk/document/7000207034/1**
+Er en genstand anskaffet af ejendommens ejers ægtefælle, må udgangspunktet være, at den ikke omfattes af TL § 38, jf. dommene i **U 1983.951 V.** Se link til dommen her: **https://pro.karnovgroup.dk/document/7000207034/1**
 
 
 og dommen i **U 1985.227 V**: **https://pro.karnovgroup.dk/document/7000205273/1** 
 
 ---
 
-Man vil dog formentlig stille ret strenge krav til beviset for, at genstanden reelt er bekostet af den anden ægtefælle, ligesom § 38 er anvendelig, hvis den ægtefælle, der har anskaffet genstanden, må antages reelt at være medejer af ejendommen, jf. dommen i **U 1984.620 V:**
+Man vil dog formentlig stille ret strenge krav til beviset for, at genstanden reelt er bekostet af den anden ægtefælle, ligesom § 38 er anvendelig, hvis den ægtefælle, der har anskaffet genstanden, må antages reelt at være medejer af ejendommen, jf. dommen i **U 1984.620 V.** Se link til dommen her:
 **https://pro.karnovgroup.dk/document/7000205229/1**
 
 
@@ -885,7 +910,7 @@ Specielt inventar mv. kan i særlige tilfælde være tilstrækkeligt, medens fak
 
 Ikke hele ejendommen behøver at være indrettet med henblik på erhvervsvirksomheden, når den blot ikke spiller en kun ubetydelig rolle.
 
-Som er varigt indrettet: I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, jf. dommen i **U 1934.352:**
+Som er varigt indrettet: I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, jf. dommen i **U 1934.352.** Se link til dommen:
 **https://pro.karnovgroup.dk/document/7000240490/1**
 
 Det er uden betydning, om ejendommen først ved senere bygningsændring er blevet indrettet til erhvervsejendom
@@ -900,14 +925,16 @@ Ejendommens indretning til erhverv behøver således ikke at sigte til et bestem
 
 Er driftsmateriel og driftsmidler omfattet af ejendomspantet. 
 
+---
+
 Altså - med undtagelse af biler, jf. stk. 3 - alle genstande, der varigt benyttes i driften som grundlag for denne (produktionsmidler), derimod (bortset fra landejendomme) ikke råvarer, halvfabrikata og færdige produkter:
 
-Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager:
+Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager. Se link til dommen her:
 **https://pro.karnovgroup.dk/document/7000206004/1**
 
 
 
-Se dommen **U 1973.925 H** Et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv. Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37:
+Se dommen **U 1973.925 H** Et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv. Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37. Se link til dommen:
 **https://pro.karnovgroup.dk/document/7000210263/1**
 
 
@@ -935,37 +962,36 @@ Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsma
 
 ![](img/hons1.jpg)
 
-Dommen i **U 1981.863 V** (Heste i stutteri): 
+Dommen i **U 1981.863 V** (Heste i stutteri). Se link til dom: 
 **https://pro.karnovgroup.dk/document/7000207606/1**
 
-og dommen i **U 1969.961 V** (Høns i hønseri):
+og dommen i **U 1969.961 V** (Høns i hønseri). Se link til dom:
 **https://pro.karnovgroup.dk/document/7000219399/1**
 
 
 
 ![](img/dam.jpg)
 
-Men se nu dommen **U 1987.807 H** En ørredbestand på et dambrug kunne ikke anses for driftsmateriel: 
+Men se nu dommen **U 1987.807 H** En ørredbestand på et dambrug kunne ikke anses for driftsmateriel. Se link til dommen: 
 **https://pro.karnovgroup.dk/document/7000206388/1**
 
 og 
 
 ![](img/mink.jpg)
 
-Dommen i **U 1995.362 H** En minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel:
+Dommen i **U 1995.362 H** En minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel. Se link til dommen:
 **https://pro.karnovgroup.dk/document/7000201619/1**
 
 ---
 
-Under besætning falder alle dyr, der indgår i en normal landbrugsdrift, herunder avlsdyr samt afkom, se dommen i **U 1935.561 V:** 
+Under besætning falder alle dyr, der indgår i en normal landbrugsdrift, herunder avlsdyr samt afkom, se dommen i **U 1935.561 V.** Se link til dom: 
 **https://pro.karnovgroup.dk/document/7000240677/1**
 
 Således også høns, smågrise og får, jf. dommen i **VLT 1957.159:** Ekstraordinært stort fårehold, uanset at besætningen ikke kunne ernæres af gårdens produkter, men ikke kaniner, pelsdyr, duer, bier og lignende. 
 
-Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, dommen **U 1937.154 V:**
-**https://pro.karnovgroup.dk/document/7000240940/1**
+Det må dog kræves, at dyrene har væsentlig betydning for ejendommen, hvorfor man snarere vil medtage høns ved husmandsbrug, dommen **U 1937.154 V.** Se link til dom: **https://pro.karnovgroup.dk/document/7000240940/1**
 
-End ved større landejendomme, jf. dommen **U 1935.373 V:**
+End ved større landejendomme, jf. dommen **U 1935.373 V.** Se link til dom:
 **https://pro.karnovgroup.dk/document/7000240650/1**
 
 ---
@@ -979,26 +1005,37 @@ Såvel den på roden værende som den indhøstede avl og afgrøde, jf. dommen **
 
 Panthaverne i den faste ejendom må dog respektere høstpant stiftet i henhold til lov om høstpant. 
 
-Om kartoffelleveringsrettigheder, se dommen **U 1998 209/2 V:** og dommen **U 2000.967 V:** **https://pro.karnovgroup.dk/document/7000196373/1**
+Om kartoffelleveringsrettigheder, se dommen **U 1998 209/2 V:** og dommen **U 2000.967 V.** Se link **https://pro.karnovgroup.dk/document/7000196373/1**
 
 ---
 
 En landejendom er oftest en traditionel gård med jordbrug og besætning. 
 
-Der må være tale om en egentlig jordbrugsvirksomhed, jf. dommen **U 1995.362 H:** Minkfarm ikke omfattetPanteret i minkfarm omfattede ikke minkskind, der var løsørepantsat, jf. TL's § 37: **https://pro.karnovgroup.dk/document/7000201619/1** 
+Der må være tale om en egentlig jordbrugsvirksomhed, jf. dommen **U 1995.362 H:** Minkfarm ikke omfattetPanteret i minkfarm omfattede ikke minkskind, der var løsørepantsat, jf. TL's § 37. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000201619/1** 
 
-Se dommen i **U 1987.807 H** Dambrug ikke omfattet. Ørredbestand til dambrug ikke omfattet af TL § 37. Banks fyldestgørelse opnået ved overdragelse af dambruget med ørredbestand omstødt i medfør af konkurslovens § 74: 
-**https://pro.karnovgroup.dk/document/7000206388/1**
+---
+
+Se dommen i **U 1987.807 H** Dambrug ikke omfattet. Ørredbestand til dambrug ikke omfattet af TL § 37. Banks fyldestgørelse opnået ved overdragelse af dambruget med ørredbestand omstødt i medfør af konkurslovens § 74. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000206388/1**
+
+---
 
 Se dommen **U 1981.863 V.** En ejendom, der var noteret som landbrugsejendom, men som gennem lang tid udelukkende havde været drevet som stutteri og var indrettet specielt hertil, var ikke omfattet: 
 **https://pro.karnovgroup.dk/document/7000207606/1**
 
+---
 
-Se dommen i **U 1969.961 V** Hønseri ikke anset for en landejendom, 
 
-Se dommen **U 1933.762** (ligeledes), 
+Se dommen i **U 1969.961 V** Hønseri ikke anset for en landejendom. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000219399/1** 
+
+---
+
+Se dommen **U 1933.762 V** (ligeledes). Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000240392/1**
+
+---
 
 Se dommen **VLT 1935.58** (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
+
+---
 
 Det er uden betydning, om ejendommens jorder er beliggende i en landkommune eller ikke. 
 
@@ -1014,7 +1051,9 @@ Begreb:
 
 *"Høstpant"* er pant i alle afgrøder, der høstes på ejendommen det pågældende år, hvis det vedrører leverancer af rå- og hjælpestoffer, i tiden 01.01-31.07, og ellers afgrøderne, der høstes det følgende år.
 
-Ejeren eller brugeren af en landbrugsejendom  kan stifte pant i ejendommens afgrøder til sikkerhed for betalingen af gæld opstået i forbindelse med køb af de rå- og hjælpestoffer, jf. høstpantebrevslovens § 1, stk. 1, se nærmere **Lovbekendtgørelse 2015-12-14 nr. 1658 om høstpant** i lovsamlingen i kapitel 26 vedrørende **høstpantebrevsloven**: **https://jura.tepedu.dk/lovsamling.html.**
+Ejeren eller brugeren af en landbrugsejendom  kan stifte pant i ejendommens afgrøder til sikkerhed for betalingen af gæld opstået i forbindelse med køb af de rå- og hjælpestoffer, jf. høstpantebrevslovens § 1, stk. 1, se nærmere **Lovbekendtgørelse 2015-12-14 nr. 1658 om høstpant** i Lovsamlingen i kapitel 26 vedrørende **høstpantebrevsloven**: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 Høstpanterbrevsloven indebærer bl.a., at en ejer eller en bruger af en landbrugsejendom kan stifte panteret i ejendommens kommende høst til sikkerhed for betalingen af gæld i forbindelse med opkøb af visse rå- og hjælpestoffer.
 
@@ -1024,10 +1063,14 @@ Høstpantebrevsordningen blev i sin tid indført som en hjælpeforanstaltning ov
 
 **Uden for panteretten falder personlige brugsgenstande.**
 
-Se dommen **U 1975.323 Ø**. Udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen: 
+Se dommen **U 1975.323 Ø**. Udsmykningsgenstande, herunder en antik våbensamling, i restaurationsvirksomhed ikke anset for omfattet af TL § 37, hvorimod et farvefjernsyn efter sin placering og anvendelse måtte betragtes som driftsinventar i forretningen. Se link til til dommen her: 
 **https://pro.karnovgroup.dk/document/7000211506/1**
 
+---
+
 Personbiler er i almindelighed ikke omfattet, selv om de er anskaffet forud for 1993-06-01 og derfor ikke er undtaget efter TL § 37, stk. 3, jf. dommene i **U 1979.411/1 V, U 1978.823 V og U 1973.354 V**.
+
+---
 
 Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), kan de fremhæves udtrykkeligt i pantebrevet. Løsøregenstande, som ikke er omfattet af TL § 37, kan pantsættes særskilt efter TL § 47 (individualiserbart løsøre) eller efter TL § 47 c, virksomhedspant.
 
@@ -1051,9 +1094,6 @@ Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), ka
 
 
 *Fine biler og dyre vaner*
-
-
-
 
 Super Cars I/S beskæftigede sig med salg af nye og brugte, eksklusive specialbiler som Porsche, Ferrari, Maseratti, Jaguar. 
 
@@ -1273,8 +1313,9 @@ Pantsætningen er ikke til hinder for, at de nævnte genstande udskilles ifølge
 
 ---
 
-I lighed med hvad der gælder efter TL § 37, skal ejendommen være indrettet med erhvervsvirksomhed for øje, jf. dommen i **U 1990.217 H:**
-**https://pro.karnovgroup.dk/document/7000199006/1**
+I lighed med hvad der gælder efter TL § 37, skal ejendommen være indrettet med erhvervsvirksomhed for øje, jf. dommen i **U 1990.217 H.** Se link til dommen her: **https://pro.karnovgroup.dk/document/7000199006/1**
+
+---
 
 Det er en betingelse, at virksomheden virkelig kan siges at blive drevet fra lejet ejendom. 
 
@@ -1284,14 +1325,14 @@ Der kræves ligesom ved TL § 37 en stedlig tilknytning til ejendommen, jf. domm
 
 ![](img/lager.jpg)
 
-Bestemmelsen i TL § 47b, stk. 2 giver ikke hjemmel til pantsætning af varelagre og lignende, bortset fra den særlige regel om landbrugsejendomme, jf. dommen i **U 1971.616 H:** **https://pro.karnovgroup.dk/document/7000212386/1**
+Bestemmelsen i TL § 47b, stk. 2 giver ikke hjemmel til pantsætning af varelagre og lignende, bortset fra den særlige regel om landbrugsejendomme, jf. dommen i **U 1971.616 H.** Se link til dom: **https://pro.karnovgroup.dk/document/7000212386/1**
 
 
 ![](img/leje.jpg)
 
 Lejekontrakt og/eller goodwill kan pantsættes sammen med driftsinventar mv. 
 
-Se også dommen i **U 1972.176 V.** Pantet omfattede også genstande erhvervet ved en lejekontrakt, der i et bo tilsidesattes som en omgåelse af (dagældende) afbetalingslov. "Pant i driftsinventar antoges også at omfatte pant i inventar, som panthaver havde »udlejet« til pantsætter, hvis bo nægtede at anerkende lejeaftalerne":
+Se også dommen i **U 1972.176 V.** Pantet omfattede også genstande erhvervet ved en lejekontrakt, der i et bo tilsidesattes som en omgåelse af (dagældende) afbetalingslov. "Pant i driftsinventar antoges også at omfatte pant i inventar, som panthaver havde »udlejet« til pantsætter, hvis bo nægtede at anerkende lejeaftalerne". Se link til dommen:
 **https://pro.karnovgroup.dk/document/7000214040/1**
 
 
@@ -1313,7 +1354,7 @@ Nye aktiver bliver automatisk omfattet af pantet.
 
 ![](img/op.jpg)
 
-Aktiver kan udskilles ifølge regelmæssig drift, se dommen i **U 1972.1058 V:** Køberen af en opslåningsmaskine fra et bageri burde have indset, at der ikke forelå udskillelse ifølge regelmæssig drift, og dømtes til at erstatte panthaveren maskinens værdi.
+Aktiver kan udskilles ifølge regelmæssig drift, se dommen i **U 1972.1058 V:** Køberen af en opslåningsmaskine fra et bageri burde have indset, at der ikke forelå udskillelse ifølge regelmæssig drift, og dømtes til at erstatte panthaveren maskinens værdi. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000216059/1**
  
 ---
 
@@ -1351,7 +1392,7 @@ Panterettigheder i skibe på over 5 BRT og panterettigheder i fly kan ikke tingl
 
 Disse love indeholder tillige nærmere regler om bl.a. panterettens omfang og forholdet mellem flere panthavere (stort set svarende til § 40). 
 
-Med henblik på afgørelse af, om pantsætning af et skib kan ske efter § 47, kan tinglysningsdommeren forlange fremlæggelse af målebrev, jf. dommen i **U 1985.443 V:** **https://pro.karnovgroup.dk/document/7000205540/1**
+Med henblik på afgørelse af, om pantsætning af et skib kan ske efter § 47, kan tinglysningsdommeren forlange fremlæggelse af målebrev, jf. dommen i **U 1985.443 V.** **https://pro.karnovgroup.dk/document/7000205540/1**
 
 
 ---
@@ -1376,7 +1417,7 @@ Genstande, der skal pantsættes efter reglerne om fast ejendom, kan ikke pantsæ
 
 Efter varemærkelovens § 41 kan en pantsætning af et varemærke registreres i varemærkeregisteret, men dette har ikke betydning som sikringsakt.
 
-I dommen **U 1993.543 V**, hvorefter en panteret i goodwill antoges at omfatte et varemærke samt mønstre og modeller m.m. Vedr. pantsætning efter TL § 47 af edb - produktionsretten, maskinel og/eller programmel, domænenavne m.v.: **https://pro.karnovgroup.dk/document/7000200645/1** 
+I dommen **U 1993.543 V**, hvorefter en panteret i goodwill antoges at omfatte et varemærke samt mønstre og modeller m.m. Vedr. pantsætning efter TL § 47 af edb - produktionsretten, maskinel og/eller programmel, domænenavne m.v.: Se link til dommen:**https://pro.karnovgroup.dk/document/7000200645/1** 
 
 *Domænenavne og rettigheder* i henhold til patentloven, varemærkeloven, designloven, brugsmodelloven, mønsterloven, ophavsretsloven og lov om beskyttelse af halvlederprodukters udformning kan pantsættes ved virksomhedspant, jf. TL § 47 c, stk. 3, nr. 7.  
 
@@ -1384,13 +1425,15 @@ Der kan tinglyses underpant i løsøre købt med ejendomsforbehold (retten til a
 
 I forbindelse med pantsætning af en løsøregenstand kan tillige pant i lejeindtægter af genstanden tinglyses efter TL § 47, jf. dommene i **U 1986.858 H** og **U 1984.1009 V**, men anderledes med dommen i **U 1984.131/2 V**. 
 
-I mangel af udtrykkelig bestemmelse herom er indtægter ikke omfattet af pantet, jf. dommen i **U 1983.423 V**.  
+I mangel af udtrykkelig bestemmelse herom er indtægter ikke omfattet af pantet, jf. dommen i **U 1983.423 V**. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000206422/1** 
+
+---
 
 Den der driver virksomhed fra egen ejendom, kan pantsætte den til virksomheden knyttede goodwill efter TL § 47, og at den, der driver virksomhed fra lejede lokaler, kan pantsætte den til virksomheden knyttede goodwill efter TL § 47, selv om det ikke sker i forbindelse med pantsætning af en overdragelig lejekontrakt, og selv om lejekontrakten ikke er overdragelig. 
 
 Der må herefter ved forskellige pantebreve kunne ske pantsætning af henholdsvis goodwill efter TL § 47 og driftsinventar og -materiel efter TL § 47 b, stk. 2, men der kan også fortsat foretages en fælles pantsætning af goodwill samt driftsinventar og -materiel. 
 
-Der kan ved pantsætning af goodwill næppe kræves anden specifikation end en tydelig angivelse af, til hvilken virksomhed den pågældende goodwill er knyttet, sammenlign her dommen i **U 1993.543 V**.  
+Der kan ved pantsætning af goodwill næppe kræves anden specifikation end en tydelig angivelse af, til hvilken virksomhed den pågældende goodwill er knyttet, sammenlign her dommen i **U 1993.543 V**. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000200645/1**  
 
 ---
 
@@ -1652,7 +1695,7 @@ TL § 47 d giver således en adgang til fordringspant - dvs. samlet underpantsæ
 
 Reglen supplerer gældsbrevslovens bestemmelser om pantsætning af simple gældsbreve, der anvendes analogt på andre simple fordringer.  
 
-Bestemmelsen giver mulighed for et »flydende« pant i virksomhedens kundetilgodehavender således, at de enkelte fordringer omfattes af panteretten, efterhånden som de stiftes ved salg af varer m.v. på kredit, og udgår af pantet f.eks. ved indfrielse af fordringen.  
+Bestemmelsen giver mulighed for et »flydende« pant i virksomhedens kundetilgodehavender således, at de enkelte fordringer omfattes af panteretten, efterhånden som de stiftes ved salg af varer m.v. på kredit, og udgår af pantet fx ved indfrielse af fordringen.  
 
 Ifølge TL § 47 e, stk. 2, kan en virksomhed ikke på samme tid pantsætte sine aktiver efter både TL § 47 c (virksomhedspant) og efter TL § 47 d (fordringspant).  
 
@@ -1928,9 +1971,9 @@ Området for værdipapirhandel reguleres af Lovbekendtgørelse nr. 12 af 8. janu
 
 Kapitalmarkedsloven indeholder overordnet den samlede regulering, der gælder for udstedelse og handel med finansielle instrumenter på markedspladser. 
 
-De væsentligste områder, der reguleres, er reglerne om betingelse for optagelse til handel på en markedsplads af et finansielt instrument, f.eks. reglerne om prospektkrav, om udstedernes og andres oplysningsforpligtigelser og om overtagelsestilbud. 
+De væsentligste områder, der reguleres, er reglerne om betingelse for optagelse til handel på en markedsplads af et finansielt instrument, fx reglerne om prospektkrav, om udstedernes og andres oplysningsforpligtigelser og om overtagelsestilbud. 
 
-Derudover omfatter loven regler om organisation og virksomhedsudøvelse, som gælder for de af markedets virksomheder, som ikke er undergivet anden finansiel lovgivning, f.eks. markedspladserne. 
+Derudover omfatter loven regler om organisation og virksomhedsudøvelse, som gælder for de af markedets virksomheder, som ikke er undergivet anden finansiel lovgivning, fx markedspladserne. 
 
 Disse virksomhedstyper er også undergivet et tilsyn og skal have en tilladelse, førend deres aktiviteter kan påbegyndes.  
 
@@ -1949,11 +1992,11 @@ Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkeds
 
 ## Om værdipapircentralen  
 
----
+
  
 *Værdipapircentralens hjemmeside*
 
-<div class="video-container"><iframe src="https://www.vp.dk/"  frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+Se Video: **https://www.vp.dk/**
 
 ---
 

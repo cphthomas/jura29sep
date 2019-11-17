@@ -569,6 +569,12 @@ Investeringsforvaltningsselskabet skal endvidere give oplysninger om den seneste
 
 ---
 
+**Studenteropgave**
+
+Find 5 afgørelser fra Finanstilsynet om et pengeinstitut har overtrådt god skik reglerne.
+
+---
+
 
 ## <font color="red">Særlige god skik regler for forsikringsselskaber<sup> Premium </font></sup>
 
@@ -990,7 +996,7 @@ Hvis en forsikringsformidler eller et forsikringsselskab har underrettet kunden 
 
 
 
-Når Finanstilsynet træffer en afgørelse om, at en finansiel virksomhed har overtrådt reglerne om god skik på virksomhedsområdet, vil Finanstilsynet pålægge finansiel virksomhed at berigtige forholdet. 
+Når Finanstilsynet træffer en afgørelse om, at en finansiel virksomhed har overtrådt reglerne om god skik på virksomhedsområdet, vil Finanstilsynet pålægge den finansielle virksomhed at berigtige forholdet. 
 
 Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet snarest muligt at ændre den kritisable handlemåde, og at finansiel virksomhed indretter fremtidig praksis i overensstemmelse med Finanstilsynets afgørelse, jf. Lov om finansiel virksomhed § 348, stk. 2. Undladelse heraf er sanktioneret med bøde, jf. Lov om finansiel virksomhed § 373, stk. 3. 
 
@@ -1010,7 +1016,7 @@ Dette indebærer, at finansiel virksomhed tilkendegiver over for Finanstilsynet 
 
 ---
 
-**Finanstilsynets afgørelse af 10. oktober 2006:* Et forsikringsselskab handlede ikke i strid med god skik, da det meddelte kunder, som havde tegnet forsikring via to forsikringsagenter, at de ikke kunne fortsætte forsikringen, hvis ikke de gav samtykke til at finansiel virksomhed videregiver fortrolige oplysninger til brug for administration og rådgivning til forsikringsagenten.
+**Finanstilsynets afgørelse af 10. oktober 2006:** Et forsikringsselskab handlede ikke i strid med god skik, da det meddelte kunder, som havde tegnet forsikring via to forsikringsagenter, at de ikke kunne fortsætte forsikringen, hvis ikke de gav samtykke til at finansiel virksomhed videregiver fortrolige oplysninger til brug for administration og rådgivning til forsikringsagenten.
 
 ---
 
@@ -1054,6 +1060,12 @@ Selskabet har på baggrund af sagen fået påbud om at informere og rådgive de 
 
 ---
 
+**Studenteropgave**
+
+Find 5 afgørelser fra Finanstilsynet om et forsikringsselskab har overtrådt god skik reglerne.
+
+---
+
 ## <font color="red">God skik ved boligkredit<sup> Premium </font></sup>
 
 Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom. 
@@ -1080,9 +1092,9 @@ I bilag 1, 2 og 3 til boligkreditbekendtgørelsen kan man finde tjeklister for h
 
 1.	Former for adfærd, som under alle omstændigheder anses for urimelige i private kundeforhold,
 
-2.	Dokumentation for rådgivning om en boligkreditaftale
+2.	Dokumentation for rådgivning om en boligkreditaftale.
 
-3.	Standardforudsætninger  
+3.	Standardforudsætninger.  
 
 ---
 
@@ -1093,9 +1105,9 @@ Efter boligkreditbekendtgørelsens § 17, skal en boligkreditgiver eller boligkr
 
 En boligkreditgiver eller boligkreditformidler skal inden ydelsen af rådgivning eller i givet fald inden indgåelsen af en aftale om ydelse af rådgivning på varigt medium give låntageren følgende oplysninger:  
 
-1.	hvorvidt rådgivningen udelukkende ydes på grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4, nr. 2, eller på grundlag af andre produkter på markedet i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 5, så låntageren kan forstå grundlaget for anbefalingen, og
+1. Hvorvidt rådgivningen udelukkende ydes på grundlag af eget produktudvalg i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4, nr. 2, eller på grundlag af andre produkter på markedet i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 5, så låntageren kan forstå grundlaget for anbefalingen, og
 
-2.	størrelsen på det gebyr, låntageren eventuelt skal betale for rådgivningen eller, hvis beløbet ikke kan fastlægges på meddelelsestidspunktet, den anvendte metode til beregningen heraf.  
+2. Størrelsen på det gebyr, låntageren eventuelt skal betale for rådgivningen eller, hvis beløbet ikke kan fastlægges på meddelelsestidspunktet, den anvendte metode til beregningen heraf.  
 
 Oplysningerne kan gives til låntageren i form af yderligere oplysninger forud for aftaleindgåelsen. 
 
@@ -1115,11 +1127,11 @@ En ikke-bunden boligkreditformidler skal tage et tilstrækkeligt stort antal bol
 
 En boligkreditgiver eller boligkreditformidler skal handle i låntagerens interesse ved at: 
 
-1.	holde sig underrettet om låntagerens behov og forhold,
+1.	Holde sig underrettet om låntagerens behov og forhold,
 
-2.	anbefale egnede boligkreditaftaler i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4-5, og  
+2.	Anbefale egnede boligkreditaftaler i overensstemmelse med boligkreditbekendtgørelsens § 17, stk. 4-5, og  
 
-3.	forsyne låntageren med en kopi af den fremsatte anbefaling på papir eller andet varigt medium.  
+3.	Forsyne låntageren med en kopi af den fremsatte anbefaling på papir eller andet varigt medium.  
 
 ---
 
@@ -1137,13 +1149,13 @@ En boligkreditgiver eller boligkreditformidler skal, hvis låntageren kan få r�
 
 Vejledningen i stk. 1 skal blandt andet indeholde:  
 
-1.	oplysningerne som følger af kreditaftalelovens § 7 a for så vidt angår boligkreditgivere og kreditaftalelovens § 7 a og denne bekendtgørelses § 12 for så vidt angår boligkreditformidlere,
+1. Oplysningerne som følger af kreditaftalelovens § 7 a for så vidt angår boligkreditgivere og kreditaftalelovens § 7 a og denne bekendtgørelses § 12 for så vidt angår boligkreditformidlere,
 
-2. de væsentlige karakteristika ved det foreslåede produkt,
+2. De væsentlige karakteristika ved det foreslåede produkt,
 
-3. de specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og
+3. De specifikke konsekvenser, som det foreslåede produkt kan have for låntageren, herunder betydningen af låntagerens betalingsmisligholdelse, og
 
-4. oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.  
+4. Oplysning om hvorvidt hver komponent kan afvikles separat og konsekvenserne herved for låntageren, hvis accessoriske tjenesteydelser indgår i en pakke med kreditaftalen.  
 
 ---
 
@@ -1525,8 +1537,9 @@ Erklæringen skal gives på et varigt medium.
 
 Når en aftale om at købe eller sælge et finansielt instrument indgås ved hjælp af fjernkommunikation, som forhindrer en forudgående afgivelse af en erklæring om egnethed, kan værdipapirhandleren afgive den skriftlige erklæring om egnethed på et varigt medium umiddelbart efter, at kunden er bundet af en aftale, forudsat at følgende betingelser er opfyldt:  
 
-Kunden har indvilliget i at modtage erklæringen om egnethed uden unødig forsinkelse efter gennemførelsen af transaktionen.
-Investeringsselskabet har givet kunden mulighed for at udskyde transaktionen for at modtage erklæringen om egnethed på forhånd.  
+1. Kunden har indvilliget i at modtage erklæringen om egnethed uden unødig forsinkelse efter gennemførelsen af transaktionen.
+
+2. Investeringsselskabet har givet kunden mulighed for at udskyde transaktionen for at modtage erklæringen om egnethed på forhånd.  
 
 ---
 
@@ -1562,23 +1575,23 @@ Når en værdipapirhandler alene modtager, formidler eller udfører en kundes or
 
 Aktier, der er optaget til handel på et reguleret marked eller i en multilateral handelsfacilitet (MHF) her i landet, i andre lande inden for Den Europæiske Union
 
-eller lande, som Fællesskabet har indgået aftale med på det finansielle område.
+Eller lande, som Fællesskabet har indgået aftale med på det finansielle område.
 
-eller  på et tilsvarende tredjelandsmarked, med undtagelse af aktier i institutter for kollektiv investering, som ikke er UCITS, og aktier, som omfatter et afledt instrument, pengemarkedsinstrumenter som ikke omfatter et afledt instrument 
+Eller  på et tilsvarende tredjelandsmarked, med undtagelse af aktier i institutter for kollektiv investering, som ikke er UCITS, og aktier, som omfatter et afledt instrument, pengemarkedsinstrumenter som ikke omfatter et afledt instrument 
 
-eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, gældsinstrumenter, der er optaget til handel på et reguleret marked 
+Eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, gældsinstrumenter, der er optaget til handel på et reguleret marked 
 
-eller i en multilateral handelsfacilitet (MHF) her i landet, i andre lande inden for Den Europæiske Union 
+Eller i en multilateral handelsfacilitet (MHF) her i landet, i andre lande inden for Den Europæiske Union 
 
-eller lande, som Fællesskabet har indgået aftale med på det finansielle område, 
+Eller lande, som Fællesskabet har indgået aftale med på det finansielle område, 
 
-eller på et tilsvarende tredjelandsmarked, der ikke omfatter et afledt instrument 
+Eller på et tilsvarende tredjelandsmarked, der ikke omfatter et afledt instrument 
 
-eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, andele i investeringsforeninger 
+Eller en struktur, som gør det vanskeligt for kunden at forstå den involverede risiko, andele i investeringsforeninger 
 
-eller tilsvarende investeringsinstitutter omfattet af lov om investeringsforeninger (UCITS), bortset fra strukturerede investeringsinstitutter som omhandlet i artikel 36, stk. 1, 2. afsnit, i forordning (EU) nr. 583/2010, strukturerede indlån, bortset fra dem, der omfatter en struktur, som gør det vanskeligt for kunden at forstå afkastrisikoen eller omkostningerne forbundet med opsigelse af produktet før tid, 
+Eller tilsvarende investeringsinstitutter omfattet af lov om investeringsforeninger (UCITS), bortset fra strukturerede investeringsinstitutter som omhandlet i artikel 36, stk. 1, 2. afsnit, i forordning (EU) nr. 583/2010, strukturerede indlån, bortset fra dem, der omfatter en struktur, som gør det vanskeligt for kunden at forstå afkastrisikoen eller omkostningerne forbundet med opsigelse af produktet før tid, 
 
-eller andre ikke-komplekse finansielle instrumenter.  
+Eller andre ikke-komplekse finansielle instrumenter.  
 
 ---
 
@@ -1683,13 +1696,13 @@ Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende 
   
 *	Værdipapirhandler skal lægge vægt på følgende kriterier:
 
-+	Kundens karakteristika, herunder detail- eller professionel kunde
++	Kundens karakteristika, herunder detail- eller professionel kunde.
   
-+	Kundeordrens karakteristika
++	Kundeordrens karakteristika.
   
-+	De finansielle instrumenters karakteristika
++	De finansielle instrumenters karakteristika.
   
-+	Handelsstedernes karakteristika
++	Handelsstedernes karakteristika.
 
 
 ---
@@ -1707,16 +1720,31 @@ Værdipapirhandler skal blandt andet ved valg af handelssted inddrage følgende 
 Finanstilsynet modtog i april 2009 en klage over Formuepleje A/S Fondsmæglerselskabs markedsføring af aktier i investeringsselskab, herunder Formuepleje A/S Fondsmæglerselskabs annonce med ordlyden:  
 "Få 8 % udbytte på investering i danske obligationer".  
 
-Finanstilsynet finder efter en samlet vurdering, at Formuepleje A/S Fondsmæglerselskabs markedsføring af investeringsproduktet har været i strid med § 8 i bekendtgørelse nr. 809 af 29. juni 2007 om investorbeskyttelse ved værdipapirhandel. Finanstilsynet vurderer, at markedsføringsmaterialet ikke giver investorerne et afbalanceret indtryk af potentielle afkast og tab. Finanstilsynet lægger i vurderingen vægt på, at Formuepleje A/S Fondsmæglerselskab ikke kan garantere et årligt udbytte på 8 %. Dette bør derfor oplyses i umiddelbar forlængelse heraf i annoncer og salgsbrochure. Ligeledes burde det i salgsmaterialet have været fremhævet, at der er tale om en gearet investering, hvor investorerne kan risikere, at miste hele det beløb de investerer”. 
+Finanstilsynet finder efter en samlet vurdering, at Formuepleje A/S Fondsmæglerselskabs markedsføring af investeringsproduktet har været i strid med § 8 i bekendtgørelse nr. 809 af 29. juni 2007 om investorbeskyttelse ved værdipapirhandel. 
+
+Finanstilsynet vurderer, at markedsføringsmaterialet ikke giver investorerne et afbalanceret indtryk af potentielle afkast og tab. 
+
+Finanstilsynet lægger i vurderingen vægt på, at Formuepleje A/S Fondsmæglerselskab ikke kan garantere et årligt udbytte på 8 %. Dette bør derfor oplyses i umiddelbar forlængelse heraf i annoncer og salgsbrochure. 
+
+Ligeledes burde det i salgsmaterialet have været fremhævet, at der er tale om en gearet investering, hvor investorerne kan risikere, at miste hele det beløb de investerer”. 
 
 ---
 
 **Finanstilsynets afgørelse af 26. september 2008:** Bekendtgørelse om investorbeskyttelse ved værdipapirhandel (dagældende) § 8 - Østjydsk Bank A/S får påtale for vildledende markedsføring:  
 
-”Østjydsk Bank A/S har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende. Endvidere har Østjydsk Bank A/S fået en påtale for, at banken ved anprisningen af kursudvikling de senere år undladt at medtage oplysninger om afkast for de fem foregående år, ligesom banken har undladt at gøre opmærksom på, at tallene er historiske, og at tidligere afkast ikke kan anvendes som en pålidelig indikator for fremtidige afkast.
+”Østjydsk Bank A/S har fået en påtale af Finanstilsynet for en bestemt form for markedsføring, som Finanstilsynet finder vildledende. 
 
-Finanstilsynet fik den 10. september 2008 henledt opmærksomheden på Østjydsk Bank A/S' hjemmeside, hvorpå der var mulighed for at købe Østjydsk Bank aktier ved at udfylde en bestillingskupon. Endvidere fremgik samme sted, at aktionærer i Østjydsk Bank A/S de senere år er blevet belønnet med særdeles store afkast, ligesom banken er inde i en meget positiv udvikling, som ser ud til at fortsætte. Endelig fremgik det, at man kunne få del i denne udvikling, herunder i form af fremtidige stigninger i aktiekursen samt eventuelt aktieudbytte.  
-En anprisning af bankens meget positive udvikling, herunder at udviklingen ser ud til at fortsætte, finder Finanstilsynet sker på en sådan måde, som er egnet til at forskyde kundens fokus fra aktiekøbet, så kunden ikke er så opmærksom på de risici, der er forbundet med en aktieinvestering, fordi opmærksomheden fuldt ud er rettet mod de fordele, kunden kan opnå ved at købe aktierne. Det er Finanstilsynets vurdering, at en sådan forskydning af fokus er i strid med § 8, stk. 1 i bekendtgørelse om investorbeskyttelse ved værdipapirhandel.  
+Endvidere har Østjydsk Bank A/S fået en påtale for, at banken ved anprisningen af kursudvikling de senere år undladt at medtage oplysninger om afkast for de fem foregående år, ligesom banken har undladt at gøre opmærksom på, at tallene er historiske, og at tidligere afkast ikke kan anvendes som en pålidelig indikator for fremtidige afkast.
+
+Finanstilsynet fik den 10. september 2008 henledt opmærksomheden på Østjydsk Bank A/S' hjemmeside, hvorpå der var mulighed for at købe Østjydsk Bank aktier ved at udfylde en bestillingskupon. 
+
+Endvidere fremgik samme sted, at aktionærer i Østjydsk Bank A/S de senere år er blevet belønnet med særdeles store afkast, ligesom banken er inde i en meget positiv udvikling, som ser ud til at fortsætte. 
+
+Endelig fremgik det, at man kunne få del i denne udvikling, herunder i form af fremtidige stigninger i aktiekursen samt eventuelt aktieudbytte.  
+
+En anprisning af bankens meget positive udvikling, herunder at udviklingen ser ud til at fortsætte, finder Finanstilsynet sker på en sådan måde, som er egnet til at forskyde kundens fokus fra aktiekøbet, så kunden ikke er så opmærksom på de risici, der er forbundet med en aktieinvestering, fordi opmærksomheden fuldt ud er rettet mod de fordele, kunden kan opnå ved at købe aktierne. 
+
+Det er Finanstilsynets vurdering, at en sådan forskydning af fokus er i strid med § 8, stk. 1 i bekendtgørelse om investorbeskyttelse ved værdipapirhandel.  
 
 En angivelse af, at aktionærer i Østjydsk Bank A/S de senere år er blevet belønnet med særdeles store afkast uden oplysninger om de foregående 5 års afkast og uden angivelse af, at dette ikke kan anvendes som en pålidelig indikator for fremtidige afkast, vurderes at være i strid med reglerne i § 8, stk. 3, nr. 1 og 3 i bekendtgørelse om investorbeskyttelse ved værdipapirhandel”.  
 
@@ -1727,15 +1755,20 @@ En angivelse af, at aktionærer i Østjydsk Bank A/S de senere år er blevet bel
 ”Finanstilsynet har undersøgt Totalbanken A/S’ efterlevelse af reglerne for investorbeskyttelse i forbindelse med, at banken har rådgivet om og solgt kapitalbeviser i form af hybrid kernekapital til sine kunder. 
 
 I undersøgelsen har Finanstilsynet bl.a. vurderet bankens markedsførings- og rådgivningsmateriale, og derudover er 20 tilfældigt udvalgte kundemapper blevet gennemgået.   
+
 Finanstilsynet konkluderer, at Totalbanken ikke i tilstrækkeligt omfang har sikret sig, at der er sket en opdatering af investorernes egnethedstests i forbindelse med, at banken har ydet investeringsrådgivning om produktet. 
 
-Banken kan derved ikke dokumentere, at have afdækket om investeringen var egnet for kunden inden banken har anbefalet kunden at investere i kapitalbeviserne. Dette er i strid med investorbeskyttelsesbekendtgørelsens § 16, stk. 1, og Finanstilsynet påbyder Totalbanken at indføre procedurer, der sikrer, at kundernes egnethedstest opdateres, når det er relevant.
+Banken kan derved ikke dokumentere, at have afdækket om investeringen var egnet for kunden inden banken har anbefalet kunden at investere i kapitalbeviserne. 
+
+Dette er i strid med investorbeskyttelsesbekendtgørelsens § 16, stk. 1, og Finanstilsynet påbyder Totalbanken at indføre procedurer, der sikrer, at kundernes egnethedstest opdateres, når det er relevant.
 
 Finanstilsynet fandt derudover, at der i flere tilfælde tilsyneladende er blevet solgt kapitalbeviser til kunder, uden at kunderne havde fået rådgivning inden. 
 
 Dette er et brud på bankens interne instruks til medarbejderne, og Finanstilsynet påbyder derfor Totalbanken at indføre procedurer til at sikre, at ledelsens instrukser til de ansatte efterleves i praksis.  
 
-Endelig kunne Finanstilsynet konstatere, at Totalbanken ikke i tilstrækkeligt omfang havde gennemført hensigtsmæssighedstest af de kunder, som har ønsket at investere i produktet uden at modtage rådgivning. Dette er et brud på § 17, stk. 1 i investorbeskyttelsesbekendtgørelsen, og Finanstilsynet har derfor påbudt Totalbanken at tilpasse sine procedurer, så dette imødegås fremadrettet”.  
+Endelig kunne Finanstilsynet konstatere, at Totalbanken ikke i tilstrækkeligt omfang havde gennemført hensigtsmæssighedstest af de kunder, som har ønsket at investere i produktet uden at modtage rådgivning. 
+
+Dette er et brud på § 17, stk. 1 i investorbeskyttelsesbekendtgørelsen, og Finanstilsynet har derfor påbudt Totalbanken at tilpasse sine procedurer, så dette imødegås fremadrettet”.  
 
 
 ---
@@ -1744,7 +1777,9 @@ Endelig kunne Finanstilsynet konstatere, at Totalbanken ikke i tilstrækkeligt o
 
 ”Finanstilsynet har gennemført en undersøgelse af investeringsrådgivningen og gennemførelsen af egnethedstesten i Danske Banks digitale investeringsløsning June. Finanstilsynet påtaler, at banken på fire punkter ikke har efterlevet reglerne om investorbeskyttelse.  
 
-Undersøgelsen er gennemført på baggrund af, at der sker stor udvikling af nye digitale løsninger på det finansielle område, herunder også investeringsløsninger. Finanstilsynet lægger i forhold til digitale rådgivningsløsninger vægt på, at de regler, der gælder for rådgivning, også bliver overholdt, når rådgivningen sker på en digital platform.
+Undersøgelsen er gennemført på baggrund af, at der sker stor udvikling af nye digitale løsninger på det finansielle område, herunder også investeringsløsninger. 
+
+Finanstilsynet lægger i forhold til digitale rådgivningsløsninger vægt på, at de regler, der gælder for rådgivning, også bliver overholdt, når rådgivningen sker på en digital platform.
 
 Finanstilsynet har påtalt følgende fire forhold:  
 Banken havde ikke i tilstrækkelig grad indhentet pålidelige oplysninger om kundens investeringshorisont og havde ikke i tilstrækkelig grad sikret, at June var egnet til at indsamle disse kundeoplysninger.
@@ -1764,8 +1799,12 @@ Danske Bank har overfor Finanstilsynet redegjort for, at der er rettet op på ma
 
 Saxo Bank A/S har en henvisningsaftale med Blue Screen Media, hvor banken løbende betaler et beløb pr. henvist kunde. Henvisningshonoraret er afhængig af bankens indtjening på kunden i de første 24 måneder af kundeforholdet.  
 
-Banken oplyste kunderne om, at de modtog en henvisningsprovision, når de registrerede sig som kunder i banken, men banken oplyste ikke kunderne om størrelsen på henvisningshonoraret med mindre kunden anmodede om det, og banken oplyste heller ikke umiddelbart om, at størrelsen på honoraret var afhængig af banken indtjening på kunden.  
-Det følger af § 7, stk. 2 i investorbeskyttelsesbekendtgørelsen, at en bank kun må modtage præmiering, hvis det ikke berører dennes forpligtelse til at handle i overensstemmelse med kunden bedste interesse, og hvis kunde er blevet oplyst om præmieringens eksistens, større og karakter forud for aftalens opfyldelse. Hvis ikke man kan oplyse størrelsen på præmieringen skal beregningsmetoden oplyses.  
+Banken oplyste kunderne om, at de modtog en henvisningsprovision, når de registrerede sig som kunder i banken, men banken oplyste ikke kunderne om størrelsen på henvisningshonoraret med mindre kunden anmodede om det, og banken oplyste heller ikke umiddelbart om, at størrelsen på honoraret var afhængig af banken indtjening på kunden. 
+
+Det følger af § 7, stk. 2 i investorbeskyttelsesbekendtgørelsen, at en bank kun må modtage præmiering, hvis det ikke berører dennes forpligtelse til at handle i overensstemmelse med kunden bedste interesse, og hvis kunde er blevet oplyst om præmieringens eksistens, større og karakter forud for aftalens opfyldelse. 
+
+Hvis ikke man kan oplyse størrelsen på præmieringen skal beregningsmetoden oplyses.  
+
 Finanstilsynet vurderede, at Saxo Bank A/S summariske oplysninger om henvisningshonoraret også skal opfatte en angivelse af størrelsen på præmieringen, så kunderne kan få et rimeligt indtryk af niveauet for præmieringen og, der med i hvilken grad denne virker incitamentsskabende for banken og /eller Blue Screen Media”.  
 
 
@@ -2051,7 +2090,9 @@ Ejendomsmægler kan være ansvarlig for skuffede forventninger, således at der 
 
 ”Er der til skade for forbrugeren foretaget en forkert beregning af provenu ved salg, jf. § 38, stk. 3, og er forbrugeren i god tro, har forbrugeren krav på godtgørelse af forskellen mellem den forkerte og den korrekte beregning. 
 
-Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ved køb, jf. § 39, stk. 1, og er forbrugeren i god tro, har forbrugeren krav på en rimelig godtgørelse af forskellen mellem den forkerte og den korrekte beregning. Har forbrugeren i god tro handlet i tillid til rigtigheden af en værdiansættelse, og afviger denne væsentligt fra en korrekt værdiansættelse, har forbrugeren krav på en rimelig godtgørelse af forskellen.”
+Er der til skade for forbrugeren foretaget en forkert beregning af ejerudgift ved køb, jf. § 39, stk. 1, og er forbrugeren i god tro, har forbrugeren krav på en rimelig godtgørelse af forskellen mellem den forkerte og den korrekte beregning. 
+
+Har forbrugeren i god tro handlet i tillid til rigtigheden af en værdiansættelse, og afviger denne væsentligt fra en korrekt værdiansættelse, har forbrugeren krav på en rimelig godtgørelse af forskellen.”
 
 ---
 

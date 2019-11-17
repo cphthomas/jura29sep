@@ -595,9 +595,7 @@ Det kunne eksempelvis være, hvis revisionsvirksomhedens HR-afdeling står for r
 
 Hvis revisor på baggrund af oplysninger fra en potentiel kunde vælger ikke at påtage sig opgaven, er revisor ikke omfattet af krav om kundekendskabsprocedurer, men underretningspligten i henhold til hvidvasklovens § 26 gælder fra den potentielle kundes første henvendelse. 
 
----
 
-<img src="img/Hvidvask 7.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
@@ -661,8 +659,7 @@ Enkeltstående udbud af de omhandlede tjenesteydelser, som ikke kan karakteriser
 
 Efter hvidvasklovens § 1, stk. 1, nr. 19, at *valutavekslingsvirksomhed* er omfattet af hvidvasklovens anvendelsesområde. 
 
-
-<img src="img/Hvidvask 8.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/Hvidvask 8.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
@@ -751,9 +748,10 @@ De almindelige tilfælde, hvor en butik modtager betaling i fremmed valuta og gi
 
 Det er dog ikke et krav, at valutaveksling er hovedaktiviteten.
 
+---
+
 **Se sagen fra Finanstilsynet om DFDS:**
 
----
 
 ![](img/dfds1.jpg)
 
@@ -882,6 +880,8 @@ De øvrige dele blev gennemført ved L 2016 262, Indførelse af register over re
 Loven viderefører bestemmelser fra den tidligere lov, der gennemfører FATF’s særlige anbefalinger til bekæmpelse af terrorfinansiering, som blev vedtaget efter terrorangrebene den 11. september 2001.
 
 Hvidvaskloven tager højde for store dele af forslagene i betænkning nr. 1447/2004 om hvidvasklovgivningen afgivet af Justitsministeriets udvalg om økonomisk kriminalitet og datakriminalitet.
+
+---
 
 Loven viderefører bestemmelser fra den tidligere hvidvasklov, der gennemfører de forpligtelser, der følger af FN-konventionen af 9. december 1999 til bekæmpelse af finansiering af terrorisme samt FN’s Sikkerhedsråds resolution nr. 1373 af 28. september 2001 om bekæmpelse af terrorisme og finansiering af terrorisme. 
 
@@ -2738,12 +2738,6 @@ Anden lovgivning:
 
 *Europa-Parlamentets og Rådets forordning (EU) 2015/847 af 20. maj 2015 om oplysninger, der skal medsendes ved pengeoverførsler, og om ophævelse af forordning (EF) nr. 1781/2006.*
 
----
-
-**Video: Robotter som overvåger og misbruger betalingskort, sporeringer af penge og digital valuta mod hvidvask**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/7Td10SE8O_U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
 
 ---
 
@@ -2856,7 +2850,7 @@ Se afsnittet "om risikovurdering - kundekendskabsprocedurer".
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: § 10, stk. 1, nr. 5. 4*. 
 *hvidvaskdirektiv: Artikel 11, stk. 1, litra f*.
@@ -3447,7 +3441,7 @@ Erhvervsstyrelsens Vejledning bilag 2 er et fortolkningsbidrag i forbindelse med
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: § 11, stk. 1, nr. 3 og § 2, stk. 1, nr. 1 og 9.* 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1, litra b*. 
@@ -3574,7 +3568,7 @@ Det kan fx være aktuelt i forbindelse med et pengeinstituts overvågning af der
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 
 *Henvisning til hvidvaskloven: § 11, stk. 1, nr. 5*. 
@@ -3645,7 +3639,7 @@ I situationer, hvor fuldmagtsforholdet ikke er klar, eller hvor der er tvivl om 
 
 Kravet til, at virksomheden sikrer, at den fysiske eller juridiske person, der handler på vegne af kunden, har beføjelse til dette, gælder ikke, hvis den pågældende person er en advokat med beskikkelse i Danmark eller i et EU- eller EØS-land.
 
-**Retsgrundlaget:**
+**Retsgrundlaget i hvidvaskreglerne:**
 
 **Henvisning til hvidvaskloven: § 11, stk. 2**. 
 **Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 1**. 
@@ -3682,7 +3676,7 @@ Det betyder, at kontrollen af identitetsoplysninger kan vente med at blive genne
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: § 12, stk.1 og 2*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 5.* 
@@ -3903,7 +3897,7 @@ Virksomheden må derfor fx ikke oprette en korrespondentforbindelse før, virkso
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: §§ 19, 20 og 2, stk. 4*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 19 og 24*. 
@@ -4007,7 +4001,7 @@ Dette er relevant for, at virksomheden kan vurdere, om der i forhold til den enk
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: § 11, stk. 3*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 13, stk. 2*.
@@ -4113,7 +4107,7 @@ Hvis virksomheden i ovenstående eller andre tilfælde vurderer, at kunden har h
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvaskloven: § 17*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 18*
@@ -4278,7 +4272,7 @@ Det er en betingelse for undtagelsen, at der ikke gennemføres transaktioner, f�
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvasklovens: § 14, stk. 1-4.* 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 10, stk. 1 og 14, stk. 4.*
@@ -4365,7 +4359,7 @@ Advokaten har samme pligt til at forsøge at gennemføre kundekendskabsprocedure
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvasklovens: § 14, stk. 5 og 15*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 14, stk. 4.* 
@@ -4395,7 +4389,7 @@ Hvidvasklovens krav i lovens § 16 er derfor ikke en fravigelse til persondatalo
 
 ---
 
-*Retsgrundlaget:*
+*Retsgrundlaget i hvidvaskreglerne:*
 
 *Henvisning til hvidvasklovens: § 16*. 
 *Henvisning til 4. hvidvaskdirektiv: Artikel 43, stk. 3.*
@@ -4658,8 +4652,7 @@ Der stilles fortsat krav om at skal have tilstrækkelige procedurer til at afgø
 
 Den enkelte ejendomsmægler og ejendomsmæglervirksomhed skal foretage en analyse af, hvor stor risikoen er, for at de kan blive misbrugt til hvidvask af en kunde; af køber som af sælger. 
 
-Finanstilsynet har offentligjort en liste over de danske politisk udsatte personer, men ikke deres pårørende eller samarbejdspartnere:
-
+Finanstilsynet har offentligjort en liste over de danske politisk udsatte personer, men ikke deres pårørende eller samarbejdspartnere. Se link her:
 **https://www.finanstilsynet.dk/Tal-og-Fakta/PEP-liste**
 
 ---

@@ -221,10 +221,9 @@ Efter Forbrugerombudsmandens opfattelse er stofmisbrug et samfundsproblem, som i
 
 Hensynet til de erhvervsdrivende interesser:
 
-Se dommen i **U 2004.1561 H** – BR legetøj – domænenavn:
-**https://pro.karnovgroup.dk/document/7000290526/1**
+Se dommen i **U 2004.1561 H** – BR legetøj – domænenavn. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000290526/1**
 
-Se dommen i **U 1992.909 SH** – Superellipsebordet:
+Se dommen i **U 1992.909 SH** – Superellipsebordet. Se link til dommen her:
 **https://pro.karnovgroup.dk/document/7000200268/1**
 
 ---
@@ -468,7 +467,7 @@ Markedsføring betragtes som værende aggressiv, hvis den i forhold til den fakt
 
 Ved vurderingen af, om der foreligger en aggressiv markedsføring, skal der tages hensyn til følgende omstændigheder:
 
-a) Tidspunktet for markedsføringen og stedet hvor den har fundet sted. Det kan tillægges betydning, om den pågældende handelspraksis foregår i det offentlige rum eller i den erhvervsdrivendes forretningslokaler, hvorfra forbrugeren let kan fjerne sig, eller på steder, hvor man som forbruger som udgangspunkt ikke forventer at blive udsat for den pågældende handelspraksis, f.eks. på forbrugerens bopæl, arbejds- sted eller på andre steder, hvortil der ikke er offentlig adgang.
+a) Tidspunktet for markedsføringen og stedet hvor den har fundet sted. Det kan tillægges betydning, om den pågældende handelspraksis foregår i det offentlige rum eller i den erhvervsdrivendes forretningslokaler, hvorfra forbrugeren let kan fjerne sig, eller på steder, hvor man som forbruger som udgangspunkt ikke forventer at blive udsat for den pågældende handelspraksis, fx på forbrugerens bopæl, arbejds- sted eller på andre steder, hvortil der ikke er offentlig adgang.
 
 b) Anvendelse af truende eller utilbørligt sprog eller adfærd.
 
@@ -480,20 +479,19 @@ Det kan eksempelvis omfatte situationer, hvor en erhvervsdrivende udnytter, at f
 
 d) At den erhvervsdrivende opstiller byrdefulde og uforholdsmæssig omfattende hindringer, som ikke er af kontraktuel karakter, når forbrugeren ønsker at udøve sine rettigheder i forbindelse med en kontrakt, herunder at ophæve denne eller vælge en anden vare eller tjenesteydelse eller en anden leverandør.
 
-Som eksempel kan nævnes erhvervsdrivende, som kun har en meget kort åbningstid, eller som det i praksis er umuligt at kommunikere med, fordi vedkommende ikke tager sin telefon og nægter at modtage breve eller uden saglig grund stiller krav om, at en opsigelse f.eks. kun kan ske via telefax.
+Som eksempel kan nævnes erhvervsdrivende, som kun har en meget kort åbningstid, eller som det i praksis er umuligt at kommunikere med, fordi vedkommende ikke tager sin telefon og nægter at modtage breve eller uden saglig grund stiller krav om, at en opsigelse fx kun kan ske via telefax.
 
 Det bemærkes, at anvendelse af ulovlig tvang og vold også er reguleret i straffeloven, jf. staffelovens §§ 244-245, 246 samt 260. Der kan straffes i sammenstød med disse bestemmelser.
 
 Utilbørlig påvirkning er defineret i lovens § 2, nr. 11, som udnyttelse af magtposition i forhold til forbrugeren til at udøve pres selv uden anvendelse eller trusler om anvendelse af fysisk vold på en måde, som væsentligt begrænser forbrugerens evne til at træffe en informeret beslutning.
 
-Bestemmelsen omfatter aggressive salgsmetoder som f.eks. gentagende fremsendelse af produkter, som forbrugeren ikke har bestilt og pyramidesalg.
+Bestemmelsen omfatter aggressive salgsmetoder som fx gentagende fremsendelse af produkter, som forbrugeren ikke har bestilt og pyramidesalg.
 
 Som efter stk. 1 er det et krav, at markedsføringen har en kommerciel effekt, således at den er egnet til mærkbart at forvride modtagerens økonomiske adfærd. Se nærmere noten til stk. 1. 
 
 ---
 
-Se hertil dommen i **U 2013.2396 SH** Moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn:
-**https://pro.karnovgroup.dk/document/7000537950/1**
+Se hertil dommen i **U 2013.2396 SH** Moderselskab til producent af isoleringsmateriale baseret på stenuld havde overtrådt markedsføringslovens §§ 1, 3 og 5 ved i to artikler i et nyhedsbrev at have omtalt brandfaren ved skumplastisolering med brug af bl.a. dramatiske ord- og billedvalg og et unødigt skræmmende tekstindhold med følelsesladede ord og udsagn. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000537950/1**
 
 
 ---
@@ -773,7 +771,7 @@ Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskurs
 
 ---
 
-## <font color="red">Procast om markedsføring<sup> Premium </font></sup>
+## <font color="red">Procast og Quiz om markedsføring<sup> Premium </font></sup>
 
 **Spam Podcastserie #1 - Den nye spamvejledning og forhåndsafkrydsning (med Forbrugerombudsmanden).**^[Følgende podcast er hentet fra Datatilsynets hjemmeside.]
 
@@ -793,6 +791,12 @@ Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskurs
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/535689081&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
+
+---
+
+**Quiz om markedsføringsloven**
+
+**https://www.forbrug.dk/quiz/markedsfoeringslov/**
 
 ---
 

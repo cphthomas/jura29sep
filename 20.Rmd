@@ -41,8 +41,7 @@ Afgifter til andre offentlige myndigheder end stat og kommune er ikke omfattet a
 
 ---
 
-Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
-om tinglysning, se tinglysningsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075 om tinglysning, se tinglysningsloven i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 
 ---
@@ -96,13 +95,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 *Følgende skal afklares, før rettighedskonflikten kan finde sin juridiske løsning:*
 
-* Aktivtypen
+* Aktivtypen.
 
-* Rettighedstypen
+* Rettighedstypen.
 
-* Sikringsakten
+* Sikringsakten.
 
-* Type af rettighedskonflikt
+* Type af rettighedskonflikt.
 
 ---
 
@@ -142,9 +141,9 @@ Hvis en rettighedshaver (A) disponerer mere end en gang over den samme rettighed
 
 *U:* C kan fortrænge B’s ret, hvis:
   
-B ikke har foretaget den nødvendige sikringsakt
+B ikke har foretaget den nødvendige sikringsakt.
 
-C har selv foretaget sin sikringsakt
+C har selv foretaget sin sikringsakt.
 
 Er C aftaleerhverver, skal C være i god tro om B’s ret på det tidspunkt han foretager sikringsakten.
 
@@ -157,6 +156,8 @@ Det er under forudsætning af, at han var i god tro om, at der ikke var andre re
 Dette gælder, selvom han først fik overdraget fordringen efter, at en anden havde erhvervet fordringen.
 
 Ved overdragelse af simple gældsbreve eller simple fordringer får erhververen ikke bedre ret end overdrageren, hverken over for gældsbrevets eller fordringens skyldner eller over for en tidligere indehaver af fordringen, jf. GBL § 27. 
+
+---
 
 En overdragelse kan derfor ikke føre til, at skyldneren mister sine indsigelser. 
 
@@ -189,11 +190,11 @@ Rettighedskonflikten mellem B og C skal løses efter lovbestemmelsen i TL § 1, 
 
 ---
 
-*HR:* Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen
+*HR:* Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen.
 
 *U:* C kan fortrænge B's rettighed hvis:  
   
-B ikke har fået tinglyst sin rettighed
+B ikke har fået tinglyst sin rettighed.
 
 C har fået tinglyst sin rettighed.
 
@@ -215,20 +216,24 @@ Det er antaget, at det er groft uagtsomt ikke at undersøge tingbogen.
 
 Omvendt kan *god tro* styrkes gennem tingbogens oplysninger. 
 
+---
+
 Det er næppe groft uagtsomt ikke at efterse matrikelkort eller andet kortmateriale:
 
-**U 1965.542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af f.eks. en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse.  
+**U 1965.542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af fx en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000212359/1** 
+
+---
 
 
 ![](img/hjul.jpg)
 
-Se **U 1948.130 H** (hjulspor tillige set i marken).
+Se **U 1948.130 H** (hjulspor tillige set i marken). Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000242334/1**
 
 ---
 
 Konflikten mellem indehaveren af en utinglyst ret og en erhverver af ejendommen vil undertiden kunne ses ikke som et spørgsmål om erhververens gode eller onde tro, men som et spørgsmål om, hvorvidt erhververen overhovedet har fået tilsagt en ret, der strider mod den utinglyste ret:
 
-**U 1991.27 H** 137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal: **https://pro.karnovgroup.dk/document/7000199368/1**
+**U 1991.27 H** 137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal. Se li k til hele dommen: **https://pro.karnovgroup.dk/document/7000199368/1**
 
 ---
 
@@ -356,6 +361,8 @@ I modsætning til udlæg i fast ejendom og køretøjer, så tinglyses sådanne u
 
 * TL § 37 fortrinsret over virksomhedspant. Aktiver, der er omfattet af en panteret i medfør af TL § 37, kan ikke omfattes af et virksomhedspant, uanset om panteretten i den faste ejendom er tinglyst før eller efter virksomhedspantet, jf. nærmere TL § 47 c, stk. 4, nr. 1.
 
+---
+
 * TL § 38 afskærer inden for sit anvendelsesområde adgangen til at opretholde særskilte rettigheder over bestanddele og tilbehør til den faste ejendom, det være sig i form af ejendomsforbehold, løsøreunderpant, leasing eller på anden måde.
 
 ---
@@ -409,7 +416,7 @@ Kapitalmarkedslovens § 184, stk. 1 svarer til TL § 1, stk. 1.
 
 Registreringen beskytter rettigheder mod at blive fortrængt (sikringsaktens værnende funktion). pant i fondsaktiver, at registreringskravet nok er en nødvendig, men ikke en tilstrækkelig, sikringsakt, idet registreringskravet (uanset at dette ikke fremgår direkte af bestemmelsen) suppleres af det sædvanlige krav om rådighedsberøvelse – og i tilfælde af, at det tillades pantsætter at udtage fondsaktiver af depotet, at der føres kontrol med, at der ikke udtages mere end det aftalte.  
 
-Netop ved pant i fondsaktiver gælder et skærpet krav om rådighedsherøvelse, idet blot en kortvarig adgang for pantsætter sætter ham eller hende i stand til at tømme kontoen helt ved på sekunder fra sin netbank at sælge værdipapirbeholdningen i markedet henholdsvis foretage en kontooverførsel, hvorefter den i registreringen liggende offentliggørelse alene består i en mulighed for f.eks. kurator i pantsætters konkursbo at konstatere, at depotet allerede er tømt (og at pantet er borte).  
+Netop ved pant i fondsaktiver gælder et skærpet krav om rådighedsherøvelse, idet blot en kortvarig adgang for pantsætter sætter ham eller hende i stand til at tømme kontoen helt ved på sekunder fra sin netbank at sælge værdipapirbeholdningen i markedet henholdsvis foretage en kontooverførsel, hvorefter den i registreringen liggende offentliggørelse alene består i en mulighed for fx kurator i pantsætters konkursbo at konstatere, at depotet allerede er tømt (og at pantet er borte).  
 
 ---
 
@@ -425,7 +432,7 @@ Som følge af den særlige måde, hvorpå fondsaktiver normalt omsættes har en 
 
 ---
 
-I overensstemmelse med dansk rets almindelige regler, er det ikke et krav, at retsforfølgende kreditorer (f.eks. kontohaverens udlægshaver eller konkursbo) skal være i god tro for at kunne eksstingvere.  
+I overensstemmelse med dansk rets almindelige regler, er det ikke et krav, at retsforfølgende kreditorer (fx kontohaverens udlægshaver eller konkursbo) skal være i god tro for at kunne eksstingvere.  
 
 CSD’en fastsætter tidspunkter, hvor retsvirkningen indtræder for registrering af transaktioner med fondsaktiver, der indgår i en efterfølgende nettoafviklingsblok, transaktioner med fondsaktiver, der straksafvikles i en bruttoafvikling, og for tilskrivningen af renter, udbytte og andre af udstederen af de pågældende fondsaktiver foranledigede registreringer.  
 
@@ -541,7 +548,7 @@ Lovbestemmelsen i § 186 viderefører § 69 i værdipapirhandelsloven med visse 
 
 Kun godtroende aftaleerhververe kan ekstingvere indsigelser, hvorimod reglen ikke kan påberåbes af retsforfølgende kreditorer.
 
-Reglen kan således påberåbes af en panthaver og en erhverver af ejendomsret, men f.eks. ikke af en udlægshaver eller et konkursbo.
+Reglen kan således påberåbes af en panthaver og en erhverver af ejendomsret, men fx ikke af en udlægshaver eller et konkursbo.
 
 Når der er sket endelig registrering, indtræder beskyttelsen mod eksstinktion af indsigelser vedrørende gyldigheden af en aftale om rettigheder over registrerede fondsaktiver, jf. dog de stærke indsigelser i kapitalmarkedslovens § 186, 2. pkt.
 

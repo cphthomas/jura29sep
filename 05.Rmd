@@ -13,19 +13,19 @@ Fuldmagt er en	ret til at handle i en andens navn og for en andens regning.
 
 Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lade en anden (fuldmægtigen) handle på sine vegne overfor andre (tredjepart). 
 
-Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftaleloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**
+Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftaleloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
 *Forskellige former for fuldmagter*
 
-*Stillingsfuldmagt* § 10,2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
+*Stillingsfuldmagt* aftalelovens § 10, stk. 2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
 
-*Forevisningsfuldmagt* §16,1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
+*Forevisningsfuldmagt* aftalelovens § 16, stk. 1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
 
-*Specialfuldmagt* §13 aftaleloven, når 3.mand kender FM´s (fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger el. salgsassistent bestille varer.
+*Specialfuldmagt* aftalelovens § 13 aftaleloven, når 3.mand kender FM´s (fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger eller en salgsassistent må bestille varer.
 
-*Offentlig bekendtgjort fuldmagt* fra fuldmagtsgiveren, jf. § 14,1 i aftaleloven fx hvis der afholdes reception.
+*Offentlig bekendtgjort fuldmagt* fra fuldmagtsgiveren, jf. aftalelovens § 14, stk. 1 i aftaleloven fx hvis der afholdes reception.
 
 ---
 
@@ -54,7 +54,9 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftalel
 <img src="img/fuldmagt1.jpeg" align="left" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-*Fuldmagt* er således reguleret af aftaleloven: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område.
+*Fuldmagt* er således reguleret af **aftaleloven**: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. Se lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+
+---
 
 Fuldmagter inddeles på følgende måde:
 
@@ -139,7 +141,7 @@ Fuldmagtsforholdet hviler normalt på en *aftale* mellem en fuldmagtsgiver og fu
 
 Aftalelovens bestemmelser indeholder ikke nogen udtømmende opregning af de måder, hvorpå en fuldmagt kan skabes. 
 
-Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, f.eks. overgivelse af dokumenter eller ved passivitet.
+Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, fx overgivelse af dokumenter eller ved passivitet.
 
 ---
 
@@ -285,7 +287,11 @@ En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekun
 
 ---
 
-De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved **U 2016 3069 V** (regres ved betydelig uagtsomhed) og **U 2006 356 V** om regres ved en forsætligt forvoldt skade) og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil f.eks. kunne tale for regres).
+De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved:
+
+Dommen i **U 2016.3069 V** Regres ved betydelig uagtsomhed. og **U 2006.356 V** om regres ved en forsætligt forvoldt skade og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil fx kunne tale for regres).
+
+Ordet "Regres" er et krav om tilbagebetaling for noget man har betalt på andres vegne. Ordet regres kommer af det latinske regressus og betyder ”tilbagegang”.
 
 ---
 
@@ -305,7 +311,7 @@ Aftalelovens § 13 har følgende ordlyd:
 
 ”En fuldmagt, som er bragt til tredjemands kundskab ved en til ham særskilt rettet erklæring fra fuldmagtsgiveren, er tilbagekaldt, når særskilt erklæring om, at fuldmagten ikke længere skal gælde, er kommet frem til tredjemand”
 
-Det kaldes også for legitimationsfuldmagt.
+Det kaldes også for *legitimationsfuldmagt*.
 
 Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand.
   
@@ -423,7 +429,7 @@ U2: Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og i
 
 ---
 
-Fuldmægtigen indestår for, at denne har den fornødne fuldmagt til at foretage den retshandel, han foretager (f.eks. afgivelse af tilbud eller accept af et banklån). 
+Fuldmægtigen indestår for, at denne har den fornødne fuldmagt til at foretage den retshandel, han foretager (fx afgivelse af tilbud eller accept af et banklån). 
 
 Fuldmægtigen indestår efter alm regler ikke for, at fuldmagtsgiveren opfylder kontrakten, medmindre medkontrahenten har føje til at tro, at fuldmægtigen garanterer herfor. 
 
@@ -471,11 +477,11 @@ Bestemmelsens typiske anvendelsesområde er tilfælde, hvor en person, der er an
 
 Såvel den, der yder mv. en sådan fordel (aktiv bestikkelse), som den, der modtager mv. fordelen (passiv bestikkelse), er omfattet af straffelovens § 299, stk. 2.
 
-Se dommen i **U 1936.833 Ø:** Tiltalte, der havde generalfuldmagt for en bygherre, havde, uanset at han havde meddelt forskellige håndværkere og leverandører noterede transporter på et byggelån, dels benyttet dette til dækning af sine egne krav, dels ved udbetaling til bygherren til byggesagen uvedkommende formål: **https://pro.karnovgroup.dk/document/7000240874/1**
+Se dommen i **U 1936.833 Ø:** Tiltalte, der havde generalfuldmagt for en bygherre, havde, uanset at han havde meddelt forskellige håndværkere og leverandører noterede transporter på et byggelån, dels benyttet dette til dækning af sine egne krav, dels ved udbetaling til bygherren til byggesagen uvedkommende formål. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000240874/1**
 
-Se endvidere dommen i **JD 1943.121** (statsbanefunktionærs urigtige opgørelse over flyttegodtgørelse), 
+Se endvidere dommen i **JD 1943.121** Om statsbanefunktionærs urigtige opgørelse over flyttegodtgørelse, 
 
-Dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb og salg af vin havde i tiden fra efteråret 1969 til foråret 1971 ladet sig tilsige agentprovision fra forskellige udenlandske vinleverandører, hvilket holdtes skjult for selskabet. Af provisionsbeløbene, som i alt androg godt ½ mio. kr., havde han inden forholdet blev afsløret oppebåret godt 200.000 kr. Fængsel i 4 måneder efter § 299, stk. 2, der navnlig efter det om de personlige forhold oplyste og henset til den lange tid, der var forløbet siden de strafbare handlingers foretagelse, blev gjort betinget. Nettoudbytte på 200.000 kr. konfiskeret:**https://pro.karnovgroup.dk/document/7000211376/1**
+Dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb og salg af vin havde i tiden fra efteråret 1969 til foråret 1971 ladet sig tilsige agentprovision fra forskellige udenlandske vinleverandører, hvilket holdtes skjult for selskabet. Af provisionsbeløbene, som i alt androg godt ½ mio. kr., havde han inden forholdet blev afsløret oppebåret godt 200.000 kr. Fængsel i 4 måneder efter straffelovens § 299, stk. 2, der navnlig efter det om de personlige forhold oplyste og henset til den lange tid, der var forløbet siden de strafbare handlingers foretagelse, blev gjort betinget. Nettoudbytte på 200.000 kr. konfiskeret. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000211376/1**
 
 
 
@@ -488,7 +494,7 @@ Dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb o
 
 ---
 
-*Eksamensopgave og løsning om fuldmagt/mellemmandsaftaler*
+## Eksamensopgave og vejledende løsning
 
 
 *Eksamensopgave - jem og fix*  

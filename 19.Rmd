@@ -14,9 +14,9 @@ Tinglysning kan være en betingelse for, at en rettighed er gyldig.
 
 Tinglysning er en offentlig registrering af:
 
-Rettigheder over en fast ejendom, f.eks. ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). 
+Rettigheder over en fast ejendom, fx ejendomsret (skøder), pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og begrænsede rettigheder over en ejendom (byrder, servitutter mv.). 
  
-Rettigheder over biler, campingvogne mv. som f.eks. ejendomsforbehold, pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og dødsfald, men ikke ejendomsret og brugsrettigheder.
+Rettigheder over biler, campingvogne mv. som fx ejendomsforbehold, pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.) og dødsfald, men ikke ejendomsret og brugsrettigheder.
 
 Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af tinglysningslovens kapitel 6 b, fx pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke fx ejendomsret og brugsrettigheder.
 
@@ -152,7 +152,7 @@ Rettigheder over biler, campingvogne mv. som fx ejendomsforbehold, pant (pantebr
 
 Siden den 2. november 2010 er rettigheder over ovennævnte blevet tinglyst i Det Digitale Tinglysningssystem.  
 
-Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af Tinglysningslovens kapitel 6 b, f.eks. pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke f.eks. ejendomsret og brugsrettigheder. 
+Rettigheder over en andel i en andelsboligforening eller en aktie eller anpart i henholdsvis et boligaktieselskab eller boliganpartsselskab omfattet af Tinglysningslovens kapitel 6 b, fx pant (pantebreve mv.), retsforfølgning (udlæg, konkurs mv.), men ikke fx ejendomsret og brugsrettigheder. 
 
 Siden 21. marts 2011 er rettigheder over disse blevet tinglyst i Det Digitale Tinglysningssystem.  
 
@@ -167,7 +167,7 @@ Siden den 21. marts 2011 er rettigheder over disse rettigheder blevet tinglyst i
 
 Tinglysning er en sikringsakt, hvor rettighedshaveren sikrer sin rettighed (ejendomsret, pant mv.) mod andre rettigheder, der stiftes efterfølgende, og som strider mod ens egen rettighed.
 
-Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler samt kreditorforfølgning (f.eks. udlæg) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. 
+Vedrørende for eksempel fast ejendom bliver køb, pant og andre aftaler samt kreditorforfølgning (fx udlæg) tinglyst for at sikre aftalen mod andre rettigheder over ejendommen. 
 
 Når en ejendom bliver solgt, bliver skøde og købsaftale tinglyst for at sikre, at andre rettighedshavere kan se, at køber nu ejer ejendommen, hvis f.eks:
 
@@ -179,7 +179,7 @@ Sælgers kreditorer foretager udlæg i ejendommen og får tinglyst udlægget,
 
 Sælger bliver erklæret konkurs eller
 
-Sælger giver andre en begrænset rettighed over ejendommen (f.eks. en brugsret), og denne rettighed bliver tinglyst.
+Sælger giver andre en begrænset rettighed over ejendommen (fx en brugsret), og denne rettighed bliver tinglyst.
 
 Tinglysning kan også være relevant for en kreditor, som yder lån mod pant i en fast ejendom. 
 
@@ -311,7 +311,7 @@ Dkk 1.660.
  
 I de tilfælde, hvor personer ikke kan eller ikke ønsker at underskrive digitalt, kan der anvendes en fuldmagt. 
 
-Ved fuldmagten giver fuldmagtsgiver retten til at underskrive dokumenter videre til en tredje part, f.eks. dennes advokat. 
+Ved fuldmagten giver fuldmagtsgiver retten til at underskrive dokumenter videre til en tredje part, fx dennes advokat. 
 
 Fuldmagter skal altid foreligge i original for Tinglysningsretten.
 
@@ -337,7 +337,7 @@ Derfor er det kun nødvendigt at udskrive og underskrive fuldmagten på papir, h
 
 Her skal medsendes dokumentation for tegningsregler og/eller de tegningsberettigede personer. <a href="https://www.tinglysningsretten.dk/hvad/Pages/Dokumentationfortegningsberettigelseforselskaber,foreningerogandrejuridiskepersoner.aspx" target="_blank">Se Dokumentation for tegningsberettigelse her.</a>
 
-I ganske særlige tilfælde, hvor det ikke er muligt at oprette en fuldmagt efter reglen i § 7 – f.eks. hvis fuldmagten skal give mulighed for selvkontrahering – kan der anmeldes fuldmagt efter reglen i § 6 i adgangsbekendtgørelsen. 
+I ganske særlige tilfælde, hvor det ikke er muligt at oprette en fuldmagt efter reglen i § 7 – fx hvis fuldmagten skal give mulighed for selvkontrahering – kan der anmeldes fuldmagt efter reglen i § 6 i adgangsbekendtgørelsen. 
 
 Tinglysningsretten kan dog ikke anbefale brugen af fuldmagter efter § 6, da sagsbehandlingstiden, ved anvendelse af disse, forlænges væsentligt.  
 
@@ -367,7 +367,7 @@ Vidnerne skal angive deres navn og adresse, stillingsbetegnelse, cpr-nr., dateri
 
 Advokater kan skrive til vitterlighed alene.  
 
-Hvis personer uden dansk cpr-nr. skriver under til vitterlighed, skal der anføres et tilsvarende identifikationsnummer f.eks. pas- eller kørekortnummer. 
+Hvis personer uden dansk cpr-nr. skriver under til vitterlighed, skal der anføres et tilsvarende identifikationsnummer fx pas- eller kørekortnummer. 
 
 Det skal fremgå, hvilken form for identifikation, der er anvendt. 
 
@@ -420,7 +420,7 @@ Anmeldelser til Andelsboligbogen foregår digitalt på www.tinglysning.dk
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. 
 
-Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat. 
+Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, fx hos en advokat. 
 
 ---
 
@@ -438,7 +438,7 @@ Desuden skal du i nogle tilfælde betale en tillægsafgift.
 
 Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.  
 
-Spørgsmål og svar om Andelsboligbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. 
+Spørgsmål og svar om Andelsboligbogen inden for generelle områder som fx fuldmagter og prøvetinglysning finder du i deres respektive kategorier. 
 
 Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Andelsboligbogen:  
 
@@ -466,7 +466,7 @@ Anmeldelser til Bilbogen foregår digitalt på hjemmesiden www.tinglysning.dk.
 
 Tinglysningsretten kan ikke rådgive én om, hvordan man får en rettighed tinglyst. 
 
-Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat.
+Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, fx hos en advokat.
 
 ---
 
@@ -489,7 +489,7 @@ Desuden skal man i nogle tilfælde betale en tillægsafgift.
 Tillægsafgiftens størrelse afhænger af værdien af den rettighed, som man vil have tinglyst.
 
 
-<a href="https://www.tinglysningsretten.dk/tinglysning/faq/bilbogen/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Spørgsmål og svar om Bilbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder du i deres respektive kategorier. 
+<a href="https://www.tinglysningsretten.dk/tinglysning/faq/bilbogen/Pages/default.aspx?FAQCategory=Generelt" target="_blank">Spørgsmål og svar om Bilbogen inden for generelle områder som fx fuldmagter og prøvetinglysning finder du i deres respektive kategorier. 
 
 Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Bilbogen</a>
 
@@ -571,7 +571,7 @@ Anmeldelser til Personbogen foregår digitalt på hjemmesiden www.tinglysning.dk
 
 Tinglysningsretten kan ikke rådgive dig om, hvordan man får en rettighed tinglyst. 
 
-Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, f.eks. hos en advokat.
+Hvis man er i tvivl om, hvordan man får en rettighed tinglyst, bør man søge professionel rådgivning, fx hos en advokat.
 
 Forespørgsler i Personbogen skal ske via www.tinglysning.dk. <a href="https://www.tinglysningsretten.dk/tinglysning/nyvejledninger/Pages/default.aspx?RootFolder=/tinglysning/nyvejledninger/Documents/Andelsboligbogen&FolderCTID=&View={795E6871-897C-428B-BED7-CC5437B07F4B}" target="_blank">Find vejledning i at forespørge her</a>  
 
@@ -589,7 +589,7 @@ I nogle tilfælde bliver en rettighed kun noteret.
 
 Der sker i disse tilfælde ikke tinglysning, og man skal derfor ikke betale tinglysningsafgift.
 
-Spørgsmål og svar om Personbogen inden for generelle områder som f.eks. fuldmagter og prøvetinglysning finder man i deres respektive kategorier. <a href="https://www.tinglysningsretten.dk/tinglysning/faq/person/Pages/default.aspx" target="_blank">Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Personbogen.</a>  
+Spørgsmål og svar om Personbogen inden for generelle områder som fx fuldmagter og prøvetinglysning finder man i deres respektive kategorier. <a href="https://www.tinglysningsretten.dk/tinglysning/faq/person/Pages/default.aspx" target="_blank">Denne kategori indeholder spørgsmål og svar, der udelukkende vedrører Personbogen.</a>  
 
 ---
 
@@ -605,7 +605,7 @@ Alle pantebreve (også ejerpantebreve) bevarer deres gyldighed, indtil de aflyse
 
 Rettigheder i pantebreve er dog kun beskyttet i 5 år fra 8. september 2009, medmindre pantebrevet inden da er konverteret, og der er registreret underpant på pantebrevet. 
 
-Dette kan f.eks. betyde, at en underpantsætning af et pantebrev kan blive fortrængt af en ny underpantsætning, hvis pantebrevet ikke er konverteret inden 5 år.
+Dette kan fx betyde, at en underpantsætning af et pantebrev kan blive fortrængt af en ny underpantsætning, hvis pantebrevet ikke er konverteret inden 5 år.
 
 Som udgangspunkt skal man kunne forevise pantebrevet for at konvertere det.
 
@@ -619,7 +619,7 @@ Her indsætter man en erklæringstekst.
 
 Dette koster kun den afgift påtegningen alligevel udløser.
 
-Visse pantedokumenter kan konverteres, uden at man foreviser pantebrevet (f.eks. servitutter og skøder tinglyst pantstiftende). 
+Visse pantedokumenter kan konverteres, uden at man foreviser pantebrevet (fx servitutter og skøder tinglyst pantstiftende). 
 
 I den situation kræves der en erklæring fra kreditor, fra debitor (eventuelt flere debitorer, hvis pantet er tinglyst på flere ejendomme) og fra eventuelt tinglyste implicitte fuldmagtshavere.
 
@@ -638,7 +638,7 @@ Anmodningen samt de relevante erklæringer skal fremsendes per brev til Tinglysn
 ---
 
 
-*Ejendomsretten*
+*Ejendomsretten til fast ejendom*
 
 Det bliver registreret i Tingbogen, hvem der ejer en fast ejendom. 
 
@@ -707,12 +707,14 @@ Tinglysningen er samlet under Tinglysningsretten i Hobro, og al tinglysning fore
 Hovedloven: Lovbekendtgørelse nr. 1075 af 30. september 2014 om tinglysning
 <a href="https://www.tinglysningsretten.dk/hvad/lovgrundlag/Pages/default.aspx" target="_blank">Links til love, bekendtgørelser og cirkulærer om tinglysning.</a>
 
-Se nærmere tinglysningsloven i lovsamlingen i kapitel 26:
+Se nærmere tinglysningsloven i Lovsamlingen i kapitel 26:
 **https://jura.tepedu.dk/lovsamling.html.**
 
-*https://www.retsinformation.dk/* indeholder alene de officielle sammenskrivninger i form af lovbekendtgørelser og datasammenskrivninger, der udarbejdes af ministerierne: Link 
+*https://www.retsinformation.dk/* indeholder alene de officielle sammenskrivninger i form af lovbekendtgørelser og datasammenskrivninger, der udarbejdes af ministerierne. 
 
-Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuelle ændringer til den lov, der søges. Ændringer vil fremgå til højre på den pågældende side.
+Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuelle ændringer til den lov, der søges. 
+
+Ændringer vil fremgå til højre på den pågældende side.
 
 
 <a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=17282" target="_blank">1. Bekendtgørelse af lov om stempelafgift</a>

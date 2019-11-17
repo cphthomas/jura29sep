@@ -28,6 +28,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=194694" target="_blank">Hundeloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209981" target="_blank">Hvidvaskloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=174776" target="_blank">Høstpantebrevsloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=143233" target="_blank">Inkassoloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=158134" target="_blank">Konkursloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209544" target="_blank">Kreditaftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142961" target="_blank">Købeloven</a></h3>

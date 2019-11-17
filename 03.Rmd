@@ -11,7 +11,9 @@ cat(readLines('npp.html'))
 
 <img src="img/eudomstolen2.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
-EU-Domstolen træffer afgørelser i de sager, der indbringes for den. De mest almindelige typer sager er:
+EU-Domstolen træffer afgørelser i de sager, der indbringes for den. 
+
+De mest almindelige typer sager er:
 
 * Fortolkning af love (præjudicielle afgørelser) - de nationale domstole i EU-landene skal sikre, at EU-lovene anvendes korrekt, men domstolene i de forskellige lande kan fortolke reglerne forskellige. 
 
@@ -35,7 +37,22 @@ Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berøre
 
 Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltpersoner eller virksomheder klage til Domstolen.
 
-*	Sanktionering af EU-institutionerne (erstatningssøgsmål) – enhver person eller virksomhed, hvis interesser er blevet skadet som følge af EU's eller dets personales handlinger eller mangel på handlinger, kan bringe sagen for Domstolen.  
+*	Sanktionering af EU-institutionerne (erstatningssøgsmål) – enhver person eller virksomhed, hvis interesser er blevet skadet som følge af EU's eller dets personales handlinger eller mangel på handlinger, kan bringe sagen for Domstolen. 
+
+---
+
+**Video:Hvorfor har man EU-Domstolen?**
+
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/DyrbzzOvOqc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Hvad gøre EU-Domstolen for mig?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/-hcvoCa4JD0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 
 ---
 
@@ -43,6 +60,7 @@ Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltperson
  
  
 <img src="img/eudomstolen3.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 EU-Domstolen er inddelt i 2 organer:
 
 EU-Domstolen – som tager sig af anmodninger om præjudicielle afgørelser fra nationale domstole, visse annullationssøgsmål og appelsager. 
@@ -77,6 +95,7 @@ De fleste sager behandles af 5 dommere, og det sker meget sjældent, at en sag h
     
 +	Om det er nødvendigt med en høring (den mundtlige fase), og om der er behov for en officiel udtalelse fra generaladvokaten.
 
+
 ---
     
 **Den mundtlige fase**
@@ -106,7 +125,7 @@ Hvis du mener, at myndighederne i et medlemsland har overtrådt EU-reglerne, ska
 
 ---
 
-**Video: EU-domstolen**
+**Video: Hvordan Domstolen fungerer – i grundlæggende træk**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M3LPCK1eWBs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -139,7 +158,9 @@ Til dommere og generaladvokater ved Domstolen udnævnes personer, hvis uafhængi
 
 De skal i deres hjemland opfylde betingelserne for at indtage de højeste dommerembeder eller have faglige kvalifikationer, som er almindeligt anerkendt.
 
-Domstolens dommere vælger af deres midte Domstolens præsident og vicepræsident for et tidsrum af tre år. Begge kan genvælges. 
+Domstolens dommere vælger af deres midte Domstolens præsident og vicepræsident for et tidsrum af tre år. 
+
+Begge kan genvælges. 
 
 Præsidenten forestår Domstolens arbejde og administration og leder retsmøderne og Domstolens voteringer i sager, der er henvist til behandling i et af de største dommerkollegier.
 
@@ -177,7 +198,7 @@ For at kunne varetage sit hverv er Domstolen tillagt vide retlige beføjelser, s
 
 Domstolen samarbejder med samtlige retsinstanser i medlemsstaterne, som er de ordinære retter, på unionsrettens område. 
 
-For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen *præjudicielle spørgsmål vedrørende fortolkningen af unionsretten*, f.eks. med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. 
+For at sikre en effektiv og ensartet anvendelse af unionsretten og for at undgå forskelle i fortolkningen heraf kan - og i visse tilfælde skal - de nationale retter forelægge Domstolen *præjudicielle spørgsmål vedrørende fortolkningen af unionsretten*, fx med henblik på, at den nationale ret kan efterprøve de nationale bestemmelsers overensstemmelse med unionsretten. 
 
 Den præjudicielle forelæggelse kan også vedrøre spørgsmål om en unionsretsakts lovlighed.
 
@@ -288,7 +309,9 @@ Parterne, medlemsstaterne og institutionerne har herefter en frist på to måned
 
 Sagen anlægges ved Domstolen ved indlevering af en stævning til justitskontoret. 
 
-Justitssekretæren lader en meddelelse om sagsanlægget offentliggøre i Den Europæiske Unions Tidende, hvori sagsøgerens søgsmålsgrunde og argumenter kort angives. Stævningen forkyndes for de øvrige parter, der har en frist på to måneder til at indgive svarskrift eller replik. 
+Justitssekretæren lader en meddelelse om sagsanlægget offentliggøre i Den Europæiske Unions Tidende, hvori sagsøgerens søgsmålsgrunde og argumenter kort angives. 
+
+Stævningen forkyndes for de øvrige parter, der har en frist på to måneder til at indgive svarskrift eller replik. 
 
 I givet fald har sagsøgeren ret til at indgive replik og sagsøgte duplik. Den frist, der er fastsat for fremlæggelse af disse dokumenter skal overholdes.
 
@@ -336,6 +359,8 @@ Enhver af dommerne i det pågældende dommerkollegium kan foreslå ændringer.
 Domstolens afgørelser træffes med stemmeflerhed, og en eventuel dissens anføres ikke. 
 
 Dommene underskrives kun af de dommere, der har deltaget i den mundtlige votering, hvorunder dommen er blevet vedtaget, med forbehold af reglen om, at den dommer i dommerkollegiet, der har den laveste anciennitet, ikke underskriver dommen, såfremt dette dommerkollegium består af et lige antal dommere. 
+
+---
 
 **Dommene afsiges i offentligt retsmøde**. 
 
@@ -494,7 +519,7 @@ Heraf skal nævnes nogle stykker som eksempel på de væsentligste af fællesska
 ###	<font color="red">Frie varebevægelser<sup> Premium </font></sup>
 <br>
 
-Efter dommen i sagen **Cassis de Dijon-dommen**, der blev afsagt i 1979 vedrørende grundsætningen om frie varebevægelser, kan de erhvervsdrivende til deres land indføre enhver vare med oprindelse i et andet unionsland - på den betingelse, at varen dér er blevet fremstillet lovligt og bragt i omsætning, og at ingen tvingende grund, f.eks. forbundet med beskyttelsen af sundhed og miljø, er til hinder for varens indførsel til forbrugslandet.
+Efter dommen i sagen **Cassis de Dijon-dommen**, der blev afsagt i 1979 vedrørende grundsætningen om frie varebevægelser, kan de erhvervsdrivende til deres land indføre enhver vare med oprindelse i et andet unionsland - på den betingelse, at varen dér er blevet fremstillet lovligt og bragt i omsætning, og at ingen tvingende grund, fx forbundet med beskyttelsen af sundhed og miljø, er til hinder for varens indførsel til forbrugslandet.
 
 ---
 
@@ -551,6 +576,14 @@ Med henblik på at sikre arbejdstagernes sikkerhed og sundhed er det nødvendigt
 I 1999 rejste den britiske fagforening BECTU tvivl om britiske regler, som fratog arbejdstagere med arbejdskontrakter af kort varighed denne ret med den begrundelse, at reglerne ikke var i overensstemmelse med et EF-direktiv vedrørende fastlæggelse af arbejdstiden. 
 
 Domstolen nåede til det resultat (**BECTU-dommen**, 2001), at retten til betalt årlig ferie er en social ret, som direkte er tillagt samtlige arbejdstagere i fællesskabsretten, og at ingen arbejdstager kan afskæres herfra.
+
+---
+
+**Video: EU-Domstolen om ligebehandling og beskyttelse af mindretals rettigheder**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/5RnA4C4MbsU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 
 ---
 

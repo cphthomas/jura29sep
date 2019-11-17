@@ -49,7 +49,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ## Grundloven om Danmarks forfatning
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i lovsamlingen **https://jura.tepedu.dk/lovsamling.html**.
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**.
 
 EU-retten står over dansk ret, sådan at en dansk lov kan være ulovlig, nemlig, hvis den enten strider mod EU-retten eller mod grundloven.
 
@@ -70,11 +70,38 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 
 ---
 
+**Video: Grundloven 1849**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/D2-6UfvUNOU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Blev Danmark egentlig demokratisk med vedtagelsen af Grundloven i 1849?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/0Xo-6zo9oP8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Grundlovens tilblivelse**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/WoDxgUO_K-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video: Grundlovsændringen i 1915: Historien om de 7 F'er**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/fz71wkiH4ig" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
+
 
 ## Rettigheder og pligter
 
 
-``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver bl.a. den enkelte borgers rettigheder og pligter, f.eks. at der er ytringsfrihed, religionsfrihed og værnepligt. 
+``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver bl.a. den enkelte borgers rettigheder og pligter, fx at der er ytringsfrihed, religionsfrihed og værnepligt. 
 
 I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
 
@@ -112,7 +139,15 @@ Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love.
 
 Og sproget i mange af paragrafferne er ikke blevet moderniseret siden. 
 
-Derfor er der i dette hæfte nogle forklarende kommentarer til de enkelte paragraffer.
+---
+
+**Video: Dit Demokrati | Hvem må stemme?**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/l5iRg-JX5J4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+
+---
 
 
 ## Magtadskillelseslæren i grundlovens § 3
@@ -261,6 +296,20 @@ Reglerne for, hvordan folketingsmedlemmerne skal samarbejde, og hvordan lovgivni
 
 Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af reglerne har mange år på bagen.
 
+---
+
+**Video: Dit Demokrati | Finansloven**
+
+div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Finansloven forklaret på en letforståelig måde**
+
+div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
 
 ---
 
@@ -269,7 +318,7 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 
 ![](img/folketinget2.png)
 
-Love regulerer, hvordan vi skal leve sammen i Danmark, hvad vi skal drive i fællesskab – f.eks. folkeskolen og sygehusene – og hvordan det fælles skal være indrettet. 
+Love regulerer, hvordan vi skal leve sammen i Danmark, hvad vi skal drive i fællesskab – fx folkeskolen og sygehusene – og hvordan det fælles skal være indrettet. 
 
 Lovgivning handler om, hvad man skal som borger, og hvad man ikke må, herunder hvad der er strafbart. 
 
@@ -313,6 +362,12 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 **Video: Lovgivningsprocessen i praksis**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xQ89AVrmL-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+**Video:Dit Demokrati | Fra idé til lov**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 
@@ -425,7 +480,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se f.eks. udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i  2019.
+Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i  2019.
 
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. 
 
@@ -497,7 +552,7 @@ Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem d
 
 Statsministerposten er landets højeste ministerpost. En statsminister har en særlig stor magt og et særlig stort ansvar. 
 
-Det er f.eks. kun statsministeren, der kan bestemme: 
+Det er fx kun statsministeren, der kan bestemme: 
 
 
 *	hvem der skal være minister
@@ -525,11 +580,11 @@ Ministrene har meget magt og ansvar, og en af deres vigtigste opgaver er at fore
 
 Regeringens ministre har hver sit fagområde: Kulturministeren har ansvar for kulturområdet, skatteministeren for skatteområdet osv. 
 
-De fleste ministerområder ligger nogenlunde fast – f.eks. er der i praksis altid et Justitsministerium, et Finansministerium osv. 
+De fleste ministerområder ligger nogenlunde fast – fx er der i praksis altid et Justitsministerium, et Finansministerium osv. 
 
 Men statsministeren kan ændre ministrenes fagområder eller oprette nye ministerier, hvis statsministeren ønsker at begrænse, fremhæve eller styrke bestemte fagområder. 
 
-F.eks. blev der efter valget i november 2007 som noget nyt udnævnt en minister for klima og energi. 
+fx blev der efter valget i november 2007 som noget nyt udnævnt en minister for klima og energi. 
 
 
 ---
@@ -543,7 +598,7 @@ En ministers arbejde består bl.a. i at:
 
 *	forhandle indholdet af nye love på plads 
 
-*	svare på spørgsmål fra Folketinget, f.eks. fra Folketingets udvalg 
+*	svare på spørgsmål fra Folketinget, fx fra Folketingets udvalg 
 
 *	svare på henvendelser fra borgere og organisationer m.fl.
 
@@ -682,7 +737,7 @@ Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, op
 
 Afgørelser, der træffes i forbindelse med politiets efterforskning, er også straffesager. 
 
-Det kan f.eks. være afgørelser om varetægtsfængsling, beslaglæggelse og ransagning.
+Det kan fx være afgørelser om varetægtsfængsling, beslaglæggelse og ransagning.
 
 Se det retssikkerhedsbegrebet: *"in dubio pro reo";	"enhver grundet tvivl bør komme den sigtede til gode".
 
@@ -700,11 +755,31 @@ Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her s
 
 ---
 
+**Video: En film om gadevold - retsspil**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/ydMjwDvjMVI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Når du skal i retten**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+
+---
+
+**Video: Rettens arbejde - Vidnets rolle i en straffesag ved byretten**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/VrT97zQkas4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
 Byretterne behandler ligeledes skiftesager, foged- og auktionssager.
 
 Tinglysning af dokumenter foregår ved Tinglysningsretten.
 
-Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, f.eks. ved byret og landsret. 
+Alle sager kan som udgangspunkt behandles ved 2 retsinstanser, fx ved byret og landsret. 
 
 Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, uden mulighed for appel til landsretten.
 
@@ -717,7 +792,7 @@ Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, ud
 
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. 
 
-Højesteret er den øverste domstol i Danmark. Her afgøres f.eks. sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
+Højesteret er den øverste domstol i Danmark. Her afgøres fx sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
 
 Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt af Østre Landsret, Vestre Landsret eller Sø- og Handelsretten. 
 
@@ -743,7 +818,7 @@ Man kan altså ikke anlægge sag direkte ved Højesteret.
 
 Højesteret behandler både civile sager og straffesager og fungerer som tredje instans i skifte-, foged- og tinglysningssager. 
 
-Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, f.eks. sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
+Ved Højesteret behandles også sager, som Procesbevillingsnævnet har tilladt indbragt for retten. Det drejer sig om sager af særlig principiel betydning, fx sager, som kan have betydning for afgørelse af en række andre sager, eller om sager af særlig samfundsmæssig interesse.
 
 ---
 
@@ -763,7 +838,7 @@ Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-l
 
 I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten.
 
-Hvis byretten f.eks. mener, at en sag er af principiel karakter, kan den også henvise sagen direkte til behandling i landsretten.
+Hvis byretten fx mener, at en sag er af principiel karakter, kan den også henvise sagen direkte til behandling i landsretten.
  
 Østre Landsret ligger i København.
 
@@ -876,7 +951,7 @@ Alle sager begynder som udgangspunkt i byretten.
 
 Byretterne kan i en række tilfælde henvise en civil sag til behandling ved landsretten. 
 
-Det gælder f.eks., hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
+Det gælder fx, hvis sagen er af principiel betydning, eller sagen kan få væsentlig betydning for andre end parterne.
 
 ---
 
@@ -906,7 +981,7 @@ Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og f�
 
 ---
 
-Supplerende værneting, er f.eks.:
+Supplerende værneting, er fx:
 
 *	Virksomhedsværneting 
 
@@ -1047,13 +1122,6 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
 
 
 ---
-
-**Video: Når man skal i retten**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
  
 ### Småsagsprocessen
 
@@ -1074,6 +1142,8 @@ Formålet med småsagsprocessen er:
 At det bliver billigere at gennemføre en retssag om mindre krav på højst 50.000 kr., fordi retten hjælper parterne med at forberede sagerne.
 
 At det bliver lettere at gå i retten for privatpersoner og mindre erhvervsdrivende uden juridisk indsigt, fordi sagsgangene bliver forenklet.
+
+---
 
 *Eksempel*
 

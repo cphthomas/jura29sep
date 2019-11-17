@@ -10,7 +10,6 @@ http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne^[Følgende afsnit
 ---
 
 Lovgrundlaget er **Databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), Se link til hele forordningen:
-
 **https://pro.karnovgroup.dk/document/7000751611/1**
 
 Samt 
@@ -54,19 +53,11 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 
 **Studenteropgave**
 
-Hvilke rettigheder har den registrede og give pratiske eksemplar på dette?
+Hvilke rettigheder har den registrede og give praktiske eksemplar på dette?
 
 Se link til Datatilsynet: **https://www.datatilsynet.dk/**
 
 
-
----
-
-
-
-**Video: Baggrund for databeskyttelsesregler - kort**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0YMD87kp9_g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
@@ -655,31 +646,31 @@ Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekli
 
 *Tjeklisten for samtykke:*
 
-Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation.
+1. Den dataansvarlige har taget stilling til, at samtykke er den mest hensigtsmæssige hjemmel til at behandle data i den givne situation.
 
-Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som fx. salgs- og leveringsbetingelsesvilkår.
+2. Samtykkeanmodningen er tydelig og adskilt fra øvrig tekst, som fx. salgs- og leveringsbetingelsesvilkår.
 
-Den dataansvarlige indhenter altid samtykke via et aktivt tilvalg fra den samtykkendes side.
+3. Den dataansvarlige indhenter altid samtykke via et aktivt tilvalg fra den samtykkendes side.
 
-Den dataansvarlige indhenter aldrig samtykke via forudafkrydsede samtykkefelter eller på anden vis, der baserer sig på den samtykkendes passivitet.
+4. Den dataansvarlige indhenter aldrig samtykke via forudafkrydsede samtykkefelter eller på anden vis, der baserer sig på den samtykkendes passivitet.
 
-Samtykket er formuleret i et klart og enkelt sprog, som er letforståeligt for en person i målgruppen.
+5. Samtykket er formuleret i et klart og enkelt sprog, som er letforståeligt for en person i målgruppen.
 
-Samtykket specificerer formålet med den påtænkte behandling af data.
+6. Samtykket specificerer formålet med den påtænkte behandling af data.
 
-Hvis den dataansvarlige ønsker samtykke til flere forskellige formål, spørges der om separat samtykke for hvert formål.
+7. Hvis den dataansvarlige ønsker samtykke til flere forskellige formål, spørges der om separat samtykke for hvert formål.
 
-Navnet på den/de dataansvarlige fremgår af samtykketeksten.
+8. Navnet på den/de dataansvarlige fremgår af samtykketeksten.
 
-Den dataansvarlige oplyser om muligheden for at trække samtykket tilbage Der er ikke negative konsekvenser forbundet med ikke at give samtykke.
+9. Den dataansvarlige oplyser om muligheden for at trække samtykket tilbage Der er ikke negative konsekvenser forbundet med ikke at give samtykke.
 
-Samtykke er ikke en betingelse for levering af en vare/ydelse.
+10. Samtykke er ikke en betingelse for levering af en vare/ydelse.
 
-Hvis den dataansvarlige udbyder online tjenester direkte rettet mod børn under 13 år, anvendes der kun samtykke i det omfang, det er muligt at tjekke barnets alder, og den dataansvarlige indhenter forældresamtykke, hvis barnet er under 13 år.
+11. Hvis den dataansvarlige udbyder online tjenester direkte rettet mod børn under 13 år, anvendes der kun samtykke i det omfang, det er muligt at tjekke barnets alder, og den dataansvarlige indhenter forældresamtykke, hvis barnet er under 13 år.
 
-Den dataansvarlige kan dokumentere, hvem der har givet samtykke, hvornår og hvordan samtykket blev givet, hvad den enkelte har samtykket til, og at samtykket reelt er afgivet frivilligt.
+12. Den dataansvarlige kan dokumentere, hvem der har givet samtykke, hvornår og hvordan samtykket blev givet, hvad den enkelte har samtykket til, og at samtykket reelt er afgivet frivilligt.
 
-Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt og korrekt, og at formålet med behandlingen eller selve behandlingen ikke har ændret sig.
+13. Den dataansvarlige følger regelmæssigt op på, at samtykket stadig er aktuelt og korrekt, og at formålet med behandlingen eller selve behandlingen ikke har ændret sig.
 
 ---
 
@@ -772,6 +763,12 @@ Dette ændrer dog ikke på, at den dataansvarlige til stadighed skal overholde p
 Bestemmelsen gælder for enhver, men i præambelbetragtning nr. 65 fremhæves, at retten navnlig er relevant, når den registrerede har givet sit samtykke som barn og ikke fuldt ud var bekendt med risiciene i forbindelse med behandling, og senere ønsker at fjerne sådanne oplysninger, særligt på internettet.^[Jf. betænkning nr. 1565/2017, afsnit 4.7.3.1. Ret til sletning - artikel 17, stk. 1.].  
 
 Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uanset om vedkommende ikke længere er barn. 
+
+---
+
+**Video: Retten til at blive glemt**
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/opW2SjZ0ziA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
@@ -1298,7 +1295,7 @@ Hvis du har spørgsmål til domstolenes behandling af personoplysninger kan du k
 
 Du kan læse mere på Domstolsstyrelsens hjemmeside:
 
-http://www.domstol.dk/OM/ORGANISATION/DOMSTOLSSTYRELSEN/Pages/default.aspx
+**http://www.domstol.dk/OM/ORGANISATION/DOMSTOLSSTYRELSEN/Pages/default.aspx**
 
 ---
 
