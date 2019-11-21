@@ -1,7 +1,7 @@
 # Retsstaten  
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ```{r echo=FALSE}
@@ -303,15 +303,17 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
----
-
-**Video: Finansloven forklaret på en letforståelig måde**
-
-div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<!-- --- -->
 
 
+<!-- **Video: Finansloven forklaret på en letforståelig måde** -->
 
----
+<!-- div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> -->
+
+
+<!-- --- -->
+
+
 
 ### Lovforslag
 
@@ -367,7 +369,7 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 **Video:Dit Demokrati | Fra idé til lov**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br>
 
 
 
