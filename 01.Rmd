@@ -1,7 +1,7 @@
 # Retsstaten  
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ```{r echo=FALSE}
@@ -141,6 +141,10 @@ Og sproget i mange af paragrafferne er ikke blevet moderniseret siden.
 
 ---
 
+*Af to årsager vil der aldrig opstå revolution i Danmark. Først og fremmest regner det for meget, og man kan ikke revolutionere under en opslået paraply. Dernæst skal ethvert tilløb til revolution overstås inden spisetid, for danskeren vil ikke gå glip af sin varme aftensmad – Arne Melchior*
+
+---
+
 **Video: Dit Demokrati | Hvem må stemme?**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/l5iRg-JX5J4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -262,11 +266,16 @@ Folketingets grundlæggende opgaver og nogle af arbejdsformerne er beskrevet i g
 
 Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folketinget har eksisteret.
 
+---
+
 Folketinget er den lovgivende magt. 
 
 Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. 
 
 Den lovgivende magt er Folketinget og det er kun Folketinget, der kan vedtage lovforslag.
+
+Lovgivningsmagten er *"omnipotent"*, som betyder, at lovgivningsmagten har uindskræbket magt, med næsten ubegrænset autoritet og/eller styrke. Så den vægtes meget højt i vurderingen af juridiske problemer. 
+
 
 
 ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` beskriver fordelingen af magten mellem Folketinget (lovgivende), regeringen (udøvende og lovgivende) og domstolene (dømmende), også kaldet magtens tredeling. 
@@ -283,11 +292,13 @@ Folketinget har 3 hovedopgaver:
 ![](img/sonfolketingssalen.png)
 
 
-*	At behandle lovforslag og vedtage landets love
+*	At behandle lovforslag og vedtage landets love.
 
-*	At behandle og vedtage statens årlige budget, finansloven
+*	At behandle og vedtage statens årlige budget, finansloven.
 
-*	At føre kontrol med regeringens magtudøvelse
+*	At føre kontrol med regeringens magtudøvelse.
+
+---
 
 
 For at kunne løfte de opgaver kræves det, at folketingsmedlemmerne ved, hvordan det politiske arbejde skal foregå. 
@@ -303,17 +314,15 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-<!-- --- -->
+---
+
+**Video: Finansloven forklaret på en letforståelig måde**
+
+div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-<!-- **Video: Finansloven forklaret på en letforståelig måde** -->
 
-<!-- div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> -->
-
-
-<!-- --- -->
-
-
+---
 
 ### Lovforslag
 
@@ -369,7 +378,7 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 **Video:Dit Demokrati | Fra idé til lov**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br>
+<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 

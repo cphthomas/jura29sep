@@ -1068,11 +1068,11 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven § 17 
 
 Gældsbrevslovens § 17:
 
-"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". Se nærmere *gældsbrevsloven og værgemålsloven* i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". Se nærmere *gældsbrevsloven og værgemålsloven* i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
-*"Handleevne"* betyder	en persons evne til at forpligte sig ved retshandler.
+*"Handleevne"* betyder en persons evne til at forpligte sig ved retshandler.
 
 ---
 
@@ -1317,11 +1317,15 @@ Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige opl
 
 Ved *svig* forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
 
-Svig, er således en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab. 
+Svig, er således en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab.
 
 ---
 
-Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også overtrædelser af det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7, samt det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2. Se disse love i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Juridisk term: *falsus in uno, falsus in omnibus* – Én gang en løgner, altid løgner.
+
+---
+
+Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også overtrædelser af det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7, samt det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2. Se disse love i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -1351,7 +1355,9 @@ Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der
 
 *Situation:* Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
-Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. Løftet er så ikke bindende for bådekøberen
+Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. 
+
+Løftet er så ikke bindende for bådekøberen
 
 Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og alligevel vælger imod bedrevidende at bruge urigtige oplysninger eller fortie sandheden, for at få en aftale i hus.
 
@@ -1365,9 +1371,15 @@ Situation:
 <img src="img/bod.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. Peter møder en interesseret køber på Bo's parkeringsplads, og fortæller, at båden har været A P Møllers i 1990’erne. På den baggrund bliver båden solgt med det samme.
+Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. 
 
-Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejlinformation. Aftalen mellem bådekøberen og Bo Bådesælger er derfor bindende. 
+Peter møder en interesseret køber på Bo's parkeringsplads, og fortæller, at båden har været A P Møllers i 1990’erne. 
+
+På den baggrund bliver båden solgt med det samme.
+
+Bo Bådesælger (løftemodtager) er i god tro, idet han intet ved om Peters fejlinformation. 
+
+Aftalen mellem bådekøberen og Bo Bådesælger er derfor bindende. 
 
 ---
 
@@ -1424,6 +1436,10 @@ Det løftegiveren har valget mellem, om løftegiver vil have viljeserklæringen 
 
 Den udnyttede kan også vælge at fastholde retshandelen, hvis denne nu på grund af fx en prisstigning eller en rentestigning kan se sin fordel herved.
 
+---
+
+"Hvis du fortæller sandheden, så behøver du ikke huske alt" – *Mark Twain*
+
 
 ---
 
@@ -1478,6 +1494,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
       
 + Løftemodtager(LM) vidste ikke eller burde ikke have vidst, at løftet fra løftegiver (LG) var mangelfuldt, fx afgivet pga. ulovlig tvang, eller at løftegiver var umyndig.
 
+---
       
 *Ond tro* er:
 
@@ -1487,7 +1504,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
       
 ---
 
-**Videoer om god og ond tro**
+**Video om god og ond tro**
 
 
 
@@ -1566,6 +1583,8 @@ Hvis forudsætningen ikke holder, taler man om bristende, svigtende eller urigti
 
 En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhold, fx køb af en bryllupskage til bryllup, der bliver aflyst.
 
+---
+
 ![](img/brul.jpg)
 
 Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:
@@ -1609,6 +1628,8 @@ Hovedreglen er, at standardvilkår trykt på eller vedlagt kontrakten, anses for
 
 Det er en betingelse, at standardvilkårene skal være påtrykt eller vedhæftet kontrakten. 
 
+---
+
 Vilkår der eftersendes efter underskrift gælder ikke, da vilkårene så ikke er gensidigt vedtaget.
         
 Undtagelsen til hovedreglen er, at et standardvilkår kan tilsidesættes, hvis det vurderes som urimeligt for kunden (aftalelovens §§ 36 og § 38 a-d).
@@ -1648,8 +1669,7 @@ Usædvanlige vilkår skal fremhæves i en kontrakt, hvis de skal anses for vedta
 
 Se fra retspraksis:
 
-Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. "Aftalen om honorering var åbenbart i strid med bekendtgørelsens § 3, stk. 4 til lov om juridisk rådgivning, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt.Der er ikke ved lov om juridisk rådgivning taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse af loven, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000837142/1**
+Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale om juridisk rådgivning anses som forbruger. "Aftalen om honorering var åbenbart i strid med bekendtgørelsens § 3, stk. 4 til lov om juridisk rådgivning, og andelsboligforeningen kunne kræve en stor del af honoraret tilbagebetalt.Der er ikke ved lov om juridisk rådgivning taget stilling til eventuelle civilretlige konsekvenser af en overtrædelse af loven, og sådanne må derfor skulle bedømmes ud fra en fortolkning og anvendelse af de almindelige aftaleretlige regler, herunder aftalelovens § 38 c, jf. § 36". Se link til hele dommen her:**https://pro.karnovgroup.dk/document/7000837142/1**
 
 ---
 
@@ -1663,6 +1683,7 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 *Koncipistreglen:* Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
 
 *Minimumsreglen:* Aftalen fortolkes til fordel for løftegiver. 
+
 *Prioritetsreglen:* Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
 
 *Gyldighedsreglen:* Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  

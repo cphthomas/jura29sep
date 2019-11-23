@@ -82,6 +82,11 @@ Find 4 afgørelser fra Ankeknævnet for forsikring (Forsikringsankenævnet) om b
 
 Link: **http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%22%3A%5B%7B%22d%22%3A%221%22%2C%22p%22%3A%22AnkeforsikringClosedDate%22%7D%5D%7D**
 
+---
+
+*Accensa domo proximi, tua quoque periclitatur – Når din nabos hus er i flammer, er dit eget i fare*.
+
+
 
 ---
 
@@ -4504,7 +4509,11 @@ Lad os derfor starte med at se nærmere på pensionssystemet:
 
 ---
 
+**Video: Hvad indeholder min pensionsordning?** 
 
+<div class="video-container"><iframe src="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
 
 ![](img/liv.jpg)
 
@@ -5480,7 +5489,7 @@ God skik regler har til formål at sikre, at kunderne kan have tillid til marked
 
 Der er tale om en dynamisk norm, der fastlægger rammerne for virksomhedernes adfærd på markedet.
 
-Se hertil Bekendtgørelse 2018-04-30 nr. 455 om god skik for forsikringsdistributører, hvorefter, en forsikringsdistributør skal handle redeligt og loyalt over for sine kunder og må ikke vildlede, hvortil der bl.a. gengives markedsføringslovens §§ 5-7 mv. Se nærmere bekendtgørelsen i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
+Se hertil Bekendtgørelse BKG 2019-11-15 nr 1143 om god skik for forsikringsdistributører, hvorefter, en forsikringsdistributør skal handle redeligt og loyalt over for sine kunder og må ikke vildlede, hvortil der bl.a. gengives markedsføringslovens §§ 5-7 mv. Se "Kapitel 4. Handelspraksis over for forbrugerne". Se nærmere bekendtgørelsen i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
 
 ---
 

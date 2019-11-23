@@ -20,7 +20,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=169709" target="_blank">Forbrugerklageloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=143090" target="_blank">Forsikringsaftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=197146" target="_blank">Forsikringsformidlingsloven</a></h3>
-<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=198220" target="_blank">Bekendtgørelse om god skik for forsikringsdistributører</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=210533" target="_blank">Bekendtgørelse om god skik for forsikringsdistributører</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=164746" target="_blank">Forældelsesloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=204976" target="_blank">Færdselsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=45902" target="_blank">Grundloven</a></h3>
@@ -39,7 +39,9 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=177566" target="_blank">Bekendtgørelse om god skik for finansielle rådgivere</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=205005" target="_blank">Bekendtgørelse om god skik for boligkredit</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=163284" target="_blank">Lov om formidling af fast ejendom</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=166035" target="_blank">Formidlingsbekendtgørelsen</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209786" target="_blank">Lov om ægtefællers økonomiske forhold</a></h3>
+<h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209754" target="_blank">Lov om ægteskabets indgåelse og opløsning</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=188880" target="_blank">Markedsføringsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=142962" target="_blank">Renteloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/Forms/R0710.aspx?id=209542" target="_blank">Retsplejeloven</a></h3>
