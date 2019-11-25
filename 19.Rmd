@@ -752,7 +752,7 @@ Som bruger af Retsinformation.dk skal man derfor være opmærksom på, eventuell
 
 
 
-**<font color="red">Quiz Tinglysning af rettigheder<sup> Premium </font></sup>  **
+## <font color="red">Quiz Tinglysning af rettigheder<sup> Premium </font></sup>
 
 <h3><a href="https://quiz.tepedu.dk/jura19" target="_blank">Quiz Tinglysning af rettigheder <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

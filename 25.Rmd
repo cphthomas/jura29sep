@@ -6074,7 +6074,7 @@ Den kapital, der kan anvendes til at dække solvensmargenen, betegnes basiskapit
 
 
 
-**<font color="red">Quiz Skades-, pensions- og livsforsikringer<sup> Premium </font></sup>  **
+## <font color="red">Quiz Skades-, pensions- og livsforsikringer<sup> Premium </font></sup>
 
 <h3><a href="https://quiz.tepedu.dk/jura25" target="_blank">Quiz Skades-, pensions- og livsforsikringer<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
