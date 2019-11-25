@@ -314,15 +314,6 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
----
-
-**Video: Finansloven forklaret på en letforståelig måde**
-
-div class="video-container"><iframe src="https://www.youtube.com/embed/H1gGv_4fwyw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
-
----
 
 ### Lovforslag
 
