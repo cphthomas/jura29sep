@@ -1,7 +1,7 @@
 # Pant i fast ejendom, løsøre og virksomhedspant
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/tinglysning7.jpg)
@@ -1500,9 +1500,9 @@ mydf %>%
 
 ---
 
-## Eksamensopgave med vejledning
+## Eksamensopgave i tinglysning mv.
 
-*Eksamensopgavesæt og løsning om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.*
+*Eksamensopgavesæt om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.*
 
 
 *Musik med problemer*
@@ -1528,18 +1528,6 @@ Emne: Pant i fast ejendom og løsøre
 
 Regler: Tinglysningsloven (TL) § 38 – kreditaftaleloven (KAL) § 21
 
-Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
-
-*Vejledende løsning*
-
-Varmepumpen er bygningstilbehør, som, når den er indlagt i ejendommen på ejerens bekostning, vil blive grebet af ejendomspantet til bank og realkredit, jfr. TL § 38. 
-
-Da bestemmelsen er præceptiv kan særskilte rettigheder over varmepumpen i form af pant eller ejendomsforbehold ikke forbeholdes. 
-
-Sikkerhed vil herefter alene kunne ske som tinglyst underpant i den faste ejendom med prioritet efter indestående lån. 
-
-*Svar slut*.
-
 
 Banken er også i øvrigt i tvivl om hvorvidt de har tilstrækkelig sikkerhed for SoundNeeds kassekredit, og drøfter mulighederne for i øvrigt at få pant i virksomhedens aktiver.
 
@@ -1553,15 +1541,6 @@ Emne: Pant i løsøre
 Regler: TL §§ 47b stk. 2 og 47c
 
 Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
-
-
-*Vejledende løsning*
-
-Selskabet drives fra lejede lokaler, hvorfor pant i selskabets aktiver kan opnås efter TL § 47b stk. 2 eller som virksomhedspant efter TL § 47c. 
-
-Ved besvarelsen lægges vægt på den studerendes forståelse af panterettens omfang og anvendelse i de to bestemmelser. 
-
-*Svar slut.*
 
 
 Johan nævner også, at hans gamle onkel, ”Tuxen”, der er tidligere musiker, og altid har støttet hans ambitioner indenfor branchen, og desuden ejer 5% af anparterne i SoundNeed ApS, måske kunne overtales til at kautionere overfor banken, i forbindelse med køb af varmeanlægget.
@@ -1578,18 +1557,6 @@ Regler: Alm. Regler om kaution – lov om finansiel virksomhed (FIL) §§ 47 og 
 
 Læringsmål: Forståelse for kaution i både private og erhvervsforhold.
 
-*Vejledende løsning*
-
-Den studerende skal forholde sig til, om kautionen må anses for at være privat eller erhvervsmæssig. 
-
-Der er tale om et lån til Johan – ikke til ApS’et - og da relationen mellem Johan og onklen således overvejende er af privat karakter, må det anses for en privat kaution. 
-
-Banken skal i den forbindelse være opmærksom på overholdelse af reglerne om privat kaution i Fil § 48 samt i God Skik Bekg. § 22. 
-
-Kautionen bør formuleres som en selvskyldnerkaution.
-
-*Svar slut.*
-
 
 SoundNeed har også brug for en ny mixerpult til lydstudiet, og Johan forslår, at kreditten til købet finasieres med et lån i banken sikret med pant i mixerpulten.
 
@@ -1604,18 +1571,6 @@ Regler: TL § 47
 
 Læringsmål: Anvende, vurdere og formidle reglerne om kreditsikring og finansiel sikkerhedsstillelse i sammenhæng med andre juridiske emner, og i en praktisk sammenhæng med risiko- og kreditvurdering af private og erhvervskunder.
 
-*Vejledende løsning*
-
-Låntager/pantsætter er nu selskabet. Der er således ingen konflikt i forhold til TL § 37. 
-
-Banken kan opnå underpant i mixerpulten efter TL § 47 enten ved tinglysning af et alm. løsørepantebrev eller ved tinglysning af underpant i et ejerpantebrev med tinglyst pant i mixerpulten. 
-
-Håndpant er ligeledes en mulighed, men jo ikke interessant, da sikringsakten her er effektiv rådighedsberøvelse. 
-
-Den gode besvarelse bør dog kobles til besvarelsen af spr. 2 og konstatere, at man ved pant efter TL § 47b stk. 2 eller TL § 47c automatisk vil få pant i mixerpulten.
-
-*Svar slut*.
-
 I perioder med ekstraordinær travlhed hyrer Johan lydteknikeren Lars Ravn, til at bistå med arbejdet i lydstudiet. Uheldigvis kommer Lars en sen aften, hvor han nok lidt rigelig, har søgt inspiration i noget stærkt øl fra det lokale mikrobryggeri, til at vælte et næsten fyldt glas øl, ud over den nye mixerpult, som bestemt ikke har godt af denne behandling.
 
 
@@ -1628,16 +1583,6 @@ Emne: Erstatning udenfor kontrakt
 Regler: De alm. Erstatningsbetingelser – EAL § 23 stk. 3
 
 Læringsmål: Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og LOFE § 24) samt reglerne om principalansvar.
-
-*Vejledende løsning*
-
-I besvarelsen skal indgå en gennemgang af de almindelige erstatningsbetingelser, der alle må anses for opfyldt. 
-
-Da skadelidte er skadevolders arbejdsgiver, skal den studerende ligeledes forholde sig til EAL § 23 stk. 3, jfr. Stk. 1. 
-
-Der skal her indgå en drøftelse af, hvorvidt det findes rimeligt at den ansatte bliver erstatningsansvarlig overfor arbejdsgiveren, herunder især henset til skyldgraden.
-
-*Svar slut*.
 
 Til Ejendommen hørte en tidligere aftægtsbolig, som Johan aldrig har haft brug for, og længe har ønsket solgt. Det har nu endelig ført til, at ejendommen via ejendomsmægler Groth, er blevet solgt til folkepensionisten Mia Andersen, der har tegnet ejerskifteforsikring. 
 
@@ -1656,27 +1601,7 @@ Regler: Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LFFE) §§ 
 Læringsmål: At anvende og formidle centrale regler og praksis for køb og salg af fast ejendom med fokus på forbrugerbeskyttelse.
 
 
-*Vejledende løsning*
 
-Ifølge det oplyste er ”Huseftersynsordningen” i LFFE benyttet ved overdragelsen af ejendommen. 
-
-Lægges det til grund, at betingelserne i ordningen er opfyldt, kan køber ikke rette krav om mangler mod sælger, jf. § 2. 
-
-Sætningsskaden burde ifølge det oplyste fremgå af tilstandsrapporten. 
-
-Den bygningssagkyndige har derfor tilsidesat sine pligter og køber vil kunne rette et erstatningskrav mod denne, jf. § 3. 
-
-Vandindtrængningen er derimod næppe en skade, der burde fremgå af rapporten, og skaden må således som udgangspunkt være omfattet af ejerskifteforsikringen. 
-
-Krav kan ikke rettes mod den bygningssagkyndige og krav mod sælger kan alene ske i det omfang denne er bekendt med fejlen og har undladt at oplyse herom i forbindelse med handelen, jf. § 2 stk. 5 (svig eller grov uagtsomhed). 
-
-Da Johan aldrig har boet i ejendommen kunne dette tale for, at et krav ikke kan gøres gældende. 
-
-Der lægges ved bedømmelsen vægt på den studerendes argumentation og forståelse af reglerne. 
-
-*Svar slut.*
-
- 
 --- 
  
  
@@ -2016,16 +1941,5 @@ Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en
 
 
 ---
-
-
-
-## Quiz Pant i fast ejendom, løsøre og virksomhedspant
-
-<h3><a href="https://quiz.tepedu.dk/jura18" target="_blank">Quiz Pant i fast ejendom, løsøre og virksomhedspant <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
-
----
-
 
  
