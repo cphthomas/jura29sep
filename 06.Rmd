@@ -434,6 +434,8 @@ Der kan anvendes en standardfortrydelsesformular.
 
 Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36, se nærmere aftaleloven i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
 
+---
+
 Generelle betragtninger- vurdering:
 
 Hvis det er stridende mod hæderlig forretningsskik, jf. aftalelovens §§ 38c, stk 1, jf. 36:
@@ -461,9 +463,7 @@ Se retspraksis:
 
 ![](img/stream.jpg)
 
-**U 2005.2960 S** om vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, blev tilsidesat af Sø- og Handelsretten:
-
-"V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000311279/1**
+**U 2005.2960 S** om vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, blev tilsidesat af Sø- og Handelsretten: "V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000311279/1**
 
 
 ---
@@ -511,7 +511,7 @@ Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmø
 
 ---
 
-**Quiz: E-handel**
+## Quiz om e-handel
 
 ![](img/ehandel.jpg)
 
@@ -521,7 +521,7 @@ Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering?
 
 Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan du handler sikkert på nettet, og hvad du kan gøre, hvis det er gået galt.  >>
 
-https://www.forbrug.dk/nethandel/
+**https://www.forbrug.dk/nethandel/**
 
 ---
 
@@ -542,7 +542,7 @@ https://www.forbrug.dk/nethandel/
 ---
 
 
-**Quiz: E-handel og rejser**
+## Quiz om e-handel og rejser
 
 ![](img/mom.png)
 
@@ -550,7 +550,7 @@ Bestiller du rejser på nettet? Der gælder særlige regler ved handel på nette
 
 ---
 
-**Quiz: Elektronik**
+## Quiz om elektronik
 
 ![](img/elek.jpg)
 
@@ -558,7 +558,7 @@ I forbrug.dk’s quiz kan du teste, hvad du har ret til, hvis dit elektroniske u
 
 ---
 
-**Quiz: Forbrugerrettigheder**
+## Quiz om forbrugerrettigheder
 
 ![](img/ret.jpg)
 
@@ -574,7 +574,7 @@ Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er 
 
 ---
 
-**Quiz: Kopivarer**
+## Quiz om kopivarer
 
 ![](img/kopi.jpg)
 
@@ -583,7 +583,7 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 ---
 
-## Quiz
+## Quiz om forbrugeraftaler og forbrugerbeskyttelse
 
 <h3><a href="https://quiz.tepedu.dk/jura6" target="_blank">Quiz Forbrugeraftaler   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

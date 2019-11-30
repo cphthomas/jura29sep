@@ -1502,7 +1502,7 @@ mydf %>%
 
 ## Eksamensopgave i tinglysning mv.
 
-*Eksamensopgavesæt om pant i fast ejendom og løsøre, samt erstatning, kaution, ertatningsbetingelserne og huseftersynsordningen, mv.*
+*Eksamensopgavesæt om pant i fast ejendom og løsøre, samt erstatning, kaution, erstatningsbetingelserne og huseftersynsordningen, mv.*
 
 
 *Musik med problemer*
@@ -1940,10 +1940,7 @@ På den måde er man som investor altid sikret imod, at bank eller børsmægler 
 Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en anden udbyder.  
 
 
-
- 
 ---
-
 
 
 
@@ -1953,6 +1950,6 @@ Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en
 
 
 
-
-
 ---
+
+ 

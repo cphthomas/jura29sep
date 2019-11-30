@@ -27,9 +27,7 @@ Den kan indledes af Europa-Kommissionen eller et andet EU-land.
 
 Hvis landet findes skyldigt, skal det straks bringe bruddet til ophør, hvis ikke det vil risikere, at der anlægges endnu en sag, som kan medføre bødestraf.
 
-*	Ophævelse af EU-retsakt (annullationssøgsmål) – hvis en EU-retsakt menes at være i strid med EU-traktaterne eller grundlæggende rettigheder, kan 
-
-Domstolen blive bedt om at ophæve den - af et medlemsland, Rådet, Europa-Kommissionen eller (i visse tilfælde) Europa-Parlamentet.
+*	Ophævelse af EU-retsakt (annullationssøgsmål) – hvis en EU-retsakt menes at være i strid med EU-traktaterne eller grundlæggende rettigheder, kan Domstolen blive bedt om at ophæve den - af et medlemsland, Rådet, Europa-Kommissionen eller (i visse tilfælde) Europa-Parlamentet.
 
 Privatpersoner kan også bede Domstolen om at ophæve en EU-retsakt, som berører dem direkte.
 
@@ -65,7 +63,9 @@ EU-Domstolen er inddelt i 2 organer:
 
 EU-Domstolen – som tager sig af anmodninger om præjudicielle afgørelser fra nationale domstole, visse annullationssøgsmål og appelsager. 
 
-Retten – som træffer afgørelse i annullationssøgsmål indbragt af enkeltpersoner, virksomheder og i visse tilfælde medlemslande. 
+Retten – som træffer afgørelse i annullationssøgsmål indbragt af enkeltpersoner, virksomheder og i visse tilfælde medlemslande.
+
+---
 
 Det vil i praksis sige, at Retten primært beskæftiger sig med konkurrenceret, statsstøtte, handel, landbrug og varemærker.  
 
@@ -208,7 +208,7 @@ Den forelæggende ret er bundet af Domstolens fortolkning.
 
 Domstolens dom binder på samme måde de øvrige nationale domstole, som måtte skulle træffe afgørelse vedrørende et identisk spørgsmål.
 
-Det er ligeledes gennem præjudicielle forelæggelser, at enhver europæisk borger kan få afklaring på spørgsmål om de bestemmelser i unionsretten, der vedrører ham. 
+Det er ligeledes gennem præjudicielle forelæggelser, at enhver europæisk borger kan få afklaring på spørgsmål om de bestemmelser i unionsretten, der vedrører ham eller hende. 
 
 Selv om et præjudicielt spørgsmål kun kan forelægges af en national domstol, har parterne i den sag, der verserer for den nationale domstol, medlemsstaterne og EU-institutionerne adgang til at deltage i proceduren for Domstolen. 
 
@@ -226,7 +226,6 @@ Forud for sagens anlæg ved Domstolen har Kommissionen gennemført en procedure,
 Hvis denne procedure ikke fører til, at medlemsstaten bringer traktatbruddet til ophør, kan der anlægges en traktatbrudssag ved Domstolen.
 
 En sådan sag kan anlægges enten af Kommissionen - hvilket i praksis er det hyppigst forekommende - eller af en anden medlemsstat. 
-
 
 Hvis Domstolen fastslår, at der foreligger et traktatbrud, skal medlemsstaten straks bringe det til ophør. 
 
@@ -622,13 +621,10 @@ I samme dom præciserede Domstolen, at en medlemsstat - selv i det tilfælde, hv
 
 
 
-## <font color="red">Quiz EU-Domstolen<sup> Premium </font></sup>
+## <font color="red">Quiz om EU-Domstolen<sup> Premium </font></sup>
 
 <h3><a href="https://quiz.tepedu.dk/jura3" target="_blank">Quiz EU-Domstolen <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
-
-
-
-
 ---
+
 

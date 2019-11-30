@@ -579,6 +579,8 @@ Det følger af databeskyttelsesforordningens artikel 7, stk. 3, at den registrer
 
 Se link: **https://pro.karnovgroup.dk/document/7000751611/4#EUFOR2016679_A7**
 
+---
+
 Tilbagetrækning af samtykke berører ikke lovligheden af den behandling, der er baseret på samtykke inden tilbagetrækningen. 
 
 Inden der gives samtykke, skal den registrerede oplyses om, at samtykket kan trækkes tilbage. 
@@ -633,6 +635,46 @@ Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samty
 
 
 ![](img/datatilsynet.jpg)
+
+*Aktiv viljetilkendegivelse*
+
+EU-Domstolen har den 1. oktober 2019 afsagt en præjudiciel dom, hvorefter brug af cookies på internetsider kræver en aktiv handling hos brugeren. I dommen blev det fastslået, at et forudafkrydset felt ikke kan udgøre et gyldigt samtykke. 
+
+Læs dommen her:
+
+**http://curia.europa.eu/juris/document/document_print.jsf?docid=218462&text=&dir=&doclang=DA&part=1&occ=first&mode=req&pageIndex=0&cid=1710106**
+
+Datatilsynets vejledning er i overensstemmelse med EU-Domstolens opfattelse, idet det heraf følger, at "Tavshed, allerede afkrydsede felter på hjemmesider eller inaktivitet er ikke tilstrækkeligt til at udgøre en utvetydig tilkendegivelse og kan derfor ikke udgøre et samtykke".
+
+---
+
+### <font color="red">Kreditoplysningsbureauer<sup> Premium </font></sup>
+
+Datatilsynet har fastsat vilkår for kreditoplysningsbureauer. 
+
+Vilkårene findes her: **https://www.datatilsynet.dk/media/7922/vilkaar-for-kreditoplysningsbureauer.pdf**
+
+Formålet med vilkårene for kreditoplysningsbureauerne er at beskytte den registreredes rettigheder. 
+
+Vilkårene er fastsat af Datatilsynet med hjemmel i Databeskyttelseslovens § 26, stk. 4, og kan læses via dette link til Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
+
+---
+  
+Vejledningen om kreditoplysningsbureauer fra Datatilsynet indeholder først og fremmest en afgrænsning af, hvornår der er tale om kreditoplysningsbureauvirksomhed, der er omfattet af de særlige regler herom. Datatilsynet bekræfter i den forbindelse, at en virksomhed, der alene består i videregivelse af standardmæssige finansielle nøgletal, ifølge Datatilsynets praksis ikke skal anses for omfattet af reglerne om kreditoplysningsbureauer, herunder kravet om tilladelse. 
+
+Dernæst beskriver vejledningen, hvordan ansøgningsprocessen foregår, og de ovenfor omtalte nye vilkår, som tilsynet stiller i forbindelse med tilladelsen til at drive kreditoplysningsbureauvirksomhed.   
+
+Man finder Datatilsynets vejledning om kreditoplysningsbureauer her:
+
+**https://www.datatilsynet.dk/media/7921/kreditoplysningsbureauer.pdf**
+
+---
+
+Herudover har Datatilsynet udarbejdet en vejledning, som nærmere gennemgår reglerne for videregivelse af oplysninger om gæld til det offentlige til kreditoplysningsbureauer.
+
+Man finder Datatilsynets vejledning om videregivelse til kreditoplysningsbureauer af oplysninger om gæld til det offentlige her:
+
+**https://www.datatilsynet.dk/media/7920/videregivelse-til-kreditoplysningsbureauer-af-oplysninger-om-gaeld-til-det-offentlige.pdf**
 
 ---
 
@@ -978,7 +1020,7 @@ Vigtigheden understreges endvidere af, at bødeniveauet for overtrædelse af GDP
 ## <font color="red">Spørgsmål og svar på databeskyttelsesreglerne<sup> Premium </font></sup>
 
 
-Ofte stillede spørgsmål til datatilsynet:^[Følgende afsnit om spørgsmål og svar, jf. Datatilsynets hjemmeside: https://www.datatilsynet.dk/generelt-om-databeskyttelse/ofte-stillede-spoergsmaal/.]
+Ofte stillede spørgsmål til Datatilsynet:^[Følgende afsnit om spørgsmål og svar, jf. Datatilsynets hjemmeside: **https://www.datatilsynet.dk/generelt-om-databeskyttelse/ofte-stillede-spoergsmaal/.]**
 
 ---
 
@@ -1118,6 +1160,8 @@ Det betyder, at oplysningerne ikke kan anvendes til fx markedsføring, sagsbehan
 
 Oftest ja. Videregivelse af personoplysninger forudsætter dog, at databeskyttelsesreglerne overholdes, herunder at der er hjemmel til videregivelsen, og at de grundlæggende behandlingsregler om saglighed, nødvendighed og proportionalitet er overholdt.
 
+---
+
 *Har vi som privat virksomhed, offentlig myndighed mv. pligt til at videregive personoplysninger til et forskningsprojekt?*
 
 Nej, databeskyttelsesreglerne fastlægger kun, hvornår offentlige myndigheder, private virksomheder mv. kan og må behandle personoplysninger.
@@ -1188,17 +1232,41 @@ Myndigheden skal notere dine protester ned, så det ses i sagen, at du har en an
 
 *Må jeg lægge billeder af andre op på internettet uden deres samtykke?*
 
-Det afhænger af billedet. 
+Det afhænger konkret af selve billedet. 
 
-Ved offentliggørelse af billeder på internettet skelnes overordnet set mellem situationsbilleder og portrætbilleder.
+Datatilsynet har ændret sin praksis vedrørende offentliggørelse af billeder uden krav om samtykke. 
 
-Som altovervejende udgangspunkt kræver det personens samtykke at offentliggøre et portrætbillede af vedkommende på internettet.
+Om indhentelse af et samtykke er nødvendigt eller ej, afgøres ikke længere af en sondring mellem portrætbilleder og situationsbilleder ‒ i stedet skal der foretages en konkret helhedsvurdering af formålet af offentliggørelsen af billedet.
 
-Et situationsbillede kan som udgangspunkt offentliggøres uden samtykke, hvis det er harmløst.
+Det har siden 2002 været Datatilsynets praksis, at en offentliggørelse af et portrætbillede altid kræver et samtykke fra den pågældende person på billedet, mens harmløse situationsbilleder kan offentliggøres uden brug af samtykke.
 
-Her kan du læse mere om, hvornår et billede betragtes som et situations- eller portrætbillede, og hvad du i øvrigt skal være opmærksom på, når du offentliggør billeder på internettet:
+Formålet med portrætbilleder er at afbilde en eller flere bestemte personer, mens situationsbilledets formål netop er at vise en aktivitet eller situation. 
 
-https://www.datatilsynet.dk/emner/internet-og-apps/billeder-paa-internettet/
+Det har hidtil været muligt at offentliggøre situationsbilleder uden tilladelse fra de personer, der fremgår på billedet, så længe der var tale om harmløse billeder, og at formålet ikke har været at afbilde personer.
+
+Brugen af billeder på internettet har i takt med fremkomsten af sociale medier de seneste år imidlertid ændret sig markant, og særligt situationsbilleder med identificerbare personer offentliggøres og eksponeres i langt højere grad i dag end tidligere. 
+
+Samtidig oplever Datatilsynet, at flere har svært at sondre mellem portrætbilleder og et situationsbilleder ‒ hvilket med stor sandsynlighed skal ses i sammenhæng med, at formålene med billederne på de sociale medier ofte synes at flyde sammen.
+
+Datatilsynet har på den baggrund valgt at ændre sin hidtidige praksis og vil fremover ikke længere lade vurderingen af, om et samtykke er påkrævet afhænge af, om der er tale om et portrætbillede eller et situationsbillede. 
+
+I stedet må spørgsmålet bero på en helhedsvurdering af billedet og formålet med offentliggørelsen af det.
+
+Med denne nye praksis skal den dataansvarlige altså altid foretage en konkret vurdering af, hvorvidt offentliggørelsen af billedet forudsætter, at der indhentes samtykke fra perso-nen/personerne på billedet eller ej. 
+
+I de tilfælde, hvor det vurderes, at det ikke er nødvendigt at indhente samtykke til offentliggørelse af et billede, skal publicisten dog altid huske at have et andet retsgrundlag for offentliggørelsen, herunder eksempelvis legitim interesse. 
+
+Hvis en afbildet person er utilfreds med offentliggørelsen af vedkommendes billede, har personen til hver en tid ret til benytte sig af sin indsigelsesret over for den dataansvarlige.
+
+---
+
+**Se video om offentliggørelse fra billeder på de sociale medier:**
+
+**https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/**
+
+---
+
+Det er vigtigt at bemærke, at den nye praksis om offentliggørelse af billeder ikke vedrører arbejdsgiveres offentliggørelse af billeder af medarbejdere ‒ reglerne på det område forbliver uændrede. 
 
 ---
 
@@ -1238,7 +1306,7 @@ Du kan dog altid lade en anden klage på dine vegne, hvis du giver vedkommende e
 
 Du kan finde Datatilsynets kontaktoplysninger og telefontider her:
 
-https://www.datatilsynet.dk/kontakt/
+**https://www.datatilsynet.dk/kontakt/**
 
 ---
 
@@ -1252,7 +1320,7 @@ Du kan kontakte Datatilsynet telefonisk, per e-mail eller brevpost, hvis du øns
 
 Du finder Datatilsynets kontaktoplysninger og telefontider:
 
-https://www.datatilsynet.dk/kontakt/
+**https://www.datatilsynet.dk/kontakt/**
 
 ---
 
@@ -1260,9 +1328,7 @@ https://www.datatilsynet.dk/kontakt/
 
 Mediernes behandling af personoplysninger er i vidt omfang undtaget fra databeskyttelsesreglerne og Datatilsynets tilsynskompetence.
 
-I nogle tilfælde kan Pressenævnet behandle en klage. Du kan læse mere herom på Pressenævnets hjemmeside:
-
-https://www.pressenaevnet.dk/
+I nogle tilfælde kan Pressenævnet behandle en klage. Du kan læse mere herom på Pressenævnets hjemmeside: **https://www.pressenaevnet.dk/**
 
 
 ---
@@ -1273,9 +1339,7 @@ Hvis en nummeroplysningstjeneste, fx De Gule Sider, Krak mv., offentliggør oply
 
 Hvis du har spørgsmål til eller ønsker at klage over en nummeroplysningstjeneste, skal du rette henvendelse til Energistyrelsen.
 
-Du finder Energistyrelsens kontaktinformation her:
-
-https://ens.dk/
+Du finder Energistyrelsens kontaktinformation her: **https://ens.dk/**
 
 ---
 
@@ -1283,9 +1347,7 @@ https://ens.dk/
 
 Hvis du ønsker at klage over en sag om aktindsigt (indsigt) eller videregivelse af helbredsoplysninger efter reglerne i sundhedsloven, kan du kontakte Styrelsen for Patientsikkerhed.
 
-Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhed her:
-
-https://stps.dk/
+Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhed her: **https://stps.dk/**
 
 ---
 
@@ -1341,7 +1403,7 @@ Du har krav på at få oplyst bl.a. hvilke oplysninger om dig, der behandles, fo
 
 Du kan læse meget mere om emnet i Datatilsynets vejledning om de registreredes rettigheder:
 
-https://www.datatilsynet.dk/media/6893/registreredes-rettigheder.pdf
+**https://www.datatilsynet.dk/media/6893/registreredes-rettigheder.pdf**
 
 ---
 
@@ -1409,7 +1471,7 @@ Fortsættes behandlingen på et andet grundlag, skal den registrerede have infor
 
 Du kan læse mere om emnet i Datatilsynets vejledning om samtykke:
 
-https://www.datatilsynet.dk/media/6562/samtykke.pdf
+**https://www.datatilsynet.dk/media/6562/samtykke.pdf**
 
 ---
 
@@ -1423,7 +1485,9 @@ Private må ikke foretage tv-overvågning af områder, der benyttes til almindel
 
 For andre områder regulerer loven derimod ikke, hvornår tv-overvågning er tilladt. For sådanne områder har tv-overvågningsloven kun betydning for, om der er pligt til at oplyse om, at der sker tv-overvågning.
 
-Derudover skal tv-overvågningsbilleder opbevares, slettes mv. i overensstemmelse med databeskyttelsesreglerne. Databeskyttelsesreglerne gælder dog ikke for private personer, der foretager tv-overvågning som led i rent personlige eller familiemæssige aktiviteter.  
+Derudover skal tv-overvågningsbilleder opbevares, slettes mv. i overensstemmelse med databeskyttelsesreglerne. 
+
+Databeskyttelsesreglerne gælder dog ikke for private personer, der foretager tv-overvågning som led i rent personlige eller familiemæssige aktiviteter.  
 
 Som eksempel på en rent personlig eller familiemæssig aktivitet kan nævnes:
 
@@ -1441,7 +1505,9 @@ OBS: Datatilsynet er ikke tilsynsmyndighed i forhold til tv-overvågningsloven. 
 
 *Kan en arbejdsgiver opsætte tv-overvågning på arbejdspladsen?*
 
-Der gælder visse begrænsninger i arbejdsgiverens adgang til at indføre kontrolforanstaltninger, herunder tv-overvågning af ansatte. De vigtigste begrænsninger er:
+Der gælder visse begrænsninger i arbejdsgiverens adgang til at indføre kontrolforanstaltninger, herunder tv-overvågning af ansatte. 
+
+De vigtigste begrænsninger er:
 
 Der skal foreligge et driftsmæssigt formål.
 
@@ -1451,7 +1517,9 @@ Der skal søges opnået en aftale med de ansatte.
 
 Enkeltmandskontorer må ikke tv-overvåges uden den ansattes samtykke. Det følger af straffeloven.
 
-Den, der foretager tv-overvågning af en arbejdsplads, skal ved skiltning eller på anden tydelig måde oplyse om, at området er tv-overvåget. Det følger af tv-overvågningsloven.
+Den, der foretager tv-overvågning af en arbejdsplads, skal ved skiltning eller på anden tydelig måde oplyse om, at området er tv-overvåget. 
+
+Det følger af tv-overvågningsloven.
 
 Udover tv-overvågningslovens krav om skiltning mv. skal arbejdsgiveren sørge for at give medarbejdere og andre med regelmæssig gang på arbejdspladsen, fx rengøringspersonale, oplysninger som påkrævet efter databeskyttelsesreglerne. 
 
@@ -1532,7 +1600,7 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ---
 
-## <font color="red">Podcasts<sup> Premium </font></sup>
+## <font color="red">Podcasts om databeskyttelse<sup> Premium </font></sup>
 
 
 **GDPR Podcastserie **
@@ -1543,39 +1611,39 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 
 
-**GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"**
+## GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422440&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 
 ---
 
-**GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)**
+## GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422758&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-**GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder**
+## GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439222899&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-**GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve og SOME**
+## GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve mv.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444258768&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-**GDPR Podcastserie #5 - Retten til at blive ”glemt”**
+## GDPR Podcastserie #5 - Retten til at blive ”glemt”
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448490415&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
 
-**GDPR Podcastserie #6 – Den store opsamling**
+## GDPR Podcastserie #6 – Den store opsamling
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518638341&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
@@ -1585,20 +1653,9 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 *Sonny Kristoffersen*: Kend databeskyttelsesreglerne (2019), *Henrik Waaben* og *Kristian Korfits Nielsen*: Lov om behandling af personoplysninger med kommentarer, 3. udg. (2015), *Peter Blume*: Den nye persondataret – persondataforordningen (2016), og samme: Databeskyttelsesret, 4. udg. (2013), *Peter Blume* og *Jens Kristiansen*: Persondataret i ansættelsesforhold (2011), samt – med særlig henblik på behandling af personoplysninger i den offentlige forvaltning – kapitel 8 i *Niels Fenger*: Forvaltningsloven med kommentarer (2013).
 
----
-
-
-## <font color="red">Quiz<sup> Premium </font></sup>
-
-<h3><a href="https://quiz.tepedu.dk/jura10" target="_blank">Quiz Databeskyttelsesreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
-
 
 
 ---
-
-
 
 
 
@@ -1607,5 +1664,14 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 ---
 
 Se seneste nyt fra Datatilsynet: **https://www.datatilsynet.dk/presse-og-nyheder/**
+
+
+
+---
+
+
+## <font color="red">Quiz om databeskyttelse<sup> Premium </font></sup>
+
+<h3><a href="https://quiz.tepedu.dk/jura10" target="_blank">Quiz Databeskyttelsesreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 ---
