@@ -382,11 +382,17 @@ dommen i **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under
 
 ---
 
-*HR:* Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99
+*HR:* Banken hæfter for misbruget og skal dække kortholders tab, jf. BTL § 99.
 
-*U1:* Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2
+---
+
+*U1:* Kortholder hæfter ubegrænset, hvis kortholder har handlet svigagtigt eller med vilje ikke overholdt kortreglerne fx omkring sikkerhed, jf. BTL § 100, stk. 2.
+
+---
  
-*U2:* Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3
+*U2:* Har kort og pinkode været brugt, hæfter kortholder for 375 kr., jf. BTL § 100, stk. 3.
+
+---
 
 *U3:* Kortholder kan hæfte for op til 8.000 kr., jf. BTL § 100, stk. 4, hvis kort og pinkode har været brugt og:
 
@@ -400,6 +406,8 @@ Kortholder ved groft uforsvarlig (nærmest sløseri) adfærd har gjort misbruget
 "... Det kan ikke lægges til grund, at klageren har udvist uagtsomhed i forbindelse med opbevaringen af kortet. På den baggrund finder Ankenævnet ikke, at den uberettigede anvendelse blev muliggjort ved groft uforsvarlig adfærd fra klagerens side, hvilket i givet fald ville forudsætte, at klageren havde udvist uagtsomhed såvel i forbindelse med kortets bortkomst som med hensyn til omgangen med koden, og at uagtsomheden var betydelig i hvert fald i den ene henseende.
 Ankenævnet finder herefter ikke, at sparekassen har godtgjort, at betingelserne for, at klageren hæfter for 8.000 kr. af misbruget som følge af groft uforsvarlig adfærd, jf. betalingslovens § 100, stk. 4 nr. 3, er opfyldt.
 Klagerens hæftelse for tabet udgør herefter højst 375 kr., jf. lov om betalinger § 100, stk. 3".
+
+---
 
     
 *U4:* Kortholder hæfter ubegrænset, jf. BTL § 100, stk. 5, hvis kort og pinkode er anvendt og:
@@ -478,7 +486,9 @@ mydf %>%
 
 ---
 
-*Eksamensopgave om tredjemandsmisbrug af kortholderes betalingsmiddel*
+## Eksamensopgave 16.1.
+
+*Om tredjemandsmisbrug af kortholderes betalingsmiddel*
 
 
 <img src="img/kortmisbrug2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
@@ -490,15 +500,15 @@ Han får hurtigt forklaret, at grunden til, at han har ringet er, at han har mis
 
 Lærke spærrer straks kortet og sammen gennemgår de de seneste hævninger på kontoen og finder hurtigt ud af, at der er fem hævninger, Andreas ikke kender til. 
 
-Søndag d. 4. februar 2018 kl. 02.32 – 2.000 kr. i andet pengeinstituts hæveautomat
+Søndag d. 4. februar 2018 kl. 02.32 – 2.000 kr. i andet pengeinstituts hæveautomat.
 
-Søndag d. 4. februar 2018 kl. 02.44 – 5.000 kr. i Sparekassen Pecunias hæveautomat
+Søndag d. 4. februar 2018 kl. 02.44 – 5.000 kr. i Sparekassen Pecunias hæveautomat.
 
-Søndag d. 4. februar 2018 kl. 02.46 – 3.500 kr. i Sparekassen Pecunias hæveautomat
+Søndag d. 4. februar 2018 kl. 02.46 – 3.500 kr. i Sparekassen Pecunias hæveautomat.
 
-Søndag d. 4. februar 2018 kl. 03.01 – 732 kr. Restaurant Festaben – varekøb
+Søndag d. 4. februar 2018 kl. 03.01 – 732 kr. Restaurant Festaben – varekøb.
 
-Søndag d. 4. februar 2018 kl. 05.32 – 418 kr. Restaurant Morgengry – varekøb
+Søndag d. 4. februar 2018 kl. 05.32 – 418 kr. Restaurant Morgengry – varekøb.
 
 Andreas forklarer, at han mandag morgen ca. kl. 8.45, da han sad i toget på vej på arbejde, fandt ud af, at hans pung var blevet væk. I hans pung var bl.a. hans Visa/Dankort og en seddel med pinkoden. 
 
@@ -516,22 +526,7 @@ Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af
 1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
 
 
-*Vejledende løsning:*
 
-
-Lovgrundlag: Lov om betalinger 
-
-Område: Hæftelse for betalingstjenester
-
-Læringsmål: Anvende reglerne om fordringers ophør, herunder hæftelse for betalingstjenester (dan‐ og kreditkort).
-
-Det følger af lov om betalinger § 100, stk. 1, at betalerens udbyder af betalingstjenester (pengeinstituttet) hæfter i forhold til betaleren (kunden) for tab som følge af andres uberettigede anvendelse af en betalingstjeneste, medmindre andet følger af stk. 2-5. 
-
-Det følger herefter af stk. 3, at betaleren hæfter med op til 375 kr. i situationer, hvor den personlige sikkerhedsforanstaltning (PIN-koden) har været anvendt og af stk. 4, at der hæftes med op til 8.000 kr. enten hvis PIN-koden har været anvendt og betaleren ved groft uforsvarlig adfærd har muliggjort den uberettigede anvendelse (stk. 4, nr. 3) eller PIN-koden har været anvendt og kunden ikke har anmeldt at kortet var bortkommet snarest muligt efter at have fået kendskab til det (stk. 4, nr. 1). Her er der særligt stk. 4, nr. 3-situationen, der er relevant. 
-
-Det er ifølge praksis fra PIA Pengeinstitutankenævnet; nu Det Finansielle Ankenævn) ikke i sig selv tilstrækkeligt til at konstituere groft uforsvarlig adfærd at PIN-koden (dårligt camoufleret eller ej) har ligget i pungen sammen med kortet, men det forhold at pungen er efterladt i en jakke på et bord gør, at adfærden er groft uforsvarlig – særligt når jakken efterlades efter at Andreas forlader festen. 
-
-Andreas har derfor en hæftelse på 8.000 kr. 
 
 ---
 

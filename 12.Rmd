@@ -424,7 +424,10 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
   
 ---
 
-##Eksamensopgavesæt med løsning i kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.
+## Eksamensopgave 12.1.
+
+
+*Om kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.*
 
 
 *Justesens juristerier*
@@ -440,19 +443,7 @@ Ivar Justesen er en evig iværksætter og er altid i gang med nye ”erhvervseve
 
 1.	Hvilke muligheder – udover konkurs – har Sun-Import A/S for at inddrive det skyldige beløb hos Ivar? 
 
-*Vejledende løsning:*
 
-Kreditforfølgning:
-
-Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
-
-Sun–Import kan hvis der foreligger et gyldigt eksekutionsfundament søge fordringen inddrevet via fogedretten. 
-
-Foreligger der ikke eksekutionsfundament må et sådant først etableres, fx gennem aftale, forlig eller dom.
-
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut.*
 
 ---
 
@@ -469,30 +460,6 @@ Herudover har han et depot med en aktiepost i Carlsberg med en kursværdi på ca
 
 2.	Redegør for hvilke muligheder Sun-Import A/S har for at foretage udlæg i Ivars nævnte aktiver til sikkerhed for deres fordring. 
 
-*Vejledende løsning:*
-
-Kreditforfølgning:
-
-Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
-
-Efter som ejendommen allerede er mere end fuldt behæftet, er den næppe et attraktivt udlægsaktiv. 
-
-Det almindelige indbo vil typisk være beskyttet af trangsbeneficiet i retsplejeloven (RPL) § 509, samt praksis for udlæg i aktiver af begrænset værdi, der skal kunne dække auktionsomkostningerne. 
-
-Noget tilsvarende kan, afhængig af værdien, gælde det antikke chatol, der endvidere som arvestykke, kan have en personlig værdi, der afhængig af, igen, værdien og muligheden for anden fyldestgørelse, kan være beskyttet mod udlæg jf. RPL § 515, stk. 1.
-
-Som tilhørende Electric City er TV'et uden for rækkevidde.
-
-Bilen har en friværdi, som der kunne gøres udlæg i.
-NEM-kontoen er et udlægsaktiv, som dog efter omstændighederne kan være beskyttet af trangsbeneficiet i RPL § 509.
-
-Kontoen med den beholdne arbejdsskadeerstatning er, når den som her er adskilt og identifi-cerbar, undtaget jf. RPL § 513.
-Depotet med Carlsberg aktier er et oplagt udlægsaktiv.
-
-De tre kundetilgodehavender er ligeledes oplagte udlægsaktiver.
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut*.
 
 
 *Eksamensspørgsmål:*
@@ -500,27 +467,7 @@ Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demon
 
 3.	Hvilke sikringsakter skal der foretages ved udlæg i aktiverne og hvorfor? 
 
-*Vejledende løsning:*
-
-Kreditorforfølgning:
-
-Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
-
-I givet fald skulle pant i ejendommen tinglyses jf. TL § 1, for at være beskyttet imod godtroende erhververe af konkurrerende rettigheder og retsforfølgning.
-
-Udlæg i indbo og chatol kræver ikke sikringsakt for at være beskyttet imod godtroende erhververe af konkurrerende rettigheder eller retsforfølgning.
-
-Udlæg i bilen tinglyses i bilbogen jf. TL § 42d, for at være beskyttet imod godtroende erhververe af konkurrerende rettigheder og retsforfølgning.
-
-Udlægget i nem kontoen beskyttes i givet fald med en båndlæggelsesbesked til banken, for at udgå at Iver råder over aktiverne til anden side.
-
-Udlægget i Carlsberg aktierne registreres gennem pengeinstituttet i værdipapircentralen jf. VPHL § 66, for at udgå at Iver råder over aktiverne til anden side.
-
-Udlægget i de tre kundetilgodehavender kræver ikke sikringsakt for at være beskyttet imod godtroende erhververe af konkurrerende rettigheder.
-
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af viden om de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut*.
+---
 
 
 En af grundene til at Ivars landejendom er overbehæftet er dels at han selv for nogle måneder siden optog et banklån mod pant i ejendommen dels at en anden af hans kredito-rer Zync Invest havde foretaget et udlæg. 
@@ -537,21 +484,7 @@ Ivar havde under fogedretsmødet oplyst Zync Invenst om pantebrevet til banken. 
 
 4.	Hvordan er prioritetsstillingen i ejendommen mellem bankens panteret og Zync Invests udlæg? 
 
-*Vejledende løsning:*
-
-Kreditsikring:
-
-Anvende centrale regler om tinglysning, af relevans for den finansielle sektor.
-<
-Efter de allerede tinglyste hæftelser aftales bankens sikkerhed i form af pantebrevet den 10. maj, men da det først tinglyses den 13. maj, kan udlægget, foretaget den 12. maj, fortrænge bankens pant fra dets plads i prioritetsrækkefølgen jf. TL § 1, stk. 2. 
-
-Ivars protest og henvisning til bankens utinglyste pant, er uden betydning, da udlægget ikke fordrer god tro jf. TL § 1, stk. 2. modsætningsvis. 
-
-Så efter de allerede tinglyste hæftelser følger udlægget og så bankens pant på kr. 200.000.
-
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anvendelse af de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut.*
+---
 
 
 Ivar vil gerne starte endnu et erhvervsprojekt op sammen med sin svoger. Men da de er to deltagere overvejer han nu bl.a. på baggrund af råd fra sin revisor, om de i stedet kan starte op i et anpartsselskab. 
@@ -561,20 +494,7 @@ Ivar vil gerne starte endnu et erhvervsprojekt op sammen med sin svoger. Men da 
 
 5.	Hvilke fordele og ulemper kan der være ved at starte den nye virksomhed op i et anpartsselskab?
 
-*Vejledende løsning:*
-
-Selskabsret, hæftelse:
-
-Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
-
-Den primære fordel for Ivar er, at han undgår den direkte, ubegrænsede og personlige hæftelse, der gælder i personselskaber. 
-
-Ulemperne er kapitalkravet på kr. 50.000, samt de i nogen grad tungere formelle krav til anpartsselskabets administration, sammenlignet med personselskabet.
-
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes demonstration af forståelse for de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut*.
-
+---
 
 Ivar har sat familiens gamle sofa til salg på en åben Facebookgruppe ”Ting og sager til salg”. Opslaget indeholder et billede af sofaen og teksten: ”Sofa i meget fin stand sælges. Nypris 9.995. Kan afhentes hos mig efter nærmere aftale i en personlig besked – giv et bud!” Ivar får flere kommentarer og likes på sit opslag. Bl.a. skriver Lonnie Frydenlund: ”Jeg byder kr. 1.800. Hvor bor du?” Ivar sender Lonnie følgende personlige besked: ”Top sofaen er din. Du kan betale kontant eller med Mobilepay, når du henter den. Jeg bor på Løvsangervej 10 i Sundby. Hvornår kan du hente den?” Senere samme dag skriver Lonnie: 
 
@@ -586,19 +506,7 @@ Ivar mener, at der er indgået en aftale om køb af sofaen, hvilket Lonnie dog n
 
 6.	Tag stilling til, om der er indgået en bindende aftale mellem Ivar og Lonnie.
 
-*Vejlendende løsning:*
 
-*Aftaleret:*
-
-Anvende centrale aftaleregler om aftalers indgåelse.
-
-Lonnies bud på kr. 1.800, er et bindende tilbud, hvorefter aftale sluttes med Ivars accept. Detaljerne om betaling og levering er uden betydning. Der er endvidere ikke tale om en forbrugeraftale, Da Ivar ikke agerer i sit erhverv, hvorfor forbrugeraftalelovens regler om fortrydelsesret ved fjernsalg ikke bliver relevante. 
-
-Aftalen er altså bindende.
-
-Der skal ved bedømmelsen af besvarelsen lægges vægt på den studerendes anvendelse af de relevante begreber i forhold til opgavens faktum.
-
-*Svar slut.*
 
 ---
 

@@ -680,15 +680,12 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-## Eksamensopgave i aftaleret og rettevejledning
+## Eksamensopgave 4.1.
 
 
 *Bord og stol A/S*
 
 ![](img/hotel.jpg)
-
-
-*Eksamensopgave om aftaleindgåelse og handelskøb*
 
 
 Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler, men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. 
@@ -724,19 +721,81 @@ Det viser sig senere, at Stand Hotellet havde lavet en fejl, og ønskede møbler
 Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at der skal reklameres inden 8 dage fra leveringen.
 
 
-*Eksamenspørgsmålene og rettevejledningen*
+*Eksamenspørgsmålene*
 
 1.	Redegør for om Parkhotellet har krav på at få møblerne til 11.995 kr. 
 
-*Svar*: Her er Bord & Stol forpligtet, jf. AFTL § 4, stk. 2 til at levere stolene til kr. 11.995 til Parkhotellet, da Parkhotellet har accepteret rettidigt og Bord & Stol må indse dette.
+
  
 2.	Redegør for om Strand Hotellet har krav på at få møblerne til 11.995 kr. 
 
-*Svar*: Strandhotellet har ikke krav på møblerne, jf. AFTL § 6, stk. 2, da prisforskellen fra kr. 11.995 til kr. 1.995 ikke medfører, at Bord & Stol måtte indse, at Strandhotellet ville købe møblerne til kr. 11.995 og blot havde lavet en fejl. 
+
 
 3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge. 
 
-*Svar*: Faktura-teksten på bagsiden er næppe gjort klart for Hotel Golf i forbindelse med Bord & Stols fremsendelse af tilbuddet og dermed slet ikke en del af aftalen. Hotel Golf kan dermed se bort fra kravet, og har reklameret rettidigt jf KBL § 54. 
+---
+
+##Eksamensopgave 4.2.
+
+*Hundekiks og tudekiks*
+
+I Køge driver Lars Ravn hundekennelen Vax Pedigree, som han i 2010 har købt sammen med den tilhørende ejendom. 
+
+Et halvt år tidligere har Lars købt hunhunden Rita af racen Akita, som skal indgå i avlen. 
+
+Hunden stammer fra kennlen Trofast, og Lars har studeret dens stamtavle grundigt for bl.a. at sikre sig, at hunden som ønsket, bringer nyt blod til Vax Pedigree. 
+
+Det er derfor en stor overraskelse da det viser sig at Ritas første kuld hvalpe udviser klare træk, som ikke er i overensstemmelse med racen, og at Rita tydeligvis ikke er en ren Atika, og at Kennlen Trofast har fusket med stamtavlen.
+
+Lars mener ikke at det kan være rigtigt og kræver overfor Trofast, at handlen er ugyldig og skal gå tilbage, samt erstatning for de omkostninger han har haft på den "uduelige hund", som han ud-trykker det.
+
+1. Har han ret til det?
+
+--- 
+
+Lars har store planer om at lancere en ny type hundekiks efter egen opskrift, og har fundet en producent i Hundige, fra hvem han efter indledende forhandlinger, har modtaget et tilbud om at man er villig til i ni måneder, månedligt at producere og levere 600 poser af 500 gr., til en pris af DKK 24,-/kg.
+
+Lars er meget i tvivl om hele projektet og skyder det hele fra sig i nogle uger, inden han finder modet til at overveje tilbuddet, og svarer med en ordre på 600 poser om måneden i fire måneder.
+
+Da han ikke hører noget tilbage fra producenten, ringer han til deres salgschef, som fortælle ham, at der ikke er indgået nogen aftale.
+
+2. Belys sagens juridiske elementer og tag stilling til konflikten.
+
+---
+
+Vax Pedigree har fornylig åbnet en web butik med forskellige produkter til hunde. Det har hidtil kørt uden problemer, men da en kunde fortryder et køb af en snackbold, kommer han i tvivl om reglerne. Kunden henviser til forbrugeraftaleloven og mener ikke at hun skal betale for at returne-re varen. Lars mener at huske, at det forholder sig omvendt.
+
+3. Hvordan er forbrugeraftalelovens regler om betaling ved returnering af varer efter fortrydelse?
+
+---
+
+Lars har planer om at udvide forretningen med en hundepension, og i øvrigt at modernisere ken-nelen. Planen kræver en større investering til byggeri, renovering og udstyr, og under et møde med sin revisor, drøfter Lars finansieringsmulighederne. En betydelig del af planen vedrører udstyr til nye stalde og opholdsrum til hundene, og revisoren fortæller, at der er flere måder hvorpå en kreditor kan få sikkerhed i dette udstyr, i forbindelse med en anskaffelse heraf på kredit.
+
+4. Hvilke modeller for kreditsikring kan det være revisoren henviser til?
+
+---
+
+Fine racehunde koster mange penge, og revisoren er også inde på, at Vax Pedigree sikkert kunne mindske sit tab på dårlige betalere, der har købt hunde på kredit. Han foreslår at der kun gives kredit ved større kreditkøb, imod betryggende sikkerhed.
+
+5. Hvilke muligheder har Vax Pedigree for at sikre sig bedre?
+
+---
+
+I forbindelse med renoveringen har Vax Pedigree solgt en hel del brugt udstyr til stalde og op-holdsrum mv. til Otterup Hundekennel ApS, som har fået kredit for 85 % af betalingen. Kreditten er sikret med et ejendomsforbehold, og da afdraget tre måneder senere udebliver, spørger Lars sin advokat, om hvilke muligheder han har for at inddrive betalingen.
+
+6. Hvad skal advokaten svare?
+
+---
+
+Lars kontakter Otterup Hundekennel og de bliver enige om at Vax Pedigree, i stedet for afdraget, modtager noget udmærket hundefoder som Otterup Hundekennel angiveligt kan undvære.
+
+Få uger senere erklæres Otterup Hundekennel imidlertid konkurs, og Lars glæder sig over den hurtige løsning med foderet. "Så slap jeg for den tudekiks." forklarer han en nabo.
+
+7. Er Lars glæde velbegrundet?
+
+---
+
+8. Hvordan er Vax Pedigrees stilling i konkursboet?
 
 ---
 
@@ -1732,6 +1791,162 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 # add_header_above(c( "Koncipistreglen" = 2),italic = TRUE)
 
 ```
+
+
+
+
+## Modeller for løsning af aftaleretlige problemstillinger i Erhvervs- og Finansjura
+
+---
+
+### Problemstillinger vedrørende aftaler
+
+***Aftalers indgåelse – Er aftalen bindende?***
+
+**Der skal foreligge et tilbud**
+
+Annoncer, salgsopstillinger og hjemmesider uden indkøbsfunktion er ikke tilbud, men opfordring til at give tilbud.
+
+Der er ingen formkrav til udformningen (Bør nævnes ved mundtlige og elektroniske erklæringer/aftaler).
+
+---
+
+**Tilbud**
+
+Tilbuddet er bindende for tilbudsgiveren - jf. aftalelovens § 1.
+
+---
+
+Tilbuddet må ikke være tilbagekald helt eller delvist (ændret)
+
+Tilbuddet kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom om tilbuddet - jf. aftalelovens § 7.
+
+---
+
+**Tilbuddet må ikke være afslået**
+
+Hvis tilbuddet afslås, bortfalder tilbuddet og kan ikke accepteres senere - jf. aftalelovens § 5.
+
+Afslaget kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
+
+---
+
+**Der skal forelægge en accept**
+
+Der er ingen formkrav til accepten.
+
+Accepten kan ikke ske ved passivitet - jf. aftalelovens § 8.
+
+Accepten kan ske ved handling, fx. køre med Metroen eller modtage varen.
+
+---
+
+**Tilbuddet skal være accepteret i rette tid**
+
+Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
+
+Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1 til 2 gange forbedringstiden for tilbuddet med tillæg af en rimelig betænkningstid.
+
+Mundtlige tilbud skal accepteres straks - jf. aftalelovens § 3, stk. 2.
+
+Når acceptfristen er udløbet, falder tilbuddet bort. Ved for sen accept er der derfor ingen aftale, men accepten bliver til et nyt tilbud - jf. aftalelovens § 4, stk. 1.
+
+Meddelelsespligt, hvis acceptanten må gud fra, at accepten er rettidig, og modtageren burde indse dette - jf. aftalelovens §4 stk. 2. 
+
+Indlevering til postvæsen eller fremsendelse pr. telefax er tilstrækkeligt - jf. aftalelovens § 40.
+
+---
+
+**Accepten skal være overensstemmende med tilbuddet**
+
+Uoverensstemmende accept foreligger, hvis accepten giver en anden retsstilling end tilbuddet, dvs. hvis accepten medfører ændringer i forhold til tilbuddet eller lovgivningen.
+
+En uoverensstemmende accept er et afslag på tilbuddet, der således falder bort, og accepten bliver til et ny tilbud - jf. aftalelovens § 6, stk. 1. Dette skal accepteres af den oprindelige tilbudsgiver for at aftale forligger. 
+
+Meddelelsespligt, hvis acceptanten må gå ud fra, at tilbuddet er overensstemmende, og modtageren burde indse dette - jf. aftalelovens § 6, stk. 2. Indlevering til postvæsen eller fremsendelse pr. Telefax er tilstrækkeligt - jf. aftalelovens § 40.
+
+---
+
+**Accepten må ikke være tilbagekaldt helt eller delvist**
+
+Accepten kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
+
+---
+
+***Ophør af aftaler – Ugyldighed og fortrydelse***
+
+**Ugyldighed – angiv samtlige mulige og relevante ugyldighedsregler**
+
+Umyndige (under 18 år og under lavværgemål) – jf. værgemålsloven § 44.
+
+Fornuftsmangel – jf. Værgemålslovens § 46.
+
+Falsk, tiltrådt uden bemyndigelse.
+
+Forfalskning, rettet i gyldig dokument.
+
+Voldelig tvang, vold eller trussel derom mod løftegiveren - jf. aftalelovens § 28.
+
+Forvanskning, løftet er undergået forandring - jf. aftalelovens § 32, stk. 2.
+
+Simpel tvang, anden tvang end vold mod løftegiver hvis ond tro - jf. aftalelovens § 29.
+
+Svig, urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro - jf. aftalelovens § 30.
+
+Udnyttelse/åger, misforhold ved udnyttelse hvis ond tro - jf. aftalelovens § 31.
+
+Fejltagelse, løftet har fået et andet indhold end tilsigtet hvis ond tro - jf. aftalelovens § 32, stk. 1.
+
+Stridende mod almindelig hæderlighed hvis ond tro - jf. aftallovens § 33 smhl. § 39.
+
+Urimeligt/i strid med redelig handlemåde (generalklausulen) - jf. aftalelovens § 36.
+
+I strid med lov og ærbarhed – DL 5-1-2.
+
+Forbrugeraftalers ugyldighed - jf. aftaleovens §§ 38a-d.
+
+Præceptive lovregler kan ikke fraviges ved aftale.
+
+Bristende forudsætninger, hvis afgørende/ væsentligt, kendeligt og relevant/rimeligt.
+
+---
+
+**Retsvirkningen af at en aftale er ugyldig**
+
+Parterne fritages for at opfylde. 
+
+Evt. leverede ydelser skal tilbageleveres.
+
+Evt. erstatning til den forurettede part i form af negativ kontraktinteresse. 
+
+---
+
+**Fortrydelsesret**
+
+Hvis fortrydelsesret er aftalt. 
+
+Efter Lov om forbrugeraftaler ved fjernsalg og salg uden for sælgers faste forretningssted 14 dages forstrydelsesret.
+
+-	Lov om forbrugerbeskyttelse ved køb af fast ejendom 6 hverdages fortrydelsesret.
+
+---
+
+**Fortolkning af aftaler**
+
+Minimumsreglen, dvs. mindst byrdefulde forståelse.
+
+Uklarhedsreglen (koncipistreglen) fortolkes til skade for den part (koncipisten), der udfærdigede aftalen. 
+
+Prioritetsreglen fortolkes et individuelt aftalt vilkår går frem for et standardvilkår. 
+
+Udfyldningsreglen fortolkes i retning af de retsregler, der er søgt fraveget. 
+
+Rimelighedsreglen fortolkes efter hvad der er rimeligt.
+
+Gyldighedsreglen fortolkes mod en gyldig virkning.
+
+Forbrugeraftaler fortolkes til fordel for forbrugeren – jf. aftalelovens § 38b.
+
 
 
 ---

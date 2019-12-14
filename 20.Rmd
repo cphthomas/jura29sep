@@ -621,13 +621,13 @@ Der gælder ikke som efter den tidligere værdipapircentrallov nogen regel om ob
 
 C kan fortrænge A's ret over fondsaktivet, hvis:
 
-* Aftalen mellem A og B over fondsaktivet er registreret i CSD
+* Aftalen mellem A og B over fondsaktivet er registreret i CSD.
 
-* C er aftaleerhverver
+* C er aftaleerhverver.
 
-* C har registreret sin ret over fondsaktivet i CSD
+* C har registreret sin ret over fondsaktivet i CSD.
 
-* C er i god tro om A's ret på tidspunktet for registrering i CSD
+* C er i god tro om A's ret på tidspunktet for registrering i CSD.
 
 * A's indsigelse ikke er en stærk indsigelse (falsk, umyndig, voldelig tvang).
 

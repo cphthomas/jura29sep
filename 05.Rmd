@@ -494,7 +494,7 @@ Dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb o
 
 ---
 
-## Eksamensopgave og vejledende løsning
+## Eksamensopgave
 
 
 *Eksamensopgave - jem og fix*  
@@ -527,11 +527,7 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 1.	Er jem og fix bundet af de aftaler, som Kim har indgået med Andreas?
 
 
-*Vejledende løsning fyld gerne selv på*:
-
-1. Er jem og fix bundet af de aftaler som Kim har indgået med Andreas? Rabatten er jem og fix bundet af, da inden for stillingsfuldmagten, men udenfor bemyndigelsen, men Andreas i god tro. 
-
-De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemyndigelsen, og spørgsmålet er om Andreas er i god eller ond tro. Næppe OK.
+2. Er jem og fix bundet af de aftaler som Kim har indgået med Andreas?
 
 
 
@@ -541,6 +537,93 @@ De 5 havebassiner er måske også indenfor stillingsfuldmagten, men udenfor bemy
 **Video: Sådan laver du selv en Fuldmagt**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/oeIre44pjQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
+## Modeller for løsning af fuldmagtsforhold
+
+**Foreligger der en fuldmagt**
+
+Andens navn.
+
+Andens regning.
+
+---
+
+**Hvilken type fuldmagt er der tale om**
+
+Stillingsfuldmagt ved ansættelsesforhold, aftalelovens § 10, stk. 2, dvs. med særlig tilværelse.
+
+Specialfuldmagter er særlig meddelt 3. mand, ajf. ftalelovens § 13, dvs. med særlig tilværelse.
+
+Offentlig bekendtgjort fuldmagt (annonce eller opslag), jf. aftalelovens § 14, dvs. med særlig tilværelse. 
+
+Skriftlig fuldmagt (kun hvis beregnet til fremvisning), jf. aftalelovens § 16, dvs. med særlig tilværelse.
+
+Aftalelovens § 18-fuldmagt (mundtlig eller skriftlige, der ikke er beregnet til fremvisning), dvs. uden særlig tilværelse.
+
+---
+
+**Hvad er fuldmagtens rækkevidde**
+
+Angiv fuldmægtigens legitimation (det for 3. mand kendelige).
+
+Angiv fuldmægtigens bemyndigelse (den til fuldmægtigen meddelte interne instruks).
+
+Legitimation og bemyndigelse er sammenfaldende ved § 18-fuldmagter.
+
+---
+
+**Er fuldmagten tilbagekaldt/ændret/ophørt**
+
+Vil fuldmagtsgiveren tilbagekalde en fuldmagt, skal han, selv om han har underrettet fuldmægtigen om, at fuldmagten ikke længere skal gælde, foretage, hvad der i aftalelovens § 13-§ 16 er foreskrevet. 
+
+Er flere af disse forskrifter anvendelige på samme fuldmagt, skal de alle iagttages - aftalelovens § 12, stk. 1.
+
+Stillingsfuldmagt – ved bortvisning eller flytning - aftalelovens § 10, stk. 2. 
+Specialfuldmagt – når 3. mand underrettes om tilbagekaldelsen - aftalelovens § 13.
+
+Offentlig bekendtgjort fuldmagt – tilbagekaldelsen offentliggøres på samme måde - aftalelovens § 14.
+
+Skriftlig fuldmagt – fuldmagten modtages retur eller destrueres - aftalelovens § 16. 
+§ 18-fuldmagt – når besked om tilbagekaldelse er kommet frem til fuldmægtigen - aftalelovens §18.
+
+Den tredjemand, der har modtaget underretning om, at en fuldmagt er tilbagekaldt, kan ikke påberåbe sig, at tilbagekaldelsen ikke er sket på anden måde - aftalelovens § 12, stk. 2.
+
+Død, umyndiggørelse og konkurs - jf. aftalelovens §§ 21-23. 
+
+Hvis fuldmagtsgiver må frygte, at fuldmægtigen vil handle i forhold til bestemt 3. mand, selvom fuldmagten er tilbagekaldt eller erklæret uvirksom, skal fuldmagtsgiveren give den pågældende 3. mand meddelelse herom, ellers bliver fuldmagtsgiver bundet - jf. aftalelovens § 19. Indlevering til postvæsen eller fremsendelse pr. telefax er tilstrækkeligt - jf. aftalelovens § 40. 
+
+---
+
+**Har fuldmægtigen indgået aftale med 3. mand**
+
+Se evt. kapitel 4 om aftaleindgåelse.
+
+---
+
+**Bliver fuldmagtsgiver bundet af den indgåede aftale**
+
+Har fuldmægtigen overskredet legitimationen - jf. aftalelovens § 10, stk. 1.
+Har fuldmægtigen overskredet den interne bemyndigelse - jf. aftalelovens § 11.
+
+---
+
+
+**Fuldmagt med særlig tilværelse** 
+ 
+
+
+Fuldmagt uden særlig tilværelse (§ 18-fuldmagt)
+
+---
+ 
+
+**Fuldmægtigens erstatningsansvar over for 3. mand**
+
+Fuldmægtigen indestår for at have den fornødne fuldmagt og skal erstatte 3. mand den skade, som han har lidt ved, at aftalen ikke bliver bindende - jf. aftalelovens § 25, stk. 1.
+
+Fuldmægtigen er dog ansvarsfri, såfremt 3. mand vidste eller burde vide, at fuldmægtigen ikke havde fornøden fuldmagt, eller fuldmægtigen handlede i henhold til en fuldmagt, som var ugyldig eller uvirksom af grunde, som han var uvidende om, og som 3. mand ikke kunne påregne at han vidste besked om - jf. aftalelovens § 25, stk. 2. 
 
 
 ---

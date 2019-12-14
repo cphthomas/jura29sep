@@ -1718,6 +1718,10 @@ Den bygningssagkyndige ser efter synlige mangler – ikke de skjulte   mangler, 
 
 ---
 
+Se dommen i **FED2019.26**. A og S købte et hus efter, at La havde udarbejdet en tilstandsrapport for huset. Af tilstandsrapporten fremgik, at der var revner i huset af kategorien K1 og K2. A og S opdagede efterfølgende, at huset var skævt og fik vurderet, at revnerne var værre end det, der fremgik af tilstandsrapporten. En skønsmand udtalte, at flere af indikationerne for skader ud over det, der fremgik af tilstandsrapporten, ikke var til stede på tidspunktet for La's besigtelse af huset, at de øvrige indikationer ikke entydigt indikerede skader af større omfang, og at der ikke var nogen større forskel på, om revnen blev kategoriseret som K2 eller K3. Landsretten fandt på denne baggrund, at La ikke havde handlet ansvarspådragende. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000844862/1**
+
+---
+
 Alle fejl og mangler gives karakter af den bygningssagkyndige i tilstandsrapporten (se fig.):
   
 Sælger har en loyal oplysningspligt over for køberen og den bygningssagkyndige og elinstallatøren og skal supplere tilstandsrapporten og elinstallatørrapporten med alle de relevante forhold, sælgeren kender til.
@@ -1869,7 +1873,9 @@ Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidli
 
 ---
 
-## Eksamensopgavesæt i ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.
+## Eksamensopgave 21.1.
+
+*Om ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.*
 
 *Kalle og Silles bolighandler*
 
@@ -2079,7 +2085,9 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-## Eksamensopgave om handel med fast ejendom
+## Eksamensopgave 21.2.
+
+*om handel med fast ejendom*
 
 
 *”Jeg fik jobbet, mor!!”* 

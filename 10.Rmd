@@ -1252,7 +1252,7 @@ Datatilsynet har på den baggrund valgt at ændre sin hidtidige praksis og vil f
 
 I stedet må spørgsmålet bero på en helhedsvurdering af billedet og formålet med offentliggørelsen af det.
 
-Med denne nye praksis skal den dataansvarlige altså altid foretage en konkret vurdering af, hvorvidt offentliggørelsen af billedet forudsætter, at der indhentes samtykke fra perso-nen/personerne på billedet eller ej. 
+Med denne nye praksis skal den dataansvarlige altså altid foretage en konkret vurdering af, hvorvidt offentliggørelsen af billedet forudsætter, at der indhentes samtykke fra personen/personerne på billedet eller ej. 
 
 I de tilfælde, hvor det vurderes, at det ikke er nødvendigt at indhente samtykke til offentliggørelse af et billede, skal publicisten dog altid huske at have et andet retsgrundlag for offentliggørelsen, herunder eksempelvis legitim interesse. 
 
@@ -1611,39 +1611,39 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 
 
-## GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"
+## <font color="red">GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422440&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 
 ---
 
-## GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)
+## <font color="red">GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422758&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-## GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder
+## <font color="red">GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439222899&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-## GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve mv.
+## <font color="red">GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve mv.<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444258768&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
-## GDPR Podcastserie #5 - Retten til at blive ”glemt”
+## <font color="red">GDPR Podcastserie #5 - Retten til at blive ”glemt”<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448490415&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
 
-## GDPR Podcastserie #6 – Den store opsamling
+## <font color="red">GDPR Podcastserie #6 – Den store opsamling<sup> Premium </font></sup>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518638341&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 

@@ -1008,7 +1008,7 @@ Advokat Sonny Kristoffersen"
 
 ---
 
-## Eksamensopgave med vejledning
+## Eksamensopgave 15.1.
 
 *Eksamensopgave om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.*
 
@@ -1038,17 +1038,7 @@ Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en føds
 
 Hvilke muligheder har Peter for at fortryde sit køb eller gøre misligholdelsesbeføjelser gældenden imod Temafesten? (20%)
 
-*Vejledende løsning:*
 
-Læringsmål: Anvende og formidle juridiske regler og praksis for forbrugeraftalers indgåelse og ugyldighed i relation til forskellige finanselle aftaler. Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder.
-
-*Svar:* Der er tale om en distanceaftale med en forbruger, jf. forbrugeraftalelovens (FBL) § 3. 1), men da fristen herfor, i FBL § 19, er sprunget, er det for sent at fortryde købet. 
-
-Med henvisning til almindelige køberetlige betragtninger, er varen imidlertid mangelfuld, og da sælger ikke er i stand til hverken at tilbyde udbedring eller omlevering, og da manglen ikke er uvæsentlig, må aftalen kunne hæves jf. KL (konkursloven) § 78.
-
-Da læringsmålene i relation til spørgsmålet i relation til købeloven er begrænset til en generel viden om principperne bag misligholdelsesbeføjelserne i relation til mangler, kan der ikke kræves udtømmende svar med paragrafhenvisninger. 
-
-Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 ---
 
@@ -1056,7 +1046,6 @@ Om **forbrugeraftaleloven, se lovsamlingen i kapitel 26:** **https://jura.tepedu
 
 Om **forbrugeraftaler, se kapitel 6**: **https://jura.tepedu.dk/forbrugeraftaler-og-forbrugerbeskyttelse.html.**
 
-*Svar slut*.
 
 ---
 
@@ -1070,17 +1059,7 @@ Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim 
 
 2. Kan Peter få refunderet hele eller dele af udgifterne til materialerne til prinsessefesten af TEMAFESTEN? (5%)
 
-*Vejledende løsning:*
 
-Læringsmål Viden om grundlæggende regler om køb med henblik på at lette forståelsen for andre juridiske områder. 
-
-Anvende og vurdere de grundlæggende erstatningsbetingelser ved erstatning uden for kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar inden for den finansielle sektor.
-
-Svar: I det omfang misligholdelsen har påført Peter et tab kan han søge dette erstattet med henvisning til det objektive ansvar i KL § 43, stk.3 jf. § 80, stk. 2. 
-
-Erstatningen beregnes efter princippet i i KL § 25 jf. § 45.
-
-Da læringsmålene i relation til købeloven er begrænset til en generel viden om principperne, kan der ikke kræves udtømmende svar med paragrafhenvisninger mv. Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 ---
 
@@ -1088,7 +1067,7 @@ Om **købeloven, se kapitel 8**: **https://jura.tepedu.dk/kb.html**
 
 Se **købeloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
-*Svar slut*.
+
 
 ---
 
@@ -1111,23 +1090,12 @@ Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet k
 
 3. Hvilken rådgivning skal advokaten give ham? (10%)
 
-*Vejledende løsning:*
-
-Læringsmål: Udviklingsbaseret viden om anvendt teori og metoder indenfor regler og praksis for individuel kreditorforfølgning og gældssanering.
-
-Svar: Advokaten skal fortælle Peter, at der skal indledes en individuel kreditforfølgning.
-
-Da læringsmålet her kun er på niveauet for viden kan der ikke forventes besvarelser med detaljeret redegørelse for de forskellige uden- og indenretlige skridt og muligheder mv. 
-
-Besvareler der afspejler en generel forståelse for de bagved liggende hensyn og principper skal belønnes.
 
 ---
 
 Om **individuel kreditforfølgning, se kapitel 13 om Insolvensret:**
 
 **https://jura.tepedu.dk/insolvensret.html.**
-
-*Svar slut*.
 
 
 ---
@@ -1140,21 +1108,84 @@ Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der n�
 
 4. Hvilken stilling har Peters tilgodehavende i TEMAFESTENs konkursbo og hvad betyder det for Peters mulighed for at få sit tilgodehavende tilbage? (15%)
 
-*Vejledende løsning:*
+---
 
-Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
+## Eksamensopgave 15.2.
 
-Svar: Peter er separatist jf. KL § 82. Kravet indgår derfor ikke i konkursmassen, og pengene skal udbetales, forud for alle andre krav. 
 
-Der er således normalt gode udsigter til at få pengene tilbage. Overvejelser omkring vanskeligheder med at udtage et pengebeløb, hvis det viser sig ikke at være til stede i virksomheden bør honoreres. 
+Jens Peter ejer og driver landejendommen ”Kjøvsager”, hvor han udover at dyrke jorden også producerer slagtesvin. 
 
-Det gælder også svar, som demonstrerer en generel forståelse af emnet.
+Hans bankforbindelse Bank Nord har været med hele vejen op gennem 00’erne, hvor der er bygget nye svinestalde og i det hele taget investeret i produktionsapparatet på ejendommen. 
+
+Ruslands stop for import af svin og svinekød fra EU har dog også ramt Jens Peters virksomhed og hans økonomi er efterhånden noget anstrengt. 
+
+For at kunne tilså og gøde markerne i foråret 2014 er Jens Peter nødt til at bede Bank Nord om en midlertidig forhøjelse af driftskreditten på kr. 200.000. 
+
+Bank Nord’s rådgiver er umiddelbart indstillet på at bevilge forhøjelsen af kreditten, forudsat at der kan stilles sikkerhed for beløbet. 
+
+Desværre ejer Jens Peter dog ikke selv flere aktiver med friværdi.
+
+Jens Peters ægtefælle Lisbeth arbejder som aftensygeplejerske på deltid på det lokale plejehjem. 
+
+Lisbeths aktiver består dels af et aktiedepot i Bank Nord med aktier i en række danske C20 selskaber for en samlet værdi af i alt kr. 120.000 dels af et sommerhus på Enø, som hun har arvet efter sine forældre. 
+
+Ejendomsværdien udgør kr. 760.000. Bank Nords rådgiver overvejer derfor, om han ikke kan få Lisbeth til at stille sikkerhed for forhøjelsen – og måske evt. for hele Jens Peters driftskredit, der så vil udgøre i alt kr. 800.000.
+
+1.	Hvilke overvejelser bør Bank Nords rådgiver gøre sig i forbindelse med sikkerhed i form af en kaution fra Lisbeth? 
+
+---
+
+2.	Kan der i stedet for kaution stilles sikkerhed for Jens Peters gæld i Lisbeths aktiedepot og i hendes sommerhus og i bekræftende fald hvordan?
+
+---
+
+3.	Hvorledes hæfter Lisbeth for gælden ved etablering af sikkerhederne nævnt i henholdsvis spørgsmål 1. og 2.?
+
+---
+
+4.	Forklar hvilken sikkerhed hos Lisbeth du ville vælge, hvis du var rådgiver hos Bank Nord?
+
+---
+
+Jens Peter får bevilget forhøjelsen af kreditten og får udført forårsarbejdet på gården. 
+
+Men desværre går det ikke så godt med høsten på ”Kjøvsager”, da udbyttet i 2014, pga. en længere tørkeperiode henover foråret og sommeren, desværre ikke bliver så stort som forventet. 
+
+I foråret 2015 ser det for alvor sort ud for Jens Peter og fredag den 13. marts bliver han erklæret konkurs ved skifteretten.
+
+I forbindelse med konkursen opstår der uenighed om retten til et fuldautomatisk fodringsanlæg installeret i svinestalden. 
+
+Anlægget er købt på kredit med ejendomsforbehold hos Smeden i Sundby. 
+
+Det var oprindeligt aftalt at anlægget skulle betales kontant ved leveringen på ejendommen den 20. april 2012. 
+
+Men da det ikke som forudsat lykkedes for Jens Peter at skaffe finansiering til anlægget andre steder, indgik han og smeden i stedet en kreditkøbsaftale med ejendomsforbehold, som blev underskrevet af parterne den 30. april 2012. 
+
+Smeden kræver anlægget udleveret i henhold til kreditkøbskontraktens ejendomsforbehold, da der stadig skyldes kr. 25.000, mens Bank Nord gør gældende at anlægget er omfattet af pantet i den faste ejendom. 
+
+5. Hvem af kreditorerne har ret?
+
+---
+
+
+Læg til nu grund at Lisbeth i foråret 2014 kautionerede for forhøjelsen af driftskreditten med i alt kr. 200.000. I forbindelse med konkursen gør Bank Nord i foråret 2015 kautionskravet gældende mod Lisbeth. 
+
+Lisbeth protesterer dog mod kravet og nægter at betale, idet hun gør gældende, at aftalen er ugyldig, da hun alene skrev under på kautionsaftalen med banken, fordi rådgiveren på et møde i banken lagde et urimeligt hårdt pres på hende ved flere gange at true med, ”at de måtte gå fra hus og hjem”, hvis hun ikke skrev under.
+
+6.	Kan Lisbeth efter din opfattelse få ret i sin påstand? 
+
+---
+
+
+7.	Hvis det i spørgsmål 6 lægges til grund, at banken har ret i deres krav, hvorledes vil de så kunne inddrive deres tilgodehavende hos Lisbeth, hvis hun fortsat nægter at betale?
+
+
 
 ---
 
 Om **konkurs, se afsnit 3.5.:** **https://jura.tepedu.dk/insolvensret.html#konkurs.**
 
-*Svar slut*.
+.
 
 ---
 
@@ -1164,22 +1195,11 @@ Kurator i TEMAFESTENS konkursbo mener, at tilbagebetalingen af 1.015 kr. for mon
 
 5. Har kuratoren ret? (15%) 
 
-*Vejledende løsning*:
-
-Læringsmål: Anvende relevante regler om konkurs og rekonstruktion og vurdere deres betydning for den finansielle sektors risiko- og kreditvurdering.
-
-*Svar*: Det bærende princip i KL kap. 8, om omstødelse er, som det udtrykkes i § 74, at "dispositioner, der på utilbørlig måde begunstiger en fordringshaver på de øvriges bekostning, eller hvorved skyldnerens ejendele unddrages fra at tjene til fordringshavernes fyldestgørelse, eller hans gæld forøges til skade for disse, kan fordres omstødt." 
-
-Nok er Peter blevet begunstiget, men det er ikke utilbørligt og ingen af omstødelsesreglerne er relevante, hvorfor kuratoren ikke har ret.
-
-Svar, som demonstrerer en generel forståelse af emnet bør også belønnes.
-
 
 ---
 
 Om **konkurs, se afsnit 3.5.:** **https://jura.tepedu.dk/insolvensret.html#konkurs.**
 
-*Svar slut*.
 
 ---
 
@@ -1197,18 +1217,13 @@ Peter ønsker at løbe så lille en personlig økonomisk risiko som overhovedet 
 
 Spm. 6. Hvilke selskabsformer bør Peter overveje og hvad skal han vælge? (10%) 
 
-*Vejledende løsning:*
-
-Læringsmål: Forståelse for Grundlæggende selskabsret og hæftelsesformer samt betydningen af reglerne om tegningsret.
-
-Svar: Svaret bør overveje de hæftelsesmæssige forskelle mellem person- og kapitalselskaber, og foretrække et kapitalselskab, hvor hæftelsen begrænses til det indskudte beløb, så Peter bør vælge et ApS eller er IVS.
 
 ---
 
 Se kapitel 23 om virksomhedsformer og hæftelse: 
 **https://jura.tepedu.dk/virksomhedsformer-og-hftelser.html.**
 
-*Svar slut*
+
 
 
 --- 
@@ -1226,22 +1241,7 @@ Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbet
 
 7. Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
 
-*Vejledende løsning:*
 
-Læringsmål: Forståelse for kaution i både private og erhvervsforhold.
-
-*Svar:* Betalingsforpligtelsen ved selvskyldnerkaution, indtræder så snart hovedmanden, Peter, misligholder sin forpligtelse.
-
-Svaret bør også være opmærksom på at skelne mellem privat- og erhvervskaution, og dermed betydningen af pengeinstituttets manglende opfyldelse af sin oplysningspligt over for en privatkautionist jf. lov om finansiel virksomhed (FIL) § 48, som kan gøre aftalen ugyldig. 
-
-Den korrekte besvarelse bør endvidere berøre konsekvensen af henstanden jf.§ 48, stk. 6-8, som uden kautionestens samtykke giver adgang til en reduktion af kautionsforpligtelsen. 
-
-Besvarelser, der demonstrerer en generel forståelse af de hensyn, der ligger bag oplysningspligten mv. i FIL § 48, bør belønnes. 
-
-Der fremgår ikke noget af casen, der indikerer, at kautionen ikke skulle være privat, men fornuftige argumenter i relation til erhvervskaution bør også belønnes.
-
-
-*Svar slut.*
 
 ---
 
