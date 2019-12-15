@@ -596,7 +596,8 @@ I det tilfælde, hvor en ægtefælle har givet tredjemand en *gave*.
 
 Hvis bortgivelsen af gaven medfører nærliggende risiko for, at den anden ægtefælle ikke vil kunne få dækket sine krav ved en formuedeling, og tredjemand (gavemodtageren) vidste eller burde vide dette, giver bestemmelsen i ÆF § 10 denne ægtefælle mulighed for at kræve, at tredjemand giver gaven tilbage. 
 
-De krav, som efter ÆF § 10 kan danne grundlag at kræve gaven tilbage, er navnlig regulerings- og misbrugskrav (lovens kapitel 11), krav på kompensation i særlige situationer (lovens kapitel 12) og krav på pensionskompensation (lovens kapitel 13).  
+De krav, som efter ÆF § 10 kan danne grundlag at kræve gaven tilbage, er navnlig regulerings- og misbrugskrav (lovens kapitel 11), krav på kompensation i særlige situationer (lovens kapitel 12) og krav på pensionskompensation (lovens kapitel 13). 
+
 ---
 
 Gaven kan ikke kræves tilbage, hvis gavegiver ved gaven ikke blev insolvent (konkurslovens § 17, stk. 2), og gavegiver utvivlsomt havde tilstrækkelige midler til at dække sine forpligtelser, dvs. ikke blev insufficient. 
@@ -837,8 +838,6 @@ Men når den første ægtefælle dør, bliver dennes særeje til fælleseje og s
 Den længstlevende ægtefælles særeje opretholdes imidlertid og bliver altså til fuldstændigt særeje. 
 
 Det er derfor kun førstafdødes skilsmissesæreje, der bliver til fælleseje ved død.  
----
-
 Det ægtefællebegunstigende kombinationssæreje er en særejeform, der tiltaler de fleste, idet formen kombinerer fordelene ved skilsmissesæreje og fuldstændigt særeje, således at den længstlevende ægtefælle sikres bedst muligt i forhold til førstafdødes arvinger og eventuelle kreditorer.  
 
 Ægtefællebegunstigende kombinationssæreje anvendes således i tilfælde, hvor ægtefællerne ønsker at tilgodese den længstlevende ægtefælle fremfor ægtefællernes sær- og/eller fællesbørn. 
@@ -2220,8 +2219,6 @@ Ved vurderingen lægges vægt på ægteskabets varighed, et eventuelt forudgåen
 ### Pensionskompensation 
 
 Efter ÆF § 44 kan der ved formuedelingen tilkendes en ægtefælle en kompensation, hvis ægtefællen under ægteskabet har foretaget en mindre pensionsopsparing, end hvad der svarer til en rimelig pensionsordning for den pågældende, og dette skyldes, at ægtefællen af hensyn til familien eller den anden ægtefælle helt eller delvis har været uden for arbejdsmarkedet, haft orlov eller arbejdet på nedsat tid. 
----
-
 Kompensationen kan højst udgøre halvdelen af forskellen mellem værdien af den pensionsopsparing, hver af ægtefællerne har foretaget under ægteskabet af delingsformue.  
 
 ---
