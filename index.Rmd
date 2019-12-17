@@ -1,5 +1,5 @@
 --- 
-title: "Erhvervs- og Finansjura"
+title: "Erhvervs- og Finansjura for finansøkonomer"
 author: "Af Sonny Kristoffersen"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
