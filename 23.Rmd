@@ -8,6 +8,10 @@ cat(readLines('np.html'))
 
 ---
 
+**Famliteret behandles i kap. 18 i "Erhvervsjura"**
+
+---
+
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten til eksamen:*
 
 * *Relateres til rådgivning af privatkunder*  

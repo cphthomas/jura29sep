@@ -6,7 +6,11 @@ cat(readLines('np.html'))
 
 ![](img/handel.jpg)
 
+---
 
+**Handel med fast ejendom behandles i kap. 13 i "Erhvervsjura"**
+
+---
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne*:
 
 

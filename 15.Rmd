@@ -23,6 +23,10 @@ cat(readLines('np.html'))
   
 *Kautionisternes hæftelse og indbyrdes regres*
 
+---
+
+**Kaution bliver behandlet i kap. 16 i "Erhvervsjura"**
+
 
 ---
 

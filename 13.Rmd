@@ -22,6 +22,10 @@ cat(readLines('np.html'))
 
 ---
 
+**Insolvensret bliver behandlet i kap. 11 i "Erhvervsjura"**
+
+---
+
 Med individualforfølgning menes:
 
 Når én kreditor forsøger at fremkalde betaling af sit tilgodehavende hos en skyldner fx ved tvangsfuldbyrdelse via Fogedretten. 

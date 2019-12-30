@@ -24,6 +24,10 @@ cat(readLines('np.html'))
 
 ---
 
+**Erstatningsretten bliver behandlet i kap. 5 i "Erhvervsjura"**
+
+---
+
 **Video: Introduktion til erstatningsretten**
 
 
@@ -50,6 +54,8 @@ I stedet er der ud af mange års domspraksis udledt en erstatningsregel, der kal
 Denne regel fastslår, at man er ansvarlig for den økonomiske skade, som man har forvoldt ved uagtsomhed eller med vilje. 
 
 Reglen hedder også culpa- eller skyldreglen ("culpa" betyder "skyld" på latin eller brøde, uagtsomhed, forseelse, synd), som kan føres tilbage romerrettens culparegel. Modsat "diskulpere"	fritage for skyld.
+
+---
 
 Culpa er den grundlæggende betingelse for at pålægge erstatningsansvar uden for kontraktforhold. 
 
@@ -234,6 +240,8 @@ Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, en
 
 Det skal bevises af skadelidte (kaldet en ”*ligefrem bevisbyrde*”). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
 
+---
+
 For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraksis (domstolene) bevise følgende over for retten: 
 
 
@@ -304,6 +312,12 @@ Culpareglen omfatter som hovedregel begge former for uagtsomhed.
 
 Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. 
 
+---
+
+Se dommen i **FED 2019.35**. Cyklist erstatningsansvarlig for fodgængers tilskadekomst ved sammenstød, da cyklisten burde have tilpasset sin hastighed og placeret sig således på stien, at påkørsel kunne undgås. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000844867/1**
+
+---
+
 Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. 
 
 Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. 
@@ -362,14 +376,19 @@ Se her nævnte domme og ankenævnsafgørelser:
 
 **U 1999.1706 H:** Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000196767/1**
 
+---
+
 <img src="img/baggage.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 **U 1993.955 V:** Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000200954/1**
+
+---
 
 <img src="img/fireplace.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 **FED 2013.9:** Den 16-årige A ville ved ungdomsfest hjælpe værtinden med at tænde op i en udendørs pejs. I den forbindelse hældte han væske fra en dunk, som også værtinden havde benyttet i sit forsøg på at tænde op i pejsen, direkte ind i pejsen. Herved slog ilden tilbage og antændte A’s tøj samt dunken, som han i panik kastede fra sig. Den brændende dunk ramte en trækonstruktion og huset nedbrændte. Det viste sig, at væsken var benzin. Landsretten fandt, at A havde handlet groft uagtsomt, hvorfor hans ansvar ikke bortfaldt i medfør af erstatningsanvarslovens (EAL) § 19. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000534907/1**
 
+---
 
 <img src="img/brand.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -404,7 +423,7 @@ T, født 1994, der var lettisk statsborger, blev fundet skyldig i overtrædelse 
 
 Samt *forsætlig* findes i straffeloven, dvs. med vilje:
 
-**U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Endvidere udvisning for bestandig. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000838303/1**
+Se dommen i **U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Endvidere udvisning for bestandig. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000838303/1**
 
 ---
 
@@ -433,13 +452,15 @@ Kaster en person en sten efter en cyklist for at ramme denne, og det lykkes, er 
 
 Skadevolderen er selvfølgelig også her erstatningsansvarlig. 
 
+---
+
 Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog er der en vigtig undtagelse ved uagtsomt drab:
 
 Straffelovens § 241: "Den, som uagtsomt forvolder en andens død, straffes med bøde eller fængsel indtil 4 måneder eller under særligt skærpende omstændigheder med fængsel indtil 8 år. Er forholdet begået i forbindelse med spirituskørsel, overtrædelse af færdselslovens § 54, stk. 1 eller 2, eller særligt hensynsløs kørsel, anses dette som en særligt skærpende omstændighed".
 
 ---
 
-Se **straffeloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Se **straffeloven** i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -479,7 +500,7 @@ Her et passende udtryk fra romerretten: *"res ipsa loquitur"*;	"tingene taler fo
 
 Link til UfR (ugeskrift for Retsvæsen):
 
-https://pro.karnovgroup.dk/journals/ufr
+**https://pro.karnovgroup.dk/journals/ufr**
 
 ---
 
@@ -516,6 +537,8 @@ Se følgende domme:
 ![](img/byggeplads.jpg)
 
 **FED 2014.77:** Bygherre og entreprenører var erstatningsansvarlig for udgravnings- og funderingsarbejde, der gjorde mur på nabogrund ustabil med efterfølgende sammenstyrtning til følge. Ved sammenstyrtningen skete der skader på tilgrænsende ejendom, hvorved denne bygnings ejer blandt andet led et huslejetab. Murens ejer havde inden sammenstyrtningen accepteret, at muren kunne fjernes, hvorfor murens værdi ikke skulle erstattes. Sevlink til dommen: **https://pro.karnovgroup.dk/document/7000735002/1**
+
+---
 
 **FED 2004.507:** Kommune og underentreprenør solidarisk ansvarlige for skade på nedgravede kabler, som under udboring til stikledninger blev ødelagt. Ligedeling af ansvaret i det indbyrdes forhold. Se link til dommen: **https://pro.karnovgroup.dk/document/7000328054/1**
 
@@ -1169,9 +1192,8 @@ Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 
 ---
 
-## Eksamensopgave med vejledende løsning  
+## Eksamensopgave 7.1. 
 
-**Om erstatning og kaution**
 
 *Murermester Madsen*
 
@@ -1223,21 +1245,12 @@ Anton følte sig presset og skrev under.
 
 4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister så stillet? 
     
-*Vejledende løsning:*    
-
-1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? Ja, betingelserne opfyldt. I henhold til DL 3-19-2 skal arbejdsgiver betale, idet skaden skete som et led i arbejdet. 
-    
-2.	Kan Hr. Knudsens hustru kræve erstatning og i givet fald for hvad og af hvem? Nej, ikke adækvat. 
-    
-3.	Kan Madsen kræve erstatning og i givet fald for hvad og af hvem? Ja, svie og smerte, evt. personskade og tingsskade hos Knudsen, jf. hundelovens § 8.
-    
-4.	Hvis banken ønsker penge af kautionisterne, hvordan er de to kautionister så stillet? De går begge fri. Faren pga. dokumentfalsk fra Madsens side og Madsen pga.kompulsiv, jf.    aftaleloven (stærk ugyldighedsindsigelse). 
 
 ---
 
-## Eksamensopgave med vejledenden løsning 
+## Eksamensopgave 7.2. 
 
-**Erstatning uden for kontrakt og forbrugeraftaler**
+
 
 ![](img/randers.png)
 
@@ -1285,17 +1298,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
 
-*Vejledende løsning:*
 
-1.	Kan Albert få erstatning og hvilke krav kan han i givet fald rejse? Ja. I henhold til EAL kan han rejse personskade, tabt arbejdsfortjeneste, svie og smerte samt erstatning for rejsen, idet krav om kausalitet og adækvans er opfyldt. Adækvans dog på grænsen.
-    
-2.	Er Emilie berettiget til erstatning? Nej, adækvans ikke opfyldt.
-
-3.	Er Hans berettiget til erstatning fra fru Olsen? Ja. hundelovens § 8. Næppe nedslag i erstatningen. 
-    
-4.	Er Hans bundet af aftalen om køb af trøjerne og kasketterne? 14 dages fortrydeælsesret.
-    
-5.	Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne? Ingen erstatning fra sælger af trøjerne som følge af for sen levering, da intet økonomisk tab lidt af Hans. 
 
 ---
 

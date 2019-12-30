@@ -21,7 +21,9 @@ cat(readLines('np.html'))
 Lovgrundlaget er **selskabsloven**, jf. Lovbekendtgørelse 2019-07-23 nr. 763
 om aktie- og anpartsselskaber og **erhvervsvirksomhedsloven** (LEV), jf. Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern, se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
+---
 
+**Selskabsretten bliver behandlet i kap. 7 i "Erhvervsjura"**
 
 ---
 

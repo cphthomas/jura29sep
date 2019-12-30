@@ -1125,9 +1125,9 @@ Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at s�
 
 ---
 
-## Eksamensopgave med vejledning
+## Eksamensopgave 8.1.
 
-**Eksamensopgave og løsning om forbrugerkøb, kreditsikring og inkasso**
+**Eksamensopgave om forbrugerkøb, kreditsikring og inkasso**
 
 
 *Børge Brugtvognsforhandler*
@@ -1174,14 +1174,6 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 3.  Redegør for hvad kan banken gøre for at sikre kassekreditten?
 
 
-*Vejledende løsning:*
-
-
-1	Redegør for hvilke rettigheder – om nogen - Merete har?  Hun har sædvanlige 2 års reklamationsret, jf. købelovens § 83, stk. 1, uanset brugt vare. Årsagen til problemet er afgørende, for bilen er jo 10 år gammel, så ingen forventning af ”ny-kvalitets-bil”, men reparation er OK, medmindre uforholdsmæssig dyr for Børge. Børge må dokumentere.
-
-2	Redegør for hvad Kaj kan gøre for at få sine penge? Vanhjemmelskrav, så hævebegrundende mangel, jf. købelovens § 78, stk. 1, nr. 4. Kaj er bare en simpel kreditor, men kan tilbageholde bilen indtil købesummen tilbagebetalt (KBL § 57 og § 55). Sagen kan indbringes for Ankenævnet for biler, og evt.  pant/sikkerhedsstillelse i varelageret. 
-
-3	Redegør for hvad kan banken gøre for at sikre kassekreditten – kan få virksomhedspant og evt. transport salgspriser på bilerne.  
 
 ---
 
@@ -1629,7 +1621,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 ---
 
 
-## Quizzes
+## Quiz om forbrugeraftaler
 
 ![](img/quisz.png)
 
@@ -1638,7 +1630,7 @@ Må bilforhandleren sælge den brugte bil som "købt som beset"? Og hvor ofte sk
 
 ---  
 
-*Quiz om køb af håndværkerydelser*
+## Quiz om køb af håndværkerydelser
 
 ![](img/hondvark.jpg)
 
@@ -1648,7 +1640,7 @@ Hvad er AB-forbruger? Hvad har du ret til, hvis der er fejl ved håndværkerarbe
 
 ---
 
-*Quiz: Aktiv forbruger*
+## Quiz om aktiv forbruger
 
 ![](img/aktiv.jpg)
 
@@ -1656,7 +1648,7 @@ De fleste kan hente en gevinst ved at skifte leverandør eller forhandle om pris
 
 ---
 
-*Quiz: Bus, tog og Metro*
+## Quiz om bus, tog og metro
 
 ![](img/metro.jpg)
 
@@ -1666,7 +1658,7 @@ Hvert år rejser danskerne mange tusinde kilometer med bus, tog og Metro. Men ke
 
 ---
 
-*Quiz: El*
+## Quiz om el
 
 ![](img/el.jpg)
 
@@ -1694,7 +1686,7 @@ Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? O
 
 ---
 
-*Quiz: Julehandel*
+## Quiz om julehandel
 
 ![](img/jule.jpg)
 
@@ -1702,148 +1694,116 @@ Julen står for døren, og det fejrer forbrug.dk med en julequiz! Test din viden
 
 ---
 
-*Quiz: Udsalg*
+## Quiz om udsalg
 
 ![](img/sale.jpg)
 
 
-Tag forbrug.dks udsalgsquiz, og find ud af, om du har styr på dine rettigheder, når du skal på udsalg. Bagefter kan du udfordre dine venner og familie på Facebook.<a href="https://www.forbrug.dk/quiz/udsalgsquizzen/?rn=43716" target="_blank"> Tag testen her.</a>
 
 ---
+
+## Quiz om abonnementer
 
 <a href="https://www.forbrug.dk/quiz/abonnementer/?rn=43716" target="_blank"> Quiz: Abonnementer</a> 
 
 ---
+
+## Quiz om betalingskort
  
 <a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Quiz: Betalingskort</a> 
 
 ---
 
-
+## Quiz om biler
 
 <a href="https://www.forbrug.dk/quiz/biler/?rn=43716" target="_blank">Quiz: Biler</a> 
 
 ---
 
-
+## Quiz om boligsalg
 
 <a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz: Boligsalg</a> 
 
 ---
 
-
-
-
+## Quiz om det blå sygesikringskort
 
 <a href="https://www.forbrug.dk/quiz/blaasygesikring/?rn=43716" target="_blank">Quiz: Det blå EU-sygesikringskort</a> 
 
 ---
 
-
-
-
-
- 
-
+## Quiz om elektronik
 
 
 <a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Quiz: Elektronik</a> 
 
 ---
 
-
+## Quiz om forbrugerrettigheder
 
 <a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Quiz: Forbrugerrettigheder</a> 
 
 ---
 
-
-
-
- 
-
-
+## Quiz om forbrugslån
 
 <a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Quiz: Forbrugslån</a> 
 
 ---
 
-
-
+## Quiz om klagemuligheder
 
 <a href="https://www.forbrug.dk/quiz/klagemuligheder/?rn=43716" target="_blank">Quiz: Klagemuligheder</a> 
 
 --- 
 
-
-
- 
-
-
+## Quiz om kopivarer
 
 <a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Quiz: Kopivarer</a> 
 
 --- 
  
-
-
-
- 
-
-
+## Quiz om markedsføringsloven
 
 <a href="https://www.forbrug.dk/quiz/markedsfoeringslov/?rn=43716" target="_blank">Quiz: Markedsføringsloven</a> 
 
 --- 
  
-
-
+## Quiz om priser og moms
 
 <a href="https://www.forbrug.dk/quiz/priser-og-moms-quiz/?rn=43716" target="_blank">Quiz: Moms</a> 
 
 --- 
 
-
-
-
-
-
+## Quiz om e-handel
 
 
 <a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Quiz: Nethandel</a> 
 
 --- 
 
-
-
-
- 
-
-
+## Quiz om e-handel og rejser
 
 
 <a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Quiz: Nethandel og rejser</a> 
 
 --- 
 
-
+## Quiz om prøvepakker
 
 <a href="https://www.forbrug.dk/quiz/proevepakke/?rn=43716" target="_blank">Quiz: Prøvepakker</a> 
 
 --- 
 
  
-
+## Quiz om realkreditlån
 
 
 <a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Quiz: Realkreditlån</a> 
 
 --- 
 
-
-
- 
-
+## Quiz om skirejser
 
 
 <a href="https://www.forbrug.dk/quiz/skiferie/?rn=43716" target="_blank">Quiz: Skiferie</a> 
@@ -1851,28 +1811,22 @@ Tag forbrug.dks udsalgsquiz, og find ud af, om du har styr på dine rettigheder,
 ---  
 
 
-
+## Quiz om snyd i din mailboks
  
-
-
 
 <a href="https://www.forbrug.dk/quiz/snyd-i-din-mailboks/?rn=43716" target="_blank">Quiz: Snyd i din mailbox</a> 
 
 ---
 
 
-
+## Quiz om spam og reklamer
  
-
-
-
-
 <a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Quiz: Spam og reklamer</a> 
 
 ---
 
 
-
+## Quiz om sko og tøj
 
 
 <a href="https://www.forbrug.dk/quiz/toej-og-sko/?rn=43716" target="_blank">Quiz: Tøj og sko</a> 

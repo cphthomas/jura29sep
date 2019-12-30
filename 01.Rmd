@@ -4,13 +4,6 @@
 cat(readLines('np.html'))
 ```
 
-```{r start,echo=FALSE,warning=FALSE,include=FALSE}
-#pacman autoload evt. manglende pakker
-if (!require("pacman")) install.packages("pacman")
-pacman::p_load(Cairo,timeDate, DT,plotly,rio,exams,e1071,WriteXLS,readxl,maps,knitr,kableExtra,ggplot2,openxlsx,quantmod,highcharter,forecast,tippy,dplyr,visNetwork,timevis,chartjs) #load various packages
-```
-
-
 ```{r echo=FALSE}
 
 BEGREB <<- c(
@@ -57,6 +50,8 @@ indeks <<- data.frame(BEGREB,forklaring)
 
 
 Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**.
+
+---
 
 EU-retten står over dansk ret, sådan at en dansk lov kan være ulovlig, nemlig, hvis den enten strider mod EU-retten eller mod grundloven.
 
@@ -212,9 +207,9 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 *Begrundelsen:*
 
-*	Gensidig kontrol
+*	Gensidig kontrol.
 
-*	Magtbalance  
+*	Magtbalance.  
 
 
 
@@ -234,7 +229,9 @@ I praksis er det nemlig regeringen og Folketinget, som bestemmer, hvordan lovene
 
 Dronningen skriver dem bare under og har derfor ingen reel magt. 
 
-Dronningen skal "føre lovene ud i livet" – hun har formel magt. 
+Dronningen skal "føre lovene ud i livet" – hun har formel magt.
+
+---
 
 I dag betyder det blot, at hun rent formelt udnævner ministrene i en regering. 
 
@@ -252,8 +249,10 @@ Domstolene har magten til at dømme. De afgør, om folk har overtrådt landets l
 
 Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om lovene overholder grundloven.
 
+---
 
-I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig. 
+
+I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000196204/1**
 
 
 ---

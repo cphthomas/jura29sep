@@ -17,6 +17,10 @@ cat(readLines('np.html'))
 
 •	*Fortrydelsesretten på 14 dage, forbrugeraftalelovens §§ 18-24* 
 
+---
+
+**Forbrugeraftaler bliver behandlet i kap. 3.6. i "Erhvervsjura"**
+
 
 --- 
 

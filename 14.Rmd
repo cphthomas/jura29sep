@@ -29,6 +29,11 @@ cat(readLines('np.html'))
 *samt efterfølgende trepartsforhold, reguleret af gældsbrevsloven*
 
 
+---
+
+**Kreditaftaler bliver behandlet i kap. 17 i "Erhvervsjura"**
+
+
 
 ---
 
@@ -1707,9 +1712,6 @@ Ad. 6)	?
  
  
  
-
-
-
 ---
 
 ## Quiz om forbrugslån

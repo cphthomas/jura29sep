@@ -8,6 +8,10 @@ cat(readLines('np.html'))
 
 ---
 
+**Pant behandles i kap. 15 i "Erhvervsjura"**
+
+---
+
 *Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant i forhold til eksamen*:
 
 
