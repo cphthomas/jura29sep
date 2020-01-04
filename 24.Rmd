@@ -1321,6 +1321,247 @@ Man kan klage over skifterettens afgørelser til landsretten.
 
 ---
 
+## Løsningsmodeller til eksamensopgaver med arv og skifte
+
+
+**24.1. Gennemgå samtlige personer for arveret**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+-	Ufødte børn tager kun arv, hvis de er avlet forinden dødsfaldet og fødes levnede - AL (arveloven) § 94, stk. 1.
+
+-	Kun arvinger, der er i live på dødstidspunktet tager arv - jf. AL § 94, stk. 1.
+
+-	Er to, som har arvet efter hinanden, døde, uden at det vides, hvem der er død først, arver ingen af dem hinanden - jf. AL § 94, stk. 2.
+
+
+---
+
+**24.1.1. Arveklasse 1**
+
+-	Livsarvinger, dvs. Børn - jf. AL § 1, stk. 1. 
+
+-	Livsarvingers afkom - jf. AL § 1, stk. 2. 
+
+-	Adaptivbørn sidestilles med livarvinger, jf. AL § 4.
+
+-	Ægtefællen, jf. AL § 9. 
+
+- Arveretten bortfalder ved separation og skilsmisse  - jf. AL § 49, stk. 1.
+
+- Ugifte samlevende har ingen arveret uden testamente. 
+
+---
+
+**24.1.2. Arveklasse 2 (kun hvis der ikke er arvinger efter arveklasse 1)**
+
+-	Afdødes forældre arver lige - jf. AL § 2, stk. 1. 
+
+- Er en af forældrene døde, arver dennes livsarvinger - jf. AL § 2, stk. 2.
+
+- Hvis ingen livsarvinger, arver den anden forældre og dennes livsarvinger - jf. AL § 2, stk. 2.
+
+---
+
+**24.1.3. Arveklasse 3 (Kun hvis der ikke er arvinger efter arveklasse 1 og 2)**
+
+-	Afdødes bedsteforældre arver lige - jf. AL § 3, stk. 1. 
+
+- Er en af disse døde, arver dennes børn, men ikke deres livsarvinger - jf. AL § 3, stk. 2. 
+
+- Er en af bedsteforældrenes børn døde, arver de andre bedsteforældre - jf. AL § 3, stk. 2.
+
+---
+
+
+**24.1.4. (kun hvis ikke arvinger efter arveklasse 1-3)**
+
+-	statskassen arver, såfremt der ikke er arvinger - jf. AL § 95, stk. 1. 
+
+---
+
+**24.2. Testamente oprettet** 
+
+**24.2.1. Formkrav**
+
+-	Fyldt 18 år - jf. AL § 62, stk. 1.
+
+-	Ved fornufts fulde brug på oprettelsestidspunktet - jf. AL § 72. 
+
+---
+
+
+**24.2.2. Testamentetyper** 
+
+**24.2.2.1. Notartstestamente - jf. AL § 63**
+
+Formkrav:
+
+-	Skriftligt. 
+
+-	Underskrives for notar. 
+
+---
+
+**24.2.2.2. Vidnetestamente - jf. AL § 64**
+
+Formkrav:
+
+-	Skriftligt. 
+
+-	Underskrives for to vitterlighedsvidner - jf. AL § 64, stk. 1.
+
+-	Vidnerne skal være fyldt 18 år og ved deres fornufts fulde brug - jf. AL § 64, stk. 2.
+
+-	Vidnerne må ikke være i familie med testator eller begunstiget - jf. AL § 64, stk. 3.
+
+
+**24.2.2.3. Nødtestamente - jf. AL § 65**
+
+-	Består der hindringer på grund af sygdom eller nødstilfælde, således at der ikke kunne oprettes notar- eller vidnetestamente, kan der oprettes et nødtestamente på en hvilken som helst anden måde - jf. AL § 65, stk. 1.
+
+-	Et nødstestamente bortfalder 3 måneder efter af hindringer er ophørt - jf. AL § 65, stk. 2.
+
+---
+
+**24.2.3. Testationskompetence**
+
+-	Livsarvinger og ægtefællen er tvangsarvinger, og testator kan alene begrænse deres arv til ¼ - jf. AL § 5, stk. 1.
+
+-	Testator kan ved testamente begrænse arvelodden til hvert af sine børn til kr. 1.000.000 - jf. AL § 5, stk. 2. Dette vil også binde deres livsarvinger, med mindre andet fremgår af testamentet.
+
+-	Længstlevende kan uanset ovenstående udtaget, så meget, at værdien deraf sammenlagt med længstlevendes boslod, arvelod og særeje, udgør indtil kr. 630.000 (2009). - jf. AL § 11, stk. 3.
+
+-	Kan fordele og råde over bestemte ejendele - jf. AL § 50, stk. 2-3 + AL § 59.
+
+-	Kan båndlægge arv jf. AL § 55-61.
+
+-	Kan gøre arven til særeje.
+
+---
+
+**24.2.4. Fælles/gensidige testamenter – se AL §§ 80-86**
+
+**24.2.5. Udvidet samlevertestamente – se AL §§ 87-88**
+
+**24.2.6. Ændring eller tilbagekaldelse af testamente**
+
+-	Tilbagekaldelse/genkaldelse i testamenteform - jf. AL § 67, stk. 1.
+
+-	Ændring kun i testamenteform (codicil) - jf. AL § 67, stk. 1.
+
+-	I forhold til ægtefælle bortfalder testamentet ved separation eller skilsmisse § 67 + § 49.
+
+-	I forhold til samlever bortfalder testamentet ved samlivsophør - jf. § 67, stk. 3.
+
+---
+
+**24.2.7. Ugyldighed**
+
+-	Et testamente er ugyldigt, såfremt det ikke opfylder krav til form og tilblivelse - jf. §§ 72-74.
+
+-	Et testamente er ugyldigt, hvis det er fremkaldt ved svig, tvang o. lign. - jf. AL § 75.
+
+-	Et testamente er ugyldigt, hvis dette på grund af fejl har fået et andet indhold ens tilsigtet - jf. AL § 76.
+
+-	Et testamente er ugyldigt, hvis testator befandt sig i en vildfarelse - jf. AL § 77.
+
+-	Anfægtelse af ugyldige testamenter kan ske af enhver, der ville arve - jf. AL § 79.
+
+---
+
+**24.3. Hensidder ægtefælle i uskiftet bo**
+
+**24.3.1. Betingelser for ægtefællens hensidden i uskiftet bo**
+
+-	Ret til at sidde i uskiftet bo med fællesboet, men særeje skal skiftes - jf. AL § 17.
+
+-	Hvis afdøde efterlader særlige livsarvinger, kræves samtykke fra disse - jf. AL § 18, stk. 1.:
+
+- Hvis livsarvinger umyndige kræves værgens samtykke - jf. AL § 18, stk. 2.
+
+- Umyndige er børn under 18 år – jf. Værgemålslovens § 1 stk. 1.
+
+- For den umyndige handler denne værge – jf. Værgemålslovens § 1, stk.2.
+
+- Indehaveren af forældremyndighed er værgen – jf. Værgemålslovens § 2.
+
+---
+
+**24.3.2. Retsvirkningerne af udskiftet bo** 
+
+-	Den efterlevende ægtefælle kommer til at hæfte personligt for afdødes gæld - jf. AL § 25 stk. 1.
+
+-	Den efterlevende ægtefælle udøver en ejers rådighed over det udskiftede bo - jf. AL § 24, stk. 1.
+
+-	Ved testamente kan ægtefællen kun råde over, hvad der falder i arv eller denne, jf. AL § 24 stk. 2.
+
+---
+
+**24.3.3. Ophør og skifte**
+
+-	Den efterlevende har ret til at skifte til enhver tid - jf. AL § 26, stk.1 
+
+-	Den efterlevende har pligt til at skifte:
+
+- Ved indgåelse af nyt ægteskab - jf. AL § 27, stk. 2.
+
+- Når umyndige særlige livsarvinger bliver myndige og anmoder herom - jf. AL § 18, stk. 1.
+
+- Når misbrug eller vanrøgt godtgøres - jf. AL § 29.
+
+- Når alle livsarvinger efter førstafdøde er afgået ved døden, overtages det uskiftede bo til fri rådighed - jf. AL § 34.
+
+---
+
+**24.3.4. Skifte af det uskiftede bo**
+
+**24.3.4.1. Det udskiftede bo består af - jf. AL § 23:**
+
+-	Fællesboet.
+
+-	Hvad den efterlevende ægtefælle erhverver, medmindre dette er særeje, særlige personlige eller uoverdragelige rettigheder - jf. AL § 23, stk. 1.
+
+-	Arv og gave indgår dog ikke, såfremt skifte begæres senest 3 måneder efter modtagelsen - jf. AL § 23, stk. 7.
+
+-	Vederlagskrav som følge af misbrug eller gaver - jf. AL §§ 30-31.
+
+---
+
+**24.3.4.2. Fordelingen af det udskiftede bo:**
+
+-	Kun arvinger i live på tidspunktet for skifte tager arv - jf. AL § 28, stk. 1, 1. pkt.
+
+-	Skiftes i længstlevendes live, beregnes arv til længstlevende. Ved skifte efter længstlevendes død, beregnes ikke arv til længstlevende jf. AL § 28, stk. 1, 2. pkt. 
+
+-	Fordelingen af arv sker efter forholdet på tidspunktet for skifte, og der er ingen arvinger efter den ene ægtefælle, arver den anden ægtefælles arvinger hele boet - jf. AL § 28, stk. 2.
+
+---
+
+
+**24.4. Opgørelse af arven**
+
+-	Den arv, der falder efter afdøde, udgør dennes formue. 
+
+-	Afdødes særeje
+
+-	Afdødes boslod af fællesboet.
+
+---
+
+
+**24.5. Fordelingen af arven**
+
+-	Opgør brøker, og hvis muligt beløb i kroner, for hver enkelt arving:
+
+-	Hvis ægtefælle og livsarvinger, så ægtefælle ½ og livsarvinger ½ - jf. AL § 9, stk. 1. 
+
+-	Hvis kun ægtefælle, arver denne det det hele - jf. AL § 9, stk. 2. 
+
+-	Hvis kun livsarvinger, arver disse i lige deling det hele - jf. AL § 1, stk. 1. 
+
+-	Ellers arveklasse 2,3 og Statsklassen i rækkefølge. 
+
+---
+
 
 
 ## Quiz om arveretten

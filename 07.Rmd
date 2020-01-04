@@ -1493,7 +1493,212 @@ Et forsikringselskabs afslag på at tegne en forsikring som begæret og forsikri
 
 Begrundelsen i FAL § 3 b skal indeholde en henvisning til de relevante retsregler samt en kort redegørelse for, hvorfor forsikringen ikke kan tegnes, eller hvorfor forsikringsaftalen opsiges. 
 
-Begrundelsen skal efter anmodning være skriftlig.  
+Begrundelsen skal efter anmodning være skriftlig. 
+
+---
+
+## Løsningsmodeller ved eksamensopgaver for erstatning uden for kontrakt (skader forvoldt af personer)
+
+**7.1. Identificer mulige skadevoldere og skader**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+Nedennævnte erstatningsbetingelse skal gennemgås for hver enkelt potentiel skadevolder:
+
+•	Eventuelle skadevoldere, der skal bedømmes efter DL 3-19-2, bør af opgavetekniske grunde behandles til sidst, når der flere mulige skadevoldere.
+
+---
+
+**7.2. Børn og utilregnelige** 
+
+•	Børn under 15 år sidestilles med voksne – jf. EAL § 24A (dog ikke børn under 4 år).
+
+•	Utilregnelige sidestilles med tilregnelig (raske) - jf. EAL § 24B.
+
+---
+
+**7.3. Ansvarsgrundlag**
+
+**7.3.1. Culpa**
+
+* Culpa = uagtsomhed.
+
+* Culpa for undladelser, kun hvis der foreligger en handlepligt.
+
+* Pligt ifølge lovgivning eller regler.
+
+* Pligt til at afmærke /afværge en egen frembragt fare.
+
+* Pligt for ejer til at vedligeholde fast ejendom.
+
+* Pligt for ejer til at rydde fortov.
+
+* Pligt til at tilkalde assistance ved personskade og livsfare.
+
+* Pligt for forældre, lærer og pædagoger til holde opsyn med børn med børn i deres varetægt.
+
+---
+
+**Bevisbyrde**
+
+HR: Skadelidte har bevisbyrden - ligefrem bevisbyrde
+
+U: Med omvendt bevisbyrde - præsumptionsansvar (efter praksis ved skader ved operationer og bilreparationer).
+
+---
+
+**7.3.2. Objektivt ansvar**
+
+•	Motorkøretøjer - Færdselsloven §101 (kun ejer og bruger, herunder tyv, men ikke fører - § 104).
+
+•	Hundelovens § 8.
+
+•	Lånte genstande til brug – DL 5-8-1 (Danske Lov).
+
+---
+
+**7.3.3. Arbejdsgiveransvar- solidarisk medansvar i forhold til tredjemand – DL 3-19-2:**
+
+•	Der skal foreligge et ansættelsesforhold, herunder vennetjenester.
+
+•	Arbejdsgiveren skal have instruktionsbeføjelse over den ansatte.
+
+•	Den ansatte skal have handlet culpøst.
+
+•	Skaden skal være forvoldt i tjenesten (omfatter svinkeærinder).
+
+•	Handlingen må ikke være et abnormt skridt eller udført kådhed.
+
+---
+
+**Objektive erstatningsbetingelser**
+
+**7.4. Kausalitet/årsagssammenhæng**
+
+- Skaden skal være en følge af handlingen.
+	
+---
+
+	
+**7.5. Adækvans/påregnelighed**
+
+- Handlingen skal have generel skadeevne i forhold til den type skader, som er sket.
+
+---
+ 
+**7.6. Tab**
+
+**7.6.1. Økonomisk tab**
+
+- Økonomisk tab erstattes med genanskaffelses- eller reparationspris.
+
+---
+
+**7.6.2. Personskade** 
+- Personskade kapitaliseres og erstattes efter EAL – jf. EAL § 1 (erstatningsansvarsloven).
+
+---
+
+**7.6.2.1. Ikke varige tab**
+
+- Andet tab som følge af skaden, herunder medicin, optræning mv. – jf. EAL § 1.
+
+- Tabt arbejdsfortjeneste indtil begynder at arbejde igen – jf. EAL § 2.
+
+- Godtgørelse for svie og smerte – jf. EAL § 3.
+
+---
+
+**7.6.2.2. Varige tab**
+
+- Godtgørelse for varige mén – jf. EAL § 4.
+
+- Erstatning for forringelse af erhvervsevnen – jf. EAL § 5.
+
+---
+
+**7.6.2.3. Død**
+
+- Forsørgertabserstatning – jf. EAL §§ 13-14. (erstatningsansvarsloven).
+
+---
+
+**7.7. Der må ikke være objektive ansvarsfrihedsgrunde**
+
+Såsom:
+
+- Nødværge – skadevolder handler for at værge for sig, jf. straffelovens 13.
+
+- Nødret – skadevolder ofrer et gode for at redde et dyrere eller forhindre personskade, jf. straffelovens § 14.
+
+- Lovlig retshåndhævelse – skader, der sker ved lovlig retshåndhævelse/anholdelser o. lign.
+
+- Samtykke – hvis skadelidte har samtykket i handlingen.
+
+- Accept af risiko – hvis skadelidte har kendt og accepteret risikoen.
+
+- Uanmodet forretningsførelse – hvis skadevolder nødvendigt og forsvarligt handler på andens vegne for at hindre skade, når denne selv var forhindret.
+
+---
+
+
+**7.8.  Nedsættelse, bortfald eller lempelse**
+
+**7.8.1. Nedsættelse**
+
+- Egen skyld hos såkaldte – hvis skadelidte selv har handlet culpøst.
+
+---
+ 
+**7.8.2 Forsikring og selvforsikrere**
+
+**7.8.2.1. Selvforsikrere**
+
+- Offentlige myndigheder vil normalt blive opfattet som selvforsikrede, og dermed som var forsikring tegnet, selvom dette ikke er tilfældet – jf. EAL § 20. (erstatningsansvarsloven)
+
+---
+
+**7.8.2.2. Ansvarsfrihed**
+
+- I det omgang skaden er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar for skadevolder – jf. EAL § 19. En selvrisiko skal således erstattes. 
+
+- Er skaden forvoldt ved forsæt eller grov uagtsomhed, eller er skaden forvoldt ved erhvervsmæssig virksomhed, eller offentlig virksomhed, der må ligestilles hermed er skadevolder ikke ansvarsfri – jf. EAL § 19, stk. 2.
+
+- Gælder ikke, hvis det er en lovpligtig ansvarsforsikring for motorkøretøjer – jf. EAL § 21, nr. 1.
+
+---
+
+**7.8.2.3. Arbejdstagere**
+
+- Arbejdstagere, der forvolder en skade der er dækket af tingforsikring, driftstabsforsikring eller arbejdsgiverens ansvarsforsikring, ifalder ikke erstatningsansvar, medmindre skaden er forvoldt ved forsæt eller grov uagtsomhed – jf. EAL § 13, stk. 3.
+
+---
+
+**7.8.2.4. Forsikringsselskabets regres mod skadevolder**
+
+- Har et forsikringsselskab udbetalt erstatning i tilfælde, hvor skadevolder ikke er ansvarsfri, har forsikringsselskabet fuld regres mod skadevolderen – jf. EAL § 22, stk. 1.
+
+- Forsikringsselskabet har dog ikke regres mod skadevolderen ved livs-, ulykkes-, syge-, eller andre personforsikringer – jf. EAL § 22, stk. 2.
+
+---
+
+**7.8.3. Lempelse**
+
+- Arbejdstagere kan evt. lempes efter EAL § 23 + § 24.
+
+- Børn kan evt. lempes efter EAL § 24A + § 24.
+
+- Utilregnelige kan evt. lempes efter EAL § 24B + § 24.
+	 
+- Alle andre skadevoldere kan evt. lempes efter EAL § 24.
+	 
+---
+	 
+
+**7.9. Flere erstatningsansvarlige**
+
+- Flere erstatningsansvarlige hæfter solidarisk. 
+
+- Fordeling sker efter, hvad der må anses for rimeligt – jf. EAL § 25.
+
 
 ---
 

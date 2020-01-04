@@ -11,6 +11,10 @@ cat(readLines('np.html'))
 
 ---
 
+**Køberetten bliver behandlet i kap. 4 i "Erhvervsjura"**
+
+---
+
 ## Hvad er et køb? 
 
 
@@ -1177,6 +1181,274 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 
 ---
 
+## Løsningsmodeller ved eksamensopgaver i køb
+
+
+
+**8.1. Hvis sælger og køber har bopæl i forskellige lande**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+-	I forbrugerkøb gælder CISG - den internationale købelov - ikke. Ved andre køb skal der foretages et lovvalg.  Hvis dansk ret anvendes købeloven.
+
+- Hvis både sælger og køber bor i nordiske lande (Danmark, Finland, Island, Norge og Sverige), anvendes dog i stedet den nationale købelov, som lovvalgsreglerne peger på. Hvis dette medfører dansk ret, anvendes Købeloven.
+
+---
+
+**8.2. Er købsaftale indgået, og med hvilket indhold**
+
+-	Se løsningsmodellen over i kapitel 4 om der er indgået en aftale mellem sælger og køber.
+
+-	Bemærk at Købeloven er fravigelig (deklaratorisk) i handelskøb - jf. KBL § 1, stk. 1.
+
+-	Visse lovbestemmelser kan ikke fraviges til skade for en forbruger - jf. KBL § 1, stk. 2.
+
+---
+
+**8.3. Indledende sondringer**
+
+**8.3.1. Sondre mellem handelskøb, civilkøb og forbrugerkøb**
+
+-	Handelskøb er køb mellem to handlende, der handler som led i deres erhverv - jf. KBL § 4.
+
+-	Forbrugerkøb er køb, hvor en forbruger til privat brug køber fra en erhvervsdrivende - jf. KBL § 4a.
+
+-	Civilkøb er køb, der ikke er handelskøb eller forbrugerkøb, som er indgået mellem to private.
+
+---
+
+**8.3.2 Sondre mellem genuskøb og specieskøb**
+
+-	Har sælger valgfrihed m.h.t. den vare, der skal leveres, er købet et genuskøb - jf. KBL § 3.
+
+-	Har sælger ikke valgfrihed m.h.t. den vare, der skal leveres, er købet et specieskøb.
+
+---
+							
+**8.4. Misligholdelse**
+
+**8.4.1. Sælgers misligholdelse**
+
+**8.4.1.1. Forsinkelse med levering**
+
+-	Leveres ikke i rette tid og på rettes sted, indtræder der forsinkelse - jf. KBL § 21 (forbrugerkøb - jf. KBL § 74).
+
+**Leveringstiden**
+
+-	På det aftalte leveringstidspunkt.
+
+-	Er der aftalt levering til et bestemt tidspunkt, er købet et fix-køb - jf. KBL § 21, stk. 2.
+
+-	Når leveringstiden ikke er aftalt, skal sælger levere ved købers påkrav herom - jf. KBL § 12.
+
+-	Er der ikke aftalt henstand fra nogen af parterne, skal den ene ikke levere uden samtidig at få sin modydelse (samtidighedsgrundsætningen) - jf. KBL § 14.
+
+**Leveringstedet**
+
+-	Levering sker ved købers afhentning af varen hos sælger - jf. KBL § 9.
+
+-	Ved udbringningskøb, når varen er overgivet til køber - jf. KBL § 11 (forbrugerkøb - jf. KBL § 73).
+
+-	Ved forsendelseskøb, når varen er overgivet til første fremmede fragtfører - jf. KBL § 10.
+
+-	Ved forbrugerkøb dog først, når varen er overgivet til køber - jf. KBL § 73.
+
+-	Ved anden aftale, fx særlige leveringsklausuler (fob, cif, leveret m.v.)
+
+---
+
+**8.4.1.2 Mangler**
+
+Når der opstår mangler på vej fra sælger til køber (risikoens overgang).
+
+-	Afgørende for om der foreligger en mangel er tidspunktet for risikoens overgang - jf. KBL § 44 (forbrugerkøb - jf. KBL § 77a).
+
+-	Ved fordringshavermora går risikoen over på det aftalte leveringstidspunkt, ved genus dog først, når der er sket udskillelse af varen - jf. KBL § 37.
+
+-	Risikoen for varens hændelige undergang/forandring går over på køber ved levering jf. KBL § 17.
+
+- Levering sker ved købers afhentning af varen hos sælger - jf. KBL § 9.
+
+- Ved udbringningskøb, når varen er overgivet til køber - jf. KBL § 11 (forbrugerkøb - jf. KBL § 73).
+
+- Ved forsendelseskøb, når varen er overgivet til første fremmede fragtfører - jf. KBL § 10.
+
+- Ved forbrugerkøb dog først, når varen er overgivet til køber - jf. KBL § 73.
+
+- Ved anden aftale, fx særlige leveringsklausuler (fob, cif, leveret m.v.)
+
+-	Kun hvis manglen er indtrådt, mens det var sælgers risiko, kan mangler gøres gældende.
+
+-	Hvis det er sælgers risiko, kan forsinkelse og mangler gøres gældende.
+
+-	Hvis det er købers risiko, kan hverken forsinkelse eller mangler gøres gældende.
+Kvalitetsmangler.
+
+-	Ved varens kvalitet skal leveres, hvad der er aftalt, og hvad køber berettiget kan forvente. 
+
+-	Er intet andet aftalt skal der leveres en vare af middelgod eller sædvanlige kvalitet. 
+
+•	Ved forbrugerkøb - jf. KBL § 76:
+
+•	Genstanden ikke svarer til den betegnelse, hvorunder den er solgt, eller sælgeren ved købets afslutning har givet urigtige eller vildledende oplysninger, medmindre at det er uden betydning for købers bedømmelse af genstanden. 
+
+•	Sælgeren eller tideligere led har givet oplysninger som nævnt ovenfor på varens pakning, i annoncer eller i andre meddelelser til offentligheden.
+
+•	Sælgeren her forsømt at give køberen oplysninger, som sælgeren burde kende, om forhold af betydning for køberens bedømmelse af salgsgenstanden.
+
+•	Genstanden i øvrigt er af anden eller ringere beskaffenhed eller brugbarhed, end den ifølge aftalen og de foreliggende omstændigheder skulle være, herunder hvis kravene i medfør af KBL § 75a ikke er oplyst.
+
+-	Salgsgenstanden skal have holdbarhed og øvrige egenskaber samt emballering, som køberen efter salgsgenstandens karakter og forholdene i øvrigt havde rimelig grund til at forvente. 
+
+-	Salgsgenstanden skal være egnet til formål, som genstanden af den pågældende type sædvanligvis anvendes til. 
+
+-	Salgsgenstanden skal være egnet til køberens særlige formål, hvis sælgeren har bestyrket køberens forventning herom. 
+
+-	Salgs genstanden skal have samme egenskaber som vareprøve eller model, som sælger har forlagt køberen ved købets indgåelse. 
+
+---
+
+**Kvantitetsmangler**
+
+•	Ved varens kvantitet skal leveres, hvad der er aftalt eller følger af sædvane. 
+
+•	Der anvendes samme regler som ved kvalitetsmangler – jf. KBL § 50.
+
+---
+
+**Retsmangler**
+
+•	Retsmangler/vanhjemmel (ejendomsforbehold/pant/dobbeltsalg) - jf. KBL § 59. 
+
+•	Reglerne ved kvalitetsmangler anvendes analogt.
+
+---
+
+**8.4.2 Købers misligholdelse**
+
+•	Køber skal betale på det aftale betalingstidspunkt.
+
+•	Når betalingstiden ikke er aftalt, skal sælger betale ved sælgers påkrav herom - jf. KBL § 12.
+
+•	Er der ikke aftalt henstand af nogen af parterne, skal den ene ikke levere uden samtidig at få sin modydelse (samtidighedsgrundsætningen) - jf. KBL § 14.
+
+•	Fordringshavermora, dvs. at køber ikke kan/vil modtage varen til den aftale tid.
+
+---
+
+**8.5. Undersøgelsespligt** 
+
+**8.5.1. Undersøgelsespligten**
+
+•	I handelskøb har køber pligt til at fortage en sædvanlig undersøgelse så hurtigt som muligt efter modtagelse - jf. KBL § 51.
+
+•	I handels- og civilkøb endvidere hvis køber er opfordret til undersøgelse - jf. KBL § 47. 
+
+---
+
+**8.5.2. Manglende eller utilstrækkelig undersøgelse**
+
+•	Køber kan ikke påberåbe de mangler, som køber opdagede eller burde have opdaget ved denne undersøgelse. 
+
+•	Indsigelser vedrørende skjulte mangler påvirkes dog ikke af manglende eller utilstrækkelige undersøgelse, da sådanne mangler ikke burde være opdaget. 
+
+---
+
+Fordringshavermora foreligger, når køber ikke vil modtage det købte på det aftalte tidspunkt.
+
+-	Ved fordringshavermora går risikoen over på det aftalte leveringstidspunkt, ved genuskøb dog først når der er sket udskillelse af varen - jf. KBL § 37.
+
+-	Sælger har omsorgspligt for varen på købers regning - jf. KBL § 33.
+
+-	Sælger har salgspligt, hvis varen er let fordærvelig eller for dyr at opbevare - jf. KBL § 35.
+
+-	Sælger har salgsret ved for dyr opbevaring eller når køber nægter modtagelse - jf. KBL § 34.
+
+-	Sælger har bortskaffelsesret hvis salg er umuligt eller dyrt - jf. KBL § 34.
+
+-	Sælger har tilbageholdelsesret i varen til dækning af omkostninger og erstatning jf. KBL § 36.
+
+---
+
+**8.6. Reklamationspligt**
+
+**8.6.1. – Købers ved sælgers misligholdelse**
+
+**Forsinkelse**
+
+-	Når levering ikke har fundet sted, skal reklamation ske inden rimelig tid - jf. KBL § 26.
+
+-	Når levering har fundet sted, skal reklamation ske uden ugrundet ophold - jf. KBL § 27.
+
+---
+
+**Mangler**
+
+-	Handelskøb – straks efter at manglen blev eller burde være opdaget, samt inden 2 år efter overgivelsen - jf. KBL §§ 52 og 54.
+
+-	Civilkøb – uden ugrundet ophold efter at manglen blev eller burde være opdaget, samt inden 2 år efter overgivelsen - jf. KBL §§ 52 og 54.
+
+-	Forbrugerkøb – inden rimelig tid efter at manglen blev eller burde være opdaget, samt inden 2 år efter overgivelsen - jf. KBL §§81 og 83. Meddelelse givet inden 2 måneder, efter at køberen opdagede manglen, vil dog altid være rettidig. 
+
+-	Ved svig, handlinger i strid med almindelig hæderlighed eller garanti for længere tid kan der reklameres efter udløbet af de ovenfor anførte frister - jf. KBL §53 + §§ 82-83.
+
+---
+
+5.6.2 – Sælgers ved købers misligholdelse
+-	Handelskøb – straks efter at forsinkelsen indtræder - §32. 
+-	Civilkøb og forbrugerkøb – uden ugrundet ophold efter, at forsinkelsen indtræder - §32. 
+
+**8.7. Misligholdelsesbeføjelser**
+
+**8.7.1. Købers beføjelser ved sælgers misligholdelse**
+
+-	Fastholde – (forsinkelse) jf. KBL § 21 + § 74, (mangler) KBL §§ 42-43 + KBL § 78. 
+
+-	Hæve hvis væsentligt – (forsinkelse) KBL § 21 + § 74, (mangler) KBL §§ 42-43 + KBL § 78. 
+
+•	Ved successive leveringer kun den berørte del, med mindre der er sammenhæng mellem ydelserne - jf. KBL § 22 (forsinkelse) + KBL § 46 (mangler).
+
+•	Tilbagelevere det modtagne i væsentlig samme stand og mængde - jf. KBL § 57.
+
+•	Dog ikke hvis genstanden hændeligt er gået til grunde eller forandret/forbrugt inden manglen blev opdaget - jf. KBL § 58.
+
+-	Omlevering hvis væsentligt (kun ved mangler og genuskøb) jf. KBL § 43 + § 78. 
+
+•	Tilbagelevere det modtagne i væsentlig samme stand og mængde - jf. KBL § 57. 
+
+•	Dog ikke hvis genstanden hændeligt er gået til grunde eller forandret/forbrugt inden manglen blev opdaget - jf. KBL § 58.
+
+-	Afhjælpning - jf. KBL § 49 + KBL §§ 78-79 (kun ved mangler). 
+
+-	Forholdsmæssigt afslag - KBL §§ 42-43 + KBL § 78 (kun ved værdiforringende mangler).
+
+-	Erstatning – (forsinkelse) KBL §§ 23-24, (mangler) KBL §§ 42-43 + KBL § 80. 
+
+•	Negativ kontraktinteresse eller positiv opfyldelsesinteresse.
+
+---
+
+**8.7.2. Sælgers beføjelser ved købers misligholdelse**
+
+-	Fastholde - jf. KBL § 28.
+
+-	Hæve hvis væsentligt - jf. KBL § 28.
+
+•	Er købet et kontantkøb, eller er varen ved kreditkøb endnu ikke overgivet til køberen, kan sælgeren hæve ved væsentlig misligholdelse - jf. KBL § 28, stk. 1. 
+
+•	Er varen overgivet til køberen, uden at betaling er modtaget (leveret på kredit), med mindre varen er udleveret til køberen ved en fejl, kan sælgeren kun hæve, såfremt der foreligger væsentlig misligholdelse, og såfremt salgsgenstanden er solgt med et gyldigt ejendomsforbehold – jf. KBL § 28, stk. 2.
+
+•	Tilbagelevere det modtagne i væsentlig samme stand og mængde - jf. KBL § 57.
+
+•	Dog ikke hvis genstanden hændeligt er gået til grunde eller forandret/forbrugt inden manglen blev opdaget - jf. KBL § 58. 
+
+-	Sælger har udtagelsesret, såfremt varen er overgivet til køberen efter dennes konkurs - jf. KBL § 41. 
+
+-	Er varen endnu ikke overgivet til køberen, har sælger tilbageholds- og standsningsret ved anticiperet misligholdelse (f.eks. konkurs) - jf. KBL §§ 39-40.
+
+-	Erstatning - jf. KBL § 24 + § 30.
+
+•	Negativ kontraktinteresse eller positiv opfyldelsesinteresse skal diskuteres. 
+
+---
 
 
 ## Godkendte private ankenævn og andre klagemuligheder for forbrugere

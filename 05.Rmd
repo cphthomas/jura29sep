@@ -544,9 +544,9 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 
 ---
 
-## Modeller for løsning af fuldmagtsforhold
+## Modeller for eksamensløsning af fuldmagtsforhold
 
-**Foreligger der en fuldmagt**
+**Foreligger der en fuldmagt**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
 
 Andens navn.
 

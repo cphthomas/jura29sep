@@ -1710,7 +1710,158 @@ Ad. 5)	?
 
 Ad. 6)	?
  
- 
+
+---
+
+## Løsningsmodeller til eksamen om hæveadgang ved salg (sælgers beskyttelse)
+
+**14.1. Har køber og sælger bopæl i forskellige lande**
+
+- Hvilken købelov skal anvendes (se International køb/CISG).^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+**14.2. Når den danske købelov (KBL) og kreditaftalelov (KAL) skal anvendes**
+
+**14.2.1. Kontantkøb**
+
+-	Er købet et kontantkøb, eller er varen ved kreditkøb endnu ikke overgivet til køberen, kan sælgeren hæve ved væsentlig misligholdelse – jf. KBL (købeloven) § 28, stk. 1.
+-	Sælger har udtagelsesret, såfremt varen er overgivet til køberen efter dennes konkurs – jf. KBL § 41.
+
+---
+
+
+**14.2.2. Kreditkøb**
+
+-	Er varen overgivet til køberen, uden at betaling er modtaget (leveret på kredit), med mindre varen er udleveret til køberen ved en fejl, kan sælgeren kun hæve, såfremt der foreligger væsentlig misligholdelse, og såfremt slagsgenstanden er solgt med et gyldigt ejendomsforbehold – jf. KBL § 28, stk. 2.
+
+-	Er varen endnu ikke overgivet til køberen, har sælger tilbageholds- og standsningsret ved anticiperet misligholdelse (fx konkurs) – jf. KBL §§ 39-40.
+
+---
+
+**14.3. Når CISG skal anvendes**
+
+- Sælger kan hæve købet ved væsentlig misligholdelse fra køberen – CISG art. 64, jf. § 61 samt 25. CISG stiller således ikke krav om ejendomsforbehold, for at sælgeren kan hæve. 
+
+---
+
+**14.4. Er ejendomsforbeholdet gyldigt**
+
+-	Gyldighedsbetingelserne er fastlagt i KAL § 34, stk. 1 (alle skal være opfyldt):
+
+-	Det skal være aftalt senest ved overgivelsen.
+
+-	Det samlede beløb inkl. Kreditomkostninger skal overstige kr. 2.000.
+
+-	Kreditten skal være med fast lånebeløb (dvs. ikke en kassekredit).
+
+-	Udbetaling på mindst 20% i forbrugerkøb (ikke påkrævet ved ikke-forbrugerkøb - jf. KAL § 50).
+
+-	Ejendomsforbeholdet må kun angå salgsgenstanden.
+
+-	Hvis ejendomsforbeholdet angår et motorkøretøj, skal dette – for at opnå beskyttelse over for 3. Mand (dvs. ikke en gyldighedsbetingelse) – tinglyses, medmindre der sker rådighedsberøvelse – jf. TL § 42d (gælder ikke ved mejetærskere, traktorer og gaffeltrucks – jf. TL § 42c).
+
+---
+
+
+
+**14.5. Fyldestgørelse**
+
+**14.5.1. Betingelser for fyldestgørelse**
+
+-	Undlader forbrugeren i et kreditkøb at opfylde sin betalingspligt, har kreditgiveren ikke af den grund ret til at forlange betaling af beløb, som ellers ikke ville være forfaldet, tage det solgte tilbage eller gøre anden aftalt særlig retsvirkning af undladelsen gældende, medmindre forbrugeren er udeblevet med et særligt beløb 30 dage efter dets forfaldstid og betingelserne i stk. 2 er opfyldt – jf. KAL § 29, stk. 1. 
+
+-	Det forfaldne beløb skal, jf. KAL § 29, stk. 2, udgøre:
+
+1)	Mindst en tiendedel af det samlede beløb, der skal betales, eller
+
+2)	Hvis der i det forfaldne beløb indgår flere afdrag, mindst en tyvendedel af det samlede beløb, der skal betales, eller
+
+3)	Hele restfordringen.
+
+-	Kreditgiveren skal søge sig fyldestgjort for sit tilgodehavende ved tilbagetagelse af det solgte, jf. Dog KAL § 36, stk.2. Kreditgiveren kan kun i de tilfælde, der er nævnt i §§ 41-42, foretage udlæg i forbrugerens øvrige aktiver. Udlæg kan foretages på grundlag af fogedrettens opgørelse af kravet - jf. KAL § 35.
+
+-	Kreditgiveren kan umiddelbart på grundlag af købekontrakten søge sig fyldestgjort for sit tilgodehavende hos forbrugeren gennem tilbagetagelse af det solgte ved fogedrettens hjælp, jf. KAL § 36, stk.1, hvis kontrakten:
+
+1) er underskrevet af forbrugeren og overgivet til den pågældende i genpart og
+
+2) indeholder ejendomsforbehold.
+
+-	Tilbagetagelse af det solgte kan uanset forbrugerens samtykke ikke ske, hvis det efter retsplejelovens § 509, stk.1, eller § 515, stk.2, ville være undtaget fra udlæg – jf. KAL § 36, stk.2. 
+
+-	Hvis forbrugeren, inden der er sket tilbagetagelse af det solgte, har betalt det beløb, som ikke blev betalt i rette tid, med tillæg af renter og kreditgiverens eventuelle omkostninger, kan kreditgiveren ikke tage det solgte tilbage, forlange betaling af beløb, som ellers ikke ville være forfaldet, eller gøre anden aftalt særlig retsvirkning af undladelse gældende, medmindre dette på grund af særlig omstændigheder ved misligholdelse må anses for påkrævet – jf. KAL § 37.
+
+---
+
+
+**10.5.3. Opgørelse af fordring**
+
+-	Vil kreditgiveren i et køb med ejendomsforbehold tage det solgte tilbage, kan denne opgørelse af sit tilgodehavende, jf. KAL § 38, stk.1, kun medregne:
+
+1)den ubetalte del af fordringen med fradrag efter KAL § 27, stk. 2-3.
+
+2) rente af forfaldne ydelser og 
+
+3) nødvendige omkostninger ved tilbagetagelse, herunder inkassoomkostninger, medmindre KAL § 24 er til hinder herfor. 
+
+-	Er det solgtes værdi mindre end dette tilgodehavende, har kreditgiveren kun krav på betaling af det overskydende beløb, i det omfang særlige omstændigheder taler derfor, navnlig hvis forbrugeren har udvist
+
+-	forsømmelighed ved brugen eller opbevaring af det købte eller har lagt hindringer i vejen for tilbagetagelsesforretningen – jf. KAL § 41. 
+
+-	Hvis det solgtes værdi overstiger det beløb, som kreditgiveren kan beregne sig, kan kreditgiveren kun tage tingen tilbage, hvis det overskydende beløb samtidig betales til forbrugeren - Jf. § 40.
+
+---
+
+**14.5.4. Manglende ejendomsforbehold**
+
+-	Hvis ikke særlige hensyn til forbrugeren eller kreditgiveren taler imod det, kan fogedretten i kreditkøb henvise en kreditgiver, der ikke har ejendomsforbehold til så vidt muligt at søge sig fyldestgjort ved tilbagetagelse af det solgte. Er det solgtes værdi mindre end kreditgiverens tilgodehavende, har kreditgiveren krav på betaling af det overskydende beløb – jf. KAL § 30, stk.1.
+
+---
+
+**14.5.5. Ugyldigt ejendomsforbehold**
+
+-	Hvis et ejendomsforbehold i en aftale om kreditkøb ikke er gyldigt, fordi betingelserne i KAL § 34, jf. Pkt. 2 ovenfor, ikke er opfyldt, har kreditgiveren kun krav på betaling af det beløb, hvormed hans tilgodehavende måtte overstige det solgtes værdi ved tilbagetagelse, med mindre særlige omstændigheder taler derfor, navnlig hvis forbrugeren har udvist forsømmelighed ved brugen eller opbevaring af det købte eller har lagt hindringer i vejen for tilbagetagelsesforretningen – jf. KAL § 30, stk. 2 og KAL § 41. 
+
+---
+
+**14.6. Dispositioner i konflikt med andre rettighedshavere** 
+
+**14.6.1. Videresalg af genstande med ejendomsforbehold**
+
+-	Sælger kan som udgangspunkt vindicere salgsgenstanden fra en senere erhverver. 
+
+-	Sælges med ejendomsforbehold til en forhandler af det solgte, kan sælgeren efter forhandlergrundsætningen ikke vindicere en videresolgt genstand.
+
+---
+
+**14.6.2. Når der er pant i fast ejendom**
+
+**14.6.2.1. Når genstanden er bygningstilbehør (TL § 38)**
+
+-	Er genstanden bygningstilbehør, og er denne af ejeren indlagt i en pantsat fast ejendom til brug for bygningen, ekstinkveres ejendomsforbehold, løsørepantsætning, ejendomsret og leasing af panthaverne i den faste ejendom – jf. TL § 38.
+
+-	Pantsætter er berettiget til at udskille bygningstilbehør som led i sædvanlig regelmæssig drift/vedligeholdelse af ejendommen. Dette er bl.a. tilfældet, når et aktiv erstattes af et nyere.
+
+-	Der kan ikke foretages særskilt udlæg i driftsmateriel omfattet af TL § 37 – jf. RPL § 510.
+
+---
+
+**14.6.2.2. Erhvervsvirksomheds driftsmateriel og -inventar (TL § 37)**
+
+-	Er genstanden driftsmateriel/-inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særlig erhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, med mindre andet er aftalt – jf. TL § 37.
+
+-	Undtaget er motorkøretøjer, dvs. biler, lastvogne, motorcykler, sætte- og påhængsvogne samt campingvogne (men ikke mejetærskere, traktorer og gaffeltrucks – jf. TL § 37, stk. 3. 
+
+-	Inden driftstilbehør indføres til virksomheden, kan dette dog frit underpantsættes ved etablering af løsørepant eller erhverves med ejendomsforbehold – jf. TL § 37, stk. 1.
+
+-	Pantsætter er berettiget til at udskille aktiverne som led i sædvanlig regelmæssig drift af ejendommen – TL § 37, stk. 1, 2. led.
+
+-	Der kan ikke foretages særskilt udlæg i driftsmateriel omfattet af TL § 37 – jf. RPL § 510.
+
+---
+
+**14.7. Virkning af forældelse**
+
+-	En sælgers ejendomsforbehold i leveret løsøre bortfalder ved forældelse af fordringen på købesummen – jf. FL (forældelsesloven) § 25, stk. 4.
+
  
 ---
 

@@ -34,7 +34,7 @@ Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygg
 
 Forbrugeraftaleloven kan vel karakteriseres som forbrugernes grundlov. Eller angivet som "færdselsloven" for den erhvervsdrivende, hvordan den erhvervsdrivende skal behandle forbrugeren, når der indgåes forbrugeraftaler.
 
-Forbrugeraftaleloven er *beskyttelsespræceptiv* – loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
+Forbrugeraftaleloven er *beskyttelsespræceptiv* – dvs. loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
 
 En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. Det kaldes for det *civilrelige forbrugerbegreb*.^[Se *Sonny Kristoffersen* artikel i U.2011B.258: Afgrænsning af det civilretlige forbrugerbegreb, se nærmere ebogens bibliotek **https://jura.tepedu.dk/bibliotek-premium.html.**]
 
@@ -55,9 +55,9 @@ Se sagen om QXL (internet-auktionsudbyder):
 
 Den erhvervsdrivende, som påstår, aftalen ikke er en forbrugeraftale, har bevisbyrden, jf. FBL § 2, stk. 2.
 
-Bedømmelsen i stk. 2 beror på en konkret vurdering. 
+Bedømmelsen i FBL § 2, stk. 2 beror på en konkret vurdering. 
 
-Se **Forbrugerklagenævnets sagsnr: 17/02094**, hvorefter køb af tilretning af brudekjole ikke blev anset som forbrugerkøb: "... Det er den erhvervsdrivende, der skal godtgøre, at der ikke er tale om en forbrugeraftale (forbrugeraftalelovens § 2, stk. 2). Bedømmelsen beror på en konkret vurdering. Nævnet vurderer, at den erhvervsdrivende ikke kan anses for at være erhvervsdrivende, da der er tale om et civilt køb. Nævnet har ved afgørelsen lagt vægt på, at den erhvervsdrivende ikke er CVR-registreret, at hun ikke har fast forretningssted som skrædder, og at hun ikke markedsfører sig selv som skrædder. Herudover har nævnet lagt vægt på, at parterne må antages at have indgået aftalen på baggrund af et privat bekendtskab, og at det herved er uklart om tilretning af brudekjoler skulle ske mod betaling. Der er således ikke tale om et forbrugerkøb, og Forbrugerklagenævnet har derfor ikke kompetence til at behandle sagen”.
+Se fx **Forbrugerklagenævnets sagsnr: 17/02094**, hvorefter køb af tilretning af brudekjole ikke blev anset som forbrugerkøb: "... Det er den erhvervsdrivende, der skal godtgøre, at der ikke er tale om en forbrugeraftale (forbrugeraftalelovens § 2, stk. 2). Bedømmelsen beror på en konkret vurdering. Nævnet vurderer, at den erhvervsdrivende ikke kan anses for at være erhvervsdrivende, da der er tale om et civilt køb. Nævnet har ved afgørelsen lagt vægt på, at den erhvervsdrivende ikke er CVR-registreret, at hun ikke har fast forretningssted som skrædder, og at hun ikke markedsfører sig selv som skrædder. Herudover har nævnet lagt vægt på, at parterne må antages at have indgået aftalen på baggrund af et privat bekendtskab, og at det herved er uklart om tilretning af brudekjoler skulle ske mod betaling. Der er således ikke tale om et forbrugerkøb, og Forbrugerklagenævnet har derfor ikke kompetence til at behandle sagen”.
 
 ---
 

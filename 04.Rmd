@@ -1799,13 +1799,13 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 
 
-## Modeller for løsning af aftaleretlige problemstillinger i Erhvervs- og Finansjura
+## Modeller for eksamensløsning af aftaleretlige problemstillinger i Erhvervs- og Finansjura
 
 ---
 
-### Problemstillinger vedrørende aftaler
+**Problemstillinger vedrørende aftaler**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
 
-***Aftalers indgåelse – Er aftalen bindende?***
+**Aftalers indgåelse – Er aftalen bindende?**
 
 **Der skal foreligge et tilbud**
 
@@ -1919,19 +1919,19 @@ Bristende forudsætninger, hvis afgørende/ væsentligt, kendeligt og relevant/r
 
 Parterne fritages for at opfylde. 
 
-Evt. leverede ydelser skal tilbageleveres.
+Eventuelle leverede ydelser skal tilbageleveres.
 
-Evt. erstatning til den forurettede part i form af negativ kontraktinteresse. 
+Eventuel erstatning til den forurettede part i form af negativ kontraktinteresse. 
 
 ---
 
 **Fortrydelsesret**
 
-Hvis fortrydelsesret er aftalt. 
+Hvis fortrydelsesret er aftalt mellem køber og sælger. 
 
-Efter Lov om forbrugeraftaler ved fjernsalg og salg uden for sælgers faste forretningssted 14 dages forstrydelsesret.
+Efter Lov om forbrugeraftaler ved fjernsalg og salg uden for sælgers faste forretningssted er der 14 dages forstrydelsesret.
 
--	Lov om forbrugerbeskyttelse ved køb af fast ejendom 6 hverdages fortrydelsesret.
+Lov om forbrugerbeskyttelse ved køb af fast ejendom er der 6 hverdages fortrydelsesret.
 
 ---
 

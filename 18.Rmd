@@ -80,8 +80,7 @@ Så bliver ejer pantsætter, og panthaver bliver også rettighedshaver.
 
 ---
 
-Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning. Se tinglysningsloven i Lovsamlingen under kapitel 26:
-**https://jura.tepedu.dk/lovsamling.html.**
+Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgørelse nr. 1075 af 29. september 2014 om tinglysning. Se tinglysningsloven i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -1790,9 +1789,502 @@ På den måde er man som investor altid sikret imod, at bank eller børsmægler 
 
 Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en anden udbyder.  
 
+---
+
+## Løsningsmodeller for ekamensopgaver i forbindelse med ejendomsrettens overgang ved køb (købernes beskyttelse)
+
+
+Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhverver (køber) er beskyttet mod overdragerens (sælgerens) kreditor og evt. konkursbo, f.eks. i opgaver, hvor en køber endnu ikke har fået det købte udleveret, og sælgeren går konkurs, eller sælgerens kreditorer forsøger at foretage udlæg heri.^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+**18.1. Ejendomsretten går over på køber som følger**
+
+**18.1.1. Løsere og rettigheder (goodwill, patenter, varemærker, ophavsrettigheder, m.v.)**
+
+**18.1.1.1. Er købet et genus- eller specieskøb**
+
+-	Har sælger valgfrihed med hensyn til den vare, der skal leveres, er købet et genuskøb.
+
+-	Har sælger ikke valgfrihed med hensyn til den vare, der skal leveres er købet et specieskøb.
 
 ---
 
+**18.1.1.2. Ved specieskøb**
+
+- Ved specieskøb går ejendomsretten over på køber, når købsaftalen er indgået.
+
+---
+
+**18.1.1.3. Ved genuskøb**
+
+-	Ved genuskøb går ejendomsretten over, når der er sket bindende individualisering:
+
+-	Salgsgenstanden er afsendt på erhververens regning og risiko.
+
+-	Udskillelse er sket i overværelse af erhververen.
+
+-	Erhververen har modtaget meddelelse om udskillelse eller afsendelse.
+
+-	Mærkning med erhververens navn efter udtrykkelig bestemmelse af købsaftalen.
+
+---
+
+
+**18.1.2. Fast ejendom**
+
+-	Ejendomsretten går over på køber ved tinglysning af skøde – jf. TL § 1, stk. 1 i tingbogen § 7.
+
+---
+
+**18.1.3. Fordringer og gældsbreve**
+
+-	Se løsningsmodel ovenfor i kap. 16 – Fordringer og gældsbreve.
+
+---
+
+**18.1.4 Kapitalandele (Aktier, anparter og ejerbeviser)**
+
+**18.1.4.1. Ejerbeviser (Aktiebreve)**
+
+-	Fra aftalens indgåelse – SEL (selskabsloven) § 65, stk. 1 modsætningsbevis.
+
+---
+
+**18.1.4.2 Kapitalandele uden ejendomsbeviser (aktier og anparter)**
+
+-	Ved denunciation til selskabet – SEL § 65 stk. 1.
+
+**18.1.4.3. Ved kapitalandele udstedt via Værdipapircentralen**
+
+-	Ved registrering i Værdipapircentralen – VHL (værdipapirhandelsloven) § 66.
+
+---
+
+**18.2. Evt. Omstødelse efter konkurslovens regler**
+
+-	Typisk ved overdragelse til en for lav pris (skjult gave) – KL § 64 og 74.
+
+---
+
+**18.3. Dispositioner i konflikt med andre rettighedshavere**
+
+**18.3.1.  Dobbeltoverdragelser**
+
+**18.3.1.1. Løsøre og rettigheder**
+
+-	Først i tid er bedst i ret, men en senere erhverver kan vinde ret, hvis denne har fået genstanden i hænde i god tro om den første købers ret.
+
+---
+
+**18.3.1.2. Fast ejendom**
+
+-	Først i tid er bedst i ret, men en senere erhverver kan vinde ret, hvis han tinglyser først i god tro om den første købers ret – jf. TL § 1, stk. 2.
+
+-	Den gode tro skal foreligge ved indleveringen af skødet til tinglysning – TL § 5.
+
+---
+
+**18.3.1.3. Kapitalandele (aktier, anparter og ejerbeviser)**
+
+**18.3.1.3.1. Ejerbeviser (aktiebreve)**
+
+- Udgangspunkter er, at først i tid er bedst i ret.
+
+- En senere erhverver kan vinde ret, hvis han først har fået aktiebrevet i hænde i god tro – jf. SEL (selskabsloven) § 66, stk. 1 smhl. jf. GBL (gældsbrevslovens) § 14. 
+
+---
+
+**18.3.1.3.2. Kapitalandele uden ejerbeviser (aktier og anparter)**
+
+- Udgangspunktet er, at i først i tid er bedst i ret.
+
+- En senere erhverver kan vinde ret, hvis denne denuncierer først i god tro – jf. SEL § 65, stk. 2.
+
+---
+
+**18.3.2. Ulovlige dispositioner**
+
+- En erhverver (også i god tro) af stjålne genstande opnår ikke ret til disse. Ejeren vil derfor kunne vindicere sådanne stjålne genstande – jf. Danske Lov 6-17-5 (Danske lov). 
+
+- Det samme gælder analogt ved røveri, afpresning, voldelig tvang samt umyndighed.
+
+- Ejerens ret fortabes, hvis han har givet overdrageren en særlig legitimation til at handle over genstanden (f.eks. ved fuldmagt, kommission og konsignation), eller ejeren har optrådt uforsigtig eller udvist passivitet. 
+
+- Ejerens ret ekstinkveres ved kontanter efter ”pengeregelen”, idet den person, der i god tro modtager kontant betaling, kan ekstinkvere indsigelser om, at den betalende ikke kunne disponere over pengene. Dette gælder også, såfremt pengene er stjålne. 
+
+---
+
+**18.3.3. Køb af genstande med ejendomsforbehold**
+
+- Sælger kan som udgangspunkt vindicere salgsgenstanden fra en senere erhverver. 
+
+- Sælges med ejendomsforbehold til en forhandler af det solgte, kan sælgeren efter forhandlergrundsætningen ikke vindicere en videresolgt genstand. 
+
+---
+
+**18.3.4. Når der tillige pant i fast ejendom**
+
+**18.3.4.1. Erhvervsvirksomheds driftsmateriel og –inventar (TL(tinglysningslovens) § 37)**
+
+- Er genstanden driftsmateriel/-inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særlig erhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, med mindre andet er aftalt – jf. TL § 37. 
+- Undtaget er motorkøretøjer, dvs. biler, lastvogne, motorcykler, sætte- og  påhængsvogne samt campingvogne (men ikke mejetærskere, traktorer og gaffeltrucks – jf. TL § 37, stk. 3.).
+
+- Inden driftstilbehør indføres til virksomheden, kan dette dog frit underpantsættes ved etablering af løsørepant eller erhverves med ejendomsforbehold jf. TL § 37, stk. 1.
+
+-Pantsætter er berettiget til at udskille aktiverne som led i sædvanlig regelmæssig drift af ejendommen – jf. TL §37, stk. 1, 2. led. 
+
+- Der kan ikke foretages særskilt udlæg i driftsmateriel omfattet af TL § 37 – RPL § 510.
+
+---
+
+**18.3.4.2. Når genstanden er bygningstilbehør (TL § 38)**
+
+- Er genstanden bygningstilbehør, og er denne af ejeren indlagt i en pantsat fast ejendom til brug for bygningen, ekstinkveres ejendomsforbehold, løsørepantsætning, ejendomsret og leasing af panthaverne i den faste ejendom – jf. TL § 38.
+
+- Pantsætter er berettiget til at udskille bygningstilbehør som led i sædvanlig regelmæssig drift/vedligeholdelse af ejendommen. Dette er bl.a. tilfældet, når et aktiv erstattes af et nyere.
+
+- Der kan ikke foretages særskilt udlæg i driftsmateriel omfattet af TL §37 – RPL (retsplejeloven) § 510.
+
+
+
+---
+
+## Løsningsmodeller til eksamensopgaver vedrørende pant
+
+Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+**18.1. Hvad er den pantsatte genstand**
+
+-	Ved løsøre/rettigheder/biler/fast ejendom anvendes denne løsningsmodel
+
+-	Ved fordringer/gældsbreve/pantebreve/værdipapirer/aktier anvendes i stedet løsningsmodel om (fordringer) i kap. 16.
+
+---
+
+**18.2. Er sikringsakten iagttaget**
+
+**18.2.1. Håndpant**
+
+-	Fast ejendom og rettigheder kan ikke håndpantssættes.
+
+-	Sikringsakten er effektiv rådighedsberøvelse:
+
+-	Overgivelse til panthaver.
+
+-	Nøglepant – låses inde eller låses fast
+
+-	Opbevaring hos 3. mand samt orientering om, at udlevering ikke må ske.
+
+-	Fyldestgøres et krav, der er sikret ved håndpant, ikke rettidigt, kan panthaveren lade pantet bortsælge ved tvangsaktion – jf. RPL § 538a, stk. 1.
+
+---
+
+**18.2.2. Underpant**
+
+-	Sikringsakten skal være opfyldt:
+
+-	Fast ejendom: Tinglysning – jf. TL § 1, stk. 1 i tingbogen – jf. TL § 7.
+
+-	Løsøre: tinglysning - jf. § 47, stk. 1 i personbogen – jf. TL § 43a.
+-	Motorkøretøjer (ikke traktorer, mejetærskere og gaffeltrucks): tinglysning - jf. § 42d, stk. 1 i bilbogen – jf. TL § 42e.
+
+-	Rettigheder: tinglysning - jf. § 47, stk. 1 i personbogen – jf. TL § 43a.
+
+-	Omsætningspapirer, simple gældsbreve og andre fordringer kan ikke underpantsættes.
+
+-	I forbrugerkreditkøb kan kreditgiver ikke i forbindelse med aftalens indgåelse eller leveringen af det solgte få pant i dette til sikkerhed for, at forbrugeren opfylder sine forpligtelser – KAL § 21, stk. 1. Bestemmelsen i stk. 1 hindrer ikke, at kreditgiveren efter reglerne om pantsætning af fast ejendom får pant i det solgte, nar dette udgør tilbehør til eller bestanddel af en fast ejendom – jf. KAL § 21, stk. 2.
+
+-	Hvis ejerpantebrev skal sikringsakten være opfyldt – jf. TL § 47, stk. 10:
+
+-	Ejerpantebrev i fast ejendom: tinglysning – jf. TL § 1a, stk. 1 i tingbogen – jf. TL § 7.
+
+-	Ejerpantebrev i løsøre: tinglysning - jf. § 47, stk. 2 i personbogen – jf. TL § 43a.
+
+-	Ejerpantebrev i motorkøretøjer (ikke traktorer, mejetærskere og gaffeltrucks): tinglysning - jf. § 42d, stk. 3 i bilbogen – jf. TL § 42e.
+
+-	Ejerpantebrev i rettigheder: tinglysning - jf. § 47, stk. 2 i personbogen – jf. TL § 43a.
+
+---
+
+**18.2.3. Virksomhedspant**
+
+-	Sikringsakten skal være opfyldt:
+
+-	Indehaveren af en erhvervsvirksomhed kan ved tinglyst skadesløsbrev underpant sætte, hvad virksomheden ejer og fremtidig erhverver, herunder simple fordringer, varelagre, uindregistrerede motorkøretøjer, driftsinventar og driftsmateriel, drivmidler og hjælpestoffer, besætninger samt immaterielle rettigheder – jf. TL § 47c, stk. 1-3 (i personbogen - jf. § 43a).
+
+-	Der kan på intet tidspunkt være tinglyst både virksomheds- og fordringspant – jf. TL § 47e, stk. 2.
+
+-	Fordringspant kan ikke stilles til fordel for skyldnerens eller pantsætterens nærstående (KL § 2) – jf. TL § 47e, stk. 1.
+
+-	Skadesløsbreve med fordringspant kan ikke overdrages – jf. TL § 47c, stk. 2, 2. pkt.
+
+---
+
+
+**18.2.4. Udlæg (retspant)**
+
+-  	Kan der foretages udlæg i aktivet – jf. RPL §§ 507 - 515.
+
+-  	Sikringsakten skal være opfyldt 	
+
+- Fast ejendom: tinglysning – jf. TL § 1, stk. 1 i tingbogen – jf. TL § 7
+
+- Løsøre: kræver ikke sikringsakt.
+
+- Biler (ikke traktorer, mejetærskere & gaffeltrucks): tinglysning - jf. § 42 d, stk. 1 i bilbogen – jf. TL § 42 e.
+
+- Rettigheder: kræver ikke sikringsakt.
+
+---
+
+
+**18.3. Hvis pantsætter erklæres konkurs – omstødelse**
+
+-	Fristdagen er første anmeldelse til skifteretten – jf. KL § 1.
+
+---
+
+**18.3.1. Pant**
+
+**18.3.1.1. Pant for gammel gæld**
+
+-	Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70.
+
+---
+
+**18.3.1.2. Pant for samtidig stiftet gæld**
+
+- 	Pant for samtidig stiftet gæld omstødes kun, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning (inden for et par dage) – jf. KL § 70.
+
+---
+
+**18.3.1.3. Virksomhedspant**
+
+-	Virksomhedspant omstødes, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70 stk. 1 & stk. 3.
+
+-	Den forøgelse af pantet, der sker ved, at aktiver senere end 3 måneder før fristdagen bliver omfattet af pantet, omstødes, medmindre forøgelsen fremtrådte som ordinær. Hvis der således kan omstødes, vil omstødelse tillige kunne ske med hensyn til efterfølgende forøgelser, uanset om disse kan anses som ordinære.  Omstødelse kan dog ikke ske, i det omfang den samlede forøgelse modsvares af en forringelse af virksomhedspantet eller nettoforøgelse af den sikrede fordring, der er indtrådt efter den nævnte forøgelse – jf. KL § 70a.
+
+---
+
+
+
+**18.3.2. Udlæg**
+
+-	Udlæg foretaget senere end 3 mdr. før fristdagen omstødes – jf. KL § 71. Kræver udlægget sikringsakt, omstødes dette, hvis blot sikringsakten er foretaget inden for denne frist – jf. KL § 73. 
+
+---
+
+**18.4. Prioritetsstillingen ved flere pantsætninger/udlæg** 
+
+**18.4.1. Fast ejendom**
+
+-	Først i tid er som udgangspunkt bedst i ret. 
+
+---
+
+
+**18.4.1.1. Aftaleerhverver (pant eller køb)**
+
+-	Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indlevering til tinglysning – jf. TL § 1, stk. 2 og § 5. 
+
+---
+
+**18.4.1.2. Kreditforfølgning (udlæg)**
+
+-	Ved udlæg kan en senere udlægshaver vinde ret over en tidligere ret, hvis blot den senere udlægshaver tinglyser først – jf. TL § 1, stk. 2. Udlægshaver må godt være i ond tro om den tidligere ret. 
+
+---
+
+**18.4.2. Ejerpantebrev i fast ejendom**
+
+-	Først i tid, bedst i ret.
+
+---
+
+**18.4.2.1. Underpant i ejerpantebrev**
+
+-	Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysningen – jf. TL § 1a, stk. 2 og § 5.
+
+---
+
+**18.4.2.2. Overdragelse**
+
+- 	Ved overdragelse kan en senere udlægshaver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysningen – jf. TL § 1a, stk. 4 og § 5.
+
+---
+
+
+**18.4.2.3. Kreditforfølgning (udlæg)**
+
+-	Ved udlæg kan en senere udlægshaver vinde ret over en tidligere ret, hvis blot den senere udlægshaver tinglyser først – jf. TL § 1 a, stk. 2 Udlægshaver må godt være i ond tro om den tidligere ret.
+
+---
+
+**18.4.3. Løsøre**
+
+-	Først i tid, bedst i ret.
+
+---
+
+**18.4.3.1. Underpant**
+
+-	Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 47, stk. 3 og § 5.
+
+---
+
+**18.4.3.2. Overdragelse**
+
+-	Ved aftale kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 47, stk. 3 og § 5.
+
+---
+
+**18.4.4. Ejerpantebrev i løsøre**
+
+-	Først i tid, bedst i ret.
+
+---
+
+
+**18.4.4.1. Underpant i ejerpantebrev**
+
+-	Ved aftalepant kan en senere erhverver vinde ret over en tidligere underpanteret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 47, stk.6 og § 5.
+
+---
+
+**18.4.4.2. Overdragelse**
+
+-	Ved overdragelse kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 47, stk. 6 og § 5.
+
+---
+
+**18.4.5. Motorkøretøjer**
+
+-	Først i tid, bedst i ret.
+
+---
+
+**18.4.5.1. Aftaleerhverver (pant el. køb)**
+
+-	Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 47, stk. 6 og § 5.
+
+---
+
+**18.4.5.2. Kreditorforfølgning (udlæg)**
+
+-	Ved udlæg kan en senere udlægshaver vinde ret over en tidligere ret, hvis blot den senere udlægsgaver tinglyser først – jf. TL § 42 d, stk. 1. Udlægshaver må godt være i ond tro om den tidligere ret.
+
+---
+
+**18.4.6. Ejerpantebrev i motorkøretøjer**
+
+-	Først i tid er som udgangspunkt bedst i ret. 
+
+---
+
+**18.4.6.1. Underpant i ejerpantebrev**
+
+- Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 42d, stk. 4 og § 5.
+
+---
+
+**18.4.6.2. Overdragelse**
+
+- Ved aftalepant kan en senere erhverver vinde ret over en tidligere ret, hvis den senere erhverver tinglyser først i god tro om den tidligere ret ved indleveringen til tinglysning – jf. TL § 42d, stk. 7 og § 5.
+
+---
+
+
+**18.4.6.3. Kreditforfølgning (udlæg)**
+
+- Ved udlæg kan en senere udlægshaver vinde ret over en tidligere ret, hvis blot den senere udlægshaver tinglyser først – jf. TL § 42d, stk. 4. Udlægshaver må godt være i ond tro om den tidligere ret. 
+
+---
+
+
+**18.4.7. Virksomhedspant**
+
+-	Først i tid er som udgangspunkt bedst i ret.
+
+---
+
+**18.4.7.1. Kreditforfølgning (udlæg, konkurs m.v.)**
+
+- Tinglyst virksomhedspant skal respektere senere udlæg, hvis udlægshaveren senest 3 hverdage efter udlæggets foretagelse har givet meddelelse til virksomhedspanthaveren om udlægget – jf. TL § 47c, stk. 5.
+
+- 	Virksomhedspant der er stiftet inden afsigelsen af konkursdekret, anmeldelse af rekonstruktion eller indledning af gældssaneringssag over pantsætteren, omfatter ikke aktiver erhvervet derefter – jf. TL § 47f.
+
+13.4.7.2. Pant af driftsmateriel fra lejede lokaler
+- 	Tinglysningstidspunktet er afgørende for fastlæggelse af prioritetsstillingen imellem en pant af driftsmateriel fra lejede lokaler efter TL § 47b, stk. 2, og virksomhedspant, uanset hvornår det enkelte aktiv må anses for at være blevet omfatter af panterettighederne – jf. TL § 47e, stk. 3.
+
+---
+
+**18.5. Dispositioner i konflikt med andre rettighedshavere**
+
+**18.5.1. Erhvervsvirksomheds driftsmateriel og – inventar (TL § 37)**
+
+-	Er genstanden driftsmateriel/inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særligerhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, med mindre andet er aftalt – jf. TL § 37.
+
+-	Undtaget er motorkøretøjer, dvs. biler, lastvogne, motorcykler, sætte- og påhængsvogne samt campingvogne (men ikke mejetærskere, traktorer og gaffeltrucks) – jf. TL § 37, stk. 3.
+
+-	Inden driftstilbehør indføres til virksomheden, kan dette dog frit underpantsættes ved etablering af løsørepant eller erhvervs med ejendomsforbehold – jf. TL § 37, stk. 1.
+
+-	Pantsætter er berettiget til at udskille aktiverne som led i sædvanlig regelmæssig drift af ejendommen – jf. TL § 37, stk. 1, 2. Led.
+
+-	Virksomhedspant omfatter ikke driftsmateriel/-inventar omfattet af en tinglyst panteret i efter TL § 37, uanset hvornår panteretten i den faste ejendom er tinglyst - jf. § 47c, stk. 4.
+
+-	Der kan ikke foretages særskilt udlæg i driftsmateriel omfattet af TL § 37 – jf. RPL § 510.
+
+---
+
+**18.5.2. Når genstanden er bygningstilbehør (TL § 38)**
+
+-	Er genstanden bygningstilbehør, og er denne af ejeren indlagt i en pantsat fast ejendom til brug for bygningen, ekstinkveres ejendomsforbehold, løsørepantsætning, ejendomsret og leasing af panthaverne i den faste ejendom – jf. TL § 38.
+
+-	Pantsætter er berettiget til at udskille bygningstilbehør som led i sædvanlig regelmæssig drift/vedligeholdelse af ejendommen. Dette er bl.a. tilfældet, når et aktiv erstattes af et nyere.
+
+-	Der kan ikke foretage særskilt udlæg i driftsmateriel omfattet af TL § 37 – jf. RPL § 510.
+
+---
+
+**18.5.3. Virksomhedspant**
+
+-	Virksomhedspant omfatter ikke driftsmateriel/-inventar omfatter af en tinglyst panteret i efter TL § 37, uanset hvornår panteretten i den faste ejendom er tinglyst - jf. § 47c, stk. 4.
+
+-	Virksomhedspant er ikke til hinder for, at aktiver, bortset fra fordringer, udskilles ifølge regelmæssig drift af virksomheden – jf. TL § 47c, stk. 1, 2. Pkt.
+
+---
+
+**18.6. Oprykningsret – ændringer i pantebrevsvilkår m.v.**
+
+-	Er oprykningsret aftalt efter TL § 40, stk. 3. Ellers forudsæt dette af opgavetekniske grunde.
+
+-	Når oprykningsret er aftalt, kan en foranstående panthaver efter TL § 40, stk. 7, ikke:
+
+*	Meddele henstand med eller nedsætte afdrag - jf. TL § 40, stk. 3.
+
+*	Meddele henstand med renter udover 1 år fra forfaldsdagen - jf. TL § 40, stk. 4. 
+
+*	Forhøje renten - jf. TL § 40, stk. 5.
+
+*	Aftale længere uopsigelighed - jf. TL § 40, stk. 5. 
+
+*	Ændre tvangsauktionsklausul om at pantebrevet indestår i ejendommen ved tvangsauktion - jf. TL § 40, stk. 6.
+
+---
+
+**18.7. Virkning af forældelse**
+
+-	Ved en fordrings forældelse bortfalder også retten til fyldestgørelse for fordring i pant eller udlæg i skyldnerens ejendom – FL (forældelsesloven) § 25, stk. 1.
+
+-	Uanset fordringens forældelse bevares retten til fyldestgørelse i pant i skyldnerens ejendom, jf. FL § 25, stk. 2, når der er tale om:
+
+1.	Pant for hovedstolen ifølge tinglyst pantebrev i fast ejendom for en bestemt angiven sum;
+
+2.	Håndpant, bortset fra håndpant i ejerpantebrev; eller
+
+3.	Underpant i fast ejendom, som panthaveren inden fordringen forældelse har overtaget til brug. 
+
+
+---
 
 
 ## Quiz om pant i fast ejendom, løsøre og virksomhedspant

@@ -2619,6 +2619,369 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 ---
 
+## Løsningsmodeller for eksamensopgaver vedrørende gældsbreve, fordringer og pant
+
+**16.1. Er der oprettet et gældsbrev**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+- Et gældsbrev er en skriftlig, ensidig, ubetinget skylderklæring om betaling af et bestemt beløb. Pantebreve, herunder ejerpantebreve er også gældsbreve.
+
+- Hvis der ikke foreligger et gældsbrev, er der tale om en simpel fordring. 
+
+---
+
+**16.1.1. Gældsbrev**
+
+- Hvis der er tale om et gældsbrev, anvendes Gældsbrevsloven (GBL).
+
+- Sondre om omsætningsgældsbrev eller simpelt gældsbrev.
+
+---
+
+**16.1.1.1. Omsætningsgældsbreve**
+
+- Ihændehavergældsbreve er gældsbreve, der lyder på betaling til ihændehaveren eller er uden kreditorangivelse, jf. GBL § 11, stk. 2, nr. 1. 
+
+- Ordregældsbreve er gældsbreve, der lyder på betaling til en navngivet kreditor med tilføjelsen ”eller ordre”, jf. GBL § 11, stk. 2, nr. 2. 
+
+- Pantebreve er omsætningsgældsbreve, når det tillige giver pant i registreret skib eller luftfartøj, med mindre der i gældsbrevet er indføjet ordene ”ikke til ordre” eller tilsvarende forbehold, jf. GBL § 11, stk. 2, nr. 3. 
+
+- Navnegældsbreve, når det utvetydigt angives, at gældsbrevet er et omsætningsgældsbrev, jf. GBL § 11, stk. 2, nr. 4. 
+
+- Reglerne finder dog ikke anvendelse på tinglyste digitale gældsbreve/pantebreve, jf. GBL § 11, stk. 3. Se i stedet løsningsmodel om pant og udlæg, jf. TL § 27a.
+
+---
+
+**16.1.1.2. Simple gældsbreve**
+
+- Simple gældsbreve er navnegældsbreve, jf. GBL § 26, stk. 1. 
+
+- Pantebreve, der giver pant i biler, løsøre, fordringer og lignende, er simple gældsbreve. 
+
+- Reglerne, bortset fra § 31, finder tillige anvendelse på tingslyste digitale simple gældsbreve, jf. GBL § 26, stk. 2.
+
+---
+
+
+**16.1.2. Simpel fodring**
+
+- Reglerne om simple gældsbreve samt reglerne i GBL §§ 1-10 anvendes analogt. 
+
+---
+
+
+**16.2. Hvad er tvisten**
+
+- Når flere gør krav på fordringen/gældsbrevet, jævnfør afsnit 3 nedenfor. 
+
+- Debitor har indsigelser mod betaling, jævnfør afsnit 4 nedenfor.
+
+- Mellem en overdrager og en erhverver, jævnfør afsnit 5 nedenfor. 
+
+- Fordringens ophør, jævnfør afsnit 6 nedenfor. 
+
+---
+
+
+**16.3. Når flere gør krav på fordringen/gældsbrevet**
+
+
+**16.3.1. Sikringsakten skal være opfyldt**
+
+**16.3.1.1 Simple gældsbreve**
+
+- Ved pant og overdragelse til eje er sikringsakten denuntiation til debitor, jf.GBL § 31.
+
+- Tinglyste digitale simple gældsbreve, jf. GBL § 26, stk. 2 – skal overdragelse tingslyses. 
+
+- Ved udlæg kræves ikke sikringsakt, jf. GBL § 31 modsætningsvist. 
+
+- Pantsatte fordringer kan inddrives af panthaver, efterhånden som de forfalder, jf. RPL (retsplejeloven) § 538a, stk. 3. 
+
+---
+
+
+**16.3.1.2. Fordringspant i simple fordringer**
+
+- Ved fordringspant kan indehaveren af en erhvervsvirksomhed ved skadesløsbrev underpantsætte virksomhedens udestående og fremtidige simple fordringer hidrørende fra salg af varer og tjenesteydelser, jf. TL § 47d, stk. 1-2. (I personbogen, jf. TL § 43a).
+
+- Der kan på intet tidspunkt være tingslyst både virksomhedspant og fordringspant, jf. TL § 47e, stk. 2. 
+
+- Fordringspant kan ikke stilles til fordel for skyldnerens eller pantsætterens nærstående (KL § 2), jf. TL § 47e, stk. 1. 
+
+- Skadesløsbreve med fordringspant kan ikke overdrages, jf. TL § 47d, stk. 2, 2. punkt. 
+
+- Fordringspant der er stiftet inden afsigelsen af konkursdekret, anmeldelse af rekonstruktion eller indledning af gældssaneringssag over pantsætteren, omfatter ikke aktiver erhvervet derefter, jf. TL § 47f. 
+
+- Pantsatte fordringer kan inddrives af panthaveren, efterhånden som de forfalder, jf. RPL § 538a, stk. 3-4. 
+
+---
+
+
+**16.3.1.3. Omsætningsgældsbreve**
+
+- Ved pant skal panthaveren have fået gældsbrevet i hænde, jf. GBL § 22.
+
+- Ved udlæg kræves ikke sikringsakt, jf. GBL § 22 modsætningsvist. 
+
+- Ved køb er erhververen beskyttet fra aftalens indgåelse, jf. GBL § 32. modsætningsvist. 
+
+- Ved elektroniske værdipapirer er sikringsakt registrering i værdipapircentralen, jf. VHL § 66.
+
+- Pantsatte fordringer kan inddrives af panthaveren, efterhånden som de forfalder, jf. RPL § 538a, stk. 3. 
+
+---
+
+
+**11.3.2. Hvis overdrager eller pantsætter erklæres konkurs – omstødelse**
+
+- Fristdagen findes og er første anmeldelse til Skifteretten, jf. KL (konkursloven) § 1. 
+
+---
+
+**16.3.2.1. Pant**
+
+**Pant for gammel gæld**
+
+Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 3 måneder før fristdagen, jf. KL § 70.
+
+---
+
+**Pant for samtidig stiftet gæld**
+
+- Pant for samtidig stiftet gæld omstødes kun, såfremt sikringsakten er foretaget senere end 3 måneder før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning ( indenfor et par dage), jf. KL § 70. 
+
+---
+
+**Fordringspant**
+
+- Fordringspant (TL § 47d), i fordringer, som er stiftet senere end 3 måneder før fristdagen, men efter gældens stiftelse, kan omstødes, jf. konkurslovens § 70, stk. 1, 2. Punkt.
+
+---
+
+**16.3.2.2. Udlæg**
+
+- Udlæg foretaget senere end 3 måneder før fristdagen omstødes, jf. KL § 71. Kræver udlægget sikringsakt, omstødes dette, hvis blot sikringsakten er foretaget indenfor denne frist, jf. KL § 73. 
+
+---
+
+**16.3.3. Dispositioner i konflikt med andre rettighedshavere**
+
+**16.3.3.1. Simple gældsbreve**
+
+- Udgangspunktet er, at først i tid er bedst i ret. 
+
+- En senere erhverver (panthaver/køber) kan vinde ret, hvis denne denuncierer først i god tro, jf. GBL § 31, stk. 2. 
+
+---
+
+**16.3.3.2. Omsætningsgældsbreve**
+
+- Udgangspunktet er, at først i tid er bedst i ret. 
+
+- En senere erhverver (panthaver/køber) kan vinde ret, hvis denne først har fået gældsbrevet i hænde i god tro  § 14. Ved andre gældsbreve end ihændehavergældsbreve gælder dette kun, hvis overdragelsen sker af den, der efter GBL § 13 i henhold til skriftlige transporter formodes at have retten til gældsbrevet. Ved ihændehavergældsbrevet dog ikke ved ond tro, jf. GBL § 14 stk. 1. Ved pantebrevet se TL § 28. 
+
+---
+
+
+**16.4. Debitor har indsigelse mod betaling**
+
+- Undersøg om indsigelsen er juridisk berettiget, hvilket afgøres efter de relevante retsregler, herunder AFTL, KBL, TL, reglerne om modregning mf. 
+
+---
+
+**16.4.1. Tvister mellem debitor og den oprindelige kreditor iht. gældsbrevet**
+
+- Samtlige indsigelser ift. til den oprindelige kreditor bevares, uanset at gældsbrev er udstedt, jf. GBL § 1. 
+
+---
+
+**16.4.2. Tvister mellem debitor og erhververe/panthavere**
+
+**16.4.2.1 Simple gældsbreve**
+
+- Debitor bevarer samtlige indsigelser uanset overdragelsen, jf. GBL § 27.
+
+---
+
+**16.4.2.2. Omsætningsgældsbreve**
+
+- En aftaleerhverver (køber, panthaver samt gavemodtager), som har fået gældsbrevet i hænde i god tro, ekstinkverer  som udgangspunkt debitors indsigelser, jf. GBL § 15.
+
+- Ved andre gældsbreve end ihændehavergældsbreve gælder dette kun, hvis overdragelsen sker af den, der efter GBL § 13 i henhold til skriftlige transporter formodes at have retten til gældsbrevet, jf. GBL § 14, stk. 2. Ved ihændehavergældsbreve ekstinkveres ikke ved ond tro, jf. GBL § 14, stk. 1. Ved pantebreve se TL § 27. 
+
+- Ift. arvinger og kreditorer ved udlæg ekstinkveres aldrig, jf. GBL § 15 modsætningsvist. 
+
+- Ydelser, der var forfaldne før overdragelsen, ekstinkveres ikke, jf. GBL § 16.
+
+- At gældsbrevet et falsk, forfalsket eller udstedt ved voldelig tvang ( AFTL § 28), udsteder er umyndig eller manglende evne til at handle fornuftsmæssigt, at gældsbrevet er mortificeret, deponeret, forældet, prækluderet eller ophørt ved tvangsakkord eller gældssanering kan altid gøres gældende, jf. GBL § 17. 
+
+---
+
+**16.4.3. Har debitor betalt efter en overdragelse med frigørende virkning**
+
+**16.4.3.1. Simple gældsbreve**
+
+- Skyldneren kan betale til den oprindelige kreditor, så længe skyldneren ikke er blevet underrettet om overdragelsen (denuncieret), jf. GBL § 29.
+
+---
+
+
+**16.4.3.2. Omsætningsgældsbreve**
+
+- Ved ordinære betalinger kan skyldneren betale til den oprindelige kreditor, så længe han ikke er blevet underrettet om overdragelsen (denuncieret), jf. GBL § 20.
+
+- Ved ekstraordinære betalinger frigøres skyldneren kun, såfremt betaling sker til den kreditor, der har gældsbrevet i hænde, jf. GBL § 19. Ved andre gældsbreve end ihændehavergældsbreve gælder dette kun, hvis overdragelse sker af den, der efter SGBL § 13 i henhold til skiftlige transporter formodes at have retten til gældsbrevet. 
+
+---
+
+
+**16.4.4. Debitors modregningsadgang efter overdragelse af fordringen til ny kreditor**
+
+**16.4.4.1. Simple gældsbreve**
+
+- kyldneren kan uanset overdragelse modregne med krav på overdrageren, som er erhvervet inden han fik kundskab om overdragelsen, jf. GBL § 28.
+
+---
+
+
+**16.4.4.2. Omsætningsgældsbreve**
+
+- Ved krav der ikke udspringer af samme retsforhold ( ikke-konnekse krav) kan skyldneren efter overdragelsen kun modregne med krav på overdrageren, såfremt erhververen kendte denne modfordring og skyldneren ville lide tab, hvis modregningen blev afskåret, jf. GBL § 18, stk. 1. 
+
+- Ved krav, der udspringer af samme retsforhold (konnekse krav), kan skyldneren uanset overdragelsen modregne med krav på overdrageren, jf. GBL § 18, stk. 2.
+
+---
+
+
+**16.4.5. Trepartsforhold ved forbrugerkredit**
+
+- Det kaldes et trepartsforhold, når købet finansieres af tredjemand, dog ikke når køberen selv skaffer sig kreditten (f.eks. ved lån i egen bank).
+
+---
+
+**16.4.5.1. Købers (forbrugerens) indsigelser**
+
+- Det kan ikke aftales, at der ved overdragelse til tredjemand af de rettigheder, der tilkommer kreditgiveren, sælgeren eller leverandøren af en tjenesteydelse, sker indskrænkningen af dennes forpligtelser over for forbrugeren - KAL (kreditaftaleloven) § 32.
+
+- Overdrages kreditgiverens rettigheder i henhold til en kreditaftale til tredjemand, har forbrugeren over for erhververen ret til at gøre en hver indsigelse gældende, som forbrugeren kunne gøre gældende over for den oprindelige kreditgiver, jf. KAL § 33 stk. 1.
+
+- Forbrugeren skal underrettes om overdragelse efter KAL § 33, stk. 1. Dette gælder dog ikke, hvis den oprindelige kreditgiver efter aftale med erhververen forsat står for kreditten i forhold til forbrugeren - jf. KAL § 33 stk. 2.
+
+- I de tilfælde, der er nævnt i KAL § 4, nr. 15, litra b, kan forbrugeren også overfor anden kreditor rejse samme pengekrav på grundlag af købet som over for sælgeren. Forbrugerne må dog først sandsynliggøre, at sælgeren ikke opfylder sine forpligtelser, og kravet kan ikke overstige, hvad vedkommende kreditor har modtaget som betaling fra forbrugeren i anledning af købet - jf. KAL § 33 stk. 3.
+
+- Ved kreditaftaler med henblik på opnåelse af en tjenesteydelse finder bestemmelsen i stk. 3 tilsvarende anvendelse, når vederlaget for tjenesteydelsen dækkes helt eller delvis ved lån indrømmet forbrugeren af en tredjemand på grundlag af en aftale herom mellem denne og leverandøren af tjenesteydelsen - jf. KAL § 33 stk. 4. 
+
+- Har Kreditgiveren fået pant i fast ejendom gælder reglerne i KAL § 33, stk. 2-4 kun i det omfang, andet ikke følger af reglerne om tinglyste pantebreve i fast ejendom - jf. KAL KAL § 33 stk. 5.
+
+---
+
+
+**16.5. Mellem en overdrager og en erhverver**
+
+- Overdrageren indestår for fordringens beståen, (f.eks. at denne er ugyldig eller betalt) - GBL § 9.
+
+- Overdrageren indestår ikke for debitors betalingsevne - jf. GBL § 10. 
+
+---
+
+
+**16.6. Fordringers ophør**
+
+**16.6.1. Flere debitorer - samdebitorer**
+
+- Når et gældsbrev er udstedt af flere, er udstederen forpligtet én for alle og alle for én, medmindre andet er aftalt - jf. GBL § 2 stk. 1.
+
+- "Har en af dem betalt gælden, kan afkræve hver enkelt af medskyldnerne hans del. Hvis en af medskyldnerne åbenbart ikke kan betale eller hans opholdssted er ubekendt, må de andre udrede hver sin del, hvad han ikke har betalt. Det samme gælder, hvis han ikke har betalt sin del inden 14 dage, efter af krav herom er fremsat eller på betrykkende måde afsendt til ham" - jf. GBL § 2 stk. 2. 
+
+---
+
+**16.6.2. Betaling**
+
+**16.6.2.1. Betalingsstedet**
+
+- Er der ikke truffet aftale om betalingsstedet, skal betaling erlægges på fordringshavers bopæl, eller, hvis han driver forretning, på forretningsstedet - jf. GBL § 3 stk. 1. 
+
+- Kreditor kan dog anvise et andet betalingssted, hvis det ikke medfører udgift eller ulempe for debitor - jf. GBL § 3 stk. 2.
+
+- Ved ihændehavergældsbreve skal betalingen dog ske hos debitor - jf. GBL § 4 stk. 1.
+
+- Ved gældsbreve, der fremtræder som led i en sammenhørende udgivelse af et større antal gældsbreve med fælles tekst (massegældsbreve), eller som i anledning af indlån udstedes af banker eller andre, hvis virksomhed omfatter modtagelse af indlån skal betalingen dog ske hos debitor - jf. GBL § 4 stk. 2.
+
+- Ved forbrugerkreditaftaler kan betaling ske rettidigt til pengeinstitut eller postkontor. Indbetalingen skal blot ske inden betalingsfristens udløb, uanset om kreditgiver først modtager pengene på et senere tidspunkt - jf. KAL § 25.
+
+---
+
+**11.6.2.2. Betalingstiden**
+
+- Er forfaldstiden ikke aftalt på forhånd, forfalder fordringen til betaling ved kreditors påkrav - jf. GBL § 5 stk. 1.
+
+- Hvis et gældsbrev forfaldsdag eller sidste rettidige betalingsdag falder på en helligdag eller en lørdag eller på grundlovsdag den 5 juni, udskydes forfaldsdagen, henholdsvis sidste rettidige betalingsdag, til følgende søgnedag. Dette gælder også, når gældsbrevet lyder på betaling inden en hvis frist, som udløber på en helligdag eller en lørdag eller på grundlovsdagen - jf. GBL § 5 stk. 2.
+
+- Lyder et gældsbrev på betaling i (11.) juni eller (11.) december termin, regnes den 11. som forfaldsdag, men betaling anses for rettidig, når der erlægges senest den 18. i måneden eller, når denne er en helligdag eller en lørdag, den følgende søgnedag. Ved andre gældsbreve har skyldneren kun løbedage, når der er aftalt - jf. GBL § 5 stk. 3.
+
+- Forbrugeren kan til enhver tid indfri gælden helt eller delvist (førtidig betaling) - jf. KAL § 26 stk. 1.
+
+- Indfrier en forbruger eller køber gælden helt eller delvist før tid, eller kreditgiver tilbagetager det solgte, skal der ske afkortning i kreditomkostningerne, således at forbrugeren eller køberen bliver fritaget for kreditomkostninger for den ubenyttede del af kredittiden - jf. KAL § 27.
+
+---
+
+**16.6.2.3. Betalingsvaluta**
+
+- Lyder gældsbrevet på mønt, der ikke er gangbar på det sted, hvor betalingen sker, kan betalingen, medmindre andet er aftalt, ske enten i den mønt, hvorpå gældsbrevet lyder, eller i stedets mønt efter værdien på betalingsdagen - jf. GBL § 7 stk. 1.
+
+- Betaler skyldneren ikke i rette tid et gældsbrev, hvis mønt ikke er gangbar på det sted, hvor betalingen skal ske, og er gældsbrevets mønt faldet i kurs, har fordringshaveren krav på erstatning for det tab, han derved måtte have lidt. Hvis omstændighederne ikke giver grundlag for at opgøre tabet anderledes, kan han lave betaling i mønt, der er gangbar på det sted, hvor betaling skulle ske, efter kursen på den dag, da gælden skulle være betalt - jf. GBL § 7 stk. 2.
+
+- Kurstabet skal dog ikke erstattes, hvis forhalingen beror på fordringshaverens forhold eller skyldes lovgivningsforanstaltninger, standsninger i den almindelige samfærdsel eller lignende uovervindelige hindringer, som skyldneren ikke burde have regnet med ved gældsbrevets udstedelse - jf. GBL § 7 stk. 3.
+
+---
+
+**16.6.3. Modregning**
+
+**16.6.3.1. Definition af modregning**
+
+- Ved modregning betales en fordring ved nedskrivning af en anden modsat rettet fordring mellem samme parter.
+ 
+- Modregning kan ske frivilligt ved aftale mellem parterne eller tvungent ved at den ene part erklærer modregning. 
+
+---
+
+**16.6.3.2. Frivillig modregning**
+
+- Frivillig modregning kan foretages af kreditor eller debitor efter aftale. Mod-regneren afgiver en erklæring om, at denne opfylder hovedfordringen (sin gæld til hovedmanden) ved at opgive en tilsvarende del af sit tilgodehavende (modkravet).
+
+---
+
+**16.6.3.3. Tvungen modregning**
+
+- Modregningen kan foretages uden aftale ved afgivelse af modregningserklæring over for den anden part, hvis følgende betingelser er opfyldt: 
+
+1.	Kreditor efter den ene fordring skal være debitor efter den anden fordring (gensidighed). 
+
+2.	Fordringerne skal være udjævnelige (komputabilitet). Dvs., at ydelsen efter den ene fordring umiddelbart kan anvendes til opfyldelse af hovedfordringen (f.eks. penge mod penge, men ikke pære mod æbler). 
+
+3.	Hovedfordringens frigørelsestid skal være kommet, dvs. debitor i henhold til denne skal være forpligtet til at betale fordringen (afviklingsmoden).
+
+4.	Modfordringen skal være forfalden til betaling. 
+
+5.	Modfordring skal være retskraftigt. 
+
+---
+
+**16.6.3.4. Modregning i konkurs**
+
+- Adgangen for en kreditor til at foretage modregning er begrænset i forbindelse med konkurs. Fordringerne behøver ikke være forfaldne til betaling, men fordringernes beskaffenhed må ikke udelukke modregning. 
+
+- Den, som på fristdagen havde en fordring på skyldneren, kan, selv om fordringen ikke var forfalden, benytte den til modregning med dens fulde beløb over for en fordring, som da tilkom skyldneren, medmindre modregning var udelukket på grund af fordringernes beskaffenhed - jf. KL § 42, stk. 1.
+
+- Modregning kan ske mellem fordringer, som begge er erhvervet efter fristdagen, men inden konkursdekretets afsigelse - jf. KL § 42, stk. 2.
+
+- En fordring på skyldneren som er erhvervet fra tredjemand ved overdragelse eller retsforfølgning senere end tre måneder før fristdagen, da den anden erhvervede sin fordring. Det samme gælder, hvis erhvervelsen er sket tidligere og erhververen da indså eller burde indse, at skyldneren var insolvent - jf. KL § 42, stk. 3.
+
+- Modregning kan ikke ske, hvis skyldnerens krav mod fordringshaveren er erhvervet under sådanne omstændigheder, at erhvervelsen i forbindelse med modregning må sidestilles med en omstødelig betaling - jf. KL § 42 stk. 4.
+
+
+---
+
 
 
 
