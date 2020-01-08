@@ -8,7 +8,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Famliteret behandles i kap. 18 i "Erhvervsjura"**
+**Familieret behandles i kap. 18 i "Erhvervsjura"**
 
 ---
 
@@ -2357,8 +2357,141 @@ Det er vigtigt at tage stilling til ejerforhold, arv og pension når man lever i
 
 ---
 
+##Løsningsmodeller for eksamensopgaver indenfor ægtefælleres økonomiske forhold
+
+**23.1. Lov om ægtefællers økonomiske forhold**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
+
+- Gælder for ægtefæller.
+
+- Gælder for registrerede partnere – Lov om registrerede partnerskaber § 3.
+
+---
+
+**23.2. Formuefællesskab eller særeje**
+
+**23.2.1. Formuefællesskab**
+
+- Der er formuefællesskab, medmindre det er etableret særeje - ÆF § 5.
+
+**23.2.2. Særeje**
+
+**23.2.2.1. Oprettelse af særeje**
+
+- Efter ÆF § 12 kan ægtefæller ved ægtepagt indgå følgende aftaler om særeje*. 
+
+- En ægtepagt om særeje er en skriftlig aftale mellem to ægtefæller. 
+
+- Aftalen bestemmer, at der ikke skal gælde formuefællesskab i ægteskabet, som man ellers automatisk får, når man gifter sig. 
+
+- Formuefællesskab betyder kort sagt, at man som ægtefæller skal dele formuer i tilfælde af separation, skilsmisse eller død.  
+
+- Særeje er en formueordning, der betyder, at man ikke nødvendigvis skal dele alt i tilfælde af skilsmisse eller død. 
+
+- Kræver ægtepagt - ÆF § 12, stk. 1 (skal være skriftlig, underskrevet og tinglyst).
 
 
+
+---
+
+**23.2.2.2. Særejets indhold**
+
+At en ægtefælle ved formuedeling ved separation eller skilsmisse beholder sin formue, men at formuen deles ved en ægtefælles død. Særeje efter denne bestemmelse betegnes skilsmissesæreje, jf. ÆF § 12, stk. 1, pkt. 1. 
+
+At en ægtefælle ved formuedeling ved separation eller skilsmisse beholder sin formue, og at ægtefællens formue ved formuedeling i forbindelse med dødsboskifte tilkommer den pågældende ægtefælle eller dennes arvinger. Særeje efter denne bestemmelse betegnes fuldstændigt særeje, jf. ÆF § 12, stk. 1, pkt. 2. 
+
+At en aftale om fuldstændigt særeje kun skal gælde, hvis en bestemt af ægtefællerne dør først, eller kun skal gælde førstafdøde ægtefælles eller længstlevende ægtefælles skilsmissesæreje. Særeje efter denne bestemmelse betegnes kombinationssæreje, jf. ÆF § 12, stk. 1, pkt. 3.  
+
+---
+
+**23.3. Ægtefællens disposition over formuen**
+
+**23.3.1. Råderetten**
+
+- Særråden, dvs. En ægtefælle kan disponere alene over sine aktiver - ÆF § 1, stk. 1.
+
+- Visse dispositioner over fast ejendom, når fælleseje kræver samtykke - ÆF § 6, stk. 1.
+
+- Visse dispositioner over løsøre, når fælleseje kræver samtykke, jf. fx ÆF § 10, stk. 1.
+
+- Pligt til ikke at forringe bodel - ÆF § 1, stk. 2 + om misbrugskrav, jf. ÆF § 40.
+
+---
+
+**23.3.2. Ægtefællerne kan indgå aftaler med hinanden - ÆF § 2.**
+
+---
+
+**23.3.3. Gaver mellem ægtefæller**
+
+- Gaver mellem ægtefæller er gyldige uden ægtepagt, men det er af bevismæssige grunde klogt at sørge for, at der oprettes og underskrives et gavebrev mellem ægtefæller. 
+
+- Se tillige Konkurslovens omstødelsesregler.
+
+---
+
+**23.3.4. Dispositioner over den anden ægtefælles aktiver, jf. ÆF § 1, stk. 3**
+
+- Hvis ægtefællen er forhindret og ved nødstilfælde.
+
+- Hvis ægtefællen har overgivet råderetten til den anden ægtefælle.
+
+---
+
+**23.4. Gældshæftelsen**
+
+- Særhæften, dvs. under ægteskabet hæfter hver ægtefælle med sin formue for sine forpligtelser, uanset om forpligtelserne er opstået før eller under ægteskabet, kf. ÆF § 3..
+
+---
+
+**23.5. Bodeling**
+
+**23.5.1. Anledning til skifte**
+
+-	Bosondring under ægteskabet.
+
+- Ved separation eller skilsmisse.
+
+-	Ved ægtefælles død.
+
+---
+
+**23.5.2. Skifte af fællesboet**
+
+-	Fællesboet udskiftes - ÆF § 26.
+
+Følgende aktiver og krav indgår ikke i ligedelingen af ægtefællernes delingsformue ved separation eller skilsmisse efter § 5, stk. 1, 1. pkt, jf. ÆF § 26, stk. 1: 
+
+- Særeje.
+
+- Personlige genstande omfattet af ÆF § 31.
+
+- Pensionsrettigheder omfattet af ÆF §§ 34 og 35.
+
+- Personlige erstatninger omfattet af ÆF § 36.
+
+- Uoverdragelige og personlige rettigheder omfattet af ÆF § 37.
+
+- Regulerings- og misbrugskrav efter ÆF kapitel 11.
+
+- Kompensationskrav efter ÆF kapitel 12 og 13.
+
+---
+
+**23.5.3. Delingen af fællesboet - ÆF §§ 27-33.
+
+-	Ægtefællernes nettobodel (aktiver og passiver) opgøres hver for sig.
+
+-	Hver ægtefælle har krav på halvdelen af værdien af den andens positive nettobodel.
+
+-	Efter delingen kaldes ægtefællernes andele af fællesboet for boslodder.
+
+---
+
+**23.5.4. Yderligere krav på den anden ægtefælle**
+
+-	Vederlagskrav ved vanrøgt - ÆF § 40.
+
+---
 
 ## Quiz om familieret
 
