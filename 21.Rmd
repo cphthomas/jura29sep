@@ -1,7 +1,7 @@
 # Handel med fast ejendom
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/handel.jpg)

@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
+# cat(readLines('fp.html'))
 ```
 
 
@@ -67,7 +67,7 @@ Alt i alt en godt struktureret materialesamling, hvor den studerende har rig mul
 
 ***Herværende materialesamling er et interaktivt alternativ til bogen "Erhvervsjura for de finansielle uddannelser" (benævnt her; "Erhvervsjura"). Materialesamlingen er mere målrettet til finansøkonomuddannelsen, og dermed tilbrug for din udarbejdelse af den skriftlige jura-eksamen på 2. semester på finansøkonomuddannelsen.*** 
 
-***Materialesamlingen anvendes således i faget “Erhvervs- og Finansjura” på 1. og 2. semester, samt i brancheretningsfaget “Finansiel Rådgivning" på 3. semester. Materialesamlingen kan ligeledes med fordel anvendes ved udarbejdelsen af hovedopgaven på 4. semester. Materialesamlingen kan bruges under den skriftlige eksamen, hvortil der er netadgang.***
+***Materialesamlingen anvendes således i faget “Erhvervs- og Finansjura” på 1. og 2. semester, samt i brancheretningsfaget “Finansiel Rådgivning" på 3. semester. Materialesamlingen kan ligeledes med fordel anvendes ved udarbejdelsen af hovedopgaven på 4. semester. Materialesamlingen kan bruges under den skriftlige eksamen, hvortil der er netadgang.Materialesamlingen indeholder en vejledning i opgavebesvarelse af de juridiske eksamensopgaver.***
 
 ***Ved afslutningen ved hver af de eksamensrelevante kapitler er der opstillede løsningsmodeller til løsning af de til den skriftlige eksamen stillede eksamensopgaver. Løsningsmodeller bør anvendes som disposition ved løsning af eksamensopgaver inden for de respektive retsområder, og den angivne rækkefølge bør som udgangspunkt ikke fraviges. Der er henvisninger mellem løsningsmodellerne, hvis der er flere retsområder, der skal behandles og besvares i en eksamensopgave.***
 

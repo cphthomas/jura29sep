@@ -1,7 +1,7 @@
 # Familieret
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/familieret.jpg)
@@ -1155,9 +1155,9 @@ Spørgsmål 5) Redegør ud fra den relevante lovgivning for, i hvilken udstrækn
 
 ---
 
-### Forhåndsaftaler om formuedelingen  
+## Forhåndsaftaler om formuedelingen  
 
-#### Alders-, kapital- og ratepensioner
+### Alders-, kapital- og ratepensioner
 
 Ægtefæller kan ved ægtepagt aftale, at værdien af en alders-, kapital- eller ratepension skal indgå i formuedelingen ved separation eller skilsmisse, jf. ÆF § 15. 
 
@@ -1191,7 +1191,7 @@ Der kan formentlig oprettes ægtepagt om sådan deling af »overskydende pension
 
 ---
 
-#### Personlige erstatninger
+### Personlige erstatninger
 
 Ægtefæller kan ved ægtepagt aftale, at en personlig erstatning, godtgørelse eller forsikringsudbetaling, jf. ÆF § 36, stk. 1 og 2, helt eller delvis skal indgå i formuedelingen. 
 
@@ -1207,7 +1207,7 @@ Retten til forlods udtagelse af personskadeerstatning mv. fremgår af ÆF § 36.
 
 ---
 
-#### Uoverdragelige og personlige rettigheder 
+### Uoverdragelige og personlige rettigheder 
 
 Ægtefæller kan ved ægtepagt aftale, at værdien af en rettighed omfattet af ÆF § 37 helt eller delvis skal indgå i formuedelingen. 
 
@@ -1223,7 +1223,7 @@ En aftale efter ÆF § 17 vedrører ikke værdien af den pågældende rettighed 
 
 ---
 
-#### Gæld
+### Gæld
 
 Ægtefæller kan ved ægtepagt aftale, i hvilket omfang gæld skal fradrages i delingsformuen ved formuedeling ved separation, skilsmisse og død, jf. ÆF § 18, stk. 1.  
 
@@ -1285,7 +1285,7 @@ Med henvisningen i ÆF § 18, stk. 1 til ÆF § 30 kan en aftale om fordelingen 
 
 ---
 
-###  Ægtepagter og kravet om tinglysning
+## Ægtepagter og kravet om tinglysning
 
 I overensstemmelse med ÆF § 19 er det lovfæstet, at såvel ægtefæller som kommende ægtefæller kan oprette en *ægtepagt*. 
 
@@ -1302,6 +1302,7 @@ En ægtepagt er kun gyldig, når den er underskrevet af begge ægtefæller og ti
 ---
 
 Skal en ægtefælles værge efter værgemålsloven give samtykke til ægtepagten, er ægtepagten kun gyldig, hvis også værgen har underskrevet den, jf. ÆF § 20.  
+
 Der glæder et *"specifikationskrav"* i ægtepagter;	særejet skal i ægtepagter angives på en sådan måde, at det ikke overlades til ejerægtefællen vilkårligt at forøge særejets omfang.
 
 Ægtepagter anmeldes digitalt til tinglysning på samme måde som dokumenter om overdragelse og belåning af fast ejendom mv. 
@@ -1356,7 +1357,7 @@ Enhver af ægtefællerne kan anmode om, at en ægtepagt tinglyses, jf. nærmere 
 
 ---
 
-#### Arveladers og gavegivers bestemmelser om særeje  
+## Arveladers og gavegivers bestemmelser om særeje  
 
 Bestemmelsen i ÆF § 23 indebærer, at arv og gave indgår i formuedelingen, medmindre arvelader og gavegiver har bestemt, at arven og gaven skal være særeje.  
 
@@ -1791,9 +1792,9 @@ I dommen i **U 1976.752 V** nævnes boets forholdsvis beskedne værdi som argume
 
 ---
 
-### Aktiver, der ikke indgår i formuedelingen under fællesejet  
+## Aktiver, der ikke indgår i formuedelingen under fællesejet  
 
-#### Pensioner  
+### Pensioner  
 
 En ægtefælles *rimelige pensionsrettigheder* indgår ikke i formuedelingen, jf. ÆF § 34.  
 
@@ -1932,7 +1933,7 @@ I dommen **TFA 2017 39 V** blev et ægteskab på 4 år og 10 måneder anset for 
 
 ---
 
-#### Personlig erstatninger  
+### Personlig erstatninger  
 
 Værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetalinger m.v., der skyldes erhvervsevnetab, varigt men, svie og smerte, kritisk sygdom og tort m.v. som følge af personskade, *indgår ikke i formuedelingen*, i det omfang det modtagne er i behold. 
 
@@ -2000,7 +2001,7 @@ Opregningen ovenfor af erstatninger m.v., der er omfattet af ÆF § 36, stk. 1, 
 
 ---
 
-#### Praktisk eksempel "skal konen dele lottogevinsten"?
+### Praktisk eksempel "skal konen dele lottogevinsten"?
 
 ![](img/lotto.jpg)
 
@@ -2052,7 +2053,7 @@ Monica Kromann
 
 ---
 
-#### Uoverdragelige og personlige rettigheder  
+### Uoverdragelige og personlige rettigheder  
 
 Rettigheder, som ikke kan overdrages eller i øvrigt har personlig karakter, indgår kun i formuedelingen, i det omfang det er foreneligt med de regler, der gælder for disse rettigheder, jf. ÆF § 37.  
 
@@ -2079,7 +2080,7 @@ Indtægter og surrogater af personlige rettigheder er i almindelighed delingsfor
 
 ---
 
-### Regulering og misbrugskrav efter loven
+## Regulering og misbrugskrav efter loven
 
 Hvis en ægtefælle ved misbrug af rådigheden over sin formue eller på anden uforsvarlig måde væsentligt har reduceret delingsformuen, har den anden ægtefælle krav på at blive stillet, som om formindskelsen ikke havde fundet sted. 
 
@@ -2220,14 +2221,14 @@ Ved vurderingen lægges vægt på ægteskabets varighed, et eventuelt forudgåen
 
 ---
 
-### Pensionskompensation 
+## Pensionskompensation 
 
 Efter ÆF § 44 kan der ved formuedelingen tilkendes en ægtefælle en kompensation, hvis ægtefællen under ægteskabet har foretaget en mindre pensionsopsparing, end hvad der svarer til en rimelig pensionsordning for den pågældende, og dette skyldes, at ægtefællen af hensyn til familien eller den anden ægtefælle helt eller delvis har været uden for arbejdsmarkedet, haft orlov eller arbejdet på nedsat tid. 
 Kompensationen kan højst udgøre halvdelen af forskellen mellem værdien af den pensionsopsparing, hver af ægtefællerne har foretaget under ægteskabet af delingsformue.  
 
 ---
 
-### Rimelighedskompensation
+## Rimelighedskompensation
 
 
 Der kan ved formuedelingen efter ÆF § 45 tilkendes en ægtefælle en kompensation for at sikre, at denne ikke stilles urimeligt i pensionsmæssig henseende, hvis  
@@ -2243,7 +2244,7 @@ Der kan ved formuedelingen efter ÆF § 45 tilkendes en ægtefælle en kompensat
 
 ---
 
-### Udtagelse af aktiver
+## Udtagelse af aktiver
 
 Hver ægtefælle kan efter vurdering efter ÆL § 48 udtage aktiver, der helt eller delvis indgår i ligedelingen efter ÆF § 5, stk. 1, 1. pkt. 
 
@@ -2271,7 +2272,7 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-### Formuedeling ved en ægtefælles død
+## Formuedeling ved en ægtefælles død
 
 ![](img/begravelse.jpg)
 
@@ -2357,7 +2358,7 @@ Det er vigtigt at tage stilling til ejerforhold, arv og pension når man lever i
 
 ---
 
-## Løsningsmodeller for eksamensopgaver indenfor ægtefælleres økonomiske forhold
+##Løsningsmodeller for eksamensopgaver indenfor ægtefælleres økonomiske forhold
 
 **23.1. Lov om ægtefællers økonomiske forhold**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
 
