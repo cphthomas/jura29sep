@@ -1,13 +1,13 @@
 # Aftaleret
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+#cat(readLines('np.html'))
 ```
 
 ![](img/aftale.jpg)
 
 
-Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -141,7 +141,7 @@ Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftaleloven
 Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. Danske Lov 5-1-1:
 "Een hver er pligtig at efterkomme hvis hand med mund, haand og sejl, lovet og indgaaet haver".
 
-Se Danske lov i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Se Danske lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
 
@@ -904,7 +904,7 @@ Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-*"Forvanskning2*; løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
+*"Forvanskning*; løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
 
 ---
 
@@ -968,7 +968,7 @@ De stærke ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 *Umyndighed*, omfattende værgemål, fornuftsmangel (Værgemålsloven).
 
-Se *værgemålsloven* i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Se *værgemålsloven* i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 
 ---
@@ -1097,7 +1097,7 @@ Ordene »personlig vold« taler for, at der alene tænkes på vold - eller truss
 
 ![](img/vold.jpg)
 
-Om udøvelse af vold i forbindelse med indgåelse af en aftale overtrædes straffelovens bestemmelser (Lovbekendtgørelse 2018-09-20 nr. 1156), jf. straffelovens § 244-246 om de mere om mindre kvalificerede former for strafbar vold. Se også straffelovens § 288 om røveri, samt straffelovens § 260 om ulovlig tvang. Se *straffeloven* i lovsamlingen i kapitel 26:
+Om udøvelse af vold i forbindelse med indgåelse af en aftale overtrædes straffelovens bestemmelser (Lovbekendtgørelse 2018-09-20 nr. 1156), jf. straffelovens § 244-246 om de mere om mindre kvalificerede former for strafbar vold. Se også straffelovens § 288 om røveri, samt straffelovens § 260 om ulovlig tvang. Se *straffeloven* i lovsamlingen:
 **https://jura.tepedu.dk/lovsamling.html**
 
 ---
@@ -1131,7 +1131,7 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven § 17 
 
 Gældsbrevslovens § 17:
 
-"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". Se nærmere *gældsbrevsloven og værgemålsloven* i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". Se nærmere *gældsbrevsloven og værgemålsloven* i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -1170,7 +1170,7 @@ Dommen i **U 1978.216 V** Truet med at bringe 4 bomber til sprængning på skibe
 
 ---
 
-Se nærmere **værgemålsloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Se nærmere **værgemålsloven** i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 ---
 
@@ -1326,7 +1326,7 @@ Retsstridighedsbetingelsen opfylder så at sige »sig selv«, når viljeserklær
 Derimod er det naturligvis retmæssigt at true en skyldner med inkasso eller retslig kreditorforfølgning, hvis skyldneren ikke betaler, dog under hensyntagen til god inkassoskik i inkassolovens § 9: 
 "Inkassovirksomhed skal udøves i overensstemmelse med god inkassoskik. Det er i strid med god inkassoskik at anvende metoder, der udsætter nogen for urimelig pression, skade eller ulempe".
 
-Se Lovbekendtgørelse 2014-09-19 nr. 1018 om inkassovirksomhed. Se lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Se Lovbekendtgørelse 2014-09-19 nr. 1018 om inkassovirksomhed. Se lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -1388,7 +1388,7 @@ Juridisk term: *falsus in uno, falsus in omnibus* – Én gang en løgner, altid
 
 ---
 
-Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også overtrædelser af det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7, samt det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2. Se disse love i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Svig kan bestå i, at forhold forties, eller at der siges noget urigtigt mod bedre vidende, jf. også overtrædelser af det offentligretlige vildledningsforbud i markedsføringslovens §§ 5-7, samt det civilretlige vildledningsforbud i købelovens § 76, stk, 1 nr. 1-2. Se disse love i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
