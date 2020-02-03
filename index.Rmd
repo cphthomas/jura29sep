@@ -25,7 +25,7 @@ favicon: "favicon.ico"
 
 
 
-
+<img src="img/jura1.jpg" align="right" width="100%" height="100%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 <h3>***Anmeldelser***</h3>
