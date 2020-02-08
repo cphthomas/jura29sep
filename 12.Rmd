@@ -1,7 +1,7 @@
 # Virksomhedsformer og hæftelser
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 ![](img/company.jpg)

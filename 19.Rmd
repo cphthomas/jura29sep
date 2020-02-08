@@ -1,7 +1,7 @@
 # <font color="red">Tinglysning af rettigheder<sup> Premium </font></sup>  
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('npp.html'))
+cat(readLines('npp.html'))
 ```
 
 ![](img/tinglysning5.jpg)

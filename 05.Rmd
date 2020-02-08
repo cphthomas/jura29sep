@@ -2,7 +2,7 @@
 # Fuldmagter og mellemmænd
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
@@ -43,19 +43,12 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftalel
 
 * Tilbagetrækkes som den blev bekendt gjort.
 
----
-
-**Video: Aftaler via fuldmagt**
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ugJt8-E7xJY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+ 
 
 ---
 
 ![](img/fuldmagt2.jpg)
 
----
-
-<img src="img/fuldmagt1.jpeg" align="left" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 *Fuldmagt* er således reguleret af **aftaleloven**: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. Se lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
@@ -161,10 +154,14 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 
 ## Sondringen mellem bemyndigelse og legitimation
 
+<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Aftaleloven sondrer mellem på den ene side *"legitimation"* og på den anden side *»beføjelse«*. 
+---
 
-Ved *"fuldmagt"* forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. <img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
+Aftaleloven sondrer mellem på den ene side *"legitimation"* og på den anden side *"beføjelse"*. 
+
+Ved *"fuldmagt"* forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
 
 Ved *»beføjelse«* (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
@@ -216,14 +213,6 @@ Kaldes også en *§ 18-fuldmagt*
 ### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
 
 ”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”. 
-
-
----
-
-**Video om stillingsfuldmagten, jf. aftalelovens § 10, stk. 2**
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Zrg3TkUcot0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
@@ -392,6 +381,7 @@ En tilbagekaldelse får virkning, når den er kommet frem – behøver ikke at k
 ---
 
 **Video: Aftalelovens § 19 tilbagekaldelse af fuldmagt**
+*Udarbejdet af Horten Advokatpartnerskab*
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JKyH0smEY9I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -450,6 +440,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 ---
 
 **Video: Erstatning efter aftalelovens § 25**
+*Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -492,6 +483,7 @@ Dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb o
 ---
 
 **Video om fuldmagtens grænser**
+*Udarbejdet af Horten Advokatpartnerskab*
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>

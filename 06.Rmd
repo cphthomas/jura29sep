@@ -2,7 +2,7 @@
 # Forbrugeraftaler og forbrugerbeskyttelse
 
 ```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
+cat(readLines('np.html'))
 ```
 
 
@@ -271,10 +271,9 @@ Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fr
 
 ---
 
-**Video**
+**Video _ Hvad betyder 14 dages fortrydelsesret?**
 
-<iframe src="https://player.vimeo.com/video/309252373" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309252373">Hvad betyder 14 dages fortrydelsesret?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 ---
@@ -480,10 +479,9 @@ En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteyd
 
 ---
 
-**Video**
+**Video - Hvad er et abonnement?**
 
-<iframe src="https://player.vimeo.com/video/309251096" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309251096">Hvad er et abonnement?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 ---
@@ -502,14 +500,13 @@ Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmø
 
 *VIdeo: Hvis du skal købe en brugt bil*
 
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/309274737" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 ---
 
-**Video**
+**Video - Sådan handler du trygt på nettet**
 
-<iframe src="https://player.vimeo.com/video/305926728" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/305926728">S&aring;dan handler du trygt p&aring; nettet i EU</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 
@@ -529,18 +526,16 @@ Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan 
 
 ---
 
-**Video**
+**Video - Køb af brugt på nettet**
 
-<iframe src="https://player.vimeo.com/video/309249919" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309249919">K&oslash;ber du brugt p&aring; nettet?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 ---
 
-**Video**
+**Video Rejser i juletiden**
 
-<iframe src="https://player.vimeo.com/video/305939499" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/305939499">Skal du rejse i juletiden?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 ---
@@ -570,10 +565,9 @@ Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er 
 
 ---
 
-**Video**
+**Video - Hvad er en kopivarer?**
 
-<iframe src="https://player.vimeo.com/video/309251933" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309251933">Hvad er en kopivare?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://www.forbrug.dk/menu/videokanal/#mainVideo**
 
 
 ---
