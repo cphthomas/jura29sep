@@ -1,7 +1,7 @@
 # Aftaleret
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+#cat(readLines('np.html'))
 ```
 
 ![](img/aftale.jpg)
@@ -447,13 +447,13 @@ Undtagelser: *"Opfordring til tilbud"*, jf. aftalelovens § 9:
 
 Nogle typer tilbud er ikke bindende for sælger, kaldet "opfordring til tilbud", fx:
   
-+ *Slagtilbud* og *”så længe lager haves”*, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, køtilbud, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
++ *"Slagtilbud"* og *”så længe lager haves”*, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, køtilbud, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
 
 ---
 
 ![](img/ko1.jpg)
 
-Se dommen i **U 2002.631 V** Sælgers direktørs notering af kundes ønske om køb af allerede solgt kø-tilbudsvare havde skabt berettiget forventning hos kunden om køb af varen. Erstatning for prisdifferencen: "Sælger S havde i en annonce i en reklameavis under overskriften »KØ-TILBUD« reklameret med, at man lørdag den 6. maj 2000 kl. 9 kunne købe en nærmere angiven rotorklipper, der før havde kostet 4.995 kr., for 2.995 kr. Det fremgik af annoncen bl.a., at der kun var 1 stk., og at der ikke var andre plæneklippere til salg som køtilbud. Kunde K stillede sig som nr. 5 i køen og konstaterede ved henvendelse til de foranstående, at ingen af dem ønskede at købe plæneklipperen. S' direktør D noterede - uden at være opmærksom på, at K's ønske om køb vedrørte et allerede inden den 6. maj ved en fejl solgt køtilbud - K's ønske om køb ned. Lidt efter fik K, mens K stadig stod i køen, af D at vide, at plæneklipperen var solgt et par dage i forvejen. K anlagde retssag mod S med -endelig - påstand om betaling af 2.000 kr. Landsretten udtalte, at prisangivelser i reklamer, der er rettet mod en større kreds, som udgangspunkt alene kan anses som opfordringer til at afgive tilbud og ikke som tilbud. Landsretten anførte videre, at plæneklipperen var annonceret på forsiden af en reklameavis som et af flere køtilbud, og at det af annoncen fremgik, at der kun var et eksemplar til salg, og at der ikke var andre plæneklippere til salg som køtilbud, samt at plæneklipperen ved en fejl fra S' side var solgt inden tidspunktet for salget af køtilbuddene. Selv om der som følge af salget ikke var nogen plæneklipper til salg som køtilbud, noterede D K's ønske om køb heraf under sin gennemgang af køen uden for forretningen og gjorde først senere K bekendt med, at plæneklipperen var solgt. Det blev lagt til grund, at K ikke havde kendskab til et opslag i forretningen om salget, og at K var den første i køen, som ønskede at købe plæneklipperen, der endvidere ikke kunne anses for omfattet af reklameavisens forbehold om udsolgte varer. Under disse omstændigheder havde K ved S' notering af K's ønske om køb fået en berettiget forventning om, at K havde købt plæneklipperen, og S skulle betale K 2.000 kr.". Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000246785/1**
+Se dommen i **U 2002.631 V** Sælgers direktørs notering af kundes ønske om køb af allerede solgt kø-tilbudsvare havde skabt berettiget forventning hos kunden om køb af varen. Erstatning for prisdifferencen: "Sælger S havde i en annonce i en reklameavis under overskriften »KØ-TILBUD« reklameret med, at man lørdag den 6. maj 2000 kl. 9 kunne købe en nærmere angiven rotorklipper, der før havde kostet 4.995 kr., for 2.995 kr. Det fremgik af annoncen bl.a., at der kun var 1 stk., og at der ikke var andre plæneklippere til salg som køtilbud. Kunde K stillede sig som nr. 5 i køen og konstaterede ved henvendelse til de foranstående, at ingen af dem ønskede at købe plæneklipperen. S' direktør D noterede - uden at være opmærksom på, at K's ønske om køb vedrørte et allerede inden den 6. maj ved en fejl solgt køtilbud - K's ønske om køb ned. Lidt efter fik K, mens K stadig stod i køen, af D at vide, at plæneklipperen var solgt et par dage i forvejen. K anlagde retssag mod S med -endelig - påstand om betaling af 2.000 kr. Landsretten udtalte, at prisangivelser i reklamer, der er rettet mod en større kreds, som udgangspunkt alene kan anses som opfordringer til at afgive tilbud og ikke som tilbud. Landsretten anførte videre, at plæneklipperen var annonceret på forsiden af en reklameavis som et af flere køtilbud, og at det af annoncen fremgik, at der kun var et eksemplar til salg, og at der ikke var andre plæneklippere til salg som køtilbud, samt at plæneklipperen ved en fejl fra S' side var solgt inden tidspunktet for salget af køtilbuddene. Selv om der som følge af salget ikke var nogen plæneklipper til salg som køtilbud, noterede D K's ønske om køb heraf under sin gennemgang af køen uden for forretningen og gjorde først senere K bekendt med, at plæneklipperen var solgt. Det blev lagt til grund, at K ikke havde kendskab til et opslag i forretningen om salget, og at K var den første i køen, som ønskede at købe plæneklipperen, der endvidere ikke kunne anses for omfattet af reklameavisens forbehold om udsolgte varer. Under disse omstændigheder havde K ved S' notering af K's ønske om køb fået en berettiget forventning om, at K havde købt plæneklipperen, og S skulle betale K 2.000 kr.". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000246785/1**
     
 ---
 
@@ -648,8 +648,7 @@ Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal s�
 
 *Se domspraksis vedrørende anvendelsen af aftalelovens § 39, 2. pkt.:* 
 
-**U 1929.1084 S**: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde. Se link til hele dommen:
-**https://pro.karnovgroup.dk/document/7000239877/1**
+**U 1929.1084 S**: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000239877/1**
 
 ---
 
@@ -687,7 +686,7 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-*”Give meddelelse”* se igen aftalelovens § 40.
+*”Give meddelelse”* se om bwegrebet igen i aftalelovens § 40.
 
 ---
 
@@ -880,6 +879,7 @@ Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 *Oversigt:*
 
+
 *"Umyndige"* (under 18 år og under lavværgemål), jf. værgemålsloven § 44.
 
 ---
@@ -924,7 +924,7 @@ Fejltagelse, løftet har fået et andet indhold end tilsigtet hvis ond tro, jf. 
 
 ---
 
-*"Stridende mod almindelig hæderlighed hvis ond tro"*; jf. aftalelovens § 33 smhl. aftalelovens § 39.
+*"Stridende mod almindelig hæderlighed hvis ond tro"*; jf. aftalelovens § 33 smhl. med aftalelovens § 39.
 
 ---
 
@@ -1020,8 +1020,7 @@ Bestemmelsen i aftalelovens § 32, stk. 2 tager ikke stilling til, om afsenderen
 
 Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes hans fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2, jf. fx. dommen i **U 1920.355 H:**
 
-"En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000238916/1**
+"En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000238916/1**
 
 ---
 
@@ -1037,20 +1036,17 @@ Se **U 2018.553 V**: Aftalelovens §§ 32 og 39 anvendelig på fejl i pensionsse
 ---
 
 **U 2000.1218 V** Part ikke bundet af modparts accept, da modparten burde have indset, at der forelå en fejltagelse, jf. aftalelovens § 32:
-"I et retsmøde den 18. juni 1998 godkendtes et honorar på 12.146,25 kr. til en skønsmand i forbindelse med et udenretligt syn og skøn. Sagsøgerens advokat forespurgte herefter skriftligt den 29. s.m. sagsøgtes advokat, om sagsøgte ville forlige sagen f.s.v. angik omkostninger således, at sagsøgte betalte et beløb på 7.000 kr. inkl. moms. Den 14. juli accepterede sagsøgte forligsforslaget og indbetalte samtidig 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet. Den 15. juli meddelte sagsøgerens advokat, at de 7.000 kr. kun dækkede advokatomkostninger, og at sagsøgte yderligere skulle betale skønsomkostningerne på 12.146,25 kr. Sagsøgte nægtede at betale dette beløb. Da sagsøgte måtte have indset, at der forelå en fejltagelse, og da sagsøgeren straks efter modtagelsen af de 7.000 kr. gjorde sagsøgte opmærksom på fejlen, var sagsøgeren ikke bundet af sagsøgtes accept af betaling af 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet, jf. aftalelovens § 32". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000196494/1**
+"I et retsmøde den 18. juni 1998 godkendtes et honorar på 12.146,25 kr. til en skønsmand i forbindelse med et udenretligt syn og skøn. Sagsøgerens advokat forespurgte herefter skriftligt den 29. s.m. sagsøgtes advokat, om sagsøgte ville forlige sagen f.s.v. angik omkostninger således, at sagsøgte betalte et beløb på 7.000 kr. inkl. moms. Den 14. juli accepterede sagsøgte forligsforslaget og indbetalte samtidig 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet. Den 15. juli meddelte sagsøgerens advokat, at de 7.000 kr. kun dækkede advokatomkostninger, og at sagsøgte yderligere skulle betale skønsomkostningerne på 12.146,25 kr. Sagsøgte nægtede at betale dette beløb. Da sagsøgte måtte have indset, at der forelå en fejltagelse, og da sagsøgeren straks efter modtagelsen af de 7.000 kr. gjorde sagsøgte opmærksom på fejlen, var sagsøgeren ikke bundet af sagsøgtes accept af betaling af 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet, jf. aftalelovens § 32". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000196494/1**
 
 ---
 
 **U 1996.459 Ø** Bud på tvangsauktion uforbindende efter aftalelovens § 32:
-"Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000202164/1**
+"Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000202164/1**
 
 ---
 
 
-**U 1989.273 V** Fejl i skøde vedrørende betaling af tilslutningsafgifter. Aftalelovens § 32: "Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000198499/1**
+**U 1989.273 V** Fejl i skøde vedrørende betaling af tilslutningsafgifter. Aftalelovens § 32: "Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000198499/1**
 
 ---
 
@@ -1095,8 +1091,9 @@ Ordene »personlig vold« taler for, at der alene tænkes på vold - eller truss
 
 ![](img/vold.jpg)
 
-Om udøvelse af vold i forbindelse med indgåelse af en aftale overtrædes straffelovens bestemmelser (Lovbekendtgørelse 2018-09-20 nr. 1156), jf. straffelovens § 244-246 om de mere om mindre kvalificerede former for strafbar vold. Se også straffelovens § 288 om røveri, samt straffelovens § 260 om ulovlig tvang. Se *straffeloven* i Lovsamlingen:
-**https://jura.tepedu.dk/lovsamling.html**
+Om udøvelse af vold i forbindelse med indgåelse af en aftale overtrædes straffelovens bestemmelser (Lovbekendtgørelse 2018-09-20 nr. 1156), jf. straffelovens § 244-246 om de mere om mindre kvalificerede former for strafbar vold. Se også straffelovens § 288 om røveri, samt straffelovens § 260 om ulovlig tvang. 
+
+Se *straffeloven* i Lovsamlingen:**https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -1110,7 +1107,7 @@ Reglerne i aftalelovens §§ 28-29 omfatter den såkaldte kompulsive tvang, dvs.
 
 Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter aftalelovens § 29 den ikke-voldelige kompulsive tvang.
 
-*Kompulsiv*: Fremkaldt ved trusler.
+*Kompulsiv* betyder: Fremkaldt ved trusler.
 
 Kompulsiv tvang	er tvang, der retter sig mod viljen. Modsat mekanisk tvang.
 
@@ -1119,8 +1116,7 @@ Ved voldelig kompulsiv tvang i aftalelovens § 28 er retshandelen ugyldig, selv 
 Bestemmelsen omhandler en såkaldt stærk ugyldighedsgrund, der som udgangspunkt bevares selv over for en erklæringsmodtager i god tro, jf. dog aftalelovens § 28, stk. 2 om manglende reklamation.
 
 
-Se dommen i **U 2010.1819 Ø** Bruger af betalingskort hæftede for samlevers misbrug:
-"A havde erhvervet et betalingskort med tilhørende pinkode. Hendes samlever, S, tvang hende ved vold og trussel om vold til at udlevere betalingskortet og pinkoden til sig, hvorefter han benyttede kortet til indkøb, til kortet blev spærret ca. 10 dage senere. Kortudsteder krævede herefter betaling af A for de foretagne indkøb. Landsretten fandt, at A havde udleveret koden til kortet til S under omstændigheder, hvor hun måtte have indset, at der var risiko for misbrug, jf. den dagældende betalingsmiddellovs § 11, stk. 6. Udtalt, at betalingsmiddellovens § 11, stk. 6, i overensstemmelse med forarbejderne må fortolkes således, at den ikke finder anvendelse, når kort og kode er fratvunget indehaveren ved voldsanvendelse eller trussel herom. Dette må imidlertid forudsætte, at kortindehaveren i overensstemmelse med princippet i aftalelovens § 28, stk. 2, underretter kortudsteder uden ugrundet ophold, efter at tvangen er ophørt. A hæftede derefter for S' misbrug af kortet efter det tidspunkt, hvor A havde mulighed for at underrette kortudstederen om misbruget". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000443622/1**
+Se dommen i **U 2010.1819 Ø** Bruger af betalingskort hæftede for samlevers misbrug: "A havde erhvervet et betalingskort med tilhørende pinkode. Hendes samlever, S, tvang hende ved vold og trussel om vold til at udlevere betalingskortet og pinkoden til sig, hvorefter han benyttede kortet til indkøb, til kortet blev spærret ca. 10 dage senere. Kortudsteder krævede herefter betaling af A for de foretagne indkøb. Landsretten fandt, at A havde udleveret koden til kortet til S under omstændigheder, hvor hun måtte have indset, at der var risiko for misbrug, jf. den dagældende betalingsmiddellovs § 11, stk. 6. Udtalt, at betalingsmiddellovens § 11, stk. 6, i overensstemmelse med forarbejderne må fortolkes således, at den ikke finder anvendelse, når kort og kode er fratvunget indehaveren ved voldsanvendelse eller trussel herom. Dette må imidlertid forudsætte, at kortindehaveren i overensstemmelse med princippet i aftalelovens § 28, stk. 2, underretter kortudsteder uden ugrundet ophold, efter at tvangen er ophørt. A hæftede derefter for S' misbrug af kortet efter det tidspunkt, hvor A havde mulighed for at underrette kortudstederen om misbruget". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000443622/1**
 
 ---
 
@@ -1150,8 +1146,7 @@ Sager om afpresning kan efter omstændighederne have betydelig grovhed og nærme
 
 Dommen i **U 1975.1117 Ø** Telefonisk trussel om at ødelægge forretning med bombe, sammen med en anden skriftligt truet på livet - i første tilfælde krævet 60.000 kr., i sidste tilfælde 800.000 kr. - hver fængsel i 1 år 3 mdr. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000211837/1** 
 
-Dommen i **U 1978.216 V** Truet med at bringe 4 bomber til sprængning på skibe, medmindre der betaltes 300.000 - fængsel i 2 år, jf. straffelovens § 286. 2 års fængsel for forsøg på afpresning (300 US dollar) gennem trusler om terrorangreb mod rederis skibe:
-"Den 33-årige. tidligere straffede T havde telefonisk over for en af rederiet J. Lauritsens direktører under foregivende af at repræsentere en mellemøstlig organisation fremsat trussel om at bringe 4 bomber, der angaves anbragt ombord på rederiets skibe, til sprængning, såfremt der ikke inden et bestemt tidspunkt blev anbragt en kuffert med 300.000 amerikanske dollars på et nærmere angivet hittegodskontor. T idømtes for afpresning efter straffelovens § 281, nr. 1, en i medfør af straffelovens § 286, stk. 3, fastsat straf af fængsel i 2 år". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000208702/1**
+Dommen i **U 1978.216 V** Truet med at bringe 4 bomber til sprængning på skibe, medmindre der betaltes 300.000 - fængsel i 2 år, jf. straffelovens § 286. 2 års fængsel for forsøg på afpresning (300 US dollar) gennem trusler om terrorangreb mod rederis skibe: "Den 33-årige. tidligere straffede T havde telefonisk over for en af rederiet J. Lauritsens direktører under foregivende af at repræsentere en mellemøstlig organisation fremsat trussel om at bringe 4 bomber, der angaves anbragt ombord på rederiets skibe, til sprængning, såfremt der ikke inden et bestemt tidspunkt blev anbragt en kuffert med 300.000 amerikanske dollars på et nærmere angivet hittegodskontor. T idømtes for afpresning efter straffelovens § 281, nr. 1, en i medfør af straffelovens § 286, stk. 3, fastsat straf af fængsel i 2 år". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000208702/1**
 
 
 ---
@@ -1325,8 +1320,7 @@ Se Lovbekendtgørelse 2014-09-19 nr. 1018 om inkassovirksomhed. Se Lovsamlingen:
 
 Det er ligeledes retmæssigt at true en butikstyv med politianmeldelse, hvis ikke tyven betaler købesummen (altså ikke blot den lavere indkøbspris) for den stjålne vare. Det er derimod retsstridigt under trussel om politianmeldelse at true butikstyven til at betale et større beløb, jf. dommene i **U 1968.512 V** og **U 1975.656 V**:
 
-**U 1968.512 V** Butiksbestyrers handlemåde over for butikstyv bedømt som afpresning og straffet med dagbøder, jf. strfl. § 287:
-"T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr." Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000213223/1**
+**U 1968.512 V** Butiksbestyrers handlemåde over for butikstyv bedømt som afpresning og straffet med dagbøder, jf. strfl. § 287: "T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr." Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000213223/1**
 
 ---
 
@@ -1365,7 +1359,7 @@ Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige opl
 
 ---
 
-**Video: Svig**
+**Video om svig**
 *Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/n52ni_aO5iE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1761,7 +1755,7 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 
 
 
-**Video: Om fortolkning af aftaler**
+**Video om fortolkning af aftaler**
 *Udarbejdet af Horten Advokatpartnerskab*
 
 

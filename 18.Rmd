@@ -1,7 +1,7 @@
 # Pant i fast ejendom, løsøre og virksomhedspant
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/tinglysning7.jpg)
@@ -1737,6 +1737,56 @@ Reel Realkredit har pant i Gadget Gonzzos ejendom med de nye møbler, i Aarhus, 
 Rekonstruktøren anslog de stadig næsten nye møblers værdi til at være DKK 800.000, mens Falck Møbler stadig havde DKK 380.000 til gode.
 
 8. Hvordan er prioritetsstillingen i de solgte møbler mellem Falck Møbler, Reel Realkredit, Kommers Banken og Sound Studio? (30 %)
+
+---
+
+## Eksamensopgave 18.5
+
+Opgave 1 
+
+Peter Frandsen er eneejer af smykkefirmafirmaet Frandsen A/S, som er beliggende i en tidligere landejendom nord for Aarhus.
+
+I bygningerne er der indrettet produktionslokaler, kontorlokaler, mødelokaler og administrationslokaler. Produktionen af smykkerne går hovedsageligt til det europæiske marked, men firmaet vil i det nye år også satse på en markedsføring af håndlavede smykker i dansk design på det russiske marked.
+
+De gamle radiatorer i landejendommen er meget utætte og skal derfor udskiftes hurtigst muligt, før vinteren kommer.
+
+Både Danmarksbanken og realkreditinstituttet Boliglup har efter det oplyste pant i landejendommen.
+
+Den 12. september 2019, er Peter til møde med sin bankrådgiver fra Aarhus Spar og Lån Bank, Kim Rasmussen vedrørende mulighederne for en bankfinansiering til en udskiftning de 21 radiatorer, eventuelt
+ mod pant i ejendommen.  
+ 
+Aktieselskabet har fået et tilbud fra ”Radiatorland” på 21 radiatorer af typen ”Ludvig Panel Radiatorer” med afmontering og bortskaffelse af de eksisterende radia-torer, samt installation af de nye radiatorer til en samlet pris på 276.500 kr. inkl. moms. Tilbuddet fra Radiatorland er dateret den 1. september 2019.  
+Radiatorland er stærkt interesseret i at få ordren. Under den klare forudsætning, at radiatorfirmaet får sædvanligt ejendomsforbehold i hele leverancen, tilbyder Radiatorland derfor et års rentefri kredit, som skal afvikles med 12 lige store, månedlige afdrag. 
+
+Peter vil gerne rådgives om, hvilken af de 2 finansieringsmodeller han kan gøre brug af. 
+
+Eksamensspørgsmål 1. Hvordan bør bankrådgiveren Kim Rasmussen rådgive i dette spørgsmål? 
+
+Opgave 2 
+
+Smykkefirmaet har ligeledes brug for rådgivning om finansiering af en ny produktionsmaskine, der kan producere top kvalitet, titanium smykker, 316L rustfrit stål smykker, Wolfram smykker, messing smykker osv. 
+
+Peter foreslår Kim, at banken yder et lån til købet af en ny produktionsmaskine mod at få sikkerhed i produktionsmaskinen. Peter beder derfor Kim undersøge nærmere med bankens juridiske afdeling, hvilke muligheder banken har for at få sikkerhed i en ny produktionsmaskine.
+
+Eksamensspørgsmål 2. Hvilke muligheder har banken for at få pant i produk-tionsmaskinen? 
+
+Opgave 3 
+Smykkefirmaet har igennem en periode, ikke kunnet opfylde de resultatbudgetter, der tidligere var blevet oplyst til banken. Banken ønsker derfor at få sikkerhed for den kassekredit på 300.000 kr., som i 2018 blev givet smykkefirmaet Frandsen A/S uden sikkerhed. 
+
+I den forbindelse nævner Peter over for bankrådgiveren, at hans hustru Birthe Frandsen, som er tidligere supermodel, med en stor personlig formue, måske vil kunne overtales til at kautionere for aktieselskabets kassekredit over for banken. 
+Birthe har desværre vist tegn på en begyndende Alzheimer sydom (demens), som har medført glemsomhed og hukommelsessvækkelse. Sygdommen hos Birthe skyldes formentlig et større narkotikamisbrug som model i sine unge dage i Paris, Rom og New York. 
+
+Hvis det ikke lykkes med Birthe som kautionist, så er hans søster Sonja Petersen også en oplagt kautionist-mulighed, dog bemærker Peter under samtalen med Kim, at Sonja vist lige er blevet arbejdsløs, som bager, men hun er medlem af en A-kasse og har en lønforsikring i Topdanmark.
+
+I øvrigt er Peter i tvivl om forskellen på en simpel kaution i forhold til en selvskyldnerkaution?
+
+Eksamensspørgsmål 3. Hvilke overvejelser bør bankrådgiveren gøre sig i for-hold til disse kautionsmuligheder, og hvilken af de 2 kautionstyper vil banken formentlig anvende, hvis det skulle blive aktuelt at få kaution.
+
+Opgave 4 
+I perioder med ekstraordinær travlhed ansætter Peter, den russiskfødte smykke-designer Ivan Volkova, til at bistå med udviklingen af et særligt designsmykke til det russiske marked. Uheldigvis kommer Ivan under en fredagsvinsmagning i et af produktionslokalerne, hvor han nok lidt rigelig, havde søgt inspiration i god rød-vin fra det franske Loire-vindistrikt, til at vælte et næsten fyldt glas vin, ud over en smykkemaskine, som bestemt ikke havde godt af denne behandling.
+
+Eksamensspørgsmål 4. Kan Peter, og i givet fald efter hvilke regler, kræve erstatning af Ivan Volkova?
+
 
 
 ---

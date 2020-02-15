@@ -49,7 +49,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ## Grundloven om Danmarks forfatning
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**.
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  ``r tippy(indeks[1,1], size="large" ,interactive = TRUE, arrow = TRUE, tooltip = paste0("<h4>",indeks[1,2],"</h4>"))`` er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 

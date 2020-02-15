@@ -1,7 +1,7 @@
 # Køb
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+#cat(readLines('np.html'))
 ```
 
 
@@ -22,12 +22,13 @@ cat(readLines('np.html'))
 
 ![](img/buing.jpg)
 
-Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
+Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
 
 ---
 
 
 **Video: Introduktion til køberetten**
+*Udarbejdet ad Advokatpartnerskabet Horten*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/QQ9Dk4gvExM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -42,6 +43,8 @@ Modsat *"lån til brug"*, som er en	aftale mellem långiver og låntager om vede
 Der skal være tale om en gensidigt bebyrdende købsaftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. 
 
 Sælgerens ydelse er et formuegode, dvs. en ejendomsgenstand. 
+
+---
 
 Der er hyppigst tale om overdragelse af ejendomsretten til et løsøre (dvs. ting, fx en hundehvalp), men der kan også være tale om overdragelse af fordringsrettigheder (fx aktier, oligationer samt skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed.
 
@@ -98,11 +101,15 @@ Dvs. et køb, hvor både køber og sælger er erhvervsdrivende, og hvor købet i
 
 Det købte skal hovedsageligt anvendes i erhvervsøjemed, fx. den købte lastbil skal udelukkende anvendes i vognmandsforretningen.
 
+---
+
 Købeloven opstiller i en række sammenhænge særlige regler for handelskøb, jf. fx KBL §§ 6 og 16, § 21, stk. 3, og § 28, stk. 1, §§ 27, 32, 51 og § 52, stk. 1. 
 
 Det er karakteristisk for de særlige regler om handelskøb, at parternes forpligtelser skærpes i forhold til, hvad der gælder i civile køb (handel mellem to private fx. i Den Blå Avis; kaldet et *civilkøb*). 
 
 Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, således at der fx pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBL § 54’s reklamationsfrist på 2 år kan fraviges ved en aftale.
+
+---
 
 Det er ikke en betingelse i købeloven, af det købte skal anvendes til videresalg. 
 
@@ -118,7 +125,7 @@ Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretni
 
 ![](img/restaurant.jpg)
 
-Se fx dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000197909/1**
+Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000197909/1**
 
 ---
 
@@ -132,9 +139,9 @@ Kaldet; *"B2C"*
 
 Tilsvarende definitioner på forbrugeraftaler findes bl.a. i aftalelovens § 38 a, stk. 2, kreditaftalelovens § 1, jf. § 4, nr. 1–3, forbrugeraftalelovens § 2, stk. 1, rentelovens § 7, stk. 1, og betalingslovens § 7, nr. 15, jf. også forbrugerklagelovens § 2.
 
-Se disse love i Lovsamlingen i kapitel 26:
+---
 
-**https://jura.tepedu.dk/lovsamling.html**
+Se disse love i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -145,6 +152,8 @@ Det er transaktionsfomålet med det købte i aftaleøjeblikket, der er afgørend
 Dvs. man ser på formålet med det købte og ikke den faktiske anvendelse af det købte. 
 
 Det afgørende for, om en aftale har karakter af en forbrugeraftale, er derfor, om den erhvervsdrivendes ydelse på tidspunktet for aftalens indgåelse var bestemt til ikke-erhvervsmæssig anvendelse for medkontrahenten.
+
+---
 
 Det er ikke udelukket at anse et køb for et forbrugerkøb, selv om køberen skal anvende genstanden i såvel privat som erhvervsmæssigt øjemed. 
 
@@ -174,6 +183,8 @@ Det er ikke en forudsætning for at blive anset som erhvervsdrivende, at man har
 
 Det er heller ikke afgørende, om der med virksomheden tilstræbes en økonomisk gevinst. 
 
+---
+
 Det kan være vejledende, men ikke afgørende, om vedkommende sælger er *momsregistreret*, bogføringspligtig, registreret i CVR-registeret, er omfattet af selskabsskatteloven eller foretager skattemæssige afskrivninger. 
 
 Der kan desuden lægges vægt på, om den pågældende har en erhvervsmæssig markedsføring i form af annoncering, firmabrevpapir o.lign. 
@@ -188,11 +199,15 @@ Sådanne organisationer kan imidlertid anses som erhvervsdrivende, for så vidt 
 
 *Fagforeninger og a-kasser* er som udgangspunkt ikke omfattet af begrebet »erhvervsdrivende«, men sådanne organisationers aktiviteter kan efter en konkret vurdering anses for at være erhvervsmæssige.
 
+---
+
 *Andelsbolig-, grundejer- og ejerlejlighedsforeninger, gårdlav, almennyttige boligforeninger, bofællesskaber, kolonihaveforeninger, kollegier o.lign*. anses som udgangspunkt ikke som erhvervsdrivende, hvad angår de dispositioner, som har til formål at varetage medlemmernes interesser i henhold til organisationens/foreningens formål. 
 
 Se afgørelsen i **Forbrugerredegørelse 2002–2003 6.6.1** (en ejerlejlighedsforening, der fordelte varmeudgifterne mellem medlemmerne, ansås ikke for erhvervsdrivende). 
 
-Se nedenfor under biblioteket i kapitel 27, se min artikel om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff. **https://jura.tepedu.dk/bibliotek-premium.html**
+---
+
+Se nedenfor under Biblioteket, se min artikel om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff. **https://jura.tepedu.dk/bibliotek-premium.html**
 
 
 
@@ -223,7 +238,7 @@ Købelovens regler ved handelskøb er deklaratoriske dvs., at de kan fraviges ve
 
 ---
 
-Se nærmere handelskøbsreglerne i købeloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Se nærmere handelskøbsreglerne i købeloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 
 ---
@@ -275,6 +290,8 @@ Se begrebet *"specificatio"*	romerretligt udtryk for frembringelse, dvs. bearbej
 Skabelsen af en ny vare, fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er omfattet af købelovens regler. 
 
 Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. 
+
+---
 
 Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1 og ikke underlagt reklamationsreglerne i købeloven.  
 
@@ -332,6 +349,7 @@ NB! "Levering" kan ske, inden salgsgenstanden er kommet i købers besiddelse.
 ---
 
 **Video om risikoens overgang**
+*Uarbejdet af Advokatpartnerskabet Horten*
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/oqJcGNfpdY0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -993,6 +1011,7 @@ Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 ---
 
 **Video om forholdsmæssig afslag**
+*Udarbejdet af Advokatpartnerskabet Horten*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/2HE6yDTD0tQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1062,6 +1081,8 @@ Har køberen foretaget en sådan undersøgelse, kan køberen ikke påberåbe sig
 Forbrugerkøberen skal reklamere rettidigt, dvs. mindst 2 måneder efter manglen er opdaget, jf. KBL § 81 – ellers mister forbrugerkøberen sine misligholdelsesbeføjelser.
 
 Hvis man ikke kan finde bonnen for købet, kan man anvende et bankudskrift som kvittering.
+
+---
 
 Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse, jf. KBL § 83, stk. 1, medmindre at sælgeren har påtaget sig at indestår for salgsgenstanden i længere tid ved et garantitilsagn (tilsikring), eller at der er tale om en reparation af det købte, som er en tjenesteydelse, hvor indsigelser på den mangelfulde reparation forældes efter 3 år, jf. forældelseslovens § 3.
 
@@ -1850,14 +1871,14 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 **Video**
 
 <iframe src="https://player.vimeo.com/video/309273066" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309273066">Bliv bedre til at prutte om prisen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309273066">***Tryk her***: Bliv bedre til at prutte om prisen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
 *'Video**
 
 <iframe src="https://player.vimeo.com/video/309272558" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309272558">En rap historie om netkonkurrencer</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309272558">***Tryk her***: En rap historie om netkonkurrencer</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ---
@@ -1865,7 +1886,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 **Video**
 
 <iframe src="https://player.vimeo.com/video/309258695" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309258695">G&oslash;r livet nemt - brug nettet!</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309258695">***Tryk her***:G&oslash;r livet nemt - brug nettet!</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ---
@@ -1873,14 +1894,14 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 **Video**
 
 <iframe src="https://player.vimeo.com/video/309257060" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309257060">Hvor ofte handler du p&aring; nettet?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309257060">***Tryk her***: Hvor ofte handler du p&aring; nettet?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
 **Video**
 
 <iframe src="https://player.vimeo.com/video/309255477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309255477">Hvad er told?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309255477">***Tryk her***: Hvad er told?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ---
@@ -1888,7 +1909,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 **Video**
 
 <iframe src="https://player.vimeo.com/video/309252834" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309252834">Hvad betyder .dk?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/309252834">**Tryk her**: Hvad betyder .dk?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ---
 
@@ -1943,7 +1964,7 @@ Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? O
 **Video**
 
 <iframe src="https://player.vimeo.com/video/306171700" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/306171700">Juler&aring;d</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/306171700">***Tryk her***: Juler&aring;d</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 ---
@@ -1952,7 +1973,7 @@ Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? O
 
 
 <iframe src="https://player.vimeo.com/video/305941642" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/305941642">Kan julegaven byttes?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+<p><a href="https://vimeo.com/305941642">***Tryk her:*** Kan julegaven byttes?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 

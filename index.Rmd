@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
+# cat(readLines('fp.html'))
 ```
 
 
@@ -73,7 +73,7 @@ Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for a
 
 ***E-bogens talrige videoer, quizer, podcast, domme, Finanstilsynets afgørelser, nævnsafgørelser, samt latinske-juridiske betegnelser fra romerretten mv., er ikke at betragte som en del af jeres pensum, men er et supplement til pensum for at fremme din yderligere forståelse for erhvervs- og finansjuraen.***
 
-***E-bogen indeholder tidligere eksamensopgaver, samt studierelevante opgaver.***
+***E-bogen indeholder tidligere eksamensopgaver, samt studierelevante opgaver. Efter hver eksamensopgave er der en podcast, som indeholder en rettevejledning til den stillede eksamensopgave***
 
 ***Du har mulighed for at søge i e-bogen, og du kan selv tilføje sine egne noter i e-bogen via programmet "Ourstrikys".***
 

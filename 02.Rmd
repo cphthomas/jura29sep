@@ -6,7 +6,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Kapitel 2 skal kun læses i hovedtræk** 
+**Kapitel 2 skal kun læses i hovedtræk. E,mnet bliver behandlet i "Erhvervsjura" kap. 1** 
 
 
 
@@ -211,7 +211,7 @@ Imidlertid er der ikke tale om en "lov", men reguleringen af aftalen kan være u
 
 ![](img/lov3.jpg)
 
-om aftalen er i strid mod lov og ærbarhed (Danske Lovs 5-1-2), og om aftalen, uden et gyldigt grundlag binder en tredjemand, se Danske Lov i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+om aftalen er i strid mod lov og ærbarhed (Danske Lovs 5-1-2), og om aftalen, uden et gyldigt grundlag binder en tredjemand, se Danske Lov i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
 
 Præceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale. Aftaler i strid mod lov og ærbarhed er kendetegnet ved, at aftalen er i strid med ufravigelige regler. 
 
@@ -241,10 +241,6 @@ Se fra romerretten: "ex æquo et bono"	efter ret og billighed (rimelighed).
 ![](img/romer.jpg)
 
 "jus romanum" er den ret, der gjaldt i Romerriget. Denne ret har spillet en afgørende rolle for den europæiske retsudvikling og er en meget vigtig del af kulturarven fra antikken. ^[Følgende afsnit om romerretten bygger især på *Mathias Hein Jessen* https://videnskab.dk/kultur-samfund/du-kan-takke-romerriget-du-skal-folge-loven.] 
-
-
-
-
 
 Romerretten har leveret afgørende begreber og kategorier om eksempelvis magt, jurisdiktion og ejendom til politisk tænkning og har været en meget afgørende del af den måde, vi tænker politik, stat, suverænitet, magt og ejendom på her i Vesten.
 
@@ -416,9 +412,10 @@ Juridisk metode, fremgangsmåde ved stillingtagen til juridiske problemer.
 
 Metoden består for det første af en beskrivelse og identifikation af de retskilder, som gyldigt kan inddrages i en juridisk argumentation; for det andet af læren om, hvordan retskilderne fortolkes. 
 
+---
+
 Juridisk metode består af 3 hovedelementer:
 
----
 
 Et faktum (Hændelsesforløbet fx der er sket økonomisk misbrug af en kortholderens mistede Dankort)  
 +  
