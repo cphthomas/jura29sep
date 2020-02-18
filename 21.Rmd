@@ -11,18 +11,19 @@ cat(readLines('np.html'))
 **Handel med fast ejendom behandles i kap. 13 i "Erhvervsjura"**
 
 ---
+
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne*:
 
 
-•	*Købsaftalens indgåelse (aftalelovens § 1-7 og de særlige regler i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom kapitel.*
+-	*Købsaftalens indgåelse (aftalelovens § 1-7 og de særlige regler i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom kapitel.*
   
-•	*Fortrydelsesretten på 6 hverdage og betaling af en godtgørelse på 1% af den nominelle købesum. Ejendommen skal tilbageleveres i "samme stand og mængde" for at kunne fortryde ejendomskøbet.*
+* *Fortrydelsesretten på 6 hverdage og betaling af en godtgørelse på 1% af den nominelle købesum. Ejendommen skal tilbageleveres i "samme stand og mængde" for at kunne fortryde ejendomskøbet.*
 
-• *Mangler ved fast ejendom.*
+* *Mangler ved fast ejendom.*
   
-•	*Advokat – og finansieringsforbehold.*
+*	*Advokat – og finansieringsforbehold.*
 
-•	*Ejendomsmæglerens erstatningsansvar.*
+*	*Ejendomsmæglerens erstatningsansvar.*
 
 
 
