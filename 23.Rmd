@@ -76,7 +76,7 @@ I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællern
 
 ---
 
-**Video: Familieliv og jura**
+## Video om familieliv og jura
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -308,13 +308,13 @@ Begge ægtefæller skal være enige herom og indgå en skriftlig (og tinglyst i 
 
 ---
 
-**Video: Tinglysning af ægtepagt**
+## Video om tinglysning af ægtepagt
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/NNG8jga_q_Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Sådan laver du selv en ægtepagt**
+## Video Sådan laver du selv en ægtepagt
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DQmRSVrdmrY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -981,7 +981,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ---
 
-**Video: Hvilket særeje skal du vælge?**
+## Video om hvilket særeje skal du vælge?
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/u3qv7qhAn14" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1420,7 +1420,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-**Video: Guide til separation og skilsmisse**
+## Video om guide til separation og skilsmisse
 
 
 
@@ -1432,7 +1432,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-**Video: Guide til bodeling ved skilsmisse**
+## Video om guide til bodeling ved skilsmisse
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cKeZZuNhIaw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1517,7 +1517,7 @@ Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue,
 
 ---
 
-**Video: Skilsmisse i børnehøjde**
+## Video om skilsmisse i børnehøjde
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M2Av7OqKLtw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2299,7 +2299,7 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 *Aspekter af skilsmissen*
 
-**Video: Når det går galt ved en skilsmisse: Familieretten**
+## Video om når det går galt ved en skilsmisse
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZvS2L4wIKPo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2309,7 +2309,7 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-**Video: Regler for samvær**  
+## Video om regler for samvær  
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/tEDkwMk96r8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -2317,7 +2317,7 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-**Video: Hvordan møder man skilsmissen?**
+## Video om hvordan møder man skilsmissen?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/o3E7r1JbvpA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
@@ -2330,7 +2330,7 @@ Der kan ske omstødelse af et ægteskab. Ægteskabet kan opløses på grund af f
 
 ---
 
-**Video: 8 råd til et papirløst samliv**
+## Video om 8 råd til et papirløst samliv
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-g-TQPmtJEU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 

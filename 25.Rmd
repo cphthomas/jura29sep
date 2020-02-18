@@ -11,7 +11,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Video: Forstå forsikring på 3 min.**
+## <font color="red">Video om at forstå forsikring på 3 min.<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jhoZCUQd-n8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -304,7 +304,7 @@ Gælder kun ved *tingsforsikring*, men ikke for summaforsikring. Dvs fx hvis man
 
 ---
 
-**Video: Matematik i forsikring og finansiering**
+## <font color="red">Video om matematik i forsikring og finansiering<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EMCsXK44p1k" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -515,7 +515,7 @@ Er der ikke gæld i bilen, og er der tale om en ældre bil, nøjes mange med den
 
 ---
 
-**Video: Om bilforsikringen**
+## <font color="red">Video Om bilforsikringen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/H9PzSmkhC48" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -615,7 +615,7 @@ Bemærk: Er der tale om en flugtbilist, kan der også udbetales erstatning for t
 
 ---
 
-**Video: Dagsgebyr for manglende ansvarsforsikring:**
+## <font color="red">Video om dagsgebyr for manglende ansvarsforsikring<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/9kHkH-8HxZI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -855,7 +855,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 88440 og sagsnr.: 87783:**
 
 ---
 
-**Video: Aros forsikringsselskab om veteranforsikring**
+## <font color="red">Video Aros forsikringsselskab om veteranforsikring<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/tMXv_B_BFbQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -895,7 +895,7 @@ Forsikringen dækker normalt ikke bedrageri, underslæb og lignende.
 
 ---
 
-**Video: Hvad dækker indboforsikringen**
+## <font color="red">Video om hvad dækker indboforsikringen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/qF5DQPRVO3Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -937,14 +937,14 @@ Se også **Forsikringsankenævnets sagsnr.: 87968**, hvor Forsikringsankenævnet
 
 ---
 
-**Video: Gode råd ved indboforsikring**
+## <font color="red">Video om gode råd ved indboforsikring<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/sWJ_F0BqvlI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Har du overblik over din indboforsikring?**
+## <font color="red">Video Har du overblik over din indboforsikring?<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/sVlQw4h71sY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1051,13 +1051,13 @@ Link: **http://ankeforsikring.dk/Sider/default.aspx**
 
 ---
 
-*Video: Ansvaret for flybagage*
+## <font color="red">Video om ansvaret for flybagage<sup> Premium </font></sup>
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/305947100" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 ---
 
-**Video: Fastsættelsen af forsikringssummen**
+## <font color="red">Video om fastsættelsen af forsikringssummen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Y9DwajelnAI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1111,7 +1111,7 @@ Find 6 forsikringselskaber og gennemgå deres forsikringsdækning for udeboende 
 
 ---
 
-**Video: Flyt hjemmefra med succes**
+## <font color="red">Video om at flytte hjemmefra med succes<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8HlIX3cvHEo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1219,7 +1219,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 77996 og 75600:**
 
 ---
 
-**Video: Gode råd ved identitetstyveri**
+## <font color="red">Video om gode råd ved identitetstyveri<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-gzZYtG_C4w" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1434,8 +1434,7 @@ I **Forsikringsankenævnets sagsnr.: 61413** var det groft uagtsomt at efterlade
 
 ---
 
-I **Forsikringsankenævnets sagsnr.: 56609** fandt Forsikringsankenævnet, at det ikke var groft uagtsomt at efterlade et kamera i en barnevogn i zoo, mens klageren skiftede sit barn. Klager over selskabets afvisning af at yde dækning efter tyveri: 
-"Klager var i zoo med søn. Klager skulle hurtigt skifte søn og lod taske med videokamera stå i barnevogn. Da klager kom tilbage 10 minutter efter var barnevognen incl. kamera, cd'er, sovepose mv. væk. Selskabet gør grov uagtsomhed gældende. Nævnet udtaler, at ved vurderingen af, om klager har udvist grov uagtsomhed må indgå hvilke effekter, der er tale om, hvor disse er efterladt, muligheden for at medtage effekterne, tiden og alm. handlemåde. Klagers handling var en spontan reaktion i en situation, der hverken gav anledning til særlige forudgående handlingstilrettelæggelser eller tid til nærmere overvejelser. Nævnet finder det betænkeligt at karakterisere klagers handling som grov uagtsom. Klager medhold".
+I **Forsikringsankenævnets sagsnr.: 56609** fandt Forsikringsankenævnet, at det ikke var groft uagtsomt at efterlade et kamera i en barnevogn i zoo, mens klageren skiftede sit barn. Klager over selskabets afvisning af at yde dækning efter tyveri: "Klager var i zoo med søn. Klager skulle hurtigt skifte søn og lod taske med videokamera stå i barnevogn. Da klager kom tilbage 10 minutter efter var barnevognen incl. kamera, cd'er, sovepose mv. væk. Selskabet gør grov uagtsomhed gældende. Nævnet udtaler, at ved vurderingen af, om klager har udvist grov uagtsomhed må indgå hvilke effekter, der er tale om, hvor disse er efterladt, muligheden for at medtage effekterne, tiden og alm. handlemåde. Klagers handling var en spontan reaktion i en situation, der hverken gav anledning til særlige forudgående handlingstilrettelæggelser eller tid til nærmere overvejelser. Nævnet finder det betænkeligt at karakterisere klagers handling som grov uagtsom. Klager medhold".
 
 ---
 
@@ -1629,7 +1628,7 @@ Se **Forsikringsankenævnets sagsnr.: 73311, 81007 og 86874:**
 
 ---
 
-**Video: WebHELP: forsikring mod digital mobning og overgreb – mobning på sociale medier og nettet | Call me**
+## <font color="red">Video: WebHELP: forsikring mod digital mobning og overgreb – mobning på sociale medier og nettet | Call me<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/q6_RfqBGcxg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2020,7 +2019,7 @@ Ejerskifteforsikringen, tilstandsrapporten og elinstallationsrapporten er instru
 
 ---
 
-**Video**
+## <font color="red">Video om ejerskifteforsikring<sup> Premium </font></sup>
 
 <iframe src="https://player.vimeo.com/video/305944604" width="640" height="461" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/305944604">Hvad d&aelig;kker ejerskifteforsikringen?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
@@ -2782,7 +2781,7 @@ Link: **http://ankeforsikring.dk/Sider/default.aspx**
 
 Lidt sjovt:-)
 
-**Video: Mandrilaftalen – Forsikringer**
+## <font color="red">Video: Mandrilaftalen – Forsikringer<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EGj0tVWtr6g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
@@ -3192,7 +3191,7 @@ Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, me
 
 ---
 
-**Video: Ansvarsforsikringer samt dækningsprincipper på 6 minutter**
+## <font color="red">Video om ansvarsforsikringer samt dækningsprincipper på 6 minutter<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZRS1HfnS6Y0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -3228,6 +3227,16 @@ Hvis det erhvervsmæssige aspekt i aktiviteten er helt underordnet – fx, hvis 
 *Ansvar for arbejde for andre*
 
 Hvis man arbejder for andre og får løn for det, så dækker privatansvarsforsikringen ikke de skader, man forvolder som ansat, jf. istedet Danske Lov 3-19-2 og arbejdsgiveren har en erhvervsansvarsforsikring, der skal dække disse skader.
+
+---
+
+Se dommen i **FED2019.19.** Den ny ansatte N skulle betjene en pumpe til tømning af en fiskekutter, da han blev om at tilkalde hjælp af en fisker. Efter at have tilkaldt hjælp gik han ned i lastrummet på kutteren, hvor der lå 2 bevidstløse. Som følge af gasudvikling i lastrummet pådrog N sig en alvorlig hjerneskade. N var ikke blevet instrueret om faren for gasudvikling. Landsrettens flertal fandt det ikke upåregneligt for arbejdsgiveren, at N ville bevæge sig ombord på kutteren, uanset hans betjening af pumpen kunne foregå fra kajen. Derfor var der ikke givet den fornødne instruktion eller ført et effektivt tilsyn med arbejdet, hvorfor arbejdsgiveren havde handlet ansvarspådragende. (anket til Højesteret). Se hele dommen her: **https://pro.karnovgroup.dk/document/7000840313/1**
+
+---
+
+Se dommen i **FED 2019.25.** J pådrog sig en knæskade under en firmajulefrokost, som var arrangeret af arbejdsgiver og blev holdt i arbejdsgivers lokaler. Skaden skete, da der i forbindelse med oprydning efter julefrokosten opstod leg i form af moslen og tumlen mellem J og H, hvilken leg ikke havde en sådan naturlig forbindelse med julefrokosten, at der var grundlag for at anse forholdet for omfattet af arbejdsskadesikringslovens § 5, og J's skade var derfor ikke en arbejdsskade. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000844868/1**
+
+---
 
 Hvis man ikke får løn, dækker ansvarsforsikringen i nogle tilfælde. 
 
@@ -3305,7 +3314,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ---
 
-**Video: Filosoffen om forsikring**
+## <font color="red">Video: Filosoffen om forsikring<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8rCy4beDZdc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -3612,7 +3621,7 @@ Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. feb
 
 ---
 
-**Video: Hvordan dækker en ulykkesforsikring**
+## <font color="red">Video om hvordan dækker en ulykkesforsikring<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gsK8tssPiZ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -3851,7 +3860,7 @@ Se dommen i **FED 2015.120:** A havde ikke oplyst F om de rigtige brugerforhold 
 
 ---
 
-**Video: Hvordan dækker familieforsikringen**
+## <font color="red">Video om hvordan dækker familieforsikringen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FfIcQgcMKn4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4005,7 +4014,7 @@ Det er forsikringsselskabets bevisbyrde, hvis selskabet mener, at sikkerhedsfors
   
 ---
 
-**Video: Jørgen har styr på det**
+## <font color="red">Video: Jørgen har styr på det<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Oi1NnFx8NB4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4475,7 +4484,7 @@ Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende
 
 ---
 
-**Video om Forsikringsoplysningen**
+## <font color="red">Video om Forsikringsoplysningen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/_AfijS3r6Sk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4484,7 +4493,7 @@ Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende
 
 Forskellen på en assurandør og en forsikringsmægler er at assuandøren er ansat hos forsikringsselskabet, hvorimod forsikringsmægleren er uafhænging og selvstændig.
 
-**Video: Om erhvervsassurandøren**
+## <font color="red">Video om erhvervsassurandøren<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/iNdN_0ZYDEI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -4509,7 +4518,7 @@ Lad os derfor starte med at se nærmere på pensionssystemet:
 
 ---
 
-**Video: Hvad indeholder min pensionsordning?** 
+## <font color="red">Video om hvad indeholder min pensionsordning<sup> Premium </font></sup> 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4522,7 +4531,7 @@ En *livrente* er en pension i forsikringsklæder. For med livrenten får man udb
 
 ---
 
-**Video: Pension forklaret så man faktisk fatter det**
+## <font color="red">Video: Pension forklaret så man faktisk fatter det<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/W6i8F73jeRE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -4531,7 +4540,7 @@ En *livrente* er en pension i forsikringsklæder. For med livrenten får man udb
 
 
 
-**Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?** 
+## <font color="red">Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?<sup> Premium </font></sup> 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vdSRTFzuhjo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4792,7 +4801,7 @@ Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af f
 
 ---
 
-**Video: Jakob oplysning: Pension**  
+## <font color="red">Video: Jakob oplysning: Pension<sup> Premium </font></sup>  
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/fLnGjz9729U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -5020,19 +5029,19 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 ---
 
-**Video: Styr på arven: Hvem får pensionen?**  
+## <font color="red">Video få styr på arven: Hvem får pensionen?<sup> Premium </font></sup>  
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/F6Yourieo0Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension**
+## <font color="red">Video om pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/XlRPMMEtnOI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Pensionsopsparing‐Hvad får du med en ratepension?** 
+## <font color="red">Video: Pensionsopsparing Hvad får du med en ratepension? 
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uM9qeWfdZfE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -5276,7 +5285,7 @@ Se dommen i **U 2016.1487 H** En forsikringsaftale indeholdt en ydelsesgaranti, 
   
 ---
 
-**Video: Ole Møgdahl Vil tegne livsforsikring for sin kone**
+## <font color="red">Video: Ole Møgdahl Vil tegne livsforsikring for sin kone<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/UKGAt8fcHaU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -5306,14 +5315,14 @@ Disse aktører skal, hvis de er omfattet af de nye regler, søge om nye tilladel
 
 ---
 
-**Video: Ansøgning som forsikringsformidler & genforsikringsformidler**
+## <font color="red">Video: Ansøgning som forsikringsformidler & genforsikringsformidler<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jfiEp2XIE6Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Sådan ansøger du om at blive accessorisk forsikringsformidler**
+## <font color="red">Video: Sådan ansøger du om at blive accessorisk forsikringsformidler<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/m-oGXItShsQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -5791,13 +5800,13 @@ I den forbindelse skal Finanstilsynet lægge vægt på, om virksomhedens hjemmes
 ---
 
 
-**Video: Forsikringsmæglervirksomhed**
+## <font color="red">Video om forsikringsmæglervirksomhed<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PKzv-b8AhzQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Præsentationsvideo fra APC Forsikringsmæglere**
+## <font color="red">Video: Præsentationsvideo fra APC Forsikringsmæglere<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PRMBF4KQYpU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

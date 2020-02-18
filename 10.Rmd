@@ -62,20 +62,20 @@ Se link til Datatilsynet: **https://www.datatilsynet.dk/**
 ---
 
 
-**Video: Top 5 things to consider for your GDPR preparation**
+## <font color="red">Video Top 5 things to consider for your GDPR preparation<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6fITStJ-4Es" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Databeskyttelsesreglerne på 7 minutter**
+## <font color="red">Video om databeskyttelsesreglerne på 7 minutter<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/AXnQQyVvmuM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Databeskyttelsesforordningen stiller krav til den finansielle sektor**
+## <font color="red">Video om databeskyttelsesforordningens krav til den finansielle sektor<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -105,13 +105,13 @@ Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sa
 
 
 
-**Video: GDPR: What Is It and How Might It Affect You?**
+## <font color="red">Video GDPR: What Is It and How Might It Affect You?<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/j6wwBqfSk-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: What is the GDPR? | A summary of the EU GDPR**
+## <font color="red">Video: What is the GDPR? | A summary of the EU GDPR<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Assdm6fIHlE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -128,7 +128,7 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 ---
 
-**Video: Introduktion til databeskyttelsesloven**
+## <font color="red">Video Introduktion til databeskyttelsesloven<sup> Premium </font></sup>
 
 
 
@@ -136,7 +136,7 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 ---
 
-**Video: Hvad er persondata?**
+## <font color="red">Video: Hvad er persondata?<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jmVTmSLkkh0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -263,7 +263,7 @@ Fagforeningsmæssigt tilhørsforhold, helbred, seksuel orientering.
 
 ---
 
-**Video: Kategorier af personoplysninger**
+## <font color="red">Video: Kategorier af personoplysninger<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gn5QEtgZcVc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -350,7 +350,7 @@ En virksomhed må kun behandle almindelige ikke-følsomme personoplysninger, hvi
 
 ---
 
-**Videoer: ”Hvordan håndterer I personoplysninger i jeres virksomhed?”**
+## <font color="red">Videoer om hvordan håndterer I personoplysninger i jeres virksomhed?<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/idYfVNZbQeU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -524,7 +524,7 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 
 ---
 
-**Video: God behandlingsskik**
+## <font color="red">Video om god behandlingsskik<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3QSmFgl4V2E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -549,7 +549,7 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 
 ---
 
-**Video: Oplysningspligt**
+## <font color="red">Video om oplysningspligten<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/NMB734l1XfM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -561,13 +561,13 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 
 ---
 
-**Video: Samtykket**
+## <font color="red">Video om samtykket<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7sQbAZSHRFU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Behandlingshjemlen**
+## <font color="red">Video om behandlingshjemlen<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TmYVGZ_al8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -722,7 +722,7 @@ Hvilke krav stilles der til "samtykket" og find praktiske eksemplar på afgivels
 
 ---
 
-**Video: Et overblik for virksomheden om databeskyttelsesreglerne**
+## <font color="red">Video et overblik for virksomheden om databeskyttelsesreglerne<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gzAiH6jpGVM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -786,7 +786,7 @@ Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig r
 
 ---
 
-**Video: Indsigelsesret og anmodning om sletning**
+## <font color="red">Video om indsigelsesret og anmodning om sletning<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/bJAmhsu0Xjg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -808,7 +808,7 @@ Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uan
 
 ---
 
-**Video: Retten til at blive glemt**
+## <font color="red">Video: Retten til at blive glemt<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/opW2SjZ0ziA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -857,7 +857,7 @@ Retten til dataportabilitet finder ikke anvendelse på behandling, der er nødve
 
 ---
 
-**Video: Indsigtsbegæring**
+## <font color="red">Video om indsigtsbegæring<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TeJ1xbrjDJU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -900,19 +900,19 @@ Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
 
 ---
 
-**Video: Dataansvarlig og databehandler**
+## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/L49BE_nqLKU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Data Protection Officer (DPO)**
+## <font color="red">Video om data Protection Officer (DPO)<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JlRCfJKrAi0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video om dataansvarlig og databehandler**
+## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/a23YoOgb2h0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -920,7 +920,7 @@ Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
 
 ---
 
-**Video: Fortegnelse**
+## <font color="red">Video om fortegnelse<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-M8bYIHlbBA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -931,13 +931,13 @@ Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
 
 ---
 
-**Video: Bøder**
+## <font color="red">Video om bøder<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/RBKJ6SBtEIY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: GDPR Compliance 2019 Summary - 10 Steps in 10 Minutes to Avoid Fines**
+## <font color="red">Video GDPR Compliance 2019 Summary - 10 Steps in 10 Minutes to Avoid Fines<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WPwG-MNMuBQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1260,7 +1260,7 @@ Hvis en afbildet person er utilfreds med offentliggørelsen af vedkommendes bill
 
 ---
 
-**Se video om offentliggørelse fra billeder på de sociale medier:**
+## <font color="red">Video om offentliggørelse fra billeder på de sociale medier<sup> Premium </font></sup>
 
 **https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/**
 
@@ -1303,6 +1303,8 @@ Efterfølgende kan du overveje, om du fortsat har brug for at få Datatilsynets 
 Du kan kun klage over behandling af oplysninger om dig selv og ikke om andre. 
 
 Du kan dog altid lade en anden klage på dine vegne, hvis du giver vedkommende en fuldmagt, ligesom du kan klage på en andens vegne, hvis du har en fuldmagt fra vedkommende.
+
+---
 
 Du kan finde Datatilsynets kontaktoplysninger og telefontider her:
 
@@ -1581,19 +1583,19 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ---
 
-**Video: Resumé af databeskyttelsesreglerne**
+## <font color="red">Video - Resumé af databeskyttelsesreglerne<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cnPsjUIThK8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: GDPR For Dummies**
+## <font color="red">Video om GDPR For dummies<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jaYdR_cPpq8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video:Persondata og personaleadministration**
+## <font color="red">Video om persondata og personaleadministration<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1XFvmzxlrwo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

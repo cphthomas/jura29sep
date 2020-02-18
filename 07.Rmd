@@ -28,7 +28,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Video: Introduktion til erstatningsretten**
+## Video om introduktion til erstatningsretten
 
 
 
@@ -1009,7 +1009,8 @@ https://pro.karnovgroup.dk/journals/ufr
 
 ---
 
-**Video: Vidnition 3.2 - Forsikring, erstatning og arbejdsgiveransvar**
+## Video om forsikring, erstatning og arbejdsgiveransvar
+*Udarbejdet af Vidnition*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/0MInd7t_dHw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1388,19 +1389,19 @@ For en mere væsentlig uddybning af forsikringsretten for de studerende, som der
 
 ---
 
-*Video: Forstå forsikring på 3 minutter*
+## Video om at forstå forsikring på 3 minutter
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jhoZCUQd-n8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Birgitte sælger forsikringer**
+## Video Birgitte sælger forsikringer
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/C5MKa1y1r8I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Bliv skadesbehandler I forsikringsselskab**
+## Video om at blive skadesbehandler I forsikringsselskab
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/j-qLQu7qECw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1452,7 +1453,7 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 
 ---
 
-**Video: Unge og Forsikringer | Gode råd om forsikringer**
+## Video om unge og forsikringer | Gode råd om forsikringer
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/sixGZPICtew" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
@@ -1527,7 +1528,7 @@ Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet ste
 
 ---
 
-*Video: Kan alle få almindelige forsikringer?*
+## Video om alle kan få almindelige forsikringer
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/asAt_30Pd_o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

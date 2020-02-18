@@ -12,7 +12,11 @@ cat(readLines('npp.html'))
 
 *Introduktion til markedsføringsloven*
 
-Lov nr. 426 af 3. maj 2017 om markedsføring (MFL), se nærmere markedsføringsloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.** 
+Lov nr. 426 af 3. maj 2017 om markedsføring (MFL), se nærmere markedsføringsloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+
+---
+
+## Video om markedsføringsloven
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/FtVlOzjQitY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
@@ -408,21 +412,21 @@ Facebook: Tydeligt markere, hvis opslag er en reklame.
 
 ---
 
-**Video: Skjult reklame**  
+## Video om skjult reklame  
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/0v3K7pusbD4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 ---
 
-**Video: Influencer marketing. Hvad er reglerne?**
+## Video om influencer marketing. Hvad er reglerne
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/KzSLGxLrPWs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 
 ---
 
-**Video: Er skjulte reklamer på YouTube et problem?**
+## Video om skjult reklamer på YouTube
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/x3hB3ACOb2g" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -580,7 +584,7 @@ Betingelserne for en lovlig, sammenlignende reklame	- se MFL § 21.
 
 ---
 
-**Hvad er sammenlignende reklame?**
+## Video om hvad er sammenlignende reklame
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hQvnE8iPuXw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
   

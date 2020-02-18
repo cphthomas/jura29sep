@@ -11,7 +11,6 @@ cat(readLines('np.html'))
 **Handel med fast ejendom behandles i kap. 13 i "Erhvervsjura"**
 
 ---
-
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne*:
 
 
@@ -88,19 +87,19 @@ Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione
  
 --- 
  
-**Video: Gode råd om køb af bolig A-Z**
+## Video om gode råd om køb af bolig A-Z
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/N-0EyS75yrg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Webinar: Nykredit giver gode råd om boligkøb**
+## Video Webinar: Nykredit giver gode råd om boligkøb
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/QvUETHDp7do" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed**
+## Video om finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ga9VK96CdhQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -124,7 +123,7 @@ Afsnittet læses kun i hovedtræk, da det bliver mere detaljeret gennemgået und
 
 ---
 
-**Video: Styr på førstegangskøbet: Sådan køber du en bolig**
+## Video om at få styr på førstegangskøbet: Sådan køber du en bolig
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/U7tQihKHRoA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -431,7 +430,7 @@ Det er således kun, når ejendomsmægleren rent faktisk leverer den helt centra
 
 ---
 
-**Video: Gennemgang af købsaftale**
+## Video om en gennemgang af en købsaftale
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/RKc8n10ChnE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -837,7 +836,7 @@ LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov 
 
 ---
 
-**Video: Om huseftersynsordningen**
+## Video om huseftersynsordningen
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -863,7 +862,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 ---
 
-**Video: Ejerskifteforsikring – hvorfor- og hvordan**
+## Video om ejerskifteforsikring – hvorfor- og hvordan
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/rCSppX53zWU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1130,7 +1129,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ---
 
-**Video: Fortrydelsesret og advokatforbehold i en bolighandel**
+## Video om fortrydelsesret og advokatforbehold i en bolighandel
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/eQqlGY1lm2M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1703,7 +1702,7 @@ Mangler ved fast ejendom forældes 3 år efter køber har opdaget manglen eller 
  
 ---
 
-**Video: Tilstandsrapport og energimærke**
+## Video om tilstandsrapport og energimærke
 
 <!-- <div class="video-container"><iframe src="https://www.youtube.com/embed/EToKhmr8XFo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> -->
 
@@ -1737,13 +1736,13 @@ Tillæg med udlevering af Hustypebeskrivelser.
 
 ---
 
-**Video: Sådan sikrer du din hushandel**
+## Video Sådan sikrer du din hushandel
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Sådan bruger du hustypebeskrivelserne**
+## Video Sådan bruger du hustypebeskrivelserne
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ioTmSBDIJ6k" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1763,18 +1762,18 @@ Sælger er fri for ansvar for fejl og mangler ved den faste ejendom  (jf. LFFE �
 
 ---
 
-**Video: Hvad dækker ejerskifteforsikringen**
+## Video om hvad dækker ejerskifteforsikringen
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/krfhBpCbbJg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Gode råd om ejerskifteforsikringen**
+## Video om gode råd om ejerskifteforsikringen
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/aLNod14h5rc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
-**Video: Tjek huset før du køber**
+## Video Tjek huset før du køber
 
  <div class="video-container"><iframe src="https://www.youtube.com/embed/O3nShnJ2w8c" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
  
@@ -1964,7 +1963,9 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
 
 6. Hvordan er Kalles stilling i denne sag?
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1974,7 +1975,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
  
 ---
 
-**Video: Køb af fast ejendom**
+## Video om køb af fast ejendom
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/4jT7zb0TzZ8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2002,7 +2003,7 @@ Men det er dog først, når skøde og tinglysning er endeligt- og anmærkningsfr
 
 
 
-**Video: Styr på førstegangskøbet: Hvad kan jeg købe bolig for?**
+## Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/VnxgfS2MTUM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -2048,7 +2049,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
   
 ---
 
-**Video: Nye boliglån**
+## Video om nye boliglån
 <
 <div class="video-container"><iframe src="https://www.youtube.com/embed/XLCa5kGQ2HA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2062,7 +2063,7 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-**Video: Brug en boligadvokat når du køber bolig**
+## Video om brug en boligadvokat når du køber bolig
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3GBFrCyRmvw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -2084,7 +2085,7 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-**Video: Vælg huslån med Karsten Engmann Jensen, Pengeministeriet.dk**
+## Video om valg af huslån
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PrxUe5RjQso" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2123,23 +2124,26 @@ Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en 
 
 2. I den forbindelse bedes der redegøres nærmere for advokatforbeholdet og undtagelserne for dækning på ejerskifteforsikringen.
 
+---
+
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-**Video: Sådan sikrer du din hushandel**
+## Video om sådan sikrer du din hushandel
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Hvad er det bedste lån?**
+## Video om hvad er det bedste lån?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hH5T-cIhfSY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Råd fra førstegangskøbere**
+## Video om råd fra førstegangskøbere
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/kUx-iNg3tPk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

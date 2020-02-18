@@ -27,7 +27,7 @@ om aktie- og anpartsselskaber og **erhvervsvirksomhedsloven** (LEV), jf. Lovbeke
 
 ---
 
-**Video: Selskabsformer - hvilken selskabsform skal man vælge?**
+## Video: Selskabsformer - hvilken selskabsform skal man vælge?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hJsMkMGjhyg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -146,7 +146,7 @@ Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsd
 
 ---
 
-<h3>Video: Opstart af virksomhed og valg af virksomhedsformer</h3>
+## Video om opstart af virksomhed og valg af virksomhedsformer
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/UTLgb0phl28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -297,7 +297,7 @@ Om *advokatselskaber og advokatholdingselskaber* henvises til Bekendtgørelse nr
 
 ---
 
-**Video: Hvad er et holdingselskab?**
+## Video Hvad er et holdingselskab?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/XIQuq979kfg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
 
@@ -399,7 +399,7 @@ Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpa
 
 ---
 
-<h3>Video: Indgåelse af en ejeraftale</h3>
+## Video om indgåelse af en ejeraftale
  
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7ZWXsGAW2ho" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -508,7 +508,9 @@ Ivar mener, at der er indgået en aftale om køb af sofaen, hvilket Lonnie dog n
 
 6.	Tag stilling til, om der er indgået en bindende aftale mellem Ivar og Lonnie.
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -655,14 +657,14 @@ Kommanditist: Hæfter begrænset for virksomhedens forpligtelser og kommanditist
 
 ---
 
-**Video-SKAT og et K/S investering**
+## Video om SKAT og et K/S investering
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-WQOQFPIsL0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Kommanditselskab (engelsk)**
+## Video om Kommanditselskab (engelsk)
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/gHkN4-3GZm8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -733,7 +735,7 @@ Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte
 
 ---
 
-**Video: Hvilket selskab skal jeg vælge?**
+## Video Hvilket selskab skal jeg vælge?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/CoL6olkOPKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

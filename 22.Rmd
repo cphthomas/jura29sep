@@ -42,7 +42,7 @@ Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighe
 
 ---
 
-**Video: Rundvisning i Finanstilsynet**
+## Video om rundvisning i Finanstilsynet*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/F0yv4eVfaxg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1791,7 +1791,7 @@ Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for �
 
 ---
 
-**Video: Hvad er "Best Execution"?**
+##Video Hvad er "Best Execution"?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hNMi-bqPvvM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2446,7 +2446,7 @@ Blockchain er særligt interessant for den finansielle industri, da det er tekno
 
 ---
 
-**Video: What is Blockchain**
+## Video: What is Blockchain
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/93E_GzvpMA0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2473,20 +2473,20 @@ Denne proces foretages i stedet af parterne selv, og de mange personer, som før
 
 ---
 
-**Video: What is Bitcoin?**
+## Video: What is Bitcoin?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/2X9eJF1nLiY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Bitcoin Explained Simply for Dummies**
+## Video: Bitcoin Explained Simply for Dummies
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/41JCpzvnn_0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: How Does Bitcoin Work?**
+## Video: How Does Bitcoin Work?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/L-Qhv8kLESY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2768,7 +2768,7 @@ Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alen
 
 ---
 
-**Video: FT Lab åbner**
+## Video: FT Lab åbner
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WHsjqJ6uJgE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

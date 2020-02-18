@@ -42,7 +42,7 @@ indeks <<- data.frame(BEGREB,forklaring)
 ---
 
 
-**Kapitel 1 om retsstaten skal kun læses i hovedtræk** 
+**Kapitel 1 om retsstaten skal kun læses i hovedtræk. Emnet bliver behandlet i "Erhvervsjura" kap. 2** 
 
 ---
 
@@ -66,32 +66,32 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
  
 ---
 
-**Video om den danske grundlov**
+## Video om den danske grundlov
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/nRkpUt8juz0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
 
 ---
 
-**Video: Grundloven 1849**
+## Video om grundloven fra 1849
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/D2-6UfvUNOU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Blev Danmark egentlig demokratisk med vedtagelsen af Grundloven i 1849?**
+## Video omhvordan Danmark egentlig blev demokratisk med vedtagelsen af grundloven i 1849?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/0Xo-6zo9oP8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Grundlovens tilblivelse**
+## Video om grundlovens tilblivelse
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WoDxgUO_K-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Grundlovsændringen i 1915: Historien om de 7 F'er**
+## Video om grundlovsændringen i 1915: Historien om de 7 F'er
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/fz71wkiH4ig" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -147,7 +147,7 @@ Og sproget i mange af paragrafferne er ikke blevet moderniseret siden.
 
 ---
 
-**Video: Dit Demokrati | Hvem må stemme?**
+## Video om dit Demokrati | Hvem må stemme?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/l5iRg-JX5J4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -257,7 +257,7 @@ I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov
 
 ---
 
-**Video: Retsstaten - Hvad betyder retssikkerhed?**
+## Video om retsstaten - Hvad betyder retssikkerhed?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/SLywBhN18zM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -315,7 +315,7 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 
 ---
 
-**Video: Dit Demokrati | Finansloven**
+## Video om dit Demokrati | Finansloven
 
 div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -367,13 +367,13 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 ---
 
-**Video: Lovgivningsprocessen i praksis**
+## Video om lovgivningsprocessen i praksis
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xQ89AVrmL-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video:Dit Demokrati | Fra idé til lov**
+## Video om dit Demokrati | Fra idé til lov
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -666,7 +666,7 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 ---
 
-**Video: historien om de danske domstole og retssystemet**
+## Video om historien om de danske domstole og retssystemet
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -735,7 +735,7 @@ Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, op
 
 ---
 
-**Video om en civil retsssag**
+## Video om en civil retsssag
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ZhrbIIppfyE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -753,7 +753,7 @@ Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her s
 
 ---
 
-**Videoer: Domstolsstyrelsen "Kend din ret" om straffesager**
+## Videoer "Kend din ret" om straffesager
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/hzh_nfGbQCI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -763,21 +763,21 @@ Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her s
 
 ---
 
-**Video: En film om gadevold - retsspil**
+## Video om gadevold - retsspil
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ydMjwDvjMVI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Når du skal i retten**
+## Video om når du skal i retten
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Rettens arbejde - Vidnets rolle i en straffesag ved byretten**
+## Video om rettens arbejde - Vidnets rolle i en straffesag ved byretten
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/VrT97zQkas4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -963,13 +963,13 @@ Det gælder fx, hvis sagen er af principiel betydning, eller sagen kan få væse
 
 ---
 
-**Video: hvordan fungerer byretten?**
+## Video om hvordan fungerer byretten
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vtR3p-7IItk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: en sag kommer på tværs**
+## Video, hvor en sag kommer på tværs
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7WNie-cX1jw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1307,7 +1307,7 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 ---
 
-**Video: Retsmægling for virksomheder**
+## Video om retsmægling for virksomheder
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JE83bKdqcpg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

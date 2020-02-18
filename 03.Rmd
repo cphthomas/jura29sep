@@ -39,14 +39,14 @@ Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltperson
 
 ---
 
-**Video:Hvorfor har man EU-Domstolen?**
+## <font color="red">Video om hvorfor har man EU-Domstolen<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DyrbzzOvOqc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Hvad gøre EU-Domstolen for mig?**
+## <font color="red">Video om hvad gøre EU-Domstolen for mig<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/-hcvoCa4JD0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -125,7 +125,7 @@ Hvis du mener, at myndighederne i et medlemsland har overtrådt EU-reglerne, ska
 
 ---
 
-**Video: Hvordan Domstolen fungerer – i grundlæggende træk**
+## <font color="red">Video om hvordan Domstolen fungerer – i grundlæggende træk<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/M3LPCK1eWBs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -578,7 +578,7 @@ Domstolen nåede til det resultat (**BECTU-dommen**, 2001), at retten til betalt
 
 ---
 
-**Video: EU-Domstolen om ligebehandling og beskyttelse af mindretals rettigheder**
+## <font color="red">Video - EU-Domstolen om ligebehandling og beskyttelse af mindretals rettigheder<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5RnA4C4MbsU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

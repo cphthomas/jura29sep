@@ -15,6 +15,8 @@ Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lad
 
 ---
 
+
+
 Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftaleloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
@@ -244,11 +246,15 @@ Fuldmagtsgiver er bundet af de aftaler, fuldmægtigen indgår med tredjemand i s
 
 *God tro*: Hvis det vurderes at tredjemand ikke indså eller burde have indset, at fuldmægtigen indgik en aftale, der lå uden for vedkommendes beføjelser (den interne instruks).
 
+---
+
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for legitimationen (stillingsfuldmagtens sædvanlige grænser).
 
 Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån, uden at lånet bliver forrentet og uden stiftelsesomkostninger.
 
 Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. 
+
+---
 
 Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 
@@ -268,11 +274,15 @@ Selv om salgschefens stillingsfuldmagt generelt er mere omfattende end værkfør
 
 Sædvanens betydning er mange gange større end aftalelovens, når det gælder stillingsfuldmagt, men det er i sagens natur mindre sikkert, hvad der er sædvanligt, end hvad der står i loven. 
 
+---
+
 Efter almindelige bevisbyrderegler må den, der hævder, at der foreligger en fuldmagt, formentlig skulle godtgøre dennes rækkevidde, men da fuldmagtsgiver normalt er den, der sidder inde med oplysninger om stillingsbeskrivelsen, branchen, virksomheden og dens organisation og praksis, må fuldmagtsgiver være undergivet en betydelig forpligtelse til at bidrage til sagens oplysning. 
 
 ---
 
 Domstolene må antages i hovedsagen at anse spørgsmålet om fuldmagtens rækkevidde som et retsspørgsmål, som det tilkommer domstolene at afgøre, jf maksimen *jura novit curia* (retten kender retsreglerne og ved, hvordan de anvendes, og gør det *ex officio*; af egen drift), og ikke som et spørgsmål om faktum, som det påhviler den ene part at føre bevis for.
+
+---
 
 Stillingsfuldmagtens grænser afhænger i første række af, hvilken stilling der er tale om, idet sædvanerne for forskellige stillinger er forskellige. 
 
@@ -394,7 +404,7 @@ En tilbagekaldelse får virkning, når den er kommet frem – behøver ikke at k
 
 ---
 
-**Video: Aftalelovens § 19 tilbagekaldelse af fuldmagt**
+## Video om aftalelovens § 19 tilbagekaldelse af fuldmagt
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -455,7 +465,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 
 ---
 
-**Video: Erstatning efter aftalelovens § 25**
+## Video om erstatning efter aftalelovens § 25
 *Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -508,7 +518,7 @@ Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for kø
 
 ---
 
-**Video om fuldmagtens grænser**
+## Video om fuldmagtens grænser
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -552,11 +562,13 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 2. Er jem og fix bundet af de aftaler som Kim har indgået med Andreas?
 
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-**Video: Sådan laver du selv en Fuldmagt**
+## Video om sådan laver du selv en Fuldmagt**
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/oeIre44pjQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

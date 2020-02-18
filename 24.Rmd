@@ -12,7 +12,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Video: Hvem arver fra dig?**
+## Video om hvem arver fra dig?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ikBxcxBSBb8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -58,12 +58,15 @@ Endvidere er indført en adgang for arvelader til at begrænse en livsarvings tv
 Dette indebærer, at det bl.a. bliver lettere at ligestille sammenbragte børn i arveretlig henseende, og at gennemførelsen af generationsskifter af erhvervsvirksomheder lettes.  
 
 Herudover giver arveloven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et udvidet samlevertestamente). 
+---
 
 I sammenhæng med revisionen af arveloven er der blevet gennemført en række ændringer i *"forsikringsaftalelovens og pensionsopsparingslovens"* regler om indsættelse af begunstigede.  
 
 De aktiver og passiver, som en afdød efterlader sig, kaldes et dødsbo. Afviklingen af dødsboet mellem arvinger og kreditorer kaldes et skifte. 
 
 De arveretlige regler i arveloven fastlægger, hvem der er arvinger, og hvor meget og hvad den enkelte arving skal arve af det, der er i behold i boet. 
+
+---
 
 Efterlader afdøde sig ingen gæld, men alene aktiver, og ses der bort fra de forskellige regler om arveafgift (se boafgift og gaveafgift) mv., bliver det de arveretlige regler, der afgør, hvem arvebeholdningen, dvs. boets formue, skal tilfalde. 
 
@@ -79,6 +82,8 @@ Bevis for arveladerens død vil i almindelighed let kunne føres ved fremlæggel
 
 Hvis en sådan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er død eller må anses for død (såkaldt dødsformodningsdom).  
 
+---
+
 Beviset for, at arvingen har overlevet den afdøde, kan give vanskeligheder i visse tilfælde. 
 
 Er der ikke vished for, at en bortebleven person har overlevet afdøde, afsættes kun arv til den pågældende, hvis der er nogen sandsynlighed for, at han/hun er i live. 
@@ -86,6 +91,8 @@ Er der ikke vished for, at en bortebleven person har overlevet afdøde, afsætte
 Er der vished for, at arvingen har overlevet afdøde, afsættes derimod arvelod, uanset om arvingens opholdssted måtte være ukendt.  
 
 Hvis to personer, som havde arveret efter hinanden, er døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden. 
+
+---
 
 Reglen har praktisk betydning fx ved trafikulykker, hvor ægtefæller omkommer. 
 
@@ -104,6 +111,8 @@ Der gælder særregler, når arveladerens efterlevende ægtefælle overtager et 
 Et *"uskiftet bo"* er	en ægtefælles overtagelse af fællesboet uden skifte med førstafdødes livsarvinger.
 
 Sammenlevende person, som ikke er gift, kan ikke sidde i uskiftet bo.
+
+---
 
 Et *"successivt skifte af uskiftet bo"* er	udtryk for, at den længstlevende skifter med enkelte af førstafdødes livsarvinger, fx førstafdødes særbørn, efterhånden som disse bliver myndige.
 
@@ -228,8 +237,6 @@ Lever begge arveladerens forældre, arver de hver halvdelen, hvis arvelader ikke
 
 ### Arveklasse 3
 
-
-
 Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. 
 
 Arven fordeles med halvdelen til moderens forældre og halvdelen til faderens forældre. 
@@ -269,7 +276,7 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 ---
 
-**Video: Sådan fordeles arven**
+## Video om sådan fordeles arven
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/EIgZkPOF0_E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -301,19 +308,19 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ---
 
-**Video: Fordeling af arv: Ugift par uden børn**
+## Video om fordeling af arv: Ugift par uden børn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/qYf2gatfAWQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Fordeling af arv: Ugift par med fælles børn**
+## Video om fordeling af arv: Ugift par med fælles børn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cDriXFDNg30" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Fordeling af arv: Ugift par med stedbørn**
+## Video om fordeling af arv: Ugift par med stedbørn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/x7WzAOJJNXQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -321,19 +328,19 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 
   
-**Video: Arv mellem sammenlevende**
+## Video om arv mellem sammenlevende
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WVec5BYeu34" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Fordeling af arv uden børn**
+## Video om fordeling af arv uden børn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/bNa7tt460bY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Fordeling af arv med fællesbørn**
+## Video om fordeling af arv med fællesbørn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TXaWe8-jz9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -341,14 +348,16 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 *"Stedbørn"* er	de børn, som ægtefællen har med andre - kaldes også særbørn eller særkuldbørn.
 
-**Video: Fordeling af arv: Ægtepar med stedbørn**
+---
+
+## Video om fordeling af arv: Ægtepar med stedbørn
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/MQ6i9G5NxUc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 
 ---
 
-**Video: Arv mellem ægtefæller**
+## Video om arv mellem ægtefæller
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/UtsI4IWmajI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -441,13 +450,13 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
-**Video: Styr på arven: Testamente eller ej?** 
+## Video om styr på arven: Testamente eller ej? 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/5MxSyf_Ah84" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Styr på arven: Fem gode råd om testamente** 
+## Video om styr på arven: Fem gode råd om testamente 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -464,13 +473,13 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 ---
 
  
-**Video: Hvordan opretter du et testamente?**
+## Video om hvordan opretter du et testamente?
 /
 <div class="video-container"><iframe src="https://www.youtube.com/embed/TcZb7VCClcQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video:Styr på arven: Hvem får pensionen?** 
+## Video om styr på arven: Hvem får pensionen? 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/F6Yourieo0Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -541,7 +550,7 @@ Et *"uigenkaldeligt testamente"* er et	testamente, som ikke kan tilbagekaldes. U
 
 ---
 
-**Video: Hvorfor skrive et testamente?**
+## Video om hvorfor skrive et testamente?
 
 **https://jyskebank.tv/hvorfor-lave-et-testamente**
 
@@ -593,11 +602,15 @@ Hent forsiden her:
 
 http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Forside%20til%20testamente.pdf
 
+---
+
 Det anbefales, at blanketten udfyldes på pc.
 
 Testamentet er gyldigt fra det øjeblik, man har underskrevet det hos notaren.
 
 Når notaren har påtegnet testamentet, vil man eller ens advokat få det originale testamente udleveret med en påtegning om, at man har underskrevet testamentet i notarens påsyn, og at notaren har skønnet, at man fornuftsmæssigt var i stand til at oprette testamente. 
+
+---
 
 Man bør opbevare testamentet et sted, hvor det er nemt at finde. 
 
@@ -607,9 +620,13 @@ Retten opbevarer en kopi af testamentet og sørger for at oprettelsen indberette
 
 Dette sikrer, at skifteretten får besked om testamentet efter ens død.
 
+---
+
 Hvis man har oprettet et testamente hos notaren, skal man også henvende sig til notaren, hvis man vil tilbagekalde eller ændre det. 
 
 Ændring og tilbagekaldelse skal ske ved, at man opretter et nyt testamente, hvori det tidligere testamente bliver tilbagekaldt eller ændret. 
+
+---
 
 Notaren rådgiver ikke om formuleringen af et testamente. 
 
@@ -659,6 +676,8 @@ Et vidnetestamente er et testamente, der underskrives under tilstedeværelse af 
 
 I den tilhørende vidnepåtegning skal vidnerne skrive under på, at de sammen har overværet underskrivelsen af testamentet samt at testator var fornuftsmæssig i stand til at råde over sin formue ved testamente.
 
+---
+
 To vitterlighedsvidner, som ikke selv må være begunstiget i testamentet.
 
 Vidnerne kontrollerer testators underskrift, fornuft mv.
@@ -673,6 +692,8 @@ Vidnerne kontrollerer testators underskrift, fornuft mv.
 
 * Der i øvrigt foreligger omstændigheder, som er egnede til at vække tvivl om den pågældendes habilitet.
 
+---
+
 Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid med AL § 64, stk. 3, nr. 1-3, er testamentet således anfægteligt. 
 
 Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
@@ -680,7 +701,7 @@ Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 ---
 
-**Video: Hvad er et vitterlighedsvidne**
+## Video om hvad er et vitterlighedsvidne
 
 **https://dokument24.dk/info/vitterlighedsvidne**
 
@@ -721,23 +742,23 @@ Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslut
 
 ---
 
-**U.2019.1526 V** Testamente oprettet på dødslejet med begunstigelse af samleverske opfyldte betingelserne i arvelovens § 65 for nødtestamente:
+Se dommen i **U.2019.1526 V** Testamente oprettet på dødslejet med begunstigelse af samleverske opfyldte betingelserne i arvelovens § 65 for nødtestamente:
 "A, født 1938, afgik ved døden den 2. juni 2016, efter en ellers kureret kræftsygdom var vendt tilbage. A havde efter en skilsmisse siden 1984 boet sammen med S, født 1953. I slutningen af maj 2016 var det klart, at A var i den terminale fase. S havde den 23. maj 2016 ringet til en advokat, P, og bedt ham komme ud på bopælen. P, der ikke kendte A og S, kom ud til dem den 2. juni 2016 om formiddagen, og P fik at vide af en sygeplejerske, at A var i stand til at oprette testamente, men at det hastede. Der blev herefter oprettet et håndskrevet nødtestamente, hvoraf fremgik, at S skulle arve på lige fod med A’s tre børn således, at de hver især skulle arve ¼, og A underskrev testamentet. Dødsboet blev behandlet af en bobestyrer, og A’s tre børn (B1, B2, og B3) bestred, at testamentet kunne danne grundlag for skiftet. S anlagde sag mod B1, B2 og B3 med påstand om, at de skulle anerkende testamentet, idet betingelserne i arvelovens § 65 for at oprette nødtestamente havde været opfyldt. B1, B2 og B3 gjorde til støtte for frifindelsespåstanden bl.a. gældende, at S ikke havde bevist, at A havde været forhindret i at oprette et ordinært testamente, herunder et vidnetestamente, og at det var uden betydning, om testamentet var udtryk for A’s ønske. Skifteretten gav S medhold, og B1, B2 og B3 ankede dommen. Landsretten stadfæstede dommen, idet landsretten efter bevisførelsen lagde til grund, at A havde været meget afkræftet i dagene op til den 2. juni 2016, men at denne omstændighed ikke udelukkede, at han fornuftsmæssigt havde været i stand til at råde over sine ejendele på oprettelsestidspunktet. P havde forklaret, at A efter hans opfattelse var testamentshabil den 2. juni. Det kunne endvidere lægges til grund, at testamentet var udtryk for A’s vilje. S havde herefter bevisbyrden for, at A havde været forhindret i at oprette et notar- eller vidnetestamente, og denne bevisbyrde havde S løftet. Efter oplysningerne om A’s tilstand den 2. juni 2016, og da P ikke, da han kom ud på bopælen, var klar over, at testamentesoprettelsen var presserende, således at han skulle have sørget for at få en notar med, og da der ikke kunne stilles krav om, at P eller S skulle have sørget for at finde et vidne, havde betingelserne i arvelovens § 65 for at oprette et nødtestamente været opfyldt". Se hele dommen er:
 **https://pro.karnovgroup.dk/document/7000834350/1**
 
 ---
 
-**U 1970.10 H** Holografisk testamente oprettet før selvmord blev anset for et gyldigt nødtestamente:
+Se dommen i **U 1970.10 H** Holografisk testamente oprettet før selvmord blev anset for et gyldigt nødtestamente:
 "En 70-årig kvinde T, der var deprimeret efter en separation, tog livet af sig. I boet fandtes et af skrevet og underskrevet testamente til fordel for en broder og dennes hustru. Et tidligere oprettet testamente til fordel for et legat var påskrevet »Annulleret«. Under en af T's øvrige søskende rejst sag antoges det, at T havde befundet sig i en nødsituation, jfr. arvelovens § 44, og at hun med føje havde anset sig for forhindret i at oprette testamente i overensstemmelse med de almindelige regler. Herefter opretholdes det holografiske testamente". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000213771/1**
 
 ---
 
-**U 1979.108 H** Dokument efterladt af afdød, som havde begået selvmord, anerkendt som nødtestamente:
+Se dommen i **U 1979.108 H** Dokument efterladt af afdød, som havde begået selvmord, anerkendt som nødtestamente:
 "A, som fra et tidligere ægteskab havde en søn, og som samlevede med B, begik selvmord og efterlod sig et af ham udfærdiget udateret dokument, der var anbragt i B's curlerpose og stilet til hende, og hvori det bl. a. hed: »Alt hvad der er, må du få« Efter det foreliggende lagdes det til grund, at A havde anbragt dokumentet i curlerposen den 12 eller 13 oktober, og det fandtes overvejende sandsynligt, af han efter at have forladt hjemmet den 13 oktober havde begået selvmord samme dag. Det lagdes herefter endvidere til grund, at A havde besluttet sig for selvmord, da han anbragte dokumentet i curlerposen, og at han da han havde befundet sig i en nødsituation som nævnt i arve lovens § 44 Dokumentet blev derfor trods indsigelse fra A's søn lagt til grund for skiftet efter A som en gyldig testamentarisk disposition vedrørende den testationsfri halvdel af A's bo". Se hele dommen **https://pro.karnovgroup.dk/document/7000208197/1**
 
 ---
 
-**U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ikke var ude af stand til at råde fornuftsmæssigt:
+Se dommen i **U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ikke var ude af stand til at råde fornuftsmæssigt:
 "T, der var født i 1930, blev i 1985 skilt fra sin ægtefælle, med hvem han havde en datter B. I 1988 flyttede han sammen med A, og efter at han havde været indlagt på hospital, psykiatrisk afdeling, oprettede han i 1990 et notartestamente, hvorefter A forlods skulle arve 10 % af hans likvide formue, mens B skulle være hans hovedarving. Ved et notartestamente i 1994 bestemte T, hvordan nærmere bestemte genstande skulle fordeles, mens B skulle arve resten. Den 5. september 1994 opregnede T en række genstandslegater, og den 26. november 1995 begik T selvmord. I et brev til en bekendt, dateret samme dag, udtalte T, at A uanset hans testamente skulle arve alt, hvad hun ønskede, før B. Der var ikke grundlag for at antage, at T, der havde skrevet brevet efter sin beslutning om at begå selvmord, i almindelighed eller ved den testamentariske disposition til fordel for A havde manglet evnen til at handle fornuftsmæssigt. A fik derfor medhold i, at hun skulle arve mest muligt". Se hele dommen her:
 **https://pro.karnovgroup.dk/document/7000196579/1**
 
@@ -752,6 +773,8 @@ Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslut
 *"Udvidet samlevertestamente"* er en	betegnelse for et testamente mellem ugifte samlevende, hvor de bestemmer, at de skal arve hinanden og arves, som om de var ægtefæller, jf. AL § 87. 
 
 For gyldigt at oprette et sådant testamente skal parterne opfylde betingelserne for at kunne indgå ægteskab med hinanden. 
+
+---
 
 Et udvidet samlevertestamente kan derfor ikke oprettes af søskende eller andre personer, der er beslægtet i op- og nedstigende linje. 
 
@@ -793,13 +816,13 @@ Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
 
 ---
 
-**Video: Udvidet samlevertestamente**
+## Video om udvidet samlevertestamente
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/0Ss86d4klSw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-###Indbotestamente	
+### Indbotestamente	
 
 Testamentarisk bestemmelse om, hvem der skal arve sædvanligt indbo og personlige effekter. 
 
@@ -829,9 +852,9 @@ Vi skal også lige se på andre former for testamenter:
 
 ---
 
-### Andre former for testamenter
+## Andre former for testamenter
 
-#### Begravelsestestamente
+### Begravelsestestamente
 
 "Begravelsestestamente" er	en erklæring om, hvilken type begravelse, man ønsker (religiøs eller ikke religiøs, ligbrænding eller jordfæstelse). 
 
@@ -843,7 +866,7 @@ Bedemænd udleverer gratis folderen ”Min Sidste Vilje,” hvor alle ønsker ti
 
 ---
 
-#### Børnetestamente
+### Børnetestamente
 
 Et "børnetestamente" er en tilkendegivelse om, hvem der skal have forældremyndigheden, hvis forældrene dør. Kræver ikke testamentsform.
 
@@ -880,7 +903,7 @@ Når det er underskrevet for notaren, opbevares det i et centralt arkiv og komme
 
 ---
 
-#### Behandlingstestamente
+### Behandlingstestamente
 
 Med et *"behandlingstestamente"* kan man sikre, at lægerne følger ens ønsker til behandling, hvis man ikke selv er i stand til at give besked. 
 
@@ -924,7 +947,7 @@ Det er alene muligt at registrere for de situationer, hvor man ikke er uafvendel
 
 ---
 
-####Fremtidsfuldmægtig
+### Fremtidsfuldmægtig
 
 Man kan oprette en *"fremtidsfuldmagt"*, som sættes i kraft, hvis man bliver syg eller svækket og mister evnen til at tage vare på sine personlige forhold. 
 
@@ -938,7 +961,7 @@ Når man fylder 18 år, skal ens NemID fornyes, for at man kan registrere sit be
 
 ---
 
-#### Plejetestamente
+### Plejetestamente
 
 *"Plejetestamente"*	i et plejetestamente kan man give udtryk for, hvordan man ønsker, at et plejehjem skal varetage omsorgen for en, hvis man mister åndsevnerne (fx bliver dement). 
 
@@ -952,7 +975,7 @@ Myndigheder og plejepersonale bruger det som vejledning og skal så vidt muligt 
 
 ---
 
-#### Donortestamente
+### Donortestamente
 
 I et *"donortestamente"* tager man stilling til, om organer må fjernes og anvendes, efter at man er erklæret hjernedød. Man kan både give tilladelse og nedlægge forbud, lige som man kan donere udvalgte organer eller dem alle. 
 
@@ -967,7 +990,6 @@ Spørgsmål og svar om organdonation:
 
 ---
 
-####
 
 ## Fradømmelse af arveretten
 
@@ -1068,7 +1090,9 @@ Det forhold, at en gave er omfattet af reglen om afgiftsfritagelse i boafgiftslo
 
 Der stilles efter bestemmelsen i arvelovens § 93, stk. 2 ingen nærmere krav til gavens art, og penge kan således også anses for en sædvanlig gave. 
 
-Ved bedømmelsen af, om der er tale om en sædvanlig gave, må der bl.a. ses på giverens indkomst- og formueforhold på gavetidspunktet, samt på, hvad der tidligere er givet som gave, og om værdien står i misforhold til giverens kår. 
+Ved bedømmelsen af, om der er tale om en sædvanlig gave, må der bl.a. ses på giverens indkomst- og formueforhold på gavetidspunktet, samt på, hvad der tidligere er givet som gave, og om værdien står i misforhold til giverens kår.
+
+---
 
 
 Fx vil det forhold, at en døende person betænker sit barnebarn med en konfirmationsgave på 10.000 kr., iflg. motiverne (forarbejderne) til arveloven ikke kræve, at der oprettes testamente, hvis også øvrige børnebørn eller andre slægtninge er blevet betænkt med en lignende gave. 
@@ -1079,7 +1103,7 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 ---
 
 
-**Video: Webseminar om Arv, testamenter og pensioner**
+## Video Webseminar om Arv, testamenter og pensioner
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/exm1sAFp0dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1170,7 +1194,7 @@ Man kan ikke få boet udleveret til uskiftet bo, hvis:
 
 ---
 
-**Video: Styr på arven: Uskiftet bo kan blive dyrt** 
+## Video få styr på arven: Uskiftet bo kan blive dyrt 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Fuag5hpZ9Ik" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1248,7 +1272,7 @@ Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skat
 
 ---
 
-**Video: Hvad koster det at arve?**
+## Video Hvad koster det at arve?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/Va5cNkBjT_M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1309,13 +1333,13 @@ Man kan klage over skifterettens afgørelser til landsretten.
 
 ---
 
-**Video: Styr på arven: Undgå spærret konto ved død**
+## Video få styr på arven: Undgå spærret konto ved død
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/_TmFA4SLd0U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Undgå famliestrid**
+## Video om at Undgå famliestrid
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/yr6A6wguEA8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

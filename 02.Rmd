@@ -6,7 +6,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Kapitel 2 skal kun læses i hovedtræk. E,mnet bliver behandlet i "Erhvervsjura" kap. 1** 
+**Kapitel 2 skal kun læses i hovedtræk. Emnet bliver behandlet i "Erhvervsjura" kap. 1** 
 
 
 
@@ -344,19 +344,19 @@ Mens lovene udformes, afgiver udvalgene udtalelser fra deres særlige regionale 
 
 ---
 
-**Video: EU institutioner**
+## Video om EU institutioner
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/3GRtTKpMyVM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Dit Demokrati | Hvad bestemmer EU?**
+## Video om dit Demokrati | Hvad bestemmer EU
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/7y0IJQHlEEY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Dit Demokrati | Hvem må være med i EU?**
+## Video om dit Demokrati | Hvem må være med i EU
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/ED7rPDtZkPM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

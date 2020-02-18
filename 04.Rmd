@@ -7,7 +7,7 @@ cat(readLines('np.html'))
 ![](img/aftale.jpg)
 
 
-Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, se aftaleloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -15,7 +15,8 @@ Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 
 
 ---
 
-**Video: Introduktion til aftaleretten**
+## Video om en introduktion til aftaleretten
+*Udarbejdet af Advokatpartnerskabet Horten*
 
 
 
@@ -38,9 +39,9 @@ Aftaleretten er reguleret af **aftaleloven**, jf. Lovbekendtgørelse 2016-03-02 
 
 • *Falsk/forfalskning*
 
-• *Urimelighed* - §§ 38c, jf. 36
+• *Urimelighed* - aftalelovens §§ 38c, jf. 36, om rimelige aftaler som kan tilsidesættes
 
-• *Fuldmagtstyper* (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens §§ 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23
+• *Fuldmagtstyper* (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens §§ 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23. Se gennemgangen af fuldmagtsreglerne i næste kapitel.
 
 
 ---
@@ -101,7 +102,9 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 Hovedreglen er, at der er aftalefrihed – vi kan frit aftale, hvad vi vil.
 
-Undtagelse (U1): Begrænsninger i præceptive lovregler.  
+Undtagelse (U1): Begrænsninger i præceptive lovregler. 
+
+---
 
 Se fx:
 
@@ -109,9 +112,11 @@ Se fx:
 
 +	Forbrugeraftalelovens regler om fortrydelsesret.
       
-U2: Urimelige aftaler, aftalelovens §§ 38c, jf. 36
+U2: Urimelige aftaler, aftalelovens §§ 38 c, jf. 36
 
 U3: "En aftale bliver også ugyldig, hvis den strider mod "lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
+
+---
 
 Fx et løfte om at ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fartbøder eller, at retssystemet skulle håndhæve mangler i forbindelse med udførelsen af sort arbejde. 
 
@@ -139,9 +144,12 @@ Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftaleloven
 ---
 
 Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. Danske Lov 5-1-1:
+
 "Een hver er pligtig at efterkomme hvis hand med mund, haand og sejl, lovet og indgaaet haver".
 
-Se Danske lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Se Danske Lov i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+
+---
 
 Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
 
@@ -152,6 +160,8 @@ Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrde
 ---
 
 Kontrakten er skriftlig, og den kan håndhæves i retssystemet. 
+
+---
 
 Latinsk udtryk i en aftale: "clausula rebus sic stantibus": klausul om, at aftalen kun er gældende, hvis forholdene ikke ændrer sig.
 
@@ -273,21 +283,33 @@ til at erstatte løftemodtagerens økonomiske interesse i løftets opfyldelse, d
 
 Positiv opfyldelsesinteresse	er en erstatning, der stiller den anden part, som om aftalen var blevet opfyldt efter sit indhold. Giver i modsætning til negativ kontraktsinteresse dækning for den tabte fortjeneste.
 
+---
+
 
 *"Tilbud":* Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
 
 fx et løfte om at levere en vare eller tjenesteydelse til en bestemt pris og et bestemt sted på et bestemt tidspunkt.
 
+---
+
 
 *"Accept"*: En erklæring, som har karakter af antagende svar på tilbud. 
 
+---
+
 Et *"svar"*, hvori man siger ja til et tilbud. 
 
+---
+
 *"Accepten"* er både et løfte, der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. 
+
+---
 
 *"Kommet frem":* Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
 
 Et brev er kommet frem, når det er kommet så vidt, at modtageren kan gøre sig bekendt med indholdet ved handlinger, som han eller hun efter almindelig skik og brug eller særlig tilkendegivelse bør foretage. Det er uden betydning, om modtageren rent faktisk læser brevet.
+
+---
 
 *Kommet til kundskab:* Det øjeblik, modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst indholdet. 
 
@@ -306,7 +328,7 @@ Hvis en erhvervsdrivende i overensstemmelse med aftalelovens § 9 vil fravige de
 
 Se fra retspraksis:
 
-Se dommen i **U 2003.907 V** (U: Ugeskrift for Retsvæsen). Hvor en annoncering af en brugt bil på internettet  alene var opfordring til at gøre tilbud: "S havde på en hjemmeside på internettet annonceret en brugt bil til salg til en pris af 119.900 kr. Den rigtige pris var imidlertid 349.900 kr. A, der efter at have set annoncen, havde ringet og skrevet til S vedrørende bilen, anlagde retssag mod S med påstand om betaling af 230.000 kr., under anbringende af at S havde pådraget sig erstatningsansvar. Landsretten fandt, at annonceringen af den brugte bil på internettet i det foreliggende tilfælde alene kunne anses som en opfordring til at gøre tilbud. Da S straks ved A's telefoniske henvendelse havde gjort A bekendt med den fejlagtigt angivne pris, var der således ikke indgået nogen aftale om køb af bilen, og S blev frifundet for A's krav om erstatning". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000263053/1**
+Se dommen i **U 2003.907 V** (U: Ugeskrift for Retsvæsen). Hvor en annoncering af en brugt bil på internettet alene var opfordring til at gøre tilbud: Se hele dommen her: **https://pro.karnovgroup.dk/document/7000263053/1**
 
 ---
 
@@ -345,7 +367,7 @@ Resultat: Der er indgået en juridisk bindende aftale mellem parterne.
 
 ---
 
-**Video: Om aftalemodellen**
+## Video om aftalemodellen
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/DvV2yhetl8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -354,8 +376,8 @@ Resultat: Der er indgået en juridisk bindende aftale mellem parterne.
 
 ---
 
-**Video: Om aftalers indgåelse**
-*Udarbejdet af Horten Advokatpartnerskab*
+## Video om aftalers indgåelse
+
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/WbgTUpCLz00" width="853" height="480" frameborder="0"allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -437,8 +459,6 @@ Hvis tilbuddet afslås af tilbudsmodtager, bortfalder tilbuddet og kan ikke acce
 
 *Afslaget kan tilbagekaldes*, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7.
 
-
-    
 ---
 
 Undtagelser: *"Opfordring til tilbud"*, jf. aftalelovens § 9:
@@ -457,7 +477,7 @@ Se dommen i **U 2002.631 V** Sælgers direktørs notering af kundes ønske om k�
     
 ---
 
-**Video: Tilbud contra opfordring til tilbud**
+## Video om tilbud contra opfordring til tilbud
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -483,7 +503,7 @@ Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer ti
 
 ---
 
-**Video: Afslag**
+## Video om afslag
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -512,9 +532,21 @@ Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
 
 Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1. Den såkaldte »legale acceptfrist«. 
 
-Den legale acceptfrist er sammensat af tre bestanddele nemlig (1) den påregnelige fremsendelsestid for tilbuddet + (2) en rimelig betænkningstid + (3) den påregnelige fremsendelsestid for accepten. 
+---
+
+Den legale acceptfrist er sammensat af tre bestanddele nemlig 
+
+(1) den påregnelige fremsendelsestid for tilbuddet + 
+
+(2) en rimelig betænkningstid + 
+
+(3) den påregnelige fremsendelsestid for accepten. 
+
+---
 
 *Mundtlige tilbud* skal accepteres straks, jf. aftalelovens § 3, stk. 2.
+
+---
 
 Når acceptfristen er udløbet, falder tilbuddet bort. Ved for sen accept er der derfor ingen aftale, men accepten bliver til et nyt tilbud, jf. aftalelovens § 4, stk. 1.
 
@@ -524,7 +556,11 @@ Når acceptfristen er udløbet, falder tilbuddet bort. Ved for sen accept er der
 
 Når tilbudsmodtager har læst eller hørt om tilbuddet, har tilbudsmodtager en frist til at overveje, om tilbudsmodtager vil acceptere, fx i form af en ordrebekræftelse.
 
+---
+
 Accepten er rettidig, hvis den er kommet frem til tilbudsgiver inden acceptfristens udløb, jf. aftalelovens § 2.
+
+---
 
 Hvis acceptfristen er angivet til 8 dage, regnes fristen fra tilbuddets datering.
 
@@ -567,7 +603,11 @@ HR: Aftalelovens § 4, stk. 1: Forsinket accept betragtes som et nyt tilbud, som
 
 U: Aftalelovens § 4, stk. 2: Accepten er OK, hvis tilbudsgiver må indse at acceptanten tror, at accepten er rettidig, fx hvis accept er sendt inden fristens udløb, men bliver forsinket hos postvæsen - tjek datostempel.
 
+---
+
 NB: Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal tilbudsgiver uden ugrundet ophold give acceptanten *meddelelse* om forsinkelsen, jf. aftalelovens § 40. 
+
+---
 
 Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal opfylde aftalen.
 
@@ -582,7 +622,7 @@ Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal
 
 ---
 
-**Video: Tilbagekaldelse efter aftalelovens § 40**
+## Video om tilbagekaldelse efter aftalelovens § 40
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -590,7 +630,7 @@ Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal
 
 ---
 
-**Video: For sen accept**
+## Video om for sen accept
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -599,7 +639,7 @@ Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal
 
 ---
 
-**Video: Rettidig accept**
+## Video om rettidig accept
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -607,7 +647,7 @@ Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal
 
 ---
 
-**Video: Om uoverensstemmende accept**
+## Video om uoverensstemmende accept
 *Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/xGnZFVV1H74" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -648,20 +688,20 @@ Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal s�
 
 *Se domspraksis vedrørende anvendelsen af aftalelovens § 39, 2. pkt.:* 
 
-**U 1929.1084 S**: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000239877/1**
+Se dommen i **U 1929.1084 S**: En sælger S modtog fra køberen K et brev om annullation af en ordre, men næste morgen modtog han telegram om, at brevet var bestemt til et andet firma. Skønt S ikke havde eller burde have indset, at der forelå en fejltagelse, fandtes brevet dog ikke bindende for K, da S ikke, inden fejltagelsen oplystes, havde foretaget andet end at bestemme sig til at levere varen til en anden kunde. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000239877/1**
 
 ---
 
-**U 1969.579 Ø** En køber, der telefonisk havde bestilt en vaskemaskine, indfandt sig fejlagtigt i en anden nærliggende forretning, hvor hun mod kvittering betalte for en vaskemaskine af den pågældende type. Da hun 4 dage senere opdagede fejlen, nægtede forretningen at tilbagebetale købesummen under påberåbelse af, at der var indgået en endelig handel. Det fandtes ikke godtgjort, at forretning nr. 2, da betalingen fandt sted, indså eller burde indse, at der forelå en fejltagelse, men da køberen havde reklameret tilstrækkeligt hurtigt, og da handelens indgåelse og tilbagekaldelse ikke havde påført forretningen arbejde eller udgift, fandtes aftalelovens § 39, 2. pkt., at måtte anvendes. Se link til hele dommen her:
+Se dommen i **U 1969.579 Ø** En køber, der telefonisk havde bestilt en vaskemaskine, indfandt sig fejlagtigt i en anden nærliggende forretning, hvor hun mod kvittering betalte for en vaskemaskine af den pågældende type. Da hun 4 dage senere opdagede fejlen, nægtede forretningen at tilbagebetale købesummen under påberåbelse af, at der var indgået en endelig handel. Det fandtes ikke godtgjort, at forretning nr. 2, da betalingen fandt sted, indså eller burde indse, at der forelå en fejltagelse, men da køberen havde reklameret tilstrækkeligt hurtigt, og da handelens indgåelse og tilbagekaldelse ikke havde påført forretningen arbejde eller udgift, fandtes aftalelovens § 39, 2. pkt., at måtte anvendes. Se link til hele dommen her:
 **https://pro.karnovgroup.dk/document/7000218873/1**
 
 ---
 
-**U 1989.561 H ** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangsauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000198607/1**
+Se dommen i **U 1989.561 H ** En annullation af en slutseddel, der var underskrevet under medvirken af en ejendomsmægler, om morgenen dagen efter købet tillagt retsvirkning efter princippet i aftalelovens § 39, 2. pkt., idet slutsedlen blev underskrevet umiddelbart efter den første besigtigelse af ejendommen, uden at ejendomsmægleren, der var klar over den vanskelige situation som køberen befandt sig i pga. forestående tvangsauktion over sit hus, forinden havde søgt klarlagt, om køberen havde økonomisk mulighed for at opfylde handelen. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000198607/1**
 
 ---
 
-**Video: Om tilbagekaldelse**
+## Video om tilbagekaldelse
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -677,9 +717,13 @@ Accepten skal være i overensstemmelse med tilbuddet – *som et spejlbillede*, 
 
 HR: Aftalelovens § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
 
-U: Aftalelovens § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok.  
+U: Aftalelovens § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok. 
+
+---
 
 NB: Hvis tilbudsgiver ikke vil være bundet af indholdet i den ”forkerte” accept, skal denne uden ugrundet ophold give acceptanten besked. 
+
+---
 
 Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal levere i henhold til indholdet af den uoverensstemmende accept.
 
@@ -741,7 +785,11 @@ Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at d
 
 
 
-3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge. 
+3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge.
+
+---
+
+**Podcast svar på eksamensopgaven**
 
 ---
 
@@ -809,6 +857,10 @@ Få uger senere erklæres Otterup Hundekennel imidlertid konkurs, og Lars glæde
 
 ---
 
+**Podcast svar på eksamensopgaven**
+
+---
+
 
 ## Aftaleindgåelse på internettet
 
@@ -831,7 +883,7 @@ Aftalelovens § 40 om, at *”give meddelelse”* omfatter også e-mails.
 
 ---
 
-**Video om køb på en hjemmeside på nettet**
+## Video om køb på en hjemmeside
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/l1rc2FBSjss" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -839,7 +891,7 @@ Aftalelovens § 40 om, at *”give meddelelse”* omfatter også e-mails.
 
 ---
 
-**Video: Hvad er e-mærket?**
+## Video om hvad er e-mærket
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/SGvg5W3JRzQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -946,7 +998,11 @@ Der skelnes mellem stærke og svage ugyldighedsgrunde.
 
 De stærke ugyldighedsgrunde kan gøres gældende også over for en kontraktpart, der var i god tro ved aftalens indgåelse. 
 
+---
+
 Stærke ugyldighedsgrunde er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
+
+---
 
 De svage ugyldighedsgrunde kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. 
 
@@ -1018,39 +1074,40 @@ Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige af
 
 Bestemmelsen i aftalelovens § 32, stk. 2 tager ikke stilling til, om afsenderen har pligt til at erstatte den godtroende erklæringsmodtager det tab, denne lider ved at stole på erklæringen. 
 
-Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes hans fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2, jf. fx. dommen i **U 1920.355 H:**
+Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes hans fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2.
 
-"En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000238916/1**
+---
+
+Se dommen i **U 1920.355 H:** "En Mand (A) telegraferede fra København til Kristiania om Køb af nogle Aktier og adresserede Telegrammet til Andresbank (Telegramadresse for Andresens Bank). Dette blev læst og telegraferet som Andelsbank, og da ingen saadan fandtes i Kristiania, antog Telegrafvæsnet dér, at H var udfaldet, tilføjede dette og udleverede Telegrammet til Handelsbanken, som saa udførte Ordren. Da A ikke vilde anerkende dette (han anførte, at Andresens Bank, da Kurserne var faldende, ikke vilde have købt), solgte Banken Aktierne med Tab, og dette Tab blev A dømt til at erstatte, da Fejltagelsen skyldtes, at han havde skrevet Adressen i høj Grad utydeligt". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000238916/1**
 
 ---
 
 
-Se **U 2018.553 V**: Aftalelovens §§ 32 og 39 anvendelig på fejl i pensionsselskabs tilbud til kunde om månedlige udbetalinger på en ratepension, idet de månedlige udbetalinger ved en fejlskrift var angivet til 84.429 kr. i stedet for 74.429 kr. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000804760/1**
+Se dommen i **U 2018.553 V**: Aftalelovens §§ 32 og 39 anvendelig på fejl i pensionsselskabs tilbud til kunde om månedlige udbetalinger på en ratepension, idet de månedlige udbetalinger ved en fejlskrift var angivet til 84.429 kr. i stedet for 74.429 kr. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000804760/1**
 
 ---
 
-**U 2007.640 V** Forretning var ikke bundet af forkert priskiltning:
+Se dommen i **U 2007.640 V** Forretning var ikke bundet af forkert priskiltning:
 "A og B henvendte sig i november 2003 i en tæppeforretning, T, hvor de så et ægte tæppe ophængt på væggen. På bagsiden af tæppet var der et prismærke, som angav, at prisen var nedsat fra 2.999 kr. til 2.499 kr. Efter indtastning af varenummeret viste det sig, at tæppets korrekte pris var 24.990 kr., hvorefter T nægtede at sælge tæppet for 2.499 kr. A og B nedlagde under sagen påstand om betaling af prisdifferencen 22.491 kr. Naturalopfyldelse ville ikke være mulig, da tæppet i mellemtiden var stjålet i forretningen. Efter bevisførelsen blev det lagt til grund, at der var tale om et ægte tæppe, og at det var et sted i forretningen, hvor der var udstillet andre ægte tæpper i forskellige størrelser, og at A og B så et tæppe umiddelbart ved siden af det omhandlede tæppe, som var mindre end dette, og som kostede ca. 4.000 kr. Under disse omstændigheder fandt både byretten og landsretten, at det for A og B måtte have stået som en nærliggende mulighed, at angivelsen af prisen kunne skyldes en fejl. Herefter, og da A og B allerede i forbindelse med købet af tæppet blev gjort opmærksom på, at prisen ikke var korrekt, blev T frifundet for A's og B's krav". Se link til hele dommen her:
 **https://pro.karnovgroup.dk/document/7000361980/1**
 
 ---
 
-**U 2000.1218 V** Part ikke bundet af modparts accept, da modparten burde have indset, at der forelå en fejltagelse, jf. aftalelovens § 32:
+Se dommen i **U 2000.1218 V** Part ikke bundet af modparts accept, da modparten burde have indset, at der forelå en fejltagelse, jf. aftalelovens § 32:
 "I et retsmøde den 18. juni 1998 godkendtes et honorar på 12.146,25 kr. til en skønsmand i forbindelse med et udenretligt syn og skøn. Sagsøgerens advokat forespurgte herefter skriftligt den 29. s.m. sagsøgtes advokat, om sagsøgte ville forlige sagen f.s.v. angik omkostninger således, at sagsøgte betalte et beløb på 7.000 kr. inkl. moms. Den 14. juli accepterede sagsøgte forligsforslaget og indbetalte samtidig 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet. Den 15. juli meddelte sagsøgerens advokat, at de 7.000 kr. kun dækkede advokatomkostninger, og at sagsøgte yderligere skulle betale skønsomkostningerne på 12.146,25 kr. Sagsøgte nægtede at betale dette beløb. Da sagsøgte måtte have indset, at der forelå en fejltagelse, og da sagsøgeren straks efter modtagelsen af de 7.000 kr. gjorde sagsøgte opmærksom på fejlen, var sagsøgeren ikke bundet af sagsøgtes accept af betaling af 7.000 kr. til fuld og endelig afgørelse af omkostningsspørgsmålet, jf. aftalelovens § 32". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000196494/1**
 
 ---
 
-**U 1996.459 Ø** Bud på tvangsauktion uforbindende efter aftalelovens § 32:
-"Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000202164/1**
+Se dommen i **U 1996.459 Ø** Bud på tvangsauktion uforbindende efter aftalelovens § 32: "Et bud på en tvangsauktion over fast ejendom afgivet under misforståelse af et spørgsmål om omkostningerne uden for budsummen og tilbagekaldt straks inden hammerslag anset for uforbindende efter aftalelovens § 32". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000202164/1**
 
 ---
 
 
-**U 1989.273 V** Fejl i skøde vedrørende betaling af tilslutningsafgifter. Aftalelovens § 32: "Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000198499/1**
+Se dommen i **U 1989.273 V** Fejl i skøde vedrørende betaling af tilslutningsafgifter. Aftalelovens § 32: "Ifølge slutsedlen om køb af et sommerhus var der ikke indlagt el eller vand i huset. Oplysningen herom gentoges i skødet, hvori det imidlertid ved en fejl tillige anførtes, at tilslutningsafgift til elforsyningsværk og vandværk var betalt. - Der fandtes ikke at være modstrid mellem slutseddel og skøde, og da det ikke fandtes bevist, at køberen vidste eller burde vide, at der var sket en fejl ved skødeskrivningen, var sælgeren bundet af skødet, jfr. aftalelovens § 32, og måtte erstatte køberen tilslutningsafgifterne". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000198499/1**
 
 ---
 
-Se også udtrykket fra romerretten: *"reservatio mentalis"*;	"bevidst uoverensstemmelse mellem vilje og erklæring."
+Se også udtrykket fra romerretten: *"Reservatio mentalis"*;	"bevidst uoverensstemmelse mellem vilje og erklæring."
     
 ---
 
@@ -1124,7 +1181,15 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven § 17 
 
 Gældsbrevslovens § 17:
 
-"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". Se nærmere *gældsbrevsloven og værgemålsloven* i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+"Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". 
+
+---
+
+Tinglysningslovens § 27, stk. 1:
+
+"Når et dokument er tinglyst, kan godtroende erhververe af rettigheder over ejendommen ifølge tinglyst aftale ikke mødes med nogen indsigelse mod nævnte dokuments gyldighed. Den indsigelse, at et dokument er falsk eller forfalsket, eller at dets udstedelse retsstridig er fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, eller at udstederen var umyndig ved udstedelsen, bevares dog også overfor den godtroende erhverver. Ved overdragelse af et tinglyst negotiabelt pantebrev til eje eller pant gælder endvidere reglerne i §§ 27 a og 27 b."
+
+Se nærmere *gældsbrevsloven og tinglysningsloven* i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -1145,6 +1210,8 @@ Afpresning	i straffeloven er fremsættelse af trusler mod en anden for derved at
 Sager om afpresning kan efter omstændighederne have betydelig grovhed og nærme sig røveriforhold. I nyere tid er der således set sager, hvor rockere og 2. generationsindvandrerbander med gangsterlignende metoder i form af trusler med tæskehold o.l. har tvunget andre til at betale »dummebøder« ofte til betydelige beløb. Som eksempler fra trykt praksis på andre grove afpresningsforhold kan nævnes: 
 
 Dommen i **U 1975.1117 Ø** Telefonisk trussel om at ødelægge forretning med bombe, sammen med en anden skriftligt truet på livet - i første tilfælde krævet 60.000 kr., i sidste tilfælde 800.000 kr. - hver fængsel i 1 år 3 mdr. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000211837/1** 
+
+---
 
 Dommen i **U 1978.216 V** Truet med at bringe 4 bomber til sprængning på skibe, medmindre der betaltes 300.000 - fængsel i 2 år, jf. straffelovens § 286. 2 års fængsel for forsøg på afpresning (300 US dollar) gennem trusler om terrorangreb mod rederis skibe: "Den 33-årige. tidligere straffede T havde telefonisk over for en af rederiet J. Lauritsens direktører under foregivende af at repræsentere en mellemøstlig organisation fremsat trussel om at bringe 4 bomber, der angaves anbragt ombord på rederiets skibe, til sprængning, såfremt der ikke inden et bestemt tidspunkt blev anbragt en kuffert med 300.000 amerikanske dollars på et nærmere angivet hittegodskontor. T idømtes for afpresning efter straffelovens § 281, nr. 1, en i medfør af straffelovens § 286, stk. 3, fastsat straf af fængsel i 2 år". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000208702/1**
 
@@ -1216,15 +1283,21 @@ Hver part skal tilbagelevere, hvad de hver især har modtaget. Hvis det er mulig
 
 Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har været den umyndige til nytte, fx cykel eller computer, kan den umyndige risikere at skulle betale erstatning til løftemodtager efter nyttereglen, jf. værgemålslovens § 45.
 
+---
+
 *"Nyttereglen"*: Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
 
 Har den umyndige fremvist falsk ID ved aftalens indgåelse, skal den umyndige erstatte løftemodtagers tab, uden hensyn til nyttereglen.
+
+---
 
 Derudover gælder de almindelige erstatningsretlige regler.
 
 ---
 
 Forbrugerklagenævnspraksis om pengereglen:^[Se nævnte afgørelser hos *Anne-Dorte Bruun Nielsen*: U.2016B.197 om " Mindreårige, pengereglen og elektroniske betalingsmidler". Artiklen behandler mindreåriges betaling med elektroniske betalingsmidler og analyserer begrebet »kontant« dels i relation til pengereglen, dels i relation til forbuddet imod gældsstiftelse.]
+
+---
 
 I **Forbrugerklagenævnets Årsberetning 1982, s. 75** (1), havde en 12-årig dreng købt elektroniske spil for 398 kr. Han betalte spillet kontant. Pengene havde han fået ved uden forældrenes tilladelse at hæve 400 kr. på en bankbog. Forbrugerklagenævnet fandt, at det måtte anses som sædvanligt, at mindreårige på egen hånd købte varer som den pågældende, og fandt ikke, at der var et sådant misforhold mellem drengens alder og købesummens størrelse, at sælgeren burde have indset, at drengen ikke havde ret til at råde over pengene. Trods drengens manglende ret til at råde over pengene, måtte aftalen derfor efter Nævnets opfattelse anses for bindende. (**Afgørelsessagsnr.: 82-340-36**).
 
@@ -1318,13 +1391,15 @@ Se Lovbekendtgørelse 2014-09-19 nr. 1018 om inkassovirksomhed. Se Lovsamlingen:
 
 ---
 
-Det er ligeledes retmæssigt at true en butikstyv med politianmeldelse, hvis ikke tyven betaler købesummen (altså ikke blot den lavere indkøbspris) for den stjålne vare. Det er derimod retsstridigt under trussel om politianmeldelse at true butikstyven til at betale et større beløb, jf. dommene i **U 1968.512 V** og **U 1975.656 V**:
-
-**U 1968.512 V** Butiksbestyrers handlemåde over for butikstyv bedømt som afpresning og straffet med dagbøder, jf. strfl. § 287: "T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr." Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000213223/1**
+Det er ligeledes retmæssigt at true en butikstyv med politianmeldelse, hvis ikke tyven betaler købesummen (altså ikke blot den lavere indkøbspris) for den stjålne vare. Det er derimod retsstridigt under trussel om politianmeldelse at true butikstyven til at betale et større beløb.
 
 ---
 
-**U 1975.656 V** Betinget dom uden straffastsættelse samt bøde for at afpresse butikstyve for store beløb under trusler om politianmeldelse:
+Se dommen i **U 1968.512 V** Butiksbestyrers handlemåde over for butikstyv bedømt som afpresning og straffet med dagbøder, jf. strfl. § 287: "T havde som bestyrer af en selvbetjeningsbutik ved trussel om politianmeldelse formået en kunde K, der blev grebet i tyveri af varer for i alt 96 kr. til at betale indehaveren af F 3.000 kr. T fandtes ikke at have haft grundlag for at antage, at K's tyverier tilnærmelsesvis havde haft et til dette beløb svarende omfang og fandtes skyldig i afpresning, strfl. § 281 nr. 2. Straffen fastsattes i medfør af strfl. § 287, stk. 1, til 10 dagbøder a 30 kr." Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000213223/1**
+
+---
+
+Se dommen i **U 1975.656 V** Betinget dom uden straffastsættelse samt bøde for at afpresse butikstyve for store beløb under trusler om politianmeldelse:
 "T, der var ejer af flere supermarkeder, havde i flere tilfælde under trussel om politianmeldelse formået eller forsøgt at formå kunder, som havde begået butikstyveri i forretninger, til at betale beløb, svarende til 20 gange værdien af de stjålne varer. T ansås skyldig efter straffelovens § 281, nr. 2, og forholdene fandtes, navnlig under hensyn til størrelsen af de beløb, som T havde søgt at afpresse kunderne, og til, at der i en række forhold var fulgt en systematisk fremgangsmåde, at måtte henføres under straffelovens § 285, stk. 1. T ansås med betinget dom uden straffastsættelse og en bøde i medfør af straffelovens § 58 på 10.000 kr." SE link til hele dommen her:
 **https://pro.karnovgroup.dk/document/7000211639/1**
 
@@ -1359,7 +1434,7 @@ Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige opl
 
 ---
 
-**Video om svig**
+## Video om svig
 *Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/n52ni_aO5iE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1391,7 +1466,7 @@ Dertil kommer, at svig som udgangspunkt er udtryk for forsæt til en formueskade
 
 ---
 
-Se **U 1991.523/3 H** om svig ved kreditforsikringer: "Forsikringsaftaleloven er anvendelig på kreditforsikringer også for så vidt angår forholdet mellem den sikrede kreditor og forsikringsselskabet. Spørgsmålet om eventuel svig må imidlertid afgøres efter aftalelovens § 30 og ikke efter forsikringsaftalelovens § 4, således at svig udøvet af forsikringstageren ikke kan gøres gældende over for kreditor, såfremt denne er i god tro. Forsikringsselskab alligevel frifundet, da det efter bevisførelsen måtte lægges til grund, at kreditor vidste eller burde vide, at der forelå et svigagtigt forhold.  (Dissens af 1 dommer, der ikke kunne tiltræde, at det blev lagt til grund, at kreditor var i ond tro)". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000199604/1**
+Se dommen i **U 1991.523/3 H** om svig ved kreditforsikringer: "Forsikringsaftaleloven er anvendelig på kreditforsikringer også for så vidt angår forholdet mellem den sikrede kreditor og forsikringsselskabet. Spørgsmålet om eventuel svig må imidlertid afgøres efter aftalelovens § 30 og ikke efter forsikringsaftalelovens § 4, således at svig udøvet af forsikringstageren ikke kan gøres gældende over for kreditor, såfremt denne er i god tro. Forsikringsselskab alligevel frifundet, da det efter bevisførelsen måtte lægges til grund, at kreditor vidste eller burde vide, at der forelå et svigagtigt forhold.  (Dissens af 1 dommer, der ikke kunne tiltræde, at det blev lagt til grund, at kreditor var i ond tro)". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000199604/1**
 
 ---
 
@@ -1404,8 +1479,9 @@ Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der
 
 <img src="img/deal5.jpeg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
+---
 
-*Situation:* Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
+*Situationen:* Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
 Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. 
 
@@ -1418,7 +1494,7 @@ Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og 
 *Svig udøvet af tredjemand:*
 
 
-Situation: 
+Situationen: 
 
 <img src="img/bod.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1527,7 +1603,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
 
 ---
 
-**Video om fejlskrift**
+## Video om fejlskrift
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -1557,7 +1633,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
       
 ---
 
-**Video om god og ond tro**
+## Video om god og ond tro
 *Udarbejdet af Horten Advokatpartnerskab*
 
 
@@ -1622,7 +1698,7 @@ I urimelighedsvurderingen indgår:
 
 ---
 
-**Video: Forudsætningslæren**
+## Video: Forudsætningslæren
 *Udarbejdet af Horten Advokatpartnerskab*
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/VliOntGAvUU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1755,7 +1831,7 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 
 
 
-**Video om fortolkning af aftaler**
+## Video om fortolkning af aftaler
 *Udarbejdet af Horten Advokatpartnerskab*
 
 

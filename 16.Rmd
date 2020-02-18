@@ -118,7 +118,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
   
 ---
 
-**Video: Hvad er obligationer?**
+## Video om hvad er obligationer?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/W8DnSJmntmY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  '
 
@@ -239,19 +239,19 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-**Video: Hvordan laver jeg et gældsbrev?**
+## Video om hvordan laver jeg et gældsbrev?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/8ufuecp-wXA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Opret et gældsbrev online**
+## Video om at oprette et gældsbrev online
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/J88adaVemVQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Sådan laver du en låneaftale**
+## Video om hvordan du laver en låneaftale
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/PPqd-fYRCg0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -529,8 +529,9 @@ Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af
 
 1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
 
+---
 
-
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -818,7 +819,7 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 
 ---
 
-**Video: Hvad er factoring?**
+## Video om hvad er factoring?
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/zNxALT0w14U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -894,7 +895,7 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ---
 
-**Videoer om gældsbrevsloven**
+## Videoer om gældsbrevsloven
 
 
 
@@ -907,7 +908,7 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ---
 
-**Video: Om gældsbreve**
+## Video om gældsbreve
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/nC3Sy7tBCaY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1178,7 +1179,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ---
 
-**Video: Om overdragelse af fordringer**
+## Video om overdragelse af fordringer
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/NqakMVHBPw4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -1304,6 +1305,14 @@ For en nærmere gennemgang af det oprindelige trepartsforhold, jf. kreditaftalel
 
 ---
 
+## Video om debitor- og kreditorskifte
+
+*Udarbejdet af Advokatpartnerskabet Horten*
+
+<div class="video-container"><iframe src="https://www.youtube.com/embed/B9dSq8QSHp0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+---
+
 Fordringer kan overdrages til en anden kreditor (sælges eller pantsættes) som andre aktiver
 
 Fx kan købekontrakt med gyldigt ejendomsforbehold sælges til en anden kreditor (erhverver):
@@ -1376,7 +1385,7 @@ Om *"simpel kaution"* se afsnit 15.8: **https://jura.tepedu.dk/kautionsforhold.h
 
 ---
 
-**Video: Slå op i Bilbogen**
+## Video om at slå op i bilbogen
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/jS9HN8OxvgI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2503,13 +2512,13 @@ Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette m
 
 ---
 
-**Video Digital tinglysning af underskrift på dokumenter og skøde**
+## Video om digital tinglysning af underskrift på dokumenter og skøde
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/CBUM8aybRQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
-**Video: Forstå tinglysning på 45 sekunder**
+## Video om at forstå tinglysning på 45 sekunder
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -2613,7 +2622,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 ---
 
-**Video: Tingbogens historie overgangen fra realregistrene til digital registrering**
+## Video om tingbogens historie overgangen fra realregistrene til digital registrering
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/2EwMrDiABD8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 

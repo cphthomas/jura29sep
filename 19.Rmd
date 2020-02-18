@@ -6,7 +6,11 @@ cat(readLines('npp.html'))
 
 ![](img/tinglysning5.jpg)
 
+---
 
+**Tinglysning behandles i kap. 14 i "Erhvervsjura"**
+
+---
 
 ## <font color="red">Et hurtigt overblik over tinglysning?<sup> Premium </font></sup>
 

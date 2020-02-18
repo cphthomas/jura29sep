@@ -579,7 +579,7 @@ Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde s
 
 ---
 
-**Video om tinglysningslovens §§ 1 og 27**
+## Video om tinglysningslovens §§ 1 og 27
 
 
 
@@ -590,7 +590,7 @@ Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde s
 ---
 
 
-**Video: Om tinglysningslovens § 40**
+## Video Om tinglysningslovens § 40
 
 
 
@@ -1080,7 +1080,7 @@ Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), ka
 
 ---
 
-**Video: Om pant i fast ejendom, jf. TL §§ 37 og 38**
+## Video om pant i fast ejendom, jf. TL §§ 37 og 38
 
 
 
@@ -1169,10 +1169,13 @@ Hvilke muligheder har rekonstruktøren for omstødelsen?
 
 5. Hvilke formål tjener omstødelse under rekonstruktion og konkurs?
 
+---
+
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-**Video om TL §§ 37 og 38 om tilhørspant**
+## Video om TL §§ 37 og 38 om tilhørspant
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/uK1iZr2t3y8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1524,7 +1527,9 @@ Anvend reglerne: Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LF
 
 Læringsmål: At anvende og formidle centrale regler og praksis for køb og salg af fast ejendom med fokus på forbrugerbeskyttelse.
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 --- 
  
@@ -1682,6 +1687,10 @@ Kuratoren mener desuden, at betalingen til leverandøren kan omstødes.
 
 ---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
+
 ## Eksamensopgave 18.4
 
 *Møbler med prioritet*
@@ -1740,6 +1749,10 @@ Rekonstruktøren anslog de stadig næsten nye møblers værdi til at være DKK 8
 
 ---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
+
 ## Eksamensopgave 18.5
 
 Opgave 1 
@@ -1787,7 +1800,9 @@ I perioder med ekstraordinær travlhed ansætter Peter, den russiskfødte smykke
 
 Eksamensspørgsmål 4. Kan Peter, og i givet fald efter hvilke regler, kræve erstatning af Ivan Volkova?
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 ---
  
@@ -1821,7 +1836,9 @@ Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkeds
  
 *Værdipapircentralens hjemmeside*
 
-Se Video: **https://www.vp.dk/**
+## Video om VP 
+
+**https://www.vp.dk/**
 
 ---
 

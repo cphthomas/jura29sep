@@ -164,10 +164,9 @@ De finansielle institutioners udlån til forbrugere er derfor omfattet af kredit
 
 ---
 
-**Video**
+## Video om kunsten at låne uden at gråne
 
-<iframe src="https://player.vimeo.com/video/304785098" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/304785098">Kunsten at l&aring;ne uden at gr&aring;ne</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://vimeo.com/304785098**
 
 ---
 
@@ -210,6 +209,8 @@ Er vedkommende bogføringspligtig, momspligtig m.v. vil vedkommende normalt vær
 Det er uden betydning, om der tilstræbes økonomisk gevinst med virksomheden. 
 
 Offentlig virksomhed, som kan sidestilles med privat erhvervsvirksomhed, f.eks. levering af vand, transport af personer og gods, er også at betragte som erhvervsvirksomhed i lovens forstand, jf. herved princippet i markedsføringslovens § 1. 
+
+---
 
 Foreninger og sammenslutninger, hvis formål udelukkende er velgørenhed eller almennyttigt, politisk eller religiøst, kan i almindelighed ikke anses for erhvervsdrivende.  
 
@@ -485,7 +486,7 @@ En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et eks
 
 ---
 
-**Video: Hvad er en kassekredit**
+## Video Hvad er en kassekredit
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/cFofI0O1wP4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -542,10 +543,9 @@ For så vidt angår sælgerpantebreve er det ved KAL § 8 a, stk. 2, bestemt, at
 
 ---
 
-**Video: Forstå et sælgerpantebrev på 2 minutter**
+## Video Forstå et sælgerpantebrev på 2 minutter
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/241136749?title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-<p><a href="https://vimeo.com/241136749">Et s&aelig;lgerpantebrev kan v&aelig;re svaret</a> from <a href="https://vimeo.com/seges">SEGES</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**https://vimeo.com/241136749**
 
 ---
 

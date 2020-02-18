@@ -26,14 +26,14 @@ Hvidvasklovens formål er at sikre, at Danmark bidrager til den internationale k
 
 ---
 
-**Video: Sådan foregår hvidvask**
+## <font color="red">Video Sådan foregår hvidvask<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/67jlG9dPs54" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
  
-**Video: Danske Bank Hvidvask/Tæt på sandheden**
+## <font color="red">Video Danske Bank Hvidvask/Tæt på sandheden<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/1q0K01SQavk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -44,7 +44,7 @@ Hvidvasklovens formål er at sikre, at Danmark bidrager til den internationale k
 
 ---
 
-**Video:How does money laundering work? - Delena D. Spann**
+## <font color="red">Video:How does money laundering work? - Delena D. Spann<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/257wV-AbKaE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -198,7 +198,7 @@ Overtrædelse af pligten til at tage falske penge ud af omløb anses for omfatte
 
 ---
 
-**Video: Hvidvask-skandalen: Så mange advarsler fik Danske Bank**
+## <font color="red">Video Hvidvask-skandalen Så mange advarsler fik Danske Bank<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/b94ktmFWP6c" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -919,7 +919,7 @@ Hvidvasklovens § 10 stiller krav om, at virksomheder, der får nye kunder, genn
 
 ---
 
-**Video om KYC**
+## <font color="red">Video om KYC<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/vLeC6khWzpM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1117,7 +1117,7 @@ Målet er, at vurderingen kan fungere som et operationelt og anvendeligt værkt�
 
 ---
 
-**Video: Sådan bekæmper man hvidvask**
+## <font color="red">Video Sådan bekæmper man hvidvask<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/nbVbQdu2RTg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -1235,7 +1235,7 @@ Virksomheden kan fx i sin vurdering, af hvorledes et produkt indebærer en risik
 
 ---
 
-**Video: Sådan snyder banker og rigmænd borgerne med hvidvask og skattely**
+## <font color="red">Video Sådan snyder banker og rigmænd borgerne med hvidvask og skattely<sup> Premium </font></sup>
 
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/nPXIOxi1QxE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
@@ -2003,7 +2003,7 @@ Kontrollerne kan for eksempel blive udført ved, at virksomheden udtager stikpr�
 
 ---
 
-**Video: Digital AML - På sporet af hvidvask**
+## <font color="red">Video Digital AML - På sporet af hvidvask<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/0tWTknimQt4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
@@ -4313,7 +4313,7 @@ Se afsnittet nedenfor "Om virksomheders pligt til at afbryde eller afvikle et ku
 
 ---
 
-**Video: Digital AML - udførlig gennemgang af hvidvasklovens krav**
+## <font color="red">Video Digital AML - udførlig gennemgang af hvidvasklovens krav<sup> Premium </font></sup>
 
 <div class="video-container"><iframe src="https://www.youtube.com/embed/HIyrfFbI-7w
 " width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
