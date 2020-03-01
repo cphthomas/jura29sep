@@ -19,14 +19,12 @@ Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomi
 
 ---
 
-## <font color="red">Video om at forstå forsikring på 3 min.<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/jhoZCUQd-n8" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/jhoZCUQd-n8"  target="_blank">Video om at forstå forsikring på 3 min.</a></h4>
 
 ---
 
 Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -45,7 +43,7 @@ Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller fors
 Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring fx en ansvarsforsikring på bil og hund.
 
 Efter færdselslovens § 105, stk. 1, skal der fx tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. 
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -90,7 +88,7 @@ Omkring "lynnedslag", jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svarer s
 Find 4 afgørelser fra Ankeknævnet for forsikring (Forsikringsankenævnet) om brandforsikring, hvor ankenævnet giver afslag på forsikringssummen, eller at ankenævnet giver klageren medhold på udbetaling af forsikringssummen ved en brand.
 
 Link: 
-**<a href="http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%22%3A%5B%7B%22d%22%3A%221%22%2C%22p%22%3A%22AnkeforsikringClosedDate%22%7D%5D%7D" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%22%3A%5B%7B%22d%22%3A%221%22%2C%22p%22%3A%22AnkeforsikringClosedDate%22%7D%5D%7D" >klik her!</a>**
 
 ---
 
@@ -138,7 +136,7 @@ En ulykkesforsikring er en forsikring, hvor man får erstatning, hvis man skulle
 Forsikringen dækker typisk, hvis man får mén på mere end 5 % efter den pludselige hændelse.
 
 Her kan man se en oversigt over procentsatser for forskellige mén:
-**<a href="https://aes.dk/da/Selvbetjening/Mentabel.aspx" width="853">klik her!</a>**
+**<a href="https://aes.dk/da/Selvbetjening/Mentabel.aspx" >klik her!</a>**
 
 
 ---
@@ -330,9 +328,7 @@ Gælder kun ved *tingsforsikring*, men ikke for summaforsikring. Dvs fx hvis man
 
 ---
 
-## <font color="red">Video om matematik i forsikring og finansiering<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/EMCsXK44p1k" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/EMCsXK44p1k"  target="_blank">Video om matematik i forsikring og finansiering</a></h4>
 
 ---
 
@@ -347,7 +343,7 @@ Interessen der ønskes forsikret, må ikke være i strid med "lov og ærbarhed",
 ---
 
 Det latinske udtryk *"contra bonos mores"*	i strid med lov og ærbarhed. **Danske Lov 5-1-2:** "Alle contracter, som friviligen giøris af dennem, som ere myndige, og komne til deris lavalder, vær sig ved kiøb, sal, gave, mageskifte, pant, laan, leje, forpligter, forløfter og andet, ved hvad navn det nævnis kand, som ikke er imod loven, eller ærbarhed, skulde holdis i alle deris ord og puncter, saa som de indgangne ere". 
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 *(5: femte bog, 1: kap. 1, 2: 2 afsnit).*
 
@@ -378,7 +374,7 @@ Man vil heller ikke som forbruger kunne klage til Byggeriets Ankenævn over den 
 ---
 
 Link til Forsikringsankenævnet:
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853"> klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" > klik her!</a>**
 
 ---
 
@@ -420,7 +416,7 @@ Se andre domme og nævnsafgørelser om spørgsmålet om der er tale om en ulovli
 ***Studenteropgave***
 
 Find to afgørelser i Forsikringsankenævnet om spørgsmålet om der er tale om en ulovlig eller lovlig interesse som kan forsikres.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
@@ -517,13 +513,13 @@ Hvis genstanden ikke har nogen nævneværdig økonomisk værdi afvises der dækn
 ![](img/born4.jpg)
 
 Se fx dommen i **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser. 
-**<a href="https://pro.karnovgroup.dk/document/7000331066/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000331066/1" >Dommen klik her!</a>**
 
 ---
 
 ## <font color="red">Udvalgte skadesforsikringer<sup> Premium </font></sup>
 
-Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. **<a href="https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" width="853">klik her!</a>**, samt materialer og afgørelser fra Ankenævnet for Forsikring samt informationer fra Forsikringsoplysningen samt domme fra UfR og FED udgivet af KarnovGroup.
+Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. **<a href="https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" >klik her!</a>**, samt materialer og afgørelser fra Ankenævnet for Forsikring samt informationer fra Forsikringsoplysningen samt domme fra UfR og FED udgivet af KarnovGroup.
 
 ---
 
@@ -541,19 +537,17 @@ Er der ikke gæld i bilen, og er der tale om en ældre bil, nøjes mange med den
 
 ---
 
-## <font color="red">Video Om bilforsikringen<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/H9PzSmkhC48" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/H9PzSmkhC48"  target="_blank">Video Om bilforsikringen</a></h4>
 
 ---
 
-## <font color="red"> Ansvar for motorkøretøjer </font></sup>
+## <font color="red">Ansvar for motorkøretøjer </font></sup>
 
 ![](img/farsels.jpg)
 
 Ifølge færdselsloven (Lovbekendtgørelse 2018-11-21 nr. 1324
 Færdselsloven) skal den ansvarlige for et motorkøretøj erstatte de skader, som køretøjet volder ved færdselsuheld, ved eksplosion eller ved brand.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Lovsamlingen klik her!</a>**
 
 ---
 
@@ -596,17 +590,17 @@ Ejeren, brugeren og føreren er derimod ikke dækket, medmindre en sådan dækni
 **Domme om ansvarsforsikringen på motorkøretøjer**
 
 Dommen i *U 1960.235 H* Ansvarsforsikringen dækkede ikke skade, der overgik ejeren, medens denne var passager. 
-**<a href="https://pro.karnovgroup.dk/document/7000214026/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000214026/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i *U 1961.925 V* Tilsvarende afgørelse. 
-**<a href="https://pro.karnovgroup.dk/document/7000215882/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000215882/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i *U 1998.1626 H* Ansvarsforsikringen dækkede ikke forsikringstagers eget tab, da man ikke kan være erstatningsansvarlig overfor sig selv, skal så dækkes af forsikrinstagerens kaskoforsikring på bilen eller dennes ulykkesforsikring i forhold om der er tale om forsikringstagerens ting- eller personskade.
-**<a href="https://pro.karnovgroup.dk/document/7000204189/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000204189/1" >Dommen klik her!</a>**
 
 ---
 
@@ -615,24 +609,24 @@ Det er dog nu en normal policebestemmelse, at forsikringsselskabet også hæfter
 ---
 
 Se fx dommen i *FED 2007.153 V* Bevist at A havde været passager i og ikke fører af bilen, hvorfor A, der led personskade, var omfattet af kredsen af sikrede i henhold til bilens ansvarsforsikring. 
-**<a href="https://pro.karnovgroup.dk/document/7000393394/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000393394/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i *U 1969.779 Ø* Ansvarsforsikringen dækker ikke politiets udgifter til borttransport efter et færdselsuheld. 
-**<a href="https://pro.karnovgroup.dk/document/7000219125/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000219125/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i *U 2011.3264 Ø* Det erstatningsretlige opgør i et tilfælde, hvor en bil, der forvoldte en færdselsulykke, viste sig ikke at være ansvarsforsikret efter ejerskifte. 
-**<a href="https://pro.karnovgroup.dk/document/7000501559/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000501559/1" >Dommen klik her!</a>**
 
 ---
 
 **Studenteropgave**
 
 Find to afgørelser fra Forsikringsankenævnet om spørgsmålet om ansvarsforsikringens dækning ved en færdselsulykke.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
@@ -651,7 +645,7 @@ Forsikringen dækker heller ikke skade på forsikringstagerens eller brugerens t
 Hvis det skadevoldende køretøj ikke er forsikret eller forsvandt fra uheldsstedet (flugtbilist), har man mulighed for at få erstatning fra en fællespulje. 
 
 Man henvender sig hos Dansk Forening for International Motorkøretøjsforsikring (DFIM). Adresse: Philip Heymans Alle 1, 2900 Hellerup, Telefon: 41 91 91 91.
-**<a href="https://www.dfim.dk/" width="853">klik her!</a>**
+**<a href="https://www.dfim.dk/" >klik her!</a>**
 
 ---
 
@@ -659,9 +653,7 @@ Bemærk: Er der tale om en flugtbilist, kan der også udbetales erstatning for t
 
 ---
 
-## <font color="red">Video om dagsgebyr for manglende ansvarsforsikring<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/9kHkH-8HxZI" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/9kHkH-8HxZI"  target="_blank">Video om dagsgebyr for manglende ansvarsforsikring</a></h4>
 
 ---
 
@@ -749,19 +741,19 @@ Det forsikringsretlige udtryk *"rudera"* betyder resterne. Anvendes til beskrive
 **Studenteropgave:**
 
 **Find 4 afgørelser på Forsikringsankenævnets hjemmeside, som afvises pga. undtagelserne på bilkaskoforsikringen**.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
 *Se her de 10 ting ens bilforsikring ikke dækker:*
-**<a href="https://tv2-dk-clips.secure.footprint.net/vod/mpx/TV2dk/8/95/8r9u1xw5kc.mp4" width="853">klik her!</a>**
+**<a href="https://tv2-dk-clips.secure.footprint.net/vod/mpx/TV2dk/8/95/8r9u1xw5kc.mp4" >klik her!</a>**
 
 
 
 ---
 
 *Gode råd om billeje*
-**<a href="https://fdm.dk/alt-om-biler/koer-selv-ferie/bliv-klar-til-ferien/gode-raad-om-billeje" width="853">klik her!</a>**
+**<a href="https://fdm.dk/alt-om-biler/koer-selv-ferie/bliv-klar-til-ferien/gode-raad-om-billeje" >klik her!</a>**
 
 
 
@@ -842,7 +834,7 @@ Er barnet reelt bruger eller ejer af bilen, får forsikringsselskabet ikke den p
 Opdager forsikringsselskabet at ejer-/brugerforholdet ikke er korrekt – og det sker som regel, når forsikringstager anmelder en skade – kan det få store konsekvenser for erstatningen. 
 
 Rent juridisk vil sådanne forhold efter Forsikringsankenævnets praksis blive vurderet efter forsikringsaftalelovens regler om urigtige risikooplysninger (§§4-10) eller reglerne om fareforøgelse (§§ 45-50), se forsikringsaftaleloven (FAL) i Lovsamlingen.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >klik her!</a>**
 
 ---
 
@@ -869,7 +861,7 @@ Forsikringsankenævnet oplyser på deres hjemmeside, at det er svært at sige, h
 ***Studenteropgave***
 
 Find to nævnsafgørelser fra Forsikringsankenævnet om der var tale om den rigtige ejer/bruger af bilen.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">Dommen klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >Dommen klik her!</a>**
 
 ---
 
@@ -892,9 +884,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 88440 og sagsnr.: 87783:**
 
 ---
 
-## <font color="red">Video Aros forsikringsselskab om veteranforsikring<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/tMXv_B_BFbQ" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/tMXv_B_BFbQ"  target="_blank">Video Aros forsikringsselskab om veteranforsikring</a></h4>
 
 ---
 
@@ -926,9 +916,7 @@ Forsikringen dækker normalt ikke bedrageri, underslæb og lignende.
 
 ---
 
-## <font color="red">Video om hvad dækker indboforsikringen<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/qF5DQPRVO3Q" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/qF5DQPRVO3Q"  target="_blank">Video om hvad dækker indboforsikringen</a></h4>
 
 ---
 
@@ -965,15 +953,11 @@ Se også **Forsikringsankenævnets sagsnr.: 87968**, hvor Forsikringsankenævnet
 
 ---
 
-## <font color="red">Video om gode råd ved indboforsikring<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/sWJ_F0BqvlI" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/sWJ_F0BqvlI"  target="_blank">Video om gode råd ved indboforsikring</a></h4>
 
 ---
 
-## <font color="red">Video Har du overblik over din indboforsikring?<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/sVlQw4h71sY" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/sVlQw4h71sY"  target="_blank">Video Har du overblik over din indboforsikring?</a></h4>
 
 ---
 
@@ -1049,7 +1033,7 @@ Efter Forsikringsankenævnets praksis afhænger det af arten og antallet, se eks
 ***Studenteropgave***
 
 Find to afgørelser i Forsikringsankenævnet om genstanden er omfattet af indboforsikringen. Link:
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
@@ -1072,19 +1056,15 @@ Visse genstande – eksempelvis kontanter og særlige private værdigenstande �
 
 **Studenteropgave**
 Find 3 afgørelser i Forsikringsankenævnet om spørgsmålet om der er dækning på indboforsikringen, dér hvor genstanden befinder sig.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
-## <font color="red">Video om ansvaret for flybagage<sup> Premium </font></sup>
-
-**<a href="https://player.vimeo.com/video/305947100" width="853">Videoen klik her!</a>**
+**<a href="https://player.vimeo.com/video/305947100"  target="_blank">Video om ansvaret for flybagage</a></h4>
 
 ---
 
-## <font color="red">Video om fastsættelsen af forsikringssummen<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/Y9DwajelnAI" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/Y9DwajelnAI"  target="_blank">Video om fastsættelsen af forsikringssummen</a></h4>
 
 ---
 
@@ -1142,9 +1122,7 @@ Find 6 forsikringselskaber og gennemgå deres forsikringsdækning for udeboende 
 
 ---
 
-## <font color="red">Video om at flytte hjemmefra med succes<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/8HlIX3cvHEo" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/8HlIX3cvHEo"  target="_blank">Video om at flytte hjemmefra med succes</a></h4>
 
 ---
 
@@ -1167,7 +1145,7 @@ Påberåber forsikringsselskabet sig en dækningsundtagelse – eksempelvis at f
 
 
 Se dommen i **FED 1999.57:** Tyveri af smykker og kontanter kunne efter bevisførelsen ikke antages at være sket fra forsvarligt aflåst bygning, og tyveriet var derfor ikke omfattet af forsikringen. 
-**<a href="https://pro.karnovgroup.dk/document/7000328978/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000328978/1" >Dommen klik her!</a>**
 
 ---
 
@@ -1262,9 +1240,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 77996 og 75600:**
 
 ---
 
-## <font color="red">Video om gode råd ved identitetstyveri<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/-gzZYtG_C4w" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/-gzZYtG_C4w"  target="_blank">Video om gode råd ved identitetstyveri</a></h4>
 
 ---
 
@@ -1422,7 +1398,7 @@ Der findes en rig praksis om begrebet "forsvarligt aflåst" – se kendelsesdata
 Som udgangspunkt efter nævnets praksis skal vinduer og døre være lukkede og låste/tilhaspede – også når man er hjemme.
 
 Se dommen i **FED 2003.2505:** Tyveri fra lejlighed uden synlige spor på opbrud. Forsikringsselskabet havde ikke løftet bevisbyrden for, at lejligheden ikke havde været forsvarligt aflåst, hvorfor skaden skulle dækkes som indbrudstyveri. 
-**<a href="https://pro.karnovgroup.dk/document/7000329647/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000329647/1" >Dommen klik her!</a>**
 
 ---
 
@@ -1710,9 +1686,7 @@ Se **Forsikringsankenævnets sagsnr.: 73311, 81007 og 86874:**
 
 ---
 
-## <font color="red">Video: WebHELP: forsikring mod digital mobning og overgreb – mobning på sociale medier og nettet | Call me<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/q6_RfqBGcxg" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/q6_RfqBGcxg"  target="_blank">Video: Forsikring mod digital mobning og overgreb</a></h4>
 
 ---
 
@@ -1993,7 +1967,7 @@ Se **Forsikringsankenævnets sagsnr.: 48276** Selskabet var uberettiget til at a
 ![](img/storm1.jpg)
 
 Se dommen i **U 2006.544 H:** A fik i 1998 sin ejendom forsikret til fuld- og nyværdi hos et forsikringsselskab F.
-**<a href="https://pro.karnovgroup.dk/document/7000318609/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000318609/1" >Dommen klik her!</a>**
 
 ---
 
@@ -2074,7 +2048,7 @@ Forsikringsselskabets rolle er at betale regningen for reparationen.
 ---
 
 Man kan eventuelt klage over håndværkerne til *Byggeriets Ankenævn:*
-**<a href="https://www.byggerietsankenaevn.dk/" width="853">klik her!</a>**
+**<a href="https://www.byggerietsankenaevn.dk/" >klik her!</a>**
 
 ---
 
@@ -2133,9 +2107,7 @@ Ejerskifteforsikringen, tilstandsrapporten og elinstallationsrapporten er instru
 
 ---
 
-## <font color="red">Video om ejerskifteforsikring<sup> Premium </font></sup>
-
-**<a href="https://vimeo.com/305944604" width="853">Videoen klik her!</a>**
+**<a href="https://vimeo.com/305944604"  target="_blank">Video om ejerskifteforsikring</a></h4>
 
 ---
 
@@ -2757,7 +2729,7 @@ Se eksempelvis **Forsikringsankenævnets sagsnr.: 86931**.
 ---
 
 Se nærmere om de juridiske lovregler ved pakkerejser og flyrejser, se pakkerejseloven og Forordning 261/2004 flypassagers rettigheder, i bogen: ***"Juraen på rejsen"*** AF *Jakob Hahn og Sonny Kristoffersen*, 1. udg., 2019.
-**<a href="https://shop.karnovgroup.dk/products/juraen-pa-rejsen" width="853">klik her!</a>**
+**<a href="https://shop.karnovgroup.dk/products/juraen-pa-rejsen" >klik her!</a>**
 
 ---
 
@@ -2967,11 +2939,7 @@ Link: **http://ankeforsikring.dk/Sider/default.aspx**
 
 ---
 
-Lidt sjovt:-)
-
-## <font color="red">Video: Mandrilaftalen – Forsikringer<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/EGj0tVWtr6g" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/EGj0tVWtr6g"  target="_blank">Video: Mandrilaftalen – Forsikringer</a></h4>
 
 ---
 
@@ -2998,7 +2966,7 @@ Forsikringen dækker således normalt ikke, hvis man ønsker at betale erstatnin
 ---
 
 Efter dansk ret er man juridisk set ansvarlig for en skade, hvis man har udvist en uforsvarlig adfærd (handling eller undladelse), hvis adfærden kan tilregnes en som forsætlig eller uagtsom, og hvis den skade, som man har forvoldt, må anses for at være en forventelig (påregnelig) følge af ens adfærd. Se kapitel for en gennemgang af erstatningsreglerne i dansk ret.
-**<a href="https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html" width="853">klik her!</a>**
+**<a href="https://jura.tepedu.dk/erstatningsreglerne-og-den-forsikringsmssige-afdkning.html" >klik her!</a>**
 
 ---
 
@@ -3016,7 +2984,7 @@ Hændelige skader er man ikke ansvarlig for, se fx her fra retspraksis følgende
 
 
 Se dommen i **FED 2018.05:** 2-årigt barn A, der blev passet af gudmor B, kom alvorligt til skade, da A fik fingre i skål med skoldhed suppe, der væltede ned over A: "A og B opholdt sig i et køkken, og B havde vendt ryggen til A i ca. 2 sek. Det var ikke oplyst, hvor på køkkenbordet skålen var placeret, og A havde herefter ikke bevist, at B havde udvist ansvarspådragende uagtsomhed". 
-**<a href="https://pro.karnovgroup.dk/document/7000825538/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000825538/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3075,7 +3043,7 @@ I **Forsikringsankenævnetssagsnr.: 86059** fandt nævnet, at klageren havde han
 ***Studenteropgave***
 
 Find 4 nævnsafgørelser fra Forsikringsankenævnet om en nærmere stillingtagen til om der er dækning på ansvarsforsikringen for den skade forsikringstageren/skadevolder har forvoldt.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
@@ -3177,7 +3145,7 @@ Ligeledes er **Forsikringsankenævnets sagsnr.: 88426** om en 12-årig dreng, de
 ***Studenteropgave***
 
 Find disse 3 nævnsafgørelser, hvor forsikringstageen/den forsikrede pådrager sig et ansvar, som er dækket på ansvarsforsikringen.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
@@ -3213,7 +3181,7 @@ Find forskellige forsikringsselskabers forsikringsbetingelser om ansvarsdækning
 Det følger af forsikringsaftalelovens (Lovbekendtgørelse nr. 1237 af 9. november 2015) § 19, stk. 1:
 
 "Bestemmelserne i FAL§ 18 om bortfald eller begrænsning af selskabets ansvar finder ikke anvendelse, når den sikrede var under 14 år eller på grund af sindssygdom, åndssvaghed, forbigående sindsforvirring eller lignende tilstand har manglet evnen til at handle fornuftsmæssigt"
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -3223,7 +3191,7 @@ Se følgende domme:
 <img src="img/bee.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 **U 1964.786 H:** To 7-årige drenge havde begået hærværk på en bigård og herved pådraget sig erstatningsansvar.
-**<a href="https://pro.karnovgroup.dk/document/7000211217/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000211217/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3231,14 +3199,14 @@ Se følgende domme:
 ![](img/drab4.jpg)
 
 **U 1954.746 H:** Hvor en mand fik udbetalt en ulykkeserstatning for hustruen uanset, at han havde dræbt hende og deres 6 børn.
-**<a href="https://pro.karnovgroup.dk/document/7000223416/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000223416/1" >Dommen klik her!</a>**
 
 ---
 
 ![](img/drab2.jpg)
 
 **U 1982.528 H:** Hvor en mand dræbte sin hustru og hund, hvorefter han satte ild på sit hus, hvorved han indebrændte. 
-**<a href="https://pro.karnovgroup.dk/document/7000206418/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000206418/1" >Dommen klik her!</a>**
 
 <img src="img/fire2.jpg" align="right" width="25%" height="25%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -3247,7 +3215,7 @@ Se følgende domme:
 ![](img/drab.jpg)
 
 **U 2006.1961 Ø:** Hvor en mand satte i suicidal øjemed ild til sin ejendom.
-**<a href="https://pro.karnovgroup.dk/document/7000325875/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000325875/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3382,9 +3350,7 @@ Der er ligeledes erstatningsansvar, hvis man har forvoldt skaden forsætligt, me
 
 ---
 
-## <font color="red">Video om ansvarsforsikringer samt dækningsprincipper på 6 minutter<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/ZRS1HfnS6Y0" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/ZRS1HfnS6Y0"  target="_blank">Video om ansvarsforsikringer samt dækningsprincipper</a></h4>
 
 ---
 
@@ -3422,12 +3388,12 @@ Hvis man arbejder for andre og får løn for det, så dækker privatansvarsforsi
 ---
 
 Se dommen i **FED2019.19.** Den ny ansatte N skulle betjene en pumpe til tømning af en fiskekutter, da han blev om at tilkalde hjælp af en fisker. Efter at have tilkaldt hjælp gik han ned i lastrummet på kutteren, hvor der lå 2 bevidstløse. Som følge af gasudvikling i lastrummet pådrog N sig en alvorlig hjerneskade. N var ikke blevet instrueret om faren for gasudvikling. Landsrettens flertal fandt det ikke upåregneligt for arbejdsgiveren, at N ville bevæge sig ombord på kutteren, uanset hans betjening af pumpen kunne foregå fra kajen. Derfor var der ikke givet den fornødne instruktion eller ført et effektivt tilsyn med arbejdet, hvorfor arbejdsgiveren havde handlet ansvarspådragende. 
-**<a href="https://pro.karnovgroup.dk/document/7000840313/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000840313/1" >Dommen klik her!</a>**
 
 ---
 
 Se dommen i **FED 2019.25.** J pådrog sig en knæskade under en firmajulefrokost, som var arrangeret af arbejdsgiver og blev holdt i arbejdsgivers lokaler. Skaden skete, da der i forbindelse med oprydning efter julefrokosten opstod leg i form af moslen og tumlen mellem J og H, hvilken leg ikke havde en sådan naturlig forbindelse med julefrokosten, at der var grundlag for at anse forholdet for omfattet af arbejdsskadesikringslovens § 5, og J's skade var derfor ikke en arbejdsskade. 
-**<a href="https://pro.karnovgroup.dk/document/7000844868/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000844868/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3492,7 +3458,7 @@ Det samme gælder genstande, som børn kommer til at ødelægge, fordi de har en
 <img src="img/bulldozer.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Et vidtgående eksempel er dommen i **U 1980.1082 Ø.** Her skulle forsikringsselskabet erstatte, at to 16-årige drenge havde formået at starte en bulldozer med en skruetrækker, hvorefter bulldozeren kørte i havnen
-**<a href="https://pro.karnovgroup.dk/document/7000208150/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000208150/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3510,9 +3476,7 @@ Sådanne skader dækkes ikke, og man skal således købe en autoansvarsforsikrin
 
 ---
 
-## <font color="red">Video: Filosoffen om forsikring<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/8rCy4beDZdc" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/8rCy4beDZdc"  target="_blank">Video: Filosoffen om forsikring</a></h4>
 
 ---
 
@@ -3522,7 +3486,7 @@ Forsikringsaftalen, herunder policen og de almindelige forsikringsbetingelser, s
 
 ---
 
-### <font color="red">Forsikringsselskabets begrundelsespligt<sup> Premium </font></sup> 
+#### <font color="red">Forsikringsselskabets begrundelsespligt<sup> Premium </font></sup> 
 
 ![](img/fisk.jpg)
 
@@ -3631,7 +3595,7 @@ Find domme eller nævnsafgørelser, hvor Forsikringsselskabet ikke har givet ell
 
 ---
 
-### <font color="red">Urigtige oplysninger ved forsikringsaftalens indgåelse<sup> Premium </font></sup> 
+#### <font color="red">Urigtige oplysninger ved forsikringsaftalens indgåelse<sup> Premium </font></sup> 
 
 
 Forsikringsselskabets vurdering af, om det vil tegne en forsikring, afhænger i vidt omfang af de risikooplysninger, som selskabet modtager fra forsikringstageren. 
@@ -3651,7 +3615,7 @@ Det forsikringsretlige svigbegreb kan ikke sammenlignes med det aftaleretlige sv
 Se fra retspraksis:
 
 **U 2012.1031 Ø:** Ikke uagtsomt ved tegning af forsikring ikke at oplyse om ikke belastende skade og om overholdt afdragsordning i tidligere selskab. 
-**<a href="https://pro.karnovgroup.dk/document/7000508977/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000508977/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3681,7 +3645,7 @@ Se følgende Højesteretsdom:
 ![](img/frikops.jpg)
 
 Se dommen i **U 1952.278 H:** Ved tegning af en livsforsikring havde A i forsikringsbegæringen fortiet, at han led af følgerne af en skudlæsion i kæben, hidrørende fra krigstjeneste i „Frikorps Danmark“. Ca. ½ år senere blev han, der ved dette tidspunkt brugte chloral mod smerter fra læsionen, fundet død i sengen med en tom chloralflaske på natbordet. Det fandtes ikke godtgjort, at han udover nævnte fortielse, der ikke kunne antages sket i svigtagtig hensigt, havde givet urigtige oplysninger, og det fandtes ikke antageliggjort, at forsikringsselskabet ikke ville have overtaget forsikringen eller kun overtaget den på særlige vilkår, hvis der havde været givet rigtig oplysning. Selskabets påstand om frifindelse i henhold til FAL 1. §§ 4 og 6 for at udbetale forsikringssummen kunne herefter ikke tages til følge. 
-**<a href="https://pro.karnovgroup.dk/document/7000216630/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000216630/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3694,7 +3658,7 @@ Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste 
 Situationen er den, at forsikringstageren ikke har handlet uagtsomt ved afgivelse af oplysningen til forsikringsselskabet.
 
 Det følger af FAL § 7, at forsikringstagerens undladelse af at give oplysning har ingen indflydelse på selskabets ansvar, medmindre han burde være klar over, at den ikke oplyste omstændighed var af betydning for selskabet, og hans forhold kan tilregnes ham som grov uagtsomhed. I så fald anses han, som om han havde givet urigtig oplysning, jf. FAL § 6. 
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Dommen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Dommen klik her!</a>**
 
 ---
 
@@ -3713,19 +3677,19 @@ Find domme og nævnsafgørelser vedrørende forsikringstagerens urigtige oplysni
 
 
 Se dommen i **U 1973.616 Ø:** Forsikringstagers godtroende stillingsangivelse som »husmoder« afskar ikke erstatning for skade opstået på vej til deltids rengøringsjob. Har forsikringstageren, uden at forholdet omfattet af ovenstående forhold, givet urigtig oplysning, er forsikringsselskabet fri for ansvar, hvis det kan antages ikke at ville have overtaget forsikringen, om det rette forhold havde været oplyst. I denne situation har forsikringstageren handlet uagtsomt i forbindelse med afgivelse af oplysninger på forsikringsbegæringen til forsikringsselskabet ved forsikringstegning, jf. FAL § 6.
-**<a href="https://pro.karnovgroup.dk/document/7000209846/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000209846/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i **U 1932.1014 H** Ulykkesforsikring ej bindende, da forsikringstageren urigtigt havde benægtet, at han var forsikret andetsteds, og at andre selskaber havde nægtet at forsikre ham.
-**<a href="https://pro.karnovgroup.dk/document/7000240270/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000240270/1" >Dommen klik her!</a>**
 
 ---
 
 ![](img/tyv3.jpg)
 
 Se dommen i **U 2000.1567 H** Ikke erstatning for tyveri af båd, da forsikringstager uagtsomt havde afgivet urigtig oplysning ved tegningen. Begæringen var affattet på engelsk og forsikringstageren oplyste, at han havde overladt udfyldelsen til bådsælgeren, da han i vidt omfang ikke forstod den engelske tekst. 
-**<a href="https://pro.karnovgroup.dk/document/7000196719/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000196719/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3733,13 +3697,13 @@ Se dommen i **U 2000.1567 H** Ikke erstatning for tyveri af båd, da forsikrings
 
 
 Dommen i **U 1997.683 H** undlod forsikrede ved tegning af en ulykkesforsikring at oplyse om kraniebrud efter to tidligere færdselsuheld. Retten fandt, at afgivelsen af de urigtige oplysninger kunne tilregnes forsikrede som uagtsom. Assurandør- Societetet (nu Forsikring & Pension) udtalte, at de fleste forsikringsselskaber ville have antaget den pågældende ulykkesforsikring, selv om de havde været bekendt med de rigtige oplysninger. Det fandtes herefter ikke antageliggjort, at selskabet ikke ville have tegnet forsikringen eller kun ville have tegnet den på ændrede vilkår, hvis de rigtige oplysninger var blevet givet.
-**<a href="https://pro.karnovgroup.dk/document/7000202525/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000202525/1" >Dommen klik her!</a>**
 
 ---
 
 
 Se dommen i **FED 2000.1608 Ø** havde forsikringstageren ikke oplyst om en erklæring fra Teknologisk Institut i forbindelse med tegning af en bygningsforsikring. 
-**<a href="https://pro.karnovgroup.dk/document/7000327314/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000327314/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3749,7 +3713,7 @@ Se dommen i **FED 2000.1608 Ø** havde forsikringstageren ikke oplyst om en erkl
 
 ---
 
-### <font color="red">Police og forsikringsbetingelserne<sup> Premium </font></sup>
+#### <font color="red">Police og forsikringsbetingelserne<sup> Premium </font></sup>
 
 
 Forsikringstageren police er et forsikringsdokument, der indeholder de generelle og specielle vilkår for en indgået forsikringsaftale mellem forsikringsselskabet og forsikringstageren. 
@@ -3776,7 +3740,7 @@ Find et ex. på en police for indhold og opbygning.
 
 ---
 
-### <font color="red">Fortrydelsesret ved tegning af forsikring<sup> Premium </font></sup> 
+#### <font color="red">Fortrydelsesret ved tegning af forsikring<sup> Premium </font></sup> 
 
 
 Når man køber en ny forsikring, kan man fortryde købet af forsikringen. 
@@ -3837,14 +3801,12 @@ Det er for sent, at forsikringsselskabet først modtager henvendelse den 19. feb
 
 ---
 
-## <font color="red">Video om hvordan dækker en ulykkesforsikring<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/gsK8tssPiZ0" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/gsK8tssPiZ0"  target="_blank">Video om hvordan dækker en ulykkesforsikring</a></h4>
 
 ---
 
 
-### <font color="red">Indtrædelse af forsikringsselskabets ansvar<sup> Premium </font></sup>
+#### <font color="red">Indtrædelse af forsikringsselskabets ansvar<sup> Premium </font></sup>
 
 ![](img/ins.jpg)
 
@@ -3861,16 +3823,16 @@ En livsforsikring dækker typisk ikke selvmord inden 1 år efter forsikringens t
 Se fra sager fra praksis:
 
 Dommen i **FED 2000.2067:** Telefonisk bestilt forsikring trådte i kraft ved fremsendelse af girokort, selv om skaden skete inden dette var betalt. 
-**<a href="https://pro.karnovgroup.dk/document/7000331658/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000331658/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i **FED 1999.1405:** Forsikringsselskab pålagt at dække en brandskade uanset generelle acceptregler, idet det blev anset for godtgjort, at en indsendt forsikringsbegæring ville være blevet antaget, hvis selskabet havde været uden kendskab til en indtruffet skade. 
-**<a href="https://pro.karnovgroup.dk/document/7000328891/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000328891/1" >Dommen klik her!</a>**
 
 ---
 
-### <font color="red">Præmien (betalingen) for forsikringen<sup> Premium </font></sup>
+#### <font color="red">Præmien (betalingen) for forsikringen<sup> Premium </font></sup>
 
 Præmiens størrelse og hvornår den skal betales af forsikringstageren fastlægges i overensstemmelse med den enkelte forsikringsaftale, hvor det fx kan bestemmes, at præmien forfalder til betaling hvert år den 1. januar, således at forsikringsselskabet kan kræve præmien betalt pr. denne dato. 
 
@@ -3926,7 +3888,7 @@ Hvis forsikringsselskabet ikke overholder disse betingelser i forsikringsaftalen
 
 ---
 
-### <font color="red">Opsigelse af forsikringen<sup> Premium </font></sup>
+#### <font color="red">Opsigelse af forsikringen<sup> Premium </font></sup>
 
 
 **Der er flere måder, man kan opsige sine private forsikringer på:** 
@@ -3963,7 +3925,7 @@ Find to afgørelser fra Forsikringsankenævnet, hvor forirkingstagerne klager ov
 
 ---
 
-### <font color="red">Begrebet "forsikringstid“<sup> Premium </font></sup>
+#### <font color="red">Begrebet "forsikringstid“<sup> Premium </font></sup>
 
 Forsikringstiden er den periode, i hvilken forsikringsselskabet er ansvarlig for betaling af dine eller andres skader, enten fordi årsagen til skaden er indtrådt i forsikringstiden, fordi virkningen af skaden har vist sig i forsikringstiden, eller fordi kravet er rejst i forsikringstiden. 
 
@@ -3976,7 +3938,7 @@ Det vil fremgå af de almindelige forsikringsbetingelser (det med det småtrykte
 Eksempel fra retspraksis:
 
 Dommen i **FED 2008.290:** Uagtet en forsikringsbegæring vedrørende ansvarsforsikring af en bil angav ikrafttræden som 19. maj, blev aftalen anset for at være trådt i kraft den 18. maj, idet assurandøren under et møde den 18. gav forsikringstager et forsikringsbevis, hvoraf ikke fremgik, at forsikringen første trådte i kraft dagen efter. Datoen var indført af assurandøren uden drøftelse med forsikringstager. Selskabet dømtes til at dække det erstatningsansvar, som forsikringstager pådrog sig ved et færdselsuheld, som han var involveret i samme aften. 
-**<a href="https://pro.karnovgroup.dk/document/7000481075/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000481075/1" >Dommen klik her!</a>**
 
 ---
 
@@ -3986,7 +3948,7 @@ Fx som tidligere omtalt, er der pligt til at tegne ansvarsforsikring for motordr
 
 ---
 
-### <font color="red">Fareforøgelse<sup> Premium </font></sup>
+#### <font color="red">Fareforøgelse<sup> Premium </font></sup>
 
 
 
@@ -4027,7 +3989,7 @@ Se retspraksis:
 
 
 Se dommen **U 1996.294 H:** En bestemmelse i en hesteforsikring om, at der skulle gives meddelelse om, hvis der skete ændringer i de forsikrede dyrs forhold, opstaldning og anvendelse, opfyldte ikke kravet for så vidt angik en knælidelse, som den forsikrede hest pådrog sig. 
-**<a href="https://pro.karnovgroup.dk/document/7000201887/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000201887/1" >Dommen klik her!</a>**
 
 ---
 
@@ -4060,7 +4022,7 @@ Det kan også være, at skadede genstande bør "sikres“, så det senere er utv
 
 ---
 
-### <font color="red">Generelt om urigtige risikooplysninger<sup> Premium </font></sup>
+#### <font color="red">Generelt om urigtige risikooplysninger<sup> Premium </font></sup>
 
 
 Ved forsikringsaftalens indgåelse skal man afgive risikooplysninger, som tidligere omtalt, således at forsikringsselskabet kan vurdere risikoen og fastsætte præmie og vilkår. 
@@ -4090,13 +4052,11 @@ Konsekvensen er, at der heller ikke bliver udbetalt erstatning. Se nærmere i FA
 Se retspraksis:
 
 Se dommen i **FED 2015.120:** A havde ikke oplyst F om de rigtige brugerforhold af hendes bil, hvilket var groft uagtsomt i henhold til FAL §§ 6 og 7. F kunne derfor rette et forholdsmæssigt krav mod A. 
-**<a href="https://pro.karnovgroup.dk/document/7000757381/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000757381/1" >Dommen klik her!</a>**
 
 ---
 
-## <font color="red">Video om hvordan dækker familieforsikringen<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/FfIcQgcMKn4" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/FfIcQgcMKn4"  target="_blank">Video om hvordan dækker familieforsikringen</a></h4>
 
 ---
 
@@ -4114,7 +4074,7 @@ Manglende anmeldelse af ændringer kan derfor resultere i, at der enten – hvis
 ---
 
 
-### <font color="red">Betalingsproceduren omkring forsikringspræmien<sup> Premium </font></sup>
+#### <font color="red">Betalingsproceduren omkring forsikringspræmien<sup> Premium </font></sup>
 
 
 I forsikringsvilkårene vil det være aftalt, at forsikringsselskabet skal sende et påkrav (typisk fremsendelse af et girokort) til den betalingsadresse, man har opgivet til selskabet. 
@@ -4184,7 +4144,7 @@ Spørgsmålet er dog ikke prøvet ved domstolene.
  
 ---
 
-### <font color="red">Generelle forhold mellem forsikringstageren og forsikringsselskabet<sup> Premium </font></sup>
+#### <font color="red">Generelle forhold mellem forsikringstageren og forsikringsselskabet<sup> Premium </font></sup>
 
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre forsikringstagerens krav, skal selskabet betale renter af erstatningen fra denne dato. 
 
@@ -4195,17 +4155,17 @@ Det fremgår af FAL § 24.
 Se eksempler fra retspraksis:   
 
 Dommen i **U 2001.1143 V:** Da forsikringsselskabet hæftede for skadelidtes krav efter færdselsulykke umiddelbart i medfør af den lovpligtige ansvarsforsikring, og da selskabet 1995-11-17 kunne vurdere stationærtidspunktet, var kravet omfattet af § 24 og skulle forrentes fra 1995-12-07. 
-**<a href="https://pro.karnovgroup.dk/document/7000226028/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000226028/1" >Dommen klik her!</a>**
 
 ---
 
 Dommen i **U 2003.2269 H** – Grov uagtsomhed ikke godtgjort ved kollision efter overskridelse af dobbelt optrukket spærrelinje. Krav mod lovpligtig ansvarsforsikring ikke omfattet af forsikringsaftalelovens § 24 om forrentning eller § 29 om forældelse. 
-**<a href="https://pro.karnovgroup.dk/document/7000270814/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000270814/1" >Dommen klik her!</a>**
 
 ---
 
 Se dommen i **U 2005.635 H** Invaliderente, der var betinget af tilkendelse af offentlig invalidepension svarende til nedsættelse af erhvervsevnen med 2/3, forfaldt først til betaling 14 dage efter, at forsikringsselskabet havde modtaget meddelelse om, at der var tilkendt sådan pension. 
-**<a href="https://pro.karnovgroup.dk/document/7000304091/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000304091/1" >Dommen klik her!</a>**
 
 ---
   
@@ -4227,7 +4187,7 @@ Forsikringsselskabet kan altså ikke tilbageholde hele erstatningen, fordi der s
 
 ---
 
-### <font color="red">Sikkerhedsforholdsregler/sikkerhedsforskrifter<sup> Premium </font></sup>
+#### <font color="red">Sikkerhedsforholdsregler/sikkerhedsforskrifter<sup> Premium </font></sup>
 
 Hvis forsikringsselskabet i forsikringstiden har betinget sig, at forsikringstageren skal iagttage visse forholdsregler, der skal forebygge risikoen for skade eller formindske en eventuel skades omfang, foreligger der en *sikkerhedsforskrift*. 
 
@@ -4265,9 +4225,7 @@ Det er forsikringsselskabets bevisbyrde, hvis selskabet mener, at sikkerhedsfors
   
 ---
 
-## <font color="red">Video: Jørgen har styr på det<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/Oi1NnFx8NB4" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/Oi1NnFx8NB4"  target="_blank">Video: Jørgen har styr på det</a></h4>
 
 
 ---
@@ -4278,7 +4236,7 @@ Det er forsikringsselskabets bevisbyrde, hvis selskabet mener, at sikkerhedsfors
 ![](img/lost.jpg)
 
 Se dommen i **FED 1994.52.** (Krav om aflåsning kunne ikke anses som krav om vedvarende aflåsning. Dækning af tyveri fra skab trods uaflåst hoveddør). Den manglende aflåsning skal kunne tilregnes den pågældende som en forsømmelse. 
-**<a href="https://pro.karnovgroup.dk/document/7000328248/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000328248/1" >Dommen klik her!</a>**
 
 ---
 
@@ -4291,7 +4249,7 @@ Se dommen i **FED 1994.52.** (Krav om aflåsning kunne ikke anses som krav om ve
 ---
 
 **Se dommen i U 2004.993 H:** Forsikringsselskab kunne ikke nægte udbetaling af brandforsikringssum under henvisning til, at forsikringstageren havde tilsidesat sikkerhedsforholdsregler ved halmfyring. Under fyring med halmfyr på en landbrugsejendom opstod der brand, hvorved der opstod skade på ejendommen for ca. 3,7 mio. kr. 
-**<a href="https://pro.karnovgroup.dk/document/7000283059/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000283059/1" >Dommen klik her!</a>**
 
 ---
 
@@ -4348,11 +4306,11 @@ Står dette tydeligt i forsikringstagerens forsikringsbetingelser, får forsikri
 ***Studenteropgave***
 
 Find to nævnsafgørelser fra Forsikringsankenævnet, hvor der gives afslag på erstatning pga., at forsikringstageren ikke har iagtaget sikkerhedsforskrifterne.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
-### <font color="red">Risikooplysninger og urigtige oplysninger<sup> Premium </font></sup>
+#### <font color="red">Risikooplysninger og urigtige oplysninger<sup> Premium </font></sup>
 
 
 Når man tegner en forsikring, skal man som tidligere nævnt normalt give forsikringsselskabet en række oplysninger, så selskabet kan vurdere, hvor stor en risiko det løber ved at forsikre én. 
@@ -4424,11 +4382,11 @@ I **Forsikringsankenævnets sagsnr.: 78797** kunne selskabet ikke bevise, at kla
 ***Studenteropgave***
 
 Find 3 nævnsafgørelser i Forsikringsankenævnet omkring problemstillinger vedrørende forsikringstagerens afgivelse af risikooplysninger.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
-### <font color="red">Erstatning og renter<sup> Premium </font></sup>
+#### <font color="red">Erstatning og renter<sup> Premium </font></sup>
 
 
 Udbetaler forsikringsselskabet ikke erstatning til forsikringstageren inden 14 dage efter, at selskabet har modtaget de nødvendige oplysninger til at afgøre ens krav, skal selskabet betale renter af erstatningen fra denne dato.
@@ -4448,7 +4406,7 @@ Forsikringsselskabet skal udbetale aconto-erstatning til forsikringstageren, hvi
 ---
 
 Selskabet kan altså ikke tilbageholde hele erstatningen, fordi der stadig er genstande, hvor erstatningen ikke kan fastsættes. Det fremgår af FAL § 24, stk. 1, og § 25.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -4476,7 +4434,7 @@ Genforsikringsaftaler involverer endvidere betaling af provision fra genforsikri
 
 ---
 
-### <font color="red">Under- og dobbeltforsikring<sup> Premium </font></sup>
+#### <font color="red">Under- og dobbeltforsikring<sup> Premium </font></sup>
 
 
 Forsikringssummen på ens forsikring skal altid mindst svare til forsikringsværdien af fx indboet. 
@@ -4517,18 +4475,18 @@ Forsikringsselskabet betaler i den situation alene erstatning for ens skade og i
 ***Studenteropgave***
 
 Find 2 nævnsafgørelser, hvor Forsikringsankenævnet gøre gældende underforsikring. 
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
-### <font color="red">Forældelse af forsikringskrav<sup> Premium </font></sup>
+#### <font color="red">Forældelse af forsikringskrav<sup> Premium </font></sup>
 
 
 
 ![](img/for4.jpg)
 
 For at man kan få fyldestgjort sit krav, skal man fremsætte det, inden det er forældet, jf. forældelsesloven.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -4653,11 +4611,11 @@ Dog kan forsikringsselskabet gyldigt aftale en anmeldelsesfrist i forbindelse me
 **Studenteropgave**
 
 Find 3 nævnsafgørelser i Forsikringsankenævnet på spørgsmålet om forældelse.
-**<a href="http://ankeforsikring.dk/Sider/default.aspx" width="853">klik her!</a>**
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" >klik her!</a>**
 
 ---
 
-### <font color="red">Klage over forsikringsselskabets afgørelse<sup> Premium </font></sup>
+#### <font color="red">Klage over forsikringsselskabets afgørelse<sup> Premium </font></sup>
 
 
 *Ankenævnet for Forsikring* er et privat klagenævn oprettet i 1975 af Forbrugerrådet Tænk og brancheforeningen Forsikring & Pension. 
@@ -4665,7 +4623,7 @@ Find 3 nævnsafgørelser i Forsikringsankenævnet på spørgsmålet om forældel
 Ankenævnet er godkendt af Erhvervsministeren og derfor "autoriseret" til at behandle forsikringsklager udenretligt.  
 
 De private godkendte ankenævn (tvistløsningsorganer) er reguleret af *forbrugerklageloven*. 
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -4769,9 +4727,7 @@ Konkurrence- og Forbrugerstyrelsen/Forbrugerklagenævnet eller i den sidste ende
 
 ---
 
-## <font color="red">Video om Forsikringsoplysningen<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/_AfijS3r6Sk" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/_AfijS3r6Sk"  target="_blank">Video om Forsikringsoplysningen</a></h4>
 
 
 ---
@@ -4780,9 +4736,7 @@ Forskellen på en assurandør og en forsikringsmægler er at assuandøren er ans
 
 ---
 
-## <font color="red">Video om erhvervsassurandøren<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/iNdN_0ZYDEI" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/iNdN_0ZYDEI"  target="_blank">Video om erhvervsassurandøren</a></h4>
 
 
 ---
@@ -4802,9 +4756,7 @@ Lad os derfor starte med at se nærmere på pensionssystemet:
 
 ---
 
-## <font color="red">Video om hvad indeholder min pensionsordning<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/Vcf8Ckorb5s" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/Vcf8Ckorb5s"  target="_blank">Video om hvad indeholder min pensionsordning</a></h4>
 
 ---
 
@@ -4815,19 +4767,15 @@ En *livrente* er en pension i forsikringsklæder. For med livrenten får man udb
 
 ---
 
-## <font color="red">Video: Pension forklaret så man faktisk fatter det<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/W6i8F73jeRE" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/W6i8F73jeRE"  target="_blank">Video: Pension forklaret så man faktisk fatter det</a></h4>
 
 ---
 
-## <font color="red">Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?<sup> Premium </font></sup> 
-
-**<a href="https://www.youtube.com/embed/vdSRTFzuhjo" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/vdSRTFzuhjo"  target="_blank">Video: Pensionsopsparing‐ Skal jeg vælge Livrente som en del af min pension?</a></h4>
 
 ---
 
-### <font color="red">Opdelingen af det danske pensionssytem<sup> Premium </font></sup>
+#### <font color="red">Opdelingen af det danske pensionssytem<sup> Premium </font></sup>
  
 Det danske pensionssystem opdeles i tre dele: 
 
@@ -4846,7 +4794,7 @@ Her er der tale om pensionsordninger, man selv kan oprette i forsikringsselskabe
  
 ---
 
-### <font color="red">Generelt for de tre dele i pensionssystemet<sup> Premium </font></sup>
+#### <font color="red">Generelt for de tre dele i pensionssystemet<sup> Premium </font></sup>
 
 ![](img/pension1.jpg)
 
@@ -4860,7 +4808,7 @@ Arbejdsmarkedspensionerne skal sikre et rimeligt forhold mellem det, man kan få
  
 ---
 
-### <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup>
+#### <font color="red">Pension og erhvervsevnetab<sup> Premium </font></sup>
 
 ![](img/pension2.jpg)
 
@@ -4912,7 +4860,7 @@ Kontakt derfor forsikringsselskabet, hvis arbejdsgiver ophører med at indbetale
  
 ---
 
-### <font color="red">Nævnspraksis og fortolkninger af erhvervsevnetab<sup> Premium </font></sup>
+#### <font color="red">Nævnspraksis og fortolkninger af erhvervsevnetab<sup> Premium </font></sup>
 
 
 Nogle forsikringsselskaber kræver, at ens erhvervsevne ikke må være nedsat med den fastsatte brøkdel, når man optages i ordningen. 
@@ -5096,13 +5044,11 @@ Har man afgivet urigtige oplysninger til forsikringsselskabet ved tegningen af f
 
 ---
 
-## <font color="red">Video: Jakob oplysning: Pension<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/fLnGjz9729U" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/fLnGjz9729U"  target="_blank">Video: Jakob oplysning: Pension</a></h4>
 
 ---
 
-###	<font color="red">Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering<sup> Premium </font></sup>
+####	<font color="red">Hvordan oplyses sagen i forsikringsselskabet, og hvilke forhold der indgår i deres vurdering<sup> Premium </font></sup>
 
 
 
@@ -5152,7 +5098,7 @@ Formålet med arbejdsprøvningerne er at finde ud af, i hvilke funktioner man ka
 
 ---
 
-### <font color="red">Nævnspraksis om erhvervsevnetabsforsikringen<sup> Premium </font></sup>
+#### <font color="red">Nævnspraksis om erhvervsevnetabsforsikringen<sup> Premium </font></sup>
 
 Det forhold, at man bevilges fleksjob med eksempelvis 10 timer om ugen, medfører ikke automatisk, at ens erhvervsevnetabsforsikring vil vurdere, at ens erhvervsevne er nedsat med mere end 2/3. 
 
@@ -5233,11 +5179,11 @@ Se eksempelvis klagesagerne i
 ---
 
 Højesteret har i en dom **U 2011.2223 H** taget stilling til, at det er forsikringstageren, der skal bevise, at hans (generelle) erhvervsevne er nedsat, og at det forhold, at der var tilkendt fleksjob med 2/3 tilskud, ikke i sig selv gav en formodning for, at der forelå en nedsættelse af erhvervsevnen. 
-**<a href="https://pro.karnovgroup.dk/document/7000497255/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000497255/1" >Dommen klik her!</a>**
 
 ---
 
-###	<font color="red">Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft<sup> Premium </font></sup>
+####	<font color="red">Lidelser, der er opstået, før erhvervsevnetabsforsikringen trådte i kraft<sup> Premium </font></sup>
 
 
 Det fremgår ofte af forsikringsbetingelserne, at man ikke har ret til erhvervstabsdækning, hvis ens erhvervsevne allerede var nedsat med den relevante brøkdel, da man blev omfattet af forsikringen.  
@@ -5261,7 +5207,7 @@ Se fx **Forsikringsankenævnets sagsnr.: 85493** (erhvervsevnetabet var indtråd
 I nogle ordninger gælder det dog, at et dækningsforbehold – som generelt gælder for de lidelser, man havde, da man indtrådte i pensionsordningen –	bortfalder 10 år efter, at man er indtrådt.  
 
 
-### <font color="red">Forsikringsselskabets muligheder for at standse udbetalingerne<sup> Premium </font></sup>
+#### <font color="red">Forsikringsselskabets muligheder for at standse udbetalingerne<sup> Premium </font></sup>
 
 
 
@@ -5312,7 +5258,7 @@ Se eksempelvis klagesagerne i Forsikringsankenævnet:
 ---
 
 
-### <font color="red">Helbredsoplysninger<sup> Premium </font></sup>
+#### <font color="red">Helbredsoplysninger<sup> Premium </font></sup>
 
 
 Nogle forsikringsselskaber kræver, at man afgiver helbredsoplysninger, når man tegner en forsikring mod erhvervsevnetab. 
@@ -5329,21 +5275,15 @@ Hvis man afgiver urigtige oplysninger til forsikringsselskabet ved tegningen af 
 
 ---
 
-## <font color="red">Video få styr på arven: Hvem får pensionen?<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/F6Yourieo0Q" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q"  target="_blank">Video få styr på arven: Hvem får pensionen?</a></h4>
 
 ---
 
-## <font color="red">Video om pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/XlRPMMEtnOI" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/XlRPMMEtnOI"  target="_blank">Video om pensionsopsparing ‐ Aldersopsparing er afløseren for kapitalpension</a></h4>
 
 ---
 
-## <font color="red">Video: Pensionsopsparing Hvad får du med en ratepension?
-
-**<a href="https://www.youtube.com/embed/uM9qeWfdZfE" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/uM9qeWfdZfE"  target="_blank">Video: Pensionsopsparing Hvad får du med en ratepension?</a></h4>
 
 ---
 
@@ -5586,13 +5526,11 @@ Flytter man fra hinanden, bortfalder samlevers ret til engangsudbetalingen.
 
 
 Se dommen i **U 2016.1487 H** En forsikringsaftale indeholdt en ydelsesgaranti, men ikke en garanti om, at forsikringstagers løbende opsparing hvert år skulle forrentes med mindst 4,5 %.
-**<a href="https://pro.karnovgroup.dk/document/7000747508/1" width="853">Dommen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000747508/1" >Dommen klik her!</a>**
 
 ---
 
-## <font color="red">Video: Ole Møgdahl Vil tegne livsforsikring for sin kone<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/UKGAt8fcHaU" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/UKGAt8fcHaU"  target="_blank">Video: Ole Møgdahl Vil tegne livsforsikring for sin kone</a></h4>
 
 ---
 
@@ -5600,7 +5538,7 @@ Se dommen i **U 2016.1487 H** En forsikringsaftale indeholdt en ydelsesgaranti, 
 
 
 Lov 2018-01-22 nr. 41 om forsikringsformidling har gennemført dele af den politiske aftale om styrket indsats mod hvidvask m.v. i den finansielle sektor af 2017–06–21, som har til formål at styrke de finansielle virksomheders fokus på efterlevelsen af reglerne på hvidvaskområdet.
-**<a href="https://jura.tepedu.dk/lovsamling.html" width="853">Se Lovsamlingen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html" >Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -5621,15 +5559,11 @@ Disse aktører skal, hvis de er omfattet af de nye regler, søge om nye tilladel
 
 ---
 
-## <font color="red">Video: Ansøgning som forsikringsformidler & genforsikringsformidler<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/jfiEp2XIE6Y" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/jfiEp2XIE6Y"  target="_blank">Video: Ansøgning som forsikringsformidler & genforsikringsformidler</a></h4>
 
 ---
 
-## <font color="red">Video: Sådan ansøger du om at blive accessorisk forsikringsformidler<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/m-oGXItShsQ" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/m-oGXItShsQ"  target="_blank">Video: Sådan ansøger du om at blive accessorisk forsikringsformidler</a></h4>
 
 ---
 
@@ -5666,7 +5600,7 @@ Bkg. 2018 455 om god skik for forsikringsdistributører.
 
 ---
 
-### <font color="red">Definitioner forsikringsformidlerloven<sup> Premium </font></sup>
+#### <font color="red">Definitioner forsikringsformidlerloven<sup> Premium </font></sup>
 
 
 I forsikringsformidlerloven fremgår der følgende definitioner:
@@ -5744,7 +5678,7 @@ For så vidt angår sædvanlig dividende eller afkast, der tilkommer en ejer af 
 
 ---
 
-### <font color="red">Kompetencekrav<sup> Premium </font></sup>
+#### <font color="red">Kompetencekrav<sup> Premium </font></sup>
 
 I loven stilles der følgende kompetencekrav på forsikringsformidlingsområdet:
 
@@ -5793,7 +5727,7 @@ Derudover stilles der krav om, at den ansatte skal kunne afdække og identificer
 
 ---
 
-### <font color="red">God skik for forsikringsformidling<sup> Premium </font></sup>
+#### <font color="red">God skik for forsikringsformidling<sup> Premium </font></sup>
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal drive virksomhed i overensstemmelse med redelig forretningsskik og god praksis for virksomhedsområdet, jf. forsikringsformidlerlovens § 12.
 
@@ -5809,7 +5743,7 @@ Se hertil Bekendtgørelse BKG 2019-11-15 nr 1143 om god skik for forsikringsdist
 
 ---
 
-### <font color="red">Forsikringsformidlerens aflønningsstruktur<sup> Premium </font></sup>
+#### <font color="red">Forsikringsformidlerens aflønningsstruktur<sup> Premium </font></sup>
 
 En forsikringsformidler og en accessorisk forsikringsformidler skal sikre, at formidlerens aflønningsstrukturer ikke strider mod formidlerens forpligtelse til at handle i kundens bedste interesse, herunder god skik-reglerne.
 
@@ -5831,7 +5765,7 @@ Loven indeholder ikke et generelt forbud mod brug af variabel løn eller salgsm�
 
 ---
 
-### <font color="red">Behovsanalysen<sup> Premium </font></sup>
+#### <font color="red">Behovsanalysen<sup> Premium </font></sup>
 
 Forsikringsdistributøren skal ifølge  forsikringsformidlingslov på baggrund af oplysninger fra kunden fastlægge kundens krav og behov, inden en forsikringsaftale indgås.
 
@@ -6120,16 +6054,11 @@ I den forbindelse skal Finanstilsynet lægge vægt på, om virksomhedens hjemmes
 
 ---
 
-
-## <font color="red">Video om forsikringsmæglervirksomhed<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/PKzv-b8AhzQ" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/PKzv-b8AhzQ"  target="_blank">Video om forsikringsmæglervirksomhed</a></h4>
 
 ---
 
-## <font color="red">Video: Præsentationsvideo fra APC Forsikringsmæglere<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/PRMBF4KQYpU" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/PRMBF4KQYpU"  target="_blank">Video: Præsentationsvideo fra APC Forsikringsmæglere</a></h4>
 
 ---
 

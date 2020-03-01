@@ -16,9 +16,9 @@ cat(readLines('np.html'))
 
 ---
 
-## Video om hvem arver fra dig?
 
-**<a href="https://www.youtube.com/embed/ikBxcxBSBb8" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/ikBxcxBSBb8" target="_blank">Video om hvem arver fra dig?</a></h4>
 
 ---
 
@@ -187,7 +187,7 @@ Tredje parentel er arveladerens bedsteforældre og disses livsarvinger.
 
 ---
 
-### Arveklasse 1 
+#### Arveklasse 1 
 
 Arveklasse 1 er *"livsarvinger"*, som er børn, børnebørn, oldebørn osv., jf. AL § 1. 
 
@@ -225,7 +225,7 @@ På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).
 
 ---
 
-### Arveklasse 2 
+#### Arveklasse 2 
 
 
 Arveklasse 2 er arveladers forældre, jf. AL § 2. Forældrene arver lige. 
@@ -255,7 +255,7 @@ Lever begge arveladerens forældre, arver de hver halvdelen, hvis arvelader ikke
 ---
 
 
-### Arveklasse 3
+#### Arveklasse 3
 
 Arveklasse 3 er arveladers bedsteforældre, jf. AL § 3. 
 
@@ -304,9 +304,9 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 ---
 
-## Video om sådan fordeles arven
 
-**<a href="https://www.youtube.com/embed/EIgZkPOF0_E">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video om sådan fordeles arven</a></h4>
 
 ---
 
@@ -335,39 +335,37 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ---
 
-## Video om fordeling af arv: Ugift par uden børn
 
-**<a href="https://www.youtube.com/embed/qYf2gatfAWQ">Videoen klik her!</a>**
 
----
-
-## Video om fordeling af arv: Ugift par med fælles børn
-
-**<a href="https://www.youtube.com/embed/cDriXFDNg30">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/qYf2gatfAWQ" target="_blank">Video om fordeling af arv: Ugift par uden børn</a></h4>
 
 ---
 
-## Video om fordeling af arv: Ugift par med stedbørn
 
-**<a href="https://www.youtube.com/embed/x7WzAOJJNXQ">Videoen klik her!</a>**
 
----
-
-## Video om arv mellem sammenlevende
-
-**<a href="https://www.youtube.com/embed/WVec5BYeu34">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/cDriXFDNg30" target="_blank">Video om fordeling af arv: Ugift par med fælles børn</a></h4>
 
 ---
 
-## Video om fordeling af arv uden børn
 
-**<a href="https://www.youtube.com/embed/bNa7tt460bY">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/x7WzAOJJNXQ" target="_blank">Video om fordeling af arv: Ugift par med stedbørn</a></h4>
 
 ---
 
-## Video om fordeling af arv med fællesbørn
 
-**<a href="https://www.youtube.com/embed/TXaWe8-jz9s">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/WVec5BYeu34" target="_blank">Video om arv mellem sammenlevende</a></h4>
+
+---
+
+
+
+<h4><a href="https://www.youtube.com/embed/bNa7tt460bY" target="_blank">Video om fordeling af arv uden børn</a></h4>
+
+---
+
+<h4><a href="https://www.youtube.com/embed/TXaWe8-jz9s" target="_blank">Video om fordeling af arv med fællesbørn</a></h4>
 
 ---
 
@@ -375,15 +373,13 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ---
 
-## Video om fordeling af arv: Ægtepar med stedbørn
 
-**<a href="https://www.youtube.com/embed/MQ6i9G5NxUc">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/MQ6i9G5NxUc" target="_blank">Video om fordeling af arv: Ægtepar med stedbørn</a></h4>
 
 ---
 
-## Video om arv mellem ægtefæller
-
-**<a href="https://www.youtube.com/embed/UtsI4IWmajI">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/UtsI4IWmajI" target="_blank">Video om arv mellem ægtefæller</a></h4>
 
 ---
 
@@ -479,15 +475,15 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
-## Video om styr på arven: Testamente eller ej? 
 
-**<a href="https://www.youtube.com/embed/5MxSyf_Ah84">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/5MxSyf_Ah84" target="_blank">Video om styr på arven: Testamente eller ej?</a></h4>
 
 ---
 
-## Video om styr på arven: Fem gode råd om testamente 
 
-**<a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" target="_blank">Video om styr på arven: Fem gode råd om testamente</a></h4>
 
 ---
 
@@ -504,15 +500,15 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 ---
 
  
-## Video om hvordan opretter du et testamente?
 
-**<a href="https://www.youtube.com/embed/TcZb7VCClcQ" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/TcZb7VCClcQ" target="_blank">Video om hvordan opretter du et testamente?</a></h4>
 
 ---
 
-## Video om styr på arven: Hvem får pensionen? 
 
-**<a href="https://www.youtube.com/embed/F6Yourieo0Q" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q" target="_blank">Video om styr på arven: Hvem får pensionen? </a></h4>
 
 ---
 
@@ -585,14 +581,14 @@ Et *"uigenkaldeligt testamente"* er et	testamente, som ikke kan tilbagekaldes. U
 
 ---
 
-## Video om hvorfor skrive et testamente?
 
-**<a href="https://jyskebank.tv/hvorfor-lave-et-testamente">Videoen klik her!</a>**
+
+**<a href="https://jyskebank.tv/hvorfor-lave-et-testamente" target="_blank">Video om hvorfor skrive et testamente?</a></h4>
 
 
 ---
 
-### Notartestamente, jf. AL § 63
+#### Notartestamente, jf. AL § 63
 
 ![](img/notar.png)
 
@@ -703,7 +699,7 @@ Underskrift for notaren: Hvordan skal testamentet underskrives?
 
 ---
 
-### Vidnetestamente, jf. AL § 64
+#### Vidnetestamente, jf. AL § 64
 
 
 
@@ -740,13 +736,12 @@ Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 ---
 
-## Video om hvad er et vitterlighedsvidne
 
-**<a href="https://dokument24.dk/info/vitterlighedsvidne">Videoen klik her!</a>**
+**<a href="https://dokument24.dk/info/vitterlighedsvidne" target="_blank">Hvad er et vitterlighedsvidne?</a></h4>
 
 ---
 
-### Nødtestamente, jf. AL § 65
+#### Nødtestamente, jf. AL § 65
 
 *Holografisk testamente*, i dansk ret et nødtestamente oprettet uden vidner, men skrevet og underskrevet egenhændigt af testator.
 
@@ -806,7 +801,7 @@ Se dommen i **U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ik
 ---
 
 
-### Udvidet samlevertestamente
+#### Udvidet samlevertestamente
 
 *"Udvidet samlevertestamente"* er en	betegnelse for et testamente mellem ugifte samlevende, hvor de bestemmer, at de skal arve hinanden og arves, som om de var ægtefæller, jf. AL § 87. 
 
@@ -854,9 +849,7 @@ Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
 
 ---
 
-## Video om udvidet samlevertestamente
-
-**<a href="https://www.youtube.com/embed/0Ss86d4klSw">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/0Ss86d4klSw" target="_blank">Video om udvidet samlevertestamente</a></h4>
 
 ---
 
@@ -892,9 +885,9 @@ Vi skal også lige se på andre former for testamenter:
 
 ---
 
-## Andre former for testamenter
+### Andre former for testamenter
 
-### Begravelsestestamente
+#### Begravelsestestamente
 
 "Begravelsestestamente" er	en erklæring om, hvilken type begravelse, man ønsker (religiøs eller ikke religiøs, ligbrænding eller jordfæstelse). 
 
@@ -906,7 +899,7 @@ Bedemænd udleverer gratis folderen ”Min Sidste Vilje,” hvor alle ønsker ti
 
 ---
 
-### Børnetestamente
+#### Børnetestamente
 
 Et "børnetestamente" er en tilkendegivelse om, hvem der skal have forældremyndigheden, hvis forældrene dør. Kræver ikke testamentsform.
 
@@ -943,7 +936,7 @@ Når det er underskrevet for notaren, opbevares det i et centralt arkiv og komme
 
 ---
 
-### Behandlingstestamente
+#### Behandlingstestamente
 
 Med et *"behandlingstestamente"* kan man sikre, at lægerne følger ens ønsker til behandling, hvis man ikke selv er i stand til at give besked. 
 
@@ -987,7 +980,7 @@ Det er alene muligt at registrere for de situationer, hvor man ikke er uafvendel
 
 ---
 
-### Fremtidsfuldmægtig
+#### Fremtidsfuldmægtig
 
 Man kan oprette en *"fremtidsfuldmagt"*, som sættes i kraft, hvis man bliver syg eller svækket og mister evnen til at tage vare på sine personlige forhold. 
 
@@ -1001,7 +994,7 @@ Når man fylder 18 år, skal ens NemID fornyes, for at man kan registrere sit be
 
 ---
 
-### Plejetestamente
+#### Plejetestamente
 
 *"Plejetestamente"*	i et plejetestamente kan man give udtryk for, hvordan man ønsker, at et plejehjem skal varetage omsorgen for en, hvis man mister åndsevnerne (fx bliver dement). 
 
@@ -1015,7 +1008,7 @@ Myndigheder og plejepersonale bruger det som vejledning og skal så vidt muligt 
 
 ---
 
-### Donortestamente
+#### Donortestamente
 
 I et *"donortestamente"* tager man stilling til, om organer må fjernes og anvendes, efter at man er erklæret hjernedød. Man kan både give tilladelse og nedlægge forbud, lige som man kan donere udvalgte organer eller dem alle. 
 
@@ -1138,10 +1131,7 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 
 ---
 
-
-## Video Webseminar om Arv, testamenter og pensioner
-
-**<a href="https://www.youtube.com/embed/exm1sAFp0dE" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/exm1sAFp0dE" target="_blank">Video Webseminar om Arv, testamenter og pensioner</a></h4>
 
 ---
 
@@ -1230,9 +1220,7 @@ Man kan ikke få boet udleveret til uskiftet bo, hvis:
 
 ---
 
-## Video få styr på arven: Uskiftet bo kan blive dyrt 
-
-**<a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" width="853">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" target="_blank">Video få styr på arven: Uskiftet bo kan blive dyrt </a></h4>
 
 ---
 Se link her:
@@ -1304,9 +1292,9 @@ Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skat
 
 ---
 
-## Video Hvad koster det at arve?
 
-**<a href="https://www.youtube.com/embed/Va5cNkBjT_M" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/Va5cNkBjT_M" target="_blank">Video Hvad koster det at arve?</a></h4>
 
 ---
 
@@ -1337,21 +1325,21 @@ Det gælder også, hvis der er uenighed mellem arvingerne.
 ---
 
 Se link her: *Hvornår skal et bo behandles af en bobestyrer?*: 
-**<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/bobestyrerbo/Pages/default.aspx" width="853">klik her!</a>**
+**<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/bobestyrerbo/Pages/default.aspx">klik her!</a>**
 
 ---
 
 *Boer efter udlændinge (tidligere kaldet "henvisningsboer")*
 
 Se link her:
-**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/UDLAENDINGE/Pages/default.aspx" width="853">klik her!</a>**
+**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/UDLAENDINGE/Pages/default.aspx" >klik her!</a>**
 
 ---
 
 *Vejledning til værger og skifteværger* 
 
 Se link her:
-**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/VAERGER/Pages/default.aspx" width="853">klik her!</a>**
+**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/VAERGER/Pages/default.aspx" >klik her!</a>**
 
 ---
 
@@ -1361,15 +1349,15 @@ Man kan klage over skifterettens afgørelser til landsretten.
 
 ---
 
-## Video få styr på arven: Undgå spærret konto ved død
 
-**<a href="https://www.youtube.com/embed/_TmFA4SLd0U" width="853" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/_TmFA4SLd0U"  target="_blank">Video få styr på arven: Undgå spærret konto ved død</a></h4>
 
 ---
 
-## Video om at Undgå famliestrid
 
-**<a href="https://www.youtube.com/embed/yr6A6wguEA8" width="853">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/yr6A6wguEA8"  target="_blank">Video om at Undgå famliestrid</a></h4>
 
 ---
 
@@ -1613,9 +1601,6 @@ Formkrav:
 -	Ellers arveklasse 2,3 og Statsklassen i rækkefølge. 
 
 ---
-
-
-## Quiz om arveretten
 
 <h3><a href="https://quiz.tepedu.dk/jura24" target="_blank">Quiz Arveretten<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
