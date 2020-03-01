@@ -8,7 +8,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Pant behandles i kap. 15 i "Erhvervsjura"**
+*Forståelsen af reglerne om pant i fast ejendom, løsøre og virksomhedspant i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom og ved finansiering via virksomhedspant.*
 
 ---
 
@@ -581,20 +581,15 @@ Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde s
 
 ## Video om tinglysningslovens §§ 1 og 27
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hPEDQjWpyjg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+**<a href="https://www.youtube.com/embed/hPEDQjWpyjg">Videoen klik her!</a>**
 
 ---
 
 
 ## Video Om tinglysningslovens § 40
 
+**<a href="https://www.youtube.com/embed/W-GUDkF6tIg">Videoen klik her!</a>**
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/W-GUDkF6tIg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
@@ -1177,7 +1172,7 @@ Hvilke muligheder har rekonstruktøren for omstødelsen?
 
 ## Video om TL §§ 37 og 38 om tilhørspant
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/uK1iZr2t3y8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/uK1iZr2t3y8">Videoen klik her!</a>**
 
 ---
 
@@ -1838,7 +1833,7 @@ Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkeds
 
 ## Video om VP 
 
-**https://www.vp.dk/**
+**<a href="https://www.vp.dk/">Videoen klik her!</a>**
 
 ---
 

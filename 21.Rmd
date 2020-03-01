@@ -8,22 +8,26 @@ cat(readLines('np.html'))
 
 ---
 
-**Handel med fast ejendom behandles i kap. 13 i "Erhvervsjura"**
+*Forståelsen af lovreglerne om køb og salg af fast ejendom i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion, ved din rådgivning til køberen og sælgeren ved finansiering af fast ejendom mv.*
+
+---
+
+**Reglerne for handel med fast ejendom anvendes også i faget "Salg og Rådgivning", samt brancheretningsfaget Ejendomsmægler på finansøkonomuddannelsen**
 
 ---
 
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne*:
 
 
--	*Købsaftalens indgåelse (aftalelovens § 1-7 og de særlige regler i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom kapitel.*
+•	*Købsaftalens indgåelse (aftalelovens § 1-7 og de særlige regler i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom kapitel.*
   
-* *Fortrydelsesretten på 6 hverdage og betaling af en godtgørelse på 1% af den nominelle købesum. Ejendommen skal tilbageleveres i "samme stand og mængde" for at kunne fortryde ejendomskøbet.*
+•	*Fortrydelsesretten på 6 hverdage og betaling af en godtgørelse på 1% af den nominelle købesum. Ejendommen skal tilbageleveres i "samme stand og mængde" for at kunne fortryde ejendomskøbet.*
 
-* *Mangler ved fast ejendom.*
+• *Mangler ved fast ejendom.*
   
-*	*Advokat – og finansieringsforbehold.*
+•	*Advokat – og finansieringsforbehold.*
 
-*	*Ejendomsmæglerens erstatningsansvar.*
+•	*Ejendomsmæglerens erstatningsansvar.*
 
 
 
@@ -44,9 +48,8 @@ Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom, jf. Lovbekendtgøre
 
 ---
 
-Se lovene og formidlingsbekendtgørelsen i Lovsamlingen under kapitel 26:
-
-**https://jura.tepedu.dk/lovsamling.html.**
+Se lovene og formidlingsbekendtgørelsen.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -90,19 +93,20 @@ Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione
  
 ## Video om gode råd om køb af bolig A-Z
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/N-0EyS75yrg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/N-0EyS75yrg">Videoen klik her!</a>**
+
 
 ---
 
 ## Video Webinar: Nykredit giver gode råd om boligkøb
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/QvUETHDp7do" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/QvUETHDp7do">Videoen klik her!</a>**
 
 ---
 
 ## Video om finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ga9VK96CdhQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/ga9VK96CdhQ">Videoen klik her!</a>**
 
 ---
 
@@ -126,8 +130,7 @@ Afsnittet læses kun i hovedtræk, da det bliver mere detaljeret gennemgået und
 
 ## Video om at få styr på førstegangskøbet: Sådan køber du en bolig
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/U7tQihKHRoA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/U7tQihKHRoA">Videoen klik her!</a>**
 
 ---
 
@@ -343,6 +346,8 @@ LOFE § 32, stk. 2, bestemmer, at ejendomsmæglerens ret til vederlag ikke begr�
 
 Bestemmelsen dækker både den situation, hvor en sælger og en køber venter med at indgå en købsaftale til formidlingsaftalen er ophørt for at spare vederlaget til ejendomsmægleren, men også hvor købsaftale mellem sælger og køber indgås på baggrund af en aftale, som ejendomsmægleren har udarbejdet, men formidlingsaftalen er udløbet.  
 
+---
+
 I den situation, hvor køber og sælger bevidst holder ejendomsmægleren ude for at spare vederlag, findes LOFE § 32, stk. 1 som udgangspunkt alene relevant i det omfang, det er aftalt mellem sælger og ejendomsmægler, at ejendomsmæglerens vederlag eller en del heraf er resultatafhængigt, og dermed udløses ved indgåelse af en bindende købsaftale. 
 
 I sådanne tilfælde vil en sælger og en køber ellers kunne udnytte ejendomsmæglerens salgsindsats, hvis de blev enige om at vente med at indgå købsaftalen, til formidlingsaftalen var ophørt, enten ved udløb af aftaleperioden eller ved opsigelse.  
@@ -358,6 +363,8 @@ Bestemmelsen i LOFE § 32, stk. 2, finder endvidere anvendelse i den situation, 
 I disse situationer har ejendomsmægleren ret til vederlag, uanset LOFE § 29, stk. 3, jf. LOFE § 33, stk. 2, om mæglers krav på rimeligt vederlag ved sælgers opsigelse af formidlingsaftalen. 
 
 Formidlingsopdraget er i disse situationer ofte ikke afsluttet på dette tidspunkt, men ejendomsmægleren har leveret sin ydelse efter aftalen, nemlig en bindende købsaftale.  
+
+---
 
 LOFE § 32, stk. 2, vil fx finde anvendelse, hvis ejendomsmægleren har annonceret boligen, haft kontakt og forestået forhandlingerne med køber samt udarbejdet købsaftale.  
 	
@@ -380,6 +387,8 @@ Formidlingsaftalens bestemmelser om aftaleperioden, ret til vederlag samt forhol
 Ejendomsmægleren har dog ikke krav på vederlag, hvis en anden ejendomsmægler medvirker efter aftalens ophør. 
 
 Ved en anden ejendomsmægler forstås ikke, at der inden for samme formidlingsvirksomhed har medvirket forskellige ejendomsmæglere, men at der er tale om medvirken af en anden ejendomsmægler fra en anden formidlingsvirksomhed. 
+
+---
 
 Dette led er indsat for at beskytte den forbruger, som har valgt at indgå en formidlingsaftale med en ejendomsmægler hos én ejendomsformidlingsvirksomhed, og hvor forbrugeren eventuelt lige har haft ejendommen til salg hos en anden ejendomsmægler i en anden ejendomsformidlingsvirksomhed, mod at skulle betale vederlag til mere end en ejendomsmægler. 
 
@@ -413,6 +422,8 @@ Foreligger der forbehold eller betingelser, skal disse være fjernet, før rette
 
 Endvidere skal fortrydelsesfristen efter lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom også være udløbet.  
 
+---
+
 En handel er i almindelighed gennemført, når der er tinglyst anmærkningsfrit endeligt skøde. 
 
 Det forhold, at der er solgt på et betinget skøde, og at betingelsen er, at køber betaler et beløb, fx om et år, fratager imidlertid ikke ejendomsmægleren krav på vederlag. 
@@ -422,6 +433,8 @@ Det forhold, at der er solgt på et betinget skøde, og at betingelsen er, at k�
 Det forhold, at en ellers bindende handel ikke bliver gennemført på grund af købers eller sælgers forhold, fx misligholdelse, fratager heller ikke ejendomsmægleren ret til vederlag. 
 
 Ejendomsmægleren har i disse situationer krav på vederlag i overensstemmelse med det oprindeligt aftalte i formidlingsaftalen, eller hvad der i øvrigt ville kunne dokumenteres at være aftalt med sælger, jf. nærmere LOFE § 32, stk. 1.  
+
+---
 
 Kravet udløses dog kun ved indgåelse af en bindende købsaftale. 
 
@@ -433,31 +446,25 @@ Det er således kun, når ejendomsmægleren rent faktisk leverer den helt centra
 
 ## Video om en gennemgang af en købsaftale
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/RKc8n10ChnE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/RKc8n10ChnE">Videoen klik her!</a>**
 
 
 
----
-
-### Hvornår ejendomsmægleren har krav på vederlag ved opsigelse af formidlingsaftalen 
+## Hvornår ejendomsmægleren har krav på vederlag ved opsigelse af formidlingsaftalen 
 
 LOFE § 34, stk. 1, fastslår, at ejendomsmægleren ved forbrugerens eller ejendomsmæglerens opsigelse af formidlingsaftalen alene har krav på vederlag, hvis der er et vilkår herom i formidlings-aftalen.  
 
 Ejendomsmæglerens ret til vederlag ved opsigelse opstår, uanset om det er ejendomsmægleren eller forbrugeren, der opsiger formidlingsaftalen inden for aftaleperioden, så længe det er aftalt i formidlingsaftalen. 
-
 Se dog undtagelsen hertil i lovens § 34, stk. 2, når det gælder resultatafhængigt vederlag. 
 
 Såfremt sælger misligholder aftalen, vil ejendomsmæglerens ret til vederlag i disse situationer skulle vurderes ud fra de almindelige aftaleretlige regler.  
+
 Det er antaget i teorien, men følger også af Erhvervsstyrelsens vejledende udtalelse af 11. september 2009, at hvis der ifølge den tidligere omsætningslov var aftalt vederlag efter regning, så kunne ejendomsmægleren få vederlag for sit erlagte arbejde samt dokumenterede omkostninger til både annoncering og fremskaffelse af dokumenter, uanset om det var ejendomsmægleren eller forbrugeren, der opsagde aftalen. 
 
 Dette princip videreføre LOFE § 34, stk. 1, uændret.  
 
----
-
 Da sådanne aftaler fremover kan være fortløbende, findes det også af den grund rimeligt, at parterne har mulighed for at aftale spørgsmål om vederlag i tilfælde af opsigelse.  
 
----
-	
 Hvor formidlingsaftalen opsiges af ejendomsmægleren efter meget kort tid, kan det i forhold til en vurdering af evt. overtrædelse af god ejendomsmæglerskik efter omstændighederne være relevant at vurdere grundlaget for opsigelsen, herunder hvilke ydelser ejendomsmægleren har leveret, og om ydelserne har selvstændig værdi for sælger, jf. hertil også LOFE § 37 om de obligatoriske ydelser. 
 
 Der kan i sådanne tilfælde lægges vægt på, om sælger har modarbejdet ejendomsmæglerens salgsbestræbelser eller der har været samarbejdsvanskeligheder i øvrigt. 
@@ -466,7 +473,7 @@ Der kan i sådanne tilfælde lægges vægt på, om sælger har modarbejdet ejend
 
 LOFE § 34, stk. 2, har videreført princippet om, at hvis der er aftalt et resultatafhængigt vederlag, har ejendomsmægleren alene krav på vederlag, hvis det er sælgeren, der opsiger aftalen, og hvis det er aftalt i formidlingsaftalen. 
 
-Det findes rimeligt at videreføre denne begrænsning, når der er tale om et resultatafhængigt vederlag, som er direkte afhængig af ejendomsmæglerens præ-station og kun opnås, hvis der opnås et resultat, nemlig salg af boligen.
+Det findes rimeligt at videreføre denne begrænsning, når der er tale om et resultatafhængigt vederlag, som er direkte afhængig af ejendomsmæglerens præstation og kun opnås, hvis der opnås et resultat, nemlig salg af boligen.
 
 Ifølge den tidligere omsætningslovs § 12, stk. 3, var det kun, når forbrugeren opsagde aftalen, at ejendomsmægleren havde krav på et rimeligt vederlag, hvis formidlingsaftalen indeholdt vilkår herom. 
 
@@ -502,7 +509,7 @@ LOFE § 34 gælder også for så vidt angår ejendomsmæglerens ret til vederlag
 
 ---
 
-### Ejendomsmæglerens obligatoriske opgaver ved formidling af fast ejendom
+## Ejendomsmæglerens obligatoriske opgaver ved formidling af fast ejendom
 
 LOFE § 37, stk. 1, finder man minimumskravene til ejendomsmæglerens obligatoriske opgaver ved formidling af salg af fast ejendom fremgår.^[Følgende afsnit om ejendomsmæglerens obligatoriske opgaver ved formidling af fast ejendom bygger på *Sonny Kristoffersen*: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018, Hans Reitzels Forlag.]. 
 
@@ -540,11 +547,12 @@ Der fremgår således også pligter af en række andre bestemmelser i loven, her
 
 Ejendomsmæglerens pligt til hhv. at værdiansætte ejendommen, beregne salgsprovenu, udfærdige en salgsopstilling samt udarbejde et udkast til en købsaftale er beskrevet i stk. 1. Kravene til fremgangsmåde, indhold m.v. fremgår af LOFE §§ 37-39 og 46.  
 
-Erhvervsstyrelsen har fastsat nærmere regler om formidlingsopdragets indhold og udførelse (formidlingsbekendtgørelsen), jf. her Bekendtgørelse nr. 1230 21. november 2014 om formidling m.v. ved salg af fast ejendom. Se formidlingsbekendtgørelsen i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Erhvervsstyrelsen har fastsat nærmere regler om formidlingsopdragets indhold og udførelse (formidlingsbekendtgørelsen), jf. her Bekendtgørelse nr. 1230 21. november 2014 om formidling m.v. ved salg af fast ejendom. 
+**<a href="https://jura.tepedu.dk/lovsamling.html">Se Lovsamlingen klik her!</a>**
 
 ...
 
-### Ejendomsmæglerens pligt til at udarbejde salgsprovenu til sælger 
+## Ejendomsmæglerens pligt til at udarbejde salgsprovenu til sælger 
 
 Bestemmelsen i LOFE § 38 vedrører ejendomsmæglerens pligt til at udarbejde salgsprovenu til sælger.  
 
@@ -592,7 +600,9 @@ LOFE § 38, stk. 2, fastsætter, at hvis der undervejs aftales en ændret udbuds
 
 LOFE § 38, stk. 3, bestemmer, at ejendomsmægleren ved salg skal udarbejde et salgsprovenu på grundlag af købsaftalens vilkår. 
 
-Der henvises til bemærkningerne ovenfor til LOFE § 38, stk. 1, for så vidt angår de poster, som typisk indgår i provenuberegningen.  
+Der henvises til bemærkningerne ovenfor til LOFE § 38, stk. 1, for så vidt angår de poster, som typisk indgår i provenuberegningen. 
+
+---
 
 Hvis der mod sædvane fx er tale om en overtagelse af sælgers indestående lån, skal salgsprovenuet således beregnes ud fra denne form.  
 
@@ -606,7 +616,7 @@ Tilsvarende bør der gives særskilt oplysning om eventuel skattepligt af proven
 
 ---
 
-### Ejendomsmæglerens udarbejdelse af salgsopstilling
+## Ejendomsmæglerens udarbejdelse af salgsopstilling
 
 LOFE § 39, stk. 1 bestemmer, at ejendomsmægleren umiddelbart efter formidlingsaftalens indgåelse skal udarbejde en specificeret salgsopstilling. 
 
@@ -623,7 +633,7 @@ Afgrænsningen af udgifterne er fastsat i formidlingsbekendtgørelsens §§ 6 (s
 ---
 
 
-### Ejendommen skal udbydes med relevante oplysninger om forbrugsafhængige forhold 
+## Ejendommen skal udbydes med relevante oplysninger om forbrugsafhængige forhold 
 
 Bestemmelsen i LOFE § 40 fastsætter, at ejendommen også skal udbydes med relevante oplysninger om forbrugsafhængige forhold. 
 
@@ -635,7 +645,7 @@ Ejendomsmægleren skal ikke nødvendigvis basere oplysningerne om forbrugsafhæn
 
 ---
 
-### Ejendommen skal udbydes til en skønnet kontantpris 
+## Ejendommen skal udbydes til en skønnet kontantpris 
 
 Det fremgår af LOFE i § 41, at der alene stilles krav om, at ejendommen skal udbydes til en skønnet kontantpris. 
 
@@ -646,6 +656,8 @@ Udbudsprisen signalerer således sælgers ønske til en kontantpris og betragtes
 LOFE § 41, stk. 1, indeholder den grundlæggende regel for kontantprisprincippet, som er defineret i LOFE § 4, nr. 3.  
 
 Bestemmelsen i LOFE § 41, stk. 1, er ikke til hinder for, at der kan sendes et signal om, at der ønskes tilbud på ejendommen, men selv i sådanne situationer skal ejendommen udbydes med en angivet, skønnet kontantpris. 
+
+---
 	
 Ejendomsmægleren kan derfor ikke få potentielle købere til at deltage i budgivningen ved at udbyde ejendommen til en urealistisk lav pris. 
 
@@ -665,7 +677,8 @@ Kravet om oplysning om energimærke er bevaret på bekendtgørelsesniveau.
 	
 Oplysninger i forbindelse med annoncering og markedsføring skal overholde markedsføringslovens regler. 
 
-Markedsføringslovens §§ 5-6 bestemmer, at en erhvervsdrivendes ikke i sin handelspraksis må anvende urigtige oplysninger eller i kraft af sin fremstillingsform eller på anden måde vildlede eller kunne forventes at vildlede gennemsnitsforbrugeren, uanset om oplysningerne er faktuelt korrekte, og at en erhvervsdrivendes ikke i sin handelspraksis må vildlede ved at udelade eller skjule væsentlige oplysninger eller præsentere væsentlige oplysninger på en uklar, uforståelig, dobbelttydig eller uhensigtsmæssig måde. Se markedsføringsloven i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html** 
+Markedsføringslovens §§ 5-6 bestemmer, at en erhvervsdrivendes ikke i sin handelspraksis må anvende urigtige oplysninger eller i kraft af sin fremstillingsform eller på anden måde vildlede eller kunne forventes at vildlede gennemsnitsforbrugeren, uanset om oplysningerne er faktuelt korrekte, og at en erhvervsdrivendes ikke i sin handelspraksis må vildlede ved at udelade eller skjule væsentlige oplysninger eller præsentere væsentlige oplysninger på en uklar, uforståelig, dobbelttydig eller uhensigtsmæssig måde. 
+**<a href="https://jura.tepedu.dk/lovsamling.html">Se markedsføringsloven i Lovsamlingen klik her!</a>**
 
 ---
 
@@ -679,7 +692,7 @@ Hverken i Sverige, Norge, Tyskland, Storbritannien eller Holland findes der krav
 
 ---
 
-### Ejendomsmægleren må ikke udarbejde finansieringsforslag
+## Ejendomsmægleren må ikke udarbejde finansieringsforslag
 
 Som konsekvens af præciseringen af ejendomsmæglerens rolle samt ophævelse af ejendomsmæglerens pligt til at opgive et brutto- og nettobeløb beregnet på baggrund af et standardfinansieringsforslag er det fastsat i LOFE § 42, stk. 1, at der er indført forbud mod, at ejendomsmægleren udarbejder eller lader udarbejde finansieringsforslag for en konkret ejendom, som fx kan inkluderes i annoncering og salgsopstillinger, herunder som et brutto- og nettobeløb.  
 
@@ -690,6 +703,8 @@ Hvis pligten til at opgive et standardiseret brutto- og nettobeløb var blevet f
 Bestemmelsen i LOFE § 42, stk. 1, er derfor med til at sikre, at der ved annoncering og markedsføring af ejendomme vil være fokus på kontantpris og ejerudgifter. 
 
 Det er herefter op til forbrugerne at søge rådgivning hos en bank eller et realkreditinstitut med henblik på at finde en egnet finansiering af boligkøbet.  
+
+---
 	
 Forbuddet gælder ikke den situation, hvor en ejendomsmægler fx via sin hjemmeside henviser til en banks eller realkreditinstituts hjemmesider, hvor en forbruger kan beregne mulige finansieringsforslag på baggrund af konkrete oplysninger om ejendommen.
 
@@ -717,7 +732,7 @@ Desuden er der inden for de seneste år indført skærpede og særlige regler fo
 
 ---
 
-### Ejendomsmægleren er kun sælgers repræsentant 
+## Ejendomsmægleren er kun sælgers repræsentant 
 
 Bestemmelsen i LOFE § 26 fastlægger det overordnede princip om, at ingen må være repræsentant for sælger og køber i samme handel.^[Følgende afsnit om LOFE § 26 bygger på *Sonny Kristoffersen*: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018 Hans Reitzels Forlag.]  
 
@@ -775,6 +790,8 @@ Nu er det anført direkte i lovteksten, at ingen inden for samme formidlingsvirk
 	
 Det er ikke ejendomsformidlingsvirksomhedens organisationsform, der er afgørende for, hvornår der foreligger én eller flere repræsentanter. 
 
+---
+
 En ejendomsformidlingsvirksomhed, som har flere forretningssteder, medfører således ikke, at der foreligger flere repræsentanter i bestemmelsens forstand. 
 
 Til gengæld vil der være flere repræsentanter, hvis en række selvstændige ejendomsmæglere samarbejder i en kæde.
@@ -793,9 +810,13 @@ LOFE § 26, stk. 3’s ordlyd har til hensigt at tydeliggøre, at ejendomsmægle
 
 Det er med LOFE § 26, stk. 3, ikke længere op til ejendomsmægleren at skulle rådgive køber om nogle forhold, og ejendomsmæglerens rolle vil alene være at oplyse køber om alle de relevante forhold omkring ejendommen.  
 
+---
+
 Købers vurderinger og beslutninger skal herefter træffes af køber selv, eventuelt med hjælp fra en rådgiver. 
 
 Hvorvidt køber ønsker at benytte sig af rådgiver(e), er helt op til køber selv at beslutte.  
+
+---
 
 Sikringen af købers interesser sker ved, at ejendomsmægleren henviser køber til at søge egen rådgiver. 
 
@@ -804,7 +825,7 @@ Ejendomsmægleren skal ikke kun oplyse køber om muligheden for at søge juridis
 
 ---
 
-### Værdiansættelsen 
+## Værdiansættelsen 
 
 Det fremgår af LOFE § 27, stk. 1, at ejendomsmægleren skal angive, hvilken kontantpris ejendommen skønnes at kunne sælges til inden for et givet tidsrum.^[Følgende afsnit om LOFE § 27 bygger på *Sonny Kristoffersen*: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018 Hans Reitzels Forlag.]  
 
@@ -839,8 +860,7 @@ LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov 
 
 ## Video om huseftersynsordningen
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
 
 
 ---
@@ -865,7 +885,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 ## Video om ejerskifteforsikring – hvorfor- og hvordan
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/rCSppX53zWU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/rCSppX53zWU">Videoen klik her!</a>**
 
 ---
 
@@ -909,7 +929,8 @@ Der er i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. fastsat
 
 ---
 
-Se lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Se lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. 
+**<a href="https://jura.tepedu.dk/lovsamling.html">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -938,6 +959,8 @@ Anvendelsesområdet for kapitel 2 er på den anden side også snævrere end i an
 Efter LFFE § 6, stk. 1, gælder fortrydelsesretten for det første for aftaler om køb af fast ejendom, når ejendommen hovedsagelig er bestemt til beboelse for køberen. 
 
 Reglerne om fortrydelsesret gælder, uanset om sælgeren er en privatperson, en offentlig institution eller en erhvervsvirksomhed. 
+
+---
 
 Det afgørende er, hvad køberen konkret skal bruge ejendommen til. Det er uden betydning, om ejendommen sælges med eller uden professionel bistand til en af parterne. 
 
@@ -980,6 +1003,8 @@ Det forudsættes i lovforarbejderne, at bevisbyrdereglen ikke finder anvendelse 
 Når der er indgået en aftale om køb, kan køberen træde tilbage fra aftalen på de betingelser, som er nævnt i LFFE §§ 8-11, jf. nærmere LFFE § 7, stk. 1.  
 
 Fortrydelsesretten omfatter aftalen i sin helhed – ikke enkelte dele af aftalen. 
+
+---
 
 Købers fortrydelsesret gælder som udgangspunkt, selv om sælger som led i aftalen er fraflyttet ejendommen, og selv om køber er flyttet ind.  
 
@@ -1029,6 +1054,8 @@ LFFE § 7, stk. 2, kan ikke ved aftale fraviges til skade for køberen, jf. LFFE
 Efter LFFE § 8, stk. 1 er fortrydelsesretten betinget af, at køberen senest 6 hele hverdage efter aftalens indgåelse giver skriftlig underretning til sælgeren om, at køberen vil træde tilbage fra aftalen. 
 
 Underretningen skal være skriftlig og været kommet frem inden fristens udløb.  
+
+---
 
 Det er forudsat i lovforarbejderne, at den dag, hvor fortrydelsesfristen begynder at løbe, ikke tælles med, og at køberen således altid har en frist på 6 hele hverdage.  
 
@@ -1118,6 +1145,8 @@ Om afgørelsen af, hvornår aftalen er indgået, har Justitsministeriet som ress
 
 Accepten anses i almindelighed for at være kommet frem, når accepten er nået så vidt, at modtageren (tilbudsgiveren eller dennes repræsentant) under normale forhold vil have lejlighed til at gøre sig bekendt med dens indhold. 
 
+---
+
 Der må dog efter omstændighederne tages hensyn til særlige forhold hos modtageren – fx at denne er bortrejst – når disse forhold var eller burde være kendt for den, der gav accepten.
 
 Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være kommet frem til køberen, hvis accepten (den underskrevne købsaftale) alene er modtaget af en ejendomsformidler, der repræsenterer sælgeren. 
@@ -1132,7 +1161,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ## Video om fortrydelsesret og advokatforbehold i en bolighandel
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/eQqlGY1lm2M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/eQqlGY1lm2M">Videoen klik her!</a>**
 
 ---
 
@@ -1147,6 +1176,8 @@ Dette betyder bl.a., at et sædvanligt advokatforbehold i en købsaftale ikke ud
 I lovforarbejderne til LFFE anføres følgende om advokatforbehold: 
 
 »Fortrydelsesretten gælder, som ovenfor nævnt, fra aftalens indgåelse, uanset om aftalen er endelig eller betinget af et eller flere forhold, fx af, at købers advokat godkender aftalen*. 
+
+---
 
 Hvis advokaten i det nævnte eksempel ikke godkender aftalen, er betingelsen for aftalen imidlertid ikke opfyldt, og der bliver i så fald ikke tale om at benytte fortrydelsesretten efter loven. 
 
@@ -1166,13 +1197,13 @@ Efter retspraksis maksimalt ca. 30 dage.
 
 Et advokatforbehold løber derfor ikke til evig tid.
 
-Se dommen i **U 1994.13/1 V**, hvor et advokatforbehold i en slutseddel ikke kunne gøres gældende efter godt en måneds forløb. Sælgeren af en fast ejendom tog i slutsedlen, som han underskrev den 4. eller 6. april, forbehold om sin advokats godkendelse af slutsedlen. Ved skrivelse af 9. maj meddelte advokaten, at han ikke kunne godkende slutsedlen. Da advokatforbeholdet herefter ikke var gjort gældende inden rimelig tid, var sælgeren bundet af aftalen. Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000200269/1**
+Se dommen i **U 1994.13/1 V**, hvor et advokatforbehold i en slutseddel ikke kunne gøres gældende efter godt en måneds forløb. Sælgeren af en fast ejendom tog i slutsedlen, som han underskrev den 4. eller 6. april, forbehold om sin advokats godkendelse af slutsedlen. Ved skrivelse af 9. maj meddelte advokaten, at han ikke kunne godkende slutsedlen. Da advokatforbeholdet herefter ikke var gjort gældende inden rimelig tid, var sælgeren bundet af aftalen. 
+**<a href="https://pro.karnovgroup.dk/document/7000200269/1">Dommen klik her!</a>**
 
 ---
 
-Advokaten skal rådgive køberen inden udløbet af advokatforbeholdet, jf. **U 2015.2846/2 H**. 
-Advokat havde tilsidesat god advokatskik og var erstatningsansvarlig over for købere af fast ejendom for udgifter til ulovlige elinstallationer, da han ikke havde rådgivet køberne inden udløbet af fristen for et advokatforbehold i forbindelse med handlen: "Højesteret udtalte, at A tilsidesatte sine pligter som advokat ved ikke efter 19. februar at rekvirere sagens dokumenter og tage kontakt til sine klienter for at rådgive dem om købet, herunder om betydningen af tilstandsrapporten og muligheden for at sikre sig mod tab, og at det påhvilede A, der først gennemgik dokumenterne den 7. marts, at gøre dette, således at advokatforbeholdet kunne gøres gældende inden fristens udløb". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000730734/1**
-
+Advokaten skal rådgive køberen inden udløbet af advokatforbeholdet, jf. **U 2015.2846/2 H**. Advokat havde tilsidesat god advokatskik og var erstatningsansvarlig over for købere af fast ejendom for udgifter til ulovlige elinstallationer, da han ikke havde rådgivet køberne inden udløbet af fristen for et advokatforbehold i forbindelse med handlen.
+**<a href="https://pro.karnovgroup.dk/document/7000730734/1">Dommen klik her!</a>**
 
 ---
 
@@ -1214,7 +1245,9 @@ Køberen har 6 hverdage til at rømme ejendommen, uanset hvornår den pågælden
 
 Har køberen, efter aftalens indgåelse, foretaget fysiske indgreb i eller forandringer på ejendommen, er fortrydelsesretten betinget af, at køberen inden udløbet af den i LFFE § 8 nævnte frist tilbagefører ejendommen til væsentlig samme tilstand som før indgrebet eller forandringen, jf. hertil LFFE § 10, stk. 2.
 
-Reglen i LFFE § 10, stk. 2 indebærer, at køberen ikke kan træde tilbage fra aftalen, hvis det ikke er muligt at tilbageføre ejendommen til væsentlig samme tilstand som før indgrebet eller forandringen. 
+Reglen i LFFE § 10, stk. 2 indebærer, at køberen ikke kan træde tilbage fra aftalen, hvis det ikke er muligt at tilbageføre ejendommen til væsentlig samme tilstand som før indgrebet eller forandringen.
+
+---
 
 Som eksempel herpå kan nævnes, at køberen straks efter aftalens indgåelse har fældet nogle gamle træer på grunden. 
 
@@ -1298,10 +1331,15 @@ Det præciseres i LFFE § 11, stk. 1, 2. pkt., at køberen kan betale godtgørel
 
 Køberen kan også betale godtgørelsesbeløbet med frigørende virkning til andre personer, der efter almindelige fuldmagtsregler eller særlig aftale kan modtage betalingen på sælgerens vegne. 
 
+---
+
 Hvis køberen har betalt en del af købesummen i forbindelse med aftalens indgåelse, vil godtgørelseskravet kunne dækkes ved modregning, jf. LFFE § 12. 
+
 Sælgerens krav på godtgørelse og købernes krav på tilbagebetaling er opstået i kraft af samme retsforhold, og det må antages, at almindelige regler om konneks modregning finder anvendelse. 
 
 Det betyder bl.a., at modregningen kan ske, selv om der ikke foreligger gensidighed (fx hvor forudbetalingen er deponeret hos en medvirkende ejendomsformidler), og køberens modregning har virkning med tilbagevirkende kraft (ex tunc). 
+
+---
 
 Det er således ikke en betingelse for tilbagetrædelsesretten, at sælgeren modtager en modregningserklæring inden 6-dages-fristens udløb, og i øvrigt kan det under hensyn til bestemmelsen i LFFE § 12 i det hele taget næppe kræves, at køberen udtrykkeligt meddeler sælgeren, at godtgørelsen kan fradrages i det forudbetalte beløb. 
 
@@ -1463,6 +1501,8 @@ Der skal gøres nogle generelle bemærkninger til området for »fysiske mangler
 
 Købeloven gælder ikke for køb af fast ejendom.  
 
+---
+
 Mange af købelovens regler udtrykker imidlertid almindelige køberetlige grundsætninger, og principperne i købeloven anvendes derfor i vidt omfang også analogt ved køb og salg af fast ejendom. 
 
 "Analogi" i en juridisk sammenhæng betyder anvendelse af en retsregel på et forhold, der ikke dækkes af ordlyden, når der foreligger årsagernes lighed.
@@ -1499,25 +1539,30 @@ Omfattet af mangler ved fast ejendom kan fx også være fravigelser i boligareal
 
 Der synes at være en vis usikkerhed i retspraksis, hvor meget der skal til før, at *fravigelsen i boligarealet* udgør en mangel ved en hushandel;
  
-Jf. dommen i **U 2015.3442 V** Afvigelse på 13 m2 i boligs areal var en mangel, men værdiforringelsen på 65.000 kr. i forhold til en købesum på 1.465.000 kr. kunne ikke føre til et afslag i købesummen. Se link til dommen: **https://pro.karnovgroup.dk/document/7000732642/1**
+Jf. dommen i **U 2015.3442 V** Afvigelse på 13 m2 i boligs areal var en mangel, men værdiforringelsen på 65.000 kr. i forhold til en købesum på 1.465.000 kr. kunne ikke føre til et afslag i købesummen. 
+**<a href="https://pro.karnovgroup.dk/document/7000732642/1">Dommen klik her!</a>**
 
 ---
 
 Samt 
 
-Dommen i **U 2015.242 V** Ikke forholdsmæssigt afslag for værdiforringelse på 50.000 kr. på grund af arealmangel på 18 m2 ved køb af ejendom til 1.450.000 kr. Se link til dommen: **https://pro.karnovgroup.dk/document/7000718942/1** 
+Dommen i **U 2015.242 V** Ikke forholdsmæssigt afslag for værdiforringelse på 50.000 kr. på grund af arealmangel på 18 m2 ved køb af ejendom til 1.450.000 kr. 
+**<a href="https://pro.karnovgroup.dk/document/7000718942/1">Dommen klik her!</a>**
 
 ---
 
-Anderledes dommene i **U 2013.3175 H** Arealafvigelse på 17,3 m2 i forhold til det oplyste i salgsopstillingen var en mangel ved fast ejendom. Manglen var ikke omfattet af ansvarsfritagelsen for sælger i § 2, stk. 1, i lov om forbrugerbeskyttelse ved fast ejendom. Den skønnede forskel i handelsværdien på 50.000 kr. var ikke et uvæsentligt beløb, og afslag i købesummen blev fastsat til dette beløb. Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000540956/1**
+Anderledes dommene i **U 2013.3175 H** Arealafvigelse på 17,3 m2 i forhold til det oplyste i salgsopstillingen var en mangel ved fast ejendom. Manglen var ikke omfattet af ansvarsfritagelsen for sælger i § 2, stk. 1, i lov om forbrugerbeskyttelse ved fast ejendom. Den skønnede forskel i handelsværdien på 50.000 kr. var ikke et uvæsentligt beløb, og afslag i købesummen blev fastsat til dette beløb. 
+**<a href="https://pro.karnovgroup.dk/document/7000540956/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 2013.3181 H.** Mangel ved fast ejendom i form af arealafvigelse på 28 m2 i forhold til det oplyste i salgsopstillingen var ikke omfattet af ansvarsfritagelsen for sælger i § 2, stk. 1, i lov om forbrugerbeskyttelse ved fast ejendom. Afslag i købesummen på 150.000 kr. Se hele dommen: **https://pro.karnovgroup.dk/document/7000540957/1**  
+Dommen i **U 2013.3181 H.** Mangel ved fast ejendom i form af arealafvigelse på 28 m2 i forhold til det oplyste i salgsopstillingen var ikke omfattet af ansvarsfritagelsen for sælger i § 2, stk. 1, i lov om forbrugerbeskyttelse ved fast ejendom. Afslag i købesummen på 150.000 kr. 
+**<a href="https://pro.karnovgroup.dk/document/7000540957/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 2019.3243 V**. Køber af parcelhus tilkendt afslag i købesummen på 150.000 kr. for arealmangel på 20 m², idet udestue ikke skulle have indgået i husets boligareal ved salget. Se hele dommen i dette link: **https://pro.karnovgroup.dk/document/7000841175/1**
+Dommen i **U 2019.3243 V**. Køber af parcelhus tilkendt afslag i købesummen på 150.000 kr. for arealmangel på 20 m², idet udestue ikke skulle have indgået i husets boligareal ved salget. 
+**<a href="https://pro.karnovgroup.dk/document/7000841175/1">Dommen klik her!</a>**
 
 ---
 
@@ -1533,8 +1578,10 @@ Nyere retspraksis vedrørende køb af fast ejendom modificerer tidligere praksis
 
 ---
 
-Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, jf. **U 1998.185 Ø**. Ikke erstatning for mangler ved gulv, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom § 2:
-"Køber af parcelhus konstaterede efter overtagelsen, at 1. salens gulve, der i udbudsmaterialet og i tilstandsrapporten var angivet som sildebensparket, på arealer på tilsammen ca. 6 m² bestod af andet materiale. Under sagen kom det frem, at sælger S mindst 5 år før salget havde repareret gulvet og pålagt gulvtæpper. Anført, at forholdet udgjorde en retlig relevant mangel. Oplysningerne om gulvet i udbudsmaterialet og i tilstandsrapporten fandtes ikke at indebære en garanti, og det fandtes ikke at kunne tilregnes S som groft uagtsomt, at S ikke i oplysningsskemaet havde oplyst, at dele af gulvet ikke var parket. S blev herefter frifundet for K's erstatningskrav, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom § 2". Se link til dommen: **https://pro.karnovgroup.dk/document/7000201845/1** 
+Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, jf. **U 1998.185 Ø**. Ikke erstatning for mangler ved gulv, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom § 2
+**<a href="https://pro.karnovgroup.dk/document/7000201845/1">Dommen klik her!</a>**
+
+---
 
 ![](img/hus15.jpg)
 
@@ -1598,7 +1645,7 @@ Et forholdsmæssigt afslag er ikke betinget af, at der foreligger et ansvarsgrun
 ---
 
 Udgangspunktet er således, at den pågældende mangel kan siges at være værdiforringende, idet man dog ser bort fra rene bagateller, se hertil dommen i **U 2008.2284 V**. Ikke grundlag for erstatning eller forholdsmæssigt afslag på grund af mangler ved tilbygning:
-"K købte i 2003 en fast ejendom af S for en kontant købesum på 645.000 kr. Efterfølgende viste det sig, at en tilbygning ikke opfyldte bygningsreglementet fra 1972 med hensyn til isolering af gulvkonstruktionen og etageadskillelse, dampspærre i skråvægge og varmekilde på 1. sal. Dette udgjorde retligt relevante mangler, som K i medfør af lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom m.v. § 2, stk. 5, kunne påberåbe sig. Der var enighed om, at udbedring af de nævnte forhold på købstidspunktet ville have kostet 40.000 kr. Der var ikke grundlag for at pålægge S at betale erstatning. Vedrørende forholdsmæssigt afslag anførte landsretten, at udgiften til udbedring på købstidspunktet udgjorde ca. 6,2 % af den kontante købesum, og der var ikke heri taget højde for, at i hvert fald radiatorerne måtte anses for en forbedring. Tilbygningen havde været i brug i mere end 9 år, uden at de ulovlige indretninger havde påført bygningen skade eller i øvrigt givet anledning til problemer, og der var ikke grundlag for at antage, at kommunen ville stille krav om nedrivning af tilbygningen. Efter en samlet bedømmelse af manglernes karakter og omfang var der ikke grundlag for at pålægge S at betale et forholdsmæssigt afslag til K". Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000385757/1**
+**<a href="https://pro.karnovgroup.dk/document/7000385757/1">Dommen klik her!</a>**
 
 ---
 
@@ -1621,6 +1668,8 @@ Sælgerens loyale oplysningspligt er et centralt begreb, som indebærer, at sæl
 Vurderingen af, hvad en ikke-bygningssagkyndig sælger burde have været bekendt med, må foretages konkret. 
 
 Der lægges navnlig vægt på, om sælgeren i sin ejertid har haft grund til at nære mistanke om forholdet. 
+
+---
 
 Hvis det fx flere gange har været nødvendigt at reparere revner i muren, bør sælgeren som regel få mistanke om, at revnerne kan skyldes dårlig fundering. 
 
@@ -1705,11 +1754,7 @@ Mangler ved fast ejendom forældes 3 år efter køber har opdaget manglen eller 
 
 ## Video om tilstandsrapport og energimærke
 
-<!-- <div class="video-container"><iframe src="https://www.youtube.com/embed/EToKhmr8XFo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> -->
-
----
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/dsA2EXsZVsg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/dsA2EXsZVsg">Videoen klik her!</a>**
 
 ---
 
@@ -1723,7 +1768,8 @@ Den bygningssagkyndige ser efter synlige mangler – ikke de skjulte   mangler, 
 
 ---
 
-Se dommen i **FED2019.26**. A og S købte et hus efter, at La havde udarbejdet en tilstandsrapport for huset. Af tilstandsrapporten fremgik, at der var revner i huset af kategorien K1 og K2. A og S opdagede efterfølgende, at huset var skævt og fik vurderet, at revnerne var værre end det, der fremgik af tilstandsrapporten. En skønsmand udtalte, at flere af indikationerne for skader ud over det, der fremgik af tilstandsrapporten, ikke var til stede på tidspunktet for La's besigtelse af huset, at de øvrige indikationer ikke entydigt indikerede skader af større omfang, og at der ikke var nogen større forskel på, om revnen blev kategoriseret som K2 eller K3. Landsretten fandt på denne baggrund, at La ikke havde handlet ansvarspådragende. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000844862/1**
+Se dommen i **FED2019.26**. A og S købte et hus efter, at La havde udarbejdet en tilstandsrapport for huset. Af tilstandsrapporten fremgik, at der var revner i huset af kategorien K1 og K2. A og S opdagede efterfølgende, at huset var skævt og fik vurderet, at revnerne var værre end det, der fremgik af tilstandsrapporten. En skønsmand udtalte, at flere af indikationerne for skader ud over det, der fremgik af tilstandsrapporten, ikke var til stede på tidspunktet for La's besigtelse af huset, at de øvrige indikationer ikke entydigt indikerede skader af større omfang, og at der ikke var nogen større forskel på, om revnen blev kategoriseret som K2 eller K3. Landsretten fandt på denne baggrund, at La ikke havde handlet ansvarspådragende. 
+**<a href="https://pro.karnovgroup.dk/document/7000844862/1">Dommen klik her!</a>**
 
 ---
 
@@ -1739,13 +1785,13 @@ Tillæg med udlevering af Hustypebeskrivelser.
 
 ## Video Sådan sikrer du din hushandel
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
 
 ---
 
 ## Video Sådan bruger du hustypebeskrivelserne
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ioTmSBDIJ6k" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/ioTmSBDIJ6k">Videoen klik her!</a>**
 
 ---
 
@@ -1765,19 +1811,20 @@ Sælger er fri for ansvar for fejl og mangler ved den faste ejendom  (jf. LFFE �
 
 ## Video om hvad dækker ejerskifteforsikringen
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/krfhBpCbbJg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/krfhBpCbbJg">Videoen klik her!</a>**
 
 ---
 
 ## Video om gode råd om ejerskifteforsikringen
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/aLNod14h5rc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/aLNod14h5rc">Videoen klik her!</a>**
 
+---
 
 ## Video Tjek huset før du køber
 
- <div class="video-container"><iframe src="https://www.youtube.com/embed/O3nShnJ2w8c" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
- 
+**<a href="https://www.youtube.com/embed/O3nShnJ2w8c">Videoen klik her!</a>**
+
 ---
  
 ## Ejendomsmæglerens erstatningsansvar
@@ -1794,6 +1841,8 @@ Udtrykket *”godtgørelse”* er valgt frem for *”erstatning”* for at marke
 
 Det vil sige, at der ikke skal dokumenteres noget økonomisk tab hos forbrugeren.
 
+---
+
 Sikkerhed for forbrugerne ved handel med fast ejendom er et væsentligt formål med loven.
 
 Det er derfor af helt afgørende betydning, at forbrugerne kan indrette sig i tillid til rigtigheden af professionelle ejendomsformidleres værdiansættelse og beregning af salgsprovenu og ejerudgift.
@@ -1806,6 +1855,8 @@ Når ejendomsmæglerens oplysninger på disse centrale punkter ikke er korrekte,
 
 Forbrugeren har krav på godtgørelse, hvis denne i god tro har indrettet sin økonomi i tillid til ejendomsmæglerens beregning af salgsprovenu (sælger) eller ejerudgift (køber), og ejendomsmæglerens beregning er forkert til skade for vedkommende. 
 
+---
+
 Ejendomsmægleren må, hvis forbrugeren har handlet i god tro, godtgøre forbrugeren forskellen. 
 
 Det er alene provenuberegningen ved salg, der er underlagt objektivt ansvar, jf. bestemmelsens henvisning til LOFE § 39.
@@ -1815,6 +1866,8 @@ Det er alene provenuberegningen ved salg, der er underlagt objektivt ansvar, jf.
 Godtgørelse for fejl i oplysningerne om ejerudgiften må imidlertid fastsættes skønsmæssigt, jf. domspraksis.
 
 Denne godtgørelse skal ikke give køberen mulighed for til evig tid at blive boende til den rigtige udgift, men alene kompensere i rimeligt omfang under hensyn til indrettelsesbetragtningen og omdisponeringsmulighederne.
+
+---
 
 Der skal ligeledes ydes en godtgørelse, hvis forbrugeren i god tro med rimelighed har disponeret i tillid til rigtigheden af en værdiansættelse foretaget af ejendomsmægleren, og denne afviger væsentligt fra, hvad den burde være efter reglen i LOFE § 27.
 
@@ -1842,10 +1895,8 @@ I almindelighed påhviler det forbrugeren, som vil kræve erstatning, at bevise,
 
 ---
 
-Se dommen i **U 2019.2221 H** Ikke grundlag for erstatningsansvar i anledning af en ejendomsmæglers vurdering af værdien af en andelsboligforenings ejendom:
-"B, der var ejendomsmægler og valuar, vurderede pr. 31. december 2005 en andelsboligforenings ejendom til 40 mio. kr., og andelsboligforeningen besluttede, at andelsværdierne skulle fastsættes på baggrund af denne vurdering. I maj til september 2006 solgte A1-A6 deres andele til priser fastsat på dette grundlag, og sagen angik, om B havde pådraget sig erstatningsansvar over for dem ved at have vurderet ejendommen for lavt. Ejendommens værdi skulle ifølge aftale med andelsboligforeningen ansættes efter vurderingsprincippet i andelsboligforeningslovens § 5, stk. 2, litra b, til den kontante handelsværdi som udlejningsejendom. Højesteret udtalte, at en betingelse for at pålægge en valuar erstatningsansvar over for sælgeren af en andel i en andelsboligforening er, at sælgeren godtgør, at der foreligger væsentlige fejl eller mangler ved valuarvurderingen, eller at vurderingen har ført til en åbenbart urigtig værdiansættelse, jf. Højesterets dom af 7. marts 2019 i sag BS-15214/2018. Højesteret fandt, at B ikke havde begået fejl ved at have anvendt et afkastprincip ved ansættelsen af ejendommens værdi, ligesom det ikke var godtgjort, at B havde begået fejl ved at anvende en afkastprocent på ca. 1,5. Højesteret fandt det heller ikke godtgjort, at B’s vurdering af ejendommens værdi var åbenbart urigtig. Der var herefter ikke grundlag for at pålægge B erstatningsansvar, og Højesteret stadfæstede landsrettens dom om frifindelse af B". Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000837036/1**
-
+Se dommen i **U 2019.2221 H** Ikke grundlag for erstatningsansvar i anledning af en ejendomsmæglers vurdering af værdien af en andelsboligforenings ejendom.
+**<a href="https://pro.karnovgroup.dk/document/7000837036/1">Dommen klik her!</a>**
 
 ---
 
@@ -1867,14 +1918,13 @@ Ejendomsmægler har et objektivt ansvar, jf. LOFE § 47, hvis
 
 ![](img/hus7.png)
   
-Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidling*, dog ikke over værdiansættelsen af ejendommen:
-**https://www.ejendomsmaeglernaevnet.dk/**
+Køberen kan klage over ejendomsmægleren til *Klagenævnet for ejendomsformidling*, dog ikke over værdiansættelsen af ejendommen.
+**<a href="https://www.ejendomsmaeglernaevnet.dk/">Til nævnet klik her!</a>**
 
 ---
 
-*Disciplinærnævnet for Ejendomsmægler* træffer afgørelse i klagesager om overtrædelse af LOFE, herunder god skik for ejendomsmæglere:
-
-**https://naevneneshus.dk/start-din-klage/disciplinaernaevnet-for-ejendomsmaeglere/**
+*Disciplinærnævnet for Ejendomsmægler* træffer afgørelse i klagesager om overtrædelse af LOFE, herunder god skik for ejendomsmæglere.
+**<a href="https://naevneneshus.dk/start-din-klage/disciplinaernaevnet-for-ejendomsmaeglere/">Til nævnet klik her!</a>**
 
 ---
 
@@ -1978,7 +2028,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
 
 ## Video om køb af fast ejendom
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/4jT7zb0TzZ8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/4jT7zb0TzZ8">Videoen klik her!</a>**
 
 ---
 
@@ -2006,9 +2056,7 @@ Men det er dog først, når skøde og tinglysning er endeligt- og anmærkningsfr
 
 ## Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/VnxgfS2MTUM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/VnxgfS2MTUM">Videoen klik her!</a>**
 
 ---
 
@@ -2051,8 +2099,8 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
 ---
 
 ## Video om nye boliglån
-<
-<div class="video-container"><iframe src="https://www.youtube.com/embed/XLCa5kGQ2HA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+**<a href="https://www.youtube.com/embed/XLCa5kGQ2HA">Videoen klik her!</a>**
 
 ---
 
@@ -2064,10 +2112,9 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-## Video om brug en boligadvokat når du køber bolig
+## Video om brug en boligadvokat, når du køber bolig
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/3GBFrCyRmvw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/3GBFrCyRmvw">Videoen klik her!</a>**
 
 ---
 
@@ -2088,7 +2135,7 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ## Video om valg af huslån
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/PrxUe5RjQso" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/PrxUe5RjQso">Videoen klik her!</a>**
 
 ---
 
@@ -2133,32 +2180,44 @@ Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en 
 
 ## Video om sådan sikrer du din hushandel
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/GCogSgE3ZmU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
 
 ---
 
 ## Video om hvad er det bedste lån?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hH5T-cIhfSY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/hH5T-cIhfSY">Videoen klik her!</a>**
 
 ---
 
 ## Video om råd fra førstegangskøbere
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/kUx-iNg3tPk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/kUx-iNg3tPk">Videoen klik her!</a>**
 
+
+---
+
+## Forældrekøb
+
+Forældrekøb er, når man som forældre køber en ejerbolig for at leje den ud til sit barn. 
+
+Ved forældrekøb skal man vælge mellem tre beskatningsmetoder.
+
+Forældrene skal betale skat af huslejeindtægten, men forældre skal ikke betale ejendomsværdiskat. 
+
+---
+
+Hør nærmere en Podcast fra SKAT om forældrekøb.
+**<a href="https://skat.dk/skat.aspx?oid=2234784" target="_blank">Hør her SKAT om reglerne for forældrekøb klik her!</a>**
 
 ---
 
 ## Quiz om boligen
 
-**https://www.forbrug.dk/quiz/boligquizzen/?rn=43716**
+**<a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716">klik her!</a>**
 
 
 ---
-
-
 
 ## Quiz om handel med fast ejendom
 

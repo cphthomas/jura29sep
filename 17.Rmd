@@ -229,7 +229,8 @@ De almindelige forældelsesregler er samlet i forældelsesloven, men der finder 
 
 ---
 
-Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 af 9. november 2015 om forældelse af fordringer), se **forældelsesloven** i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 af 9. november 2015 om forældelse af fordringer), 
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -462,27 +463,29 @@ Det kan således ikke udelukkes, at domstolene i en konkret situation finder, at
 
 ## Video om forældelse af erstatningskrav
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/3zskyjImReg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/3zskyjImReg">Videoen klik her!</a>**
 
 
 ---
 
 ## Video om forældelsesfrister ved gæld
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/krDpzh9ugJ0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/krDpzh9ugJ0">Videoen klik her!</a>**
+
 
 ---
 
 ## Video om gode råd om gæld og om forældelse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/1W-4uy3N-3Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/1W-4uy3N-3Q">Videoen klik her!</a>**
+
 
 ---
 
 ## Video om at få styr på sin gæld, herunder omkostninger og forældelse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hWILK4x7P_s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/hWILK4x7P_s">Videoen klik her!</a>**
+
 
 ---
 
@@ -525,8 +528,6 @@ Lidt begreber:
 
 
 ---
-
-
 
 
 ## Quiz om ophør af fordringer

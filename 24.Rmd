@@ -8,13 +8,17 @@ cat(readLines('np.html'))
 
 ---
 
-**Arveret behandles i kap. 19 i "Erhvervsjura"**
+*Forståelsen af reglerne om arv kan være anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.*
+
+---
+
+**"De arveretlige regler" anvendes også i fx faget "Privatøkonomisk rådgivning" på finansøkonomuddannelsen**
 
 ---
 
 ## Video om hvem arver fra dig?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ikBxcxBSBb8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/ikBxcxBSBb8" width="853">Videoen klik her!</a>**
 
 ---
 
@@ -31,9 +35,8 @@ Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstleve
 
 ---
 
-Se nærmere **"arveloven"** i Lovsamlingen under kapitel 26:
-
-**https://jura.tepedu.dk/lovsamling.html.**  
+Se nærmere *"arveloven"*
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Lovsamlingen klik her!</a>**
 
 ---
 
@@ -55,9 +58,10 @@ Også ægtefællens tvangsarv udgør fremover ¼ af den legale arv.
 
 Endvidere er indført en adgang for arvelader til at begrænse en livsarvings tvangsarv til 1 mio. kr., ligesom arveladeren har fået mulighed for at bestemme, at en livsarving skal have sin tvangsarv udbetalt kontant. 
 
-Dette indebærer, at det bl.a. bliver lettere at ligestille sammenbragte børn i arveretlig henseende, og at gennemførelsen af generationsskifter af erhvervsvirksomheder lettes.  
+Dette indebærer, at det bl.a. bliver lettere at ligestille sammenbragte børn i arveretlig henseende, og at gennemførelsen af generationsskifter af erhvervsvirksomheder lettes.
 
-Herudover giver arveloven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et udvidet samlevertestamente). 
+Herudover giver arveloven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et udvidet samlevertestamente).
+
 ---
 
 I sammenhæng med revisionen af arveloven er der blevet gennemført en række ændringer i *"forsikringsaftalelovens og pensionsopsparingslovens"* regler om indsættelse af begunstigede.  
@@ -72,7 +76,7 @@ Efterlader afdøde sig ingen gæld, men alene aktiver, og ses der bort fra de fo
 
 De arveretlige regler medfører således en overgang af ejendomsretten til afdødes formue fra den afdøde til arvingerne. 
 
-**Arv er en erhvervelsesmåde på linje med aftale, frembringelse mv.**
+*Arv er en erhvervelsesmåde på linje med aftale, frembringelse mv.*
 
 ---
 
@@ -88,6 +92,8 @@ Beviset for, at arvingen har overlevet den afdøde, kan give vanskeligheder i vi
 
 Er der ikke vished for, at en bortebleven person har overlevet afdøde, afsættes kun arv til den pågældende, hvis der er nogen sandsynlighed for, at han/hun er i live. 
 
+---
+
 Er der vished for, at arvingen har overlevet afdøde, afsættes derimod arvelod, uanset om arvingens opholdssted måtte være ukendt.  
 
 Hvis to personer, som havde arveret efter hinanden, er døde, uden at det vides, hvem der er død først, anses den ene ikke for at have overlevet den anden. 
@@ -97,6 +103,8 @@ Hvis to personer, som havde arveret efter hinanden, er døde, uden at det vides,
 Reglen har praktisk betydning fx ved trafikulykker, hvor ægtefæller omkommer. 
 
 Et barn, som er avlet forinden dødsfaldet og senere fødes levende, har også arveret. 
+
+---
 
 Den gravide kvindes foster er således arveberettiget.  
 
@@ -154,7 +162,9 @@ Arven fordeles til arveklasse 1, 2 eller 3.
 
 Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
 
-Ægtefælle har også legal arveret. 
+Ægtefælle har også legal arveret.
+
+---
 
 Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testamente. 
 
@@ -189,9 +199,13 @@ Børns arv kan begrænses til 1 mio. kr., jf. AL § 5, stk. 2. (1.290.000 kr. i 
 
 AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger (tvangsarvinger), som er arveladerens nærmeste slægtsarvinger. 
 
+---
+
 Børnelinjen omfatter børn, børnebørn, oldebørn osv. Slægtskab foreligger mellem en mor og hendes barn og mellem barnet og den mand, der er barnets retlige far. 
 
 Det er en forudsætning at faderskabet er fastslået inden dødsfaldet eller efterfølgende bliver det. arver lige.  
+
+---
 
 Er et barn død, træder dets børn i dets sted og arver indbyrdes lige. 
 
@@ -200,6 +214,8 @@ På tilsvarende måde arver fjernere livsarvinger.
 Denne såkaldte *"stirpal-grundsætning"* betyder, at arven inden for hver arveklasse fordeles i *»stammer«* og ikke efter *»hoveder«*. 
 
 Stirpalgrundsætningen	fordelingen af arven efter stammer og linier (in stirpes et lineas). Hvis fx arveladeren efterlader sig en datter og en afdød søns 2 børn, arver datteren halvdelen af boet, mens de 2 børnebørn skal dele den anden halvdel med en fjerdedel til hver. Hvis man delte efter antal hoveder (in capita), ville de hver arve en tredjedel.
+
+---
 
 Børnebørn arver således ikke, så længe barnet lever. 
 
@@ -218,11 +234,15 @@ Er en af forældrene død, træder dennes børn (arveladers søskende) i stedet 
 
 Arveklasse 2 er ikke tvangsarvinger, så kan arvelader selv bestemme ved testamente, hvad der skal ske med formuen. 
 
+---
+
 Hvis der ikke er oprettet testamente så følger arven arveklasserne.
 
 Bestemmelsen i AL § 2 omhandler således arv til 2. arveklasse - forældrelinjen. 
 
 Hvis arveladeren ikke efterlader sig livsarvinger, tilfalder arven anden arveklasse, som også kaldes *"udarvinger"*; som er arveladerens arveberettigede slægtninge, bortset fra arveladerens livsarvinger, fx afdødes forældre, søskende og søskendebørn.
+
+---
 
 Arveklasse 2 udgøres således af afdødes forældre og disses efterkommere, dvs. arveladerens søskende, nevøer og niecer osv. 
 
@@ -243,11 +263,15 @@ Arven fordeles med halvdelen til moderens forældre og halvdelen til faderens fo
 
 Er en af bedsteforældrene døde, træder dennes børn (arveladers faster, moster osv.) i stedet og arver lige. 
 
+---
+
 Bedsteforældre børnebørn (fætre og kusiner) arver ikke. 
 
 Arveklasse 3 er ikke tvangsarvinger.  
 
 Lever alle 4 bedsteforældre deles arven i 4 portioner. 
+
+---
 
 Er en af bedsteforældrene død, træder dennes børn i stedet efter *repræsentationsprincippet*. 
 
@@ -255,11 +279,15 @@ Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale ar
 
 Er farfaren død og efterlader sig to børn, arver disse således 1/8. 
 
+---
+
 Derimod falder arven ikke videre til fjernere livsarvinger. 
 
 Arveladerens kusiner og fætre samt deres børn er således ikke legale arvinger.  
  
 Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på mødrene side sker efter stirpal-grundsætningen i § 2, og fordeles således ud i 1/4 til hhv. farfaren eller dennes børn, farmoren eller dennes børn, mormoren eller dennes børn samt morfaren eller dennes børn. 
+
+---
 
 Er der kun arvinger på fædrene eller mødrene side, deles arven ud med 1/2 til hver af disse eller deres børn. 
 
@@ -278,8 +306,7 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 ## Video om sådan fordeles arven
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/EIgZkPOF0_E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/EIgZkPOF0_E">Videoen klik her!</a>**
 
 ---
 
@@ -310,39 +337,37 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ## Video om fordeling af arv: Ugift par uden børn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/qYf2gatfAWQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/qYf2gatfAWQ">Videoen klik her!</a>**
 
 ---
 
 ## Video om fordeling af arv: Ugift par med fælles børn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/cDriXFDNg30" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/cDriXFDNg30">Videoen klik her!</a>**
 
 ---
 
 ## Video om fordeling af arv: Ugift par med stedbørn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/x7WzAOJJNXQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/x7WzAOJJNXQ">Videoen klik her!</a>**
 
 ---
 
-
-  
 ## Video om arv mellem sammenlevende
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/WVec5BYeu34" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/WVec5BYeu34">Videoen klik her!</a>**
 
 ---
 
 ## Video om fordeling af arv uden børn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/bNa7tt460bY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/bNa7tt460bY">Videoen klik her!</a>**
 
 ---
 
 ## Video om fordeling af arv med fællesbørn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/TXaWe8-jz9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/TXaWe8-jz9s">Videoen klik her!</a>**
 
 ---
 
@@ -352,15 +377,13 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ## Video om fordeling af arv: Ægtepar med stedbørn
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/MQ6i9G5NxUc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/MQ6i9G5NxUc">Videoen klik her!</a>**
 
 ---
 
 ## Video om arv mellem ægtefæller
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/UtsI4IWmajI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/UtsI4IWmajI">Videoen klik her!</a>**
 
 ---
 
@@ -369,6 +392,8 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 Vælger ægtefællen at sidde i uskiftet bo, får ægtefællen rådighed over alle aktiver og overtager afdødes gældsforpligtelser, jf. AL §§ 24 og 25. 
 
 Kan kun sidde i uskiftet bo med delingsformue – særejet skal skiftes, jf. AL § 17. 
+
+---
 
 Man kan ikke sidde i uskiftet bo, hvis man ikke har været gift. 
 
@@ -383,6 +408,8 @@ Længstlevende ægtefælle kan således forbruge det uskiftede bos midler og giv
 Spørgsmål om misbrug kan indbringes for skifteretten af førstafdødes arvinger, jf. AL §§ 29-32. 
 
 Længstlevende ægtefælle har rådighed uden at være egentlig ejer. 
+
+---
 
 Den pågældende kan således fx stille sikkerhed, sælge aktiver hørende til det uskiftede bo og give gaver, men skal på den anden side tage hensyn til førstafdøde ægtefælles livsarvinger, idet længstlevende også råder over livsarvingernes potentielle arv efter førstafdødes ægtefælle.  
 
@@ -444,6 +471,8 @@ Der er tale om en tvangsarveret, der ikke kan fratages ved testamente.
 
 Retten til forlods udtagelse indebærer, at udtagelsen ikke belaster den længstlevende ægtefælles boslodskrav ved opgørelsen af fællesboet, og heller ikke kravet i henhold til retten til suppleringsarv. 
 
+---
+
 En længstlevende ægtefælles påberåbelse af AL § 11, stk. 1 vil kunne medføre, at et dødsbo kan sluttes uden skiftebehandling. 
 
 Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefælle, der som enearving ville kunne overtage hele boet efter AL § 9, stk. 2. 
@@ -452,13 +481,15 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ## Video om styr på arven: Testamente eller ej? 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/5MxSyf_Ah84" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/5MxSyf_Ah84">Videoen klik her!</a>**
 
 ---
 
 ## Video om styr på arven: Fem gode råd om testamente 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853">Videoen klik her!</a>**
+
+---
 
 1.Find ud af, hvem du vil have, der skal arve efter dig.
 
@@ -474,14 +505,16 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
  
 ## Video om hvordan opretter du et testamente?
-/
-<div class="video-container"><iframe src="https://www.youtube.com/embed/TcZb7VCClcQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+**<a href="https://www.youtube.com/embed/TcZb7VCClcQ" width="853">Videoen klik her!</a>**
 
 ---
 
 ## Video om styr på arven: Hvem får pensionen? 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/F6Yourieo0Q" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/F6Yourieo0Q" width="853">Videoen klik her!</a>**
+
+---
 
 Hvem skal have ens pension og livsforsikring, når man dør?
 
@@ -520,6 +553,8 @@ Hvis der skulle være fejl i et testamente, har Domstolene mulighed for at rette
 
 Domstolene kan således rette en sådan fejl, hvis retten er sikker på, hvad testator mente.
 
+---
+
 Se nærmere om *"korrigerende fortolkning"* af et testamente, jf. arvelovens § 76:
 
 "En testamentarisk bestemmelse, der på grund af en fejlskrift eller anden fejltagelse har fået et indhold, der afviger fra det tilsigtede indhold, skal så vidt muligt gennemføres efter sin rette mening. Hvis denne ikke kan fastslås, er den testamentariske bestemmelse ugyldig".
@@ -552,7 +587,8 @@ Et *"uigenkaldeligt testamente"* er et	testamente, som ikke kan tilbagekaldes. U
 
 ## Video om hvorfor skrive et testamente?
 
-**https://jyskebank.tv/hvorfor-lave-et-testamente**
+**<a href="https://jyskebank.tv/hvorfor-lave-et-testamente">Videoen klik her!</a>**
+
 
 ---
 
@@ -565,6 +601,8 @@ Et notartestamente er et testamente, der underskrives foran en notar.
 Notarens gebyr på 300 kr. sikrer, at testamentet bliver fundet og fulgt, når testator går bort. 
 
 Notaren (i Byretten) påtegner testamentet og kontrollerer testators identitet, fornuft, mv.
+
+---
 
 Registrerer testamentet i Centralregistret for testamenter.
 
@@ -599,8 +637,7 @@ Retten beholder kopien og underretter et centralt register om, at testamentet er
 Der skal udfyldes en forside til testamentet. 
 
 Hent forsiden her:
-
-http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Forside%20til%20testamente.pdf
+**<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Forside%20til%20testamente.pdf">klik her!</a>**
 
 ---
 
@@ -615,6 +652,8 @@ Når notaren har påtegnet testamentet, vil man eller ens advokat få det origin
 Man bør opbevare testamentet et sted, hvor det er nemt at finde. 
 
 Hvis ens testamente indeholder bestemmelser om ens begravelse, er det en god ide, at man fortæller det til sine nærmeste.
+
+---
 
 Retten opbevarer en kopi af testamentet og sørger for at oprettelsen indberettes til et centralt register. 
 
@@ -703,8 +742,7 @@ Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 ## Video om hvad er et vitterlighedsvidne
 
-**https://dokument24.dk/info/vitterlighedsvidne**
-
+**<a href="https://dokument24.dk/info/vitterlighedsvidne">Videoen klik her!</a>**
 
 ---
 
@@ -742,25 +780,25 @@ Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslut
 
 ---
 
-Se dommen i **U.2019.1526 V** Testamente oprettet på dødslejet med begunstigelse af samleverske opfyldte betingelserne i arvelovens § 65 for nødtestamente:
-"A, født 1938, afgik ved døden den 2. juni 2016, efter en ellers kureret kræftsygdom var vendt tilbage. A havde efter en skilsmisse siden 1984 boet sammen med S, født 1953. I slutningen af maj 2016 var det klart, at A var i den terminale fase. S havde den 23. maj 2016 ringet til en advokat, P, og bedt ham komme ud på bopælen. P, der ikke kendte A og S, kom ud til dem den 2. juni 2016 om formiddagen, og P fik at vide af en sygeplejerske, at A var i stand til at oprette testamente, men at det hastede. Der blev herefter oprettet et håndskrevet nødtestamente, hvoraf fremgik, at S skulle arve på lige fod med A’s tre børn således, at de hver især skulle arve ¼, og A underskrev testamentet. Dødsboet blev behandlet af en bobestyrer, og A’s tre børn (B1, B2, og B3) bestred, at testamentet kunne danne grundlag for skiftet. S anlagde sag mod B1, B2 og B3 med påstand om, at de skulle anerkende testamentet, idet betingelserne i arvelovens § 65 for at oprette nødtestamente havde været opfyldt. B1, B2 og B3 gjorde til støtte for frifindelsespåstanden bl.a. gældende, at S ikke havde bevist, at A havde været forhindret i at oprette et ordinært testamente, herunder et vidnetestamente, og at det var uden betydning, om testamentet var udtryk for A’s ønske. Skifteretten gav S medhold, og B1, B2 og B3 ankede dommen. Landsretten stadfæstede dommen, idet landsretten efter bevisførelsen lagde til grund, at A havde været meget afkræftet i dagene op til den 2. juni 2016, men at denne omstændighed ikke udelukkede, at han fornuftsmæssigt havde været i stand til at råde over sine ejendele på oprettelsestidspunktet. P havde forklaret, at A efter hans opfattelse var testamentshabil den 2. juni. Det kunne endvidere lægges til grund, at testamentet var udtryk for A’s vilje. S havde herefter bevisbyrden for, at A havde været forhindret i at oprette et notar- eller vidnetestamente, og denne bevisbyrde havde S løftet. Efter oplysningerne om A’s tilstand den 2. juni 2016, og da P ikke, da han kom ud på bopælen, var klar over, at testamentesoprettelsen var presserende, således at han skulle have sørget for at få en notar med, og da der ikke kunne stilles krav om, at P eller S skulle have sørget for at finde et vidne, havde betingelserne i arvelovens § 65 for at oprette et nødtestamente været opfyldt". Se hele dommen er:
-**https://pro.karnovgroup.dk/document/7000834350/1**
+Se dommen i **U.2019.1526 V** Testamente oprettet på dødslejet med begunstigelse af samleverske opfyldte betingelserne i arvelovens § 65 for nødtestamente.
+**<a href="https://pro.karnovgroup.dk/document/7000834350/1">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1970.10 H** Holografisk testamente oprettet før selvmord blev anset for et gyldigt nødtestamente:
-"En 70-årig kvinde T, der var deprimeret efter en separation, tog livet af sig. I boet fandtes et af skrevet og underskrevet testamente til fordel for en broder og dennes hustru. Et tidligere oprettet testamente til fordel for et legat var påskrevet »Annulleret«. Under en af T's øvrige søskende rejst sag antoges det, at T havde befundet sig i en nødsituation, jfr. arvelovens § 44, og at hun med føje havde anset sig for forhindret i at oprette testamente i overensstemmelse med de almindelige regler. Herefter opretholdes det holografiske testamente". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000213771/1**
+Se dommen i **U 1970.10 H** Holografisk testamente oprettet før selvmord blev anset for et gyldigt nødtestamente.
+**<a href="https://pro.karnovgroup.dk/document/7000213771/1">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1979.108 H** Dokument efterladt af afdød, som havde begået selvmord, anerkendt som nødtestamente:
-"A, som fra et tidligere ægteskab havde en søn, og som samlevede med B, begik selvmord og efterlod sig et af ham udfærdiget udateret dokument, der var anbragt i B's curlerpose og stilet til hende, og hvori det bl. a. hed: »Alt hvad der er, må du få« Efter det foreliggende lagdes det til grund, at A havde anbragt dokumentet i curlerposen den 12 eller 13 oktober, og det fandtes overvejende sandsynligt, af han efter at have forladt hjemmet den 13 oktober havde begået selvmord samme dag. Det lagdes herefter endvidere til grund, at A havde besluttet sig for selvmord, da han anbragte dokumentet i curlerposen, og at han da han havde befundet sig i en nødsituation som nævnt i arve lovens § 44 Dokumentet blev derfor trods indsigelse fra A's søn lagt til grund for skiftet efter A som en gyldig testamentarisk disposition vedrørende den testationsfri halvdel af A's bo". Se hele dommen **https://pro.karnovgroup.dk/document/7000208197/1**
+Se dommen i **U 1979.108 H** Dokument efterladt af afdød, som havde begået selvmord, anerkendt som nødtestamente.
+**<a href="https://pro.karnovgroup.dk/document/7000208197/1">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ikke var ude af stand til at råde fornuftsmæssigt:
-"T, der var født i 1930, blev i 1985 skilt fra sin ægtefælle, med hvem han havde en datter B. I 1988 flyttede han sammen med A, og efter at han havde været indlagt på hospital, psykiatrisk afdeling, oprettede han i 1990 et notartestamente, hvorefter A forlods skulle arve 10 % af hans likvide formue, mens B skulle være hans hovedarving. Ved et notartestamente i 1994 bestemte T, hvordan nærmere bestemte genstande skulle fordeles, mens B skulle arve resten. Den 5. september 1994 opregnede T en række genstandslegater, og den 26. november 1995 begik T selvmord. I et brev til en bekendt, dateret samme dag, udtalte T, at A uanset hans testamente skulle arve alt, hvad hun ønskede, før B. Der var ikke grundlag for at antage, at T, der havde skrevet brevet efter sin beslutning om at begå selvmord, i almindelighed eller ved den testamentariske disposition til fordel for A havde manglet evnen til at handle fornuftsmæssigt. A fik derfor medhold i, at hun skulle arve mest muligt". Se hele dommen her:
-**https://pro.karnovgroup.dk/document/7000196579/1**
+Se dommen i **U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ikke var ude af stand til at råde fornuftsmæssigt.
+**<a href="https://pro.karnovgroup.dk/document/7000196579/1">Dommen klik her!</a>**
+
+---
 
 
 ![](img/nod4.jpg)
@@ -792,7 +830,7 @@ Parterne skal endvidere på dødstidspunktet leve sammen sammen på fælles bop�
 
 a) vente, have eller have haft et fælles barn eller  
 
-b) have levet sammen på den fælles bopæl i et ægteskabslignende forhold i de sidste 2 år
+b) have levet sammen på den fælles bopæl i et ægteskabslignende forhold i de sidste 2 år.
 
 Samlevende har således ingen legal arveret, kræver oprettelse af testamente.
 
@@ -818,7 +856,7 @@ Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
 
 ## Video om udvidet samlevertestamente
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0Ss86d4klSw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/0Ss86d4klSw">Videoen klik her!</a>**
 
 ---
 
@@ -833,6 +871,8 @@ For den, der i forvejen er arving, anses en begunstigelse i et indbotestamente f
 ---
 
 Ved indbotestamentet kan testator således i en erklæring - dvs. uden at oprette et egentligt testamente efter arvelovens §§ 63-64 bestemme, hvem der skal arve sædvanligt indbo og personlige effekter. 
+
+---
 
 Et indbotestamente kan også tilgodese personer, der ikke i forvejen er arvinger efter loven eller testamente, uanset at dette vil medføre en kvantitativ omfordeling af arven efter arveladeren. 
 
@@ -984,12 +1024,9 @@ Et donortestamente skal registreres i Donorregistret og kan oprettes på www.sun
 ---
 
 Spørgsmål og svar om organdonation:
-
-
-**https://organdonor.dk/spoergsmaal-og-svar-om-organdonation/**
+**<a href="https://organdonor.dk/spoergsmaal-og-svar-om-organdonation/">klik her!</a>**
 
 ---
-
 
 ## Fradømmelse af arveretten
 
@@ -1017,13 +1054,13 @@ Uagtsomt drab efter straffelovens § 241 kan ikke føre til frakendelse af arver
 
 *Se fra retspraksis om frakendelse af arveretten:*
 
-Se dommen i **U 2005.1545 H**. Fængsel i 12 år for drab på far. Frakendelse af arveret og ret til ulykkesforsikring:
-"T, der på gerningstidspunktet var 38 år, blev fundet skyldig i manddrab ved at have tildelt sin far talrige slag med knytnæve og stump genstand samt spark m.v., hvorved faderen pådrog sig et kraniebrud og svære brystkvæstelser, der medførte, at han afgik ved døden. Nævningerne besvarede et tillægsspørgsmål om straffrihed på grund af frivillig tilbagetræden fra forsøg benægtende. Af en mentalerklæring fremgik bl.a., at T på tidspunktet for drabet havde et alkoholisk betinget blackout efter excessiv alkoholindtagelse. Straffen blev fastsat til fængsel i 12 år, og T blev desuden frakendt arveretten og retten til en ulykkesforsikring efter faderen". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000306320/1** 
+Se dommen i **U 2005.1545 H**. Fængsel i 12 år for drab på far. Frakendelse af arveret og ret til ulykkesforsikring.
+**<a href="https://pro.karnovgroup.dk/document/7000306320/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 2002.2434 H** Drab af ægtefælle. 10 års fængsel for drab af ægtefælle. Udvisning:
-"Den på gerningstidspunktet 35-årige T var fundet skyldig i overtrædelse af straffelovens § 237 ved en formiddag i december 2000 i en lejlighed i Brønshøj ved stump vold og kværkning at have dræbt sin ægtefælle. Han var endvidere fundet skyldig i overtrædelse af straffelovens § 244 ved i oktober 2000 at have udøvet vold mod ægtefællen. Højesteret fandt den af landsretten fastsatte straf af fængsel i 10 år passende bestemt.  T, der var thailandsk statsborger, havde i 1997 fået opholdstilladelse på grundlag af ægteskabet med den senere dræbte ægtefælle, der ligeledes var thailandsk statsborger. Han havde et særbarn født i 1982, der havde opholdstilladelse i Danmark, et særbarn født i 1988, hvis opholdstilladelse var blevet inddraget, samt med afdøde et fællesbarn født i 1998. Han havde et barn, sine forældre og 5 søskende i Thailand. Højesteret tiltrådte, at T var udvist for bestandig. Det tiltrådtes endvidere, at T var frakendt retten til arv og pensionsydelser efter ægtefællen". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000253665/1** 
+Dommen i **U 2002.2434 H** Drab af ægtefælle. 10 års fængsel for drab af ægtefælle. Udvisning.
+**<a href="https://pro.karnovgroup.dk/document/7000253665/1">Dommen klik her!</a>**
 
 ---
 
@@ -1031,26 +1068,25 @@ Se dommene i **U 1997.1686 H**; **U 1996.1645 H**; **U 1995.57 H**; **U 1993.921
 
 ---
 
-Dommen i **U 1990.591 H** Drab på 75-årig mormor: "32-årig T, der i 1984 for blandt andet voldtægt af særlig farlig karakter var idømt fængsel i 3 år, var fundet skyldig i manddrab ved at have kværket eller stranguleret sin 75-årige mormor og tyveri ved kort efter drabet at have stjålet ca. 44.000 kr. i kontanter og guldsmykker til en samlet værdi af ca. 38.000 kr. fra mormoderens lejlighed. Nævningerne havde besvaret et tillægsspørgsmål om at anvende straffelovens § 85 på drabet benægtende. Straffen blev fastsat til fængsel i 14 år". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000199157/1**
+Dommen i **U 1990.591 H** Drab på 75-årig mormor: "32-årig T, der i 1984 for blandt andet voldtægt af særlig farlig karakter var idømt fængsel i 3 år, var fundet skyldig i manddrab ved at have kværket eller stranguleret sin 75-årige mormor og tyveri ved kort efter drabet at have stjålet ca. 44.000 kr. i kontanter og guldsmykker til en samlet værdi af ca. 38.000 kr. fra mormoderens lejlighed. Nævningerne havde besvaret et tillægsspørgsmål om at anvende straffelovens § 85 på drabet benægtende. Straffen blev fastsat til fængsel i 14 år". 
+**<a href="https://pro.karnovgroup.dk/document/7000199157/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 1946.812 H** Medvirken. T, der var K's universalarving, fik tredjemand til at dræbe K. Fængsel på livstid. Frakendt arveret:
-"En Tiltalt, der efter forgæves at have forsøgt at formaa forskellige Personer til at dræbe en Kvinde, til hvis Universalarving han var indsat, sluttelig havde formaaet en Medtiltalt til at udføre Drabet, anset for Forsøg paa og Meddelagtighed i Manddrab med Fængsel paa Livstid, hvorhos han i Henhold til Ikrafttrædelseslovens § 14 fradømtes Arveret efter den dræbte". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000242186/1**
-
+Dommen i **U 1946.812 H** Medvirken. T, der var K's universalarving, fik tredjemand til at dræbe K. Fængsel på livstid. Frakendt arveret.
+**<a href="https://pro.karnovgroup.dk/document/7000242186/1">Dommen klik her!</a>**
+ 
 --
 
 *Se retspraksis, hvor der ikke skete fortabelse:* 
 
 Se dommen i **U 1983.439 V** En abnorm enkeltreaktion, hvor tiltalte følte sig truet og uretfærdigt behandlet af faderen. Fængsel i 6 år for drab på far. Ej frakendelse af retten til arv.
-"T, der ved en »kortslutningshandling« havde dræbt sin fader F efter at han umiddelbart forinden havde følt sig truet og uretfærdigt behandlet af F, idømtes for overtrædelse af straffelovens § 237, jf. § 85, fængsel i 6 år. En påstand om tab af retten til arv efter F blev ikke taget til følge". Se dommen her: **https://pro.karnovgroup.dk/document/7000206460/1** 
+**<a href="https://pro.karnovgroup.dk/document/7000206460/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 1981.615 Ø** Sønnerne ønskede faderen bevarede arveretten. Sindslidende, som havde dræbt sin hustru, ikke frakendt retten til at få arv efter afdøde:
-"Den 56-årige T, der havde dræbt sin hustru H, og som ved kriminalrettens dom for overtrædelse af strfl. § 237 var dømt til psykiatrisk behandling på hospital for sindslidende eller under tilsyn heraf samt frakendt retten til at få arv efter H, ankede til landsretten med påstand om, at arveretten ikke frakendtes ham. Ægtefællernes 3 voksne børn, der var H's eneste livsarvinger, ønskede, at T bevarede sin arveret. Efter sagens samtlige oplysninger og det standpunkt, familien havde indtaget, fandtes T's ret til at få arv efter afdøde ikke at burde fra kendes ham". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000207495/1**  
-
-
+Dommen i **U 1981.615 Ø** Sønnerne ønskede faderen bevarede arveretten. Sindslidende, som havde dræbt sin hustru, ikke frakendt retten til at få arv efter afdøde.
+**<a href="https://pro.karnovgroup.dk/document/7000207495/1">Dommen klik her!</a>**
 
 ---
 
@@ -1105,7 +1141,7 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 
 ## Video Webseminar om Arv, testamenter og pensioner
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/exm1sAFp0dE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/exm1sAFp0dE" width="853">Videoen klik her!</a>**
 
 ---
 
@@ -1196,21 +1232,18 @@ Man kan ikke få boet udleveret til uskiftet bo, hvis:
 
 ## Video få styr på arven: Uskiftet bo kan blive dyrt 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Fuag5hpZ9Ik" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" width="853">Videoen klik her!</a>**
 
 ---
-
 Se link her:
 
-Om boudlæg: 
-
-**http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/boudlaeg/Pages/default.aspx**
+Om boudlæg:
+**<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/boudlaeg/Pages/default.aspx">klik her!</a>**
 
 ---
 
-Om ægtefælleudlæg: 
-
-**http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/aegtefaelleudlaeg/Pages/default.aspx**
+Om ægtefælleudlæg:
+**<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/aegtefaelleudlaeg/Pages/default.aspx">klik her!</a>**
 
 ---
 
@@ -1219,8 +1252,7 @@ Om ægtefælleudlæg:
 Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skattemæssige forhold.
 
 Læs mere om dødsboskat i SKAT´s vejledning, som man kan finde her eller søg råd hos revisor eller advokat:
-
-**https://www.skat.dk/skat.aspx?oid=133802&chk=216282**
+**<a href="https://www.skat.dk/skat.aspx?oid=133802&chk=216282">klik her!</a>**
 
 ---
 
@@ -1274,7 +1306,7 @@ Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skat
 
 ## Video Hvad koster det at arve?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Va5cNkBjT_M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/Va5cNkBjT_M" width="853">Videoen klik her!</a>**
 
 ---
 
@@ -1296,7 +1328,6 @@ Den nuværende grænse (2019) for gaver for nærbeslægtede er 61.500 kr. pr. pe
 
 ---
 
-
 *Bobestyrerbo*
 
 Hvis der ikke foreligger andre muligheder, bliver boet behandlet som bobestyrerbo. 
@@ -1306,24 +1337,21 @@ Det gælder også, hvis der er uenighed mellem arvingerne.
 ---
 
 Se link her: *Hvornår skal et bo behandles af en bobestyrer?*: 
-
-**http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/bobestyrerbo/Pages/default.aspx**
+**<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/bobestyrerbo/Pages/default.aspx" width="853">klik her!</a>**
 
 ---
 
 *Boer efter udlændinge (tidligere kaldet "henvisningsboer")*
 
 Se link her:
-
-**http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/UDLAENDINGE/Pages/default.aspx**
+**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/UDLAENDINGE/Pages/default.aspx" width="853">klik her!</a>**
 
 ---
 
-*Vejledning til til værger og skifteværger* 
+*Vejledning til værger og skifteværger* 
 
 Se link her:
-
-**http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/VAERGER/Pages/default.aspx**
+**<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/VAERGER/Pages/default.aspx" width="853">klik her!</a>**
 
 ---
 
@@ -1335,13 +1363,13 @@ Man kan klage over skifterettens afgørelser til landsretten.
 
 ## Video få styr på arven: Undgå spærret konto ved død
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/_TmFA4SLd0U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/_TmFA4SLd0U" width="853" width="853">Videoen klik her!</a>**
 
 ---
 
 ## Video om at Undgå famliestrid
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/yr6A6wguEA8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/yr6A6wguEA8" width="853">Videoen klik her!</a>**
 
 ---
 
@@ -1585,7 +1613,6 @@ Formkrav:
 -	Ellers arveklasse 2,3 og Statsklassen i rækkefølge. 
 
 ---
-
 
 
 ## Quiz om arveretten

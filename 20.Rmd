@@ -6,6 +6,14 @@ cat(readLines('np.html'))
 
 ![](img/node.jpg)
 
+
+---
+
+*Forståelsen af reglerne om tingsretlige konflikter i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom samt ved finansiering via virksomhedspant mv.*
+
+---
+
+
 ## Parter og de forskellige rettighedskonflikter
 
 
@@ -41,15 +49,14 @@ Afgifter til andre offentlige myndigheder end stat og kommune er ikke omfattet a
 
 ---
 
-Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075 om tinglysning, se tinglysningsloven i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
-
+Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075 om tinglysning.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Tinglysningsloven i Lovsamlingen klik her!</a>**
 
 ---
 
-## Video om forstå tinglysning på 45 sekunder
+## Video om at forstå tinglysning på 45 sekunder
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/6Spl32wXXco">Videoen klik her!</a>**
 
 
 ---
@@ -228,21 +235,23 @@ Omvendt kan *god tro* styrkes gennem tingbogens oplysninger.
 
 Det er næppe groft uagtsomt ikke at efterse matrikelkort eller andet kortmateriale:
 
-Dettte udgngspunkt modificees af dommen i **U 1965.542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af fx en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse. Se nærmere link til hele dommen her: **https://pro.karnovgroup.dk/document/7000212359/1** 
+Dettte udgngspunkt modificees af dommen i **U 1965.542/2 Ø**. Er der faktisk vist kortmateriale, der kan indicere eksistensen af fx en vejret, er det groft uagtsomt ikke at foretage nærmere undersøgelse.
+**<a href="https://pro.karnovgroup.dk/document/7000212359/1">Dommen klik her!</a>**
 
 ---
 
 
 ![](img/hjul.jpg)
 
-Se også tilsvarende dommen i **U 1948.130 H** (hjulspor tillige set i marken). Køber af en ejendom kunne ej fortrænge utinglyst vejret, der var vist på matrikelkortet:
-"Ved A's Køb i 1918 af en Parcel af S's Ejendom paalagdes det S langs Parcellens Nordside at udlægge Vejareal paa et S tilhørende, senere som Matr. Nr. 408 matrikuleret Jordstykke, men der lystes ikke Servitut derpaa. I de følgende Aar fandt der nogen Færdsel Sted paa Vejen, og i 1927 erhvervede B Matr. Nr. 408 ved tinglyst Skøde. Navnlig under Hensyn til at Vejen havde været indtegnet paa det i Anledning af B's Køb tilstedeværende Matrikulskort over Matr. Nr. 408, endda saaledes at Vejen var vist som liggende 1,26 m inde paa A's Ejendom, fandtes B ved Købet af Matr. Nr. 408 at have haft en saadan Opfordring til at undersøge, hvem der havde Færdselsret ad Vejen, at Undladelsen heraf maatte medføre, at B ikke ved Tinglysning af Skødet paa Matr. Nr. 408 havde kunnet fortrænge A's Vejrettighed, jfr. T. L. § 5". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000242334/1**
+Se også tilsvarende dommen i **U 1948.130 H** (hjulspor tillige set i marken). Køber af en ejendom kunne ej fortrænge utinglyst vejret, der var vist på matrikelkortet.
+**<a href="https://pro.karnovgroup.dk/document/7000242334/1">Dommen klik her!</a>**
 
 ---
 
 Konflikten mellem indehaveren af en utinglyst ret og en erhverver af ejendommen vil undertiden kunne ses ikke som et spørgsmål om erhververens gode eller onde tro, men som et spørgsmål om, hvorvidt erhververen overhovedet har fået tilsagt en ret, der strider mod den utinglyste ret:
 
-Se dommen i **U 1991.27 H** 137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000199368/1**
+Se dommen i **U 1991.27 H** 137 m² af en byejendom på 674 m² var uden matrikulering blevet fraskilt ved hegn. En senere erhverver af ejendommen fandtes alene at have erhvervet ret til det besigtigede areal, ikke til hele det matrikulerede areal. 
+**<a href="https://pro.karnovgroup.dk/document/7000199368/1">Dommen klik her!</a>**
 
 ---
 
@@ -269,6 +278,8 @@ Som udlægshaver i en ejendom, har man også mulighed for at begære ejendommen 
 Dette kræver dog en såkaldt *retlig interesse* hos udlægshaver. 
 
 Det betyder, at der skal være "rimelig mulighed" for, at den udlægshaver, der begærer ejendommen på tvangsauktion opnår dækning for sit krav. 
+
+---
 
 Herudover kan udlægshaver blive pålagt at stille sikkerhed for, at foranstående pant- og udlægshavere opnår dækning på tvangsauktionen.
 
@@ -323,8 +334,7 @@ Se dom om forbrugers tab på godt 145.000 kr. ved bilforhandlers dobbeltsalg sku
  
 **Østre Landsret har den 13. juni 2012** afsagt dom i en ankesag mellem køberen af en bil og bilforhandleren. Bilkøberen havde ved slutseddel af 29. september 2009 hos forhandleren købt en bestemt fabriksny bil for 297.289 kr. til levering den 5. oktober 2009. Bilen havde forinden været markedsført som et "skarpt lagertilbud", hvor det var angivet, at bilen var nedsat fra en tidligere gældende listepris på 442.900 kr. til 297.289 kr., således at man sparede 145.611 kr. Et par dage efter slutsedlens underskrift meddelte forhandleren køberen, at bilen forud for slutsedlens underskrift var solgt, således at handlen ikke kunne gennemføres. Baggrunden herfor var, at bilen via bilimportøren var solgt til Sverige. Forhandleren kunne ikke skaffe en tilsvarende bil af samme fabrikat.
 Køberen anlagde sag mod bilforhandleren med påstand om, at forhandleren skulle betale erstatning med 145.611 kr. Byretten tog køberens påstand til følge. Bilforhandleren ankede dommen og anførte, at bilen ikke var mere værd end den aftalte pris, som var markedsprisen. Køberen havde som følge heraf ikke lidt et tab.
-Østre Landsret stadfæstede byrettens dom, idet landsretten blandt andet henviste til, at bilen var udbudt som et "skarpt lagertilbud" med en prisnedsættelse på 145.611 kr., og at der på tidspunktet, hvor bilkøberen skulle foretage køb af en anden bil af tilsvarende type som følge af forhandlerens dobbeltsalg, ikke var mulighed for at købe med en tilsvarende prisreduktion. Landsretten fandt, at køberens tab kunne opgøres til prisreduktionen, således at forhandleren skulle betale 145.611 kr. til køberen.
-Sagen blev behandlet i **Østre Landsrets 4. afdeling under j.nr. B-1947-11**.
+Østre Landsret stadfæstede byrettens dom, idet landsretten blandt andet henviste til, at bilen var udbudt som et "skarpt lagertilbud" med en prisnedsættelse på 145.611 kr., og at der på tidspunktet, hvor bilkøberen skulle foretage køb af en anden bil af tilsvarende type som følge af forhandlerens dobbeltsalg, ikke var mulighed for at købe med en tilsvarende prisreduktion. Landsretten fandt, at køberens tab kunne opgøres til prisreduktionen, således at forhandleren skulle betale 145.611 kr. til køberen. Sagen blev behandlet i **Østre Landsrets 4. afdeling under j.nr. B-1947-11**.
 
 ---
 
@@ -430,6 +440,8 @@ Et fondsaktiv anses som registreret i en CSD (Central securities depository), b�
 Om den tingsretlige regulering af dobbeltoverdragelser mv., af fondsaktivet (børsnoterede værdipapirer) se nærmere om reguleringen af registreringssystemet i kapitalmarkedslovens § 184:
 
 Rettigheder over fondsaktiver skal registreres i en værdipapircentral (CSD) for at opnå beskyttelse mod aftaler, der indgås om fondsaktiverne, og retsforfølgning, jf. kapitalmarkedslovens § 184, stk. 1. 
+
+---
 
 En aftale eller retsforfølgning, der skal kunne fortrænge en ikkeregistreret ret, skal selv være registreret, og erhververen ifølge aftalen skal være i god tro ved anmeldelsen af rettigheden til det kontoførende institut, jf. kapitalmarkedslovens § 184, stk. 2.
 
@@ -582,9 +594,6 @@ Et gyldigt ejendomsforbehold i et løsøre, jf. kreditaftalelovens § 34, stk. 1
  
 #### Kædeoverdragelser af fondsaktiver på kapitalmarkedet
 
-
- 
-
 Kædeoverdragelser er reguleret af kapitalmarkedslovens § 186:
 
 ”Når registreringen af en aftale om rettigheder over fondsaktiver er endeligt gennemført i en værdipapircentral (CSD), kan en godtroende erhverver ifølge registreret aftale ikke mødes med nogen indsigelse mod gyldigheden af aftalen. Den indsigelse, at et dokument er falsk eller forfalsket, at dets udstedelse retsstridigt er fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, eller at udstederen var umyndig ved udstedelsen, bevares over for en godtroende erhverver ifølge registreret aftale”.^[Afsnittet bygger på *Lars Hedegaard Kristense* og *Henrik Kure* Karnovkommentar til kapitalmarkedslovens § 186.]
@@ -595,17 +604,23 @@ Lovbestemmelsen i § 186 viderefører § 69 i værdipapirhandelsloven med visse 
 
 Kun godtroende aftaleerhververe kan ekstingvere indsigelser, hvorimod reglen ikke kan påberåbes af retsforfølgende kreditorer.
 
+---
+
 Reglen kan således påberåbes af en panthaver og en erhverver af ejendomsret, men fx ikke af en udlægshaver eller et konkursbo.
 
 Når der er sket endelig registrering, indtræder beskyttelsen mod eksstinktion af indsigelser vedrørende gyldigheden af en aftale om rettigheder over registrerede fondsaktiver, jf. dog de stærke indsigelser i kapitalmarkedslovens § 186, 2. pkt.
 
 Der er ikke blot tale om afskærelse af indsigelser mod gyldigheden af tidligere registrerede aftaler, men bestemmelsen yder tillige den godtroende erhverver beskyttelse mod indsigelser vedrørende hans egen aftale.
 
+---
+
 Bestemmelsen gælder derimod ikke udstederens indsigelser. 
 
 Dog omfattes det tilfælde, at et fondsaktiv er transporteret til den oprindelige udsteder, der på ny overdrager det ved aftale, der er ramt af en af de nævnte stærke indsigelser.
 
 Det følger af bestemmelsens 2. pkt., at de nævnte stærke ugyldighedsgrunde kan gøres gældende, også over for en aftaleerhverver, som har fået sin aftale registreret i god tro.
+
+---
 
 Det bemærkes herved, at kapitalmarkedsloven ikke indeholder en regel svarende til den tidligere værdipapirhandelslovs § 80, stk. 2, som pålagde Værdipapircentralen en objektiv erstatningspligt for den, der ramtes af de nævnte stærke indsigelser.
 
@@ -631,8 +646,8 @@ C kan fortrænge A's ret over fondsaktivet, hvis:
 
 * A's indsigelse ikke er en stærk indsigelse (falsk, umyndig, voldelig tvang).
 
----
 
+---
 
 
 ## Quiz om tingsretlige konflikter

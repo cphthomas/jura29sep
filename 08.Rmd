@@ -9,9 +9,7 @@ cat(readLines('np.html'))
 
 **Kapitel 8 om køb skal kun læses i hovedtræk**
 
----
 
-**Køberetten bliver behandlet i kap. 4 i "Erhvervsjura"**
 
 ---
 
@@ -22,16 +20,15 @@ cat(readLines('np.html'))
 
 ![](img/buing.jpg)
 
-Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, se nærmere købeloven (KBL) i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
+Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se købeloven klik her!</a>**
 
 ---
 
 
 ## Video om introduktion til køberetten
-*Udarbejdet ad Advokatpartnerskabet Horten*
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/QQ9Dk4gvExM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/QQ9Dk4gvExM" target="_blank">Videoen Klik her!</a>**
 
 
 ---
@@ -39,6 +36,8 @@ Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller i
 Med *"Køb"* forstås traditionelt som en aftale mellem sælger og køber om overdragelse af ejendomsretten af et formuegode (løsøre) mod et vederlag i penge. 
 
 Modsat *"lån til brug"*, som er en	aftale mellem långiver og låntager om vederlagsfri brug af en ting, hvor selve tingen skal leveres tilbage til långiver, når forholdet ophører, fx. leasing af en bil eller leje af et løbehjul.
+
+---
 
 Der skal være tale om en gensidigt bebyrdende købsaftale, dvs. at både køberens og sælgerens ydelse forholder sig som vederlag for modydelsen. 
 
@@ -48,7 +47,8 @@ Sælgerens ydelse er et formuegode, dvs. en ejendomsgenstand.
 
 Der er hyppigst tale om overdragelse af ejendomsretten til et løsøre (dvs. ting, fx en hundehvalp), men der kan også være tale om overdragelse af fordringsrettigheder (fx aktier, oligationer samt skriftlige rentebærende fordringer), ophavsrettigheder eller andre immaterielle rettigheder, goodwill, valuta (dvs. penge af en anden mønt end betalingsstedets), overdragelse af en begrænset rettighed.
 
-Se fx dommen i **U 1952.288/3 H** Om køb af udnyttelsesretten til et mergelleje. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000216644/1** 
+Se fx dommen i **U 1952.288/3 H** Om køb af udnyttelsesretten til et mergelleje.
+**<a href="https://pro.karnovgroup.dk/document/7000216644/1" target="_blank">Se dommen klik her!</a>**
 
 ---
 
@@ -69,6 +69,8 @@ Købelovens regler gælder også, når der købes brugte ting af sælgeren.
 Hovedreglen er, at købeloven gælder for alle køb, der bliver indgået mellem sælger og køber.
 
 Undtagelse: Køb af fast ejendom og tjenesteydelser (dog analog anavendelse) eller ved opførelse af bygning eller andet anlæg på fast ejendom, samt internationale køb (Den internationale købelov CISG -Convention on Contracts for the International Sale of Goods).  
+
+---
  
 Hovedreglen er, at købeloven er *deklaratorisk* i handelskøb, hvor der er en købsaftale mellem to erhvervsdrivende, dvs., at købeloven:
 
@@ -79,9 +81,8 @@ Hovedreglen er, at købeloven er *deklaratorisk* i handelskøb, hvor der er en k
 
 ![](img/orne.png)
 
-Se Højesteretsdom **U 1984.525 H** – Om den ufrugtbare orne: En leveret orne viste sig ufrugtbar, og der skete omlevering. Køberen rejste krav om erstatning for produktionstab, men ved erklæringer fra forskellige organisationer ansås godtgjort en sædvane inden for handelen med avlsorner for, at driftstab ikke kunne kræves erstattet. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000205124/1**
-
+Se Højesteretsdom **U 1984.525 H** – Om den ufrugtbare orne: En leveret orne viste sig ufrugtbar, og der skete omlevering. Køberen rejste krav om erstatning for produktionstab, men ved erklæringer fra forskellige organisationer ansås godtgjort en sædvane inden for handelen med avlsorner for, at driftstab ikke kunne kræves erstattet. 
+**<a href="https://pro.karnovgroup.dk/document/7000205124/1" target="_blank">Se dommen klik her!</a>**
 
 ---
 
@@ -107,6 +108,8 @@ Købeloven opstiller i en række sammenhænge særlige regler for handelskøb, j
 
 Det er karakteristisk for de særlige regler om handelskøb, at parternes forpligtelser skærpes i forhold til, hvad der gælder i civile køb (handel mellem to private fx. i Den Blå Avis; kaldet et *civilkøb*). 
 
+---
+
 Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, således at der fx pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBL § 54’s reklamationsfrist på 2 år kan fraviges ved en aftale.
 
 ---
@@ -117,6 +120,8 @@ Køb af inventar, kontormøbler, kontorrekvisitter, biler til brug for transport
 
 Der skal være tale om en egentlig *handelsvirksomhed*, derfor er landbrug eller fiskeri ikke at betragte som et handelskøb. 
 
+---
+
 Heller ikke aftaler, som indgås af erhvervsdrivende, som driver liberalt erhverv, fx advokater, rådgivnings- og konsulentvirksomheder mv., anses for handelskøb, da der er tale om tjenesteydelsesaftaler, som ikke er omfattet af købelovens regler, men er istedet er disse tjenesteydelsesaftaler omfattet af fx forældelseslovens regler.
 
 Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretning, er hverken et handelskøb eller et forbrugerkøb, men derimod et civilkøb.
@@ -125,7 +130,8 @@ Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretni
 
 ![](img/restaurant.jpg)
 
-Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000197909/1**
+Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt. 
+**<a href="https://pro.karnovgroup.dk/document/7000197909/1" target="_blank">Se dommen klik her!</a>**
 
 ---
 
@@ -137,11 +143,13 @@ Forbrugerkøb er et køb, der foretages af en forbruger hos en erhvervsdrivende,
 
 Kaldet; *"B2C"*
 
+---
+
 Tilsvarende definitioner på forbrugeraftaler findes bl.a. i aftalelovens § 38 a, stk. 2, kreditaftalelovens § 1, jf. § 4, nr. 1–3, forbrugeraftalelovens § 2, stk. 1, rentelovens § 7, stk. 1, og betalingslovens § 7, nr. 15, jf. også forbrugerklagelovens § 2.
 
 ---
 
-Se disse love i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se lovene i Lovsamlingen klik her!</a>**
 
 ---
 
@@ -151,6 +159,8 @@ Det er transaktionsfomålet med det købte i aftaleøjeblikket, der er afgørend
 
 Dvs. man ser på formålet med det købte og ikke den faktiske anvendelse af det købte. 
 
+---
+
 Det afgørende for, om en aftale har karakter af en forbrugeraftale, er derfor, om den erhvervsdrivendes ydelse på tidspunktet for aftalens indgåelse var bestemt til ikke-erhvervsmæssig anvendelse for medkontrahenten.
 
 ---
@@ -159,7 +169,9 @@ Det er ikke udelukket at anse et køb for et forbrugerkøb, selv om køberen ska
 
 Det afgørende er, om genstanden hovedsagelig er bestemt til ikke-erhvervsmæssig anvendelse.
 
-*Lønmodtageres indkøb* af genstande anses for forbrugerkøb, også selv om det købte skal benyttes ifm. lønmodtagerens udførelse af sit arbejde
+*Lønmodtageres indkøb* af genstande anses for forbrugerkøb, også selv om det købte skal benyttes ifm. lønmodtagerens udførelse af sit arbejde.
+
+---
 
 Købeaftaler, som indgås mellem to ikke-erhvervsdrivende, er som udgangspunkt ikke forbrugerkøb, men et *civilkøb*, medmindre et erhvervsdrivende mellemled indgår eller formidler aftaleindgåelsen for den ikke-erhvervsdrivende sælger, jf. KBL § 4a, stk. 2.
 
@@ -173,11 +185,15 @@ Som *»erhvervsdrivende«* i forbrugerkøbet anses personer, der udøver selvst�
 
 Det er ikke afgørende, om der er tale om en hoved- eller bibeskæftigelse, men aktiviteten skal have et erhvervsmæssigt præg, dvs. en fortsat karakter og et ikke helt ubetydeligt omfang. 
 
+---
+
 Et enkeltstående salg vil dermed som udgangspunkt ikke være tilstrækkeligt til at anse forbrugerens medkontrahent for erhvervsdrivende. 
 
 En person, som i et enkelt eller enkelte lejlighedsvise tilfælde videresælger en vare med fortjeneste, vil således ikke alene på det grundlag kunne anses for erhvervsdrivende. 
 
-Der lægges med andre ord bl.a. vægt på transaktionshyppighed og kontinuitet. 
+Der lægges med andre ord bl.a. vægt på transaktionshyppighed og kontinuitet.
+
+---
 
 Det er ikke en forudsætning for at blive anset som erhvervsdrivende, at man har fast forretningssted, men det kan indgå som et moment i vurderingen. 
 
@@ -191,25 +207,32 @@ Der kan desuden lægges vægt på, om den pågældende har en erhvervsmæssig ma
 
 Foreninger, organisationer og sammenslutninger kan efter omstændighederne være erhvervsdrivende, hvis de udøver erhvervsprægede aktiviteter.
 
-*Organisationer, hvis formål udelukkende er velgørende, almennyttigt, politisk eller religiøst*, anses som udgangspunkt ikke for erhvervsdrivende, hvad angår deres indsamlingsaktiviteter. 
+----
+
+Organisationer, hvis formål udelukkende er velgørende, almennyttigt, politisk eller religiøst, anses som udgangspunkt ikke for erhvervsdrivende, hvad angår deres indsamlingsaktiviteter. 
 
 Sådanne organisationer kan imidlertid anses som erhvervsdrivende, for så vidt angår organisationernes kommercielle aktiviteter, fx hvis der drives forlagsvirksomhed, arrangeres medlemsrejser, drives butikker mv.
 
+---
+
 *Sportsklubber* vil ofte have karakter af almennyttige foreninger, men efter en konkret vurdering af klubbernes aktiviteter og omsætning kan de undertiden anses for erhvervsdrivende.
+
+---
 
 *Fagforeninger og a-kasser* er som udgangspunkt ikke omfattet af begrebet »erhvervsdrivende«, men sådanne organisationers aktiviteter kan efter en konkret vurdering anses for at være erhvervsmæssige.
 
 ---
 
-*Andelsbolig-, grundejer- og ejerlejlighedsforeninger, gårdlav, almennyttige boligforeninger, bofællesskaber, kolonihaveforeninger, kollegier o.lign*. anses som udgangspunkt ikke som erhvervsdrivende, hvad angår de dispositioner, som har til formål at varetage medlemmernes interesser i henhold til organisationens/foreningens formål. 
+Andelsbolig-, grundejer- og ejerlejlighedsforeninger, gårdlav, almennyttige boligforeninger, bofællesskaber, kolonihaveforeninger, kollegier o.lign. anses som udgangspunkt ikke som erhvervsdrivende, hvad angår de dispositioner, som har til formål at varetage medlemmernes interesser i henhold til organisationens/foreningens formål. 
+
+---
 
 Se afgørelsen i **Forbrugerredegørelse 2002–2003 6.6.1** (en ejerlejlighedsforening, der fordelte varmeudgifterne mellem medlemmerne, ansås ikke for erhvervsdrivende). 
 
 ---
 
-Se nedenfor under Biblioteket, se min artikel om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff. **https://jura.tepedu.dk/bibliotek-premium.html**
-
-
+Se nedenfor under Biblioteket, se min artikel om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff.
+**<a href="https://jura.tepedu.dk/bibliotek-premium.html" target="_blank">Se artiklen klik her!</a>**
 
 ---
 
@@ -226,7 +249,8 @@ Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, 
 
 ---
 
-Se dommen om et civilkøb af en bil i **U 2019.3071 V** vedrørende et vilkår i en slutseddel om, at en bil var solgt »engros uden garanti«, afskar ikke køberen fra at gøre mangler på bilens gearkasse og motor gældende: "En bilforhandler D havde solgt en bil til A for 151.200 kr. Købet blev anset for et civilkøb. Inden for to uger efter købet blev der konstateret fejl på både bilens gearkasse og motor, og bilen blev repareret to gange på autoriserede værksteder. Det blev lagt til grund, at udbedring af fejlen på gearkassen havde været nødvendig, for at bilen kunne bringes til at køre igen, og at udbedring af fejlen på motoren havde været nødvendig for at undgå, at motoren brød sammen inden for kortere tid. Bilen havde derfor været af ringere beskaffenhed og brugbarhed, end den efter parternes aftale kunne forventes at være, og bilen var derfor behæftet med mangler. A havde godtgjort, at manglerne havde været til stede ved leveringen. A nedlagde påstand om, at D skulle betale knap 50.000 kr. i forholdsmæssigt afslag, og spørgsmålet var, om A var afskåret fra at gøre manglerne gældende, idet bilen i følge slutsedlen var solgt »engros uden garanti«. Landsretten anførte, at et vilkår, hvorefter en køber afskæres fra at gøre mangler som de foreliggende gældende, skal være klart og utvetydigt, for at det kan anses vedtaget som en del af parternes aftale. Det måtte efter et responsum fra AutoBranchen Danmark anses for usikkert, hvad den nærmere rækkevidde af begrebet »engros uden garanti« er i forhold til købers adgang til at gøre mangler gældende. Sælgeren forklarede, at han og A løseligt havde talt om, at hvis det var »engros«, så var der ikke garanti på bilen. A forklarede, at han ikke mente, at de havde talt om, hvad »engros« betød, men at han godt vidste, at det indebar, at han ikke kunne gøre småting gældende. Det kunne herefter ikke lægges til grund med den klarhed, som må kræves, at det var aftalt eller fulgte af sædvane, at A ikke kunne gøre mangler af den foreliggende karakter gældende. A havde reklameret rettidigt, og han havde ikke frataget D en eventuel afhjælpningsret. A var på den baggrund ikke afskåret fra at gøre manglerne gældende, og han var herefter berettiget til et forholdsmæssigt afslag i købsprisen, jf. købelovens § 42, stk. 1. Herefter, og da han havde begrænset reparationsudgifterne, blev hans påstand taget til følge". Se link til hele dommen her **https://pro.karnovgroup.dk/document/7000840121/1**
+Se dommen om et civilkøb af en bil i **U 2019.3071 V** vedrørende et vilkår i en slutseddel om, at en bil var solgt »engros uden garanti«, afskar ikke køberen fra at gøre mangler på bilens gearkasse og motor gældende.
+**<a href="https://pro.karnovgroup.dk/document/7000840121/1" target="_blank">Se dommen klik her!</a>**
 
 ---
 
@@ -238,7 +262,10 @@ Købelovens regler ved handelskøb er deklaratoriske dvs., at de kan fraviges ve
 
 ---
 
-Se nærmere handelskøbsreglerne i købeloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+Se nærmere handelskøbsreglerne i købeloven.
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se købeloven i Lovsamlingen klik her!</a>**
+
+****
 
 
 ---
@@ -252,6 +279,8 @@ Se nærmere handelskøbsreglerne i købeloven i Lovsamlingen: **https://jura.tep
 *Genuskøb* er karakteriseret ved:
 
 Køb af genstande, bestemt efter art, jf. KBL § 3.
+
+---
 
 Ved et genuskøb, købes en vis mængde af en angiven art eller type genstande.
 
@@ -272,6 +301,8 @@ Genstanden kan være unik, og måske findes der kun den ene.
 
 Der kan ikke ske omlevering med en tilsvarende vare, hvis den første vare går til grunde.
 
+---
+
 Aftalen er indgået om en specificeret salgsgenstand eller specifikke genstande - et bestemt parti varer, som køber har valgt.
 
 Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køber for at opfylde aftalen.
@@ -285,9 +316,13 @@ Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køb
 
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1, som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om fx reparation af en allerede eksisterende genstand). 
 
+---
+
 Se begrebet *"specificatio"*	romerretligt udtryk for frembringelse, dvs. bearbejdelse af et materiale, der tilhører en anden, hvorved der opstår et nyt produkt, fx vindruer, der bliver til vin, eller en marmorblok, der bliver til en statue.
 
 Skabelsen af en ny vare, fx ved en ændring af en eksisterende bryllupskjole til en ny dåbskjole, er omfattet af købelovens regler. 
+
+---
 
 Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksisterende genstand, fx det at få lagt et bukseben op, eller at få udført en serviceydelse. 
 
@@ -349,10 +384,8 @@ NB! "Levering" kan ske, inden salgsgenstanden er kommet i købers besiddelse.
 ---
 
 ## Video om risikoens overgang
-*Uarbejdet af Advokatpartnerskabet Horten*
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/oqJcGNfpdY0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/oqJcGNfpdY0" target="_blank">Videoen Klik her!</a>**
 
 ---
 
@@ -405,6 +438,8 @@ Levering sker, og risikoen overgår fra sælger til køber, når køber har vare
 
 Det fremgår af bestemmelsen, at levering er sket, når genstanden er kommet i køberens »besiddelse«.
 
+---
+
 Afsendelseskøb/forsendelseskøb, jf. KBL § 10.
 
 Levering sker og risikoen overgår fra sælger til køber, når varen overgives til første fremmede fragtfører. 
@@ -422,12 +457,15 @@ Her findes købelovens leveringsklausuler:
 *FOB (Free on board)*, jf. KBL § 62. 
 
 Fragtomkostninger ved FOB: Sælgeren er forpligtet til at stille godset til rådighed for køber når dette er lastet ombord på skibet i den angivne afgangshavn. 
+---
 
 Sælgeren holder alle omkostninger frem til dette punkt.
 
 Risikoovergang for FOB klausulen: Risikoovergangen sker, i det øjeblik at godset er placeret på det af køberen angivne skib i afgangshavnen, og godset er frakoblet fra lasteenheden.
 
-Kommentarer til FOB klausulen: Denne Incoterm kan kun anvendes til brug ved søtransport, eller ved transport via indenlandske vandveje. 
+Kommentarer til FOB klausulen: Denne Incoterm kan kun anvendes til brug ved søtransport, eller ved transport via indenlandske vandveje.
+
+---
 
 Der er ingen forsikringspligt for sælger, men det anbefales at begge parter tegner en forsikring i hver deres risikoperiode. 
 
@@ -442,6 +480,8 @@ Fragtomkostninger ved CFR: Sælgeren er forpligtet til at til at afholde alle fr
 Køber afholder alle omkostninger i forbindelse med losningen af godset, og den videre transport.
 
 Risikoovergang ved CFR: Risikoovergangen sker, i det øjeblik at godset er placeret på det af sælgeren angivne skib i afgangshavnen, og godset er frakoblet fra lasteenheden.
+
+---
 
 Kommentarer til CFR klausulen: Denne Incoterm kan kun anvendes til brug ved søtransport, eller ved transport via indenlandske vandveje. 
 
@@ -458,7 +498,10 @@ Fragtomkostninger ved CIF: Sælgeren er forpligtet til at til at afholde alle fr
 
 Køber afholder alle omkostninger i forbindelse med losningen af godset, og den videre transport. 
 
-Sælgeren er endvidere forpligtet til at tegne en forsikring med minimumsdækning for søtransporten
+Sælgeren er endvidere forpligtet til at tegne en forsikring med minimumsdækning for søtransporten.
+
+
+---
 
 Risikoovergang for CIF: Risikoovergangen sker, i det øjeblik at godset er placeret på det af sælgeren angivne skib i afgangshavnen, og godset er frakoblet fra lasteenheden.
 
@@ -482,9 +525,13 @@ Til internationale køb anvendes *INCOTERMS 2010*.
 
 Incoterms, som er en forkortelse af ”International Commercial Terms”, er kort fortalt en betegnelse for standardiserede regler i købs- og salgsaftaler, og som i forbindelse med nationale og internationale transporter, definerer hvornår en risikoovergang finder sted, samt på hvilket tidspunkt man må antage den solgte vare for været leveret. 
 
+---
+
 Incoterms er ikke lovregler, men nogle standard handelsbetingelser. 
 
 Derfor er det vigtigt, at det tydeligt skal fremgå af sælger/købers aftale at Incoterms er anvendt, da disse bestemmelser rent juridisk ellers ikke vil finde anvendelse.
+
+---
 
 Sådan fungerer det: Køber og sælger indgår en handelsaftale – I handelsaftalen er det nødvendigt at aftale hvordan den købte vare skal leveres.
 
@@ -497,11 +544,11 @@ Køber og sælger blive enige om at anvende Incoterms, hvilket giver dem et klar
 
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
-* *Forsinkelse med levering* (afsnit 8.8.1.).
+* Forsinkelse med levering.
 
-* *Faktiske mangler - mangler ved den leverede vare* (afsnit 8.8.2.). 
+* Faktiske mangler - mangler ved den leverede vare. 
 
-* *Retlige mangler – vanhjemmel* (afsnit 8.8.3.).
+* Retlige mangler – vanhjemmel.
 
 ---
 
@@ -533,9 +580,13 @@ KBL § 21, stk. 1 gælder for både genus- og specieskøb.
 
 Det er først og fremmest aftalen, der er afgørende for, om levering er sket rettidigt eller ej.
 
+---
+
 Lovbestemmelsen finder anvendelse, uanset om sælgeren faktisk leverer, men leverer for sent, eller om sælgeren slet ikke leverer, fx fordi en speciesgenstand er gået til grunde. 
 
 Sælgeren har almindeligvis bevisbyrden for, at der er leveret rettidigt.
+
+---
 
 Leverer sælgeren før det aftalte leveringstidspunkt, kan køberen afvise at modtage genstanden og kræve fornyet levering i rette tid, hvis afvigelsen fra sælgerens frigørelsestid er væsentlig.
 
@@ -575,6 +626,8 @@ Hvis køber ikke reagerer på sælgers information om forsinkelsen, mister købe
 
 Hvis levering ikke er sket som aftalt, og sælger ikke har informeret køber om forsinkelsen, skal køber reagere overfor sælger inden rimelig tid, hvis køber vil fastholde købet. 
 
+---
+
 Køber kan ikke lade som ingenting – der skal reklameres.
 
 Hvis køberen meddeler, at køber vil fastholde, kan køber sætte en rimelig frist for levering og herefter hæve købet, hvis sælgeren ikke leverer rettidigt.
@@ -598,6 +651,8 @@ Købelovens reklamationsbestemmelser suppleres af almindelige regler om passivit
 
 Dette indebærer bl.a., at en reklamation kan tillægges retsvirkning, hvis modtageren ikke gør indsigelse mod reklamationen, eller hvis der indledes forhandlinger vedr. levering el.lign. uden, at der tages forbehold for, at reklamationen er for sen.
 
+---
+
 Såfremt en part over for den misligholdende part tilkendegiver, hvilke(n) misligholdelsesbeføjelse(r) han eller hun vil påberåbe sig, kan parten som udgangspunkt ikke omgøre sit valg.
 
 Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgeren skal erlægge sin ydelse i rater el.lign., gælder følgende:
@@ -618,7 +673,7 @@ U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem
 
 ---
 
-##### Mangler ved salgsgenstanden
+## Mangler ved salgsgenstanden
 
 
 ![](img/man.jpg)
@@ -626,6 +681,8 @@ U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem
 Sælgerens forpligtelse iht. købeaftalen består i at erlægge salgsgenstanden i rette tid og på rette sted samt i rette stand og mængde.
 
 KBl §§ 21–27 regulerer de tilfælde, hvor sælgeren ikke leverer i rette tid og på rette sted (og dette ikke skyldes køberens forhold).
+
+---
 
 KBL §§ 42–54 regulerer de tilfælde, hvor sælgeren ikke leverer i rette stand og mængde, dvs. at der foreligger faktiske (kvalitative eller kvantitative) mangler.
 
@@ -638,6 +695,8 @@ Om retlige mangler, herunder vanhjemmel, og rådighedsmangler, dvs. de tilfælde
 Købeloven indeholder ikke uden for forbrugerkøb en definition af, hvad der forstås ved en faktisk (kvalitativ) mangel. 
 
 Det antages imidlertid, at den definition af mangler i forbrugerkøb, som fremgår af KBL § 76, også kan være vejledende for mangelsbedømmelsen i ikke-forbrugerkøb.
+
+---
 
 Køberen har bevisbyrden for, at salgsgenstanden er mangelfuld, jf. dog i forbrugerkøb KBL § 77a, stk. 3 formodningsreglen, hvor denne bevisbyrde er sælgerens de første 6 måneder efter købet.
 
@@ -659,9 +718,15 @@ Vurderingstidspunkt for salgsgenstandens tilstand vurderes på tidspunktet for l
 Se principperne i forbrugerkøbsafsnittet, jf. KBL § 76, § 75a, ved vurdering af kvalitetsmangel. 
 
 Varen skal være i overensstemmelse med, hvad der er blevet aftalt mellem køber og sælger.
+>
+---
+
+## Video om faktiske mangler
+
+**<a href="https://www.youtube.com/embed/ycpgvBLXZDA" target="_blank"Videoen Klik her!</a>**
 
 ---
- 
+
 
 Køberen kan fastholde købet og kræve omlevering:
 
@@ -735,7 +800,9 @@ Se det latinske begreb: *Caveat Emptor-reglen*: Køberen skal se sig for.
 
 ## Video om Caveat Emptor - købers undersøgelsespligt
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/o32ngMsTEMY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+
+**<a href="https://youtu.be/o32ngMsTEMY" target="_blank">Se om købers undersøgelsespligt i handelskøb klik her!</a>**
+
 
 
 ---
@@ -767,6 +834,8 @@ tredjemands ret fjernes – pant i bil indfries af sælger eller køber, ellers 
 *Ophæve købet/annullere*
 
 En retlig mangel er væsentlig, og købet kan ophæves. Hver part skal tilbagelevere, hvad de hver især har modtaget.
+
+---
 
 *Kræve erstatning for økonomisk tab:*
 
@@ -876,11 +945,16 @@ Sælger er berettiget til at bortskaffe varen.
 
 Se købelovens forbrugerafsnit.jf. KBL §§ 72-87.
 
-Se nærmere forbrugerkøbsreglerne i købeloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+Se nærmere forbrugerkøbsreglerne i købeloven 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se lovsamlingen klik her!</a>**
+
+---
 
 *Købelovens regler om forbrugerkøb er beskyttelsespræceptive:* 
 
 Reglerne om forbrugerkøb kan ikke fraviges til skade for forbrugeren, men forbrugeren kan godt stilles bedre.
+
+---
 
 Forbrugerkøb: når en erhvervsdrivende som led i sit erhverv, sælger en vare, hvor formålet er til hovedsagelig privat anvendelse, jf. KBL § 4a.
 
@@ -923,13 +997,19 @@ Hvis intet er aftalt om levering, skal den erhvervsdrivende stille varen til rå
 
 *Afhentningskøb*: Køber henter varen på sælgers forretningssted eller bopæl, jf. KBL § 9. Risikoen for varen overgår fra sælger til køber, når varen er stillet til rådighed og klar til afhentning.
 
+---
+
 *Udbringningskøb*: Varen bringes ud til køber. 
 
 Levering sker og risikoen for varen overgår fra sælger til køber (forbrugeren), når forbrugeren har varen i sin besiddelse.
 
+---
+
 *Forsendelseskøb*: Levering sker, når varen er i købers besiddelse. Risikoen for varens forringelse eller hændelige undergang ligger hos sælger, indtil varen er i købers besiddelse, jf. KBL § 73: 
 
 Denne bestemmelse finder kun anvendelse, såfremt sælgeren ved aftalen har påtaget sig at sende salgsgenstanden til køberen. 
+
+---
 
 Bestemmelsen gælder også, hvis sælgeren først efter aftalens indgåelse påtager sig at sende genstanden til køberen. En pligt til at sende genstanden kan også følge af sædvane. 
 
@@ -973,17 +1053,20 @@ Levering er ikke sket, såfremt sælgeren fx, uden at køberen har anmodet herom
 
 *Kvalitetsmangel*: Varen lever ikke op til, hvad køber kunne forvente i forhold til aftalen.
 
+---
+
 *Hvornår skal der foreligge en mangel?* 
 
 Ved leveringen til køberen, dvs. på tidspunktet for risikoens overgang, jf. KBL § 77a.
 
+
 ---
 
-## Videoer om køb
+## Video om køb
 
-<iframe src="https://player.vimeo.com/video/309261723" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309261723">Virksomhedsfanen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+
+**<a href="https://vimeo.com/309261723" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -1019,16 +1102,12 @@ Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 
 ## Videoer om køb
 
-<iframe src="https://player.vimeo.com/video/309270676" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309270676">K&oslash;beloven- Antal reparationsfors&oslash;g</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
+**<a href="https://vimeo.com/309270676" target="_blank">Se om køb klik her!</a>**
 
 ---
 
-<iframe src="https://player.vimeo.com/video/304777987" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/304777987">Hvor mange gange m&aring; s&aelig;lgeren reparere din mobil?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
-
+**<a href="https://vimeo.com/304777987" target="_blank">Se om køb klik her!</a>**
 
 ---
 
@@ -1047,11 +1126,14 @@ Der kan kræves erstatning for det økonomiske tab, jf. KBL § 80.
 
 Køber har en mindre undersøgelsespligt, jf. KBL § 77b.
 
-Bestemmelsen begrænser forbrugerens adgang til at påberåbe sig forhold, der ellers ville udløse mangelsbeføjelser. 
+Bestemmelsen begrænser forbrugerens adgang til at påberåbe sig forhold, der ellers ville udløse mangelsbeføjelser.
+
+---
 
 Forbrugeren afskæres således som udgangspunkt fra at påberåbe sig en mangel ved salgsgenstanden, hvis forbrugeren ved aftalens indgåelse var eller måtte være bekendt med den pågældende mangel.
 
 Bestemmelsen indebærer ikke en pligt for køberen til at undersøge salgsgenstanden. 
+---
 
 Har køberen foretaget en sådan undersøgelse, kan køberen ikke påberåbe sig forhold, som undersøgelsen har eller må have afsløret.
 
@@ -1063,14 +1145,13 @@ Har køberen foretaget en sådan undersøgelse, kan køberen ikke påberåbe sig
 
 ## Videoer om reklamationsretten
 
-<iframe src="https://player.vimeo.com/video/309253968" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309253968">Hvad betyder 2 &aring;rs reklamationsret?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+**<a href="https://vimeo.com/309253968" target="_blank">Videoen klik her!</a>**
 
 
 ---
 
-<iframe src="https://player.vimeo.com/video/304774898" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/304774898">K&oslash;beloven - To &aring;rs reklamationsret</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/304774898" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -1084,10 +1165,9 @@ Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse,
 
 ---
 
-## Video om hvad er en garanti
+## Video om garantier
 
-<iframe src="https://player.vimeo.com/video/305910704" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/305910704">K&oslash;beloven - Hvad er en garanti?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/305910704" target="_blank">Se om hvad er en garanti? klik her!</a>**
 
 ---
 
@@ -1100,6 +1180,8 @@ Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse,
 Hvis en mangel viser sig i de første 6 måneder efter levering, formodes det, at genstanden var mangelfuld ved levering.
 
 Køber skal ikke bevise at manglen var tilstede ved leveringen – det formodes, at manglen var tilstede ved leveringen.
+
+---
 
 Køber skal dog bevise, at der er en mangel ved varen.
 
@@ -1134,15 +1216,11 @@ Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den
 
 Betragtes ikke som misligholdelse i købelovens forstand.
 
+---
+
 Risikoen for salgsgenstanden overgår til køber, selv om købers forhold bevirker, at sælger ikke kan levere.
   
 Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at sælge købers varer til anden side.
-
----
-
-## Video - Case: "Rolfs Damjolle." Køb, levering, mangler, reklamation
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/J6Mo3_qkONY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
@@ -1480,10 +1558,11 @@ De danske ATB-instanser er Center for Klageløsning og de godkendte private anke
 
 ---
 
-## Video om klager
+## Video om forbrugerklager
 
-<iframe src="https://player.vimeo.com/video/309270909" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309270909">K&oslash;beloven - Klag hurtigt</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309270909" target="_blank">Videoen klik her!</a>**
+
+
 
 ---
 
@@ -1506,8 +1585,9 @@ Center for Klageløsning og Forbrugerklagenævnet behandler klager, der ikke hø
 
 ## Video konflikthåndtering
 
-<iframe src="https://player.vimeo.com/video/309260267" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309260267">Konflikth&aring;ndtering</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309260267" target="_blank">Videoen klik her!</a>**
+
+****
 
 ---
 
@@ -1555,7 +1635,9 @@ Sælger leverer ikke varen.
 
 Ankenævnet er et internetbaseret ankenævn for bilejere, som behandler forbrugerklager i forbindelse med køb af en bil for over 10.000 kr. eller en værksted/serviceregning over 1.500 kr.
 
-**https://www.bilklage.dk/Forside**
+**<a href="https://www.bilklage.dk/Forside" target="_blank">Se om Ankenævnet for biler klik her!</a>**
+
+****
 
 ---
 
@@ -1565,7 +1647,7 @@ Ankenævnet er et internetbaseret ankenævn for bilejere, som behandler forbruge
 
 Ankenævnet behandler klager fra forbrugere over problemer oplevet i bus, tog eller metro.
 
-**http://www.abtm.dk/**
+**<a href="http://www.abtm.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1579,9 +1661,7 @@ Klagerne angår som udgangspunkt enhver mangel, der måtte udspringe af en lejea
 
 Dette kunne være manglende rengøring, mangler ved pool og spa, eller husets standard.
 
-**https://www.fbnet.dk/ankenaevn/generelt-om-ankenaevnet/ankenaevnet-feriehusudlejning/om-ankenaevnet**
-
-
+**<a href="https://www.fbnet.dk/ankenaevn/generelt-om-ankenaevnet/ankenaevnet-feriehusudlejning/om-ankenaevnet" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1591,9 +1671,7 @@ Dette kunne være manglende rengøring, mangler ved pool og spa, eller husets st
 
 Ankenævnet behandler klager over danske finansieringsselskabers fritstående lån og kreditter; dvs lån, der ikke er knyttet til en genstand.
 
-**http://www.finansanke.dk/**
-
-
+**<a href="http://www.finansanke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1601,7 +1679,7 @@ Ankenævnet behandler klager over danske finansieringsselskabers fritstående l�
 
 Ankenævnet for Fondsmæglerselskaber behandler klager over fondsmæglerselskaber, som er omfattet af lov af finansiel virksomhed, og som vedrører private kundeforhold.
 
-**https://fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/**
+**<a href="https://fanke.dk/ankenaevnet-for-fondsmaeglerselskaber/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1609,9 +1687,7 @@ Ankenævnet for Fondsmæglerselskaber behandler klager over fondsmæglerselskabe
 
 Ankenævnet behandler klager fra private forbrugere om forsikrings- og pensionsforhold.
 
-**http://ankeforsikring.dk/Sider/default.aspx**
-
-
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1619,7 +1695,7 @@ Ankenævnet behandler klager fra private forbrugere om forsikrings- og pensionsf
 
 Ankenævnet behandler klager fra grupper af forbrugere over tjenesteydelser, der udbydes af hoteller, restauranter, forlystelsesparker og vandrerhjem samt andre virksomheder, der erhvervsmæssigt tilbyder lignende tjenesteydelser, såfremt ydelsen og/eller det fremsatte krav repræsenterer en værdi på højst kr. 150.000,-.
 
-**http://www.hrt-ankenaevn.dk/**
+**<a href="http://www.hrt-ankenaevn.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1627,9 +1703,7 @@ Ankenævnet behandler klager fra grupper af forbrugere over tjenesteydelser, der
 
 Ankenævnet behandler klager fra forbrugere mod kørelærere vedrørende modtagelse af teoretisk eller praktisk køreundervisning.
 
-**https://ankesag.dk/**
-
-
+**<a href="https://ankesag.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1637,9 +1711,7 @@ Ankenævnet behandler klager fra forbrugere mod kørelærere vedrørende modtage
 
 Ankenævnet behandler klager fra forbrugere over el og vvs arbejder. Det omtvistede beløb, dvs. det beløb der er uenighed om, skal mindst udgøre kr. 2.000,- og højest kr. 150.000,- inkl. moms.
 
-**http://www.el-vvs-anke.dk/**
-
-
+**<a href="http://www.el-vvs-anke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1647,9 +1719,7 @@ Ankenævnet behandler klager fra forbrugere over el og vvs arbejder. Det omtvist
 
 Ankenævnet på Energiområdet behandler klager fra forbrugere over køb og levering af energiydelser.
 
-**https://www.energianke.dk/**
-
-
+**<a href="*https://www.energianke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1657,8 +1727,7 @@ Ankenævnet på Energiområdet behandler klager fra forbrugere over køb og leve
 
 Byggeriets Ankenævn behandler klager fra forbrugere over maler-, murer-, tømrer-, snedker-, gulv-, køkken-, stenhugger-, tække-, kloak-, brolægger-, anlægsgartner- og jordarbejder samt leverancer af vinduer, yderdøre og køkkenelementer. Ankenævnet behandler dog ikke klager over nybyggerier med en samlet entreprisesum på over 1 mio. kr. inkl. moms.
 
-**https://www.byggerietsankenaevn.dk/**
-
+**<a href="https://www.byggerietsankenaevn.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1666,9 +1735,7 @@ Byggeriets Ankenævn behandler klager fra forbrugere over maler-, murer-, tømre
 
 Håndværkets Ankenævn behandler klager fra forbrugere over nybygnings-, ombygnings-, tilbygnings- og reparationsarbejde vedrørende vvs-, bygningssmede-, maler-, snedker-, tømrer-, tække-, murer-, kloak-, belægnings-, anlægsgartner, auto- og møbelpolstringsarbejde. Håndværkets Ankenævn behandler endvidere klager over leverancer af vinduer, yderdøre og termoruder.
 
-**https://www.hvanke.dk/**
-
-
+**<a href="https://www.hvanke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ----
 
@@ -1676,9 +1743,7 @@ Håndværkets Ankenævn behandler klager fra forbrugere over nybygnings-, ombygn
 
 Klagenævnet for Ejendomsformidling behandler klager fra forbrugere over ejendomsmæglere.
 
-**https://www.ejendomsmaeglernaevnet.dk/**
-
-
+**<a href="https://www.ejendomsmaeglernaevnet.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1687,27 +1752,23 @@ Klagenævnet for Ejendomsformidling behandler klager fra forbrugere over ejendom
 Pakkerejse-Ankenævnet behandler klager vedrørende rejser, der er arrangeret og/eller solgt af en virksomhed her i landet. En pakkerejse er et rejsearrangement, der består af mindst to af følgende elementer:
 transport, indkvartering, anden turistmæssig ydelse, der ikke er knyttet til transport eller indkvartering, men som udgør en væsentlig del af rejsen.
 
-**https://www.pakkerejseankenaevnet.dk/forside/**
+**<a href="https://www.pakkerejseankenaevnet.dk/forside/" target="_blank">Om ankenævnet klik her!</a>**
 
----
+--- 
 
-## Video omrettigehder på rejsen
+## Video om rettigheder på rejsen
 
-<iframe src="https://player.vimeo.com/video/309269644" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309269644">Rettigheder p&aring; rejsen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309269644" target="_blank">Videoen klik her!</a>**
 
-
+****
 
 
 ----
 
-##### https://www.pakkerejseankenaevnet.dk/forside/
+##### Parkeringsklagenævnet
 
 Parkeringsklagenævnet behandler klager over kontrolafgifter pålagt af private for overtrædelse af vilkårene for brug af offentligt tilgængeligt private parkeringsområder.
-
-**https://www.parkeringsklagenaevnet.dk/**
-
-
+**<a href="https://www.parkeringsklagenaevnet.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1716,10 +1777,7 @@ Parkeringsklagenævnet behandler klager over kontrolafgifter pålagt af private 
 Det finansielle ankenævn behandler klager over danske og færøske pengeinstitutter og deres herværende datterselskaber fx finansieringsselskaber vedrørende private kundeforhold. 
 
 Det finansielle ankenævn behandler også klager fra forbrugere over realkreditinstitutter og klager fra forbrugere over investeringsforeninger, specialforeninger samt andre kollektive investeringsordninger m.v. omfattet af Lov om investeringsforeninger og specialforeninger, samt andre kollektive investeringsordninger m.v.
-
-**https://fanke.dk/**
-
-
+**<a href="https://fanke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1729,8 +1787,7 @@ Det finansielle ankenævn behandler også klager fra forbrugere over realkrediti
 ![](img/tele4.jpg)
 
 Teleankenævnet behandler klager mellem slutbrugere og teleudbydere vedrørende telefonabonnementer og internetabonnementer samt registrering og debitering af indholdstjenester.
-
-**https://teleanke.dk/**
+**<a href="https://teleanke.dk/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1739,26 +1796,21 @@ Teleankenævnet behandler klager mellem slutbrugere og teleudbydere vedrørende 
 ##### Disciplinær- og klagenævnet for beskikkede bygningssagkyndige
 
 Disciplinær- og klagenævnet behandler tvister mellem forbrugere og beskikkede bygningssagkyndige i anledning af en udarbejdet tilstandsrapport.
-
-**https://www.forbrug.dk/klageinstanser/klagenaevn-for-bygningssagkyndige/**
+**<a href="https://www.forbrug.dk/klageinstanser/klagenaevn-for-bygningssagkyndige/" target="_blank">Om klagenævnet klik her!</a>**
 
 ---
 
 ##### Søfartsstyrelsen
 
 Søfartsstyrelsen behandler klager, hvor skibspassagerer ikke mener, at deres rettigheder ved sørejser og rejser på indre farvande ifølge EU-forordning nr. 1177/2010 er blevet overholdt.
-
-www.soefartsstyrelsen.dk
+**www.soefartsstyrelsen.dk**
 
 ---
 
 ##### Trafik- og Byggestyrelsen (post)
 
 Trafik- og Byggestyrelsen behandler klager fra forbrugere over postvirksomheders ydelser omfattet af postloven.
-
-**https://www.trafikstyrelsen.dk/da.aspx**
-
-
+**<a href="https://www.trafikstyrelsen.dk/da.aspx" target="_blank">Om styrelsen klik her!</a>**
 
 ---
 
@@ -1766,14 +1818,13 @@ Trafik- og Byggestyrelsen behandler klager fra forbrugere over postvirksomheders
 
 Trafik- og Byggestyrelsen behandler klager der vedrører flypassagerrettigheder i forbindelse med lange forsinkelser, aflysninger og boardingafvisningeri henhold til forordning (EF)261/2004.
 
-**https://www.trafikstyrelsen.dk/da.aspx**
+**<a href="https://www.trafikstyrelsen.dk/da.aspx" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
 ##### Trafik-, Bygge- og Boligstyrelsen (bilsyn)
 
 Trafik- og Byggestyrelsen behandler klager over syns- og omsynsafgørelser vedr. syn og omsyn af køretøjer.
-
 **https://www.trafikstyrelsen.dk/da.aspx**
 
 ---
@@ -1784,7 +1835,7 @@ I alle kommuner findes et huslejenævn, der træffer afgørelse i tvister mellem
 
 Huslejenævnet kontaktes gennem den enkelte kommune.
 
-**https://www.huslejenaevn.dk/Pages/default.aspx**
+**<a href="https://www.huslejenaevn.dk/Pages/default.aspx" target="_blank">Om nævnet klik her!</a>**
 
 ---
 
@@ -1793,8 +1844,7 @@ Huslejenævnet kontaktes gennem den enkelte kommune.
 I alle kommuner med almene boliger findes beboerklagenævn, der behandler tvister mellem udlejere af almene boliger og lejere.
 
 Beboerklagenævnet kontaktes gennem den enkelte kommune.
-
-www.bdk.dk
+**www.bdk.dk**
 
 ---
 
@@ -1803,8 +1853,7 @@ www.bdk.dk
 ### Klagenævnet for Udbud
 
 Nævnet behandler klager over offentlige myndigheders overtrædelser af reglerne om EU-udbud af offentlige bygge- og anlægsarbejder, indkøb af varer og tjenesteydelser mv. samt klager over offentlige myndigheders overtrædelser af tilbudsloven. 
-
-**https://naevneneshus.dk/start-din-klage/klagenaevnet-for-udbud/**
+**<a href="https://naevneneshus.dk/start-din-klage/klagenaevnet-for-udbud/" target="_blank">Om klagenævnet klik her!</a>**
 
 ---
 
@@ -1812,15 +1861,14 @@ Nævnet behandler klager over offentlige myndigheders overtrædelser af reglerne
 
 Konkurrenceankenævnet behandler klager over afgørelser, truffet af Konkurrencerådet samt klager over afgørelser efter Lov om vandsektorens organisering og økonomiske forhold.
 
-**https://naevneneshus.dk/start-din-klage/konkurrenceankenaevnet/**
+**<a href="https://naevneneshus.dk/start-din-klage/konkurrenceankenaevnet/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
 ### Teleklagenævnet
 
 Teleklagenævnet behandler hovedsageligt klager over afgørelser truffet af Erhvervsstyrelsen og Energistyrelsen om konkurrencemæssige forhold på teleområdet. Det er primært erhvervsdrivende, der kan klage.
-
-**https://naevneneshus.dk/start-din-klage/teleklagenaevnet/**
+**<a href="https://naevneneshus.dk/start-din-klage/teleklagenaevnet/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1829,8 +1877,7 @@ Teleklagenævnet behandler hovedsageligt klager over afgørelser truffet af Erhv
 Erhvervsankenævnet er en klageinstans, som behandler klager over administrative afgørelser i det omfang, det fastsættes ved lov eller i henhold til lov.
 
 Man behandler klager over afgørelser truffet af bl.a. Erhvervsstyrelsen, Finanstilsynet og Rejsegarantifonden.
-
-**https://naevneneshus.dk/start-din-klage/erhvervsankenaevnet/**
+**<a href="https://naevneneshus.dk/start-din-klage/erhvervsankenaevnet/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
@@ -1838,15 +1885,14 @@ Man behandler klager over afgørelser truffet af bl.a. Erhvervsstyrelsen, Finans
 
 Ankenævnet vedrørende Praktikvirksomheders opgave er at afgøre klager fra virksomheder, der ikke er blevet godkendt som praktikplads af det faglige udvalg.
 
-**https://naevneneshus.dk/start-din-klage/ankenaevnet-vedr-praktikvirksomheder/**
+**<a href="https://naevneneshus.dk/start-din-klage/ankenaevnet-vedr-praktikvirksomheder/" target="_blank">Om ankenævnet klik her!</a>**
 
 ---
 
 ### Tvistighedsnævnet
 
 Tvistighedsnævnets opgave er at afgøre sager om uenigheder mellem elev og praktikvirksomhed på erhvervsuddannelserne i forbindelse med elevens praktikophold i virksomheden.
-
-**https://naevneneshus.dk/start-din-klage/tvistighedsnaevnet/vejledning/**
+**<a href="https://naevneneshus.dk/start-din-klage/tvistighedsnaevnet/vejledning/" target="_blank">Om nævnet klik her!</a>**
 
 ---
 
@@ -1866,46 +1912,35 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 
 ## Video om at prutte om prisen
 
-<iframe src="https://player.vimeo.com/video/309273066" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309273066">***Tryk her***: Bliv bedre til at prutte om prisen</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309273066" target="_blank">Om at forhandle om prisen klik her!</a>**
 
 ---
 
 ## Video om netkonkurrence
 
-<iframe src="https://player.vimeo.com/video/309272558" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309272558">***Tryk her***: En rap historie om netkonkurrencer</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+**<a href="https://vimeo.com/309272558" target="_blank">Om deltagelse i netkonkurrence klik her!</a>**
 
 ---
 
 ## Video om køb på nettet
 
-<iframe src="https://player.vimeo.com/video/309258695" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309258695">***Tryk her***: G&oslash;r livet nemt - brug nettet!</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+**<a href="https://vimeo.com/309258695" target="_blank">Når du køber på nettet klik her!</a>**
 
 ---
 
-**Video**
-
-<iframe src="https://player.vimeo.com/video/309257060" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309257060">***Tryk her***: Hvor ofte handler du p&aring; nettet?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309257060" target="_blank">Om køb på nettet klik her!</a>**
 
 ---
 
 ## Video om told
 
-<iframe src="https://player.vimeo.com/video/309255477" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309255477">***Tryk her***: Hvad er told?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+**<a href="https://vimeo.com/309255477" target="_blank">Om told klik her!</a>**
 
 ---
 
-## Video hvad betyder dk.
+## Video hvad betyder .dk?
 
-<iframe src="https://player.vimeo.com/video/309252834" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/309252834">**Tryk her**: Hvad betyder .dk?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/309252834" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -1959,18 +1994,14 @@ Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? O
 
 ## Video om julehandel
 
-<iframe src="https://player.vimeo.com/video/306171700" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/306171700">***Tryk her***: Juler&aring;d</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+**<a href="https://vimeo.com/306171700" target="_blank">Videoen Klik her!</a>**
 
 
 ---
 
 ## Video om julegaven kan byttes
 
-
-<iframe src="https://player.vimeo.com/video/305941642" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/305941642">***Tryk her***: Kan julegaven byttes?</a> from <a href="https://vimeo.com/forbrugdk">Forbrug.dk</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-
+**<a href="https://vimeo.com/305941642" target="_blank">Videoen Klik her!</a>**
 
 
 ---

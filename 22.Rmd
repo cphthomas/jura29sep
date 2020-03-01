@@ -7,6 +7,15 @@ cat(readLines('npp.html'))
 
 ## <font color="red">God skik for finansielle virksomheder<sup> Premium </font></sup>
 
+---
+
+***Note***
+
+**Kapitlet om "God skik-reglerne" er pensum i brancheretningsfaget "Finansiel rådgivning" på finansøkonomuddannelsen**
+
+**Kapitlet giver dig branchekendskab med særlige regler for de forskellige brancher: bank, forsikring, ejendomsmæglere, liv- & pensionsselskaber, ejendomsadministratorer, investeringsselskaber mv.**               
+
+---
 
 
 *Lov om finansiel virksomhed § 43*
@@ -16,13 +25,17 @@ Efter lovbestemmelsen i § 43 i lov om finansiel virksomhed^[Lovbekendtgørelse 
 
 ---
 
-**Lov om finansiel virksomhed**, se nærmere loven (forkortet "FIL") i Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+**Lov om finansiel virksomhed**.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
 
 ---
 
 ![](img/finans.jpg)
 
-Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser for god skik for finansielle virksomheder op af egen drift: **https://www.finanstilsynet.dk/** 
+Finanstilsynet kan tage sager vedrørende overholdelsen af god skik og de udstedte bekendtgørelser for god skik for finansielle virksomheder op af egen drift.
+**<a href="https://www.finanstilsynet.dk/">Finanstilsynet klik her!</a>**
+
+---
 
 Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsmanden. 
 
@@ -32,9 +45,13 @@ Finanstilsynet kan endvidere tage sager op efter anmodning fra Forbrugerombudsma
 
 Finanstilsynet modtager tillige henvendelser direkte fra forbrugere, der imidlertid normalt henvises til bl.a. de private godkendte finansielle ankenævn (tvistløsningsorganger), såsom:
 
-Det Finansielle Ankenævn **https://fanke.dk/** og 
+Det Finansielle Ankenævn.
+**<a href="https://fanke.dk/">klik her!</a>**
 
-Forsikringsankenævnet **http://ankeforsikring.dk/Sider/default.aspx**, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
+**** og 
+
+Forsikringsankenævnet
+**<a href="http://ankeforsikring.dk/Sider/default.aspx">klik her!</a>**, hvis klagen også vedrører civilretlige spørgsmål om erstatning eller tilbagebetaling af uretmæssigt opkrævede beløb. 
 
 Erhvervsdrivende henvises til domstolene, da de ikke har selvstændig klageadgang til de private godkendte forbrugerklagesystem.^[Det skaber en retssikkerhedsmæssig processuel ubalance i klagesystemet mellem forbrugere og erhvervsdrivende, jf. nærmere *Sonny Kristoffersens* Ph.D. afhandling: Det offentligretlige forbrugerklagesystem i et retssikkerhedsmæssigt perspektiv, 2019, Samfundslitteratur.]   
 
@@ -42,9 +59,9 @@ Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighe
 
 ---
 
-## Video om rundvisning i Finanstilsynet*
+## Video om rundvisning i Finanstilsynet
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/F0yv4eVfaxg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/F0yv4eVfaxg">Videoen klik her!</a>**
 
 ---
 
@@ -53,6 +70,8 @@ Såfremt en sag om god skik har vidtrækkende eller principiel betydning, skal F
 Forbrugerombudsmanden er også tillagt beføjelser på området for god skik. Finanstilsynets og Forbrugerombudsmandens kompetence på området er reguleret i lov om finansiel virksomhed §§ 348 og 348 a.  
 
 Om markedsføringslovens anvendelse på finansielle virksomheder og Forbrugerombudsmandens kompetence til at tage sager op af egen drift eller efter klage, se nærmere markedsføringslovens^[Jf. Lov nr. 426 af 3. maj 2017 om markedsføring.]  § 1, stk. 2. 
+
+---
 
 Forbrugerombudsmanden kan således håndhæve markedsføringslovens strafbelagte bestemmelser om vildledning og utilbørlig markedsføring, købsopfordringer samt markedsføring af kreditter. 
 
@@ -72,6 +91,8 @@ Retten i Hjørring har idømt Forsikringsselskabet Vendsyssel A/S en bøde på 5
 Forsikringsselskabet Vendsyssel skal betale en bøde på 50.000 kroner for at have ringet til syv forbrugere, der stod registreret på Robinsonlisten.
 
 Selvom forsikringsselskaber som udgangspunkt gerne må ringe til forbrugere og sælge forsikringer, gælder det ikke, hvis forbrugeren er registreret på Robinsonlisten.
+
+---
 
 Robinsonlisten er et register, hvor man kan frabede sig uanmodede henvendelser med markedsføring. Man kan tilmelde sig Robinsonlisten på borger.dk, som administreres af CPR-kontoret og opdateres hvert kvartal. Virksomheder skal tjekke Robinsonlisten, før de udsender reklamer med navn og adresse eller ringer forbrugere op.
 
@@ -105,7 +126,7 @@ Disse spørgsmål afgøres af de private finansielle ankenævn, og i den sidste 
 
 
 
-Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.] Se bekendtgørelsen i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**  
+Af Bekendtgørelsen om god skik for finansielle virksomheder følger følgende regler for god skik for finansielle virksomheder (herefter; godskik-bekendtgørelsen):^[I medfør af § 43, stk. 2, og § 373, stk. 4, i lov om finansiel virksomhed, jf. Lovbekendtgørelse nr. 1140 af 26. september 2017, er fastsat: Bekendtgørelse nr. 330 af 7. april 2016 om god skik for finansielle virksomheder.] **<a href="https://jura.tepedu.dk/lovsamling.html.">Bekendtgørelsen i lovsamlingen klik her!</a>**
 
 ---
 
@@ -347,6 +368,8 @@ For lån skal der oplyses om de årlige omkostninger i procent (ÅOP) på rådgi
 
 Årlige omkostninger i procent (ÅOP) viser de samlede årlige udgifter ved et lån i forhold til det lånte beløb. 
 
+---
+
 Alle udgifter i forbindelse med lånet regnes med - oprettelsesomkostninger, rente og løbende omkostninger. 
 
 ÅOP skal oplyses, hver gang man får et lån eller en kredit.
@@ -393,7 +416,8 @@ En finansiel virksomhed skal oplyse en kunde om de sikkerhedsforanstaltninger, d
 
 Redegører nærmere for begrebet god skik for finansielle virksomheder, samt Finanstilsynets praksis på området.
 
-Link til Finanstilsynets praksis om fortolkning af god skik for de finansielle virksomheder: **https://www.finanstilsynet.dk/search?searchString=god%20skik&pagetype=undefined&filter=undefined&options=(take:20)(skip:0)(sort:)**
+Link til Finanstilsynets praksis om fortolkning af god skik for de finansielle virksomheder:
+**<a href="https://www.finanstilsynet.dk/search?searchString=god%20skik&pagetype=undefined&filter=undefined&options=(take:20)(skip:0)(sort:)">klik her!</a>**
 
 ---
 
@@ -426,6 +450,8 @@ En basal indlånskonto skal som minimum omfatte følgende funktioner:
 Hvis indsættelse og hævning af kontanter, gennemføres ved personlig henvendelse i pengeinstituttets forretningslokale kan instituttet begrænse antallet af ekspeditioner til én om ugen.  
 
 Pengeinstitutter skal tilbyde en basal indlånskonto vederlagsfrit eller mod et gebyr, der højest må udgøre 180 kr. om året, uanset antallet af transaktioner på kontoen. 
+
+---
 
 Gebyret reguleres én gang årligt pr. 10. januar efter udviklingen i Danmarks Statistiks nettoprisindeks. Beløbet afrundes til nærmeste hele kronebeløb. 
 
@@ -647,7 +673,8 @@ Find 5 afgørelser fra Finanstilsynet om et pengeinstitut der har overtrådt god
 
 Af kapitel 6 i Bekendtgørelse nr. 455 af 30/04/2018 om god skik for forsikringsdistributører (benævnt; "forsikringsbekendtgørelsen") fremgår følgende oplysningsforpligtelser for et forsikringsselskab (også benævnt; ”forsikringsdistributør”).
 
-Se bekendtgørelsen under Lovsamlingen over i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Se bekendtgørelsen
+**<a href="https://jura.tepedu.dk/lovsamling.html.">klik her!</a>**
 
 ---
 
@@ -829,6 +856,8 @@ Efter forsikringsbekendtgørelsens § 18, skal en forsikringsdistributør indgå
 
 En aftale skal indeholde en beskrivelse af parternes væsentlige rettigheder og pligter samt af de finansielle ydelser, der er omfattet af aftalen. 
 
+---
+
 Er der i forbindelse med aftalens indgåelse ydet rådgivning, skal væsentlige forudsætninger for rådgivningen nedfældes i aftalen eller fremgå af bilag til aftalen enten på papir eller på andet varigt medium.  
 
 Vilkår, der indgår i aftalen, kan fremgå ved en henvisning til separate dokumenter, herunder forsikringsdistributørens almindelige forretningsbetingelser. 
@@ -838,6 +867,8 @@ Vilkår, der indgår i aftalen, kan fremgå ved en henvisning til separate dokum
 Efter forsikringsbekendtgørelsens § 19, skal et forsikringsselskab senest 30 dage inden forsikringsperiodens udløb varsle enhver væsentlig ændring af forsikringsaftalen, der er til ugunst for forbrugeren. 
 
 Varslet skal meddeles på papir eller på andet varigt medium.  
+
+---
 
 Varslet skal indeholde oplysning om de væsentligste karakteristika ved ændringen samt angive, hvordan forbrugeren kan opsige forsikringen.  
 
@@ -904,6 +935,8 @@ Når en uafhængig forsikringsformidler, jf. § 16 i lov om forsikringsformidlin
 I pensionsordninger omfattet af pensionsbeskatningslovens afsnit I skal den uafhængige forsikringsformidler i forbindelse med indhentelse af tilbud oplyse forsikringsdistributøren om størrelsen af det honorar, der er aftalt mellem kunden og den uafhængige forsikringsformidler. 
 
 Den uafhængige forsikringsformidler skal samtidig oplyse forsikringsdistributøren om længden af den periode, hvori kunden og den uafhængige forsikringsformidler har aftalt, at honoraret skal indregnes i forsikringspræmien. 
+
+---
 
 Perioden må ikke overstige tre år. 
 
@@ -1179,7 +1212,8 @@ Find 5 afgørelser fra Finanstilsynet om et forsikringsselskab har overtrådt go
 
 Bekendtgørelsen om god skik for boligkredit fastsætter regler for, hvordan finansielle virksomheder her i landet skal yde rådgivning i forbindelse med ydelse af lån med sikkerhed i fast ejendom. 
 
-Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen), se nærmere Lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.** 
+Her gælder bekendtgørelse nr. 1581 af 17 af december 2018 om god skik for boligkredit (herefter benævnt; boligkreditbekendtgørelsen).
+**<a href="https://jura.tepedu.dk/lovsamling.html.">klik her!</a>**
 
 ---
 
@@ -1612,10 +1646,13 @@ Kunden skal have egnethedserklæringen, inden den enkelte transaktion udføres.
 
 I egnethedserklæringen skal værdipapirhandleren oplyse kunden om typen af den investeringsrådgivning, der er ydet, og hvordan rådgivningen stemmer overens med kundens præferencer, mål og andre karakteristika. 
 
+---
 
 Hvis værdipapirhandleren ikke udøver investeringsrådgivning, men blot gennemfører handler for en detailkunde, skal værdipapirhandleren gennemføre en hensigtsmæssighedstest af kunden. 
 
 Med hensigtsmæssighedstesten skal værdipapirhandleren vurdere, om kundens kendskab til og erfaring med det ønskede produkt er tiltrækkeligt til, at det er hensigtsmæssigt for kunden at investere i produktet.
+
+---
 
 Værdipapirhandleren kan undlade at gennemføre hensigtsmæssighedstesten og foretage handlen som execution only, hvis værdipapirhandleren gennemfører ordrer, der udelukkende vedrører ikkekomplekse produkter. 
 
@@ -1648,7 +1685,9 @@ Investeringskunder skal efter investorbekendtgørelsens § 4 samt dennes bilag o
 
 Det følger af investorbekendtgørelsens § 10, at når en værdipapirhandler yder investeringsrådgivning eller porteføljepleje, skal værdipapirhandleren indhente de nødvendige oplysninger om en kundes:  
 
-Kendskab til og erfaring på det investeringsområde, som er relevant for det specifikke type produkt eller tjenesteydelse, finansielle situation, herunder kundens evne til at bære tab, og investeringsformål, herunder kundens risikovillighed.  
+Kendskab til og erfaring på det investeringsområde, som er relevant for det specifikke type produkt eller tjenesteydelse, finansielle situation, herunder kundens evne til at bære tab, og investeringsformål, herunder kundens risikovillighed. 
+
+---
 
 Når en værdipapirhandler yder investeringsrådgivning og porteføljepleje skal værdipapirhandleren, med udgangspunkt i de i § 10, stk. 1 nævnte oplysninger, anbefale kunden den tjenesteydelse og de finansielle instrumenter, der egner sig for kunden og som er i overensstemmelse med vedkommendes risikovillighed og evne til at bære et tab.  
 
@@ -1791,9 +1830,9 @@ Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for �
 
 ---
 
-##Video Hvad er "Best Execution"?
+## Video Hvad er "Best Execution"?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hNMi-bqPvvM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/hNMi-bqPvvM">Videoen klik her!</a>**
 
 ---
 
@@ -2227,13 +2266,13 @@ Har forbrugeren i god tro handlet i tillid til rigtigheden af en værdiansættel
 
 ---
 
-Bestyrelsen og direktionen kan også pådrage sig et erstatningsansvar, jf. **U 2019.1907 H**, hvor bestyrelsesformand, bestyrelsesmedlem og direktør i bank var erstatningsansvarlige for uforsvarlig långivning i banken i relation til konkrete udlånsarrangementer:
-"Sagen angik, om bestyrelsesformanden, A, et bestyrelsesmedlem, B, og en direktør, C, i en bank havde pådraget sig erstatningsansvar over for banken, der var gået konkurs og var overtaget af Finansiel Stabilitet, F, for tab på 11 konkrete udlånsengagementer bevilget i perioden 2007-2009. Højesteret fandt, at F havde kompetence til at indtale erstatningskrav som sket og havde en erstatningsretlig værnet interesse. Højesteret udtalte sig generelt om ansvarsvurderingen efter selskabsretlige regler (selskabslovens § 361) og i forbindelse med lånebevillinger, herunder om betydningen af advarsler fra Finanstilsynet, eventuelle lovovertrædelser og overtrædelser af bankens interne regler. Højesteret fandt det ikke godtgjort, at banken havde været indrettet og drevet på en måde, der i sig selv kunne begrunde et erstatningsansvar for tab på de 11 udlånsengagementer. Det beroede således på en konkret vurdering af det enkelte udlånsengagement, om de kunne pålægges erstatningsansvar. Højesteret fandt, at der forelå erstatningsansvar med hensyn til bankens tab i ni af de 11 lånearrangementer, idet ledelsesmedlemmerne havde handlet ansvarspådragende ved at bevilge lån eller foretage andre dispositioner, mens der ikke forelå et ansvarsgrundlag for så vidt angik to af arrangementerne. Erstatningsansvaret var ikke bortfaldet som følge af meddelt decharge på bankens generalforsamlinger, og der var ikke grundlag for at lempe erstatningsansvaret hverken efter selskabslovgivningen eller erstatningsansvarsloven. Højesteret opgjorde kravet til ca. 89 mio. kr., idet parterne var enige i beløbsmæssige justeringer i forhold til landsrettens dom. Højesteret stadfæstede herefter i realiteten landsrettens dom". Se link til hele dommen: **https://pro.karnovgroup.dk/document/7000833530/1**
+Bestyrelsen og direktionen kan også pådrage sig et erstatningsansvar, jf. **U 2019.1907 H**, hvor bestyrelsesformand, bestyrelsesmedlem og direktør i bank var erstatningsansvarlige for uforsvarlig långivning i banken i relation til konkrete udlånsarrangementer.
+**<a href="https://pro.karnovgroup.dk/document/7000833530/1">Dommen klik her!</a>**
 
 ---
 
-Om revisors erstatningsansvar, se **U 2019.985 V**, hvor en revisor var erstatningsansvarlig for klinikejers tab som følge af, at der løbende var indbetalt for meget moms, og for tab i forbindelse med salg af en andel af klinikken:
-"I 2004 startede nogle interessenter, herunder A, en høreklinik. Klinikken blev fra starten registreret som en fuldt momspligtig virksomhed, men i 2012 - efter at A havde solgt sin andel i 2006 - blev man i høreklinikken klar over, at den del af virksomheden, der vedrørte høreprøver, tilpasning af høreapparater og rådgivning, rettelig var momsfritaget. SKAT tilbagebetalte den for meget betalte moms for perioden fra 2008, men ikke for de tidligere år, da disse krav var forældede. A anlagde herefter sag mod Revisionspartnerselskabet N, som revisor R havde været ansat i, idet hun gjorde gældende, at N var erstatningsansvarlig for A’s andel af den betalte moms i klinikken fra 2004 til 2006 (påstand 1) og for det tab, hun havde lidt, da hun solgte sin andel af klinikken, fordi den for meget betalte moms havde påvirket A’s goodwill negativt, hvorfor hun havde fået en mindre betaling ved salget (påstand 2). På baggrund af R’s involvering i opstarten af klinikken fandt byretten, at han havde påtaget sig at afklare spørgsmålet om momspligt og omfanget heraf, og det fremgik også, at han rent faktisk havde foretaget nogle undersøgelser, men at han ud fra en fortolkning af en skrivelse fra Amtsrådsforeningen havde været overbevist om, at der var fuld momspligt, hvilket senere viste sig ikke at være korrekt. R, der var professionel rådgiver, og som havde påtaget sig at afklare momsproblematikken, var herefter erstatningsansvarlig over for A for dennes tab som følge af, at der løbende var indbetalt for meget moms, hvilket ubestridt androg 152.997 kr. Det var godtgjort, at priserne for klinikkens ydelser var blevet fastsat i forhold til kunderne, så de inklusive høreprøver og andre tillægsydelser svarede til markedsprisen, dvs. til det samlede beløb, som kunderne ville have betalt for en tilsvarende ydelse på en anden klinik. Dette havde medført, at det ekstra momstilsvar, som klinikken havde betalt i forhold til andre klinikker, var gået fra klinikkens fortjeneste. Den fejlagtige momsafregning havde dermed haft betydning for fastsættelsen af den goodwill, der kunne opnås ved salg af en andel af klinikken, og byretten fandt derfor, at N var erstatningsansvarlig også for det påregnelige tab, A havde lidt som følge heraf. På baggrund af en skønserklæring og bevisførelsen i øvrigt blev dette tab - efter fradrag af den faktisk betalte goodwill - skønsmæssigt fastsat til 400.000 kr. N ankede dommen med påstand om frifindelse for påstand 2. Landsretten var enig i byrettens resultat og stadfæstede dommen": **https://pro.karnovgroup.dk/document/7000832654/1**
+Om revisors erstatningsansvar, se **U 2019.985 V**, hvor en revisor var erstatningsansvarlig for klinikejers tab som følge af, at der løbende var indbetalt for meget moms, og for tab i forbindelse med salg af en andel af klinikken.
+**<a href="https://pro.karnovgroup.dk/document/7000832654/1">Videoen klik her!</a>**
 
 ---
 
@@ -2250,6 +2289,8 @@ Hvor der ikke foreligger forskrifter eller sædvaner, er vurderingsgrundlaget fa
 
 Den professionelle fagudøver er forpligtet til at præstere en god faglig indsats, dvs. opfylde de krav, der kan stilles til en sagkyndig på området.   
 
+---
+
 Erstatningsansvar for rådgivning kræver at almindelige erstatningsansvarsbetingelser er opfyldt, 
 
 Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansvarsgrundlaget, jf. FIL § 43a.^[FIL; Lov om finansiel virksomhed. 
@@ -2257,6 +2298,8 @@ Hvis en rådgiver nogle af reglerne har det indflydelse på vurderingen af ansva
 Aktuelt er der udstedt bkg 2016 330 om god skik for finansielle virksomheder, bkg 2018 1581 om god skik for boligkredit og bkg 2017 747 om investorbeskyttelse ved værdipapirhandel.]  
 
 Manglende overholdelse af reglerne betyder ikke nødvendigvis, at rådgiveren er erstatningsansvarlig. 
+
+---
 
 Manglende overholdelse af reglerne vil have en afsmittende effekt på culpa-bedømmelsen. 
 
@@ -2266,11 +2309,15 @@ Den finansielle virksomhed eller finansielle rådgiver skal således have optrå
 
 Kunden skal have lidt et økonomisk tab, der skal være årsagssammenhæng (kausalitet) mellem den culpøse adfærd og det lidte tab, ligesom tabet skal være påregneligt (adækvat), og den skadelidte kunde skal ikke have udvist egen skyld. 
 
+---
+
 Bestemmelsen i FIL § 43a har betydning for vurderingen af, om det fornødne ansvarsgrundlag er til stede, men berører derimod ikke de øvrige erstatningsretlige betingelser. 
 
 Bestemmelsen i FIL § 43a berører ikke mulighederne for at anvende aftaleretlige sanktioner ved overtrædelse af de omfattede regler, såfremt betingelserne herfor er opfyldt. 
 
 Hvorvidt en handling i strid med den de udstedte bekendtgørelser medfører aftaleretlige konsekvenser, afhænger således af dansk rets almindelige aftaleretlige regler, herunder aftalelovens § 36 og § 38 c. 
+
+---
 
 Spørgsmålet om ansvarsgrundlagets tilstedeværelse er alene aktuelt i de situationer, hvor regler, der har private interesser som beskyttelsesformål, er overtrådt, eksempelvis de formelle krav til bekræftelse af alle væsentlige aftaler i papirformat eller på andet varigt medium, krav til rådgivning samt dokumentation herfor, gennemførelse af en hensigtsmæssighedstest m.v. 
 
@@ -2475,21 +2522,20 @@ Denne proces foretages i stedet af parterne selv, og de mange personer, som før
 
 ## Video: What is Bitcoin?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/2X9eJF1nLiY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/2X9eJF1nLiY">Videoen klik her!</a>**
 
 ---
 
 ## Video: Bitcoin Explained Simply for Dummies
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/41JCpzvnn_0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/41JCpzvnn_0">Videoen klik her!</a>**
 
 
 ---
 
 ## Video: How Does Bitcoin Work?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/L-Qhv8kLESY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/L-Qhv8kLESY">Videoen klik her!</a>**
 
 ---
 
@@ -2770,15 +2816,10 @@ Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alen
 
 ## Video: FT Lab åbner
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/WHsjqJ6uJgE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/WHsjqJ6uJgE">Videoen klik her!</a>**
 
 
 ---
-
-
-
-
 
 ## <font color="red">Quiz om god skik for den finansielle virksomhed samt erstatningsansvaret<sup> Premium </font></sup>
 

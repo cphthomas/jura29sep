@@ -41,15 +41,14 @@ Undlader de dette, kan EU's institutioner eller (i visse tilfælde) enkeltperson
 
 ## <font color="red">Video om hvorfor har man EU-Domstolen<sup> Premium </font></sup>
 
+**<a href="https://www.youtube.com/embed/DyrbzzOvOqc">Videoen klik her!</a>**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/DyrbzzOvOqc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
 ## <font color="red">Video om hvad gøre EU-Domstolen for mig<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-hcvoCa4JD0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/-hcvoCa4JD0" target="_blank"> Videoen Klik her!</a>**
 
 
 ---
@@ -127,7 +126,7 @@ Hvis du mener, at myndighederne i et medlemsland har overtrådt EU-reglerne, ska
 
 ## <font color="red">Video om hvordan Domstolen fungerer – i grundlæggende træk<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/M3LPCK1eWBs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/M3LPCK1eWBs">Videoen klik her!</a>**
 
 ---
 
@@ -457,15 +456,21 @@ Den Europæiske Unions Domstol udgør Unionens og Det Europæiske Atomenergifæl
 
 Den består af Domstolen og Retten, hvis opgave i det væsentlige består i at prøve lovligheden af Fællesskabets retsakter og at sikre en ensartet fortolkning og anvendelse af EU-retten.  
 
+---
+
 Hele vejen gennem sin praksis har Domstolen knæsat pligten for forvaltninger og domstole på nationalt plan til fuldt ud at gennemføre EU-retten på deres kompetenceområder og at beskytte de rettigheder, som EU-retten tildeler borgerne (direkte anvendelse af EU-retten), hvorved en herimod stridende regel i national ret bliver uvirksom, hvad enten den er yngre eller ældre end EU-normen (EU-rettens forrang for national ret).
 
 Domstolen har ligeledes anerkendt princippet om medlemsstaternes ansvar for tilsidesættelse af unionsretten, som udgør dels et element, der på afgørende måde beskytter de rettigheder, som er tillagt private ved unionsrettens bestemmelser, dels en faktor, der bidrager til en mere omhyggelig gennemførelse af disse bestemmelser i medlemsstaterne. 
 
 De retskrænkelser, som disse gør sig skyldige i, vil således kunne medføre erstatningspligt, der i visse tilfælde kan få alvorlige konsekvenser for deres offentlige finanser. 
 
+---
+
 Desuden vil enhver manglende overholdelse fra en medlemsstats side af unionsretten kunne indbringes for Domstolen, og denne vil, i tilfælde af manglende opfyldelse af en dom, som fastslår et sådant retsbrud, kunne pålægge staten en tvangsbøde og/eller betaling af et fast beløb. 
 
 Hvis Kommissionen ikke er blevet underrettet om foranstaltningerne til gennemførelse af et direktiv, kan Domstolen imidlertid efter anmodning herom fra Kommissionen pålægge medlemsstaten en økonomisk sanktion allerede fra tidspunktet for afsigelsen af den første traktatbrudsdom.
+
+---
 
 Domstolen arbejder tæt sammen med de nationale retter, som er unionsrettens ordinære domstole. Enhver national ret, der skal afgøre en tvist med berøring til unionsretten, kan, og skal undertiden, forelægge Domstolen præjudicielle spørgsmål. 
 
@@ -580,9 +585,7 @@ Domstolen nåede til det resultat (**BECTU-dommen**, 2001), at retten til betalt
 
 ## <font color="red">Video - EU-Domstolen om ligebehandling og beskyttelse af mindretals rettigheder<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/5RnA4C4MbsU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+**<a href="https://www.youtube.com/embed/5RnA4C4MbsU">Videoen klik her!</a>**
 
 ---
 
@@ -597,6 +600,8 @@ Herved tager Domstolen hensyn til de for medlemsstaternes fælles forfatningstra
 Efter ikrafttrædelsen af Lissabontraktaten vil Domstolen kunne anvende og fortolke Den Europæiske Unions charter om grundlæggende rettigheder af 7. december 2000, som i medfør af Lissabontraktaten tillægges samme retsværdi som traktaterne. 
 
 Efter talrige terroristattentater mod politiembedsmænd indførte man i Nordirland bevæbning af politistyrkerne. 
+
+---
 
 Af hensyn til den offentlige sikkerhed tillod man imidlertid ikke bevæbning (på grundlag af en attest udstedt af vedkommende minister, som ikke kunne anfægtes ved domstolene) af kvinder ansat i politiet. 
 

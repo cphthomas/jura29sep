@@ -11,25 +11,22 @@ cat(readLines('np.html'))
 
 *Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:*
 
-<img src="img/vigtigt.jpeg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-* *Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5*
+---
+
+*Regler for virksomhedernes hæftelse i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af aftaler og kontrakter med kunder og klienter. Overordnet om virksomhedsformer, kapitalkrav og hæftelse (enkeltmandsvirksomhed, ApS, I/S, A/S), SEL § 4 og 5*
 
 
 ---
 
-Lovgrundlaget er **selskabsloven**, jf. Lovbekendtgørelse 2019-07-23 nr. 763
-om aktie- og anpartsselskaber og **erhvervsvirksomhedsloven** (LEV), jf. Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern, se lovene i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
-
----
-
-**Selskabsretten bliver behandlet i kap. 7 i "Erhvervsjura"**
+Lovgrundlaget er **selskabsloven**, jf. Lovbekendtgørelse 2019-07-23 nr. 763 om aktie- og anpartsselskaber og **erhvervsvirksomhedsloven** (LEV), jf. Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern.
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">se lovene i Lovsamlingen klik her!</a>**
 
 ---
 
 ## Video: Selskabsformer - hvilken selskabsform skal man vælge?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hJsMkMGjhyg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/hJsMkMGjhyg">Videoen klik her!</a>**
 
 ---
 
@@ -60,6 +57,8 @@ En *"juridisk person"* er en organisation, som har selvstændig retsevne, som f.
 En *"forening"* er en sammenslutning med en vekslende medlemskreds til opnåelse af et fælles formål af økonomisk eller ideel karakter.
 
 *"Fysiske personer"* af kød og blod, som et biologisk væsen, anses ikke for juridiske personer.
+
+---
 
 En juridisk person er en retlig enhed, der opstår af en sammenslutning af personer, fx et selskab, en andelsboligforening, fonde, kommunen, staten, en organisation, et konkursbo eller dødsbo.
 
@@ -147,8 +146,7 @@ Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsd
 ---
 
 ## Video om opstart af virksomhed og valg af virksomhedsformer
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/UTLgb0phl28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/UTLgb0phl28" target="_blank">Videoen klik her!</a>**
 
 ...
 
@@ -162,6 +160,8 @@ Ejes af én ejer, og ejeren tager alle nødvendige beslutninger om virksomhedens
 
 Enkeltmandsvirksomheden tegnes af ejeren, men der kan udstedes prokura og fuldmagt til ansatte eller andre, der herefter kan handle og indgå aftaler på virksomhedens vegne.
 
+---
+
 Eneejeren bærer tabet eller gevinsten alene.
 
 Virksomhedens navn er navneretligt beskyttet, jf. LEV § 6, stk. 2.
@@ -170,7 +170,8 @@ Hæftelse: Personligt, ubegrænset og direkte, med alt hvad han eller hun ejer.
 
 ---
 
-Lovgivning: Lov om visse erhvervsdrivende virksomheder: Erhvervsvirsomhedsloven (LEV) (Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomhedern), se erhvervsvirksomhedsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Lovgivning: Lov om visse erhvervsdrivende virksomheder: Erhvervsvirsomhedsloven (LEV) (Lovbekendtgørelse 2019-07-01 nr. 659 om visse erhvervsdrivende virksomheder).
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Erhvervsvirksomhedsloven i Lovsamlingen klik her!</a>**
 
 ---
  
@@ -183,6 +184,8 @@ Dermed menes, at:
 Interessentskaber består af to eller flere ejere. 
 
 Ejerne hæfter personligt, hvorfor man skal være påpasselig med oprettelse af denne type selskab.
+
+---
 
 Der er ingen stiftelseskrav ved oprettelse af et interessentskab og det kræver ingen form for startkapital. 
 
@@ -208,6 +211,8 @@ Derudover skal selskabet overholde bogføringsloven.
 
 Om der skal udarbejdes et årsregnskab eller ej, afhænger af om interessentskabet er registreret hos Erhvervs- og Selskabsstyrelsen. 
 
+---
+
 Hvis selskabet er registreret, skal der udarbejdes et årsregnskab, og ellers er det ikke et krav. 
 
 Derudover har SKAT også ret til at kræve at et årsregnskab udarbejdes, og så er man nødt til at sørge for det.
@@ -227,6 +232,8 @@ Altså beskattes interessentskaber typisk som personlig indkomst, men kan også 
 En virksomhed, hvor alle deltagerne hæfter personligt, uden begrænsning og solidarisk over for selskabets kreditorer, jf. LEV § 2, stk. 1.
 
 ”En for alle og alle for en”: Interessenterne har hver for sig påtaget sig at hæfte for hele kreditors tilgodehavende, uanset gældens størrelse.
+
+---
 
 *Regres:* En interessent som har måttet betale hele kreditors tilgodehavende, har efterfølgende et regreskrav mod de øvrige interessenter.
 
@@ -272,8 +279,8 @@ Beslutninger: Skal ske i enighed, medmindre andet aftales.
 ![](img/kapital.png)
 
 
-Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse 2019-07-23 nr. 763
-om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). Se selskabsloven i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse 2019-07-23 nr. 763 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). 
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Selskabsloven i Lovsamlingen klik her!</a>**
 
 ---
 
@@ -281,17 +288,25 @@ Det omfatter Bestemmelsen i § 1, stk. 1 angiver selskabslovens anvendelsesområ
 
 Ikke blot A/S’er og ApS’er, men også partnerselskaber (P/S’er), jf. kapitel 22, er omfattet af begrebet kapitalselskaber. 
 
+---
+
 Andelsselskabet (AMBA’et) er ikke omfattet af selskabsloven. 
 
 Den tidligere definition i selskabsloven er udgået og definitionen findes nu i lov om erhvervsdrivende virksomheder § 4. 
+
+---
 
 Det er fundet unødvendigt at medtage en negativ afgrænsning heraf også i selskabsloven, hvor heller ikke andre juridiske personer, der falder uden for selskabsloven (eksempelvis fonde og foreninger) er negativt afgrænset.
 
 *Finansielle virksomheder: er som udgangspunkt omfattet af selskabsloven, men er i øvrigt undergivet omfattende særregulering, jf. især lov om finansiel virksomheder. 
 
+---
+
 Selskabsloven gælder tillige for andre juridiske enheder i kraft af krydshenvisninger fra særlovgivningen, se eksempelvis lov om finansiel virksomhed § 23, hvorefter kapital 3 i selskabsloven med de nødvendige tilpasninger finder anvendelse på gensidige forsikringsselskaber og tværgående pensionskasser.
 
 Udenlandsk indregistrerede selskaber omfattes ikke. En betingelse for selskabets registrering i Danmark er, at dets hjemsted er beliggende her.  
+
+---
 
 Om *advokatselskaber og advokatholdingselskaber* henvises til Bekendtgørelse nr. 1427 11. december 2007 om advokatselskaber.
 
@@ -299,7 +314,8 @@ Om *advokatselskaber og advokatholdingselskaber* henvises til Bekendtgørelse nr
 
 ## Video Hvad er et holdingselskab?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/XIQuq979kfg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> 
+**<a href="https://www.youtube.com/embed/XIQuq979kfg">Videoen klik her!</a>**
+
 
 ---
 
@@ -328,13 +344,19 @@ Om minimumskapitalkravet i henholdsvis aktie- og anpartsselskaber skal to forhol
 
 Det påhviler nemlig ud over opfyldelse af minimumskapitalkravet stifterne/anpartshaverne (under hensyn til den påtænkte virksomhed) og senere ledelsen (under hensyn til den konkrete økonomiske situation) løbende at vurdere, hvor stor en selskabskapital det konkrete anpartsselskab skal have. 
 
+---
+
 For så vidt angår ledelsen påhviler pligten til løbende at udøve dette skøn forsvarligt af loven:
 
 Kapitalberedskabet skal således til enhver tid være forsvarligt, dvs. stå i rimeligt forhold til selskabets aktiviteter. Ledelsen er personligt ansvarlig for dette forhold. 
 
+---
+
 Pligten er for hvert enkelt relevant ledelsesorgan fastslået henholdsvis i § 115, nr. 5 (som en af bestyrelsens opgaver), i § 116, nr. 5 (som en af tilsynsrådets opgaver), og i § 118, stk. 2 (som en af direktionens opgaver).
 
 "Bestyrelsen" er de personer, som har den overordnede ledelse af et selskab eller en forening. Vælges på generalforsamlingen.
+
+---
 
 
 2. Det nævnte forhold må på den anden side ikke lede til den misforståelse, at hvis den beholdne egenkapital i et anpartsselskab kommer under minimumskravet, er der indbygget et automatisk ejer- og/eller ledelsesansvar, hvis anpartsselskabets kreditorer lider tab ved dets efterfølgende økonomiske sammenbrud.
@@ -400,10 +422,9 @@ Regulerer det interne forhold mellem kapitalejerne (aktionær- overenskomst/anpa
 ---
 
 ## Video om indgåelse af en ejeraftale
+
+**<a href="https://www.youtube.com/embed/7ZWXsGAW2ho" target="_blank">Videoen klik her!</a>**
  
-<div class="video-container"><iframe src="https://www.youtube.com/embed/7ZWXsGAW2ho" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
 ---
 
 #### Selskabskapital
@@ -418,7 +439,11 @@ Garantikapital, hvad enten denne er indbetalt eller ej, er ikke en del af selska
   
 *Ansvarlig lånekapital* eller ansvarlig indskudskapital er ikke en del af selskabskapitalen. 
 
+---
+
 Hverken *garantikapital* eller *ansvarlig lånekapital/indskudskapital* skal anmeldes til registrering i Erhvervsstyrelsen, men kan oplyses i årsregnskabet i noterne som et samlet tal angivende selskabskapitalen og optaget ansvarlig lånekapital, hvilket så skal ske under en anden betegnelse som f.eks. »samlet ansvarlig kapital«.
+
+---
   
 Et lån, der er ydet til selskabet på vilkår, at det skal stå tilbage for alle eksisterende og eller kommende selskabskreditorer, skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf. årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i regnskabsklasse C (mellemstore og store selskaber) og regnskabsklasse D (navnlige statslige og børnoterede aktieselskaber). 
 
@@ -428,7 +453,6 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
 
 ## Eksamensopgave 12.1.
 
-
 *Om kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kredtisikring, selskabsformer og hæftelse, mv.*
 
 
@@ -437,15 +461,11 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
 
 <img src="img/ivarksatter.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-
-
 Ivar Justesen er en evig iværksætter og er altid i gang med nye ”erhvervseventyr”, desværre ikke alle lige vellykkede, så derfor har han efterhånden oparbejdet en del gæld. En af hans kreditorer, Sun-Import A/S rykker nu kraftigt for betaling i henhold til en forfalden faktura på kr. 114.870.
 
 *Eksamensspørgsmålet:*
 
 1.	Hvilke muligheder – udover konkurs – har Sun-Import A/S for at inddrive det skyldige beløb hos Ivar? 
-
-
 
 ---
 
@@ -520,6 +540,8 @@ Ivar mener, at der er indgået en aftale om køb af sofaen, hvilket Lonnie dog n
 Et moderselskab er karakteriseret ved at selskabet ejer en stor del af aktierne eller anparterne i et andet selskab, som kaldes et datterselskab, jf. selskabslovens § 6.
 
 Hvert selskab inden for koncernen er en  juridisk person, som har sit ”eget liv”.
+
+---
   
 I koncerner hæfter de enkelte koncernselskaber ikke for hinandens forpligtelser. Dette gælder også med hensyn til modregning.
 
@@ -531,7 +553,11 @@ Begreber der er godt at kunne i selskabsretten:
 
 *"Corporate governance"*:	De overordnede principper og strukturer, der regulerer samspillet mellem ledelsesorganerne i et selskab, ejerne og andre, der direkte berøres af selskabets dispositioner og virksomhed.
 
+---
+
 *"CSR"*	Corporate Social Responsibility: Ved virksomheders samfundsansvar forstås, at virksomheder frivilligt integrerer hensyn til blandt andet menneskerettigheder, sociale forhold, miljø- og klimamæssige forhold samt bekæmpelse af korruption i deres forretningsstrategi og forretningsaktiviteter.
+
+---
 
 Modsat begrebet *"fusion"*; samling af flere selskaber taler man om *"spaltning"*	opdeling af selskab i flere selskaber.
 
@@ -546,11 +572,11 @@ Modsat begrebet *"fusion"*; samling af flere selskaber taler man om *"spaltning"
 <img src="img/Aktieselskaber.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-
-
 Efter selskabslovens § 5, nr. 1 er et aktieselskab et kapitalselskab, herunder et partnerselskab, hvor kapitalejernes indskudskapital er fordelt på *aktier*. 
 
 Aktier kan udbydes til offentligheden. 
+
+---
 
 Kapitalejerne hæfter alene med deres indskud i selskabet. 
 
@@ -558,17 +584,24 @@ Kun kapitalsselskabets formue hæfter for kapitalsselskabets gæld og øvrige fo
 
 I et aktie- eller anpartsselskab hæfter aktionærerne og anpartshaverne (kapitalejerne) ikke personligt for kapitalselskabets forpligtelser, men alene med deres indskud.  
 
+---
+
 Kapitalejerne har ret til andel i kapitalselskabets overskud i forhold til deres ejerandel, medmindre andet er fastsat i selskabets vedtægter.”
 
 Tilsvarende gælder, at når en kapitalejer har indbetalt sine kapitalandele fuldt ud, jf. selskabslovens §§ 33-34, er kapitalejeren ikke selskabsretligt forpligtet til at tilføre selskabet yderligere kapital.
 
+---
+
 Udover at kapitalselskabets ejere og ledelse kan ifalde *erstatningsansvar* efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejere/ledelse ikke har handlet ansvarspådragende.
+
+---
 
 Retstilstanden kan for det i praksis mest interessante områdes vedkommende – koncerner/hovedaktionærforhold m.v. – antagelig sammenfattes i et udsagn om, at et moderselskab/en hovedaktionær på objektivt grundlag kommer til at betale en dattervirksomheds gæld, hvis moderselskabet/hovedaktionæren forretningsmæssigt har drevet koncernens selskaber som én virksomhed, hvori ligger, at moderselskabet/hovedaktionæren klart har ladet datterselskabet leve på koncernens goodwill og kreditværdighed, og at driften af datterselskabets virksomhed kun er forretningsmæssig mulig under forudsætning af, at moderselskabet/hovedaktionæren til stadighed tilfører den nødvendige kapital.
 
-Den første danske højesteretsdom om gennembrudshæftelse er **U 1997.1642 H**. Dommen vedrører gennembrudshæftelse i forhold til et »søsterselskab«: "Et anpartsselskab hæftede for søsterselskabs gæld til Told- og Skattestyrelsen.
-anpartsselskab (Festivalselskabet) havde gennem en årrække arrangeret Midtfyns Musikfestival og havde bortforpagtet retten til servering o.lign. på festivalpladsen til et andet anpartsselskab (Restaurationsselskabet). Begge selskaber blev kontrolleret og ledet af P. Efter festivalen i 1990 blev Festivalselskabet insolvent, og det blev i 1992 opløst af skifteretten. P var afgået ved døden i 1991, og hans ægtefælle N hensad i uskiftet bo. Told- og Skattestyrelsen (T&S), som havde et udækket krav mod Festivalselskabet på godt 3 mio. kr. vedrørende moms, indeholdt A-skat og selskabsskat, gjorde gældende, at Restaurationsselskabet og N ud fra et identifikationssynspunkt hæftede for denne gæld, ligesom T&S nedlagde nogle subsidiære erstatningspåstande over for N. T&S' påstand over for Restaurationsselskabet blev taget til følge med henvisning bl.a. til, at der i betydeligt omfang var sket en sammenblanding af selskabernes økonomi, at den foretagne opdeling af virksomheden mellem de to selskaber indebar, at det ene – Restaurationsselskabet – fik mulighed for at opsamle langt den største del af overskuddet ved den samlede aktivitet, mens det andet – Festivalselskabet – år for år stod over for økonomiske risici, som var meget betydelige i forhold til selskabets aktuelle egenkapital, samt at T&S var tvangskreditor. Derimod blev ingen af T&S' påstande over for N taget til følge":
-**https://pro.karnovgroup.dk/document/7000203941/1**
+---
+
+Den første danske højesteretsdom om gennembrudshæftelse er **U 1997.1642 H**. Dommen vedrører gennembrudshæftelse i forhold til et søsterselskab, hvorefter et anpartsselskab hæftede for søsterselskabs gæld til Told- og Skattestyrelsen.
+**<a href="https://pro.karnovgroup.dk/document/7000203941/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -587,19 +620,27 @@ Anpartsselskaber kan ikke udbyde deres kapitalandele til offentligheden, jf. sel
 
 Kapitalejerne hæfter alene med deres indskud i selskabet.
 
+---
+
 Når man stifter et ApS skal man, ifølge selskabsloven, indskyde kr. 40.000 i anpartskapital. 
 
 Minimumskravet på 40.000 kr. er fastsat ved L 2019 445, som indebar en nedsættelse fra 50.000 kr. Kravet er tidligere ved L 2013 616 nedsat fra 80.000 kr.
 
+---
+
 Den seneste nedsættelse af minimumskapitalkravet for anpartsselskaber til 40.000 kr. skal ses i sammenhæng med den samtidige afskaffelse af selskabsformen iværksætterselskab (IVS).
 
 Minimumsbeløbet på 40.000 kr. (dog mindst 25 pct. af selskabskapitalen) skal være indbetalt, jf. § 33, stk. 1, hvilket er en betingelse for, at selskabet overhovedet kan registreres, jf. § 40, stk. 2.
+
+---
 
 Hvis der indskydes aktiver, kræver disse en vurderingsberetning, der laves af en revisor.
 
 En af de helt store fordele ved at stifte et ApS er, at man har begrænset hæftelse. 
 
 Hvis virksomheden går konkurs, mister man kun de 40.000 kroner, man har indskudt i anpartskapital. 
+
+---
 
 Det betyder, at man ikke nødvendigvis skal gå fra hus og hjem, hvis virksomheden går ned.
 
@@ -619,9 +660,13 @@ Stiftelsesdokumentet indeholder selskabets vedtægter, der fortæller om regler,
 
 Der er et krav om, at selskabet skal ledes af en direktion og/eller en bestyrelse. 
 
+---
+
 Det er direktionen eller bestyrelsen som underskriver årsregnskabet hvert år og dermed påtager sig ansvaret for, at regnskabet er retvisende og udarbejdet korrekt. 
 
 Årsregnskabet skal være udarbejdet senest 5 måneder efter regnskabsårets afslutning.
+
+---
 
 Beskatning af et anpartsselskab: 
 
@@ -659,14 +704,14 @@ Kommanditist: Hæfter begrænset for virksomhedens forpligtelser og kommanditist
 
 ## Video om SKAT og et K/S investering
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-WQOQFPIsL0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/-WQOQFPIsL0">Videoen klik her!</a>**
 
 ---
 
 ## Video om Kommanditselskab (engelsk)
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/gHkN4-3GZm8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/gHkN4-3GZm8">Videoen klik her!</a>**
+
 
 ---
 
@@ -723,6 +768,8 @@ Formål: At fremme deltagernes fælles interesser gennem deres deltagelse i virk
 
 Ses inden for landbrug, indkøbs- og brugsforeninger, vandværk, varme- og elforsyningsselskaber mv.
 
+---
+
 Hæftelsen i et andelsselskab er ikke lovreguleret. Hæftelsesformen fremgår af selskabets  vedtægter.
 
 Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte, dvs. at kreditorerne først skal have udtømt alle muligheder for inddrivelse hos andelsselskabet, før de kan gå efter andelshaverne.
@@ -737,7 +784,7 @@ Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte
 
 ## Video Hvilket selskab skal jeg vælge?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/CoL6olkOPKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/CoL6olkOPKs">Videoen klik her!</a>**
 
 
 ---
@@ -745,9 +792,6 @@ Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte
 ## Quiz om virksomhedsformer og hæftelse
 
 <h3><a href="https://quiz.tepedu.dk/jura12" target="_blank">Quiz Virksomhedsformer og hæftelser <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
-
 
 
 ---

@@ -7,6 +7,13 @@ cat(readLines('np.html'))
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
+---
+
+*Fulmagtsreglerne anvendes, når du som fuldmægtig finansøkonom er ansat i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af aftaler og kontrakter med kunder og klienter.*
+
+---
+
+
 *Hvad er en fuldmagt?*
 
 Fuldmagt er en	ret til at handle i en andens navn og for en andens regning.
@@ -17,11 +24,9 @@ Fuldmagt er i dansk ret en tilladelse fra en person (fuldmagtsgiveren) om at lad
 
 
 
-Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftaleloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
----
-
-**Fuldmagtsreglerne bliver behandlet i kap. 3.5 i "Erhvervsjura"**.
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Aftaleloven i Lovsamlingen Klik her!</a>**
 
 ---
 
@@ -29,9 +34,15 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftalel
 
 *Stillingsfuldmagt* aftalelovens § 10, stk. 2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og banksassistenter.
 
+---
+
 *Forevisningsfuldmagt* aftalelovens § 16, stk. 1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
 
+---
+
 *Specialfuldmagt* aftalelovens § 13 aftaleloven, når 3.mand kender FM´s (fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger eller en salgsassistent må bestille varer.
+
+---
 
 *Offentlig bekendtgjort fuldmagt* fra fuldmagtsgiveren, jf. aftalelovens § 14, stk. 1 i aftaleloven fx hvis der afholdes reception.
 
@@ -55,7 +66,8 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II, se aftalel
 
 
 
-*Fuldmagt* er således reguleret af **aftaleloven**: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. Se Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+*Fuldmagt* er således reguleret af **aftaleloven**: Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Aftaleloven se Lovsamlingen Klik her!</a>**
 
 ---
 
@@ -177,6 +189,13 @@ Fuldmagt/legitimation: Omfatter det tredjemand kan forvente. Fuldmagtsgivers sig
 
 Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end fuldmagten. Fuldmagten kan aldrig være snævrere end bemyndigelse.
 
+---
+
+## Video om fuldmagt via aftaler
+
+**<a href="https://youtu.be/ugJt8-E7xJY" target="_blank">Videoen Klik her!</a>**
+
+---
 
 <br>
 
@@ -202,6 +221,7 @@ Der findes som nævnt to fuldmagtsformer:
 
 + Skriftlig fuldmagt/forevisningsfuldmagt, jf. aftalelovens § 16, stk. 1
 
+---
 
 *Fuldmagt uden særlig tilværelse:*
 
@@ -226,21 +246,31 @@ Når man som (fuldmagtsgiver) giver en anden (fuldmægtig) fuldmagt til at handl
 
 Der er kun tale om en stillingsfuldmagt i § 10’s forstand, når man efter aftale med en anden (fuldmagtsgiver/arbejdsgiveren) indtager en stilling, dvs. er ansat hos den pågældende. 
 
+---
+
 Stillingsfuldmagten stiftes ved, at man efter aftale med fuldmagtsgiver opnår ansættelse i en vis stilling og faktisk indtager denne fx, at man er ansat i en bank, ejendomsmæglerkæde eller i et forsikringsselskab. 
 
 Deraf følger så, at en advokat ikke har en stillingsfuldmagt for sin klient, og at en tilsynsførende arkitekt eller ingeniør ingen stillingsfuldmagt har fra bygherren. 
+
+---
 
 Tredjemand fx kunden kan påberåbe sig stillingsfuldmagten, selv om kunden ikke kender til ansættelsen af fuldmægtigen hos fuldmagtsgiveren.
 
 En ansat har således via sin stilling fuldmagt til at handle på vegne af fuldmagtsgiver (arbejdsgiver).
 
+---
+
 Fuldmægtigen (den ansatte) har udadtil fuldmagt til at handle inden for stillingens grænser, dvs. den ansatte kan indgå de aftaler med tredjemand, som er sædvanlige for stillingen, fx en ejendomsmægler kan indgå en formidlingsaftale med en sælger af et hus. 
 
 Ejendomsmægleren kan dog ikke forpligte opdragsgiveren (sælgeren) uden særlig fuldmagt hertil.
 
+---
+
 En kunderådgiver i en bank kan i sagens natur indgå aftaler om lån fra banken, men hun kan ikke indgå aftaler med et reklamebureau om ny markedsføringskampagne af bankens lån, medmindre hun har fået en udvidet bemyndigelse/særlig tilladelse fra fuldmagtsgiver fx hendes områdechef.
 
 Situation: Fuldmægtigen indgår en aftale med tredjemand, der overskrider bemyndigelsen (den interne instruks fra fuldmagtsgiver).
+
+---
 
 Fuldmagtsgiver er bundet af de aftaler, fuldmægtigen indgår med tredjemand i strid med den interne instruks, hvis tredjemand var i god tro, jf. aftalelovens § 11, stk. 1.
 
@@ -252,6 +282,8 @@ Situation: Fuldmægtigen indgår en aftale med tredjemand, der ligger uden for l
 
 Fuldmagtsgiver er ikke bundet af de aftaler fuldmægtigen indgår med tredjemand, hvis de ligger uden for stillingens grænser, uanset tredjemands gode tro, fx at bankrådgiveren til en bankkunde giver tilsagn om et privat forbrugslån, uden at lånet bliver forrentet og uden stiftelsesomkostninger.
 
+---
+
 Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgiver bliver bundet over for en tredjemand i god tro, selv om fuldmagtsgiver ved konkret tilkendegivelse til fuldmægtigen har indskrænket dennes bemyndigelse, idet fuldmægtigen desuagtet stadig besidder den fuldmagt, der ifølge lov eller sædvane er forbundet med den stilling, fuldmægtigen besidder. 
 
 ---
@@ -259,6 +291,8 @@ Stillingsfuldmagtens særlige tilværelse viser sig bl.a. derved, at fuldmagtsgi
 Vil fuldmagtsgiveren indskrænke stillingsfuldmagten, må han degradere fuldmægtigen, dvs. afskedige ham fra stillingen og give ham en stilling med en mindre vidtgående stillingsfuldmagt, og dette må være kendeligt for omverdenen.
 
 Stillingsfuldmagtens grænser afhænger i første række af, hvilken stilling der er tale om, idet sædvanerne for forskellige stillinger er forskellige. 
+
+---
 
 En koncerndirektør har en vidererækkende stillingsfuldmagt end en salgschef, og en salgschef en vidererækkende stillingsfuldmagt end en værkfører. 
 
@@ -298,7 +332,13 @@ En bankdirektør har en mere vidererækkende stillingsfuldmagt end en områdekun
 
 De vigtigste momenter i vurderingen af, om og i hvilket omfang arbejdsgiveren kan gøre regres mod arbejdstageren, er skyldgraden (normalt ikke regres ved skader, der er forvoldt ved simpel uagtsomhed; i modsætning til erstatningsansvarslovens § 19, stk. 3, indebærer forsæt eller især grov uagtsomhed dog ikke nødvendigvis fuldt ansvar for arbejdstageren, se herved:
 
-Dommen i **U 2016.3069 V** Regres ved betydelig uagtsomhed. og **U 2006.356 V** om regres ved en forsætligt forvoldt skade og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil fx kunne tale for regres).
+Dommen i **U 2016.3069 V** Regres ved betydelig uagtsomhed, se link til hele dommen: **https://pro.karnovgroup.dk/document/7000752589/1** 
+
+---
+
+Samt **U 2006.356 V** om regres ved en forsætligt forvoldt skade og arbejdstagerens stilling (indtagelse af en overordnet stilling med ledelsesfunktioner vil fx kunne tale for regres). Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000317254/1**
+
+---
 
 Ordet "Regres" er et krav om tilbagebetaling for noget man har betalt på andres vegne. Ordet regres kommer af det latinske regressus og betyder ”tilbagegang”.
 
@@ -309,6 +349,8 @@ Ordet "Regres" er et krav om tilbagebetaling for noget man har betalt på andres
 En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
 
 Arbejdsgiveren bliver bundet af de aftaler, den opsagte indgår med tredjemand i opsigelsesperioden.
+
+---
 
 I en opsigelsesperiode bør fuldmagtsgiver tage stilling til, om fuldmægtigen stadig skal have fuldmagt til at indgå de samme aftaler udadtil, eller der skal laves en ændring frem til fratrædelsestidspunktet.
 
@@ -405,11 +447,8 @@ En tilbagekaldelse får virkning, når den er kommet frem – behøver ikke at k
 ---
 
 ## Video om aftalelovens § 19 tilbagekaldelse af fuldmagt
-*Udarbejdet af Horten Advokatpartnerskab*
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/JKyH0smEY9I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/JKyH0smEY9I" target="_blank"> Videoen Klik her!</a>**
 
 ---
 
@@ -459,17 +498,19 @@ Fuldmægtigen er altså i almindelighed ubetinget erstatningsansvarlig (objektiv
 
 Dette stemmer med de almindelige regler om ansvaret i vanhjemmelslignende tilfælde af misligholdelse. 
 
+---
+
 Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges fuldmægtigen, men fuldmægtigen kan ifalde erstatningspligt efter den almindelige culparegel, og medkontrahenten kan i så fald kræve erstatning for den *negative kontraktsinteresse* (det tab, han lider ved at stole på kontrakten), hvis fuldmægtigen har skuffet medkontrahenten med forsæt eller uagtsomhed.
+
+---
 
 Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet tredjemand er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
 
 ---
 
 ## Video om erstatning efter aftalelovens § 25
-*Udarbejdet af Horten Advokatpartnerskab*
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/pg3C6fbVoTs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/pg3C6fbVoTs" target="_blank"> Videoen Klik her!</a>**
 
 ---
 
@@ -477,6 +518,8 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 Fuldmægtigen skal erstatte tredjemand den *positive opfyldelsesinteresse*, dvs. tredjemand skal stilles, som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Tredjemand kan altså kræve erstatning for det fulde tab, tredjemand lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. 
+
+---
 
 Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, tredjemand har lidt ved at handle i tillid til fuldmagtens eksistens, tredjemand har krav på at blive stillet økonomisk, som om fuldmagten eksisterede. 
 
@@ -489,6 +532,8 @@ Mere alvorlige straffelovs forbrydelser som fuldmægtig:
 *"Mandatsvig og returkommission"*
 
 *"Mandatsvig"* straffes efter straffeloven.	For mandatsvig straffes den, som for derigennem at skaffe sig eller andre uberettiget vinding påfører en anden formuetab 1) ved misbrug af en for ham skabt adgang til at handle med retsvirkning for denne eller 2) ved i et formueanliggende, som det påhviler ham at varetage for den anden, at handle mod dennes tarv, jf. straffelovens § 280.
+
+---
 
 *"Returkommission"* straffes efter straffelovens § 299, stk. 2: Med bøde eller fængsel indtil 4 år straffes den, som ved varetagelse af en andens formueanliggender for sig selv eller andre på pligtstridig måde modtager, fordrer eller lader sig tilsige gave eller anden fordel, såvel som den, der yder, lover eller tilbyder en sådan gave eller anden fordel".
 
@@ -512,17 +557,15 @@ Se endvidere dommen i **JD 1943.121** Om statsbanefunktionærs urigtige opgørel
 
 ---
 
-Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb og salg af vin havde i tiden fra efteråret 1969 til foråret 1971 ladet sig tilsige agentprovision fra forskellige udenlandske vinleverandører, hvilket holdtes skjult for selskabet. Af provisionsbeløbene, som i alt androg godt ½ mio. kr., havde han inden forholdet blev afsløret oppebåret godt 200.000 kr. Fængsel i 4 måneder efter straffelovens § 299, stk. 2, der navnlig efter det om de personlige forhold oplyste og henset til den lange tid, der var forløbet siden de strafbare handlingers foretagelse, blev gjort betinget. Nettoudbytte på 200.000 kr. konfiskeret. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000211376/1**
+Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for køb og salg af vin havde i tiden fra efteråret 1969 til foråret 1971 ladet sig tilsige agentprovision fra forskellige udenlandske vinleverandører, hvilket holdtes skjult for selskabet. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000211376/1**
 
 
 
 ---
 
 ## Video om fuldmagtens grænser
-*Udarbejdet af Horten Advokatpartnerskab*
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/08Bm3t_CR9s" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/08Bm3t_CR9s" target="_blank"> Videoen Klik her!</a>**
 
 ---
 
@@ -568,9 +611,10 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 
 ---
 
-## Video om sådan laver du selv en Fuldmagt**
+## Video om sådan laver du selv en Fuldmagt
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/oeIre44pjQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/oeIre44pjQU" target="_blank">Videoen  Klik her!</a>**
+
 
 ---
 
@@ -662,6 +706,7 @@ Fuldmægtigen er dog ansvarsfri, såfremt 3. mand vidste eller burde vide, at fu
 
 
 ---
+
 
 ## Quiz om fuldmagt og mellemmænd
 

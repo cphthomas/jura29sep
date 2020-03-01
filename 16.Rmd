@@ -6,17 +6,18 @@ cat(readLines('np.html'))
 
 ![](img/lon.jpg)
 
+---
 
+*Forståelsen af reglerne om fordringer, gældsbreve og pantebreve i gældsbrevsloven og tinglysningsloven er især anvendelig for dig der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter.*
+
+---
 
 Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og *Lars Hedegaard Kristensen og Henrik Kure*: Elektroniske Karnovkommentar til gældsbrevsloven].
 
 ---
 
-Se **gældsbrevsloven** (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”) i lovsamlingen, se kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**  
-
----
-
-**Gældsbreve og andre fordringer bliver behandlet i kap. 12 i "Erhvervsjura"**
+Se **gældsbrevsloven** (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”).
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -118,9 +119,10 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
   
 ---
 
-## Video om hvad er obligationer?
+## Video om hvad er obligationer
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/W8DnSJmntmY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  '
+
+**<a href="https://www.youtube.com/embed/W8DnSJmntmY">Videoen klik her!</a>**
 
 
 ---
@@ -239,21 +241,23 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-## Video om hvordan laver jeg et gældsbrev?
+## Video om hvordan laver jeg et gældsbrev
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/8ufuecp-wXA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/8ufuecp-wXA">Videoen klik her!</a>**
 
 ---
 
 ## Video om at oprette et gældsbrev online
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/J88adaVemVQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/J88adaVemVQ">Videoen klik her!</a>**
+
 
 ---
 
 ## Video om hvordan du laver en låneaftale
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/PPqd-fYRCg0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/PPqd-fYRCg0">Videoen klik her!</a>**
+
 
 ---
 
@@ -366,14 +370,13 @@ Ej heller *tredjemands (misbrugerens) ansvar* er reguleret af betalingslovens re
 ![](img/fan.jpg)
 
 
-Se fx dommen i **U 2003.432 V**, fængsel i 6 måneder for pengefalsk: "T, født i 1944, blev fundet skyldig i pengefalsk ved ved hjælp af sin scanner at have eftergjort pengesedler til et samlet beløb af 11.750 kr. i den hensigt at bringe dem i omsætning. T havde anvendt nogle af pengesedlerne som betalingsmiddel eller medbragt sedler med henblik på at bringe dem i omsætning. Straffen fastsattes til fængsel i 6 måneder, der undtagelsesvis blev gjort betinget med vilkår om samfundstjeneste i 100 timer:
-**https://pro.karnovgroup.dk/document/7000260384/1**
+Se fx dommen i **U 2003.432 V**, fængsel i 6 måneder for pengefalsk.
+**<a href="https://pro.karnovgroup.dk/document/7000260384/1">Dommen klik her!</a>**
 
+---
 
-Samt 
-
-dommen i **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2: "36-årig T fandtes skyldig i hæleri efter straffelovens § 290 ved i juni 2001 at have modtaget 2 dankort med pinkode, uagtet han vidste eller bestemt formodede, at disse var stjålne. T begik herefter bedrageri efter straffelovens § 279 ved i løbet af 1 dag under brug af dankortene at have købt HT-rabatkort for 139.500 kr. Under henvisning til, at bedrageriforholdet drejede sig om misbrug af dankort, og navnlig til, at T på meget kort tid havde tilsvindlet sig et betydeligt beløb, henførtes forholdet under straffelovens § 286, stk. 2. T var flere gange tidligere straffet for berigelsesforbrydelser m.v., senest i december 2001 med fængsel i 4 måneder. Som tillægsstraf til denne straf idømtes T fængsel i 10 måneder. (Dissens med hensyn til strafudmålingen)":
-**https://pro.karnovgroup.dk/document/7000259305/1**
+Dommen i **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under straffelovens § 286, stk. 2.
+**<a href="https://pro.karnovgroup.dk/document/7000259305/1">Dommen klik her!</a>**
 
 ---
 
@@ -537,11 +540,12 @@ Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af
 
 Om uagtsomhed ved brugen af *Nemid*:
 
-Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån optaget af en anden ved misbrug af kvindens NemID: "En svensk bank, I, anlagde sag mod kvinden S med påstand om betaling af godt 33.000 kr., idet der elektronisk var optaget et lån over nettet ved brug af S’ NemID. S påstod frifindelse, idet hun forklarede, at hun ikke havde optaget lånet, og at det måtte være optaget af en ven ved misbrug af hendes NemID, idet vennen havde problemer med stoffer og en narkogæld, og vennen havde i en periode opholdt sig i hendes lejlighed, også når hun ikke var hjemme. S forklarede endvidere, at hun havde nøglekortet i sin pung, og hun havde gemt koden til NemID et sted i lejligheden, og vennen måtte så have affotograferet hendes NemID og afluret pinkoden. S havde meldt vennen til politiet. S blev frifundet i byretten, der lagde til grund, at lånet ikke var optaget af S, og byretten fandt, at S ikke havde optrådt uagtsomt, således at hun af denne grund hæftede for lånet. I ankede dommen til landsretten, hvor S påstod stadfæstelse og i øvrigt gjorde gældende, at I, der var en filial af en svensk bank, ikke havde partsevne og proceshabilitet. Dette fik S ikke medhold i. Landsretten tiltrådte, at det kunne lægges til grund, at lånet ikke var optaget af S, men ved tredjemands brug af hendes NemID. Vedrørende spørgsmålet om S var aftaleretligt forpligtet i det foreliggende tilfælde, hvor en tredjemand havde misbrugt hendes digitale signatur, fandt landsretten, at S - efter oplysningerne om opbevaringen af koden til NemID og nøglekortet sammenholdt med vennens ophold i lejligheden, også når S ikke var hjemme - ikke havde gjort, hvad der var muligt for at hindre, at andre kunne komme i besiddelse af oplysningerne om hendes digitale signatur. S havde derfor udvist en sådan grad af uagtsomhed, at hun hæftede for låneoptagelsen på aftaleretligt grundlag, selv om underskriften ikke var foretaget digitalt af S": **https://pro.karnovgroup.dk/document/7000838249/1**
+Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån optaget af en anden ved misbrug af kvindens NemID.
+**<a href="https://pro.karnovgroup.dk/document/7000838249/1">Dommen klik her!</a>**
 
 ---
 
-**Quiz om betalingskort** 
+## Quiz om betalingskort 
 
 ![](img/kort.jpg)
 
@@ -819,18 +823,17 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 
 ---
 
-## Video om hvad er factoring?
+## Video om hvad er factoring
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/zNxALT0w14U" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/zNxALT0w14U">Videoen klik her!</a>**
 
 
 ---
 
 *Specielt om udlæg i dankort-betalinger:*
 
-Udlæg kan foretages i dankort-betalinger. Se dommen i **U 2000.715 Ø**, hvor en pantefoged havde foretaget udlæg for et skattekrav hos en forretningsindehaver: **https://pro.karnovgroup.dk/document/7000196241/1**  
-
+Udlæg kan foretages i dankort-betalinger. Se dommen i **U 2000.715 Ø**, hvor en pantefoged havde foretaget udlæg for et skattekrav hos en forretningsindehaver.
+**<a href="https://pro.karnovgroup.dk/document/7000196241/1">Dommen klik her!</a>**
 
 ---
 
@@ -897,21 +900,19 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ## Videoer om gældsbrevsloven
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/4SY6YPbY2YY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/4SY6YPbY2YY">Videoen klik her!</a>**
 
 
 ---
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/uODiLMSn3kg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/uODiLMSn3kg">Videoen klik her!</a>**
+
 
 ---
 
 ## Video om gældsbreve
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/nC3Sy7tBCaY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/nC3Sy7tBCaY">Videoen klik her!</a>**
 
 
 ---
@@ -1181,8 +1182,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ## Video om overdragelse af fordringer
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/NqakMVHBPw4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/NqakMVHBPw4">Videoen klik her!</a>**
 
 ---
 
@@ -1307,9 +1307,8 @@ For en nærmere gennemgang af det oprindelige trepartsforhold, jf. kreditaftalel
 
 ## Video om debitor- og kreditorskifte
 
-*Udarbejdet af Advokatpartnerskabet Horten*
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/B9dSq8QSHp0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/B9dSq8QSHp0">Videoen klik her!</a>**
 
 ---
 
@@ -1387,7 +1386,8 @@ Om *"simpel kaution"* se afsnit 15.8: **https://jura.tepedu.dk/kautionsforhold.h
 
 ## Video om at slå op i bilbogen
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/jS9HN8OxvgI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/jS9HN8OxvgI">Videoen klik her!</a>**
+
 
 ---
 
@@ -2514,13 +2514,13 @@ Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette m
 
 ## Video om digital tinglysning af underskrift på dokumenter og skøde
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/CBUM8aybRQU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/CBUM8aybRQU">Videoen klik her!</a>**
 
 ---
 
 ## Video om at forstå tinglysning på 45 sekunder
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/6Spl32wXXco" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/6Spl32wXXco">Videoen klik her!</a>**
 
 
 ---
@@ -2624,7 +2624,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 ## Video om tingbogens historie overgangen fra realregistrene til digital registrering
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/2EwMrDiABD8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/2EwMrDiABD8">Videoen klik her!</a>**
 
 ---
 
@@ -2989,8 +2989,8 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 - Modregning kan ikke ske, hvis skyldnerens krav mod fordringshaveren er erhvervet under sådanne omstændigheder, at erhvervelsen i forbindelse med modregning må sidestilles med en omstødelig betaling - jf. KL § 42 stk. 4.
 
 
----
 
+---
 
 
 

@@ -13,6 +13,12 @@ cat(readLines('np.html'))
 
 ---
 
+
+*Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter.*
+
+
+---
+
 *Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:*
 
 *Kautionsformer især sondringen mellem simpel og selvskyldnerkaution*
@@ -22,11 +28,6 @@ cat(readLines('np.html'))
 *Oplysning til kautionisterne i lov om finansiel virksomhed (FIL) § 47 og 48 i forbindelse med hoveddebitors misligholdelse af betaling*
   
 *Kautionisternes hæftelse og indbyrdes regres*
-
----
-
-**Kaution bliver behandlet i kap. 16 i "Erhvervsjura"**
-
 
 ---
 
@@ -979,7 +980,7 @@ På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk
 
 ---
   
-## Hvis kautionisten dør?
+## Hvis kautionisten dør
 
   <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1114,6 +1115,10 @@ Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der n�
 
 ---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
+
 ## Eksamensopgave 15.2.
 
 
@@ -1245,7 +1250,9 @@ Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbet
 
 7. Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
 
+---
 
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1483,6 +1490,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 -	Fordeles hæftelsen foreløbigt forholdsmæssigt på de øvrige – GBL § 2, stk. 2, jf. GBL § 61.
 
 -	Når kautionisten kan betale eller findes kan de øvrige kautionister opkræve den del, de har udlagt på denne kautionists vegne. 
+
 
 ---
 

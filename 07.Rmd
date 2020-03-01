@@ -5,8 +5,11 @@ cat(readLines('np.html'))
 ```
 
 
+---
 
+*Erstatningsreglerne anvendes i og uden for kontrakt i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med økonomisk tab, skader og mangler ved rådgivningen mv. overfor kunder og klienter.*
 
+---
 
 
 *Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsansvaret og den forsikringsmæssige dækning i forhold til eksamen i Erhvervs- og Finansjura:*
@@ -24,22 +27,19 @@ cat(readLines('np.html'))
 
 ---
 
-**Erstatningsretten bliver behandlet i kap. 5 i "Erhvervsjura"**.
+**Erstatningsretten bruges også i faget "Privatøkonomisk rådgivning på finansøkonomuddannelsen**
 
 ---
 
 ## Video om introduktion til erstatningsretten
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/aUJNx9bEge4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/aUJNx9bEge4" target="_blank">Introduktionen klik her!</a>**
 
 ---
 
 ## Erstatningsansvar uden en lovgivning
 
-Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt min bog "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel, se nærmere Biblioteket: **https://jura.tepedu.dk/bibliotek-premium.html**.]
+Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt min bog "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel **<a href="https://jura.tepedu.dk/bibliotek-premium.html" target="_blank">Se nærmere biblioteket klik her!</a>**.]
 
 ---
 
@@ -86,27 +86,25 @@ Brug af culpabegrebet brugt i praksis:
 Se følgende domme om erstatningsansvaret:  
 
 
-
-
-
 ![](img/Foldbold.jpg)
 
 
-Se dommen *"FED 2012.2*: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig for DBU’s tab ved, at næste landskamp blev flyttet til en mindre  bane samt ved betaling af bøde til UEFA (1.869.269 kr. plus renter). Der forelå ikke egen skyld eller anledning til at reducere ansvaret efter EAL (erstatningsansvarsloven) § 24. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000506917/1**
+Se dommen *"FED 2012.2*: Landsretten fandt, at en tilskuer, der ved strafbar handling løb ind på fodboldbane og afbrød landskamp, var erstatningsansvarlig over for DBU.
+**<a href="https://pro.karnovgroup.dk/document/7000506917/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 <img src="img/carbroken.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen  lyste og uagtet, at han kort forinden med få dages mellemrum havde været nødsaget til at påfylde olie og vand.(Utrykt). Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000376722/1**
-
+Se dommen i **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen lyste.. 
+**<a href="https://pro.karnovgroup.dk/document/7000376722/1" target="_blank">Dommen klik her!</a>**
 
 <img src="img/cig.jpg" align="left" width="12%" height="12%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
-Se dommen **U 2015.572 H**: Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000720888/1**
+Se dommen **U 2015.572 H**: Tobaksselskaber ikke ansvarlige for varigt mén som følge af mangeårigt forbrug af cigaretter. 
+**<a href="https://pro.karnovgroup.dk/document/7000720888/1" target="_blank">Dommen klik her!</a>**
 
 ---     
 
@@ -114,7 +112,8 @@ Man er kun erstatningsansvarlig for skader, der kan gøres op i penge (økonomis
 
 Ved tingsskader vil det være værdien af eller reparation af det ødelagte. 
 
-Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (forkortet; EAL), se **erstatningsansvarsloven** i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+Ved personskader bliver det økonomiske tab beregnet efter reglerne i Lov om erstatningsansvar (forkortet; EAL), 
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Erstatningsansvarsloven se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -126,18 +125,22 @@ Se følgende domme, hvor der idømmes erstatningsansvar i forskellige situatione
 
 <img src="img/golf.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2012.3:** "A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000506918/1**
-
+Se dommen i **FED 2012.3:** "A, der sad uden for golfbanens cafeteria, blev ramt i hovedet af golfbold, da B – som deltager i en polterabend – under golfspil kom til at slå bolden for langt. B, der kun én gang tidligere havde prøvet at spille golf og ikke havde modtaget undervisning heri, fandtes erstatningsansvarlig".
+**<a href="https://pro.karnovgroup.dk/document/7000506918/1" target="_blank">Dommen klik her!</a>**
 
 
 <img src="img/sovn.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen **FED 2009.114:**^[FED: Forsikring og Erstatningsretlig Domsamling.] En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. Hun blev idømt en fængselsstraf på 10 måneder, men hendes kørsel kunne ikke karakteriseres som særlig hensynsløs, hvorfor afdødes ægtefælle ikke havde krav på godtgørelse i medfør af EAL § 26 a. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000477953/1**
+Se dommen i **FED 2009.114:**^[FED: Forsikring og Erstatningsretlig Domsamling.] En kvinde, som faldt i søvn som fører af en bil, påkørte og dræbte en modkørende bilist. 
+**<a href="https://pro.karnovgroup.dk/document/7000477953/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **FED 2008.1:** <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. Ikke grundlag for at nedsætte erstatningen som følge af egen skyld eller accept af risiko:
-"Under en kvindelig polterabend skulle den mandlige stripteasedanser B optræde for deltagerne. B havde tilrettelagt sit show således, at han optrådte på gulvet foran A, der var placeret på en stol. På gulvet under stolen havde B lagt sin kappe, hvori befandt sig et såkaldt konfettirør. På et tidspunkt, hvor B sad på A, tog han røret frem, hvorefter han satte sig på gulvet og affyrede konfettirøret. En prop røg ud fra røret og ramte A i øjet med varig skade til følge. A krævede erstatning af B og gjorde gældende, at B var ansvarlig efter en skærpet culpanorm, herunder præsumptionsansvar; subsidiært almindelig culpa. B gjorde gældende, at hans ansvar skulle bedømmes som et almindeligt culpaansvar, og han bestred, at der var et ansvarsgrundlag. B gjorde endvidere gældende, at A havde udvist egen skyld og acccepteret risikoen ved at deltage i arrangementet. Der var endvidere uenighed mellem parterne om bl.a. årsagsforbindelse og passivitet. Efter bevisførelsen og uden nærmere tekniske beskrivelser af konfettirøret fandt byretten, at A ikke havde godtgjort, at B havde handlet culpøst. Det kunne endvidere ikke afvises, at der forelå egen skyld ved, at A havde reageret på en anden måde en forventeligt, da B på forskriftsmæssig måde affyrede røret. B blev derfor frifundet. A ankede dommen til landsretten, hvor der blev gennemført syn og skøn vedrørende konfettirøret. Det var skønsmandens opfattelse, at et gitter, der kunne have forhindret proppen i at flyve med konfettien ud af røret, ikke havde været monteret i det pågældende rør. Et sådant gitter var tilsyneladende først indført i produktionen på et senere tidspunkt. A forklarede, at hun ikke havde været klar over, at der var arrangeret striptease, før B trådte ind i stuen. B forklarede bl.a., at der ikke var sikkerhedsinstrukser om anvendelse af røret. Landsretten fandt det påregneligt, at der er en vis risiko ved, at man retter konfettirøret mod en person, når det affyres. Det var derfor anført på røret, at det skulle holdes sådan, at det ikke sigtede mod nogen. B havde tilrettelagt sit show således, at han siddende på gulvet foran A som et effektfuldt indslag affyrede konfettirøret, som han først på et tidspunkt tog frem. Landsretten fandt, at det i den situation påhvilede B at sikre sig, at røret blev holdt således, at det ikke var rettet mod nogen. Der var ikke grundlag for at antage, at A, der sad på en stol lige foran B, ved en upåregnelig bevægelse selv havde medvirket til, at skaden opstod. Under disse omstændigheder fandt landsretten det bevist, at B havde handlet culpøst ved at affyre konfettirøret. B blev derfor dømt til at anerkende, at han var ansvarlig for den skade, der var overgået A". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000382215/1**
+Se dommen i **FED 2008.1:** <img src="img/stripper2.jpg" align="left" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>  En mandlig stripteasedanser B ansvarlig for øjenskade på deltager A i kvindelig polterabend, da B affyrede konfettirør. 
+**<a href="https://pro.karnovgroup.dk/document/7000382215/1" target="_blank">Dommen klik her!</a>**
+
+
+
 
 <br><br><br><br>
 
@@ -155,21 +158,25 @@ Man skal heller ikke erstatte noget.
 
 Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
 
+---
+
 Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om hændelige skader:
 
 ---   
 
 ![](img/kap3.jpg)
 
-Se dommen i **U 1961.167 H**: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000214033/1**
+Se dommen i **U 1961.167 H**: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar. 
+**<a href="https://pro.karnovgroup.dk/document/7000214033/1" target="_blank">Dommen klik her!</a>**
+---
+
+Se dommen i **FED 1998.584:** Ejeren af sommerhus til udlejning havde ikke pådraget sig erstatningspligt ved, at en lejers barn kom til skade, da et sofabord, der var en del af sommerhusets møblement, væltede. 
+**<a href="https://pro.karnovgroup.dk/document/7000328756/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **FED 1998.584:** Ejeren af sommerhus til udlejning havde ikke pådraget sig erstatningspligt ved, at en lejers barn kom til skade, da et sofabord, der var en del af sommerhusets møblement, væltede. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000328756/1**
-
----
-
-Se dommen i **FED 2019.04:** A kom til skade til en julefrokost, da hun faldt som følge af, at dansegulvet var vådt. Det var dokumenteret, at gulvet ikke i sig selv var glat, at det var blevet vasket i løbet af aften og forud for uheldet, og at det var første gang arbejdsgiveren afholdt julefrokost i lokalet. På denne baggrund fastslog landsretten, at det forhold, at nogle festdeltagere spildte drikkevarer på gulvet, ikke kunne føre til, at arbejdsgiveren havde handlet uforsvarligt. B blev derfor frifundet. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000835745/1**
+Se dommen i **FED 2019.04:** A kom til skade til en julefrokost, da hun faldt som følge af, at dansegulvet var vådt. Det var dokumenteret, at gulvet ikke i sig selv var glat, at det var blevet vasket i løbet af aften og forud for uheldet, og at det var første gang arbejdsgiveren afholdt julefrokost i lokalet. På denne baggrund fastslog landsretten, at det forhold, at nogle festdeltagere spildte drikkevarer på gulvet, ikke kunne føre til, at arbejdsgiveren havde handlet uforsvarligt. B blev derfor frifundet. 
+**<a href="https://pro.karnovgroup.dk/document/7000835745/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -191,6 +198,8 @@ Se **Ankenævnskendelse i sagsnr.: 51.809**: 8-årigt barn faldt over egne ben o
 
 Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Værten har derfor ikke krav på erstatning fra gæsten. 
 
+---
+
 Som vært må man altså acceptere, at der er en vis risiko, når man har nogen på besøg.
 
 Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader alligevel, selv om der ikke er noget ansvar for gæsten efter domstolspraksis. 
@@ -205,11 +214,13 @@ Hvs gæsten smadder værtens indbo i vrede, så er der selvfølgelig ikke tale o
 
 ---
 
-Se dommen i **FED 2003.1091:** Hønseejer var ikke ansvarlig for cyklists tilskadekomst, da cykel på landevej ramte fritgående høne. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000329678/1**
+Se dommen i **FED 2003.1091:** Hønseejer var ikke ansvarlig for cyklists tilskadekomst, da cykel på landevej ramte fritgående høne. 
+**<a href="https://pro.karnovgroup.dk/document/7000329678/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen **U 2013.84 V:** Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende. Se her link til hele dommen her: **https://pro.karnovgroup.dk/document/7000521782/1**
+Se dommen **U 2013.84 V:** Motionscyklist, der sammen med andre cyklister kørte i en gruppe, og som efter at være kommet ud i rabatten prøvede at komme op på vejen igen, hvorved han væltede, og der skete sammenstød med bagfrakommende cyklister, havde ikke handlet ansvarspådragende. 
+**<a href="https://pro.karnovgroup.dk/document/7000521782/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -231,7 +242,8 @@ Se her følgende domsafgørelser:
 
 <img src="img/dormand.jpg" align="right" width="20%" height="20%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2016.122:** Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000779860/1**
+Se dommen i **FED 2016.122:** Diskotek erstatningsansvarlig for personskade opstået ved, at diskotekets dørmand gik ud over det nødvendige og forsvarlige ved at skubbe eller kaste skadelidte ud af diskotekets dør. 
+**<a href="https://pro.karnovgroup.dk/document/7000779860/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -268,12 +280,14 @@ For at kunne få erstatning fra en skadevolder skal skadelidte ifølge retspraks
 
 *	Der er påregnelighed ("*adækvans*") mellem skaden og tabet, dvs., at skadevolder burde kunne forudse, at skaden ville ske.  En skadevolder er ikke erstatningsansvarlig for upåregnelige, atypiske følger af sine handlinger.
 
+---
+
 Kan skadelidte ikke bevise det, er det ikke muligt at få erstatning fra en skadevolder eller dennes ansvarsforsikring, se følgende dom:
 
 ---     
 
-Se dommen i **FED 2007.111:** Forsikringstager havde ikke dokumenteret, at der var årsagsforbindelse mellem nogle anførte lidelser og et færdselsuheld. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000390950/1**
-
+Se dommen i **FED 2007.111:** Forsikringstager havde ikke dokumenteret, at der var årsagsforbindelse mellem nogle anførte lidelser og et færdselsuheld. 
+**<a href="https://pro.karnovgroup.dk/document/7000390950/1" target="_blank">Dommen klik her!</a>**
 
 ---     
 
@@ -287,10 +301,6 @@ I visse tilfælde kan man også blive erstatningsansvarlig for sine undladelser.
 Det sker oftest i situationer, hvor der er pligt til at handle. 
 
 Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der ikke holder øje med deres børn.
-
----
-
-Se dommen i **U 2019.1382 V**, hvor en spiludbyder havde handlet ansvarspådragende over for spiller og skulle erstatte tab, der skønsmæssigt blev fastsat til 1.200.000 kr.: "A oprettede i 2010 en spilkonto hos en spiludbyder, U, der lukkede kontoen den 2. september 2013. I en sag anlagt af A mod U om erstatning for det tab, A havde lidt ved at spille, blev det lagt til grund, at spilkontoen blev lukket, da A selv havde givet udtryk for, at han led af ludomani. A forklarede, at han ret tidligt i forløbet havde fortalt, at han havde fået en erstatning som følge af en arbejdsskade, og at han også fortalte om sine psykiske problemer. Det blev lagt til grund, at der siden sommeren 2012 havde været en tæt og løbende kontakt mellem A og en ansat i U, og A havde i en mail af 7. september 2012 anført, at han indtil videre havde spillet for ca. 1,5 mio. kr. hos U. Den 11. oktober 2012 skrev han bl.a., at han ikke helt hyggede sig med at spille længere, men at det nu var lidt mere desperation for at prøve at vinde lidt af det tabte tilbage. Hans spilforbrug steg i perioden fra juni 2012 til november 2012 fra 0 kr. om måneden til 428.000 kr. om måneden. Fra maj 2012 til november 2012 forhøjede A flere gange sin grænse for indbetaling på sin spilkonto, som var 100 kr. i maj 2012 og 600.000 kr. i november 2012. Landsretten fandt under disse omstændigheder, at U i hvert fald omkring oktober 2012 burde have indset, at der var en betydelig risiko for, at A havde et alvorligt spilproblem, og at U burde have iværksat foranstaltninger med henblik på at søge dette afklaret og i givet fald fx. have taget yderligere skridt til at søge at motivere ham til at anvende forskellige beskyttelsesforanstaltninger, som kunne medvirke til at begrænse hans spil og eventuelt i sidste ende lukke spilkontoen. U havde ikke taget sådanne initiativer, og kundeforholdet og kontakten til A var fortsat efter oktober 2012 i det væsentlige uændret, herunder med løbende tildeling af forskellige former for bonus, der var med til at fastholde A i sit spil. U fandtes herefter i perioden fra oktober 2012 og indtil kontoens lukning at have handlet ansvarspådragende over for A og skulle erstatte det lidte tab. Efter oplysningerne om A’s spilforbrug i denne periode, og da der var den fornødne årsagssammenhæng, blev erstatningen skønsmæssigt fastsat til 1.200.000 kr.". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000834034/1**
 
 ---
 
@@ -309,12 +319,14 @@ Se her nævnte domme:
 
 
 
-Se dommen i **U 2012.524 H:** A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. "Begivenhedsforløbet vedrørte en følelsesladet drøftelse i plenum af A’s sygdomsfravær, som ifølge A endte med, at hun i overværelse af sine kollegaer reelt blev fyret. K bestred ikke, at A var blevet påført en psykisk skade som følge af begivenhedsforløbet, og parterne var enige om opgørelsen af godtgørelseskravet. Højesteret udtalte bl.a., at udtrykket “personskade” i erstatningsansvarslovens § 1 må forstås i overensstemmelse med dansk rets almindelige erstatningsregler, og den psykiske skade, som A var blevet påført, var omfattet af bestemmelsen. Højesteret fandt endvidere, at personaleweekenden i forhold til A blev afviklet på en uforsvarlig måde, og at dette var ansvarspådragende for K som arbejdsgiver. Den uforsvarlige afvikling af personaleweekenden medførte en betydelig forøgelse af risikoen for en psykisk skade hos en medarbejder, som ledelsen må have forstået befandt sig i en psykisk anspændt situation, og Højesteret fandt, at A’s psykiske skade var en påregnelig følge. A var direkte skadelidt som følge af den ansvarspådragende adfærd, og der var ikke grundlag for at anse den psykiske skade for at falde uden for, hvad der var omfattet af kommunens erstatningspligt. K skulle herefter betale 50.000 kr. til A for svie og smerte. Landsretten havde frifundet K". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000506494/1**
+Se dommen i **U 2012.524 H:** A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. 
+**<a href="https://pro.karnovgroup.dk/document/7000506494/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 
-**U 2010.1609 H:** Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring: Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000438162/1**
+Se dommen i **U 2010.1609 H:** Psykisk personskade anset for omfattet af ulykkesbegrebet i ulykkesforsikring: 
+**<a href="https://pro.karnovgroup.dk/document/7000438162/1" target="_blank"Dommen >klik her!</a>**
 
 ---
 
@@ -324,13 +336,16 @@ Ved simpelt uagtsomhed (latin; *culpa levis*), har skadevolder handlet mere skø
 
 Simpel uagtsomhed er en uagtsomhed, som ikke kan betegnes som grov. 
 
+---
+
 Culpareglen omfatter som hovedregel begge former for uagtsomhed.
 
 Forsikringsankenævnet og domstolene foretager et konkret skøn, om skadevolder har handlet simpelt uagtsomt. 
 
 ---
 
-Se dommen i **FED 2019.35**. Cyklist erstatningsansvarlig for fodgængers tilskadekomst ved sammenstød, da cyklisten burde have tilpasset sin hastighed og placeret sig således på stien, at påkørsel kunne undgås. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000844867/1**
+Se dommen i **FED 2019.35**. Cyklist erstatningsansvarlig for fodgængers tilskadekomst ved sammenstød, da cyklisten burde have tilpasset sin hastighed og placeret sig således på stien, at påkørsel kunne undgås. 
+**<a href="https://pro.karnovgroup.dk/document/7000844867/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -344,8 +359,8 @@ Se følgende sager fra retspraksis og Forsikringsankenævnet, om spørgsmålet, 
 
 ![](img/ild.jpg)
 
-Se dommen i **U 1915.242 H**: (Uagtsom Brandstiftelse). "En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000764552/1**
-
+Se dommen i **U 1915.242 H**: (Uagtsom Brandstiftelse). "En Tiltalt færdedes en Nat i et straatækket Udhus, hvor der henlaa Fourage og Halm, med en to Tommer lang; Lysestump, som han under sit Ophold i Udhuset tændte. Under sit Ophold i Udhuset røg han derhos Cigaret. Umiddelbart efter at Tiltalte havde forladt Udhuset, viste det sig, at der var Ild i dette, der nedbrændte. Antaget, at Tiltalte havde foraarsaget Ilden, og at der forelaa Tilsidesættelse af almindelig Forsigtighed". 
+**<a href="https://pro.karnovgroup.dk/document/7000764552/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -385,65 +400,77 @@ Se her nævnte domme og ankenævnsafgørelser:
 
 ![](img/auk.jpg)
 
-Se dommen i **U 1998.1693 H:** Opbevaring af nøglen til sikringsboksen i et auktionshus på et kontor i samme bygning var grov uagtsomhed. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000204274/1**
+Se dommen i **U 1998.1693 H:** Opbevaring af nøglen til sikringsboksen i et auktionshus på et kontor i samme bygning var grov uagtsomhed. 
+**<a href="https://pro.karnovgroup.dk/document/7000204274/1" target="_blank">Dommen klik her!</a>**
+
 
 ![](img/fald.jpg)
 
-Se dommen i **U 1999.1706 H** Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000196767/1**
+Se dommen i **U 1999.1706 H** Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed. 
+**<a href="https://pro.karnovgroup.dk/document/7000196767/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 <img src="img/baggage.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **U 1993.955 V** Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000200954/1**
+Se dommen i **U 1993.955 V** Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen. 
+**<a href="https://pro.karnovgroup.dk/document/7000200954/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 <img src="img/fireplace.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2013.9** Den 16-årige A ville ved ungdomsfest hjælpe værtinden med at tænde op i en udendørs pejs. I den forbindelse hældte han væske fra en dunk, som også værtinden havde benyttet i sit forsøg på at tænde op i pejsen, direkte ind i pejsen. Herved slog ilden tilbage og antændte A’s tøj samt dunken, som han i panik kastede fra sig. Den brændende dunk ramte en trækonstruktion og huset nedbrændte. Det viste sig, at væsken var benzin. Landsretten fandt, at A havde handlet groft uagtsomt, hvorfor hans ansvar ikke bortfaldt i medfør af erstatningsanvarslovens (EAL) § 19. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000534907/1**
+Se dommen i **FED 2013.9** Den 16-årige A ville ved ungdomsfest hjælpe værtinden med at tænde op i en udendørs pejs. I den forbindelse hældte han væske fra en dunk, som også værtinden havde benyttet i sit forsøg på at tænde op i pejsen, direkte ind i pejsen. Herved slog ilden tilbage og antændte A’s tøj samt dunken, som han i panik kastede fra sig. Den brændende dunk ramte en trækonstruktion og huset nedbrændte. Det viste sig, at væsken var benzin. Landsretten fandt, at A havde handlet groft uagtsomt, hvorfor hans ansvar ikke bortfaldt i medfør af erstatningsanvarslovens (EAL) § 19. 
+**<a href="https://pro.karnovgroup.dk/document/7000534907/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 <img src="img/brand.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2010.93:** Forsikringsselskab fik ikke medhold i, at en 13-årig dreng udviste grov uagtsomhed da han startede en bygningsbrand ved at tænde en lighter samtidig med, at en kammerat to meter derfra hældte benzin på en knallert. Tillagt betydning bl.a., at benzindampe har en forholdsvis svag lugt og løber langs gulvet, og at der er store individuelle forskelle på menneskers lugtesans. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000497550/1**
+Se dommen i **FED 2010.93:** Forsikringsselskab fik ikke medhold i, at en 13-årig dreng udviste grov uagtsomhed da han startede en bygningsbrand ved at tænde en lighter samtidig med, at en kammerat to meter derfra hældte benzin på en knallert. Tillagt betydning bl.a., at benzindampe har en forholdsvis svag lugt og løber langs gulvet, og at der er store individuelle forskelle på menneskers lugtesans. 
+**<a href="https://pro.karnovgroup.dk/document/7000497550/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **FED 2001.2121:** Passager, som blev dræbt under bilkørsel med beruset fører, fandtes at have handlet groft uagtsomt, hvorfor hans livsarvinger ikke var berettiget til dødsfaldsdækning fra ulykkesforsikring. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000329307/1**
+Se dommen i **FED 2001.2121:** Passager, som blev dræbt under bilkørsel med beruset fører, fandtes at have handlet groft uagtsomt, hvorfor hans livsarvinger ikke var berettiget til dødsfaldsdækning fra ulykkesforsikring. 
+**<a href="https://pro.karnovgroup.dk/document/7000329307/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 
 <img src="img/bilramt.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2001.2255:** Bilist, som kørte ud foran tog i jernbaneoverskæring uden at være opmærksom på lys- og lydsignaler, havde handlet groft uagtsomt. DSB var derfor berettiget til at reducere personskadeerstatningen med 1/3. se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000329214/1**
+Se dommen i **FED 2001.2255** Bilist, som kørte ud foran tog i jernbaneoverskæring uden at være opmærksom på lys- og lydsignaler, havde handlet groft uagtsomt. DSB var derfor berettiget til at reducere personskadeerstatningen med 1/3. 
+**<a href="https://pro.karnovgroup.dk/document/7000329214/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 
 <img src="img/rulle.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 1998.224:** 16-årig rulleskøjteløber havde udvist grov uagtsomhed ved at køre ud på kørebanen foran bil. Under henvisning til alder, til at handlingen var udført i kådhed samt til områdets karakter, fandtes der dog ikke grundlag for at nedsætte personskadeerstatningen. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000328750/1**
+Se dommen i **FED 1998.224:** 16-årig rulleskøjteløber havde udvist grov uagtsomhed ved at køre ud på kørebanen foran bil. Under henvisning til alder, til at handlingen var udført i kådhed samt til områdets karakter, fandtes der dog ikke grundlag for at nedsætte personskadeerstatningen. 
+**<a href="https://pro.karnovgroup.dk/document/7000328750/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 <img src="img/container.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2018.01 Ø.L.D. af 11. januar 2018. Sag: 20. afd. nr. B-583-17:** Den 14-årige A satte ild til papir i en affaldscontainer i en skolegård og forlod herefter stedet med den 13-årige B, der forholdt sig passivt til A's aktiviteter. Skolen brændte, og forsikringsselskabet F afholdt skadeudgifter på over 10 mio. kr. F gjorde regres med krav på 3 mio. kr. over for A og B. A fandtes at have handlet groft uagtsomt, men erstatningen blev reduceret til 1 mio. kr. efter EAL § 24a. B havde ikke handlet groft uagtsomt og blev derfor frifundet. [Processbevilingsnævnet har givet tilladelse til anke til Højesteret]. Se link til dommen her: **https://pro.karnovgroup.dk/document/7000814837/1**
+Se dommen i **FED 2018.01 Ø.L.D. af 11. januar 2018. Sag: 20. afd. nr. B-583-17:** Den 14-årige A satte ild til papir i en affaldscontainer i en skolegård og forlod herefter stedet med den 13-årige B, der forholdt sig passivt til A's aktiviteter. Skolen brændte, og forsikringsselskabet F afholdt skadeudgifter på over 10 mio. kr. F gjorde regres med krav på 3 mio. kr. over for A og B. A fandtes at have handlet groft uagtsomt, men erstatningen blev reduceret til 1 mio. kr. efter EAL § 24a. B havde ikke handlet groft uagtsomt og blev derfor frifundet. 
+**<a href="https://pro.karnovgroup.dk/document/7000814837/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 *Uagtsomhedsbegrebet* findes også i straffeloven:
 
-Se dommen i **U 2019.2748 V** 3 års fængsel for bl.a. uagtsomt manddrab ved som fører af en personbil i spirituspåvirket tilstand og under særligt hensynsløs kørsel at have forvoldt 3 personers død. Godtgørelser til de efterladte i medfør af erstatningsansvarslovens § 26 a: T, født 1994, der var lettisk statsborger, blev fundet skyldig i overtrædelse af straffelovens § 241, 2. pkt., jf. 1. pkt., og § 249, 2. pkt., jf. 1. pkt., samt bestemmelser i færdselsloven ved, som fører af en personbil i spiritupåvirket tilstand og under særligt hensynsløs kørsel, at have påkørt en personbil og forvoldt 3 personers død, ligesom en fjerde person, K, pådrog sig betydelig skade på legeme eller helbred, herunder talrige ribbensbrud og forskudt brud på højre overarmsknogle og underarmsknogler. Byretten lagde til grund, at T havde kørt med en hastighed på mindst 137 km/t, hvor højest tilladte hastighed var 80 km/t, da han stødte sammen med den bil, der blev ført af F, og med tre passagerer, og at T havde overskredet vejens midterafmærkning med bilens venstre for- og baghjul. Vejens forløb og vejrforholdene måtte betegnes som gode, og T havde haft gode muligheder for at se den bil, som han stødte sammen med, længe inden sammenstødet skete. Under disse omstændigheder fandt byretten, at T’s kørsel kunne karakteriseres som hasarderet og var udtryk for, at T havde kørt med en stor grad af uagtsomhed/uansvarlighed. Hans alkoholpromille i blodet havde været på mindst 1,46. Når dette blev sammenholdt med, at han ikke havde erhvervet kørekort, og at han knap 2 år tidligere var straffet i Letland for spirituskørsel med en alkoholpromille i blodet på 1,03, forelå der fuldt tilstrækkeligt grundlag for at karakterisere hans kørsel som særligt hensynsløs (vanvidskørsel). Byretten fastsatte straffen til fængsel i 3 år. Han blev endvidere frakendt førerretten i 10 år og udvist af Danmark med indrejseforbud for bestandig. Anklagemyndigheden ankede dommen med påstand om skærpelse. T påstod formildelse. Ankesagen omfattede ikke spørgsmålet om udvisning. Landsretten fandt straffen passende fastsat til fængsel i 3 år og tiltrådte, at T var frakendt førerretten i 10 år. Landsretten anførte, at T’s uagtsomme manddrab af tre personer under de foreliggende særligt skærpende omstændigheder, hvor T havde gjort sig skyldig i spirituskørsel med karakter af vanvidskørsel, indebar, at de efterlevende var blevet påført en sådan lidelse og krænkelse, at de havde krav på godtgørelse i henhold til erstatningsansvarslovens § 26 a. A, der var henholdsvis ægtefælle og far til to af de afdøde, blev tilkendt en godtgørelse på 150.000 kr. K, der var henholdsvis datter og søster til de samme to afdøde, blev ligeledes tilkendt 150.000 kr. i godtgørelse. Endvidere blev forældrene til en af de afdøde tilkendt 150.000 kr. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000839976/1**
+Se dommen i **U 2019.2748 V** 3 års fængsel for bl.a. uagtsomt manddrab ved som fører af en personbil i spirituspåvirket tilstand og under særligt hensynsløs kørsel at have forvoldt 3 personers død. Godtgørelser til de efterladte i medfør af erstatningsansvarslovens § 26 a. 
+**<a href="https://pro.karnovgroup.dk/document/7000839976/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 Samt *forsætlig* findes i straffeloven, dvs. med vilje:
 
-Se dommen i **U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Endvidere udvisning for bestandig. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000838303/1**
+Se dommen i **U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Endvidere udvisning for bestandig. 
+**<a href="https://pro.karnovgroup.dk/document/7000838303/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -485,10 +512,8 @@ Skadevolderen er selvfølgelig også her erstatningsansvarlig.
 Hovedreglen er i dansk ret, at kun forsætlige forhold er strafbare, dog er der en vigtig undtagelse ved uagtsomt drab:
 
 Se straffelovens § 241: "Den, som uagtsomt forvolder en andens død, straffes med bøde eller fængsel indtil 4 måneder eller under særligt skærpende omstændigheder med fængsel indtil 8 år. Er forholdet begået i forbindelse med spirituskørsel, overtrædelse af færdselslovens § 54, stk. 1 eller 2, eller særligt hensynsløs kørsel, anses dette som en særligt skærpende omstændighed".
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Straffeloven klik her!</a>**
 
----
-
-Se **straffeloven** i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
 
 ---
 
@@ -528,9 +553,7 @@ Her et passende udtryk fra romerretten: *"res ipsa loquitur"*;	"tingene taler fo
 
 **Find retssager i UfR, som nærmere behandler grov uagtsomhed ved færdselsulykker.**
 
-Link til UfR (ugeskrift for Retsvæsen):
-
-**https://pro.karnovgroup.dk/journals/ufr**
+**<a href="https://pro.karnovgroup.dk/journals/ufr" target="_blank">Ugeskrift for Retsvæsen klik her!</a>**
 
 ---
 
@@ -542,13 +565,16 @@ I dansk ret kan der også gælde et såkaldt “*objektivt ansvar*”, hvorefter
 
 Med andre ord er der situationer, hvor man kan blive ansvarlig, selv om skaden sker ved et hændeligt uheld. 
 
+---
+
 Objektivt ansvar er bl.a. lovfæstet i produktansvarsloven, jernbaneloven, luftfartsloven, lov om drift af nukleare anlæg, søloven, hundeloven, færdselsloven og lov om formidling af fast ejendom.
 
 ---
 
 Se følgende dom over en ejendomsmægler:  
 
-Se dommen **FED 1997.92:** I medfør af (dagældende) lov om omsætning af fast ejendom § 24 (nu § 47) måtte en ejendomsmægler på objektivt grundlag godtgøre en forbruger (sælger) forskellen mellem det beregnede provenu og et korrekt beregnet provenu, selv om forskellen skyldtes en forkert oplysning om kursen på et lån fra et realkreditinstitut, som havde oplysningen fra Københavns Fondsbørs officielle kursliste. Se link til dommen: **https://pro.karnovgroup.dk/document/7000328732/1**
+Se dommen **FED 1997.92:** I medfør af (dagældende) lov om omsætning af fast ejendom § 24 (nu § 47) måtte en ejendomsmægler på objektivt grundlag godtgøre en forbruger (sælger) forskellen mellem det beregnede provenu og et korrekt beregnet provenu, selv om forskellen skyldtes en forkert oplysning om kursen på et lån fra et realkreditinstitut, som havde oplysningen fra Københavns Fondsbørs officielle kursliste. 
+**<a href="https://pro.karnovgroup.dk/document/7000328732/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -566,17 +592,19 @@ Se følgende domme:
 
 ![](img/byggeplads.jpg)
 
-Se dommen i **FED 2014.77:** Bygherre og entreprenører var erstatningsansvarlig for udgravnings- og funderingsarbejde, der gjorde mur på nabogrund ustabil med efterfølgende sammenstyrtning til følge. Ved sammenstyrtningen skete der skader på tilgrænsende ejendom, hvorved denne bygnings ejer blandt andet led et huslejetab. Murens ejer havde inden sammenstyrtningen accepteret, at muren kunne fjernes, hvorfor murens værdi ikke skulle erstattes. Sevlink til dommen: **https://pro.karnovgroup.dk/document/7000735002/1**
+Se dommen i **FED 2014.77:** Bygherre og entreprenører var erstatningsansvarlig for udgravnings- og funderingsarbejde, der gjorde mur på nabogrund ustabil med efterfølgende sammenstyrtning til følge. Ved sammenstyrtningen skete der skader på tilgrænsende ejendom, hvorved denne bygnings ejer blandt andet led et huslejetab. Murens ejer havde inden sammenstyrtningen accepteret, at muren kunne fjernes, hvorfor murens værdi ikke skulle erstattes. 
+**<a href="https://pro.karnovgroup.dk/document/7000735002/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **FED 2004.507:** Kommune og underentreprenør solidarisk ansvarlige for skade på nedgravede kabler, som under udboring til stikledninger blev ødelagt. Ligedeling af ansvaret i det indbyrdes forhold. Se link til dommen: **https://pro.karnovgroup.dk/document/7000328054/1**
+Se dommen i **FED 2004.507:** Kommune og underentreprenør solidarisk ansvarlige for skade på nedgravede kabler, som under udboring til stikledninger blev ødelagt. Ligedeling af ansvaret i det indbyrdes forhold. 
+**<a href="https://pro.karnovgroup.dk/document/7000328054/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 Lejeloven indeholder et objektiv ansvar for installationer, som kan finde analogt anvendelse på en andelshaver.
 
-Se dommen i **TBB2014.722**: Andelshaver ansvarlig efter analogi fra lejelovens § 29, stk. 10, overfor andelsboligforening for vandskade hidrørende fra vandtilslutning til vaskemaskine: "Andelshaveren A fik en bekendt til at installere en vaskemaskine for sig i sin lejlighed. Kort tid efter kunne underboen konstatere en vandskade, der viste sig at skyldes udsivende vand i A's lejlighed. Årsagen til vandskaden var en utæthed mellem spulehanen og aquastoppet. Andelsboligforeningen G lod skaden udbedre og afkrævede herefter A betaling herfor. A gjorde gældende, at der ikke forelå et ansvarsgrundlag, og at risikoen for skaden ikke påhvilede hende. G anførte, at tvisten måtte afgøres efter en analogi fra lejelovens § 29, stk. 10, således at A var objektivt ansvarlig for installationer, som hun har ladet foretage, og at A i øvrigt måtte være den nærmeste til at bære risikoen i et sådant tilfælde. Såvel byret som landsret fandt, at da forholdet ikke var reguleret af G's vedtægter, kunne lejelovens bestemmelse om objektivt ansvar for installationer finde analog anvendelse. A blev derfor pålagt at betale en skønsmæssigt fastsat erstatning på 75.000 kr.".
+Se dommen i **TBB2014.722**: Andelshaver ansvarlig efter analogi fra lejelovens § 29, stk. 10, overfor andelsboligforening for vandskade hidrørende fra vandtilslutning til vaskemaskine.
 
 ---
 
@@ -584,10 +612,7 @@ Se dommen i **TBB2014.722**: Andelshaver ansvarlig efter analogi fra lejelovens 
 
 **Find retssager i UfR, som nærmere behandler det objektive ansvar.**
 
-Link til UfR (ugeskrift for Retsvæsen):
-
-https://pro.karnovgroup.dk/journals/ufr
-
+**<a href="https://pro.karnovgroup.dk/journals/ufr" target="_blank">Ugeskrift for Retsvæsen klik her!</a>**
 
 ---
 
@@ -597,9 +622,12 @@ Selv om skadevolder har handlet forkert – været uagtsom – er der nogle situ
 
 Er den skade, der er sket, i forvejen dækket af en tingsforsikring eller en driftstabsforsikring, er skadevolder ikke erstatningsansvarlig. 
 
+---
+
 Det gælder dog kun, hvis skaden ikke er forvoldt med vilje eller ved grov uagtsomhed. 
 
-Det fremgår af Lov om erstatningsansvar (EAL) (Lovbekendtgørelse nr. 1070 af 24. august 2018), se Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+Det fremgår af Lov om erstatningsansvar (EAL) (Lovbekendtgørelse nr. 1070 af 24. august 2018). 
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -609,6 +637,8 @@ Det fremgår af Lov om erstatningsansvar (EAL) (Lovbekendtgørelse nr. 1070 af 2
 Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
 
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. 
+
+---
 
 Det betyder, at der ikke er forskel på, om drengen ved en simpel uagtsomhed smadrer naboens glasforsikrede rude eller en rude i kommunens skole, hvor kommunen er selvforsikret. 
 
@@ -627,54 +657,59 @@ Stk. 2. Overskrider nogen grænserne for lovligt nødværge, bliver han dog stra
 
 Nødværge betegner en handling, som foretages i et forsøg på at afværge et angreb, og hvor den person, der foretager nødværget handler på en måde, som medfører indgreb i den angribendes retsgoder.
 
-Såfremt nødværgehandlingerne er nødvendige for at afværge eller modstå et påbegyndt eller overhængende angreb, og handlingerne ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt, er nødværget lovligt
-
-Se straffeloven, jf. Lovbekendtgørelse 2019-09-17 nr. 976 i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+Såfremt nødværgehandlingerne er nødvendige for at afværge eller modstå et påbegyndt eller overhængende angreb, og handlingerne ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt, er nødværget lovligt.
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Se straffeloven i Lovsamlingen klik her!</a>**
 
 ---
 
 Domme om nødret:
 
-Se dommen i **U 1938.134/2 V** Slag med gulvskrubbe for at hindre 3 berusede personer i at trænge sig ind i en butik. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000774882/1**
+Se dommen i **U 1938.134/2 V** Slag med gulvskrubbe for at hindre 3 berusede personer i at trænge sig ind i en butik. 
+**<a href="https://pro.karnovgroup.dk/document/7000774882/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 
-Se dommen i **U 1937.164** Tiltalte, hvis hund: var kommet i slagsmål med en glubsk hund, kastede en lukket havesaks efter hundene, hvorved den glubske hund blev såret og fik blodforgiftning - det udtaltes, at handlingen ikke fandtes at gå ud over, hvad der var forsvarligt - §§ 13 og 14 ikke citeret. Se link til dommen: **https://pro.karnovgroup.dk/document/7000775514/1**
+Se dommen i **U 1937.164** Tiltalte, hvis hund: var kommet i slagsmål med en glubsk hund, kastede en lukket havesaks efter hundene, hvorved den glubske hund blev såret og fik blodforgiftning - det udtaltes, at handlingen ikke fandtes at gå ud over, hvad der var forsvarligt - §§ 13 og 14 ikke citeret. 
+**<a href="https://pro.karnovgroup.dk/document/7000775514/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1934.509 H** Nazistisk stormafdelings forsvar med gummistykker overfor angreb med stakittremmer. Arbejdere, der havde angrebet og været i håndgemæng med marcherende nazister, idømt bøder. Nazisterne frifundet ("rimeligt forsvar"): **https://pro.karnovgroup.dk/document/7000240511/1** 
+Se dommen i **U 1934.509 H** Nazistisk stormafdelings forsvar med gummistykker overfor angreb med stakittremmer. Arbejdere, der havde angrebet og været i håndgemæng med marcherende nazister, idømt bøder. Nazisterne frifundet ("rimeligt forsvar"). 
+**<a href="https://pro.karnovgroup.dk/document/7000240511/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1926.11 H** En betjents forsvar - der endog medførte døden - overfor en beruset person, der havde slået betjenten i ansigtet anset berettiget. Se link til dommen: **https://pro.karnovgroup.dk/document/7000239406/1**
+Se dommen i **U 1926.11 H** En betjents forsvar - der endog medførte døden - overfor en beruset person, der havde slået betjenten i ansigtet anset berettiget. 
+**<a href="https://pro.karnovgroup.dk/document/7000239406/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1988.74 V** Modsat sig grov provokation, herunder ved slag i brystet, tildelt den pågældende et slag med en ølflaske i hovedet, frifindelse efter § 13, stk. 1 og 2. Se **https://pro.karnovgroup.dk/document/7000197908/1**
+Se dommen i **U 1988.74 V** Modsat sig grov provokation, herunder ved slag i brystet, tildelt den pågældende et slag med en ølflaske i hovedet, frifindelse efter § 13, stk. 1 og 2. 
+**<a href="https://pro.karnovgroup.dk/document/7000197908/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1998.504 V** De tiltalte havde opfattet situationen således, at modparten såvel verbalt som ved sin fremtræden havde givet udtryk for et ønske om at komme i slagsmål med de tiltalte. De tiltaltes slag med knytnæver anset som straffri efter § 13, stk. 1. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000202350/1**
+Se dommen i **U 1998.504 V** De tiltalte havde opfattet situationen således, at modparten såvel verbalt som ved sin fremtræden havde givet udtryk for et ønske om at komme i slagsmål med de tiltalte. De tiltaltes slag med knytnæver anset som straffri efter § 13, stk. 1. 
+**<a href="https://pro.karnovgroup.dk/document/7000202350/1" target="_blank">Dommen klik her!</a>**
 
+---
 
-**U 2003.1353 V** Tiltalte, der - efter at en person havde råbt, at forurettede stod bag tiltalte med en kniv fremme - vendte sig om og slog forurettede i ansigtet med en ølflaske, og med to knytnæveslag, frifundet på grund af nødværge, jf. § 13, stk. 1. Se link til dommen:
-**https://pro.karnovgroup.dk/document/7000265254/1**
+**U 2003.1353 V** Tiltalte, der - efter at en person havde råbt, at forurettede stod bag tiltalte med en kniv fremme - vendte sig om og slog forurettede i ansigtet med en ølflaske, og med to knytnæveslag, frifundet på grund af nødværge, jf. § 13, stk. 1. 
+**<a href="https://pro.karnovgroup.dk/document/7000265254/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 Se på den anden side tilfælde, hvor nødværge ikke er statueret: 
 
-**U 1936.172 Ø** Slag med gummiknippel for at få en person til at slippe tag i gerningsmandens cykel, tildelt 2 slag, efter at taget varsluppet. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000240776/1**
+**U 1936.172 Ø** Slag med gummiknippel for at få en person til at slippe tag i gerningsmandens cykel, tildelt 2 slag, efter at taget varsluppet. 
+**<a href="https://pro.karnovgroup.dk/document/7000240776/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 
-Se dommen i **U 1933.817** Skud, der ramte krybskytte i benene, efter at krybskytten havde skudt gerningsmandens hund. Se link til dommen her:
-**https://pro.karnovgroup.dk/document/7000240401/1**
+Se dommen i **U 1933.817** Skud, der ramte krybskytte i benene, efter at krybskytten havde skudt gerningsmandens hund. 
+**<a href="https://pro.karnovgroup.dk/document/7000240401/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -690,10 +725,10 @@ Se dommen i **U 1974.729** (drab med kniv af betydeligt større og kraftigere pe
 
 Se dommene i **U 1975.518 H** og **U 1992 752** 17-årigt besætningsmedlems medvirken til indførsel i USA af 4448 kg kokain, der blev taget om bord på skibet i internationalt farvand; det havde været yderst vanskeligt for ham at tage afstand fra hele den øvrige besætning, ligesom han havde næret frygt for sit liv, hvis han ikke deltog. Ikke frifundet efter straffelovens § 13, men den forskyldte straf bortfaldt i medfør af dagældende straffelovs § 84, stk. 1, nr. 2 og 5, jf. stk. 2 og § 85. 
 
-**U 2008.1299 Ø** To politifolk, der under anholdelsesaktion havde benyttet tjenestepistol, frifundet for overtrædelse af straffelovens § 246. efter § 13, stk. 1, og stk. 2, og fik i øvrigt strafbortfald efter § 83. Se link til dommen her: 
-**https://pro.karnovgroup.dk/document/7000378613/1**
+---
 
-
+Se dommen i **U 2008.1299 Ø** To politifolk, der under anholdelsesaktion havde benyttet tjenestepistol, frifundet for overtrædelse af straffelovens § 246. efter § 13, stk. 1, og stk. 2, og fik i øvrigt strafbortfald efter § 83. 
+**<a href="https://pro.karnovgroup.dk/document/7000378613/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -711,24 +746,28 @@ Nødretshandlingen er ikke straffri, hvis det truede gode kunne være reddet med
 
 Handlingen kan foretages af den person, hvis værdier er truet, eller af andre, og den kan være rettet mod en tredje persons værdier. 
 
+---
+
 For at være straffri skal handlingen endvidere være af væsentlig mindre betydning end den skade, der ville være sket uden indgriben.
 
 Visse værdier af ikke-økonomisk art kan aldrig ofres i en nødsituation; det er fx ikke tilladt at dræbe et menneske for at redde et eller flere menneskeliv. Se også nødværge.
 
-I erstatningsretten gælder, at den part, som nødretten udøves til fordel for, skal erstatte de skader, som er sket ved nødretshandlingen; ansvarsgrundlaget er objektivt ansvar. 
+---
 
-Se straffeloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.**
+I erstatningsretten gælder, at den part, som nødretten udøves til fordel for, skal erstatte de skader, som er sket ved nødretshandlingen; ansvarsgrundlaget er objektivt ansvar. 
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Se straffeloven i Lovsamlingen klik her!</a>**
 
 ---
 
 Domme om stillingtagen til anvendelsen af straffelovens § 14:
 
 Se dommen i **U 1998.1769 Ø**: Bilists hastighedsovertrædelse under overhaling, nødvendiggjort af trafikforholdene, ikke strafbar, jf. straffelovens § 14.
-"T havde kørt med en hastighed af 93 km/t, hvor der højst måtte køres 50 km/t. Som sagen forelå oplyst, fandtes T's forklaring ikke at kunne afvises om, at en lastbil, som kørte til højre for T, pressede T over i en vognbane for modkørende færdsel, og at T derfor var nødsaget til at accelerere op til den af politiet målte hastighed, for at kunne overhale lastbilen, inden der opstod fare for sammenstød med lastbilen eller modkørende færdsel. T's overskridelse af den tilladte hastighed fandtes herefter ikke at have været en strafbar handling, jf. straffelovens § 14, hvorfor T frifandtes". Se link til dommen: **https://pro.karnovgroup.dk/document/7000204419/1**
+**<a href="https://pro.karnovgroup.dk/document/7000204419/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-Samt anderledes dommen i **U 2014.2941 V**: Fjernelse af to franske bulldogs fra kennel på grund af mistanke om dyremishandling var tyveri, der ikke var straffrit i medfør af straffelovens § 14, og der var ikke grundlag for at anvende straffelovens § 83, 2. pkt., eller § 82, nr. 3 og 7. Fastsættelsen af straffen blev udsat, jf. straffelovens § 56, stk. 1: "De tiltalte erkendte, at de uden ejerens tilladelse havde bortfjernet to hunde fra en kennel, men nægtede sig skyldige i tyveri under henvisning til, at fjernelsen havde været nødvendig på grund af kritisable forhold, som dyrene efter deres opfattelse levede under. Efter forklaring fra den, som havde passet kennelen under ejerens ferie, og fra dyrlægen og efter at have set fotos af dyrene, fandtes fjernelsen af hundene ikke at have været nødvendig til afværgelse af truende fare på disse, jf strfl § 14, og de tiltalte ansås skyldige i tyveri. Ikke grundlag for strafbortfald efter § 83, 2. pkt., eller strafnedsættelse efter § 82, nr. 13 og 14". Se link til dommen: **https://pro.karnovgroup.dk/document/7000652650/1**
+Samt anderledes dommen i **U 2014.2941 V**: Fjernelse af to franske bulldogs fra kennel på grund af mistanke om dyremishandling var tyveri, der ikke var straffrit i medfør af straffelovens § 14, og der var ikke grundlag for at anvende straffelovens § 83, 2. pkt., eller § 82, nr. 3 og 7. Fastsættelsen af straffen blev udsat, jf. straffelovens § 56, stk. 1. 
+**<a href="https://pro.karnovgroup.dk/document/7000652650/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -744,14 +783,15 @@ Fælles for de objektive ansvarsfrihedsgrunde er, at de fritager for erstatnings
 
 ---
 
-Se fx dommen om nødret i **U 2019.1874 V**, hvor en voksen person greb i nakken på en 10-årig dreng, der stod med en brandsprøjte i hænderne, det var en overtrædelse af voldsbestemmelsen i straffelovens § 244, men straffrit efter straffelovens § 13, stk. 1, om nødværge: "T, der var officer på en NATO-base i Tyskland, var tiltalt for overtrædelse af straffelovens § 244 ved Sankt Hans aften på basen at have grebet fat i nakken på en 10-årig dreng A med blå mærker på begge sider af halsen til følge. Landsretten anførte, at T’s handling i form af greb på få sekunders varighed i nakken på A var omfattet af gerningsindholdet i straffelovens § 244, og at T havde haft forsæt til at udføre grebet. Det blev lagt til grund, at en brandmand stod i en afstand på ca. 3 m fra A og talte med en anden på det tidspunkt, hvor T tog fat i A, og at C på dette tidspunkt stod et stykke bagved A, uden at det kunne lægges fast, hvor stor afstanden var mellem T og A. A havde på dette tidspunkt fat med begge hænder om en brandsprøjtes greb, som han holdt ind mod sit bryst, og T havde verbalt opfordret A til at stoppe, inden han tog fat i A. Efter en erklæring, der var afgivet af en brigadechef fra Beredskabsstyrelsen, blev det lagt til grund, at der er risiko for øjenskader, hvis man rammes af en stråle fra et højtryksrør, at risikoen forstærkes jo tættere afstanden er mellem strålerør og øje, og at risikoen ved en afstand mellem strålerør og øje på få meter er meget høj. Landsretten fandt efter denne erklæring sammenholdt med en vurdering af den måde, som A havde holdt brandsprøjten på, at hans handling havde været et overhængende angreb over for de personer, der stod relativt tæt på ham, og at angrebet var uretmæssigt. T havde derfor været i en situation, hvor det var nødvendigt at handle for at afværge det overhængende uretmæssige angreb. Efter en samlet vurdering af situationen var T’s handling ikke gået åbenbart ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retgodes betydning havde været forsvarligt. T’s handling var derfor straffri, jf. straffelovens § 13, stk. 1, og T blev herefter frifundet". Se link **https://pro.karnovgroup.dk/document/7000836492/1**
+Se fx dommen om nødret i **U 2019.1874 V**, hvor en voksen person greb i nakken på en 10-årig dreng, der stod med en brandsprøjte i hænderne, det var en overtrædelse af voldsbestemmelsen i straffelovens § 244, men straffrit efter straffelovens § 13, stk. 1, om nødværge. 
+**<a href="https://pro.karnovgroup.dk/document/7000836492/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 En lovlig politiforretning kan undtage politiet et erstatningsansvar:
 
-Se dommen i **U 2019.1069 V** Politiet ikke erstatningsansvarlig over for udlejer for ødelagt dør, som politiet havde måttet sparke ind for at anholde eftersøgt person, da der havde været tale om en lovlig politiforretning, og politiet havde ikke handlet ansvarspådragende. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000832674/1**
+Se dommen i **U 2019.1069 V** Politiet ikke erstatningsansvarlig over for udlejer for ødelagt dør, som politiet havde måttet sparke ind for at anholde eftersøgt person, da der havde været tale om en lovlig politiforretning, og politiet havde ikke handlet ansvarspådragende. 
+**<a href="https://pro.karnovgroup.dk/document/7000832674/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -761,7 +801,8 @@ De ting, som man ødelægger af sine egne ting, udløser ikke et erstatningsansv
 
 ---
 
-Se dommen i **FED 2003.836:** Som følge af identitet mellem forsikringstageren og ejeren af et sommerhus, var der ikke dækning på en erhvervsansvarsforsikring for skade forvoldt af forsikringstagerens ansatte under udførelse af entreprise på sommerhuset. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000327909/1**
+Se dommen i **FED 2003.836:** Som følge af identitet mellem forsikringstageren og ejeren af et sommerhus, var der ikke dækning på en erhvervsansvarsforsikring for skade forvoldt af forsikringstagerens ansatte under udførelse af entreprise på sommerhuset. 
+**<a href="https://pro.karnovgroup.dk/document/7000327909/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -769,9 +810,7 @@ Se dommen i **FED 2003.836:** Som følge af identitet mellem forsikringstageren 
 
 **Find retssager i UfR, som nærmere behandler objektive ansvarsfrihedsgrunde.**
 
-Link til UfR (ugeskrift for Retsvæsen):
-
-**https://pro.karnovgroup.dk/journals/ufr**
+**<a href="https://pro.karnovgroup.dk/journals/ufr" target="_blank">Ugeskrift for Retsvæsen klik her!</a>**
 
 ---
 
@@ -781,7 +820,9 @@ Link til UfR (ugeskrift for Retsvæsen):
 
 Mange forældre tænker ikke umiddelbart over det, men ligesom voksne kan børn blive pålagt at betale erstatning for de skader, de forvolder på andre mennesker eller deres ting.^[Følgende afsnit om børns erstatningsansvar bygger på Justitsministeriets pjece: "Børn skal også betale - Om børns erstatningsansvar".] 
 
-Den skadelidte kan kræve erstatning, hvis barnet har handlet mere uforsigtigt, end fornuftige børn på samme alder normalt ville have gjort. 
+Den skadelidte kan kræve erstatning, hvis barnet har handlet mere uforsigtigt, end fornuftige børn på samme alder normalt ville have gjort.
+
+---
 
 Børn helt ned til fire-fem år kan stilles til ansvar for de skader, de forvolder. 
 
@@ -793,7 +834,11 @@ Den skadelidte kan rejse erstatningskrav, hvis skaden medfører et økonomisk ta
 
 Der kan for eksempel kræves erstatning for tingsskade i form af ødelagte ejendele eller personskade i form af tabt arbejdsfortjeneste, udgifter til helbredelse og godtgørelse for svie og smerte eller varigt mén.
 
+---
+
 Der kan dog ved tingsskade ikke gøres erstatningsansvar gældende over for et barn, hvis skadelidte har tegnet en tingsforsikring (fx. en indbo- eller kaskoforsikring), der dækker skaden.
+
+---
 
 Det gælder dog ikke, hvis barnet har forvoldt forsætligt eller ved grov uagtsomhed.
 
@@ -827,6 +872,8 @@ En dreng kaster en sten gennem en rude på skolen, fordi han er sur over, at en 
 
 Den skadelidte kan rejse erstatningskrav, hvis skaden medfører et økonomisk tab, og der kan herudover i visse særlige tilfælde rejses krav om godtgørelse for ikke-økonomisk skade. 
 
+---
+
 Der kan for eksempel kræves erstatning for tingsskade i form af ødelagte ejendele eller personskade i form af tabt arbejdsfortjeneste, udgifter til helbredelse og godtgørelse for svie og smerte eller varigt mén.
 
 Der kan dog ved tingsskade ikke gøres erstatningsansvar gældende over for et barn, hvis skadelidte har tegnet en tingsforsikring (fx. en indbo- eller kaskoforsikring), der dækker skaden.
@@ -839,8 +886,9 @@ Det gælder dog ikke, hvis barnet har forvoldt forsætligt eller ved grov uagtso
 
 Der opstår let skader, når børn kommer i kropskontakt, for eksempel når de leger og dyrker sport, og her er det sjældent, at nogen af børnene kan gøres ansvarlige. 
 
-Dels indebærer deltagelse i leg i sig selv en vis risiko, dels er det svært at placere ansvaret
-blandt børnene.
+Dels indebærer deltagelse i leg i sig selv en vis risiko, dels er det svært at placere ansvaret blandt børnene.
+
+---
 
 Opstår skaden under en leg, der må betegnes som farlig, vil børnene dog kunne gøres ansvarlige, for eksempel hvis de slås med køller, og den ene slår den anden i hovedet. 
 
@@ -850,12 +898,13 @@ Da de to børn begge har handlet uagtsomt ved at deltage i den fælles leg, vil 
 
 *Nedsættelse eller bortfald af børns erstatningsansvar*
 
-I nogle tilfælde kan et barns erstatningsansvar blive nedsat eller helt falde bort. Det kan for
-eksempel ske på grund af:
+I nogle tilfælde kan et barns erstatningsansvar blive nedsat eller helt falde bort. Det kan for eksempel ske på grund af:
 
 * Manglende udvikling hos barnet. 
 
 *Eksempel:* Er et seksårigt barn kun udviklet som en treårig, bliver barnet sammenlignet med, hvad et treårigt barn burde vide.
+
+---
 
 * Handlingens beskaffenhed. For eksempel hvis skaden er sket på en for barnet kompliceret måde. 
 
@@ -899,7 +948,6 @@ I skolen overtager de ansatte pligten til at føre tilsyn med børnene. Hvis en 
 
 Hvis et barn er skyld i en skade, kan den, det er gået ud over, kræve en erstatning på op til 7.500 kroner pr. skadegørende handling af den, der har forældremyndigheden.
 
-
 Det gælder, selv om forælderen ikke kan bebrejdes, at skaden er sket. Har forældrene fælles forældremyndighed, hæfter de solidarisk for de 7.500 kr. 
 
 Hvis forældrene selv kan bebrejdes noget – fx. manglende tilsyn – kan forældrene gøres erstatningsansvarlige for hele den skade, deres barn forvolder.
@@ -909,6 +957,8 @@ Hvis forældrene selv kan bebrejdes noget – fx. manglende tilsyn – kan foræ
 Reglen om, at forældre hæfter for de første 7.500 kr. af barnets erstatningsansvar, har været gældende siden lov om hæftelse for børns erstatningsansvar trådte i kraft den 1. juli 2009. 
 
 Udsigten til at skulle betale, hvis børnene forvolder skader, skal motivere forældre til at fokusere på deres rolle som opdragere og på opdragelsens betydning for børnenes trivsel og adfærd.
+
+---
 
 Forældrene hæfter alene for de første 7.500 kroner. Hvis der er sket skade for et mindre beløb, skal forældrene kun betale et beløb svarende til det faktiske tab. 
 
@@ -924,7 +974,6 @@ Hvis en mindreårig, for eksempel i forbindelse med gadeuroligheder, både skade
 ![](img/uro.jpg)
 
 Det betyder, at forældrene hæfter med indtil 7.500 kroner for hver skadegørende handling.
-
 
 Hvis barnet sætter ild til en bil, og ilden breder sig til andre biler, er der tale om én skadegørende handling. Dermed hæfter forældrene for højst 7.500 kroner.
 
@@ -966,18 +1015,23 @@ Resten må den skadelidte kræve, at barnet betaler.
 
 ![](img/mink1.jpg)
 
-Se fx. dommen i **U 1989.278 V**: To brødre på 4 og 6 år, S og L, klatrede over hegnet til M's minkfarm og åbnede her 979 bure, hvorfra 1882 dyr løb ud. Deres ansvarsforsikringsselskab havde alene villet anerkende erstatningsansvaret for M's udgifter til indfangning af løsslupne mink (23.500 kr.), og S og L gjorde gældende, at den øvrige skade. (600.845 kr.) havde været psykologisk upåregnelig for dem og derfor ikke kunne kræves erstattet. Heri fik de ikke medhold af Vestre Landsret, idet der ikke var tale om atypiske skader, som det var rimeligt at lade M bære risikoen for. Der fandtes heller ikke grundlag for at nedsætte erstatningen efter myndighedslovens § 63, 2. led. Se link til hele dommen her:
-**https://pro.karnovgroup.dk/document/7000198503/1**
+Se fx. dommen i **U 1989.278 V**: To brødre på 4 og 6 år, S og L, klatrede over hegnet til M's minkfarm og åbnede her 979 bure, hvorfra 1882 dyr løb ud. Deres ansvarsforsikringsselskab havde alene villet anerkende erstatningsansvaret for M's udgifter til indfangning af løsslupne mink (23.500 kr.), og S og L gjorde gældende, at den øvrige skade. (600.845 kr.) havde været psykologisk upåregnelig for dem og derfor ikke kunne kræves erstattet. Heri fik de ikke medhold af Vestre Landsret, idet der ikke var tale om atypiske skader, som det var rimeligt at lade M bære risikoen for. Der fandtes heller ikke grundlag for at nedsætte erstatningen efter myndighedslovens § 63, 2. led. 
+**<a href="https://pro.karnovgroup.dk/document/7000198503/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 ## Erstatningsansvaret og EAL § 19
 
-I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1, se nærmere erstatningsansvarsloven (EAL) i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
+I det omfang en skade er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar, jf. EAL § 19, stk. 1, 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se erstatningsansvarsloven i Lovsamlingen klik her!</a>**
+
+---
 
 Hovedreglen om, at der ikke er erstatningsansvar for en forsikringsdækket skade, gælder uanset ansvarsgrundlagets karakter. 
 
 Ansvaret bortfalder både i forhold til forsikringsselskabet og i forhold til skadelidte. 
+
+---
 
 Sammenholdt med undtagelserne i EAL § 19, stk. 2 og i § 21 omfatter dog hovedreglen imidlertid kun følgende tilfældegrupper:
 
@@ -1002,18 +1056,14 @@ En 14-årig dreng var erstatningsansvarlig for brandskader på en skolebygning, 
 
 **Find retssager i UfR, som nærmere behandler erstatningskrav mod børn.**
 
-Link til UfR (ugeskrift for Retsvæsen):
-
-https://pro.karnovgroup.dk/journals/ufr
+**<a href="https://pro.karnovgroup.dk/journals/ufr" target="_blank">Ugeskrift for Retsvæsen klik her!</a>**
 
 
 ---
 
 ## Video om forsikring, erstatning og arbejdsgiveransvar
-*Udarbejdet af Vidnition*
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0MInd7t_dHw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/0MInd7t_dHw" target="_blank">Videoen Klik her!</a>**
 
 ---
 
@@ -1059,6 +1109,8 @@ For mange er det svært at vurdere, hvornår de er ansvarlige for en skade, og h
 
 Derfor vil reglerne for, hvornår der er ansvar, kort blive gennemgået nedenfor.
 
+---
+
 Har man forvoldt en skade, er det naturligt, at man føler skyld og mener, at skadelidte skal have erstatning, enten fra en selv eller fra det forsikringsselskab, hvor man er ansvarsforsikret.
 
 At føle skyld for en skade er ikke det samme som, at man juridisk er ansvarlig, og at skadelidte dermed har ret til erstatning. 
@@ -1072,6 +1124,8 @@ I nogle tilfælde vil det fremgå af lovgivningen, om man er erstatningsansvarli
 <img src="img/doctor.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Man kan få erstattet de udgifter til behandling, som ikke bliver betalt fra anden side (fx. den offentlige sygesikring eller sin egen ulykkesforsikring). 
+
+---
 
 Det kan være udgifter til medicin, fysioterapi, kiropraktorbehandling, hjælpemidler og hjemmehjælp, som lægen har ordineret, eller rimelige udgifter til transport til og fra et behandlingssted.
 
@@ -1152,6 +1206,8 @@ Det er et lægeligt skøn, der afgør, hvor stort ens mén bliver.
 
 Det skal være mindst 5 procent, for at man kan få godtgørelse. 
 
+---
+
 Er man fyldt 40 år, bliver godtgørelsen reduceret i forhold til ens alder. Godtgørelsen for varigt mén har intet med ens (evt. tidligere) erhverv at gøre. 
 
 Derfor vil man måske opleve, at man sagtens kan passe et kontorjob, selv om man har fået erstatning for varigt mén, hvorimod man måske ville have svært ved at passe et job, der var fysisk hårdere.
@@ -1208,9 +1264,7 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 ---
 
-*Eksamensspørgsmål indenfor erstatningsretten mv.*
-
-*Eksamensopgave og løsning - Om ejendomsmæglerens erstatningsansvar uden for kontrakt*
+## Eksamensopgave - Med rettevejledning
 
 *Ejendomsmæglerens støvler*
 
@@ -1315,6 +1369,10 @@ Anton følte sig presset og skrev under.
 
 ---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
+
 ## Eksamensopgave 7.2. 
 
 
@@ -1364,8 +1422,9 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 5.  Kan Hans rejse krav om erstatning mod sælger, hvis han er bundet af aftalen om køb af trøjerne og kasketterne?
 
+---
 
-
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1391,30 +1450,32 @@ For en mere væsentlig uddybning af forsikringsretten for de studerende, som der
 
 ## Video om at forstå forsikring på 3 minutter
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/jhoZCUQd-n8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/jhoZCUQd-n8" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## Video Birgitte sælger forsikringer
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/C5MKa1y1r8I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/C5MKa1y1r8I" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## Video om at blive skadesbehandler I forsikringsselskab
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/j-qLQu7qECw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/j-qLQu7qECw" target="_blank">Videoen klik her!</a>**
 
 ---
 
 
 ## Indgåelse af en forsikringsaftale
 
-Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side forsikringstageren.^[Følgende afsnit bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. link: https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.] 
+Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side forsikringstageren.^[Følgende afsnit bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. **<a href="https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" target="_blank">klik her!</a>**, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.] 
 
+---
 
+En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselskabet (forsikringsgiver) overtager den økonomiske risiko for en uvis begivenheds indtræden mod et vederlag (præmie), der kan beregnes statistisk af forsikringsselskabet. 
 
-En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselskabet (forsikringsgiver) overtager den økonomiske risiko for en uvis begivenheds indtræden mod et vederlag (præmie), der kan beregnes statistisk af forsikringsselskabet.  
+---
 
 Det kan ikke antages, at den, der tegner forsikring, har en egentlig oplysningspligt, medmindre det må antages, at oplysningen vedrører forhold som forsikrede  må vide har betydning for risikobedømmelsen, jf. FAL § 7. 
 
@@ -1444,8 +1505,9 @@ Se afgørelsen i **Sagsnr.: 83897:** Klager over afvisning af dækning for ferie
 
 ![](img/bil7.jpg)
 
-Se dommen i **U 1990.426 Ø:** En bils bagagerum bag bagsædet var dækket af et vandret siddende gardin, som løftedes, når bagklappen åbnedes. Der skete tyveri fra bagagerummet. Bilens døre havde været låst. Ifølge vilkårene dækkede forsikring, hvis det stjålne lå i »låst bagagerum og ikke var synligt udefra«. Antaget, at vilkårenes ordlyd ikke med tilstrækkelig klarhed angav, at der – som påstået af forsikringsselskabet – skulle være adskillelse mellem bilens kabine og bagagerummet på en sådan måde, at adgang til bagagerummet fra kabinen alene var mulig ved voldelig opbrydning. Forsikringsvilkårene var derfor opfyldt. Ifølge lov om forsikringsvirksomhed kan forsikring kun drives i selskabsform, og kun selskaber, som har opnået koncession, dvs. tilladelse, fra Finanstilsynet til at drive forsikringsvirksomhed, kan indgå forsikringsaftaler. Forsikringsaftaler er endvidere – med få undtagelser, eksempelvis arbejdsskadeforsikring – omfattet af forsikringsaftaleloven, der indeholder en række ufravigelige bestemmelser, der har til formål at beskytte forsikringstagerne mod urimelige aftalevilkår. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000199096/1**
- 
+Se dommen i **U 1990.426 Ø:** En bils bagagerum bag bagsædet var dækket af et vandret siddende gardin, som løftedes, når bagklappen åbnedes. Der skete tyveri fra bagagerummet. Bilens døre havde været låst. Ifølge vilkårene dækkede forsikring, hvis det stjålne lå i »låst bagagerum og ikke var synligt udefra«. Antaget, at vilkårenes ordlyd ikke med tilstrækkelig klarhed angav, at der – som påstået af forsikringsselskabet – skulle være adskillelse mellem bilens kabine og bagagerummet på en sådan måde, at adgang til bagagerummet fra kabinen alene var mulig ved voldelig opbrydning. Forsikringsvilkårene var derfor opfyldt. 
+**<a href="https://pro.karnovgroup.dk/document/7000199096/1" target="_blank">Dommen klik her!</a>**
+
 ---
 
 
@@ -1455,8 +1517,8 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 
 ## Video om unge og forsikringer | Gode råd om forsikringer
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/sixGZPICtew" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
- 
+**<a href="https://youtu.be/sixGZPICtew" target="_blank">Videoen klik her!</a>**
+
 ---
 
 
@@ -1524,13 +1586,14 @@ Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, jagtlo
 
 Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 
-Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000517576/1** 
+Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. 
+**<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 ## Video om alle kan få almindelige forsikringer
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/asAt_30Pd_o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Videoen Klik her!</a>**
 
 ---
 
@@ -1777,6 +1840,7 @@ Såsom:
 - Flere erstatningsansvarlige hæfter solidarisk. 
 
 - Fordeling sker efter, hvad der må anses for rimeligt – jf. EAL § 25.
+
 
 
 ---

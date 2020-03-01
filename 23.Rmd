@@ -8,7 +8,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Familieret behandles i kap. 18 i "Erhvervsjura"**
+*Forståelsen af reglerne om ægtefællers økonomiske forhold kan være anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.*
 
 ---
 
@@ -21,6 +21,10 @@ cat(readLines('np.html'))
 * *Ægtefællers særråden, ÆF § 1* 
 
 * *Skilsmissebodelingers betydning for privatøkonomien (delingsformue og særeje)* 
+
+---
+
+**"Familieretten" anvendes også i faget "Privatøkonomisk rådgivning" på Finansøkonomuddannelsen**
 
 ---
 
@@ -40,7 +44,8 @@ Citat:
 
 ![](img/agtefalledloven1.jpg)
 
-Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet her "ÆF")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes. Se loven i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html.** 
+Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (forkortet her "ÆF")– gælder for ægtefæller – ikke for ugifte samlevende – og regulerer ægtefællernes økonomiske forhold indbyrdes. 
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Loven klik her!</a>**
 
 ---
 
@@ -54,7 +59,7 @@ Lovbekendtgørelse 2019-08-07 nr. 774 om ægtefællers økonomiske forhold (fork
 
 ![](img/familieret1.jpg)
 
-**Særråden betyder, at uanset ægteskabets indgåelse så råder hver ægtefælle stadig over de aktiver, som den pågældende står som ejer af**. 
+Særråden betyder, at uanset ægteskabets indgåelse så råder hver ægtefælle stadig over de aktiver, som den pågældende står som ejer af. 
 
 Står bilen i mandens navn kan manden altså frit sælge den uden at spørge sin ægtefælle. 
 
@@ -62,13 +67,13 @@ Står bilen derimod i hans ægtefælles navn er det kun hans ægtefælle, der ka
 
 ---
 
-**På samme måde betyder princippet om særhæften, at hver ægtefælle, uanset ægteskabets indgåelse, alene hæfter for sin egen gæld**. 
+På samme måde betyder princippet om særhæften, at hver ægtefælle, uanset ægteskabets indgåelse, alene hæfter for sin egen gæld. 
 
 Det, at man indgår ægteskab betyder altså som klart udgangspunkt ikke, at man kommer til at hæfte for sin ægtefælles gæld. 
 
 ---
 
-**En enkelt generel undtagelse fra denne hovedregel er dog skattegæld, som den ene part opbygger under ægteskabet**. 
+En enkelt generel undtagelse fra denne hovedregel er dog skattegæld, som den ene part opbygger under ægteskabet. 
 
 Her er den anden part medhæftende på grund af princippet om sambeskatning af ægtefæller.  
 
@@ -78,8 +83,8 @@ I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællern
 
 ## Video om familieliv og jura
 
+**<a href="https://www.youtube.com/embed/lXw-hdped28">Videoen klik her!</a>**
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/lXw-hdped28" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
 ---
 
@@ -196,7 +201,7 @@ Bestemmelsen finder også anvendelse, selvom der er formuefællesskab i ægteska
 
 Dispositionsadgangen gælder ikke, hvis en anden er bemyndiget til at foretage dispositionen, eksempelvis ved en almindelig fuldmagt eller ved en *fremtidsfuldmagt* efter lov nr. 618 af 8. juni 2016 om fremtidsfuldmagter:
 
-*En fremtidsfuldmagt er en fuldmagt, som kan sættes i kraft en gang i fremtiden, hvis du bliver syg eller svækket og mister evnen til selv at tage vare på dine økonomiske eller personlige forhold. Du kan give fremtidsfuldmagt til en eller flere personer, som du selv udpeger*.
+En fremtidsfuldmagt er en fuldmagt, som kan sættes i kraft en gang i fremtiden, hvis du bliver syg eller svækket og mister evnen til selv at tage vare på dine økonomiske eller personlige forhold. Du kan give fremtidsfuldmagt til en eller flere personer, som du selv udpeger.
 
 ---
 
@@ -204,9 +209,9 @@ Bemyndigelsen til at foretage dispositionen kan også tilkomme en værge, der er
 
 ---
 
-**Ægtefællernes adgang til at indgå aftaler og pådrage sig forpligtelser over for hinanden reguleres af ÆF § 2.** 
+Ægtefællernes adgang til at indgå aftaler og pådrage sig forpligtelser over for hinanden reguleres af ÆF § 2. 
 
-Efter ÆF § 2, stk. 1, kan *ægtefæller under ægteskabet indgå aftaler med hinanden**, give hinanden gaver og pådrage sig **forpligtelser over for hinanden* med de undtagelser, der følger af ÆF § 2, stk. 2 og 3 samt konkurslovens § 64. 
+Efter ÆF § 2, stk. 1, kan ægtefæller under ægteskabet indgå aftaler med hinanden, give hinanden gaver og pådrage sig forpligtelser over for hinanden med de undtagelser, der følger af ÆF § 2, stk. 2 og 3 samt konkurslovens § 64. 
 
 Der kan fx ske overdragelse af aktiver fra den ene ægtefælle til den anden ægtefælle, leje af hinandens aktiver, ydelse af lån og ansættelse af den ene ægtefælle i den anden ægtefælles virksomhed. 
 
@@ -228,37 +233,39 @@ Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevi
 
 ---
 
-**Ægtefællerne kan også pådrage sig forpligtelser over for hinanden uden aftale, fx som følge af, at en ægtefælle uagtsomt eller forsætligt forvolder skade på den anden ægtefælles ejendele eller person.** 
+Ægtefællerne kan også pådrage sig forpligtelser over for hinanden uden aftale, fx som følge af, at en ægtefælle uagtsomt eller forsætligt forvolder skade på den anden ægtefælles ejendele eller person. 
 
 ---
 
 Der kan være tale om *erstatnings- eller kontraktsforpligtelser*, jf. dommene: i 
 
-**U 1986.212 V** Erstatningsansvar for uberettiget afhændelse*. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000203470/1.**
+**U 1986.212 V** Erstatningsansvar for uberettiget afhændelse*. 
+**<a href="https://pro.karnovgroup.dk/document/7000203470/1.">Dommen klik her!</a>**
 
 ---
 
-**U 1966.151 H:** Tvist mellem fraskilte ægtefæller, som havde haft fuldstændig særeje, om retten til diverse smykker og pelse:
-"Ca. 1 år efter opløsningen af et ægteskab, som havde varet ca. 7 år, og hvori der bestod fuldstændigt særeje, anlagde H sag mod M med påstand om udlevering af eller erstatning for en forlovelsesring med brillanter, 5 minkskind og en 5 karat stor brillantring. M gjorde gældende, at H under et skænderi havde tilbagegivet ham forlovelsesringen, som han derefter havde solgt, og at skindene aldrig havde tilhørt H. Med hensyn til den store brillantring bestred M, at han havde givet den til 11 og hævdede, at han alene havde haft den i udvalg og overvejet at købe den som kapitalanbringelse; antoges en gave at foreligge, var M imidlertid enig i, at der efter ægtefællernes forhold ikke krævedes ægtepagt.  Det ansås ikke for godtgjort, at H havde tilbagegivet forlovelsesringen til M, der heller ikke fik medhold for så vidt angår minkskindene. Med hensyn til den store brillantring fandt Højesteret ikke tilstrækkelig grund til at ændre landsrettens bevisbedømmelse, hvorefter ringen måtte anses foræret H af M. (Dissens). Idet ringenes værdi ansattes til henholdsvis 5000 kr. og 38.000 kr., dømtes M til at betale disse beløb og udlevere skindene". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000217362/1.**
-
-
+Se dommen i **U 1966.151 H:** Tvist mellem fraskilte ægtefæller, som havde haft fuldstændig særeje, om retten til diverse smykker og pelse.
+**<a href="https://pro.karnovgroup.dk/document/7000217362/1.">Dommen klik her!</a>**
 
 ---
 
-Se dommen i **U 1963.1056 Ø** Drabsforsøg, personskade: "H erstatningsansvarlig over for M for mordforsøg. Kravet ej nedsat p.g.a. parternes formuefællesskab. Om kravet skulle indgå i fællesboet, henhørte under skifteretten. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000216131/1.**
+Se dommen i **U 1963.1056 Ø** Drabsforsøg, personskade: "H erstatningsansvarlig over for M for mordforsøg. Kravet ej nedsat p.g.a. parternes formuefællesskab. Om kravet skulle indgå i fællesboet, henhørte under skifteretten. 
+**<a href="https://pro.karnovgroup.dk/document/7000216131/1.">Dommen klik her!</a>**
 
 ---
 
-
-Dommen i **U 1954.825 Ø** Regreskrav for tab af forsørger ikke anerkendt: "Forsikrer ikke tillagt regres i enke og efterladte børns erstatning for tabt forsørger". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000223565/1.**
-
----
-
-Dommen i **U 1959.403/1 Ø** Færdselsuheld: "Motorførers hustru tilkendt erstatning. Der tilkendtes en motorførers hustru, der var passager i automobilet, erstatning hos føreren og dennes forsikringsselskab i anledning af en hende ved førerens uagtsomhed tilføjet skade". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000224605/1.**
+Dommen i **U 1954.825 Ø** Regreskrav for tab af forsørger ikke anerkendt: "Forsikrer ikke tillagt regres i enke og efterladte børns erstatning for tabt forsørger". 
+**<a href="https://pro.karnovgroup.dk/document/7000223565/1.">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 1936.636/1 Ø** Færdselsuheld: "Erstatningsansvar. Ved Ø L D 2 Marts 1936 i Anke III 530/1935 (Dansk Forening for international Motorkøretøjsforsikring mod Overlæge Niels Christoffer Bøckmann, Norge) blev Føreren af et Automobil, som ved uforsigtig Kørsel havde foraarsaget Sammenstød med en anden Motorvogn, hvorved bl a hans Hustru, der var Passager i hans Vogn, kom til Skade, dømt til at betale hende en Erstatning af 789 Kr, idet der efter den gældende Lovgivning ikke saas at være noget til Hinder for, at Ægtefæller, selv om de lever i sædvanligt Formuefællesskab, kan paadrage sig Erstatningsansvar overfor hinanden, jfr Lov Nr 56 af 18 Marts 1925 § 29". Se hele dommen: **https://pro.karnovgroup.dk/document/7000775312/1.**
+Dommen i **U 1959.403/1 Ø** Færdselsuheld: "Motorførers hustru tilkendt erstatning. Der tilkendtes en motorførers hustru, der var passager i automobilet, erstatning hos føreren og dennes forsikringsselskab i anledning af en hende ved førerens uagtsomhed tilføjet skade". 
+**<a href="https://pro.karnovgroup.dk/document/7000224605/1.">Dommen klik her!</a>**
+
+---
+
+Dommen i **U 1936.636/1 Ø** Færdselsuheld: "Erstatningsansvar. Ved Ø L D 2 Marts 1936 i Anke III 530/1935 (Dansk Forening for international Motorkøretøjsforsikring mod Overlæge Niels Christoffer Bøckmann, Norge) blev Føreren af et Automobil, som ved uforsigtig Kørsel havde foraarsaget Sammenstød med en anden Motorvogn, hvorved bl a hans Hustru, der var Passager i hans Vogn, kom til Skade, dømt til at betale hende en Erstatning af 789 Kr, idet der efter den gældende Lovgivning ikke saas at være noget til Hinder for, at Ægtefæller, selv om de lever i sædvanligt Formuefællesskab, kan paadrage sig Erstatningsansvar overfor hinanden, jfr Lov Nr 56 af 18 Marts 1925 § 29".
+**<a href="https://pro.karnovgroup.dk/document/7000775312/1.">Dommen klik her!</a>**
 
 ---
 
@@ -310,13 +317,13 @@ Begge ægtefæller skal være enige herom og indgå en skriftlig (og tinglyst i 
 
 ## Video om tinglysning af ægtepagt
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/NNG8jga_q_Y" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/NNG8jga_q_Y">Videoen klik her!</a>**
 
 ---
 
 ## Video Sådan laver du selv en ægtepagt
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/DQmRSVrdmrY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/DQmRSVrdmrY">Videoen klik her!</a>**
 
 ---
 
@@ -333,9 +340,9 @@ Efter ÆF § 2, stk. 3 kan ægtefæller ikke gyldigt aftale, at det, som den ene
 
 *Princippet om ægtefællens særhæften:*
 
-**Efter ÆF § 3 hæfter hver af ægtefællerne med den del af delingsformuen, hvorover den pågældende ægtefælle råder, og med sit særeje for de forpligtelser, der påhviler ægtefællen, hvad enten forpligtelserne er opstået før eller under ægteskabet**. 
+Efter ÆF § 3 hæfter hver af ægtefællerne med den del af delingsformuen, hvorover den pågældende ægtefælle råder, og med sit særeje for de forpligtelser, der påhviler ægtefællen, hvad enten forpligtelserne er opstået før eller under ægteskabet. 
 
-**Bestemmelsen medfører, at en ægtefælle alene hæfter for sin egen gæld**. 
+Bestemmelsen medfører, at en ægtefælle alene hæfter for sin egen gæld. 
 
 Dette kaldes *særhæften*. 
 
@@ -359,18 +366,18 @@ Overladelse af kreditkort eller kontokort kan efter omstændighederne anses som 
 
 Retspraksis har ud fra stiltiende accept eller passivitet statueret fælles hæftelse for reparationer mv. udført på en ægtefælles ejendom, selvom den anden ægtefælle har bestilt arbejdet, se fx dommene: 
 
-**U 1994.328 Ø** Hustru hæftede for reparationer, manden bestilte udført på hendes faste ejendom. "Det måtte have stået klart for hustruen, der under udførelsen af arbejde, som ægtefællen havde bestilt udført på hendes faste ejendom, var til stede, at håndværkeren regnede med, at arbejdet udførtes efter bestilling også af ejendommens ejer, således at han fik et krav mod ejeren. Under disse omstændigheder fandtes også hustruen, der ikke bragte håndværkeren ud af hans vildfarelse, at hæfte for betalingen for arbejdet". Se link til hele dommen:
-**https://pro.karnovgroup.dk/document/7000200682/1.**
+Se dommen i **U 1994.328 Ø** Hustru hæftede for reparationer, manden bestilte udført på hendes faste ejendom. 
+**<a href="https://pro.karnovgroup.dk/document/7000200682/1.">Dommen klik her!</a>**
 
 ---
 
 Dommen i **U 1991.343 V** Hustru hæftede for betalingen for arbejder på hendes faste ejendom, som hendes ægtefælle havde bestilt.
-"Det måtte have stået klart for hustruen H, der var til stede på ejendommen under udførelsen af de arbejder, som hendes ægtefælle havde bestilt F til at udføre, at F regnede med, at arbejderne udførtes efter bestilling af ejendommens ejer, således at F fik et krav mod ejeren. Under disse omstændigheder fandtes H, der ikke bragte F ud af hans vildfarelse, at hæfte for betalingen for arbejderne". Se dommen her: **https://pro.karnovgroup.dk/document/7000199524/1** 
+**<a href="https://pro.karnovgroup.dk/document/7000199524/1">Dommen klik her!</a>**
 
 ---
 
 Dommen i **U 1987.43 V** Installationsarbejde bestilt af ægtefælle kunne under de konkrete omstændigheder tillige kræves betalt af den anden ægtefælle.
-Efter bestilling af M udførte elinstallatør E installationsarbejde på en ejendom, der - hvilket E ikke vidste - ikke tilhørte M, men M's ægtefælle H. E sendte faktura til M og forsøgte forgæves at inddrive beløbet hos ham, hvorefter E rettede sit krav mod H. - Selv om H måtte antages at være klar over, at M's betalingsevne var tvivlsom, reagerede hun ikke overfor E i anledning af, at de nævnte hensigtsmæssige og til dels nødvendige arbejder var udført på hendes ejendom. Først efter at samlivet med M var ophævet og kravet var blevet rettet mod hende, gjorde H gældende, at hun ikke havde bestilt eller godkendt arbejdets udførelse. I hvert fald under disse omstændigheder fandtes H at have pådraget sig en medhæftelse for regningens betaling*. Se dommen:  **https://pro.karnovgroup.dk/document/7000205195/1.**   
+**<a href="https://pro.karnovgroup.dk/document/7000205195/1.">Videoen klik her!</a>**
 
 ---
 
@@ -384,14 +391,15 @@ Hæftelse for den anden *ægtefælles gæld* kan også følge af lovgivningen, b
 
 Det følger af ÆF § 4, at ægtefællerne har en *gensidig forsørgelsespligt*. ”Under ægteskabet har ægtefæller pligt til at forsørge hinanden”, jf. ÆF § 4, stk. 1. 
 
-**Hvad en ægtefælle modtager fra den anden ægtefælle som forsørgelse efter ÆF § 4, stk. 1, tilhører modtageren**. 
+Hvad en ægtefælle modtager fra den anden ægtefælle som forsørgelse efter ÆF § 4, stk. 1, tilhører modtageren. 
 
 Der kan efter bestemmelserne i kapitel 16 i loven pålægges en ægtefælle, der ikke opfylder sin forsørgelsespligt efter stk. 1, at betale bidrag til den anden ægtefælle.
 
 ---
 
 Statsforvaltningen er nedlagt ved familieretshusloven, hvorefter det enten er familieretshuset eller familieretten, der træffer afgørelse om pligt til at udrede bidrag til den anden ægtefælle, jf. lovens § 60 a, stk. 2:
-**https://familieretshuset.dk/**
+
+**<a href="https://familieretshuset.dk/">Familieretshuset klik her!</a>**
 
 ---
 
@@ -428,7 +436,8 @@ Den ægtefælle, der hævder at have et gældskrav på den anden, må føre bevi
 
 ---
 
-Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001.2184**. Se hele dommen: **https://pro.karnovgroup.dk/document/7000229969/1**
+Forsørgelsespligten får for boligen den konsekvens, at den ægtefælle, der har skødet på den pågældende faste ejendom eller har lejekontrakt på lejligheden, ikke kan få den anden ægtefælle udsat af boligen ved en umiddelbar fogedforretning, jf. herved dommen **U 2001.2184**. 
+**<a href="https://pro.karnovgroup.dk/document/7000229969/1">Dommen klik her!</a>**
 
 ---
 
@@ -634,6 +643,8 @@ Endelig kræves det, at gavemodtageren vidste eller burde vide, at gaven var giv
 
 Dette vil fx være tilfældet, hvis gavegivers nye partner er klar over, at gavegiver er i færd med at overføre sin formue til partneren inden samlivsophævelse.  
 
+---
+
 Det er den ægtefælle, der kræver gaven tilbage, der har bevisbyrden herfor.  
 
 Adgangen til at kræve en gave tilbage tilkommer kun ægtefællen selv, herunder den længstlevende ægtefælle efter gavegivers død, men ikke ægtefællens arvinger eller kreditorer. 
@@ -705,10 +716,8 @@ Giver man gaver over ud over det afgiftsfri bestemte beløb til sin nærmeste fa
 
 Hvis man giver en gave under afgiftsgrænsen, skal hverken gavegiver eller modtageren gøre noget.
 
-Gaveafgiftsbeløbet indeksreguleres årligt, se link til SKAT om gaver og evt. indberetning for gaver over afgiftsgrænsen. Se link her **https://skat.dk/skat.aspx?oid=2234842**
-
-
-
+Gaveafgiftsbeløbet indeksreguleres årligt, se link til SKAT om gaver og evt. indberetning for gaver over afgiftsgrænsen. 
+**<a href="https://skat.dk/skat.aspx?oid=2234842">SKAT klik her!</a>**
 
 ---
 
@@ -841,10 +850,15 @@ Men når den første ægtefælle dør, bliver dennes særeje til fælleseje og s
 
 Den længstlevende ægtefælles særeje opretholdes imidlertid og bliver altså til fuldstændigt særeje. 
 
+---
+
 Det er derfor kun førstafdødes skilsmissesæreje, der bliver til fælleseje ved død.  
+
 Det ægtefællebegunstigende kombinationssæreje er en særejeform, der tiltaler de fleste, idet formen kombinerer fordelene ved skilsmissesæreje og fuldstændigt særeje, således at den længstlevende ægtefælle sikres bedst muligt i forhold til førstafdødes arvinger og eventuelle kreditorer.  
 
 Ægtefællebegunstigende kombinationssæreje anvendes således i tilfælde, hvor ægtefællerne ønsker at tilgodese den længstlevende ægtefælle fremfor ægtefællernes sær- og/eller fællesbørn. 
+
+---
 
 Ægtefæller aftaler ofte et ægtefællebegunstigende kombinationssæreje, hvor ægtefællerne har skilsmissesæreje, der skal være fuldstændigt særeje for længstlevende ved førstafdødes død, uanset hvem af ægtefællerne der dør først. 
 
@@ -861,6 +875,8 @@ Fordelene for den længstlevende er, at længstlevende har mulighed for enten at
 Arvingsbegunstigende kombinationssæreje anvendes i tilfælde, hvor ægtefællerne ønsker at tilgodese enten førstafdødes eller længstlevendes arvinger frem for ægtefællen. 
 
 Ved arvingsbegunstigende kombinationssæreje kan eksempelvis førstafdødes arvinger tilgodeses ved, at førstafdødes formue er fuldstændigt særeje, mens længstlevendes formue er delingsformue. 
+
+---
 
 Dette indebærer, at førstafdødes formue ikke deles med længstlevende, inden formuen deles med førstafdødes arvinger (ægtefællen og førstafdødes børn). 
 
@@ -939,6 +955,8 @@ En sådan aftale kan også omfatte fremtidige indbetalinger på pensionsrettighe
 
 Efter ÆF § 13 kan ægtefællerne ved ægtepagt aftale, at en pensionsrettighed skal være særeje i overensstemmelse med de muligheder for særeje, der findes i ÆF § 12. 
 
+---
+
 Pensionsrettigheden kan således gøres til skilsmissesæreje, fuldstændigt særeje, kombinationssæreje osv., ligesom særejet kan gøres tidsbegrænset.  
 
 ÆF § 13 omfatter både privatpension og pension oprettet som led i ansættelsesforhold.  
@@ -956,6 +974,8 @@ Særejet bevirker med andre ord, at den overskydende pension - ekstra pension - 
 For det andet bevirker særejebestemmelsen, at reglerne om pensionkompensation i lovens kapitel 13 ikke kan finde anvendelse. 
 
 Der kan således ikke ved særeje blive tale om fællesskabskompensation efter ÆF § 44 eller rimelighedskompensation efter ÆF § 45. 
+
+---
 
 Derimod kan der godt blive tale om rimelighedskompensation efter ÆF § 42, hvis betingelserne heri er opfyldt.  
 
@@ -975,6 +995,8 @@ Det fremgår indirekte af ÆF § 14, at ægtefæller ved ægtepagt kan aftale æ
 
 Tredjemandsbestemt særeje kan således kun ændres, hvis tredjemand har bestemt, at dette kan ske. 
 
+---
+
 I relation til gaver kan tredjemand efter fuldbyrdelsen af gaven give samtykke til ændring af den oprindelige særejebestemmelse. 
 
 Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, er ægtepagten ugyldig. 
@@ -983,8 +1005,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ## Video om hvilket særeje skal du vælge?
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/u3qv7qhAn14" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/u3qv7qhAn14">Videoen klik her!</a>**
 
 ---
 
@@ -1015,6 +1036,8 @@ Desuden har de en leaset Mercedes, hvor de hver måned betaler 2.900 kr. i leasi
 *Spørgsmål:* 
 
 Lav en bodelingsopgørelse for Bo og Jette, hvis de skulle skilles nu og læg til grund, at Jette har købt tøjbutikken for 350.000 kr. og forsat den som personlig virksomhed med en tilhørende gæld på 400.000 kr. 
+
+
 
 
 
@@ -1069,6 +1092,10 @@ mydf %>%
   # scroll_box(width = "500px") %>%
   footnote(general = "Bodelingsopgørelse mellem Jette og Bo",general_title = "")
 ```
+
+---
+
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1155,6 +1182,10 @@ Spørgsmål 5) Redegør ud fra den relevante lovgivning for, i hvilken udstrækn
 
 ---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
+
 ## Forhåndsaftaler om formuedelingen  
 
 ### Alders-, kapital- og ratepensioner
@@ -1235,6 +1266,8 @@ En aftale om, at en gældspost ikke skal kunne fradrages ved opgørelsen af deli
 
 Har den ægtefælle, hvis gældspost efter aftalen skal holdes udenfor delingen, ikke aktiver, der kan holdes uden for delingen, og som kan dække gælden, vil aftalen indebære, at den formue, der skal deles, deles skævt til fordel for den anden ægtefælle, således at denne bliver stillet, som om gælden ikke fandtes.  
 
+---
+
 Ægtefæller kan med denne bestemmelse holde bestemte gældsposter udenfor delingen. 
 
 Ægtefæller kan eksempelvis aftale, at den enes studiegæld ikke skal kunne fradrages i delingsformuen, eller at halvdelen af gælden på den anden ægtefælles kontokort skal fradrages i delingsformuen.  
@@ -1258,6 +1291,8 @@ Denne bestemmelse har til formål at forhindre, at ægtefæller indgår aftale o
 Ægtefæller kan således fx ikke aftale, at al gæld, som manden fremtidig optager med sikkerhed i sin særejeejendom, skal fradrages i delingsformuen.  
 
 Ved aftale om, at gæld, der påhviler særeje, efter ÆF § 29, stk. 2, skal fratrækkes i delingsformuen, er det således et krav, at den gæld, aftalen vedrører, er stiftet senest i forbindelse med aftalens indgåelse, således at ægtefællerne har mulighed for at overskue, hvilken gæld der er omfattet af aftalen. 
+
+---
 
 At gælden skal være stiftet "i forbindelse med aftalen" indebærer, at gælden ikke behøver at være stiftet inden indgåelsen af aftalen. 
 
@@ -1309,6 +1344,8 @@ Der glæder et *"specifikationskrav"* i ægtepagter;	særejet skal i ægtepagter
 
 I det digitale tinglysningssystem kan ægtefæller underskrive en ægtepagt digitalt samtidig med, at ægtepagten med digital underskrift anmeldes til tinglysning i tinglysningssystemet i Personbogen.  
 
+---
+
 Hvis ægtefællerne underskriver en ægtepagt i hånden, kan den indlægges (uploades) i tinglysningssystemet, og ægtefællerne kan herefter i fællesskab anmelde den til tinglysning med digital underskrift. 
 
 Hvis kun den ene ægtefælle underskriver anmeldelsen af en ægtepagt, tinglyses ægtepagten med frist til fremvisning af den originalt underskrevne ægtepagt.  
@@ -1349,6 +1386,8 @@ Der er ikke noget til hinder for, at ægtefællerne underskriver ægtepagten for
 
 Der er i tinglysningslovens § 50 c, stk. 7 gennemført ændringer i offentlighedens adgang til indholdet af ægtepagter, sådan at de alene kan videregives til brug i konkrete retsforhold. 
 
+---
+
 Fuldstændige oplysninger skal dog efter anmodning videregives til den, som oplysningerne angår. 
 
 En ægtepagt kan kun ændres eller ophæves ved ægtepagt. 
@@ -1379,7 +1418,8 @@ Arvelader kan således i testamente gøre arven til særeje, og det sker ofte i 
 
 ---
 
-Arveforskud må behandles som gave; ikke som arv, jf. dommen i **U 1975.473Ø** Se hele dommen her: **https://pro.karnovgroup.dk/document/7000211567/1**
+Arveforskud må behandles som gave; ikke som arv, jf. dommen i **U 1975.473Ø** 
+**<a href="https://pro.karnovgroup.dk/document/7000211567/1">Dommen klik her!</a>**
 
 ---
 
@@ -1399,7 +1439,8 @@ Spørgsmålet har været, om aktivet kan siges at være givet som gave med den v
 
 Praksis, som især vedrører fast ejendom, hvor friværdien gives som gave, er ikke entydig. 
 
-Se fra praksis fx dommen **U 1987.763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje). Se hele dommen: **https://pro.karnovgroup.dk/document/7000206313/1**
+Se fra praksis fx dommen **U 1987.763 H**, hvor der lægges vægt på et kvantitativt kriterium knyttet til gavemomentets omfang. (Uanset kun ca. 13 % af ejendommens værdi blev berigtiget som gave, og gavemodtager skulle overtage rentegæld samt optage ejerskiftelån m.m., statueredes, at landbrugsejendommen i sin helhed blev særeje). 
+**<a href="https://pro.karnovgroup.dk/document/7000206313/1">Dommen klik her!</a>**
 
 ---
 
@@ -1422,9 +1463,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ## Video om guide til separation og skilsmisse
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-ZXmo3X8GOQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/-ZXmo3X8GOQ">Videoen klik her!</a>**
 
 ---
 
@@ -1434,13 +1473,12 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ## Video om guide til bodeling ved skilsmisse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/cKeZZuNhIaw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/cKeZZuNhIaw">Videoen klik her!</a>**
 
 ---
 
 Se her en guide når man går fra hinanden:
-
-**https://www.borger.dk/familie-og-boern/skilsmisse-og-familiebrud**
+**<a href="https://www.borger.dk/familie-og-boern/skilsmisse-og-familiebrud">klik her!</a>**
 
 ---
 
@@ -1455,7 +1493,9 @@ Det er de aktiver og passiver, som ægtefællerne besidder på ophørsdagen, der
  
 Reglerne i denne lov omhandler de materielle regler om formuedelingen ved separation og skilsmisse. 
 
-De tidligere materielle regler om formuedeling i ægtefælleskifteloven er flyttet til ægtefælleloven (ÆF). 
+De tidligere materielle regler om formuedeling i ægtefælleskifteloven er flyttet til ægtefælleloven (ÆF).
+
+---
 
 Reglerne om behandling af sager om deling af ægtefællers formue findes fortsat i ægtefælleskifteloven, suppleret af regler i retsplejeloven. 
 
@@ -1519,13 +1559,14 @@ Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue,
 
 ## Video om skilsmisse i børnehøjde
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/M2Av7OqKLtw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/M2Av7OqKLtw">Videoen klik her!</a>**
 
 ---
 
 ### Aftaler om formuedelingen
 
-Med ÆF § 32 lovfæstes mulighed for, at ægtefæller i forbindelse med en separation eller skilsmisse kan indgå aftale om delingen af deres formue, som anses indeholdt indirekte i ægteskabslovens § 58, se LBKG 2019-08-07 nr 771 Ægteskabs indgåelse og opløsning (Ægteskabsloven) i Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**  
+Med ÆF § 32 lovfæstes mulighed for, at ægtefæller i forbindelse med en separation eller skilsmisse kan indgå aftale om delingen af deres formue, som anses indeholdt indirekte i ægteskabslovens § 58, se LBKG 2019-08-07 nr 771 Ægteskabs indgåelse og opløsning (Ægteskabsloven) i Lovsamlingen
+**<a href="https://jura.tepedu.dk/lovsamling.html">klik her!</a>**
 
 ---
 
@@ -1706,15 +1747,18 @@ Er begge formuer negative, skal der ikke ske nogen deling. Hver ægtefælle beho
 
 ---
 
-På Domstolstyrelsens hjemmeside findes det et skema som ægtefællerne skal udfylde til skifteretten til brug for opgørelsen af aktiver og passiver:
+På Domstolstyrelsens hjemmeside findes det et skema som ægtefællerne skal udfylde til skifteretten til brug for opgørelsen af aktiver og passiver.
+**<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Oversigt%20over%20aktiver%20og%20passiver.pdf">klik her!</a>**
 
-**http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Oversigt%20over%20aktiver%20og%20passiver.pdf**
+---
 
 Denne oversigt skal vise centrale oplysninger om begge ægtefællers økonomiske forhold. 
 
 Skifteretten skal bruge oplysningerne på det første møde for at kunne vejlede og eventuelt mægle forlig.
 
 Oplysningerne i oversigten er foreløbige. Aktiver og passiver skal så vidt muligt opgøres pr. den dag, som begge parter havde pr. den dag, der blev indgivet anmodning om separation/skilsmisse (ophørsdagen). 
+
+---
 
 Ægtefællerne behøver ikke at indhente vurderinger for at udfylde oversigten.
 
@@ -1784,11 +1828,13 @@ At indbringe den væsentligste del af fællesboet ved ægteskabets indgåelse - 
 
 Afgørende er, om den ene ægtefælle har indbragt væsentligt mere end den anden, jf. "TFA" Tidskrift for Familie- og Arveret:
 
-**TFA 2009.92 V**, og at denne værdiforskel er et væsentligt beløb set i forhold til fællesboets samlede værdi. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000395155/1** 
+Se dommen i **TFA 2009.92 V**, og at denne værdiforskel er et væsentligt beløb set i forhold til fællesboets samlede værdi. 
+**<a href="https://pro.karnovgroup.dk/document/7000395155/1">Dommen klik her!</a>**
 
 ---
 
-I dommen i **U 1976.752 V** nævnes boets forholdsvis beskedne værdi som argument mod skævdeling (ikke tillagt M ret til forlods udtagelse efter 1½ års ægteskab; væsentligste aktiv var en af ham indbragt sommerhusgrund ansat til 50.000 kr. Begge ægtefæller havde bidraget til den fælles husholdning). Men heraf kan næppe udledes, at skævdeling ikke kan komme på tale, hvis boet er under 100.000 kr. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000210037/1**
+I dommen i **U 1976.752 V** nævnes boets forholdsvis beskedne værdi som argument mod skævdeling (ikke tillagt M ret til forlods udtagelse efter 1½ års ægteskab; væsentligste aktiv var en af ham indbragt sommerhusgrund ansat til 50.000 kr. Begge ægtefæller havde bidraget til den fælles husholdning). Men heraf kan næppe udledes, at skævdeling ikke kan komme på tale, hvis boet er under 100.000 kr. 
+**<a href="https://pro.karnovgroup.dk/document/7000210037/1">Dommen klik her!</a>**
 
 ---
 
@@ -1889,11 +1935,13 @@ Pensionsindbetalinger udover en sædvanlig arbejdsmarkedspension, som har til fo
 
 ---
 
-Se fra retspraksis dommen i **TFA 2017.49 Ø**, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000757760/1** 
+Se fra retspraksis dommen i **TFA 2017.49 Ø**, hvor en pensionsindbetaling på 339.000 kr. blev anset at overskride grænsen for opfyldningspension. Indbetalingen blev anset for ekstraordinær, da den i væsentlig grad oversteg, hvad M ellers havde indbetalt og skete på et tidspunkt, hvor M og H havde diskuteret separation. 
+**<a href="https://pro.karnovgroup.dk/document/7000757760/1">Dommen klik her!</a>**
 
 ---
 
-Se tillige dommen i **TFA 2017.229 Ø** om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000770262/1**
+Se tillige dommen i **TFA 2017.229 Ø** om en ægtefælle, der var selvstændig. Indbetalinger i en årrække ud over 18 % skulle indgå i formuedelingen. Engangssum fra gruppelivsforsikring udbetalt til H i forbindelse med bevilling af førtidspension skulle indgå i formuedelingen. 
+**<a href="https://pro.karnovgroup.dk/document/7000770262/1">Dommen klik her!</a>**
 
 ---
 
@@ -1929,7 +1977,8 @@ Der kan dog forekomme situationer, hvor det vil være rimeligt også at lægge v
 
 ---
 
-I dommen **TFA 2017 39 V** blev et ægteskab på 4 år og 10 måneder anset for kortvarigt, således at parterne kunne udtage alle deres egne pensionsrettigheder forlods. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000756782/1**
+I dommen **TFA 2017 39 V** blev et ægteskab på 4 år og 10 måneder anset for kortvarigt, således at parterne kunne udtage alle deres egne pensionsrettigheder forlods. 
+**<a href="https://pro.karnovgroup.dk/document/7000756782/1">Dommen klik her!</a>**
 
 ---
 
@@ -2154,34 +2203,38 @@ Se begrebet *"vanrøgt"* som er en	uforsvarlig behandling. Kan give den anden æ
 
 ---
 
-Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i **TFA 2016.116 Ø** Misbrugskrav afvist. 
-
-Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo. Se hele dommen her:**https://pro.karnovgroup.dk/document/7000742331/1**
-
----
-
-Dommen i **U 2006.2792** Boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.  Se hele dommen her:
-**https://pro.karnovgroup.dk/document/7000355637/1**
+Som eksempler på bestemmelsens anvendelse, se fra retspraksis dommen i **TFA 2016.116 Ø** Misbrugskrav afvist. Forbrug på ejendom i Spanien i form af ca. 1,3 mio. kr. til istandsættelse og køb af indbo. 
+**<a href="https://pro.karnovgroup.dk/document/7000742331/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **TFA 2006 119** Salg af andelsbolig i 2-familie hus. Ikke et misbrugskrav. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000323583/1**
+Dommen i **U 2006.2792** Boets nettobeholdning var 1,7 mio. I 1998 og 1999 var H’s privatforbrug 986.000 kr. Misbrugskrav på 200.000 kr.  
+**<a href="https://pro.karnovgroup.dk/document/7000355637/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **TFA 2001.305** Ikke et misbrugskrav. Under anke af offentligt fællesboskifte påstod manden, at godt 300.000 kr., overført til hustruen i løbet af et par år før separationen, var a conto boslod, subsidiært at der tilkom ham et vederlagskrav efter (dagældende) lov om ægteskabets retsvirkninger § 23: "Landsretten fandt ikke, at manden havde bevist, at der var indgået en bodelingsaftale. Pengene var overført, efter at der var opstået betydelige uoverensstemmelser, for at hustruen kunne købe og istandsætte en lejlighed. Lejlighedskøbet viste sig at være en dårlig forretning, men det skyldtes ikke misbrug eller anden uforsvarlig adfærd. Vederlagskravet afvistes. Salgsprovenuet fra salg af en bil og ophævede pensionsordninger skulle ikke medtages som aktiver for hustruen, idet pengene fandtes brugt til betaling af gæld og almindelige leveomkostninger". Se hele dommen her: **https://pro.karnovgroup.dk/document/7000284188/1**
+Dommen i **TFA 2006 119** Salg af andelsbolig i 2-familie hus. Ikke et misbrugskrav. 
+**<a href="https://pro.karnovgroup.dk/document/7000323583/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 1965.820 Ø** Betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000212639/1**
+Dommen i **TFA 2001.305** Ikke et misbrugskrav. Under anke af offentligt fællesboskifte påstod manden, at godt 300.000 kr., overført til hustruen i løbet af et par år før separationen, var a conto boslod, subsidiært at der tilkom ham et vederlagskrav efter (dagældende) lov om ægteskabets retsvirkninger § 23.
+**<a href="https://pro.karnovgroup.dk/document/7000284188/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **U 1964.174 V** Forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000210541/1**
+Dommen i **U 1965.820 Ø** Betydelige gaver fra M til K, som han senere giftede sig med, ej misbrug, da de var afholdt af hans løbende indtægter. 
+**<a href="https://pro.karnovgroup.dk/document/7000212639/1">Dommen klik her!</a>**
 
 ---
 
-Dommen i **TFA 1997.96** Hustru fik under fællesboskifte tilkendt knap 130.000 kr. med procesrente i vederlag efter (dagældende) lov om ægteskabets retsvirkninger § 23, stk. 1. Manden kunne ikke redegøre for en nettoformuenedgang på over 700.000 kr. siden samlivsophævelsen i 1989. Han havde endvidere misbrugt sin rådighed over bodelen ved oprettelse og salg af et anpartsselskab. Endelig havde han solgt en bil til en søn for en pris under værdien. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000283124/1**
+Dommen i **U 1964.174 V** Forbrug på 14.000 kr. i 5 mdr.-periode lige før samlivsophævelse anset som misbrug. M’s bodel var 21.000 kr.; H’s 6.000 kr.. 
+**<a href="https://pro.karnovgroup.dk/document/7000210541/1">Dommen klik her!</a>**
+
+---
+
+Dommen i **TFA 1997.96** Hustru fik under fællesboskifte tilkendt knap 130.000 kr. med procesrente i vederlag efter (dagældende) lov om ægteskabets retsvirkninger § 23, stk. 1. Manden kunne ikke redegøre for en nettoformuenedgang på over 700.000 kr. siden samlivsophævelsen i 1989. Han havde endvidere misbrugt sin rådighed over bodelen ved oprettelse og salg af et anpartsselskab. Endelig havde han solgt en bil til en søn for en pris under værdien. 
+**<a href="https://pro.karnovgroup.dk/document/7000283124/1">Dommen klik her!</a>**
 
 ---
 
@@ -2301,7 +2354,8 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ## Video om når det går galt ved en skilsmisse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ZvS2L4wIKPo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/ZvS2L4wIKPo">Videoen klik her!</a>**
+
 
 ---
 
@@ -2309,17 +2363,15 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-## Video om regler for samvær  
+## Video om regler for samvær 
 
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/tEDkwMk96r8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/tEDkwMk96r8">Videoen klik her!</a>**
 
 ---
 
 ## Video om hvordan møder man skilsmissen?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/o3E7r1JbvpA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+**<a href="https://www.youtube.com/embed/o3E7r1JbvpA">Videoen klik her!</a>**
 
 ---
 
@@ -2332,7 +2384,9 @@ Der kan ske omstødelse af et ægteskab. Ægteskabet kan opløses på grund af f
 
 ## Video om 8 råd til et papirløst samliv
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-g-TQPmtJEU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+**<a href="https://www.youtube.com/embed/-g-TQPmtJEU">Videoen klik her!</a>**
+
+---
 
 Det er vigtigt at tage stilling til ejerforhold, arv og pension når man lever i et parforhold uden at være gift.
 

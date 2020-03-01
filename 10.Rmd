@@ -5,27 +5,35 @@ cat(readLines('npp.html'))
 ```
 
 ![](img/data.jpg)
-http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne^[Følgende afsnit om databeskyttelsesreglerne bygger på *Sonny Kristoffersen*: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.] 
+**<a href="http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne" target="_blank"> Se bogen klik her!</a>**^[Følgende afsnit om databeskyttelsesreglerne bygger på *Sonny Kristoffersen*: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.] 
 
 ---
 
-Lovgrundlaget er **Databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), Se link til hele forordningen:
-**https://pro.karnovgroup.dk/document/7000751611/1**
+**Kapitlet om "Databeskyttelse" er pensum i brancheretningsfaget "Finansiel rådgivning" på finansøkonomuddannelsen**
+
+---
+
+Lovgrundlaget er **Databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), 
+**<a href="https://pro.karnovgroup.dk/document/7000751611/1" target="_blank">Databeskyttelsesforordningen klik her!</a>**
+
+---
 
 Samt 
 
-**Databeskyttelsesloven**, jf. Lov 2018-05-23 nr. 502 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, se databeskyttelsesloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
+**Databeskyttelsesloven**, jf. Lov 2018-05-23 nr. 502 om supplerende bestemmelser til forordning om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger, 
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Se databekyttelsesloven i Lovsamlingen klik her!</a>**
 
 ---
 
 ## <font color="red">Hvad er databeskyttelse?<sup> Premium </font></sup>
-
 
 Enhver har ret til beskyttelse af sine personoplysninger, og enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte personoplysningerne. 
 
 Disse rettigheder og forpligtelser går samlet under betegnelsen *"databeskyttelse"*.
 
 Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sammenhæng, skal ske i overensstemmelse med reglerne på databeskyttelsesområdet.
+
+---
 
 Personoplysninger er alle oplysninger, der vedrører en identificeret eller identificerbar fysisk person. 
 
@@ -37,11 +45,15 @@ Den registrerede har en række rettigheder over for den dataansvarlige.
 
 Det er den registreredes rettigheder, der skal beskyttes, og den dataansvarlige og databehandleren, der har ansvaret for denne beskyttelse. 
 
+---
+
 Rettighederne har til formål at gøre det gennemsigtigt for den registrerede, hvornår der behandles oplysninger om vedkommende, og hvilke oplysninger, der behandles. 
 
 Herudover giver rettighederne den registrerede kontrol over sine egne personoplysninger. 
 
 Den dataansvarlige skal sikre sig, at behandlingen af personoplysninger er i overensstemmelse med en række grundprincipper, ligesom der skal være et lovligt grundlag til at behandle oplysningerne. 
+
+---
 
 Reglerne på databeskyttelsesområdet indebærer også, at den dataansvarlige skal foretage en række mere generelle vurderinger og overvejelser i forhold til selve beskyttelsen af de oplysninger.
 
@@ -54,9 +66,7 @@ Gør den dataansvarlige ikke det - eller er du ikke tilfreds med den dataansvarl
 **Studenteropgave**
 
 Hvilke rettigheder har den registrede og give praktiske eksemplar på dette?
-
-Se link til Datatilsynet: **https://www.datatilsynet.dk/**
-
+**<a href="https://www.datatilsynet.dk/" target="_blank">Datatilsynet klik her!</a>**
 
 
 ---
@@ -64,20 +74,20 @@ Se link til Datatilsynet: **https://www.datatilsynet.dk/**
 
 ## <font color="red">Video Top 5 things to consider for your GDPR preparation<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/6fITStJ-4Es" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/6fITStJ-4Es">Videoen klik her!</a>**
 
 
 ---
 
 ## <font color="red">Video om databeskyttelsesreglerne på 7 minutter<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/AXnQQyVvmuM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/AXnQQyVvmuM">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om databeskyttelsesforordningens krav til den finansielle sektor<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/5OwWsQHpsDc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/5OwWsQHpsDc">Videoen klik her!</a>**
 
 
 ---
@@ -94,6 +104,8 @@ Enhver person har således ret til beskyttelse af sine personoplysninger, og enh
 
 Disse rettigheder og forpligtelser går samlet under betegnelsen *"databeskyttelse"*. 
 
+---
+
 Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sammenhæng, skal ske i overensstemmelse med reglerne på databeskyttelsesområdet, jf. databeskyttelsesforordningen (også kaldet; *”GDPR”* General Data Protection Regulation), som har direkte virkning i Danmark. 
 
 
@@ -102,18 +114,15 @@ Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sa
 
 ---
 
-
-
-
 ## <font color="red">Video GDPR: What Is It and How Might It Affect You?<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/j6wwBqfSk-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/j6wwBqfSk-o">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video: What is the GDPR? | A summary of the EU GDPR<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/Assdm6fIHlE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/Assdm6fIHlE">Videoen klik her!</a>**
 
 
 ---
@@ -121,6 +130,8 @@ Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sa
 Den supplerende databeskyttelseslovs formål er identisk med formålet i databeskyttelsesforordningen, nemlig beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og fri udveksling af personoplysninger i EU.
 
 Når en virksomhed behandler personoplysninger er den underlagt reglerne i persondataforordningen og databeskyttelsesloven.
+
+---
 
 Persondataforordningen pålægger virksomhederne en række forpligtelser, når de behandler personoplysninger.
 
@@ -130,25 +141,16 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 ## <font color="red">Video Introduktion til databeskyttelsesloven<sup> Premium </font></sup>
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/bEh-vF-C5-A" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/bEh-vF-C5-A">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video: Hvad er persondata?<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/jmVTmSLkkh0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/jmVTmSLkkh0" target="_blank">Videoen klik her!</a>**
 
 ---
  
-
-
 ## <font color="red">Hvad er ”behandling” i persondataretten?<sup> Premium </font></sup>
-
-
-
 
 
 ![](img/gdpr2.jpg)
@@ -159,6 +161,8 @@ Enhver form for oplysning, der knytter sig til en bestemt fysisk person, som gø
 Det kan fx være et personnummer, en bopælsadresse, et journalnummer, et bilregistreringsnummer, en IP-adresse osv.
 
 Hvis oplysninger om fysiske personer er fuldstændig anonymiserede, er der ikke tale om personoplysninger.
+
+---
 
 Ifølge databeskyttelsesforordningens artikel 4, nr. 2, skal begrebet *”behandling”* forstås som enhver aktivitet eller række af aktiviteter - med eller uden brug af automatisk behandling - som personoplysninger eller en samling af personoplysninger gøres til genstand for, fx: 
 
@@ -260,13 +264,10 @@ Politisk, religiøs og filosofisk overbevisning.
 
 Fagforeningsmæssigt tilhørsforhold, helbred, seksuel orientering.
 
-
 ---
 
 ## <font color="red">Video: Kategorier af personoplysninger<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/gn5QEtgZcVc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/gn5QEtgZcVc" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -324,13 +325,9 @@ En anden måde at se de forskellige kategorier af personoplysninger på.
 
 Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. 
 
-
-
 ---
 
 ## <font color="red">Hvornår kan der ske behandling af ikke-følsomme oplysninger?<sup> Premium </font></sup>
-
-
 
 Almindelige personoplysninger omfatter alle oplysninger, der ikke er klassificeret som særlige kategorier af oplysninger (følsomme personoplysninger). 
 
@@ -351,23 +348,17 @@ En virksomhed må kun behandle almindelige ikke-følsomme personoplysninger, hvi
 ---
 
 ## <font color="red">Videoer om hvordan håndterer I personoplysninger i jeres virksomhed?<sup> Premium </font></sup>
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/idYfVNZbQeU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
----
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/qBkWNv9_vsc" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/qBkWNv9_vsc" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Hvornår kan der ske behandling af følsomme oplysninger?<sup> Premium </font></sup>
 
 
-Særlige kategorier af personoplysninger (følsomme personoplysninger) følger af databeskyttelsesforordningens artikel 9, stk. 1. Se link her:
+Særlige kategorier af personoplysninger (følsomme personoplysninger) følger af databeskyttelsesforordningens artikel 9, stk. 1. 
+**<a href="https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A9" target="_blank">Fordningen klik her!</a>**
 
-**https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A9**
+---
 
 Følsomme personoplysninger er udtrykkelig afgrænset i databeskyttelsesforordningen, og adgangen til at behandle sådanne oplysninger er snævrere end ved almindelige personoplysninger. 
 
@@ -399,6 +390,8 @@ Af databeskyttelsesforordningen fremgår det, hvornår der må ske behandling af
 
 De følsomme oplysninger omfattet af databeskyttelsesforordningens artikel 9, stk. 1, må dog behandles, hvis der er hjemmel til det i forordningen, hvilket særligt vil sige i databeskyttelsesforordningens artikel 9, stk. 2, litra a-j: 
 
+---
+
 Behandling af de pågældende oplysninger kan således ske på betingelse af, at den registrerede har givet et klart og udtrykkeligt samtykke til behandling af sådanne personoplysninger (litra a). 
 
 Der skal således være tale om en frivillig, specifik og informeret. viljestilkendegivelse. 
@@ -410,6 +403,8 @@ Et samtykke skal meddeles på en sådan måde, at det klart og utvetydigt fremg�
 Herudover skal samtykket være udtrykkeligt.  
 
 Heraf følger, at den dataansvarlige ikke vil kunne opnå stiltiende eller indirekte tilslutning til behandling af de i artikel 9, stk. 1 nævnte oplysninger. 
+
+---
 
 Et egentligt krav om skriftlighed følger ikke af bestemmelsen. 
 
@@ -442,8 +437,7 @@ Der bør dog i videst muligt omfang søges indhentet et skriftligt samtykke fra 
 **Studenteropgave**
 
 Hvad er følsomme oplysninger og hvornår kan der ske databehandling af følsomme oplysninger, herunder giv praktiske eksemplar på databehandling af følsomme oplysninger?
-
-Se link til Datatilsynet: **https://www.datatilsynet.dk/**
+**<a href="https://www.datatilsynet.dk/" target="_blank">Datatilsynet klik her!</a>**
 
 ---
  
@@ -493,9 +487,6 @@ mydf %>%
   footnote(general = "Datatilsynet",general_title = "Kilde:")
 ```
 
-
-
-
 ---
 
 
@@ -526,7 +517,7 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 
 ## <font color="red">Video om god behandlingsskik<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/3QSmFgl4V2E" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/3QSmFgl4V2E" target="_blank">Videoen klik her!</a>**
 
 
 ---
@@ -534,10 +525,7 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 **Studenteropgave**
 
 Hvad er nærmere god behandlingsskik og give pratiske eksemplar på dette.
-
-Se link til Datatilsynet:
-
-**https://www.datatilsynet.dk/**
+**<a href="https://www.datatilsynet.dk/" target="_blank">Datatilsynet klik her!</a>**
 
 ---
 
@@ -550,34 +538,28 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 ---
 
 ## <font color="red">Video om oplysningspligten<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/NMB734l1XfM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="*https://youtu.be/NMB734l1XfM" target="_blank"> Videoen klik her!</a>**
 
 ---
-
-
 
 ## <font color="red">Nærmere om kravet til samtykke for, at der kan behandles personoplysninger<sup> Premium </font></sup>
 
 ---
 
 ## <font color="red">Video om samtykket<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/7sQbAZSHRFU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/7sQbAZSHRFU" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om behandlingshjemlen<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/TmYVGZ_al8M" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/TmYVGZ_al8M" target="_blank">Videoen klik her!</a>**
 
 ---
 
 Ved spørgsmålet om, hvornår personoplysninger kan behandles, er den altovervejende hovedregel, at personoplysninger vil kunne behandles, såfremt der er det fornødne samtykke fra den registrerede til behandlingen. 
 
 Det følger af databeskyttelsesforordningens artikel 7, stk. 3, at den registrerede til enhver tid har ret til at trække sit samtykke tilbage:
-
-Se link: **https://pro.karnovgroup.dk/document/7000751611/4#EUFOR2016679_A7**
+**<a href="https://pro.karnovgroup.dk/document/7000751611/4#EUFOR2016679_A7" target="_blank">Forordningen klik her!</a>**
 
 ---
 
@@ -607,6 +589,8 @@ Det afgørende er, at den registreredes erklæring eller handling tydeligt tilke
 
 Den dataansvarlige skal endvidere som nævnt kunne bevise, at den registrerede har givet sit samtykke til behandlingen af personoplysninger og kunne bevise, hvad det meddelte samtykke omfatter. 
 
+---
+
 Et samtykke bør derfor bør i videst mulige omfang afgives skriftligt eller på anden måde, som kan bevises. 
 
 Kan den dataansvarlige ikke bevise, at der foreligger et gyldigt samtykke, er konsekvensen, at samtykket ikke kan anses for at være i overensstemmelse med forordningen og kan dermed ikke udgøre et lovligt behandlingsgrundlag.
@@ -622,6 +606,8 @@ Formålet med et samtykke er at give de registrerede et valg og ikke mindst kont
 Et samtykke anses derfor ikke for at være afgivet frivilligt, hvis den registrerede ikke har et reelt eller frit valg. 
 
 Et samtykke må fx ikke være afgivet under tvang. 
+
+---
 
 Dette gælder, uanset om det er den dataansvarlige eller andre, der udøver tvang over for den registrerede. 
 
@@ -639,10 +625,9 @@ Medlemmerne anses for at have et reelt og frit valg, så længe et nægtet samty
 *Aktiv viljetilkendegivelse*
 
 EU-Domstolen har den 1. oktober 2019 afsagt en præjudiciel dom, hvorefter brug af cookies på internetsider kræver en aktiv handling hos brugeren. I dommen blev det fastslået, at et forudafkrydset felt ikke kan udgøre et gyldigt samtykke. 
+**<a href="http://curia.europa.eu/juris/document/document_print.jsf?docid=218462&text=&dir=&doclang=DA&part=1&occ=first&mode=req&pageIndex=0&cid=1710106" target="_blank">Dommen klik her!</a>**
 
-Læs dommen her:
-
-**http://curia.europa.eu/juris/document/document_print.jsf?docid=218462&text=&dir=&doclang=DA&part=1&occ=first&mode=req&pageIndex=0&cid=1710106**
+---
 
 Datatilsynets vejledning er i overensstemmelse med EU-Domstolens opfattelse, idet det heraf følger, at "Tavshed, allerede afkrydsede felter på hjemmesider eller inaktivitet er ikke tilstrækkeligt til at udgøre en utvetydig tilkendegivelse og kan derfor ikke udgøre et samtykke".
 
@@ -650,37 +635,38 @@ Datatilsynets vejledning er i overensstemmelse med EU-Domstolens opfattelse, ide
 
 ### <font color="red">Kreditoplysningsbureauer<sup> Premium </font></sup>
 
-Datatilsynet har fastsat vilkår for kreditoplysningsbureauer. 
+Datatilsynet har fastsat vilkår for kreditoplysningsbureauer.
 
-Vilkårene findes her: **https://www.datatilsynet.dk/media/7922/vilkaar-for-kreditoplysningsbureauer.pdf**
+**<a href="https://www.datatilsynet.dk/media/7922/vilkaar-for-kreditoplysningsbureauer.pdf" target="_blank">Vilkårene klik her!</a>**
+
+---
 
 Formålet med vilkårene for kreditoplysningsbureauerne er at beskytte den registreredes rettigheder. 
 
-Vilkårene er fastsat af Datatilsynet med hjemmel i Databeskyttelseslovens § 26, stk. 4, og kan læses via dette link til Lovsamlingen under kapitel 26: **https://jura.tepedu.dk/lovsamling.html**. 
+Vilkårene er fastsat af Datatilsynet med hjemmel i Databeskyttelseslovens § 26, stk. 4. 
+**<a href="*https://jura.tepedu.dk/lovsamling.html" target="_blank">Se loven i Lovsamlingen klik her!</a>**
 
 ---
   
 Vejledningen om kreditoplysningsbureauer fra Datatilsynet indeholder først og fremmest en afgrænsning af, hvornår der er tale om kreditoplysningsbureauvirksomhed, der er omfattet af de særlige regler herom. Datatilsynet bekræfter i den forbindelse, at en virksomhed, der alene består i videregivelse af standardmæssige finansielle nøgletal, ifølge Datatilsynets praksis ikke skal anses for omfattet af reglerne om kreditoplysningsbureauer, herunder kravet om tilladelse. 
 
+---
+
 Dernæst beskriver vejledningen, hvordan ansøgningsprocessen foregår, og de ovenfor omtalte nye vilkår, som tilsynet stiller i forbindelse med tilladelsen til at drive kreditoplysningsbureauvirksomhed.   
 
-Man finder Datatilsynets vejledning om kreditoplysningsbureauer her:
-
-**https://www.datatilsynet.dk/media/7921/kreditoplysningsbureauer.pdf**
+Man finder Datatilsynets vejledning om kreditoplysningsbureauer her.
+**<a href="https://www.datatilsynet.dk/media/7921/kreditoplysningsbureauer.pdf" target="_blank">Se vejledningen klik her!</a>**
 
 ---
 
 Herudover har Datatilsynet udarbejdet en vejledning, som nærmere gennemgår reglerne for videregivelse af oplysninger om gæld til det offentlige til kreditoplysningsbureauer.
 
-Man finder Datatilsynets vejledning om videregivelse til kreditoplysningsbureauer af oplysninger om gæld til det offentlige her:
-
-**https://www.datatilsynet.dk/media/7920/videregivelse-til-kreditoplysningsbureauer-af-oplysninger-om-gaeld-til-det-offentlige.pdf**
+Man finder Datatilsynets vejledning om videregivelse til kreditoplysningsbureauer af oplysninger om gæld til det offentlige her.
+**<a href="*https://www.datatilsynet.dk/media/7920/videregivelse-til-kreditoplysningsbureauer-af-oplysninger-om-gaeld-til-det-offentlige.pdf" target="_blank">Se vejledningen klik her!</a>**
 
 ---
 
 ### <font color="red">Tjekliste for samtykke<sup> Premium </font></sup>
-
-
 
 Datatilsynet og Justitsministeriet har udarbejdet følgende nedenstående tjekliste, herunder kan den liste tjene som en rettesnor for, om man som dataansvarlig er på linje med kravene i databeskyttelsesforordningen eller ej:^[Jf. Datatilsynets og Justitsministeriets pjece om vejledning om Samtykke, november 2017, s. 18.]
 
@@ -724,8 +710,7 @@ Hvilke krav stilles der til "samtykket" og find praktiske eksemplar på afgivels
 
 ## <font color="red">Video et overblik for virksomheden om databeskyttelsesreglerne<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/gzAiH6jpGVM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/gzAiH6jpGVM">Videoen klik her!</a>**
 
 --- 
 
@@ -762,7 +747,11 @@ Som registreret har man således blandt andet følgende persondatarettigheder:
 
 Den registrerede har ret til at se de personoplysninger, den dataansvarlige behandler om den registrerede, og få en række oplysninger om behandlingen.^[fx. it-systemer, men det kan også være tv-overvågningsbilleder, hvor den registrerede optræder eller oplysninger om den registreredes teletrafik mv.].  
 
+---
+
 Det fremgår fx af databeskyttelsesforordningens præambelbetragtning (forord til Databeskyttelsesforordningen) nr. 63, at en registreret bør have ret til indsigt i personoplysninger, der er indsamlet om vedkommende, og til let og med rimelige mellemrum at udøve denne ret med henblik på at forvisse sig om og kontrollere en behandlings lovlighed. 
+
+---
 
 Dette omfatter registreredes ret til indsigt i deres helbredsoplysninger, fx data i deres lægejournaler om diagnoser, undersøgelsesresultater, lægelige vurderinger samt enhver behandling og ethvert indgreb, der er foretaget.
 
@@ -787,20 +776,20 @@ Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig r
 ---
 
 ## <font color="red">Video om indsigelsesret og anmodning om sletning<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/bJAmhsu0Xjg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/bJAmhsu0Xjg" target="_blank">Se videoen klik her!</a>**
 
 ---
 
-Det fremgår af bestemmelsen i forordningens artikel 17, stk. 1, hvornår en registreret har *ret* til at få personoplysninger om sig slettet af den dataansvarlige uden unødig forsinkelse, og den dataansvarlige samtidig har *pligt* til at slette personoplysninger uden unødig forsinkelse. Se link her:
-
-**https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A17**
+Det fremgår af bestemmelsen i forordningens artikel 17, stk. 1, hvornår en registreret har *ret* til at få personoplysninger om sig slettet af den dataansvarlige uden unødig forsinkelse, og den dataansvarlige samtidig har *pligt* til at slette personoplysninger uden unødig forsinkelse. 
+**<a href="https://pro.karnovgroup.dk/document/7000751611/5#EUFOR2016679_A17" target="_blank">Forordningen klik her!</a>**
 
 ---
 
 Bestemmelsen i forordningens artikel 17, stk. 1, må skulle forstås således, at forpligtelsen for den dataansvarlige til at slette som udgangspunkt alene opstår, når den registrerede gør brug af sin ret. 
 
 Dette ændrer dog ikke på, at den dataansvarlige til stadighed skal overholde principperne i forordningens artikel 5 om bl.a. formålsbegrænsning, dataminimering, rigtighed og opbevaringsbegrænsning. 
+
+---
 
 Bestemmelsen gælder for enhver, men i præambelbetragtning nr. 65 fremhæves, at retten navnlig er relevant, når den registrerede har givet sit samtykke som barn og ikke fuldt ud var bekendt med risiciene i forbindelse med behandling, og senere ønsker at fjerne sådanne oplysninger, særligt på internettet.^[Jf. betænkning nr. 1565/2017, afsnit 4.7.3.1. Ret til sletning - artikel 17, stk. 1.].  
 
@@ -810,15 +799,13 @@ Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uan
 
 ## <font color="red">Video: Retten til at blive glemt<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/opW2SjZ0ziA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/opW2SjZ0ziA">Videoen klik her!</a>**
 
 
 ---
 
 ### <font color="red">Ret til begrænsning af behandling<sup> Premium </font></sup>
 
-
-  
 Den registrerede har ret til at få begrænset behandlingen af sine personoplysninger, hvis én af en række betingelser er opfyldt:
 
 a) Den registrerede bestrider rigtigheden af personoplysningerne. 
@@ -846,9 +833,13 @@ Retten til *dataportabilitet* indebærer en ret for den registrerede til at modt
 
 Den registrerede har i visse tilfælde ret til at modtage sine personoplysninger og til at anmode om, at personoplysningerne overføres fra én dataansvarlig til en anden. 
 
+---
+
 Ved forordningens artikel 20 er der dermed indført en ny rettighed for den registrerede til dataportabilitet, som indebærer en ret til i visse tilfælde at modtage personoplysninger - som vedkommende har givet til en dataansvarlig - om sig selv i et struktureret, almindeligt anvendt og maskinlæsbart format. 
 
 Herudover indebærer retten til dataportabilitet en rettighed for den registrerede til i visse tilfælde at få transmitteret disse oplysninger om sig selv fra én dataansvarlig til anden uden hindring fra den dataansvarlige, som personoplysningerne er blevet givet til.
+
+---
 
 Formålet med denne nye rettighed er at øge den registreredes kontrol over egne personoplysninger ved at fremme mulighederne for let at få flyttet, kopieret eller overført vedkommendes personoplysninger til sig selv eller fra én tjenesteudbyder til en anden. 
 
@@ -858,9 +849,7 @@ Retten til dataportabilitet finder ikke anvendelse på behandling, der er nødve
 ---
 
 ## <font color="red">Video om indsigtsbegæring<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/TeJ1xbrjDJU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/TeJ1xbrjDJU" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -886,12 +875,11 @@ Derudover udsteder Datatilsynet retningslinjer og anbefalinger for behandling og
 **Studenteropgave**
 
 Hvilke rettigheder har den registrede over for en finansiel virksomhed og giv praktiske eksemplar på disse retigheders anvendelse ved kreditoplysninger.
-Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
-
+**<a href="https://www.datatilsynet.dk/emner/kreditoplysninger/" target="_blank"> klik her!</a>**
 
 ---
 
-##<font color="red">Dataansvarlig og databehandler<sup> Premium </font></sup>  
+## <font color="red">Dataansvarlig og databehandler<sup> Premium </font></sup>  
 
 ---
 
@@ -901,28 +889,23 @@ Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
 ---
 
 ## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/L49BE_nqLKU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/L49BE_nqLKU" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om data Protection Officer (DPO)<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/JlRCfJKrAi0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="*https://youtu.be/JlRCfJKrAi0" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/a23YoOgb2h0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+**<a href="https://www.youtube.com/embed/a23YoOgb2h0">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om fortegnelse<sup> Premium </font></sup>
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/-M8bYIHlbBA" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/-M8bYIHlbBA" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -933,13 +916,15 @@ Se link: **https://www.datatilsynet.dk/emner/kreditoplysninger/**
 
 ## <font color="red">Video om bøder<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/RBKJ6SBtEIY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/RBKJ6SBtEIY">Videoen klik her!</a>**
+
+
 
 ---
 
 ## <font color="red">Video GDPR Compliance 2019 Summary - 10 Steps in 10 Minutes to Avoid Fines<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/WPwG-MNMuBQ" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/WPwG-MNMuBQ">Videoen klik her!</a>**
 
 
 ---
@@ -948,13 +933,19 @@ Hvis databeskyttelsesforordningens regler overtrædes, kan virksomheden blive st
 
 Overtrædelser kan medføre bøder på op til 20.000.000 EUR, eller hvis det drejer sig om en virksomhed, med op til 4% af virksomhedens samlede globale omsætning i det forudgående regnskabsår, hvis dette beløb er højere end 20.000.000 EUR.
 
+---
+
 Datatilsynets kompetence til at udstede administrative bødeforelæg er begrænset til tilfælde, hvor sagen er egnet hertil. 
 
 Det vil sige i ukomplicerede sager, hvor der ikke er bevismæssige tvivlsspørgsmål. 
 
+---
+
 Det er endvidere en forudsætning, at der i retspraksis er fastlagt et tilstrækkeligt præcist bødeniveau for den pågældende overtrædelse.
 
 Som eksempler på sager, der kan anses for egnede til at blive afsluttet ved udstedelse af et administrativt bødeforelæg, kan nævnes sager om utilsigtet offentliggørelse af oplysninger på internettet. 
+
+---
 
 Sådanne sager er karakteriseret ved, at man ved en fejl er kommet til at offentliggøre oplysninger på internettet. 
 
@@ -1020,11 +1011,11 @@ Vigtigheden understreges endvidere af, at bødeniveauet for overtrædelse af GDP
 ## <font color="red">Spørgsmål og svar på databeskyttelsesreglerne<sup> Premium </font></sup>
 
 
-Ofte stillede spørgsmål til Datatilsynet:^[Følgende afsnit om spørgsmål og svar, jf. Datatilsynets hjemmeside: **https://www.datatilsynet.dk/generelt-om-databeskyttelse/ofte-stillede-spoergsmaal/.]**
+Ofte stillede spørgsmål til Datatilsynet:^[Følgende afsnit om spørgsmål og svar, jf. Datatilsynets hjemmeside:**<a href="*https://www.datatilsynet.dk/generelt-om-databeskyttelse/ofte-stillede-spoergsmaal/.]" target="_blank"> klik her!</a>** 
 
 ---
 
-*Generelt:*
+**Generelt:**
 
 *Betragtes et billede som en personoplysning?*
 
@@ -1262,7 +1253,8 @@ Hvis en afbildet person er utilfreds med offentliggørelsen af vedkommendes bill
 
 ## <font color="red">Video om offentliggørelse fra billeder på de sociale medier<sup> Premium </font></sup>
 
-**https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/**
+
+**<a href="https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1307,8 +1299,7 @@ Du kan dog altid lade en anden klage på dine vegne, hvis du giver vedkommende e
 ---
 
 Du kan finde Datatilsynets kontaktoplysninger og telefontider her:
-
-**https://www.datatilsynet.dk/kontakt/**
+**<a href="https://www.datatilsynet.dk/kontakt/" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1320,18 +1311,14 @@ Efterfølgende kan du overveje, om du fortsat har brug for at få Datatilsynets 
 
 Du kan kontakte Datatilsynet telefonisk, per e-mail eller brevpost, hvis du ønsker at blive vejledt om dine muligheder eller ønsker at klage over en behandling af personoplysninger om dig.
 
-Du finder Datatilsynets kontaktoplysninger og telefontider:
-
-**https://www.datatilsynet.dk/kontakt/**
-
 ---
 
 *Kan jeg klage over oplysninger om mig i medierne?*
 
 Mediernes behandling af personoplysninger er i vidt omfang undtaget fra databeskyttelsesreglerne og Datatilsynets tilsynskompetence.
 
-I nogle tilfælde kan Pressenævnet behandle en klage. Du kan læse mere herom på Pressenævnets hjemmeside: **https://www.pressenaevnet.dk/**
-
+I nogle tilfælde kan Pressenævnet behandle en klage. 
+**<a href="https://www.pressenaevnet.dk/" target="_blank">Pressenævnet klik her!</a>**
 
 ---
 
@@ -1340,8 +1327,7 @@ I nogle tilfælde kan Pressenævnet behandle en klage. Du kan læse mere herom p
 Hvis en nummeroplysningstjeneste, fx De Gule Sider, Krak mv., offentliggør oplysninger om hemmeligt telefonnummer, skal du rette henvendelse til dit teleselskab eller den pågældende nummeroplysningstjeneste, hvis du vil have stoppet offentliggørelsen.
 
 Hvis du har spørgsmål til eller ønsker at klage over en nummeroplysningstjeneste, skal du rette henvendelse til Energistyrelsen.
-
-Du finder Energistyrelsens kontaktinformation her: **https://ens.dk/**
+**<a href="https://ens.dk/" target="_blank">Energistyrelsens kontaktinformation klik her!</a>**
 
 ---
 
@@ -1349,7 +1335,8 @@ Du finder Energistyrelsens kontaktinformation her: **https://ens.dk/**
 
 Hvis du ønsker at klage over en sag om aktindsigt (indsigt) eller videregivelse af helbredsoplysninger efter reglerne i sundhedsloven, kan du kontakte Styrelsen for Patientsikkerhed.
 
-Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhed her: **https://stps.dk/**
+Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhed
+**<a href="https://stps.dk/" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1358,8 +1345,7 @@ Du kan læse mere om mulighederne for at klage til Styrelsen for Patientsikkerhe
 Hvis du har spørgsmål til domstolenes behandling af personoplysninger kan du kontakte Domstolsstyrelsen for at høre nærmere.
 
 Du kan læse mere på Domstolsstyrelsens hjemmeside:
-
-**http://www.domstol.dk/OM/ORGANISATION/DOMSTOLSSTYRELSEN/Pages/default.aspx**
+**<a href="http://www.domstol.dk/OM/ORGANISATION/DOMSTOLSSTYRELSEN/Pages/default.aspx" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1404,8 +1390,7 @@ Du har ret til at få oplyst, hvilke oplysninger en offentlig myndighed, privat 
 Du har krav på at få oplyst bl.a. hvilke oplysninger om dig, der behandles, formålet med behandlingen, kategorierne af modtagere af oplysningerne og tilgængelig information om, hvor oplysningerne kommer fra.
 
 Du kan læse meget mere om emnet i Datatilsynets vejledning om de registreredes rettigheder:
-
-**https://www.datatilsynet.dk/media/6893/registreredes-rettigheder.pdf**
+**<a href="https://www.datatilsynet.dk/media/6893/registreredes-rettigheder.pdf" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1472,8 +1457,7 @@ Har den dataansvarlige et andet lovligt grundlag for behandling end samtykke med
 Fortsættes behandlingen på et andet grundlag, skal den registrerede have information om behandlingsgrundlag, formål mv.
 
 Du kan læse mere om emnet i Datatilsynets vejledning om samtykke:
-
-**https://www.datatilsynet.dk/media/6562/samtykke.pdf**
+**<a href="https://www.datatilsynet.dk/media/6562/samtykke.pdf" target="_blank"> klik her!</a>**
 
 ---
 
@@ -1585,19 +1569,19 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ## <font color="red">Video - Resumé af databeskyttelsesreglerne<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/cnPsjUIThK8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/cnPsjUIThK8">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om GDPR For dummies<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/jaYdR_cPpq8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/jaYdR_cPpq8">Videoen klik her!</a>**
 
 ---
 
 ## <font color="red">Video om persondata og personaleadministration<sup> Premium </font></sup>
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/1XFvmzxlrwo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/1XFvmzxlrwo">Videoen klik her!</a>**
 
 
 ---
@@ -1607,47 +1591,12 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 **GDPR Podcastserie **
 
-<a class="spreaker-player" href="https://www.spreaker.com/show/podcast-om-gdpr-fra-datatilsynet" data-resource="episode_id=19589794" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true">Listen to "Podcast om GDPR fra datatilsynet" on Spreaker.</a>
-
----
+**<a href="https://www.spreaker.com/show/podcast-om-gdpr-fra-datatilsynet"> klik her!</a>**
 
 
 
-## <font color="red">GDPR Podcastserie #1 - Bliv 100 metermester i GDPR på "10 minutter"<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422440&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 
----
-
-## <font color="red">GDPR Podcastserie #2 - Op og ned om databehandleraftaler (i og uden for EU)<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/434422758&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-## <font color="red">GDPR Podcastserie #3 - Videregivelse og opbevaring af informationer om dine kunder<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439222899&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-## <font color="red">GDPR Podcastserie #4 - GDPR ift. brugeranmeldelser, nyhedsbreve mv.<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444258768&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-## <font color="red">GDPR Podcastserie #5 - Retten til at blive ”glemt”<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/448490415&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-
----
-
-
-## <font color="red">GDPR Podcastserie #6 – Den store opsamling<sup> Premium </font></sup>
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/518638341&color=%23a8a89c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
 ---
 
@@ -1665,9 +1614,8 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ---
 
-Se seneste nyt fra Datatilsynet: **https://www.datatilsynet.dk/presse-og-nyheder/**
-
-
+Se seneste nyt fra Datatilsynet:
+**<a href="https://www.datatilsynet.dk/presse-og-nyheder/" target="_blank"> klik her!</a>**
 
 ---
 

@@ -8,10 +8,6 @@ cat(readLines('npp.html'))
 
 ---
 
-**Tinglysning behandles i kap. 14 i "Erhvervsjura"**
-
----
-
 ## <font color="red">Et hurtigt overblik over tinglysning?<sup> Premium </font></sup>
 
 Tinglysning kan være en betingelse for, at en rettighed er gyldig.
@@ -31,8 +27,8 @@ Se kapitel 20 om tingsretlige konflikter.
 ---
 
 Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075
-om tinglysning, se nærmere tinglysningsloven i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html.**
-
+om tinglysning.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -711,8 +707,9 @@ Tinglysningen er samlet under Tinglysningsretten i Hobro, og al tinglysning fore
 Hovedloven: Lovbekendtgørelse nr. 1075 af 30. september 2014 om tinglysning
 <a href="https://www.tinglysningsretten.dk/hvad/lovgrundlag/Pages/default.aspx" target="_blank">Links til love, bekendtgørelser og cirkulærer om tinglysning.</a>
 
-Se nærmere tinglysningsloven i Lovsamlingen i kapitel 26:
-**https://jura.tepedu.dk/lovsamling.html.**
+Se nærmere tinglysningsloven.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se Lovsamlingen klik her!</a>**
+
 
 *https://www.retsinformation.dk/* indeholder alene de officielle sammenskrivninger i form af lovbekendtgørelser og datasammenskrivninger, der udarbejdes af ministerierne. 
 

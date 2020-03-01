@@ -11,16 +11,12 @@ cat(readLines('np.html'))
 *Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af kapitlet "forbrugeraftaler og forbrugerbeskyttelse":*
 
 
-•	*Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LFFE) kapitel 2, se nærmere ebogens kapitel 21* **https://jura.tepedu.dk/handel-med-fast-ejendom.html** 
+•	*Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LFFE) kapitel 2, **<a href="https://jura.tepedu.dk/handel-med-fast-ejendom.html" target="_blank">Se kapitlet klik her!</a>**
+ 
   
 •	*Forbrugeraftaleloven, om det civilretlige forbrugerbegreb, om forbud mod uanmodet henvendelser og om forbud mod negativ aftaleindgåelse, jf. forbrugeraftalelovens §§ 3-6* 
 
 •	*Fortrydelsesretten på 14 dage, forbrugeraftalelovens §§ 18-24* 
-
----
-
-**Forbrugeraftaler bliver behandlet i kap. 3.6. i "Erhvervsjura"**
-
 
 --- 
 
@@ -28,9 +24,15 @@ cat(readLines('np.html'))
 
 ![](img/forb.jpg)
 
-Forbrugeraftaleloven, jf. Lov 2013-12-17 nr. 1457 om forbrugeraftaler, se nærmere **forbrugeraftaleloven** i lovsamlingen i kapitel 26: **https://jura.tepedu.dk/lovsamling.html**
+Forbrugeraftaleloven, jf. Lov 2013-12-17 nr. 1457 om forbrugeraftaler, se nærmere **forbrugeraftaleloven** 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Se Lovsamlingen klik her!</a>**
 
-Her er *Sonny Kristoffersen* karnovkommentar til forbrugeraftaleloven **https://pro.karnovgroup.dk/document/7000823484/1**
+---
+
+Samt *Sonny Kristoffersen* karnovkommentar til forbrugeraftaleloven
+**<a href="https://pro.karnovgroup.dk/document/7000823484/1" target="_blank">klik her!</a>**
+
+---
 
 Forbrugeraftalelovens (FBL) formål:.^[Følgende afsnit om forbrugeraftaler bygger på *Sonny Kristoffersen*: ”Kend forbrugerkøbsreglerne”, 2018, Samfundslitteratur.]
 
@@ -40,7 +42,8 @@ Forbrugeraftaleloven kan vel karakteriseres som forbrugernes grundlov. Eller ang
 
 Forbrugeraftaleloven er *beskyttelsespræceptiv* – dvs. loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
 
-En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. Det kaldes for det *civilrelige forbrugerbegreb*.^[Se *Sonny Kristoffersen* artikel i U.2011B.258: Afgrænsning af det civilretlige forbrugerbegreb, se nærmere ebogens bibliotek **https://jura.tepedu.dk/bibliotek-premium.html.**]
+En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. Det kaldes for det *civilrelige forbrugerbegreb*.^[Se *Sonny Kristoffersen* artikel i U.2011B.258: Afgrænsning af det civilretlige forbrugerbegreb, 
+**<a href="https://jura.tepedu.dk/bibliotek-premium.html." target="_blank"> klik her!</a>**]
 
 En erhvervsdrivende formidler er en, der skaber kontakt imellem private handlende, fx et internetauktionsfirma, som også skal overholde forbrugeraftaleloven.
 
@@ -54,7 +57,7 @@ Se **Sø- og Handelsrettens dom afsagt den 18. juni 2009 i sag N-1-07:** QXL Ric
 
 ---
 
-Se markedsføringsloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se markedsføringsloven i Lovsamlingen klik her!</a>**
 
 ---
 
@@ -125,9 +128,6 @@ Derudover gælder markedsføringslovens § 10, stk. 6:
 
 "Den erhvervsdrivende skal derfor ved den første henvendelse til forbrugeren, oplyse denne om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden".
 
----
-
-Se markedsføringsloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
 
 ---
 
@@ -335,6 +335,8 @@ Flere varer der leveres enkeltvis – beregnes når den sidste vare er i forbrug
 
 Flere varer der leveres i partier – beregnes fra det sidste parti er i forbrugerens fysiske besiddelse.
 
+--
+
 Varer der leveres regelmæssigt over en periode – beregnes fra den første vare er i forbrugerens besiddelse.
 
 Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse.
@@ -360,6 +362,8 @@ Meddelelse om fortrydelse skal være afsendt inden fristens udløb.
 Forbrugerne skal have sine penge tilbage.
 
 Forbrugeren skal sende varen tilbage senest 14 dage efter, at den erhvervsdrivende har modtaget besked om fortrydelse.
+
+---
   
 Forbrugeren bærer risikoen for varen.
 
@@ -451,7 +455,9 @@ Der kan anvendes en standardfortrydelsesformular.
 
 ## Urimelige aftaler
 
-Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36, se nærmere aftaleloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**. 
+Urimelige aftaler kan tilsidesættes helt eller delvis eller ændres efter aftalelovens § 36, 
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Se aftaleloven i Lovsamlingen klik her!</a>**
+
 
 ---
 
@@ -482,8 +488,8 @@ Se retspraksis:
 
 ![](img/stream.jpg)
 
-Se **U 2005.2960 S** om vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, blev tilsidesat af Sø- og Handelsretten: "V solgte tv-signaler til forbrugere. I henhold til abonnementsaftalerne var de gældende for 12 måneder, og de fortsatte efter V's opfattelse medmindre de blev opsagt med 30 dages varsel til udgangen af en abonnementsperiode. I sager anlagt af Forbrugerrådet for to forbrugere fandt retten på grundlag af aftalernes udformning, herunder formuleringen af vilkårene for opsigelse, manglende definition af abonnementsperiode og parternes forklaringer at aftalernes vilkår om opsigelse, herunder om abonnementsperiode, manglede fornøden klarhed og forståelighed, hvorfor opsigelsesvilkårene skulle fortolkes i overensstemmelse med aftalelovens § 38b, stk. 1. Efter udløbet af en første bindingsperiode fandtes aftalerne derfor at kunne opsiges med et normalt, kort varsel svarende til 30 dages varsel til udgangen af en måned. Endvidere fandt retten efter en af Forbrugerombudsmanden nedlagt subsidiær påstand at vilkåret om automatisk forlængelse af kontrakten var i strid med god markedsføringsskik, jf. markedsføringslovens § 1, og hæderlig forretningsskik, jf. aftalelovens § 38c, jf. § 36. Vilkåret bevirkede en betydelig skævhed i parternes rettigheder og forpligtigelser til skade for forbrugeren og indebar at forbrugeren påførtes en betydelig risiko for af tilfældige årsager og imod eget ønske at komme til at få et abonnement forlænget i et år med en overflødig, ikke ubetydelig udgift til følge. Det blev derfor forbudt V i aftaler om løbende tjenesteydelser vedrørende levering af tv-signaler over for forbrugere at anvende en kontrakt som indeholdt følgende eller lignende vilkår: »Hvis kunden ikke opsiger aftalen med mindst 30 dages skriftligt varsel til udgangen af en abonnementsperiode, forlænges aftalen automatisk med en tilsvarende abonnementsperiode og så fremdeles«. Derimod kunne mere generelle påstande nedlagt af Forbrugerombudsmanden om forbud mod visse bindingsperioder ikke tages til følge, da spørgsmålet om en fastsættelse af almindelige, tvingende regler om adgangen til at opsige abonnementsaftaler med et vist varsel måtte afgøres af lovgivningsmagten (dissens). Endvidere blev V påbudt at underrette nærmere angivne kunder om at det pågældende vilkår ikke kunne håndhæves, og at kunderne havde et tilbagebetalingskrav mod V. Endelig blev det pålagt V at tilbagebetale allerede modtagne beløb der var opkrævet med urette". Se link til hele dommen her: **https://pro.karnovgroup.dk/document/7000311279/1**
-
+Se dommen i **U 2005.2960 S** om vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, blev tilsidesat af Sø- og Handelsretten. 
+**<a href="https://pro.karnovgroup.dk/document/7000311279/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -497,7 +503,9 @@ En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteyd
 
 ## Video om hvad er et abonnement
 
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoen klik her!</a>**
+
+****
 
 
 ---
@@ -514,17 +522,13 @@ Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmø
 
 ---
 
-## VIdeo - Hvis du skal købe en brugt bil
-
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
+## Video - Hvis du skal købe en brugt bil
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoen klik her!</a>**
 
 ---
 
 ## Video - sådan handler du trygt på nettet
-
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
-
-
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoen klik her!</a>**
 
 ---
 
@@ -536,25 +540,24 @@ Kan du fortryde dit køb, når du handler på nettet? Hvad gælder for levering?
 
 ---
 
-Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan du handler sikkert på nettet, og hvad du kan gøre, hvis det er gået galt.  >>
+Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan du handler sikkert på nettet, og hvad du kan gøre, hvis det er gået galt.  
 
-**https://www.forbrug.dk/nethandel/**
+**<a href="https://www.forbrug.dk/nethandel/" target="_blank">Se regler om nethandel klik her!</a>**
 
 ---
 
 ## Video om køb af brugt på nettet
 
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
-
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Køb på nettet klik her!</a>**
 
 ---
 
 ## Video om rejser i juletiden
 
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
-
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Om rejser i juletiden klik her!</a>**
 
 ---
+
 
 
 ## Quiz om e-handel og rejser
@@ -583,7 +586,9 @@ Har du styr på, hvad du har ret til som forbruger? Jo mere du ved, jo bedre er 
 
 ## Video om hvad er en kopivare
 
-**https://www.forbrug.dk/menu/videokanal/#mainVideo**
+**<a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Se videoen om kopivarer klik her!</a>**
+
+****
 
 
 ---

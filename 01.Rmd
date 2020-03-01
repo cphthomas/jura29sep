@@ -42,14 +42,15 @@ cat(readLines('np.html'))
 ---
 
 
-**Kapitel 1 om retsstaten skal kun læses i hovedtræk. Emnet bliver behandlet i "Erhvervsjura" kap. 2** 
+**Kapitel 1 om retsstaten skal kun læses i hovedtræk** 
 
 ---
 
 ## Grundloven om Danmarks forfatning
 
 
-Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  Grundloven er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet, se grundloven i Lovsamlingen: **https://jura.tepedu.dk/lovsamling.html**.
+Af de mere end 1.300 love, vi har i Danmark, er der én lov, en retskilde, der er hævet over alle de andre, nemlig grundloven.  Grundloven er Danmarks forfatning, dvs. den lov, der beskriver de grundlæggende regler for samfundet.
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se grundloven i Lovsamlingen Klik her!</a>**
 
 ---
 
@@ -68,34 +69,34 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 
 ## Video om den danske grundlov
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/nRkpUt8juz0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>  
+**<a href="https://www.youtube.com/embed/nRkpUt8juz0">Videoen klik her!</a>**
 
 ---
 
-## Video om grundloven fra 1849
+## Video om Grundloven i 1849
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/D2-6UfvUNOU" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
 
----
-
-## Video omhvordan Danmark egentlig blev demokratisk med vedtagelsen af grundloven i 1849?
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/0Xo-6zo9oP8" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://youtu.be/D2-6UfvUNOU" target="_blank">Videoen Klik her!</a>**
 
 ---
 
-## Video om grundlovens tilblivelse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/WoDxgUO_K-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+## Video Demokratisk med vedtagelsen af grundloven i 1849?
+
+**<a href="https://www.youtube.com/embed/0Xo-6zo9oP8" target="_blank"> Videoen Klik her!</a>**
 
 ---
 
-## Video om grundlovsændringen i 1915: Historien om de 7 F'er
+## Video Grundlovens tilblivelse
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/fz71wkiH4ig" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/WoDxgUO_K-I" target="_blank">Videoen Klik her!</a>**
 
 
+---
+
+## Video Grundlovsændringen i 1915 
+
+**<a href="https://youtu.be/fz71wkiH4ig" target="_blank">Videoen Klik her!</a>**
 
 ---
 
@@ -107,21 +108,31 @@ Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, fx at der
 
 I grundloven står der også, at den øverste magt i Danmark skal deles mellem den lovgivende, den udøvende og den dømmende magt.
 
+---
+
 I grundloven kan du læse om magtens fordeling i samfundet. Om Folketinget som den demokratisk valgte forsamling, der vedtager love, der gælder for os alle. 
 
 Om regeringen, der skal sikre, at lovene bliver overholdt af os borgere og af de myndigheder, der skal sørge for, at vi for eksempel har gode skoler, sygehuse og biblioteker. 
+
+---
 
 Om domstolene, der er uafhængige af regering og Folketing, fordi de skal dømme i konflikter mellem borgerne indbyrdes og mellem myndigheder og borgere.
 
 Grundloven handler også om de rettigheder, du har som borger. Vi kalder dem friheds- eller menneskerettigheder.
 
+---
+
 Den ene slags frihedsrettigheder er ytringsfriheden, retten til at forsamles og demonstrere for dine synspunkter og retten til at oprette foreninger og til at være medlem af en forening. 
 
 Grundloven sikrer også, at du har ret til at være medlem af et politisk parti og være politisk aktiv – også selv om det går imod regeringens eller flertallets synspunkter. 
 
+---
+
 Disse rettigheder skal sikre, at demokratiet kan fungere. 
 
 Grundlovens regler om folkeafstemninger og valg til Folketinget ville for eksempel ikke være meget værd, hvis vi ikke havde ret til at diskutere politiske spørgsmål og sige vores mening.
+
+---
 
 Den anden slags frihedsrettigheder er reglerne om den personlige frihed og om ejendomsretten og boligens ukrænkelighed. 
 
@@ -129,13 +140,19 @@ Disse regler skal først og fremmest beskytte borgerne mod overgreb fra statsmag
 
 Hvis du bliver anholdt af politiet, har du for eksempel krav på, at en dommer tager stilling til din sag inden 24 timer. 
 
+---
+
 Hvis myndighederne vil undersøge din bolig, dine private papirer eller din pc, skal de som hovedregel have en dommers tilladelse først. 
 
 Og hvis myndighederne vil tage dit hus for at rive det ned, fordi der skal bygges en motorvej eller en jernbane hen over grunden, ja så skal du have en erstatning, der svarer til husets og grundens værdi.
 
+---
+
 Grundloven sætter på den måde grænser for, hvordan staten kan blande sig i vores privatliv.
 
 Grundloven skal sikre stabile rammer om det politiske liv og de politiske kampe om magten. Og grundloven skal sikre, at borgernes rettigheder ikke krænkes. 
+
+---
 
 Begge dele sikres ved, at grundloven er mere vanskelig at ændre end andre love. Den danske grundlov er kun blevet ændret få gange, siden den blev vedtaget for mere end 160 år siden. 
 
@@ -149,9 +166,7 @@ Og sproget i mange af paragrafferne er ikke blevet moderniseret siden.
 
 ## Video om dit Demokrati | Hvem må stemme?
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/l5iRg-JX5J4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+**<a href="https://www.youtube.com/embed/l5iRg-JX5J4">Videoen klik her!</a>**
 
 ---
 
@@ -190,8 +205,6 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 ```
 
-
-
 ---
 
 *Tremagtsdelingen:*
@@ -225,6 +238,8 @@ Ifølge grundloven har dronningen og Folketinget i fællesskab magten til at lov
 
 Men helt sådan er det ikke i virkeligheden. 
 
+---
+
 I praksis er det nemlig regeringen og Folketinget, som bestemmer, hvordan lovene skal se ud. 
 
 Dronningen skriver dem bare under og har derfor ingen reel magt. 
@@ -236,6 +251,8 @@ Dronningen skal "føre lovene ud i livet" – hun har formel magt.
 I dag betyder det blot, at hun rent formelt udnævner ministrene i en regering. 
 
 Derefter er det i praksis ministrene og deres ministerier, der sørger for, at lovene bliver overholdt.
+
+---
 
 Dronningen har ingen indflydelse på, hvem der skal være ministre. Det bestemmer statsministeren. 
 
@@ -252,14 +269,15 @@ Domstolene afgør også, om ministerier og kommuner har overtrådt lovene, og om
 ---
 
 
-I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000196204/1**
-
+I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov var i strid med grundlovens § 3. Tvindlovens bestemmelse om, at en række Tvindskoler ikke længere skulle have penge fra det offentlige, var derfor ugyldig. 
+**<a href="https://pro.karnovgroup.dk/document/7000196204/1" target="_blank">Dommen Klik her!</a>**
 
 ---
 
-## Video om retsstaten - Hvad betyder retssikkerhed?
+## Video om retsstaten 
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/SLywBhN18zM" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/SLywBhN18zM" target="_blank">Videoen Klik her!</a>**
+
 
 
 ---
@@ -317,8 +335,10 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 
 ## Video om dit Demokrati | Finansloven
 
-div class="video-container"><iframe src="https://www.youtube.com/embed/wmVKBzA2lqo" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/wmVKBzA2lqo" target="_blank"> Videoen Klik her!</a>**
 
+
+---
 
 
 ### Lovforslag
@@ -330,6 +350,8 @@ Love regulerer, hvordan vi skal leve sammen i Danmark, hvad vi skal drive i fæl
 
 Lovgivning handler om, hvad man skal som borger, og hvad man ikke må, herunder hvad der er strafbart. 
 
+---
+
 Lovteksterne skal derfor skrives så præcist, at borgerne ikke er i tvivl om de fælles spilleregler i samfundet.
 
 
@@ -340,6 +362,8 @@ Nye lovforslag kan fremsættes af regeringen og folketingsmedlemmerne (folketing
 Regeringen fremsætter de fleste lovforslag, da regeringen har statsadministrationen (ministerierne og styrelser) til at hjælpe sig med udformning af lovforslag mv.
 
 Lovforslag tager lang tid at skrive, og det kræver stor juridisk indsigt. 
+
+---
 
 Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen har mange embedsmænd i ministerierne til at hjælpe sig, mens partierne uden for regeringen, oppositionen, har færre til at hjælpe sig – de har kun medarbejdere i deres gruppesekretariater og i Folketingets Administration.
 
@@ -367,17 +391,18 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 ---
 
-## Video om lovgivningsprocessen i praksis
+## Video om lovgivningsprocessen
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/xQ89AVrmL-I" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://youtu.be/xQ89AVrmL-I" target="_blank">Videoen Klik her!</a>**
+
+
+
 
 ---
 
 ## Video om dit Demokrati | Fra idé til lov
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/glMv32HV0-o" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+**<a href="https://www.youtube.com/embed/glMv32HV0-o" target="_blank"> Videoen Klik her!</a>**
 
 ---
 
@@ -400,6 +425,8 @@ Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, h
 
 Søgelyset rettes ofte mod ministrene i regeringen. For det meste går det stille af, men situationen kan også spidse til, så regering og Folketing kommer til at stå stejlt over for hinanden. 
 
+---
+
 I praksis er det oppositionen – de partier i Folketinget, som er imod regeringens politik – der udfører den parlamentariske kontrol. 
 
 Det er dem, der har den største interesse i at være kritiske over for regeringens arbejde og afsløre, om der sker magtmisbrug.
@@ -409,9 +436,11 @@ Det er dem, der har den største interesse i at være kritiske over for regering
 Oppositionen undersøger bl.a., om regeringen:
 
 
-*	Virkeliggør lovens indhold og gør det på den måde, som regeringen    har lovet
+*	Virkeliggør lovens indhold og gør det på den måde, som regeringen har lovet
 
 *	Overholder statsbudgettet  
+
+--
 
 Folketingsmedlemmerne fra oppositionspartierne finder den parlamentariske kontrol af regeringens magtudøvelse vigtig. 
 
@@ -490,6 +519,8 @@ Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilk
 
 Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i  2019.
 
+---
+
 Når statsministeren har fundet sine ministre, udnævner dronningen formelt regeringen på Amalienborg. Regeringen kommer bagefter ud på slotspladsen. 
 
 Her præsenterer statsministeren sin nye regering for danskerne.
@@ -518,6 +549,8 @@ Lovgivningsarbejdet har regeringen også stor indflydelse på.
 
 Det er regeringen, der forbereder og foreslår langt de fleste nye love og ændringer i eksisterende love. 
 
+---
+
 Regeringen er ansvarlig for hele processen med forberedelse af lovforslagene, inden de når til Folketinget, herunder at lægge de overordnede planer, drive de politiske forhandlinger, skrive lovudkast og sende det i høring.
 
 Når regeringen foreslår en lov, kaldes det, at den fremsætter et lovforslag. 
@@ -534,13 +567,19 @@ Et regeringsgrundlag er en slags politisk programerklæring, som signalerer, hvi
 
 Lovkataloget er et redskab for regeringen til at omsætte den overordnede politik til konkrete initiativer. 
 
+---
+
 Regeringen forsøger at gøre de politiske mål til virkelighed via nye love. 
 
 De lovforslag, regeringen regner med at kunne få flertal for, bliver præsenteret i regeringens lovkatalog eller lovprogram, som udarbejdes og præsenteres for et folketingsår ad gangen. 
 
+---
+
 Lovkataloget kan findes på Statsministeriets hjemmeside og giver et pejlemærke for årets politiske beslutninger.
 
 Den formelle baggrund for lovkataloget er, at der i grundlovens § 38 står beskrevet, at statsministeren skal lave en åbningsredegørelse, når et nyt folketingsår starter. 
+
+---
 
 Åbningsredegørelsen består både af en mundtlig og en skriftlig del. 
 
@@ -570,6 +609,7 @@ Det er fx kun statsministeren, der kan bestemme:
 *	hvornår der skal være folketingsvalg inden for den 4-årige    
   regeringsperiode
 
+---
 
 Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområder imellem dem. 
 
@@ -668,7 +708,7 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 ## Video om historien om de danske domstole og retssystemet
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/uvpuD60uLdI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/uvpuD60uLdI">Videoen klik her!</a>**
 
 ---
 
@@ -722,7 +762,7 @@ Domsmænd eller nævninge må ikke være jurister.
 
 ---
 
-Domsmænd og nævninge kan være inhabile, se dommen i **U 2019.2824 Ø, ** hvor en domsmand inhabil. Under ankesag påstod T, født 1987, byretsdommen ophævet under henvisning til inhabilitet hos en af domsmændene, som han havde kendt i teenageårene. Det var domsmandens opfattelse, at hun og T ikke kendte hinanden »rigtigt godt«, som T ellers havde oplyst, og at de havde været venner på Facebook, men at hun slettede T før sagen, da hun vurderede, at hun ikke ønskede »sådan en ven«. Landsretten udtalte, at der var forløbet lang tid siden den kontakt, som ubestridt havde været mellem T og den pågældende domsmand. Imidlertid fandtes der efter en samlet vurdering, herunder navnlig domsmandens udtalelse, at foreligge omstændigheder, som var egnede til at bevirke, at der kunne rejses sådan tvivl om domsmandens fuldstændige upartiskhed, jf. retsplejelovens § 61, jf. § 66, at hun ikke havde kunnet handle som domsmand i sagen. Påstanden om ophævelse af dommen og hjemvisning af sagen til byretten blev således taget til følge.
+Domsmænd og nævninge kan være inhabile, se dommen i **U 2019.2824 Ø** 
 
 ---
 
@@ -737,11 +777,15 @@ Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, op
 
 ## Video om en civil retsssag
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ZhrbIIppfyE" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/ZhrbIIppfyE">Videoen klik her!</a>**
+
 
 ---
 
-*Straffesager* er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven især traffeloven, se denne lov i lovsamlingen: **https://jura.tepedu.dk/lovsamling.html.** 
+*Straffesager* er først og fremmest sager, hvor retten skal træffe beslutning, om en person skal straffes for en overtrædelse af loven især straffeloven.
+**<a href="https://jura.tepedu.dk/lovsamling.html.">Se straffeloven i Lovsamlingen klik her!</a>**
+
+---
 
 Afgørelser, der træffes i forbindelse med politiets efterforskning, er også straffesager. 
 
@@ -755,31 +799,31 @@ Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her s
 
 ## Videoer "Kend din ret" om straffesager
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/hzh_nfGbQCI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/hzh_nfGbQCI">Videoen klik her!</a>**
+
 
 ---
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/7q3eY91RLKI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/7q3eY91RLKI">Videoen klik her!</a>**
+
 
 ---
 
 ## Video om gadevold - retsspil
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/ydMjwDvjMVI" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/ydMjwDvjMVI">Videoen klik her!</a>**
 
 ---
 
 ## Video om når du skal i retten
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/z_GMbA99aKs" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
+**<a href="https://www.youtube.com/embed/z_GMbA99aKs">Videoen klik her!</a>**
 
 ---
 
 ## Video om rettens arbejde - Vidnets rolle i en straffesag ved byretten
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/VrT97zQkas4" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/VrT97zQkas4">Videoen klik her!</a>**
 
 ---
 
@@ -852,6 +896,8 @@ Hvis byretten fx mener, at en sag er af principiel karakter, kan den også henvi
 
 Ved landsretterne er ansat ca. 100 landsdommere. Hver landsret ledes af en præsident.
 
+---
+
 
 Vestre Landsret ligger i Viborg og behandler sager fra Jylland.
 
@@ -863,6 +909,8 @@ Landsretterne er delt i afdelinger.
 Til hver afdeling hører tre landsdommere, som i fællesskab afgør alle afdelingens sager, både straffesager og civile sager. 
 
 I nogle straffesager medvirker nævninger, i andre domsmænd. 
+
+---
 
 I enkelte sager deltager personer, der er særligt sagkyndige på et specielt område.
 
@@ -881,6 +929,8 @@ I Sø- og Handelsretten er ansat en præsident, 2 vicepræsidenter, 2 dommere og
 
 De sagkyndige medlemmer har særlig kendskab til sø- og handelsforhold. 
 
+---
+
 Sø- og Handelsretten behandler bl.a. sager, hvor kendskab til sø- og handelsforhold er af væsentlig betydning.
 
 Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gældssanering m.v. fra hele Storkøbenhavn.
@@ -892,6 +942,8 @@ Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gælds
 Den Særlige Klageret ligger i København samme sted som Højesteret. 
 
 Klageretten er sammensat af en højesteretsdommer, en landsdommer, en byretsdommer, en advokat og en universitetslærer i retsvidenskab eller anden jurist med særlig videnskabelig uddannelse.
+
+---
 
 Den Særlige Klageret træffer afgørelser i disciplinære sager vedrørende dommere og andet juridisk personale ansat ved domstolene, herunder også ansatte på Færøerne og i Grønland.
 
@@ -965,13 +1017,13 @@ Det gælder fx, hvis sagen er af principiel betydning, eller sagen kan få væse
 
 ## Video om hvordan fungerer byretten
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/vtR3p-7IItk" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/vtR3p-7IItk">Videoen klik her!</a>**
 
 ---
 
 ## Video, hvor en sag kommer på tværs
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/7WNie-cX1jw" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/7WNie-cX1jw">Videoen klik her!</a>**
 
 ---
 
@@ -1309,7 +1361,7 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 ## Video om retsmægling for virksomheder
 
-<div class="video-container"><iframe src="https://www.youtube.com/embed/JE83bKdqcpg" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+**<a href="https://www.youtube.com/embed/JE83bKdqcpg" target="_blank"> Videoen Klik her!</a>**
 
 
 ---
