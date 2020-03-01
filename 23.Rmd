@@ -381,7 +381,7 @@ Hæftelse for den anden *ægtefælles gæld* kan også følge af lovgivningen, b
 
 ---
 
-### Gensidig forsørgelsespligt
+#### Gensidig forsørgelsespligt
 
 Det følger af ÆF § 4, at ægtefællerne har en *gensidig forsørgelsespligt*. ”Under ægteskabet har ægtefæller pligt til at forsørge hinanden”, jf. ÆF § 4, stk. 1. 
 
@@ -461,7 +461,7 @@ Forsørgelsen af ægtefællernes fælles børn er (fortsat) reguleret af reglern
 
 ---
 
-### Stiftelse af formuefællesskabet (delingsformue)
+#### Stiftelse af formuefællesskabet (delingsformue)
 
 I forbindelse med ægteskabets indgåelse stiftes formuefællesskab (delingsformue), jf. ÆF § 5, som regulerer formuedelingen ved separation, skilsmisse og død. 
 
@@ -493,7 +493,7 @@ Det fremgår af ÆF § 5, stk. 2, at en ægtefælles formue, der efter ÆF § 5,
 
 ---
 
-### Dispositioner over familiens helårsbolig
+#### Dispositioner over familiens helårsbolig
 
 
 ![](img/delinghus.jpg)
@@ -596,7 +596,7 @@ Dette skyldes, at en afgørelse om dispositioner over boliger i andre lande bør
 
 ---
 
-### Aftaler med tredjemand om erhvervsløsøre
+#### Aftaler med tredjemand om erhvervsløsøre
 
 
 I det tilfælde, hvor en ægtefælle har givet tredjemand en *gave*. 
@@ -671,7 +671,7 @@ Dette gælder dog ikke, hvis tredjemand vidste eller burde vide, at ægtefællen
 
 ---
 
-### Afgiftsfrie gavebeløb
+#### Afgiftsfrie gavebeløb
 
 
 I 2019 kan der afgiftsfrit gives gave indtil kr. 65.700 til børn, stedbørn, børnebørn, forældre, stedforældre og bedsteforældre.
@@ -735,7 +735,7 @@ Dispositionens betegnelse er ikke afgørende. Det reelle indhold er afgørende. 
 
 ---
 
-### Særeje og forhåndsaftaler om formuefordelingen
+#### Særeje og forhåndsaftaler om formuefordelingen
 
 
 ![](img/sareje5.jpg)
@@ -1001,7 +1001,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ---
 
-## Eksamensopgave 23.1.
+#### Eksamensopgave 23.1.
 
 
 *Om bodeling med vejledende løsning*
@@ -1091,7 +1091,7 @@ mydf %>%
 
 ---
 
-## Eksamensopgave 23.2.
+#### Eksamensopgave 23.2.
 
 Anders og Pernille blev gift i 2014, da de begge var 29 år gamle. Anders var uddannet finansøkonom og arbejdede i et leasingselskab. Pernille var tidligere butiksassistent, men havde senere valgt at arbejde som frisør hos hendes veninde Lotte, der havde startet sin egen frisørsalon. 
 
@@ -1180,7 +1180,7 @@ Spørgsmål 5) Redegør ud fra den relevante lovgivning for, i hvilken udstrækn
 
 ## Forhåndsaftaler om formuedelingen  
 
-### Alders-, kapital- og ratepensioner
+#### Alders-, kapital- og ratepensioner
 
 Ægtefæller kan ved ægtepagt aftale, at værdien af en alders-, kapital- eller ratepension skal indgå i formuedelingen ved separation eller skilsmisse, jf. ÆF § 15. 
 
@@ -1214,7 +1214,7 @@ Der kan formentlig oprettes ægtepagt om sådan deling af »overskydende pension
 
 ---
 
-### Personlige erstatninger
+#### Personlige erstatninger
 
 Ægtefæller kan ved ægtepagt aftale, at en personlig erstatning, godtgørelse eller forsikringsudbetaling, jf. ÆF § 36, stk. 1 og 2, helt eller delvis skal indgå i formuedelingen. 
 
@@ -1230,7 +1230,7 @@ Retten til forlods udtagelse af personskadeerstatning mv. fremgår af ÆF § 36.
 
 ---
 
-### Uoverdragelige og personlige rettigheder 
+#### Uoverdragelige og personlige rettigheder 
 
 Ægtefæller kan ved ægtepagt aftale, at værdien af en rettighed omfattet af ÆF § 37 helt eller delvis skal indgå i formuedelingen. 
 
@@ -1549,7 +1549,7 @@ Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue,
 
 ---
 
-### Aftaler om formuedelingen
+#### Aftaler om formuedelingen
 
 Med ÆF § 32 lovfæstes mulighed for, at ægtefæller i forbindelse med en separation eller skilsmisse kan indgå aftale om delingen af deres formue, som anses indeholdt indirekte i ægteskabslovens § 58, se LBKG 2019-08-07 nr 771 Ægteskabs indgåelse og opløsning (Ægteskabsloven) i Lovsamlingen
 **<a href="https://jura.tepedu.dk/lovsamling.html">klik her!</a>**
@@ -1579,7 +1579,7 @@ Aftaler om delingen af ægtefællernes ejendele, der tillige har virkning ved d�
 
 ---
 
-### Beregn formue
+#### Beregn formue
 
 Ægtefællens gæld skal trækkes fra ægtefællens formue, før den skal deles. Hvis ægtefællen skylder mere, end han eller hun ejer, og ens formue dermed er negativ, skal dette ikke indgå i delingen.
 
@@ -1798,7 +1798,7 @@ I nogle tilfælde kan det være en god idé at kontakte en advokat.
 
 ---
 
-### Fravigelse af ligedelingen  
+#### Fravigelse af ligedelingen  
 
 Tilhørte den væsentligste del af ægtefællernes delingsformue den ene ægtefælle ved indgåelsen af ægteskabet, eller har den ene ægtefælle under ægteskabet erhvervet den væsentligste del af delingsformuen ved arv eller gave, og vil ligedeling af formuen efter ÆF § 5, stk. 1, 1. pkt., være åbenbart urimelig, navnlig fordi ægteskabet har været kortvarigt og uden økonomisk fællesskab af betydning, kan det ved formuedeling bestemmes, at denne ægtefælle helt eller delvis kan beholde værdien af egen formue, jf. ÆF § 33.  
 
@@ -1826,7 +1826,7 @@ I dommen i **U 1976.752 V** nævnes boets forholdsvis beskedne værdi som argume
 
 ## Aktiver, der ikke indgår i formuedelingen under fællesejet  
 
-### Pensioner  
+#### Pensioner  
 
 En ægtefælles *rimelige pensionsrettigheder* indgår ikke i formuedelingen, jf. ÆF § 34.  
 
@@ -1968,7 +1968,7 @@ I dommen **TFA 2017 39 V** blev et ægteskab på 4 år og 10 måneder anset for 
 
 ---
 
-### Personlig erstatninger  
+#### Personlig erstatninger  
 
 Værdien af en ægtefælles erstatninger, godtgørelser og forsikringsudbetalinger m.v., der skyldes erhvervsevnetab, varigt men, svie og smerte, kritisk sygdom og tort m.v. som følge af personskade, *indgår ikke i formuedelingen*, i det omfang det modtagne er i behold. 
 
@@ -2036,7 +2036,7 @@ Opregningen ovenfor af erstatninger m.v., der er omfattet af ÆF § 36, stk. 1, 
 
 ---
 
-### Praktisk eksempel "skal konen dele lottogevinsten"?
+#### Praktisk eksempel "skal konen dele lottogevinsten"?
 
 ![](img/lotto.jpg)
 
@@ -2088,7 +2088,7 @@ Monica Kromann
 
 ---
 
-### Uoverdragelige og personlige rettigheder  
+#### Uoverdragelige og personlige rettigheder  
 
 Rettigheder, som ikke kan overdrages eller i øvrigt har personlig karakter, indgår kun i formuedelingen, i det omfang det er foreneligt med de regler, der gælder for disse rettigheder, jf. ÆF § 37.  
 
@@ -2115,7 +2115,7 @@ Indtægter og surrogater af personlige rettigheder er i almindelighed delingsfor
 
 ---
 
-## Regulering og misbrugskrav efter loven
+#### Regulering og misbrugskrav efter loven
 
 Hvis en ægtefælle ved misbrug af rådigheden over sin formue eller på anden uforsvarlig måde væsentligt har reduceret delingsformuen, har den anden ægtefælle krav på at blive stillet, som om formindskelsen ikke havde fundet sted. 
 
@@ -2260,14 +2260,14 @@ Ved vurderingen lægges vægt på ægteskabets varighed, et eventuelt forudgåen
 
 ---
 
-## Pensionskompensation 
+#### Pensionskompensation 
 
 Efter ÆF § 44 kan der ved formuedelingen tilkendes en ægtefælle en kompensation, hvis ægtefællen under ægteskabet har foretaget en mindre pensionsopsparing, end hvad der svarer til en rimelig pensionsordning for den pågældende, og dette skyldes, at ægtefællen af hensyn til familien eller den anden ægtefælle helt eller delvis har været uden for arbejdsmarkedet, haft orlov eller arbejdet på nedsat tid. 
 Kompensationen kan højst udgøre halvdelen af forskellen mellem værdien af den pensionsopsparing, hver af ægtefællerne har foretaget under ægteskabet af delingsformue.  
 
 ---
 
-## Rimelighedskompensation
+#### Rimelighedskompensation
 
 
 Der kan ved formuedelingen efter ÆF § 45 tilkendes en ægtefælle en kompensation for at sikre, at denne ikke stilles urimeligt i pensionsmæssig henseende, hvis  
@@ -2283,7 +2283,7 @@ Der kan ved formuedelingen efter ÆF § 45 tilkendes en ægtefælle en kompensat
 
 ---
 
-## Udtagelse af aktiver
+#### Udtagelse af aktiver
 
 Hver ægtefælle kan efter vurdering efter ÆL § 48 udtage aktiver, der helt eller delvis indgår i ligedelingen efter ÆF § 5, stk. 1, 1. pkt. 
 
@@ -2311,7 +2311,7 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-## Formuedeling ved en ægtefælles død
+#### Formuedeling ved en ægtefælles død
 
 ![](img/begravelse.jpg)
 
@@ -2391,7 +2391,7 @@ Det er vigtigt at tage stilling til ejerforhold, arv og pension når man lever i
 
 ---
 
-##Løsningsmodeller for eksamensopgaver indenfor ægtefælleres økonomiske forhold
+#### Løsningsmodeller for eksamensopgaver indenfor ægtefælleres økonomiske forhold
 
 **23.1. Lov om ægtefællers økonomiske forhold**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
 

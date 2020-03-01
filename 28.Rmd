@@ -10,7 +10,7 @@ cat(readLines('np.html'))
 
 ---
 
-## Studieordningen
+### Studieordningen
 
 Det fremgår af studieordningen for Erhvervs- og Finansjura, at faget indeholder relevant juridisk lovning i relation til juridiske problemstillinger inden for ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion. 
 
@@ -45,7 +45,7 @@ Bedømmelseskriterierne for censor og eksaminators vurdering af din skriftlige e
 ---
 
 
-## Praktiske oplysninger om eksamen i Erhvervs- og Finansjura
+### Praktiske oplysninger om eksamen i Erhvervs- og Finansjura
 
 Eksamens varighed er 2 timer. 
 
@@ -97,7 +97,7 @@ Tidsplan fremgår af semesterets eksamenskalender.
 
 ---
 
-## Vejledning i opgavebesvarelse af de juridiske eksamensopgaver
+#### Vejledning i opgavebesvarelse af de juridiske eksamensopgaver
 
 Eksaminator udarbejder typisk 3 til 4 eksamensopgaver med tilhørende underspørgsmål. 
 
@@ -105,7 +105,7 @@ Det er vigtigt, at du respekterer opgaveteksten ved din opgavebesvarelse.
 
 ---
 
-### Opbygningen betyder meget
+#### Opbygningen betyder meget
 
 I den skriftlige eksamensbesvarelse betyder det meget, hvordan besvarelsen er opbygget.^[Følgende afsnit om vejledning i opgavebesvarelse af juridiske eksamensopgaver bygger væsentligt på *Morten Rosenmeier* tekster på portalen www.juraeksamen.dk, jf. afsnit "2.5 – Bliv bedre til at opbygge eksamensbesvarelser" for de jurastuderende, som her er blevet tilpasset til finansøkonomstudiet.] 
 
@@ -113,7 +113,7 @@ Det har blandt andet betydning, hvordan du strukturerer og disponerer stoffet, h
 
 ---
 
-### Identifikation af de relevante problemer og regler
+#### Identifikation af de relevante problemer og regler
 
 Jura handler væsentligt om at henføre fakta under juridiske regler og nå frem til et rigtigt resultat. 
 
@@ -151,7 +151,7 @@ Så det du skal i en skriftlig eksamensopgave er, at:
 
 ---
 
-### Hvordan identificerer du de relevante juridiske problemer og de relevante juridiske regler?
+#### Hvordan identificerer du de relevante juridiske problemer og de relevante juridiske regler?
 
 Det første du skal, når du skal løse en eksamensopgave, er at identificere de juridiske problemer og regler, opgaven giver anledning til. 
 
@@ -167,7 +167,7 @@ Jo bedre du kan det, jo mere er du i stand til at identificere de spørgsmål, o
 
 ---
 
-### Udarbejd tjeklister før eksamen
+#### Udarbejd tjeklister før eksamen
 
 Den bedste måde at forberede sig til den skriftlig eksamen, er at du dels sørger for at kunne sit stof godt, og dels ved herudover at bruge tjeklister. 
 
@@ -199,7 +199,7 @@ Det er vigtigt, at du altid nævner de regler, du udleder resultater af.
 
 ---
 
-### Gode besvarelser skal virke logiske og klare og velstrukturerede.
+#### Gode besvarelser skal virke logiske og klare og velstrukturerede.
 
 Behandl delproblemer hver for sig.
 
@@ -232,7 +232,7 @@ Til sidst i besvarelsen kommer der så en afsluttende hovedkonklusion, f.eks. at
 
 ---
 
-### Dine konklusioner skal være klare
+#### Dine konklusioner skal være klare
 
 Konklusioner skal være klare og tydelige. Man må ikke være tvivl om, hvad det er, du når frem til.
 
@@ -256,7 +256,7 @@ Men selv i opgaver, der lægger op til at skulle løses alternativt, skal de alt
 
 ---
 
-### Kom frem til det væsentlige
+#### Kom frem til det væsentlige
 
 Når du argumenterer i skriftlige eksamensopgaver, er det vigtigt, at læseren dvs. eksaminator og censor oplever alt det, du skriver, som relevant og væsentligt. 
 
@@ -278,7 +278,7 @@ Heri ligger blandt andet:
 
 ---
 
-### Hvordan skal man sondre mellem det væsentlige og det uvæsentlige?
+#### Hvordan skal man sondre mellem det væsentlige og det uvæsentlige?
 
 Det er selvfølgelig vigtigt, at det stof, du vælger at gå let hen over, rent faktisk er mindre væsentligt. 
 
@@ -308,7 +308,7 @@ I nogle situationer vil de være meget lidt væsentlige eller direkte uvæsentli
 
 ---
 
-### Undgå udførlig genfortælling af opgavens faktum
+#### Undgå udførlig genfortælling af opgavens faktum
 
 Når du vil forklare andre mennesker om, hvordan du mener, et juridisk problem skal løses, er det selvfølgelig vigtigt, at de pågældende ved, hvad det pågældende problem går ud på. 
 
@@ -332,7 +332,7 @@ Det er tilstrækkeligt, at du kort og klart nævner, hvad de problemer, der skal
 
 ---
 
-### Undgå udførlige diskussioner af irrelevante spørgsmål
+#### Undgå udførlige diskussioner af irrelevante spørgsmål
 
 Decideret uvæsentlige spørgsmål skal overstås på en halv sætning eller helt udelades. 
 
@@ -364,7 +364,7 @@ Redegør hellere kort og præcist for, hvad reglerne går ud på, som du vil anv
 
 ---
 
-### Argumentationen bør være logisk og klar
+#### Argumentationen bør være logisk og klar
 
 Det er vigtigt, at den argumentation, du har i din besvarelse, er af en god juridisk kvalitet. 
 
@@ -386,7 +386,7 @@ Selve argumentationen, de logiske slutninger, de juridiske ræsonnementer, skal 
 
 ---
 
-### Opsummering
+#### Opsummering
 
 •	Gør gerne brug af tjeklister
 
@@ -410,7 +410,7 @@ Selve argumentationen, de logiske slutninger, de juridiske ræsonnementer, skal 
 
 ---
 
-##Sommereksamen på Finansøkonomuddannelsen i 2019
+#### Sommereksamen på Finansøkonomuddannelsen i 2019
 
 **Opgavesættet til sommereksamen 2019**
 
@@ -547,7 +547,7 @@ Spørgsmål 5) Redegør ud fra den relevante lovgivning for, i hvilken udstrækn
 
 ---
 
-##Reeksamen til sommereksamen i 2019
+#### Reeksamen til sommereksamen i 2019
 
 **Reeksamen til sommereksamen 2019**
 
@@ -661,7 +661,7 @@ Spørgsmål 4: Redegør med inddragelse af den relevante lovgivning for, hvor st
 
 ---
 
-## 2 Reeksamen til sommereksamen i 2019
+#### 2 Reeksamen til sommereksamen i 2019
 
 **2 Reeksamen til sommereksamen 2019**
 
