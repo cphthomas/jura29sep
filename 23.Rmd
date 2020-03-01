@@ -81,9 +81,7 @@ I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællern
 
 ---
 
-## Video om familieliv og jura
-
-**<a href="https://www.youtube.com/embed/lXw-hdped28">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/lXw-hdped28" target="_blank" >Video om familieliv og jura</a></h4>
 
 
 ---
@@ -315,15 +313,11 @@ Begge ægtefæller skal være enige herom og indgå en skriftlig (og tinglyst i 
 
 ---
 
-## Video om tinglysning af ægtepagt
-
-**<a href="https://www.youtube.com/embed/NNG8jga_q_Y">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/NNG8jga_q_Y" target="_blank" >Video om tinglysning af ægtepagt</a></h4>
 
 ---
 
-## Video Sådan laver du selv en ægtepagt
-
-**<a href="https://www.youtube.com/embed/DQmRSVrdmrY">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/DQmRSVrdmrY" target="_blank" >Video Sådan laver du selv en ægtepagt</a></h4>
 
 ---
 
@@ -377,7 +371,7 @@ Dommen i **U 1991.343 V** Hustru hæftede for betalingen for arbejder på hendes
 ---
 
 Dommen i **U 1987.43 V** Installationsarbejde bestilt af ægtefælle kunne under de konkrete omstændigheder tillige kræves betalt af den anden ægtefælle.
-**<a href="https://pro.karnovgroup.dk/document/7000205195/1.">Videoen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000205195/1." target="_blank" >Dommen klik her!</a>**
 
 ---
 
@@ -1003,9 +997,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ---
 
-## Video om hvilket særeje skal du vælge?
-
-**<a href="https://www.youtube.com/embed/u3qv7qhAn14">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/u3qv7qhAn14" target="_blank" >Video om hvilket særeje skal du vælge?</a></h4>
 
 ---
 
@@ -1461,9 +1453,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-## Video om guide til separation og skilsmisse
-
-**<a href="https://www.youtube.com/embed/-ZXmo3X8GOQ">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/-ZXmo3X8GOQ" target="_blank" >Video om guide til separation og skilsmisse</a></h4>
 
 ---
 
@@ -1471,9 +1461,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-## Video om guide til bodeling ved skilsmisse
-
-**<a href="https://www.youtube.com/embed/cKeZZuNhIaw">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/cKeZZuNhIaw" target="_blank" >Video om guide til bodeling ved skilsmisse</a></h4>
 
 ---
 
@@ -1557,9 +1545,7 @@ Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue,
 
 ---
 
-## Video om skilsmisse i børnehøjde
-
-**<a href="https://www.youtube.com/embed/M2Av7OqKLtw">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/M2Av7OqKLtw" target="_blank" >Video om skilsmisse i børnehøjde</a></h4>
 
 ---
 
@@ -2352,9 +2338,8 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 *Aspekter af skilsmissen*
 
-## Video om når det går galt ved en skilsmisse
 
-**<a href="https://www.youtube.com/embed/ZvS2L4wIKPo">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/ZvS2L4wIKPo" target="_blank" >Video om når det går galt ved en skilsmisse</a></h4>
 
 
 ---
@@ -2363,15 +2348,11 @@ Anmoder begge ægtefæller om at udtage samme aktiv, udtages aktivet af den ægt
 
 ---
 
-## Video om regler for samvær 
-
-**<a href="https://www.youtube.com/embed/tEDkwMk96r8">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/tEDkwMk96r8" target="_blank" >Video om regler for samvær</a></h4>
 
 ---
 
-## Video om hvordan møder man skilsmissen?
-
-**<a href="https://www.youtube.com/embed/o3E7r1JbvpA">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/o3E7r1JbvpA" target="_blank" >Video om hvordan møder man skilsmissen?</a></h4>
 
 ---
 
@@ -2382,9 +2363,7 @@ Der kan ske omstødelse af et ægteskab. Ægteskabet kan opløses på grund af f
 
 ---
 
-## Video om 8 råd til et papirløst samliv
-
-**<a href="https://www.youtube.com/embed/-g-TQPmtJEU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/-g-TQPmtJEU" target="_blank" >Video om 8 råd til et papirløst samliv</a></h4>
 
 ---
 
@@ -2547,8 +2526,6 @@ Følgende aktiver og krav indgår ikke i ligedelingen af ægtefællernes delings
 -	Vederlagskrav ved vanrøgt - ÆF § 40.
 
 ---
-
-## Quiz om familieret
 
 <h3><a href="https://quiz.tepedu.dk/jura23" target="_blank">Quiz Familieret<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
