@@ -31,9 +31,8 @@ cat(readLines('np.html'))
 
 ---
 
-## Video om introduktion til erstatningsretten
 
-**<a href="https://youtu.be/aUJNx9bEge4" target="_blank">Introduktionen klik her!</a>**
+<h4><a href="https://youtu.be/aUJNx9bEge4" target="_blank">Video om introduktion til erstatningsretten</a></h4>
 
 ---
 
@@ -167,6 +166,7 @@ Se afgørelserne fra retspraksis og Forsikringsankenævnet om spørgsmålet om h
 
 Se dommen i **U 1961.167 H**: At en 11-årig dreng kom til at ramme en anden dreng med en kæp i øjet, blev anset for et hændeligt uheld og derfor ikke noget erstatningsansvar. 
 **<a href="https://pro.karnovgroup.dk/document/7000214033/1" target="_blank">Dommen klik her!</a>**
+
 ---
 
 Se dommen i **FED 1998.584:** Ejeren af sommerhus til udlejning havde ikke pådraget sig erstatningspligt ved, at en lejers barn kom til skade, da et sofabord, der var en del af sommerhusets møblement, væltede. 
@@ -1060,9 +1060,7 @@ En 14-årig dreng var erstatningsansvarlig for brandskader på en skolebygning, 
 
 ---
 
-## Video om forsikring, erstatning og arbejdsgiveransvar
-
-**<a href="https://youtu.be/0MInd7t_dHw" target="_blank">Videoen Klik her!</a>**
+<h4><a href="https://youtu.be/0MInd7t_dHw" target="_blank">Video om forsikring, erstatning og arbejdsgiveransvar</a></h4>
 
 ---
 
@@ -1447,21 +1445,15 @@ For en mere væsentlig uddybning af forsikringsretten for de studerende, som der
 
 ---
 
-## Video om at forstå forsikring på 3 minutter
-
-**<a href="https://youtu.be/jhoZCUQd-n8" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/jhoZCUQd-n8" target="_blank">Video om at forstå forsikring på 3 minutter</a></h4>
 
 ---
 
-## Video Birgitte sælger forsikringer
-
-**<a href="https://youtu.be/C5MKa1y1r8I" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/C5MKa1y1r8I" target="_blank">Video Birgitte sælger forsikringer</a></h4>
 
 ---
 
-## Video om at blive skadesbehandler I forsikringsselskab
-
-**<a href="https://youtu.be/j-qLQu7qECw" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/j-qLQu7qECw" target="_blank">Video om at blive skadesbehandler I forsikringsselskab</a></h4>
 
 ---
 
@@ -1514,9 +1506,7 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 
 ---
 
-## Video om unge og forsikringer | Gode råd om forsikringer
-
-**<a href="https://youtu.be/sixGZPICtew" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/sixGZPICtew" target="_blank">Video om unge og forsikringer | Gode råd om forsikringer</a></h4>
 
 ---
 
@@ -1590,9 +1580,7 @@ Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet ste
 
 ---
 
-## Video om alle kan få almindelige forsikringer
-
-**<a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Videoen Klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Video om alle kan få almindelige forsikringer</a></h4>
 
 ---
 
@@ -1844,10 +1832,10 @@ Såsom:
 
 ---
 
-## Quiz om erstatningsreglerne og den forsikringsmæssige afdækning
+
 
 <h3><a href="https://quiz.tepedu.dk/jura7" target="_blank">Quiz Erstatningsreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
----
+
 
