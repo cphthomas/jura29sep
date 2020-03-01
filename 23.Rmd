@@ -24,7 +24,7 @@ cat(readLines('np.html'))
 
 ---
 
-**"Familieretten" anvendes også i faget "Privatøkonomisk rådgivning" på Finansøkonomuddannelsen**
+**Familieretten" anvendes også i faget "Privatøkonomisk rådgivning" på Finansøkonomuddannelsen**
 
 ---
 

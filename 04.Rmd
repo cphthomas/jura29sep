@@ -1916,12 +1916,7 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 **<a href="https://www.youtube.com/embed/DdFmNJpY3dE" target="_blank"> Videoen Klik her!</a>**
 
 
-
-<div class="video-container"><iframe src="" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
 ---
-
 
 
 ```{r regler og fortolkninger,echo=FALSE}
@@ -1950,7 +1945,6 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 ---
 
 ## Aftaler om ansættelse og opsigelse af en finansøkonom
-
 
 **<a href="https://www.finansforbundet.dk/da/rettigheder-regler/Sider/naarduskalhavenytjob.aspx" target="_blank">Få styr på din ansættelseskontrakt som finansøkonom Klik her!</a>**
 
