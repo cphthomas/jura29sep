@@ -54,9 +54,7 @@ Se **tinglysningsloven**, jf. Lovbekendtgørelse 2014-09-30 nr. 1075 om tinglysn
 
 ---
 
-## Video om at forstå tinglysning på 45 sekunder
-
-**<a href="https://www.youtube.com/embed/6Spl32wXXco">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/6Spl32wXXco" taget="_blank">Video om at forstå tinglysning på 45 sekunder</a></h4>
 
 
 ---
@@ -650,14 +648,5 @@ C kan fortrænge A's ret over fondsaktivet, hvis:
 ---
 
 
-## Quiz om tingsretlige konflikter
-
 <h3><a href="https://quiz.tepedu.dk/jura20" target="_blank">Quiz Tingsretlige konflikter <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
-
----
-
-
- 
 

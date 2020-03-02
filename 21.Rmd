@@ -1,7 +1,7 @@
 # Handel med fast ejendom
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/handel.jpg)
@@ -90,23 +90,20 @@ Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione
 * Et forsikringsselskab som tegner en ejerskifteforsikring for køberen.
  
 --- 
- 
-## Video om gode råd om køb af bolig A-Z
-
-**<a href="https://youtu.be/N-0EyS75yrg">Videoen klik her!</a>**
 
 
----
+<h4><a href="https://youtu.be/N-0EyS75yrg" target="_blank">Video om gode råd om køb af bolig A-Z</a></h4>
 
-## Video Webinar: Nykredit giver gode råd om boligkøb
-
-**<a href="https://www.youtube.com/embed/QvUETHDp7do">Videoen klik her!</a>**
 
 ---
 
-## Video om finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed
 
-**<a href="https://youtu.be/ga9VK96CdhQ">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/QvUETHDp7do" target="_blank">Video Webinar: Nykredit giver gode råd om boligkøb</a></h4>
+
+---
+
+
+<h4><a href="https://youtu.be/ga9VK96CdhQ" target="_blank">Video om finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed</a></h4>
 
 ---
 
@@ -128,9 +125,8 @@ Afsnittet læses kun i hovedtræk, da det bliver mere detaljeret gennemgået und
 
 ---
 
-## Video om at få styr på førstegangskøbet: Sådan køber du en bolig
 
-**<a href="https://youtu.be/U7tQihKHRoA">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/U7tQihKHRoA" target="_blank">Video om at få styr på førstegangskøbet: Sådan køber du en bolig</a></h4>
 
 ---
 
@@ -444,10 +440,9 @@ Det er således kun, når ejendomsmægleren rent faktisk leverer den helt centra
 
 ---
 
-## Video om en gennemgang af en købsaftale
+<h4><a href="https://youtu.be/RKc8n10ChnE" target="_blank">Video om en gennemgang af en købsaftale</a></h4>
 
-**<a href="https://youtu.be/RKc8n10ChnE">Videoen klik her!</a>**
-
+---
 
 
 ## Hvornår ejendomsmægleren har krav på vederlag ved opsigelse af formidlingsaftalen 
@@ -858,9 +853,8 @@ LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov 
 
 ---
 
-## Video om huseftersynsordningen
 
-**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video om huseftersynsordningen</a></h4>
 
 
 ---
@@ -883,9 +877,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 ---
 
-## Video om ejerskifteforsikring – hvorfor- og hvordan
-
-**<a href="https://www.youtube.com/embed/rCSppX53zWU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/rCSppX53zWU" target="_blank">Video om ejerskifteforsikring – hvorfor- og hvordan</a></h4>
 
 ---
 
@@ -1159,9 +1151,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ---
 
-## Video om fortrydelsesret og advokatforbehold i en bolighandel
-
-**<a href="https://www.youtube.com/embed/eQqlGY1lm2M">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/eQqlGY1lm2M" target="_blank">Video om fortrydelsesret og advokatforbehold i en bolighandel</a></h4>
 
 ---
 
@@ -1752,9 +1742,7 @@ Mangler ved fast ejendom forældes 3 år efter køber har opdaget manglen eller 
  
 ---
 
-## Video om tilstandsrapport og energimærke
-
-**<a href="https://youtu.be/dsA2EXsZVsg">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/dsA2EXsZVsg" target="_blank">Video om tilstandsrapport og energimærke</a></h4>
 
 ---
 
@@ -1783,15 +1771,11 @@ Tillæg med udlevering af Hustypebeskrivelser.
 
 ---
 
-## Video Sådan sikrer du din hushandel
-
-**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Sådan sikrer du din hushandel</a></h4>
 
 ---
 
-## Video Sådan bruger du hustypebeskrivelserne
-
-**<a href="https://www.youtube.com/embed/ioTmSBDIJ6k">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/ioTmSBDIJ6k" target="_blank">Video Sådan bruger du hustypebeskrivelserne</a></h4>
 
 ---
 
@@ -1809,21 +1793,16 @@ Sælger er fri for ansvar for fejl og mangler ved den faste ejendom  (jf. LFFE �
 
 ---
 
-## Video om hvad dækker ejerskifteforsikringen
-
-**<a href="https://www.youtube.com/embed/krfhBpCbbJg">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/krfhBpCbbJg" target="_blank">Video om hvad dækker ejerskifteforsikringen</a></h4>
 
 ---
 
-## Video om gode råd om ejerskifteforsikringen
 
-**<a href="https://youtu.be/aLNod14h5rc">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/aLNod14h5rc" target="_blank">Video om gode råd om ejerskifteforsikringen</a></h4>
 
 ---
 
-## Video Tjek huset før du køber
-
-**<a href="https://www.youtube.com/embed/O3nShnJ2w8c">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/O3nShnJ2w8c" target="_blank">Video Tjek huset før du køber</a></h4>
 
 ---
  
@@ -2026,9 +2005,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
  
 ---
 
-## Video om køb af fast ejendom
-
-**<a href="https://youtu.be/4jT7zb0TzZ8">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/4jT7zb0TzZ8" target="_blank">Video om køb af fast ejendom</a></h4>
 
 ---
 
@@ -2053,10 +2030,7 @@ Men det er dog først, når skøde og tinglysning er endeligt- og anmærkningsfr
 ---
 
 
-
-## Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?
-
-**<a href="https://www.youtube.com/embed/VnxgfS2MTUM">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/VnxgfS2MTUM" target="_blank">Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?</a></h4>
 
 ---
 
@@ -2098,9 +2072,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
   
 ---
 
-## Video om nye boliglån
-
-**<a href="https://www.youtube.com/embed/XLCa5kGQ2HA">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/XLCa5kGQ2HA" target="_blank">Video om nye boliglån</a></h4>
 
 ---
 
@@ -2112,9 +2084,7 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-## Video om brug en boligadvokat, når du køber bolig
-
-**<a href="https://www.youtube.com/embed/3GBFrCyRmvw">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/3GBFrCyRmvw" target="_blank">Video om brug en boligadvokat, når du køber bolig</a></h4>
 
 ---
 
@@ -2133,9 +2103,7 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ---
 
-## Video om valg af huslån
-
-**<a href="https://www.youtube.com/embed/PrxUe5RjQso">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/PrxUe5RjQso" target="_blank">Video om valg af huslån</a></h4>
 
 ---
 
@@ -2178,21 +2146,15 @@ Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en 
 
 ---
 
-## Video om sådan sikrer du din hushandel
-
-**<a href="https://www.youtube.com/embed/GCogSgE3ZmU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video om sådan sikrer du din hushandel</a></h4>
 
 ---
 
-## Video om hvad er det bedste lån?
-
-**<a href="https://www.youtube.com/embed/hH5T-cIhfSY">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/hH5T-cIhfSY" target="_blank">Video om hvad er det bedste lån?</a></h4>
 
 ---
 
-## Video om råd fra førstegangskøbere
-
-**<a href="https://www.youtube.com/embed/kUx-iNg3tPk">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/kUx-iNg3tPk" target="_blank">Video om råd fra førstegangskøbere</a></h4>
 
 
 ---
@@ -2212,20 +2174,15 @@ Hør nærmere en Podcast fra SKAT om forældrekøb.
 
 ---
 
-## Quiz om boligen
-
-**<a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716">klik her!</a>**
+<h4><a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz om boligen</a></h4>
 
 
 ---
 
-## Quiz om handel med fast ejendom
 
-<h3><a href="https://quiz.tepedu.dk/jura21" target="_blank">Quiz Handel med fast ejendom<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
+<h4><a href="https://quiz.tepedu.dk/jura21" target="_blank">Quiz Handel med fast ejendom<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 
 
----
 
 
  

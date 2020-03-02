@@ -5,7 +5,6 @@ cat(readLines('npp.html'))
 ```
   
 
-## <font color="red">God skik for finansielle virksomheder<sup> Premium </font></sup>
 
 ---
 
@@ -59,9 +58,7 @@ Finanstilsynet træffer en traditionel forvaltningsretlig afgørelse med mulighe
 
 ---
 
-## Video om rundvisning i Finanstilsynet
-
-**<a href="https://www.youtube.com/embed/F0yv4eVfaxg">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/F0yv4eVfaxg" target="_blank">Video om rundvisning i Finanstilsynet</a></h4>
 
 ---
 
@@ -316,8 +313,6 @@ Markedsføring og rådgivning rettet mod børn og unge skal være udformet med s
 
 
 
-![](img/finans4.jpg)
-
 Ved rådgivning forstås anbefalinger, vejledninger, herunder oplysninger om risici forbundet med en disposition, og oplysninger om umiddelbare konsekvenser af kundens valgmuligheder, jf. godskik-bekendtgørelsens § 8.  
 
 En finansiel virksomhed skal yde rådgivning, hvis kunden anmoder herom. 
@@ -340,7 +335,7 @@ En finansiel virksomhed kan udbyde produkter med standardiseret information med 
 
 I så fald skal den finansielle virksomhed gøre særskilt opmærksom på dette. Bestemmelsen gælder ikke for lån med sikkerhed i fast ejendom.  
 
-![](img/roskilde.jpg)
+
 
 ---
 
@@ -435,7 +430,6 @@ Begrundelsen skal på anmodning gives i papirformat eller på andet varigt mediu
 
 ---
 
-![](img/finans8.jpg)
 
 En basal indlånskonto skal som minimum omfatte følgende funktioner:  
 
@@ -552,10 +546,6 @@ Såfremt besiddelse af aktier, indskud af garantkapital eller indskud af andelsk
 
 ---
 
-![](img/ekspres.png)
-
-![](img/basis.png)
-
 
 **Finanstilsynets afgørelse af 20. juni 2019:** Kunder får bevilget lån de ikke kan betale tilbage. To banker med speciale i hurtige forbrugslån fik påbud om at foretage en ordentlig vurdering af, om kunderne kan betale tilbage, inden de får bevilget et lån. Påbuddene til Ekspres Bank og Basisbank kommer på baggrund af en større undersøgelse af temaet, som Finanstilsynet offentliggjorde tidligere i år. De to banker skulle senest til september dokumentere, at der for hver enkelt kunde sker en realistisk vurdering af, om kunden kan betale afdragene, og det vel at mærke inden, banken bevilger lånet. Finanstilsynet havde afdækket, at begge banker havde ydet lån på op til 75.000 kr. uden at beregne kundernes rådighedsbeløb, selv om banker som hovedregel netop skal gøre dette. Undersøgelsen viste også, at bankerne, når de faktisk beregnede rådighedsbeløb, systematisk lagde lave rådighedsbeløb til grund. Rådighedsbeløbene var på 3.000 kr. måned pr. voksen og 1.500 kr. pr. måned for børn.
 
@@ -662,12 +652,6 @@ Find 5 afgørelser fra Finanstilsynet om et pengeinstitut der har overtrådt god
 
 ## <font color="red">Særlige god skik regler for forsikringsselskaber<sup> Premium </font></sup>
 
-
-
-![](img/fors.jpg)
-
-
-### <font color="red">Oplysningsforpligtelser for et forsikringsselskab<sup> Premium </font></sup>
 
 
 
@@ -800,7 +784,7 @@ Uanset om der ydes rådgivning, og uanset om forsikringsproduktet er en del af e
 
 ---
 
-![](img/finans13.jpg)
+
 
 Efter forsikringsbekendtgørelsens § 16, stk. 2, skal dokumentet med oplysninger om forsikringsproduktet opfylde følgende:  
 
@@ -1830,9 +1814,8 @@ Der opstilles krav til gennemførelse af værdipapirhandlerne. Det kaldes for �
 
 ---
 
-## Video Hvad er "Best Execution"?
 
-**<a href="https://www.youtube.com/embed/hNMi-bqPvvM">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/hNMi-bqPvvM" target="_blank">Video Hvad er "Best Execution"?</a></h4>
 
 ---
 
@@ -2272,7 +2255,7 @@ Bestyrelsen og direktionen kan også pådrage sig et erstatningsansvar, jf. **U 
 ---
 
 Om revisors erstatningsansvar, se **U 2019.985 V**, hvor en revisor var erstatningsansvarlig for klinikejers tab som følge af, at der løbende var indbetalt for meget moms, og for tab i forbindelse med salg af en andel af klinikken.
-**<a href="https://pro.karnovgroup.dk/document/7000832654/1">Videoen klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000832654/1" target="_blank">Videoen klik her!</a></h4>
 
 ---
 
@@ -2493,11 +2476,7 @@ Blockchain er særligt interessant for den finansielle industri, da det er tekno
 
 ---
 
-## Video: What is Blockchain
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/93E_GzvpMA0" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
-
-
+<h4><a href="https://youtu.be/93E_GzvpMA0" target="_blank">Video: What is Blockchain</a></h4>
 
 ---
 
@@ -2520,22 +2499,18 @@ Denne proces foretages i stedet af parterne selv, og de mange personer, som før
 
 ---
 
-## Video: What is Bitcoin?
-
-**<a href="https://www.youtube.com/embed/2X9eJF1nLiY">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/2X9eJF1nLiY" target="_blank">Video: What is Bitcoin?</a></h4>
 
 ---
 
-## Video: Bitcoin Explained Simply for Dummies
 
-**<a href="https://www.youtube.com/embed/41JCpzvnn_0">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/41JCpzvnn_0" target="_blank">Video: Bitcoin Explained Simply for Dummies</a></h4>
 
 
 ---
 
-## Video: How Does Bitcoin Work?
 
-**<a href="https://www.youtube.com/embed/L-Qhv8kLESY">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/L-Qhv8kLESY" target="_blank">Video: How Does Bitcoin Work?</a></h4>
 
 ---
 
@@ -2814,20 +2789,14 @@ Regeringen vil derfor ikke kunne lave en mere lempelig finansiel lovgivning alen
 
 ---
 
-## Video: FT Lab åbner
 
-**<a href="https://www.youtube.com/embed/WHsjqJ6uJgE">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/WHsjqJ6uJgE" target="_blank">Video: FT Lab åbner</a></h4>
 
 ---
-
-## <font color="red">Quiz om god skik for den finansielle virksomhed samt erstatningsansvaret<sup> Premium </font></sup>
 
 <h3><a href="https://quiz.tepedu.dk/jura22" target="_blank">Quiz God skik for den finansielle virksomhed samt erstatningsansvaret<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
-
----
 
 
  
