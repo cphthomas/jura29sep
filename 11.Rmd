@@ -27,18 +27,14 @@ Hvidvasklovens formål er at sikre, at Danmark bidrager til den internationale k
 
 ---
 
-## <font color="red">Video Sådan foregår hvidvask<sup> Premium </font></sup>
 
-**<a href="https://www.youtube.com/embed/67jlG9dPs54">Videoen klik her!</a>**
+
+<h4><a href="https://www.youtube.com/embed/67jlG9dPs54" target="_blank">Video Sådan foregår hvidvask</a></h4>
 
 
 ---
 
- 
-## <font color="red">Video Danske Bank Hvidvask/Tæt på sandheden<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/1q0K01SQavk">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/1q0K01SQavk" target="_blank">Video Danske Bank Hvidvask</a></h4>
 
 ---
 
@@ -47,9 +43,8 @@ Hvidvasklovens formål er at sikre, at Danmark bidrager til den internationale k
 
 ---
 
-## <font color="red">Video:How does money laundering work? - Delena D. Spann<sup> Premium </font></sup>
 
-**<a href="https://www.youtube.com/embed/257wV-AbKaE">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/257wV-AbKaE" target="_blank">Video:How does money laundering work?</a></h4>
 
 
 ---
@@ -212,9 +207,7 @@ Overtrædelse af pligten til at tage falske penge ud af omløb anses for omfatte
 
 ---
 
-## <font color="red">Video Hvidvask-skandalen Så mange advarsler fik Danske Bank<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/b94ktmFWP6c">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/b94ktmFWP6c" target="_blank">Video Hvidvask-skandalen</a></h4>
 
 
 ---
@@ -598,8 +591,6 @@ Det kan fx være et energiselskab, hvis hovederhverv er handel med el og gas (fo
 
 ---
 
-![](img/advokat.jpg)
-
 Efter hvidvasklovens § 1, stk. 1, nr. 14, er *advokater*  omfattet af hvidvasklovens anvendelsesområde, når de (advokaterne) udøver de i litra a og b, opregnede aktiviteter. 
 
 ---
@@ -734,7 +725,6 @@ Enkeltstående udbud af de omhandlede tjenesteydelser, som ikke kan karakteriser
 
 Efter hvidvasklovens § 1, stk. 1, nr. 19, at *valutavekslingsvirksomhed* er omfattet af hvidvasklovens anvendelsesområde. 
 
-<img src="img/Hvidvask 8.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
@@ -1008,9 +998,7 @@ Hvidvasklovens § 10 stiller krav om, at virksomheder, der får nye kunder, genn
 
 ---
 
-## <font color="red">Video om KYC<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/vLeC6khWzpM">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/vLeC6khWzpM" target="_blank">Video om KYC</a></h4>
 
 ---
 
@@ -1229,10 +1217,7 @@ Målet er, at vurderingen kan fungere som et operationelt og anvendeligt værkt�
 
 ---
 
-## <font color="red">Video Sådan bekæmper man hvidvask<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/nbVbQdu2RTg">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/nbVbQdu2RTg" target="_blank">Video Sådan bekæmper man hvidvask</a></h4>
 
 ---
 
@@ -1363,9 +1348,7 @@ Virksomheden kan fx i sin vurdering, af hvorledes et produkt indebærer en risik
 
 ---
 
-## <font color="red">Video Sådan snyder banker og rigmænd borgerne med hvidvask og skattely<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/nPXIOxi1QxE">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/nPXIOxi1QxE" target="_blank">Video Sådan snyder banker og rigmænd borgerne med hvidvask og skattely</a></h4>
 
 
 ---
@@ -2147,9 +2130,8 @@ Kontrollerne kan for eksempel blive udført ved, at virksomheden udtager stikpr�
 
 ---
 
-## <font color="red">Video Digital AML - På sporet af hvidvask<sup> Premium </font></sup>
 
-**<a href="https://www.youtube.com/embed/0tWTknimQt4">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/0tWTknimQt4" target="_blank">Video Digital AML - På sporet af hvidvask</a></h4>
 
 ---
 
@@ -4600,10 +4582,7 @@ Se afsnittet nedenfor "Om virksomheders pligt til at afbryde eller afvikle et ku
 
 ---
 
-## <font color="red">Video Digital AML - udførlig gennemgang af hvidvasklovens krav<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/HIyrfFbI-7w">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/HIyrfFbI-7w" target="_blank">Video Digital AML - udførlig gennemgang af hvidvasklovens krav</a></h4>
 
 ---
 
@@ -5293,16 +5272,10 @@ Bekendtgørelse BKG 2019-11-29 nr 1274: Onlinekasino.
 
 
 
-
 ---
-
-## <font color="red">Quiz om hvidvaskreglerne<sup> Premium </font></sup>
 
 <h3><a href="https://quiz.tepedu.dk/jura11" target="_blank">Quiz Bekæmpelse af hvidvask og terrorfinansiering <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 
-
-
----
 

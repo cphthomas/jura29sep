@@ -4,16 +4,12 @@
 cat(readLines('npp.html'))
 ```
 
-![](img/data.jpg)
-**<a href="http://samfundslitteratur.dk/bog/kend-databeskyttelsesreglerne" target="_blank"> Se bogen klik her!</a>**^[Følgende afsnit om databeskyttelsesreglerne bygger på *Sonny Kristoffersen*: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.] 
-
----
 
 **Kapitlet om "Databeskyttelse" er pensum i brancheretningsfaget "Finansiel rådgivning" på finansøkonomuddannelsen**
 
 ---
 
-Lovgrundlaget er **Databeskyttelsesforordningen** jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), 
+Lovgrundlaget er **Databeskyttelsesforordningen**^[Følgende afsnit om databeskyttelsesreglerne bygger på *Sonny Kristoffersen*: ”Kend databeskyttelsesreglerne”, 2019, Samfundslitteratur.] jf. Europa-Parlamentets og Rådets forordning af 2016-04-27 om beskyttelse af fysiske personer i forbindelse med behandling af personoplysninger og om fri udveksling af sådanne oplysninger og om ophævelse af direktiv 95/46/EF (generel forordning om databeskyttelse) (2016/679), 
 **<a href="https://pro.karnovgroup.dk/document/7000751611/1" target="_blank">Databeskyttelsesforordningen klik her!</a>**
 
 ---
@@ -71,24 +67,15 @@ Hvilke rettigheder har den registrede og give praktiske eksemplar på dette?
 
 ---
 
-
-## <font color="red">Video Top 5 things to consider for your GDPR preparation<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/6fITStJ-4Es">Videoen klik her!</a>**
-
+<h4><a href="https://youtube.com/embed/6fITStJ-4Es" target="_blank">Video Top 5 things to consider for your GDPR preparation</a></h4>
 
 ---
 
-## <font color="red">Video om databeskyttelsesreglerne på 7 minutter<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/AXnQQyVvmuM">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/AXnQQyVvmuM" target="_blank">Video om databeskyttelsesreglerne på 7 minutter</a></h4>
 
 ---
 
-## <font color="red">Video om databeskyttelsesforordningens krav til den finansielle sektor<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/5OwWsQHpsDc">Videoen klik her!</a>**
-
+<h4><a href="https://youtube.com/embed/5OwWsQHpsDc" target="_blank">Video om databeskyttelsesforordningens krav til den finansielle sektor</a></h4>
 
 ---
 
@@ -114,16 +101,11 @@ Enhver behandling af andres personoplysninger, der ikke sker i en rent privat sa
 
 ---
 
-## <font color="red">Video GDPR: What Is It and How Might It Affect You?<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/j6wwBqfSk-o">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/j6wwBqfSk-o" target="_blank">Video GDPR: What Is It and How Might It Affect You?</a></h4>
 
 ---
 
-## <font color="red">Video: What is the GDPR? | A summary of the EU GDPR<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/Assdm6fIHlE">Videoen klik her!</a>**
-
+<h4><a href="https://youtube.com/embed/Assdm6fIHlE" target="_blank">Video: What is the GDPR? | A summary of the EU GDPR</a></h4>
 
 ---
  
@@ -139,14 +121,11 @@ Omvendt får den, der behandles oplysninger om (den registrerede) en række rett
 
 ---
 
-## <font color="red">Video Introduktion til databeskyttelsesloven<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/bEh-vF-C5-A">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/bEh-vF-C5-A" target="_blank">Video Introduktion til databeskyttelsesloven</a></h4>
 
 ---
 
-## <font color="red">Video: Hvad er persondata?<sup> Premium </font></sup>
-**<a href="https://youtu.be/jmVTmSLkkh0" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/jmVTmSLkkh0" target="_blank" target="_blank">Video: Hvad er persondata?</a></h4>
 
 ---
  
@@ -266,8 +245,7 @@ Fagforeningsmæssigt tilhørsforhold, helbred, seksuel orientering.
 
 ---
 
-## <font color="red">Video: Kategorier af personoplysninger<sup> Premium </font></sup>
-**<a href="https://youtu.be/gn5QEtgZcVc" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/gn5QEtgZcVc" target="_blank" target="_blank">Video: Kategorier af personoplysninger</a></h4>
 
 ---
 
@@ -311,16 +289,6 @@ mydf %>%
 
 ---
 
-
-![](img/gdprtrekanten.jpg)
-
----
-
-![](img/data7.jpg)
-
-
----
-
 En anden måde at se de forskellige kategorier af personoplysninger på. 
 
 Jo højere oppe i trekanten oplysningerne er, desto strengere betingelser for at behandle dem. 
@@ -347,8 +315,7 @@ En virksomhed må kun behandle almindelige ikke-følsomme personoplysninger, hvi
 
 ---
 
-## <font color="red">Videoer om hvordan håndterer I personoplysninger i jeres virksomhed?<sup> Premium </font></sup>
-**<a href="https://youtu.be/qBkWNv9_vsc" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/qBkWNv9_vsc" target="_blank" target="_blank">Videoer om hvordan håndterer I personoplysninger i jeres virksomhed?</a></h4>
 
 ---
 
@@ -515,10 +482,7 @@ God databehandlingsskik supplerer således navnlig databeskyttelseslovens regler
 
 ---
 
-## <font color="red">Video om god behandlingsskik<sup> Premium </font></sup>
-
-**<a href="https://youtu.be/3QSmFgl4V2E" target="_blank">Videoen klik her!</a>**
-
+<h4><a href="https://youtu.be/3QSmFgl4V2E" target="_blank" target="_blank">Video om god behandlingsskik</a></h4>
 
 ---
 
@@ -537,22 +501,16 @@ Den registrerede oplyses om formålet med at behandle persondata og grundlaget (
 
 ---
 
-## <font color="red">Video om oplysningspligten<sup> Premium </font></sup>
-**<a href="*https://youtu.be/NMB734l1XfM" target="_blank"> Videoen klik her!</a>**
+<h4><a href="https://youtu.be/NMB734l1XfM" target="_blank">Video om oplysningspligten</a></h4>
+
 
 ---
 
-## <font color="red">Nærmere om kravet til samtykke for, at der kan behandles personoplysninger<sup> Premium </font></sup>
+<h4><a href="https://youtu.be/7sQbAZSHRFU"  target="_blank">Video om samtykket</a></h4>
 
 ---
 
-## <font color="red">Video om samtykket<sup> Premium </font></sup>
-**<a href="https://youtu.be/7sQbAZSHRFU" target="_blank">Videoen klik her!</a>**
-
----
-
-## <font color="red">Video om behandlingshjemlen<sup> Premium </font></sup>
-**<a href="https://youtu.be/TmYVGZ_al8M" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/TmYVGZ_al8M" target="_blank">Video om behandlingshjemlen</a></h4>
 
 ---
 
@@ -708,15 +666,11 @@ Hvilke krav stilles der til "samtykket" og find praktiske eksemplar på afgivels
 
 ---
 
-## <font color="red">Video et overblik for virksomheden om databeskyttelsesreglerne<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/gzAiH6jpGVM">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/gzAiH6jpGVM" target="_blank">Video et overblik for virksomheden om databeskyttelsesreglerne</a></h4>
 
 --- 
 
 ## <font color="red">Den registreredes rettigheder<sup> Premium </font></sup>
-
-
  
 Når der behandles oplysninger om en person, kaldes personen *"den registrerede"*. 
 
@@ -775,8 +729,7 @@ Den registrerede har ret til at få urigtige/forkerte personoplysninger om sig r
 
 ---
 
-## <font color="red">Video om indsigelsesret og anmodning om sletning<sup> Premium </font></sup>
-**<a href="https://youtu.be/bJAmhsu0Xjg" target="_blank">Se videoen klik her!</a>**
+<h4><a href="https://youtu.be/bJAmhsu0Xjg" target="_blank">Video om indsigelsesret og anmodning om sletning</a></h4>
 
 ---
 
@@ -797,9 +750,7 @@ Det fremgår desuden, at den registrerede bør kunne udøve denne rettighed, uan
 
 ---
 
-## <font color="red">Video: Retten til at blive glemt<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/opW2SjZ0ziA">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/opW2SjZ0ziA" target="_blank">Video: Retten til at blive glemt</a></h4>
 
 
 ---
@@ -848,8 +799,8 @@ Retten til dataportabilitet finder ikke anvendelse på behandling, der er nødve
 
 ---
 
-## <font color="red">Video om indsigtsbegæring<sup> Premium </font></sup>
-**<a href="https://youtu.be/TeJ1xbrjDJU" target="_blank">Videoen klik her!</a>**
+
+<h4><a href="https://youtu.be/TeJ1xbrjDJU" target="_blank" >Video om indsigtsbegæring</a></h4>
 
 ---
 
@@ -888,24 +839,21 @@ Hvilke rettigheder har den registrede over for en finansiel virksomhed og giv pr
 
 ---
 
-## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
-**<a href="https://youtu.be/L49BE_nqLKU" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/L49BE_nqLKU" target="_blank">Video om dataansvarlig og databehandler</a></h4>
 
 ---
 
-## <font color="red">Video om data Protection Officer (DPO)<sup> Premium </font></sup>
-**<a href="*https://youtu.be/JlRCfJKrAi0" target="_blank">Videoen klik her!</a>**
+
+<h4><a href="https://youtu.be/JlRCfJKrAi0" target="_blank" target="_blank">Video om data Protection Officer (DPO)</a></h4>
 
 ---
 
-## <font color="red">Video om dataansvarlig og databehandler<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/a23YoOgb2h0">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/a23YoOgb2h0" target="_blank">Video databeskyttelsesforordningen</a></h4>
 
 ---
 
-## <font color="red">Video om fortegnelse<sup> Premium </font></sup>
-**<a href="https://youtu.be/-M8bYIHlbBA" target="_blank">Videoen klik her!</a>**
+
+<h4><a href="https://youtu.be/-M8bYIHlbBA" target="_blank"> Video om fortegnelse</a></h4>
 
 ---
 
@@ -914,18 +862,11 @@ Hvilke rettigheder har den registrede over for en finansiel virksomhed og giv pr
 
 ---
 
-## <font color="red">Video om bøder<sup> Premium </font></sup>
-
-**<a href="https://youtu.be/RBKJ6SBtEIY">Videoen klik her!</a>**
-
-
+<h4><a href="https://youtu.be/RBKJ6SBtEIY" target="_blank">Video om bøder</a></h4>
 
 ---
 
-## <font color="red">Video GDPR Compliance 2019 Summary - 10 Steps in 10 Minutes to Avoid Fines<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/WPwG-MNMuBQ">Videoen klik her!</a>**
-
+<h4><a href="https://youtube.com/embed/WPwG-MNMuBQ" target="_blank">Video GDPR Compliance</a></h4>
 
 ---
 
@@ -1251,10 +1192,10 @@ Hvis en afbildet person er utilfreds med offentliggørelsen af vedkommendes bill
 
 ---
 
-## <font color="red">Video om offentliggørelse fra billeder på de sociale medier<sup> Premium </font></sup>
 
 
-**<a href="https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/" target="_blank"> klik her!</a>**
+
+<h4><a href="https://www.datatilsynet.dk/presse-og-nyheder/nyhedsarkiv/2019/sep/aendret-praksis-i-forhold-til-billeder-paa-internettet/" target="_blank">Video om offentliggørelse fra billeder</a></h4>
 
 ---
 
@@ -1567,26 +1508,17 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 ---
 
-## <font color="red">Video - Resumé af databeskyttelsesreglerne<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/cnPsjUIThK8">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/cnPsjUIThK8" target="_blank">Video - Resumé af databeskyttelsesreglerne</a></h4>
 
 ---
 
-## <font color="red">Video om GDPR For dummies<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/jaYdR_cPpq8">Videoen klik her!</a>**
+<h4><a href="https://youtube.com/embed/jaYdR_cPpq8" target="_blank">Video om GDPR For dummies</a></h4>
 
 ---
 
-## <font color="red">Video om persondata og personaleadministration<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/1XFvmzxlrwo">Videoen klik her!</a>**
-
+<h4><a href="https://youtube.com/embed/1XFvmzxlrwo" target="_blank">Video om persondata og personaleadministration</a></h4>
 
 ---
-
-## <font color="red">Podcasts om databeskyttelse<sup> Premium </font></sup>
 
 
 **GDPR Podcastserie **
@@ -1604,11 +1536,7 @@ Nej. Tidligere krævedes det Datatilsynet tilladelse, når man ønskede at behan
 
 *Sonny Kristoffersen*: Kend databeskyttelsesreglerne (2019), *Henrik Waaben* og *Kristian Korfits Nielsen*: Lov om behandling af personoplysninger med kommentarer, 3. udg. (2015), *Peter Blume*: Den nye persondataret – persondataforordningen (2016), og samme: Databeskyttelsesret, 4. udg. (2013), *Peter Blume* og *Jens Kristiansen*: Persondataret i ansættelsesforhold (2011), samt – med særlig henblik på behandling af personoplysninger i den offentlige forvaltning – kapitel 8 i *Niels Fenger*: Forvaltningsloven med kommentarer (2013).
 
-
-
 ---
-
-
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
@@ -1620,8 +1548,5 @@ Se seneste nyt fra Datatilsynet:
 ---
 
 
-## <font color="red">Quiz om databeskyttelse<sup> Premium </font></sup>
-
 <h3><a href="https://quiz.tepedu.dk/jura10" target="_blank">Quiz Databeskyttelsesreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
----

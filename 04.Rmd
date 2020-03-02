@@ -1883,7 +1883,7 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 ---
 
 
-```{r regler og fortolkninger,echo=FALSE}
+```{r reglerogfortolkninger,echo=FALSE}
 options(knitr.table.format = "html")
 collapse_rows_dt <- data.frame(Regel = c("Koncipistreglen", "Minimumsreglen","Prioritetsreglen", "Gyldighedsreglen","Rimelighedsreglen"),
                  Fortolkning = c("Dette fortolkningsprincip er også benævnt som uklarhedsreglen og betyder, at den part, som har konciperet (skrevet) kontrakten må bære risikoen for tvetydighed. Er der en uklarhed i kontrakten, tolkes aftalen til skade eller ugunst for koncipisten og dermed mindst tyngende for den anden part, som ikke har haft indflydelse på aftalens formulering. Uklarhedsreglen er særlig relevant ved fortolkning af standardaftaler, der er udarbejdet af en stærk part.",

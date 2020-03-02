@@ -7,7 +7,6 @@ cat(readLines('npp.html'))
 
 ![](img/mf1.png)
 
-
 ---
 
 ***Note***
@@ -26,13 +25,11 @@ Markedsføring, markedsføring af (finansielle) produkter over for børn/unge, M
 *Introduktion til markedsføringsloven*
 
 Lov nr. 426 af 3. maj 2017 om markedsføring (MFL), 
-**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Markedsføringsloven i LovsamlingenVideoen klik her!</a>**
+**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank">Markedsføringsloven i Lovsamlingen klik her!</a>**
 
 ---
 
-## <font color="red">Video om markedsføringsloven<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/FtVlOzjQitY" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/FtVlOzjQitY" target="_blank">Video om markedsføringsloven</a></h4>
 
 
 ---
@@ -40,8 +37,6 @@ Lov nr. 426 af 3. maj 2017 om markedsføring (MFL),
 ## <font color="red">Markedsføringslovens formål, opbygning og EU-regulering<sup> Premium </font></sup>
 
 Formålet med markedsføringsloven er, at den skal understøtte fair konkurrence, samt gode forbrugerforhold.^[Følgende afsnit om markedsføringsloven bygger på *Sonny Kristoffersen*: ”Forbrugerretten I. Markedsføringsloven anno 2017 i en civil- og offentligretlig kontekst, 6. udg., KarnovGroup”, 2017.]
-
-![](img/bog2.jpg)
 
 ---
 
@@ -433,23 +428,15 @@ Facebook: Tydeligt markere, hvis opslag er en reklame.
 
 ---
 
-## <font color="red">Video om skjult reklame<sup> Premium </font></sup>  
-**<a href="https://www.youtube.com/embed/0v3K7pusbD4" target="_blank">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/0v3K7pusbD4" target="_blank">Video om skjult reklame</a></h4>
 
 ---
 
-## <font color="red">Video om influencer marketing. Hvad er reglerne<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/KzSLGxLrPWs" target="_blank">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/KzSLGxLrPWs" target="_blank">Video om influencer marketing</a></h4>
 
 ---
 
-## <font color="red">Video om skjult reklamer på YouTube<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/x3hB3ACOb2g" target="_blank">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/x3hB3ACOb2g" target="_blank">Video om skjult reklamer på YouTube</a></h4>
 
 ---
 
@@ -624,10 +611,7 @@ Betingelserne for en lovlig, sammenlignende reklame	- se MFL § 21.
 
 ---
 
-## <font color="red">Video om hvad er sammenlignende reklame<sup> Premium </font></sup>
-
-**<a href="https://www.youtube.com/embed/hQvnE8iPuXw" target="_blank">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/hQvnE8iPuXw" target="_blank">Video Hvad er sammenlignende reklame?</a></h4>
 
 ---
 
@@ -807,16 +791,21 @@ Bliver du konstant kontaktet af telefonsælgere, eller er din indbakke ramt af s
 Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskursus om *”Online handel og markedsføring”*:  
 
 
+---
 
-<a href="https://vimeo.com/advokurser/review/302818663/7d55f9cf50" target="_blank">Intro/teaser til kurset.</a>  
+<h4><a href="https://vimeo.com/advokurser/review/302818663/7d55f9cf50" target="_blank">Intro/teaser til kurset.</a></h4> 
 
-<a href="https://vimeo.com/advokurser/review/302817925/6dbacf556f" target="_blank">Lektion 1</a>  
+---
+
+<h4><a href="https://vimeo.com/advokurser/review/302817925/6dbacf556f" target="_blank">Video Markedsførring Lektion 1</a></h4>
   
+---
   
-<a href="https://vimeo.com/advokurser/review/302818130/6be23a8255" target="_blank">Lektion 2</a>  
+<h4><a href="https://vimeo.com/advokurser/review/302818130/6be23a8255" target="_blank">Video Markedsførring Lektion 2</a></h4>
 
+---
 
-<a href="https://vimeo.com/advokurser/review/302818495/bb990da2b0" target="_blank">Lektion 3</a>
+<h4><a href="https://vimeo.com/advokurser/review/302818495/bb990da2b0" target="_blank">Video Markedsførring Lektion 3</a></h4>
 
 ---
 
@@ -848,10 +837,9 @@ Ekstra materiale som ikke er en del af pensum fra et advokatefteruddannelseskurs
 
 ---
 
-## <font color="red">Quiz om markedsføringsloven<sup> Premium </font></sup>
 
-**https://www.forbrug.dk/quiz/markedsfoeringslov/**
+<h4><a href="https://www.forbrug.dk/quiz/markedsfoeringslov/" target="_blank">Quiz om markedsføringsloven</a></h4>
 
----
+
 
 

@@ -25,34 +25,30 @@ cat(readLines('fp.html'))
 
 ---
 
-<br>
 
 
-<h3><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h3>
+<h4><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h4>
 
-  <br>
   
 
 ---
 
-  <br>
   
 
 
-<h3><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h3>
+<h4><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h4>
 
 
-<br>
-
----
-
-<br>
-
-<h3>***Anmeldelser***</h3>
-
-<br>
 
 ---
+
+<br>
+
+<h4>***Anmeldelser***</h4>
+
+
+<br>
+
 
 
 >Erhvervs- og finansjura for finansøkonomer rummer rigtig mange gode ting, bl.a. de quizzer der er ved de fleste emner, det gør det muligt at lave et hurtigt brush up.<br><br> 
@@ -83,7 +79,7 @@ Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for a
 **Søren** 
 
 
-<h3>***Vigtigt at bemærke***</h3>
+<h4>***Vigtigt at bemærke***</h4>
 
 ***Formålet med e-bogen er at kvalificere dig til en uddannede finansøkonom til, at du kan udføre salg, rådgivning og sagsbehandling med professionel og etisk funderet tilgang på et juridisk grundlag. E-bogens erhvervssigte er ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion.***
 
@@ -111,9 +107,12 @@ Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for a
 
 ***Adgangen til "Karnovn Lovsamling", der hjemmefra med MAC eller PC opkompling, hvor de enkelte lovparagraffer er kommenterede, sker via "fjernskrivebordet". Se nærmere de respektive vejledninger om adgang til fjernskrivebordet udenfor CPH på "cphbusiness.dk/guides" eller Moodle Flowet Bibliotek under punkt 1. Databaser - (der linkes til CPH's vejledninger)***
 
-***E-bogen indeholder også en løbende opdateret lovsamling som er relevant for dig som finansøkonom.***
+***E-bogen indeholder også en løbende opdateret lovsamling som er relevant for dig som finansøkonom.***  
 
-***Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske til mig på følgende e-mail:sbmk@cphbusiness.dk Ved tekniske problemer kontakt Thomas Petersen: cphthomas@gmail.com***
+
+***Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske til mig på følgende e-mail:sbmk@cphbusiness.dk  ***  
+
+***Ved tekniske problemer kontakt Thomas Petersen: cphthomas@gmail.com***
 
 
 ***De bedste hilsener***

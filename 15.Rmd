@@ -1,7 +1,7 @@
 # Kautionsforhold
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
+# cat(readLines('np.html'))
 ```
 
 ![](img/kaux.jpg)
@@ -1495,14 +1495,8 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 ---
 
 
-## Quiz om kautionsforhold
-
 <h3><a href="https://quiz.tepedu.dk/jura15" target="_blank">Quiz Kautionsforhold <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
-
-
-
----
 
 

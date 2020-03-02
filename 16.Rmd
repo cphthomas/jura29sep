@@ -119,11 +119,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
   
 ---
 
-## Video om hvad er obligationer
-
-
-**<a href="https://www.youtube.com/embed/W8DnSJmntmY">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/W8DnSJmntmY" target="_blank">Video om hvad er obligationer</a></h4>
 
 ---
   
@@ -241,23 +237,15 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-## Video om hvordan laver jeg et gældsbrev
-
-**<a href="https://www.youtube.com/embed/8ufuecp-wXA">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/8ufuecp-wXA" target="_blank">Video om hvordan laver jeg et gældsbrev</a></h4>
 
 ---
 
-## Video om at oprette et gældsbrev online
-
-**<a href="https://www.youtube.com/embed/J88adaVemVQ">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/J88adaVemVQ" target="_blank">Video om at oprette et gældsbrev online</a></h4>
 
 ---
 
-## Video om hvordan du laver en låneaftale
-
-**<a href="https://www.youtube.com/embed/PPqd-fYRCg0">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/PPqd-fYRCg0" target="_blank">Video om hvordan du laver en låneaftale</a></h4>
 
 ---
 
@@ -560,11 +548,7 @@ Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån 
 
 ## Forskellige typer af pengekrav og fordringer  
 
----
 
-<img src="img/gb8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
----
 
 <img src="img/gb9.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -823,10 +807,7 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 
 ---
 
-## Video om hvad er factoring
-
-**<a href="https://www.youtube.com/embed/zNxALT0w14U">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/zNxALT0w14U" target="_blank">Video om hvad er factoring</a></h4>
 
 ---
 
@@ -898,34 +879,25 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ---
 
-## Videoer om gældsbrevsloven
-
-**<a href="https://www.youtube.com/embed/4SY6YPbY2YY">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/4SY6YPbY2YY" target="_blank">Videoer om gældsbrevsloven</a></h4>
 
 ---
 
-**<a href="https://www.youtube.com/embed/uODiLMSn3kg">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/uODiLMSn3kg" target="_blank">Videoen om gældsbrevsloven</a></h4>
 
 ---
 
-## Video om gældsbreve
-
-**<a href="https://www.youtube.com/embed/nC3Sy7tBCaY">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/nC3Sy7tBCaY" target="_blank">Video om gældsbrevsloven</a></h4>
 
 
 ---
 
 ### Tinglysning af simple (ikke-negotiable) pantebreve  
 
-<img src="img/gb14.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Et simpelt (ikke-negotiabelt) pantebrev skal dog også tinglyses digitalt for at opnå omsætningsbeskyttelse. 
 
----
 
-![](img/los2.jpg)
 
 Se fx TL § 47, stk. 6, hvad angår *løsørepantebreve*, der som udgangspunkt er ikke-negotiable fx. en bil eller maskine. 
 
@@ -1001,9 +973,6 @@ For tinglyste digitale pantebreve er den, der er berettiget ifølge tingbogen, l
 
 Tilsvarende gælder for bilbogen (TL § 42g, stk. 3, 1. pkt., jf. TL § 27a, stk. 1), andelsboligbogen (TL § 42m, stk. 2, 1. pkt, jf. TL § 27a, stk.1) og personbogen (TL § 47, stk. 7, 1. pkt., jf. TL § 27a, stk. 1).  
 
----
-
-<img src="img/gb12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Reglen om overdragelse af omsætningsgældsbreve og reglen om legitimationen over for skyldner bygger på GBL § 13. Se også GBL § 14 og 19. 
 
@@ -1180,16 +1149,13 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ---
 
-## Video om overdragelse af fordringer
-
-**<a href="https://www.youtube.com/embed/NqakMVHBPw4">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/NqakMVHBPw4" target="_blank">Video om overdragelse af fordringer</a></h4>
 
 ---
 
 
 ### Skyldners indsigelser over for den oprindelige kreditor
 
- 
 
 *Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve*  
 
@@ -1305,10 +1271,7 @@ For en nærmere gennemgang af det oprindelige trepartsforhold, jf. kreditaftalel
 
 ---
 
-## Video om debitor- og kreditorskifte
-
-
-**<a href="https://www.youtube.com/embed/B9dSq8QSHp0">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/B9dSq8QSHp0" target="_blank">Video om debitor- og kreditorskifte</a></h4>
 
 ---
 
@@ -1384,10 +1347,7 @@ Om *"simpel kaution"* se afsnit 15.8: **https://jura.tepedu.dk/kautionsforhold.h
 
 ---
 
-## Video om at slå op i bilbogen
-
-**<a href="https://www.youtube.com/embed/jS9HN8OxvgI">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/jS9HN8OxvgI" target="_blank">Video om at slå op i bilbogen</a></h4>
 
 ---
 
@@ -2512,16 +2472,11 @@ Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette m
 
 ---
 
-## Video om digital tinglysning af underskrift på dokumenter og skøde
-
-**<a href="https://www.youtube.com/embed/CBUM8aybRQU">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/CBUM8aybRQU" target="_blank">Video om digital tinglysning af underskrift på dokumenter og skøde</a></h4>
 
 ---
 
-## Video om at forstå tinglysning på 45 sekunder
-
-**<a href="https://www.youtube.com/embed/6Spl32wXXco">Videoen klik her!</a>**
-
+<h4><a href="https://www.youtube.com/embed/6Spl32wXXco" target="_blank">Video om at forstå tinglysning på 45 sekunder</a></h4>
 
 ---
 
@@ -2622,9 +2577,7 @@ En aftaleerhverver (ikke kreditor) kan fortrænge en tidligere indsigelse hvis:
 
 ---
 
-## Video om tingbogens historie overgangen fra realregistrene til digital registrering
-
-**<a href="https://www.youtube.com/embed/2EwMrDiABD8">Videoen klik her!</a>**
+<h4><a href="https://www.youtube.com/embed/2EwMrDiABD8" target="_blank">Video om tingbogens historie</a></h4>
 
 ---
 
@@ -2988,48 +2941,8 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 
 - Modregning kan ikke ske, hvis skyldnerens krav mod fordringshaveren er erhvervet under sådanne omstændigheder, at erhvervelsen i forbindelse med modregning må sidestilles med en omstødelig betaling - jf. KL § 42 stk. 4.
 
-
-
 ---
 
-
-
-## Quiz om fordringer, gældsbreve og pantebreve
 
 <h3><a href="https://quiz.tepedu.dk/jura16" target="_blank">Quiz Fordringer, gældsbreve og pantebreve <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
-
-
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -94,11 +94,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 ---
 
 Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.] anvendes i de fleste aftaler om lån, kredit eller køb på kredit. 
-**<a href="https://jura.tepedu.dk/lovsamling.html." target="_blank"> Se Lovsamlingen klik her!</a>**
-
----
-
-![](img/sonny.jpg)
+**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Se Lovsamlingen klik her!</a>**
 
 ---
 
@@ -163,9 +159,7 @@ De finansielle institutioners udlån til forbrugere er derfor omfattet af kredit
 
 ---
 
-## Video om kunsten at låne uden at gråne
-
-**<a href="https://vimeo.com/304785098" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://vimeo.com/304785098" target="_blank">Videoen klik her!</a></h4>
 
 ---
 
@@ -494,9 +488,7 @@ En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et eks
 
 ---
 
-## Video Hvad er en kassekredit
-
-**<a href="https://youtu.be/cFofI0O1wP4" target="_blank">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/cFofI0O1wP4" target="_blank">Video Hvad er en kassekredit</a></h4>
 
 ---
 
@@ -552,9 +544,7 @@ For så vidt angår sælgerpantebreve er det ved KAL § 8 a, stk. 2, bestemt, at
 
 ---
 
-## Video Forstå et sælgerpantebrev på 2 minutter
-
-**<a href="https://vimeo.com/241136749">Videoen klik her!</a>**
+<h4><a href="https://vimeo.com/241136749" target="_blank">Video Forstå et sælgerpantebrev på 2 minutter</a></h4>
 
 ---
 
@@ -1922,7 +1912,7 @@ Ad. 6)	?
  
 ---
 
-## Quiz om forbrugslån
+#### Quiz om forbrugslån
 
 ![](img/forbrug.jpg)
 
@@ -1930,7 +1920,7 @@ Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang
 
 ---
 
-## Quiz om realkreditlån
+#### Quiz om realkreditlån
 
 ![](img/real.jpg)
 
@@ -1938,7 +1928,7 @@ Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når 
 
 ---
 
-## Quiz om kreditaftaler
+#### Quiz om kreditaftaler
 
 <h3><a href="https://quiz.tepedu.dk/jura14" target="_blank">Quiz Kreditaftaler <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

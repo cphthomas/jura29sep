@@ -579,17 +579,11 @@ Hævd eksisterer så længe hævden er tinglyst og kan ophøre på samme måde s
 
 ---
 
-## Video om tinglysningslovens §§ 1 og 27
-
-**<a href="https://www.youtube.com/embed/hPEDQjWpyjg">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/hPEDQjWpyjg" target="_blank">Video om tinglysningslovens §§ 1 og 27</a></h4>
 
 ---
 
-
-## Video Om tinglysningslovens § 40
-
-**<a href="https://www.youtube.com/embed/W-GUDkF6tIg">Videoen klik her!</a>**
-
+<h4><a href="https://youtu.be/W-GUDkF6tIg" target="_blank">Video Om tinglysningslovens § 40</a></h4>
 
 ---
 
@@ -1075,12 +1069,8 @@ Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), ka
 
 ---
 
-## Video om pant i fast ejendom, jf. TL §§ 37 og 38
+<h4><a href="https://youtu.be/xHy4WseYSYY" target="_blank">Video om pant i fast ejendom, jf. TL §§ 37 og 38</a></h4>
 
-
-
-<div class="video-container"><iframe src="https://www.youtube.com/embed/xHy4WseYSYY" width="853" height="480" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
- 
 ---
 
 ## Eksamensopgave 18.1.
@@ -1170,9 +1160,7 @@ Hvilke muligheder har rekonstruktøren for omstødelsen?
 
 ---
 
-## Video om TL §§ 37 og 38 om tilhørspant
-
-**<a href="https://www.youtube.com/embed/uK1iZr2t3y8">Videoen klik her!</a>**
+<h4><a href="https://youtu.be/uK1iZr2t3y8" target="_blank">Video om TL §§ 37 og 38 om tilhørspant</a></h4>
 
 ---
 
@@ -1828,12 +1816,8 @@ Se nærmere kapitel 17 om regulering af dobbeltoverdragelser, jf. kapitalmarkeds
 ## Om værdipapircentralen  
 
 
- 
-*Værdipapircentralens hjemmeside*
 
-## Video om VP 
-
-**<a href="https://www.vp.dk/">Videoen klik her!</a>**
+<h4><a href="https://www.vp.dk/" target="_blank">Værdipapircentralens hjemmeside</a></h4>
 
 ---
 
@@ -2345,15 +2329,9 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 3.	Underpant i fast ejendom, som panthaveren inden fordringen forældelse har overtaget til brug. 
 
-
 ---
 
-
-## Quiz om pant i fast ejendom, løsøre og virksomhedspant
-
 <h3><a href="https://quiz.tepedu.dk/jura18" target="_blank">Quiz Pant i fast ejendom, løsøre og virksomhedspant <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
-
-
 
 ---
 
