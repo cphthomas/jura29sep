@@ -275,7 +275,7 @@ Beslutninger: Skal ske i enighed, medmindre andet aftales.
 
 ### ApS og A/S (kapitalselskaber)
 
-![](img/kapital.png)
+
 
 
 Efter selskabsloven, § 1, stk. 1, jf. Lovbekendtgørelse 2019-07-23 nr. 763 om aktie- og anpartsselskaber, finder loven anvendelse alle aktieselskaber og anpartsselskaber (kapitalselskaber). 
@@ -453,7 +453,7 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt
 *Justesens juristerier*
 
 
-<img src="img/ivarksatter.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/ivarksatter.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Ivar Justesen er en evig iværksætter og er altid i gang med nye ”erhvervseventyr”, desværre ikke alle lige vellykkede, så derfor har han efterhånden oparbejdet en del gæld. En af hans kreditorer, Sun-Import A/S rykker nu kraftigt for betaling i henhold til en forfalden faktura på kr. 114.870.
 

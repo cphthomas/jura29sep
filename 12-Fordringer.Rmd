@@ -175,11 +175,14 @@ I øvrigt kan underskriften være stemplet eller trykt.
 
 ---
 
-<img src="img/gb16.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/gb16.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-*Checks og veksler* er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.
+*Checks og veksler* er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.  
+
+
+
  
----
+---  
 
 Erklæringen på gældsbrevet skal være i hovedsagen *ubetinget*. 
 
@@ -513,7 +516,7 @@ mydf %>%
 *Om tredjemandsmisbrug af kortholderes betalingsmiddel*
 
 
-<img src="img/kortmisbrug2.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/kortmisbrug2.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 Klokken er 9.31 mandag d. 5. februar 2018, da Andreas Andersen ringer til privatrådgiver Lærke Jensens kontor i Sparekassen Pecunia. 

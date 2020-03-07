@@ -775,7 +775,7 @@ Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstan
 
 ## Tvangsauktion
 
-<img src="img/gaden.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+<img src="img/gaden.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 *En tvangsauktion er et "tvangssalg"*. 
@@ -836,9 +836,6 @@ Kan man ikke selv møde, kan man lade en advokat byde for én.
 
 Man kan også give en skriftlig fuldmagt til en anden person, der så kan byde for én.
  
----
-
-![](img/gaden1.jpg)
 
 
 ---
@@ -1073,9 +1070,6 @@ Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkurs
 
 ![](img/karantane.jpg)
 
----
-
-### Hvad er en konkurskarantæne?
 
 Konkurskarantæne betyder, at en person i en periode får et forbud mod at deltage i ledelsen af en virksomhed, hvori den pågældende ikke hæfter personligt og ubegrænset for virksomhedens forpligtelse (aktieselskaber, anpartsselskaber m.v.)
 
@@ -1094,7 +1088,7 @@ Konkurskarantænen vil som udgangspunkt blive pålagt for en periode på 3 år.
 
 ---
 
-### Overtrædelse af konkurskarantæne
+#### Overtrædelse af konkurskarantæne
 
 Hvis en person overtræder en konkurskarantæne, kan skifteretten efter omstændighederne pålægge personen en ny karantæne. 
 
@@ -1116,7 +1110,7 @@ Kuratorer og rekonstruktører vurderer i alle konkursboer og rekonstruktionssage
 
 ---
 
-### Konkurskarantæneregistret
+#### Konkurskarantæneregistret
 
 Den, der bliver pålagt konkurskarantæne, registreres i et konkurskarantæneregister. 
 
@@ -1931,7 +1925,7 @@ Man kan læse mere om betingelserne for gældssanering
 
 ![](img/galdsan.jpg)
 
-Manudfylder og underskriver ansøgningsskemaet.
+Man udfylder og underskriver ansøgningsskemaet.
 
 Ansøgningsskemaet 
 **<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldsanering.pdf" target="_blank">klik her!</a>**

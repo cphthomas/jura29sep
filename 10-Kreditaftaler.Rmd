@@ -225,7 +225,6 @@ Kreditgiveren har *bevisbyrden* for, at der ikke foreligger en forbrugerkreditaf
 
 ## Krav til kreditaftalen
 
-<img src="img/kredit3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Før kreditaftalen indgås skal en forbruger have oplysninger om vilkår og omkostninger på et varigt medie (fx papir, CD-rom, netbank).
 

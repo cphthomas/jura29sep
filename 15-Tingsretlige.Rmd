@@ -422,7 +422,6 @@ Det er dog værd at bemærke, at tvangssalg af løsøre uden den store værdi, o
  
 **Fondsaktiv:** ”Dematerialiseret omsætteligt værdipapir, der er registreret i en værdipapircentral (CSD)”, jf. kapitalmarkedslovens § 3, nr. 34. 
 
-![](img/csd.jpg)
 
 
 Dvs. et papir, som ikke foreligger i fysisk form, men er registreret elektronisk i den danske Værdipapircentral eller anden værdipapircentral. 

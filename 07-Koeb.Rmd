@@ -129,7 +129,7 @@ Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1
 
 ## Købelovens begreber ved forbrugerkøb:
 
-<img src="img/buing2.jpeg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Forbrugerkøb er et køb, der foretages af en forbruger hos en erhvervsdrivende, der handler som led i sit erhverv, og hvor køberen hovedsagelig handler uden for sit erhverv, jf. nærmere *det civilretlige forbrugerbegreb* i KBL § 4 a, stk. 1. 
 
@@ -1135,9 +1135,7 @@ Den absolutte reklamationsfrist er 24 måneder fra salgsgenstandens overgivelse,
 
 <h4><a href="https://vimeo.com/305910704" target="_blank">Video om garantier</a></h4>
 
----
 
-![](img/reklamation.png)  
 
 ---
 

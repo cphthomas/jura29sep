@@ -131,9 +131,6 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ## Stiftelse af kaution
 
-![](img/kau10.jpg)
-
----
 
 Kautionsaftale indgås mellem kreditor og med en eller flere kautionister.
 
@@ -196,10 +193,6 @@ Det er vigtigt at skelne mellem "erhvervskaution" (FIL § 47) og "privat kaution
 Om anvendelse af aftalelovens § 36 på kautionsforhold findes der en del retspraksis (domme) på området:  
 
 
-
-<img src="img/kaution6.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
----
 
 I dommen **U 1993.949 V** blev en kautionsaftale tilsidesat i medfør af aftalelovens § 36.
 **<a href="https://pro.karnovgroup.dk/document/7000200948/1" target="_blank">Dommen klik her!</a>**
@@ -418,7 +411,7 @@ Der er dog ikke krav om, at pjecen skal udleveres.
 
 Det står således långiver frit for at udarbejde andet informationsmateriale, så længe dette forklarer, hvad en kautionsforpligtelse indebærer og indeholder en afbalanceret beskrivelse af de risici, der er forbundet med at kautionere.
 
-<img src="img/kaution4.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Der er endvidere indsat regler om, at kautionsforpligtelser, som står i misforhold til kautionistens økonomi, skal kunne tilsidesættes helt eller delvist. 
 
@@ -804,7 +797,6 @@ Dette er ikke tilfældet ved pro rata hæftelse, hvor hver enkelt kautionist hæ
 
 ## Simpel kaution eller en selvskyldnerkaution
 
-<img src="img/kaution8.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 *Selvskyldnerkaution* er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. 
 
@@ -967,9 +959,6 @@ Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 ---
 
 ## Kautionistens krav på låntager
-
-
-<img src="img/kaution9.png" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:

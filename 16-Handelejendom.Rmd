@@ -137,7 +137,7 @@ Afsnittet læses kun i hovedtræk, da det bliver mere detaljeret gennemgået und
  
 En aftale om formidlingsopdraget skal være skriftlig. LOFE § 29, stk. 1.^[Følgende afsnit om formidlingsaftalen bygger på *Sonny Kristoffersen*: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018, Hans Reitzels Forlag. Som kan anbefales for dig, der vælger ejendomsmæglerbranchen.] 
 
-![](img/handel2.png)
+
 
 
 Kravet om parternes underskrift skal bl.a. sikre, at der er fuldstændig enighed om de vilkår, som fremgår af aftalen, inklusive situationer, hvor sælgeren fx har anført tillægstekst i hånden.  
@@ -1579,10 +1579,12 @@ Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, j
 
 *Ulovlige bygningsindretninger* er i retspraksis blevet behandlet på samme måde som fysiske mangler, formentlig fordi en ulovlig bygningsindretning som regel kan lovliggøres ved en fysisk udbedring. 
 
-![](img/hus17.jpg)
+
 
 
 ---
+
+![](img/hus17.jpg)
 
 Efter retspraksis foreligger der en fysisk mangel ved en fast ejendom, hvis ejendommen ikke svarer til, hvad sælgeren har garanteret, eller hvad køberen over for sælgeren har forudsat.
 

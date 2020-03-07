@@ -399,6 +399,8 @@ Se her nævnte domme og ankenævnsafgørelser:
 
 ![](img/auk.jpg)
 
+---
+
 Se dommen i **U 1998.1693 H:** Opbevaring af nøglen til sikringsboksen i et auktionshus på et kontor i samme bygning var grov uagtsomhed. 
 **<a href="https://pro.karnovgroup.dk/document/7000204274/1" target="_blank">Dommen klik her!</a>**
 
@@ -410,7 +412,6 @@ Se dommen i **U 1999.1706 H** Død ved fald på ca. 6 meter fra et tag ikke omfa
 
 ---
 
-<img src="img/baggage.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Se dommen i **U 1993.955 V** Da kortvarig efterladelse af kuffert ved bagagebånd i lufthavn ikke var groft uagtsom, var tyveri af kufferten dækket af tyveriforsikringen. 
 **<a href="https://pro.karnovgroup.dk/document/7000200954/1" target="_blank">Dommen klik her!</a>**
@@ -437,7 +438,7 @@ Se dommen i **FED 2001.2121:** Passager, som blev dræbt under bilkørsel med be
 ---
 
 
-<img src="img/bilramt.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Se dommen i **FED 2001.2255** Bilist, som kørte ud foran tog i jernbaneoverskæring uden at være opmærksom på lys- og lydsignaler, havde handlet groft uagtsomt. DSB var derfor berettiget til at reducere personskadeerstatningen med 1/3. 
 **<a href="https://pro.karnovgroup.dk/document/7000329214/1" target="_blank">Dommen klik her!</a>**
@@ -445,7 +446,7 @@ Se dommen i **FED 2001.2255** Bilist, som kørte ud foran tog i jernbaneoverskæ
 ---
 
 
-<img src="img/rulle.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 Se dommen i **FED 1998.224:** 16-årig rulleskøjteløber havde udvist grov uagtsomhed ved at køre ud på kørebanen foran bil. Under henvisning til alder, til at handlingen var udført i kådhed samt til områdets karakter, fandtes der dog ikke grundlag for at nedsætte personskadeerstatningen. 
 **<a href="https://pro.karnovgroup.dk/document/7000328750/1" target="_blank">Dommen klik her!</a>**
@@ -527,7 +528,6 @@ Se **Forsikringsankenævnskendelse i sagsnr.: 15.569** Skade på skolelokaler, f
 
 ---
 
-<img src="img/truckcar.jpg" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Ved simpel og grov uagtsomhed er det hovedreglen, at en ansvarsforsikring dækker (se dog afsnittet nedenfor om generelt bortfald af ansvar). 
 
@@ -1441,7 +1441,7 @@ En uge efter kampen kommer trøjerne og kasketterne men nu vil Hans ikke længer
 
 For en mere væsentlig uddybning af forsikringsretten for de studerende, som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitszels Forlag: Introduktion til forsikringsreglerne:
 
-![](img/forbog.png)
+
 
 
 *Forsikringer og pensioner er især reguleret i*  
