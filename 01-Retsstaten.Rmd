@@ -98,7 +98,7 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 ---
 
 
-## Rettigheder og pligter
+Rettigheder og pligter:
 
 
 Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, fx at der er ytringsfrihed, religionsfrihed og værnepligt. 
@@ -278,7 +278,7 @@ I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov
 
 ---
 
-## Folketinget som den lovgivende magt
+## Folketinget den lovgivende magt
 
 Folketinget er Danmarks parlament. Her vedtages al lovgivning i Danmark. 
 
@@ -296,7 +296,7 @@ Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komm
 
 Den lovgivende magt er Folketinget og det er kun Folketinget, der kan vedtage lovforslag.
 
-Lovgivningsmagten er *"omnipotent"*, som betyder, at lovgivningsmagten har uindskræbket magt, med næsten ubegrænset autoritet og/eller styrke. Så den vægtes meget højt i vurderingen af juridiske problemer. 
+Lovgivningsmagten er *"omnipotent"*, som betyder, at lovgivningsmagten har uindskrænket magt, med næsten ubegrænset autoritet og/eller styrke. Så den vægtes meget højt i vurderingen af juridiske problemer. 
 
 ---
 
@@ -306,7 +306,7 @@ Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.
 
 ---
 
-### Parlamentarisk kontrol og lovgivning i Folketinget
+Parlamentarisk kontrol og lovgivning i Folketinget:
 
 
 Folketinget har 3 hovedopgaver:
@@ -338,7 +338,7 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 ---
 
 
-### Lovforslag
+Lovforslag:
 
 
 ![](img/folketinget2.png)
@@ -382,7 +382,7 @@ Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
   
 ---
 
-Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere process i ministerierne.
+Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere proces i ministerierne.
 
 ![](img/lov.jpg)
 
@@ -395,7 +395,7 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 ---
 
 
-## Folketingets kontrol med regeringen
+Folketingets kontrol med regeringen:
 
 
 ![](img/folketinget3.png)
@@ -407,7 +407,7 @@ Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketing
 
 ---
 
-### Den kritiske opposition
+Den kritiske opposition:
 
 Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, hvor Folketinget kontrollerer, hvordan regeringen fører lovene ud i livet, og om regeringen fører en politik, der i hovedtræk bliver støttet af et flertal i Folketinget.
 
@@ -436,7 +436,7 @@ Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, 
 
 ---
 
-### Udvalgsarbejdet i Folketinget
+Udvalgsarbejdet i Folketinget:
 
 
 
@@ -460,7 +460,7 @@ Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.
 
 ---
 
-### Sådan dannes en regering
+Sådan dannes en regering:
 
 
 
@@ -475,7 +475,7 @@ Statsministeren sætter så sit ministerhold og danner sin regering.
 
 ---
 
-### Statsministeren vælges og nedsætter sin regering
+Statsministeren vælges og nedsætter sin regering:
 
 
 Folketingsvalg skal afholdes mindst én gang hvert 4. år. 
@@ -491,7 +491,7 @@ Så skal man i gang med at finde ud af, hvem der skal være statsminister og dan
 ---
 
 
-### Negativ parlamentarisme
+Negativ parlamentarisme:
 
 
 Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. 
@@ -502,12 +502,12 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 ---
 
-### Dronningen udnævner formelt den nye regering
+Dronningen udnævner formelt den nye regering:
 
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i  2019.
+Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i 2019.
 
 ---
 
@@ -517,7 +517,7 @@ Her præsenterer statsministeren sin nye regering for danskerne.
 
 ---
 
-### Sådan arbejder regeringen
+Sådan arbejder regeringen:
 
 
 ![](img/talerstol.jpeg)
@@ -528,7 +528,7 @@ Regeringen har stor indflydelse på de love, der vedtages i Folketinget, da det 
 
 ---
 
-### Regeringen fremsætter lovforslagene
+Regeringen fremsætter lovforslagene:
 
 
 Den udøvende magt ligger hos regeringen. Det står i grundloven. 
@@ -551,7 +551,7 @@ Både regeringen og medlemmerne af Folketinget kan fremsætte lovforslag – men
 
 ---
 
-### Lovkataloget viser regeringens mål
+Lovkataloget viser regeringens mål:
 
 Når en ny regering tiltræder, vil de partier, der indgår i regeringen, sammen skrive et regeringsgrundlag eller anden form for fælleserklæring. 
 
@@ -579,7 +579,7 @@ Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen
 
 ---
 
-### Statsministeren
+Statsministeren:
 
 
 ![](img/statsministeren.jpg)
@@ -587,7 +587,7 @@ Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem d
 
 ---
 
-### Statsministeren har stor magt
+Statsministeren har stor magt:
 
 Statsministerposten er landets højeste ministerpost. 
 
@@ -609,7 +609,7 @@ Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområd
 
 ---
 
-### Ministrene
+Ministrene:
 
 
 ![](img/ministrene.jpg)
@@ -635,7 +635,7 @@ fx blev der efter valget i november 2007 som noget nyt udnævnt en minister for 
 
 ---
 
-### Ministrenes opgaver
+Ministrenes opgaver:
 
 At foreslå ny lovgivning er en af ministrenes fornemste opgaver. Lovforslagene bliver forberedt i ministerierne, som har mange medarbejdere til bl.a. at skrive lovforslag.
 
@@ -669,7 +669,7 @@ En ministers arbejde består bl.a. i at:
 
 
 
-## Domstolene
+## Domstolene den dømmende magt
 
 
 ```{r domstolene,echo=FALSE, result=TRUE, fig.cap=("Oversigt over domstolene")}
@@ -708,7 +708,7 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 ---
 
-### Domstolenes opgaver
+Domstolenes opgaver:
 
 ![](img/ret1.jpg)
 
@@ -750,8 +750,7 @@ De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, n
 
 ---
 
-### Byret, landsret og Højesteret
-
+Byret, landsret og Højesteret:
 
 Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retssager begynder som udgangspunkt i en byret. 
 
@@ -859,7 +858,7 @@ Kærefristen	er normalt 2 uger, dog 4 uger i fogedsager.
 
 En dom *"ankes"* til en højere domstol. 
 
-*"Opsættende virkning"*	anvendes fx ved anke af en byretsdom. Anken til landsretten har opsættende (suspensiv) virkning, hvis anken sker inden 14 dage efter dommens afsigelse, dvs byretsdommens virkning udsættes til landsrettens afgørelse, som enten kan stadfæste byrettens dom eller ændre byrettens dom.
+*"Opsættende virkning"*	anvendes fx ved anke af en byretsdom. Anken til landsretten har opsættende (suspensiv) virkning, hvis anken sker inden 14 dage efter dommens afsigelse, dvs. byretsdommens virkning udsættes til landsrettens afgørelse, som enten kan stadfæste byrettens dom eller ændre byrettens dom.
 
 
 
@@ -923,7 +922,7 @@ Begrebet "in terminis";	betyder ordret. Anvendes når en byretsdom eller byrette
 
 ---
 
-### Sø- og Handelsretten 
+Sø- og Handelsretten: 
 
 
 Sø- og Handelsretten ligger i København. 
@@ -940,7 +939,7 @@ Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gælds
 
 ---
 
-### Den Særlige Klageret 
+Den Særlige Klageret: 
 
 Den Særlige Klageret ligger i København samme sted som Højesteret. 
 
@@ -1106,7 +1105,7 @@ text_tbl%>%
 
 ---
 
-### Processuelle grundbegreber
+Processuelle grundbegreber:
 
 *Forhandlingsprincippet*: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. Så dommen i en civil retssag kan således alene baseres på det, parterne har fremlagt under retssagen.
 
@@ -1132,11 +1131,11 @@ Ved domstolene gælder *"forhandlingsmaksimen"* eller forhandlingsprincippet.
 
 Retten skal afgøre sagen på grundlag af parternes påstande og de oplysninger, som de tilvejebringer - det modsatte er: 
 
-*"Officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariateterne som skal oplyse sagen. 
+*"Officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariaterne som skal oplyse sagen. 
 
 ---
 
-Den procesuelle grundsætning: *ne bis in idem*; der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
+Den processuelle grundsætning: *ne bis in idem*; der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
 
 ---
 
@@ -1156,7 +1155,7 @@ Den procesuelle grundsætning: *ne bis in idem*; der må ikke føres proces to g
 
 ---
 
-### Civilretssagens forløb
+Civilretssagens forløb:
 
 Parterne: Sagsøger og sagsøgte.
 
@@ -1174,7 +1173,7 @@ Stævning og svarskrift
 
 ---
 
-#### Hovedforhandlingen
+Hovedforhandlingen:
 
 Det retsmøde, hvor hele sagen samlet fremlægges for retten med henblik på at gøre sagen endeligt klar til afgørelse.
 
@@ -1199,7 +1198,7 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
 
 ---
  
-### Småsagsprocessen
+Småsagsprocessen:
 
 Småsagsprocessen gør det nemmere at gå rettens vej med sager om mindre beløb. Den særlige behandlingsform til små sager trådte i kraft den 1. januar 2008.
 
@@ -1211,7 +1210,7 @@ At man kan få behandlet en sag om mindre krav på en lettere måde med færre o
 
 ---
 
-*Hvorfor en småsagsproces?*
+Hvorfor en småsagsproces?
 
 Formålet med småsagsprocessen er:
 
@@ -1221,7 +1220,7 @@ At det bliver lettere at gå i retten for privatpersoner og mindre erhvervsdrive
 
 ---
 
-*Eksempel*
+Eksempel:
 
 Murermester Hansen har en kunde, fru Nielsen, som nægter at betale sin regning på 29.000 kr. for en reparation på skorstenen, fordi hun ikke mener, at murermester Hansen har udført arbejdet grundigt nok. Hun kræver, at murermester Hansen gør arbejdet om, før hun vil betale regningen.
 
@@ -1229,7 +1228,7 @@ Murermester Hansen vil have sine penge og anlægger derefter sagen i småsagspro
 
 ---
 
-*Værd at vide om småsagsprocessen*  
+Værd at vide om småsagsprocessen:  
 
 Småsagsprocessen er tiltænkt sager, hvor kravet er højst 50.000 kr. 
 
@@ -1245,17 +1244,17 @@ Undervejs vil der være færre retsmøder end i almindelige retssager, fordi ret
 
 ---
 
-### Udenretlige tvistløsningsorganer
+Udenretlige tvistløsningsorganer:
 
 Klage- og ankenævn betydning for den finansielle branche:
 
 Forbrugerklagenævnet, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og Klagenævnet for Ejendomsformidling
 
-Sagsbehandling efter *officialmaksimen*, dvs. nævnets sekretariatet skal oplyse klagesagen.
+Sagsbehandling efter "officialmaksimen", dvs. nævnets sekretariatet skal oplyse klagesagen.
 
 ---
 
-*Mediation i det offentlige forbrugerklagesystem*
+Mediation i det offentlige forbrugerklagesystem:
 
 Der foregår mediation i Nævnenes Hus før, før klagen kan indbringes for Forbrugerklagenævnet. 
 
@@ -1292,13 +1291,13 @@ Stk. 3. Undergrænserne for varer og tjenesteydelser som nævnt i stk. 1 reguler
 
 ---
 
-*Retsmægling ved domstolene*
+Retsmægling ved domstolene:
 
 Alle retter bortset fra Højesteret tilbyder retsmægling i civile sager som alternativ til en løsning af tvisten ved en dom eller et traditionelt retsforlig.
 
 ---
 
-*Hvad er retsmægling?*
+Hvad er retsmægling?
 
 Retsmægling er en frivillig måde at løse konflikter på, hvor en mægler i fortrolighed hjælper sagens parter til selv at finde frem til en løsning på deres problem. 
 
@@ -1413,8 +1412,7 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 ---
 
-### Tinglysningsretten
-
+Tinglysningsretten:
 
 Tinglysningsretten, som ligger i Hobro, blev etableret den 1. januar 2007 med en præsident som øverste chef.
 
@@ -1427,15 +1425,15 @@ Information og vejledning kan findes på www.tinglysningsretten.dk
 
 ---
 
-### Procesbevillingsnævnet
+### Andre dele af domstolssystemet
 
+Procesbevillingsnævnet:
 
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
 
 ---
 
-#### Appeltilladelse
-
+Appeltilladelse:
 
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. 
 
@@ -1443,8 +1441,7 @@ Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter
 
 ---
 
-#### Fri proces
-
+Fri proces:
 
 Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. 
 
@@ -1478,8 +1475,7 @@ Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller 
 
 ---
 
-### Rigsretten
-
+Rigsretten:
 
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. 
 
@@ -1501,7 +1497,7 @@ Der blev afsagt dom i sagen den 22. juni 1995.Ved den første rigsretssag siden 
 
 ---
 
-### Dommerudnævnelsesrådet
+Dommerudnævnelsesrådet:
 
 Dommerudnævnelsesrådet er et uafhængigt råd, der har til opgave at afgive indstillinger til justitsministeren vedrørende besættelse af dommerstillinger.
 
@@ -1512,9 +1508,7 @@ Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et l
 
 ---
 
-### Domstolsstyrelsen 
-
-
+Domstolsstyrelsen:
 
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 
@@ -1532,12 +1526,9 @@ Den daglige ledelse er lagt i hænderne på direktøren, som er ansat af og kan 
 
 Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsstyrelsen.
 
-
-
 ---
 
-### EU-domstolen
-
+EU-domstolen:
 
 <img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -1549,7 +1540,7 @@ I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller o
 
 ---
 
-### Den Europæiske Menneskerettighedsdomstol
+Den Europæiske Menneskerettighedsdomstol:
 
 Den Europæiske Menneskerettighedsdomstol ligger i Strasbourg, og er en institution under Europarådet. 
 
@@ -1562,6 +1553,8 @@ Klagen skal desuden være indsendt senest inden 6 måneder efter den sidste ende
 Flere oplysninger om muligheden for at indbringe en sag for domstolen kan fås hos Institut for Menneskerettigheder, www.menneskeret.dk.
 
 ---
+
+## Quiz
 
 <h4><a href="https://quiz.tepedu.dk/jura1" target="_blank">Quiz Retsstaten <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 

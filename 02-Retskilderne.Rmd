@@ -13,11 +13,11 @@ cat(readLines('np.html'))
 
 Retskilder er de faktorer, som danner grundlaget for at opnå viden om, hvad der er gældende ret.^[Følgende afsnit om retskilderne bygger bl.a. på http://juridiskmetode.dk/retskilderne/index.html og http://denstoredanske.dk/Samfund,_jura_og_politik/Jura/Almindelig_retsl%C3%A6re,_retsfilosofi_og_terminologi/retskilder.] 
 
-Ordet "jura" er latin, pluralis af jus og betyder 'ret'.
+Ordet "jura" er latin, pluralis af jus og betyder "ret".
 
 ---
 
-I bred betydning kan man definere begrebet *retskilde* som enhver tankegang, der leder retsanvenderen frem mod en konklusion om, hvad der er gældende ret på et givent område. 
+I bred betydning kan man definere begrebet "retskilde" som enhver tankegang, der leder retsanvenderen frem mod en konklusion om, hvad der er gældende ret på et givent område. 
 
 ---
 
@@ -65,17 +65,17 @@ Man kan også opdele retskilderne i 3 hovedkategorier:
 ---
 
 
-*Retssædvaner.*
+* Retssædvaner.
 
-*Aftaler.*
+* Aftaler.
 
-*Forholdets natur.*
+* Forholdets natur.
 
-*Kutymer.*
+* Kutymer.
 
-*Retsgrundsætninge.*
+* Retsgrundsætninger.
 
-*God skik regler.*
+* God skik regler.
 
 ---
 
@@ -83,7 +83,7 @@ Man kan også opdele retskilderne i 3 hovedkategorier:
 
 En lov er underlagt grundloven for 1953 og må ikke stride mod grundloven og/eller internationale konventioner fx menneskerettighedskonventionen (EMRK).
 
-Her gælder *"lex superior"*, hvor en	grundlovbestemmelse går forud for en lovbestemmelse, som går forud for bestemmelse i bekendtgørelse.
+Her gælder "lex superior", hvor en	grundlovbestemmelse går forud for en lovbestemmelse, som går forud for bestemmelse i bekendtgørelse.
 
 ---
 
@@ -111,7 +111,7 @@ Samt "lex posterior";	nyere lovbestemmelse går forud for ældre lovbestemmelse,
 
 ---
 
-En vigtigt forståelse af, hvordan loven skal fortolkes er *"formålsfortolkning"*, hvad er formålet med loven: *"ratio legis"*;	"lovens formål".
+En vigtigt forståelse af, hvordan loven skal fortolkes er "formålsfortolkning", hvad er formålet med loven: på latin; "ratio legis";	"lovens formål".
 
 ---
 
@@ -149,7 +149,7 @@ Et cirkulære kan ikke forpligte borgerne, og disse kan normalt heller ikke retl
 
 En dom er en form for retsafgørelse, der i modsætning til kendelser og beslutninger afslutter sagens behandling ved retten.
 
-Domstolsafgørelser og domstolskendelser kan have *præjudikatsværdi*. 
+Domstolsafgørelser og domstolskendelser kan have "præjudikatsværdi". 
 
 Det betyder, at afgørelsen kan have betydning for, hvordan fremtidige afgørelser inden for det pågældende område skal bedømmes. 
 
@@ -178,7 +178,7 @@ Dommes præjudikatsværdi begrænses, når deres begrundelser gøres meget konkr
 ### God skik regler
 
 
-Undertiden støder man i lovgivningen på, at en handlemåde skal være overensstemmelse med en branchebestemt *”god skik”*, en såkaldt *adfærdsnorm.* 
+Undertiden støder man i lovgivningen på, at en handlemåde skal være overensstemmelse med en branchebestemt ”god skik”, en såkaldt "adfærdsnorm". 
 
 ---
 
@@ -206,7 +206,7 @@ Domslæsning, læsning af anerkendte juridiske grundsætninger og søgning i ret
 
 Imidlertid er retssædvaner ikke vilkårlige, hvorfor der er flere elementer, der skal være opfyldt, før retssædvanen overhovedet kan tillægges betydning. 
 
-Et klassisk eksempel på retssædvane er *culpareglen*.
+Et klassisk eksempel på retssædvane er "culpareglen".
 
 I den juridiske litteratur er der opstillet rammer for, hvornår der er tale om en retssædvane. 
 
@@ -296,21 +296,21 @@ Vores kendskab til romerretten stammer først og fremmest fra den lovsamling, de
 
 ---
 
-Denne lovsamling, som i dag kendes som **Corpus juris civilis**, skulle vise sig at blive et af de helt afgørende dokumenter i den vestlige idéhistorie. Corpus juris civilis består af fire dele:
+Denne lovsamling, som i dag kendes som "Corpus juris civilis", skulle vise sig at blive et af de helt afgørende dokumenter i den vestlige idéhistorie. Corpus juris civilis består af fire dele:
 
-**Institutiones**, som er en lærebog eller indføring i romerret for studerende (som også havde lovkraft); **Codex**, som er en samling af kejserlige forordninger; **Novellae**, som er Justinians lovgivning efter samlingen af lovværket (som først blev tilføjet senere); og endelig den måske vigtigste af dem alle, **Digesta**.
+"Institutiones", som er en lærebog eller indføring i romerret for studerende (som også havd"*Novellae", som er Justinians lovgivning efter samlingen af lovværket (som først blev tilføjet senere); og endelig den måske vigtigste af dem alle, "Digesta".
 
 ---
 
-*Digesta* (en systematisk, ordnet fremstilling) eller *Pandectae* (latin: altomfattende) var en samling af den vigtigste romerretslige litteratur fra først og fremmest den såkaldte klassiske periode mellem cirka 100 f.v.t. til 300 e.v.t.
+"Digesta" (en systematisk, ordnet fremstilling) eller "Pandectae" (latin: altomfattende) var en samling af den vigtigste romerretslige litteratur fra først og fremmest den såkaldte klassiske periode mellem cirka 100 f.v.t. til 300 e.v.t.
 
 Digesta består således af 50 bøger, hvor 39 romerske jurister er citeret (og flere end 100 omtales og refereres til). 
 
 ---
 
-Den mest citerede er *Ulpian* (fra første halvdel af det 3. årh. e.v.t.). 
+Den mest citerede er "Ulpian" (fra første halvdel af det 3. årh. e.v.t.). 
 
-Justinians ambition var at samle alle centrale bestemmelser og skriverier fra romerretten til ét stort, sammenhængende lovværk uden interne modsigelser, der dermed skulle erstatte de tidligere spredte og usammenhængende lovskrifter (vigtigst af dem de **tolv tavlers lov**).
+Justinians ambition var at samle alle centrale bestemmelser og skriverier fra romerretten til ét stort, sammenhængende lovværk uden interne modsigelser, der dermed skulle erstatte de tidligere spredte og usammenhængende lovskrifter (vigtigst af dem de "tolv tavlers lov").
 
 ---
 
@@ -328,7 +328,7 @@ Det handler altså basalt set om et ordentligt, godt liv og sikring af ejendom u
 
 ---
 
-Dansk ret og sprog er således påvirket af romerrettens begrebsapparat fx. at man som jurist ( en person, der har bestået juridisk embedseksamen, dvs. cand. jur. fra universitetet) eller jurainteresseret skal kunne forstå elementer af romerretten, samt de klassisk latinsk-juridiske begreber for at forstå til fulde dansk gældende ret; som fx de latinske udtryk som "actio, bona fide", "caveat emptor", "conditio sine qua non", "reformatio in pejus", "dolus eventualis", "depositum", "ex offio", "ex nunc", "ex tunc", "in extenso", "in dubio pro reo", "in absentia", "insolvens", "de lege lata", "de lege feranda", "et cetera", "et cetera" osv.
+Dansk ret og sprog er således påvirket af romerrettens begrebsapparat fx. at man som jurist ( en person, der har bestået juridisk embedseksamen, dvs. cand. jur. fra universitetet) eller jurainteresseret skal kunne forstå elementer af romerretten, samt de klassisk latinsk-juridiske begreber for at forstå til fulde dansk gældende ret; som fx de latinske udtryk som "actio, bona fide", "caveat emptor", "conditio sine qua non", "reformatio in pejus", "dolus eventualis", "depositum", "ex officio", "ex nunc", "ex tunc", "in extenso", "in dubio pro reo", "in absentia", "insolvens", "de lege lata", "de lege ferenda", "et cetera", "et cetera" osv.
 
 ---
 
@@ -362,7 +362,7 @@ Nogle angår alle EU-lande, mens andre kun angår nogle stykker.
 
 ### Forordninger
 
-En "forordning" er en bindende retsakt, som er direkte gældende i EU-medlemsstaterne - parallet til en national lov, se fx forordning 241/2004 om flypassagers rettigheder. Derfor skal de enklet EU-medlemsstater følge forordningen i alle dens enkeltheder. 
+En "forordning" er en bindende retsakt, som er direkte gældende i EU-medlemsstaterne - parallelt til en national lov, se fx forordning 241/2004 om flypassagers rettigheder. Derfor skal de enkle EU-medlemsstater følge forordningen i alle dens enkeltheder. 
 
 Da EU fx ønskede at garantere fælles sikkerhedsforanstaltninger for varer importeret fra lande uden for EU, vedtog Rådet en forordning.
 
@@ -436,7 +436,7 @@ I common law-lande har domstolene en mere vidtgående funktion end den dømmende
 
 Common law-domstolen skal ikke kun fortolke og anvende lovgiverens retsregler, statutory law, men skaber også sin egen ret, case law eller judge-made law. 
 
-En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte **stare decisis-doktrin**.
+En domstolsafgørelse har således ikke alene betydning for parterne i en konkret tvist; afgørelsen skaber præcedens, dvs. at en lignende sag i fremtiden med stor sandsynlighed vil blive afgjort på samme måde, den såkaldte "stare decisis-doktrin".
 
 ---
 
@@ -445,7 +445,7 @@ I England er de afgørelser, der hidrører fra samme eller en højere domstol, b
 
 Andre afgørelser har kun vejledende karakter. Der sondres desuden mellem den tidligere afgørelses egentlige begrundelse, *"ratio decidendi"*, og andre udtalelser i afgørelsen, *"obiter dicta"*. 
 
-Et *"obiter dictum" er kun vejledende*, uanset fra hvilken domstol det måtte hidrøre.
+Et "obiter dictum" er kun vejledende*, uanset fra hvilken domstol det måtte hidrøre.
 
 ---
 
@@ -558,10 +558,12 @@ Ankenævnet finder imidlertid ikke, at bestemmelsen er anvendelig på et tilfæl
 Den juridiske metode indeholder væsentlige elementer af vurdering og skøn og er derfor mindre eksakt end de metoder, der anvendes inden for mange andre fagområder.
 
 
-I juridisk Ordbog (*Bo von Eyben*, 14. udg.) defineres juridisk metode som følger:"den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
+I juridisk Ordbog (*Bo von Eyben*, 14. udg.) defineres juridisk metode som følger: "den metode, der skal anvendes for at afgøre, hvilken regel der er gældende for et bestemt retsområde. Dette forudsætter kendskab til læren om retskilderne og evne til herudfra at finde de relevante retskilder og at anvende dem korrekt på det givne forhold..." 
 
 
 ---
+
+## Quiz
 
 <h4><a href="https://quiz.tepedu.dk/jura2" target="_blank">Quiz Retskilderne <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 

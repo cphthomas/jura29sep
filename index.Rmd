@@ -19,7 +19,7 @@ favicon: "favicon.ico"
 
 
 ```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
+#cat(readLines('fp.html'))
 ```
 
 
@@ -49,7 +49,33 @@ cat(readLines('fp.html'))
 
 <br>
 
+>Mine oplevelser med e-bogen har kun været gode. Jeg synes det fungerer godt med indledningen du har lavet til hvert kapitel så man kan få et overblik over, hvilke emner der er vigtige til eksamen. Dem har jeg selv haft stor glæde af når jeg laver eksamensopgaver 😊<br><br>
+>Derudover synes jeg det er godt, i et fag som dette, at have det overblik som e-bogen giver og have muligheden for at søge i bogen så man hurtigere kan finde en forklaring eller lige den § man leder efter. 
+>Quizzerne er også en god mulighed for at repeterer emnerne når vi skal læse til eksamen. 
+Derfor foretrækker jeg helt klart e-bogen i dette fag. 
+***Ida-Marie***
 
+<br><br><br>
+
+
+>Jeg er personligt rigtig glad for bogen og synes den er godt målrettet mod studerende. 
+
+>Den har en lækker og overskuelig opsætning. Jeg er specielt glad for at der er farver i den - det er fedt ar den ikke bare er sort og hvid! 
+>Det hjælper også læsningen at der er fremhævede keywords og specielt tjekspørgsmålene i slutningen af hvert kapitel. 
+>jeg har været rigtig glad for den i min sygdomsperiode, da jeg føler at jeg alligevel er ok med hjemmefra.  
+
+>Hilsen louise 
+
+
+
+<br><br><br>
+
+>Generelt en rigtig god e-bog. Fordelen ved denne e-bog er at den er meget praksisnær og ikke mindst aktuel da den løbende bliver opdateret. Noget af det der gør den særligt god, er alle de mange eksempler fra virkeligheden som stilles i relation til den teori og de love som vi elever bl.a. arbejder med i praksis. Ligeledes er der i starten af hvert kapitel fremhævet nogle af de mest relevante forhold/paragraffer som hører til kapitlet, hvilket flere gange har været en stor hjælp.<br><br>
+>Derfor føler jeg mig godt klædt på når jeg skal til eksamen i Jura, da jeg kan bruge denne e-bog som redskab. Og desuden er der en smart søgefunktion der gør det meget lettere at finde frem til det man leder efter!  
+
+***Frederik***
+
+<br><br><br>
 
 >Erhvervs- og finansjura for finansøkonomer rummer rigtig mange gode ting, bl.a. de quizzer der er ved de fleste emner, det gør det muligt at lave et hurtigt brush up.<br><br> 
 Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til og fra de forskellige emner. Den er skrevet i et sprog som er nemt at forstå, og der er gode eksempler.<br><br>
