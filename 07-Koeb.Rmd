@@ -1190,6 +1190,424 @@ Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at s�
 
 ---
 
+## Den international købelov
+
+Ved Lovbekendtgørelse nr. 1224 af 21. november 2014 International købelov, (forkortet; intkbl), skabtes grundlag for, at Danmark kunne ratificere FN-konventionen om internationale løsørekøb, forkortet CISG (dvs. United Nations Convention on Contracts for the International Sale of Goods). Om den internationale udbredelse af CISG.
+
+Intkbl finder ikke anvendelse, hvis både sælger og køber har deres forretningssteder i Danmark, Finland, Island, Norge eller Sverige.  Hvis en part. ikke har et forretningssted, sidestilles partens bopæl med et forretningssted.
+
+Dette skyldes, at de nordiske lande har nogenlunde den samme købelov.
+
+*Forudsætninger for anvendelse af CISG (CISG art. 1)*
+
+For det første skal parterne skal have deres forretningssteder i forskellige stater, hvilket skal fremgå af aftalen. Derudover skal parternes forretningsstederne ligge i stater, der har tiltrådt CISG eller lovvalg skal føre til anvendelse af regler i en stat, der har tiltrådt CISG.
+
+--- 
+
+*Køb, der ikke omfattes af CISG (CISG art. 2)*
+
+1. Forbrugerkøb
+
+2. Køb på auktion
+
+3. Køb af værdipapirer eller penge
+
+4. Køb af skibe og fly
+
+5. Internordiske køb
+
+---
+
+*Deklaratorisk*
+
+CISG er deklaratorisk, dvs. det kan aftales, at CISG skal finde anvendelse selv om betingelserne for anvendelse ikke er opfyldte, ligesom det kan aftales, at CISG ikke skal finde anvendelse, selv om betingelserne for anvendelse er opfyldte.
+
+--- 
+
+*Hvornår anvendes CISG's køberetslige bestemmelser*
+
+Køb mellem danske virksomheder: Den danske købelov anvendes (intet grænseoverskridende element).
+
+--- 
+
+Salg fra Danmark til nordisk land: Den danske købelov anvendes (Iflg. International  Købelov § 2 finder CISG ikke anvendelse på internordiske køb. Iflg. løsørekøblovvalgslovens § 4 skal anvendes dansk ret).
+
+---
+
+Salg fra nordisk land til Danmark: Loven i nordisk stat anvendes (Iflg. løsørekøblovvalgsloven § 4 skal loven i sælger stat anvendes. Da de nordiske stater har tilsvarende bestemmelse, som i International Købelov § 2 anvendes CISG ikke).
+
+--- 
+
+Salg fra Danmark til stat, der har tiltrådt CISG (ikke nordisk stat): CISG anvendes (Iflg. løsørekøblovvalgsloven § 4 skal anvendes dansk ret. Ifølge International Købelov § 2 finder CISG anvendelse).
+
+--- 
+
+Salg fra Danmark til stat, der ikke har tiltrådt CISG: CISG anvendes (Ifølge Løsørekøblovvalgslovens § 4 skal anvendes dansk ret. Ifølge International Købelov § 2 samt CISG art. 1, stk. 1 nr. b finder CISG anvendelse, da lovvalg peger på dansk ret og CISG efter International Købelov er gjort til en bestanddel af dansk ret).
+
+---       
+
+Salg fra CISG-stat (ikke nordisk) til Danmark: CISG anvendes (Ifølge løsørekøblovvalgsloven § 4 skal anvendes udenlandsk ret. Iflg. CISG art. 1 finder CISG herefter anvendelse, da begge stater har tiltrådt CISG)
+
+--- 
+
+Salg fra ikke-CISG stat til Danmark: CISG anvendes ikke men derimod pågældende stats egen nationale købelov (Iflg. løsørekøblovvalgslovens § 4 skal anvendes  udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG stat).
+
+--- 
+
+*Hvornår anvendes CISG's aftaleretlige bestemmelser (kap. II)*
+
+Købsaftale mellem danske virksomheder: Den danske aftalelov anvendes (intet grænseoverskridende element).
+
+--- 
+
+Salg fra DK til nordisk land: Den danske aftalelov anvendes (Ifølge International Købelov § 2 finder CISG ikke anvendelse på internordiske køb. Ifølge Kontraktlovvalgskonventionens art. 8 smh. med løsørekøblovvalgs-lovens § 4 skal anvendes dansk ret).
+
+--- 
+
+Salg fra nordisk land til DK: Aftaleloven i pågældende nordiske stat anvendes (ifølge International Købelov § 2 finder CISG ikke anvendelse i internordiske køb. Ifølge Kontraktlovvalgskonventionens art. 8 smh. med  løsørekøblovvalgsloven § 4 skal aftaleloven i sælgers stat anvendes).
+
+ 
+
+Salg fra DK til stat, der har tiltrådt CISG: Den danske aftalelov anvendes (ifølge løsørekøblovvalgsloven § 4 smh. med Kontraktlovvalgskonventionens art. 8 skal anvendes dansk ret. Ifølge International Købelov § 1finder CISG ikke anvendelse).
+
+--- 
+
+Salg fra DK til stat, der ikke har tiltrådt CISG: Den danske aftalelov anvendes (Iflg. løsørekøblovvalgsloven § 4 smh. med Kontraktlovvalgskonventionens art. 8 skal anvendes dansk ret. Ifølge International Købelov § 1 finder CISG ikke anvendelse).
+
+       
+
+Salg fra CISG-stat (ikke nordisk) til DK: CISG anvendes (iflg. løsørekøblovvalgsloven § 4 smh. med kontraktlovvalgskonventionens Art. 8 skal anvendes  udenlandsk ret. Iflg. CISG art. 1 finder CISG kap. II herefter anvendelse, da begge stater har tiltrådt CISG)
+
+--- 
+
+Salg fra ikke-CISG stat til DK: CISG anvendes ikke men derimod pågældende stats egen nationale aftalelov (Iflg. løsørekøblovvalgsloven § 4 smh. med kontraklovvalgskonventionens Art. 8 skal anvendes  udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG stat).
+
+--- 
+
+*Anvendelse af CISG*
+
+Dansk udgave af CISG ikke autentisk. Domstolene skal udelukkende anvende de autentiske versioner (arabisk, engelsk, fransk, kinesisk, russisk og spansk). Evt. sprogklausul kan indsættes i købsaftale.
+
+--- 
+
+Ved fortolkning skal tages hensyn til 1) CISG's internationale karakter, 2) behovet for at fremme en ensartet anvendelse og 3) god forretningsskik i international handel (CISG art. 7).
+
+--- 
+
+*CISG's materielle indhold*
+
+ 
+*Risikoens overgang*
+
+*Forsendelseskøb: Risikoen overgår ved overgivelse til første transportør*
+
+CISG art. 67:
+
+"1. Skal varen forsendes, og er sælger ikke forpligtet til at overgive den på et bestemt sted, går risikoen over på køber, når varen er overgivet til den første transportør med henblik på videreforsendelse af varen til køber i overensstemmelse med købeaftalen. Er sælger forpligtet til at overgive varen til en transportør på et bestemt sted, går risikoen først over på køber, når varen er overgivet til transportøren på dette sted. Det har ingen virkning for risikoens overgang, at sælger har adgang til at beholde de dokumenter, der giver ret til at råde over varen.
+
+2. Risikoen går dog først over på køber, når varen er blevet udskilt til køber ved mærkning af varen, ved transportdokument, ved meddelelse til køber eller på anden måde".
+
+---
+
+*Salg af svømmende ladning: Risikoen overgår ved aftalens indgåelse* 
+
+CISG art. 68:
+
+"Risikoen for varer, der sælges, mens de er under transport, går over på køber fra aftalens indgåelse. Hvis det imidlertid fremgår af omstændighederne, anses køber for at have påtaget sig risikoen fra det tidspunkt, da varen blev overgivet til den transportør, som udfærdigede forsendelsesdokumenterne. Sælger bærer dog risikoen for tab eller forringelse, såfremt sælger, da aftalen blev indgået, vidste eller burde have vidst, at varen var gået tabt eller var blevet forringet, og han ikke oplyste køber derom".
+
+---
+
+*Andre tilfælde: Risikoen overgår ved købers modtagelse af varen* 
+
+CISG art. 69:
+
+"1. I tilfælde, som ikke omfattes af bestemmelserne i artiklerne 67 og 68, går risikoen over på køber, når han modtager varen, eller, hvor han ikke gør dette i rette tid, fra det tidspunkt, da varen stilles til hans rådighed, og han misligholder aftalen ved ikke at tage imod levering.
+
+2. Er køber forpligtet til at modtage varen på et andet sted end sælgers forretningssted, overgår risikoen dog, når tiden for levering er kommet, og køber er bekendt med, at varen er stillet til hans rådighed på det angivne sted.
+
+3. Angår aftalen en vare, der ikke er udskilt, anses den ikke for at være stillet til købers rådighed, før den er klart udskilt til køber".
+
+--- 
+
+*Konsekvenser af risikoens overgang: Svarer i det store hele til KBL's bestemmelser*
+
+CISG art. 66:
+
+"Går varen tabt, eller forringes den, efter at risikoen er gået over på køber, fritager dette ikke køber for hans forpligtelse til at betale købesummen, medmindre varens tab eller forringelse skyldes sælgers handling eller forsømmelse".
+
+Køber skal betale (hvis risikoen er gået over), og sælger skal levere (hvis risikoen ikke gået over).
+
+--- 
+
+*Sælgers forpligtelser*
+
+Levering og leveringssted: Sælgers hovedforpligtelse er at levere salgsgenstanden.
+
+CISG art. 30:
+
+"Sælger er forpligtet til at levere varen, overgive de dokumenter, der vedrører varen, og overdrage ejendomsretten til varen, således som det er fastsat i aftalen og i denne konvention".
+
+---
+
+Hvis forsendelseskøb: Leveringsforpligtelsen opfyldes ved overgivelse til første fremmede fragtfører 
+
+CISG art. 31a:
+
+"hvis aftalen angår en vare, der skal sendes, at overgive varen til den første transportør med henblik på varens videreforsendelse til køber".
+
+---
+
+Hvis afhentningskøb: Leveringsstedet er sælgers forretningssted 
+
+CISG art. 31c:
+
+"i andre tilfælde - at stille varen til købers rådighed på det sted, der var sælgers forretningssted på tidspunktet for aftalens indgåelse".
+
+--- 
+
+*Mangler:* 
+
+Sælger er forpligtet til at levere en mangelsfri genstand. Definition af mangler i CISG art. 35 (samme principper som efter dansk ret):
+
+"1. Sælger er forpligtet til at levere en vare af den mængde og kvalitet og svarende til den beskrivelse, der er fastsat i aftalen. Varen skal endvidere være emballeret eller pakket på den måde, som er fastsat i aftalen.
+
+2. Medmindre andet er aftalt mellem parterne, er varen kun mangelfri, hvis den:
+
+a) er egnet til de formål, til hvilke varer af den angivne beskrivelse sædvanligvis vil blive anvendt,
+
+b) er egnet til de særlige formål, som sælger udtrykkeligt eller stiltiende er blevet gjort bekendt med på tidspunktet for aftalens indgåelse, medmindre det fremgår af omstændighederne, at køber ikke regnede med, eller ikke med rimelighed kunne regne med sælgers faglige dygtighed og dømmekraft,
+
+c) har den kvalitet, der svarer til en vareprøve eller model, som sælger har forelagt køber,
+
+d) er emballeret eller pakket på en måde, der er sædvanlig for en sådan vare, eller, hvor en sådan måde ikke findes, på en måde, som er forsvarlig for at bevare og beskytte varen.
+
+3. Sælger er ikke ansvarlig for en mangel ved varen efter bestemmelserne i stk 2, litra a-d, hvis køber på tidspunktet for aftalens indgåelse kendte eller ikke kunne have været uvidende om en sådan mangel".
+
+--- 
+
+HR: Manglen skal foreligge på tidspunktet for risikoens overgang 
+
+CISG art. 36:
+
+"1. Sælger er ansvarlig efter aftalen og bestemmelserne i denne konvention for mangler, der findes på det tidspunkt, da risikoen overgår til køber, selv om manglen først viser sig senere.
+
+2. Sælger er også ansvarlig for mangler, som opstår efter det tidspunkt, der er nævnt i stk 1, og som skyldes en misligholdelse af en hvilken som helst af hans forpligtelser, herunder en misligholdelse af en garanti for, at varen inden for en periode vil forblive egnet til et almindeligt eller et særligt formål eller vil bevare nærmere angivne egenskaber eller karakteristika".
+
+---
+
+U: Manglen skyldes sælgers misligholdelse af en kontraktlig forpligtelse (CISG art. 36).
+
+--- 
+
+Køber har undersøgelsespligt 
+
+CISG art. 38:
+
+"1. Køber skal undersøge varen eller foranledige den undersøgt, så hurtigt som det efter omstændighederne er muligt.
+
+2. Såfremt varen ifølge aftalen skal sendes, kan undersøgelsen udskydes, til efter varen er ankommet til sit bestemmelsessted.
+
+3. Såfremt varen bliver omdirigeret, mens den er undervejs, eller den bliver videresendt af køber, uden at denne har rimelig adgang til at undersøge varen, og såfremt sælger ved aftalens indgåelse vidste eller burde have vidst, at varen muligvis ville blive omdirigeret eller videresendt, kan undersøgelsen udskydes, til efter varen er ankommet til sit nye bestemmelsessted".
+
+---
+
++ Reklamationspligt 
+
+CISG art. 39:
+
+"1. Køber mister adgangen til at påberåbe sig mangler ved varen, såfremt han ikke giver meddelelse til sælger herom( med angivelse af manglens beskaffenhed inden rimelig tid efter, at han har opdaget eller burde have opdaget manglen.
+
+2. Køber mister under alle omstændigheder retten til at påberåbe sig mangler ved varen, såfremt han ikke giver meddelelse til sælger inden 2 år fra den dag, da varen faktisk blev overgivet i købers besiddelse, medmindre denne tidsfrist er uforenelig med en aftalt garantiperiode".
+
+--- 
+
+Vanhjemmel: Salgsgenstanden skal være fri for hæftelser 
+
+CISG art. 41:
+
+"Sælger er forpligtet til at levere en vare, som er fri for tredjemands ret eller krav, medmindre køber har samtykket i at modtage varen med tredjemands ret eller krav. Hvis imidlertid en sådan ret eller et sådant krav bygger på en immaterialrettighed, er sælgers forpligtelser underkastet bestemmelserne i artikel 42"
+
+---
+
+*Købers forpligtelser*
+
+Betaling af købesummen: En købsaftale kan være gyldigt indgået uden aftale om pris: Markedsprisen skal betales 
+
+CISG art. 55:
+
+"Når en aftale er indgået på gyldig måde, men ikke udtrykkeligt eller stiltiende fastsætter eller indeholder forskrifter til fastsættelse af købesummen, anses parterne, hvor andet ikke fremgår af omstændighederne, at have aftalt den pris, som på tidspunktet for indgåelsen af aftalen almindeligvis forlanges for en tilsvarende vare, når den sælges i den pågældende branche under tilsvarende omstændigheder".
+
+---
+
+Køber skal betale på det aftalte tidspunkt 
+
+CISG art. 59:
+
+"Køber er forpligtet til at betale købesummen på det tidspunkt, som er fastsat, eller som kan fastslås på grundlag af aftalen og denne konvention, uden at sælger behøver fremsætte særskilt påkrav eller iagttage særlige former".
+
+---
+
+Hvis ingen aftale: Betaling ved modtagelsen af varen 
+
+CISG art. 58:
+
+"1. Har køber ikke forpligtet sig til at betale købesummen på et andet tidspunkt, er han forpligtet til at betale den, når sælger stiller enten varen eller dokumenterne, som giver deres indehaver ret til at råde over varen, til købers rådighed i overensstemmelse med aftalen og denne konvention. Sælger har ret til at gøre en sådan betaling til en betingelse for varens eller dokumenternes overgivelse.
+
+2. Skal varen forsendes, kan sælger sende den på det vilkår, at varen eller dokumenter, der giver deres indehaver ret til at råde over varen, kun overgives til køber mod betaling af købesummen.
+
+3. Køber er ikke forpligtet til at betale købesummen, førend han har haft adgang til at undersøge varen, medmindre den fremgangsmåde for levering og betaling, som parterne har aftalt, er uforenelig med en sådan adgang til undersøgelse".
+
+---
+
+Betaling skal ske på sælgers forretningssted 
+
+CISG art. 57:
+
+"1. Har køber ikke forpligtet sig til at erlægge købesummen på et andet bestemt sted, er han forpligtet til at erlægge den til sælger:
+
+a) på sælgers forretningssted, eller
+
+b) hvor betaling skal erlægges mod overgivelse af varen eller af dokumenter, på det sted, hvor overgivelsen finder sted.
+
+2. Sælger er forpligtet til at bære de forøgede betalingsomkostninger, der er en følge af, at han har skiftet forretningssted efter aftalens indgåelse".
+
+---
+
+Pligt til at modtage varen: I modsætning til KBL er køber forpligtet til at modtage varen 
+
+CISG art. 53:
+
+"Køber er forpligtet til at betale købesummen for varen og til at tage imod levering som fastsat i aftalen og i denne konvention".
+
+Ikke-modtagelse = misligholdelse.
+
+--- 
+
+*Misligholdelsesbeføjelser*
+
+Ophævelse: Ved væsentlig misligholdelse kan købet ophæves 
+
+CISG art. 49, stk. 1:
+
+"1. Køber kan hæve købet:
+
+a) hvis sælgerens manglende opfyldelse af sine forpligtelser efter aftalen eller denne konvention er en væsentlig misligholdelse, eller
+
+b) i tilfælde af manglende levering, hvis sælger ikke leverer varen inden for den yderligere frist, som køber har fastsat i henhold til artikel 47, stk 1, eller hvis han meddeler, at han ikke vil levere varen inden for den således fastsatte frist".
+
+---
+
+
+og CISG art. 64, stk. 1:
+
+"1. Sælger kan hæve købet:
+
+a) hvis købers manglende opfyldelse af sine forpligtelser efter aftalen eller denne konvention er en væsentlig misligholdelse, eller
+
+b) hvis køber ikke inden for den yderligere frist, som sælger har fastsat i henhold til artikel 63, stk 1, har opfyldt sin betalingsforpligtelse eller sin forpligtelse til at tage imod levering af varen, eller såfremt køber meddeler, at han ikke vil gøre det inden for den således fastsatte frist".
+
+---
+
+CISG art. 25 definerer, hvornår der foreligger en væsentlig misligholdelse (=særlig ulempe). 
+
+"En parts misligholdelse er væsentlig, hvis den medfører en sådan ulempe for den anden part, at den i betydelig grad berøver ham for, hvad han i henhold til aftalen er berettiget til at forvente, medmindre den misligholdende part ikke forudså og en fornuftig person i samme situation og under tilsvarende omstændigheder ikke ville have forudset et sådant resultat".
+
+---
+
+Der skal altid gives meddelelse ved ophævelse 
+
+CISG art. 26:
+
+"En erklæring om ophævelse er kun virksom, hvis der afgives meddelelse herom til den anden part".
+
+--- 
+
+*Særlige afvigelser i forhold til den danske købelov*
+
+*Mangler*
+
+ 
+
+HR: Køber kan kræve at sælger afhjælper en mangler 
+
+CISG art. 46, stk. 3:
+
+"3. Lider varen af en mangel, kan køber kræve, at sælger afhjælper manglen, medmindre det under hensyn til samtlige foreliggende omstændigheder er urimeligt at kræve dette. Et krav om afhjælpning skal fremsættes enten i forbindelse med meddelelse efter artikel 39 eller inden rimelig tid derefter".
+
+U: Det er urimeligt at kræve afhjælpning.
+
+--- 
+
+Sælger er berettiget til at afhjælpe mangler - også efter leveringstidspunktet 
+
+CISG art. 48, anderledes efter Købelovens § 49:
+
+"1. Hvor ikke andet følger af artikel 49, kan sælger, selv efter leveringstidspunktet, på egen bekostning afhjælpe enhver misligholdelse fra hans side, hvis dette kan gøres uden urimelig forsinkelse for køber, og uden at denne udsættes for en urimelig ulempe eller usikkerhed om, hvorvidt hans udlæg vil blive godtgjort af sælger. Køber bevarer dog sin eventuelle ret til at kræve skadeserstatning efter bestemmelserne i denne konvention.
+
+2. Opfordrer sælger køber til at lade ham vide, om køber vil tage imod opfyldelse af aftalen, og efterkommer køber ikke denne opfordring inden rimelig tid, kan sælger opfylde aftalen inden for den tidsfrist, som han har angivet i sin opfordring. Køber kan da ikke inden for den tidsfrist gøre nogen form for misligholdelsesbeføjelse gældende, som er uforenelig med sælgers opfyldelse af sine forpligtelser.
+
+3. En meddelelse fra sælger om, at han vil opfylde aftalen inden for en angiven frist, antages at indeholde en opfordring til køber i henhold til stk 2 om, at denne skal meddele sælger sin afgørelse.
+
+4. En opfordring eller meddelelse fra sælger i henhold til stk 2 eller stk 3 i denne artikel får kun virkning, hvis den kommer frem til køber".
+
+ 
+---
+
+*Erstatningsansvar*
+
+HR: Enhver misligholdelse er erstatningspådragende (CISG art. 79 modsætningsvis). 
+Det sondres altså ikke mellem genus- og specieskøb.
+
+--- 
+
+U1: Ej erstatningsansvar, hvis misligholdelse ligger uden for partens kontrol, og hindringen ikke kunne være taget i betragtning ved aftalens indgåelse
+
+CISG art. 79:
+
+"1. En part er ikke erstatningsansvarlig for manglende opfyldelse af sine forpligtelser, såfremt han kan godtgøre, at dette skyldtes en hindring uden for hans kontrol, og at han på tidspunktet for aftalens indgåelse ikke med rimelighed kunne forventes at have taget hindringen i betragtning eller at have undgået eller overvundet den eller dens følger.
+
+2. Skyldes en parts manglende opfyldelse, at en tredjemand, som han har antaget til helt eller delvist at opfylde aftalen, ikke opfylder sine forpligtelser, er parten kun fritaget for erstatningspligt, hvis:
+
+a) han er fritaget efter bestemmelserne i stk 1, og
+
+b) den pågældende tredjemand, han har antaget, ville være fritaget, hvis bestemmelserne i stk 1 skulle gælde for ham.
+
+3. Fritagelse for erstatningspligt efter denne artikel gælder, så længe hindringen består.
+
+4. Den part, som ikke opfylder aftalen, er forpligtet til at give meddelelse til den anden part om hindringen og dens betydning for mulighederne for at opfylde aftalen. Hvis den anden part ikke modtager meddelelsen inden rimelig tid, efter at den part, som ikke har opfyldt sine forpligtelser, fik eller burde have fået kendskab til hindringen, er denne part erstatningspligtig for det tab, der følger af, at den anden part ikke modtog meddelelsen.
+
+5. Bestemmelserne i denne artikel afskærer ikke nogen af parterne fra at gøre andre rettigheder gældende end retten til at kræve skadeserstatning efter denne konvention".
+
+--- 
+
+Sælger erstatningsansvar omfatter efter CISG art. 74 også skade på købers ting.
+
+"Skadeserstatning i anledning af en parts misligholdelse består af et beløb, der svarer til det tab, herunder tabt fortjeneste, som den anden part har lidt som følge af misligholdelsen. Erstatningen må ikke overstige det tab, som den misligholdende part forudså eller burde have forudset, da aftalen blev indgået, når henses til de omstændigheder han vidste eller burde have vidst ville blive en mulig følge af misligholdelsen".
+
+---
+
+Efter dansk ret reguleres dette spørgsmål efter produktansvarsloven. Dvs. i tilfælde af, at CISG finder anvendelse kan såvel CISG art. 74 som produktansvarsloven påberåbes.
+
+--- 
+
+**Ophævelse efter overgivelse**
+
+I modsætning til Købelovens § 28, stk. 2 kan der ske ophævelse af købet, selv om salgsgenstanden er overgivet 
+
+CISG art. 4:
+
+"Denne konvention gælder kun for købeaftalens indgåelse og sælgers og købers rettigheder og forpligtelser i henhold til denne aftale. Medmindre andet udtrykkeligt er bestemt i konventionen, gælder den især ikke for:
+
+a) gyldigheden af aftalen eller enkelte af aftalens bestemmelser eller af sædvane,
+
+b) den virkning aftalen kan have på ejendomsretten til den solgte vare".
+
+---
+
+Vedrører imidlertid kun forholdet mellem parterne - ikke forholdet til tredjemænd.
+
+---
+
 ## Eksamensopgave 1
 
 Eksamensopgave om forbrugerkøb, kreditsikring og inkasso
