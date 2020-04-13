@@ -336,7 +336,7 @@ Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb ti
  
 --- 
 
-### Sælgers og købers forpligtelser under handelskøbet
+## Sælgers og købers forpligtelser under handelskøbet
 
 ![](img/gotta.jpg)
  
@@ -826,7 +826,7 @@ Sælgers ansvarsgrundlag er objektivt ansvar over for køber, hvis køber er i g
  
 ---
 
-### Købers misligholdelse ved købet
+## Købers misligholdelse ved købet
 
 Der er flere måder, hvor på køberen kan misligholde ved købet.
 
@@ -946,7 +946,7 @@ Bevisbyrde: Hvis der opstår uenighed om hvorvidt købet er et forbrugerkøb, er
  
 ---
 
-### Købers og sælgers forpligtelser
+## Købers og sælgers forpligtelser
 
  
 Sælgers forpligtelser:
@@ -1001,7 +1001,7 @@ Levering er ikke sket, såfremt sælgeren fx, uden at køberen har anmodet herom
 
 ---
 
-### Sælgers misligholdelse af aftalen
+## Sælgers misligholdelse af aftalen
 
 Sælger kan som udgangspunkt misligholde en aftale på tre måder:
 
@@ -1155,7 +1155,7 @@ Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den
  
 ---
 
-### Købers misligholdelse med købesummens betaling
+## Købers misligholdelse med købesummens betaling
 
 Sælgers misligholdelsesbeføjelser:
 
