@@ -97,9 +97,11 @@ Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.
 
 Lovens anvendes både i forbrugerkøb, handelskøb og civilkøb.
 
-Ordet ”kreditaftale” er defineret i KAL § 4, stk. 1, nr. 3: 
+Ordet ”kreditaftale” er defineret i KAL § 4, nr. 3: 
 
-”En aftale, hvorved en kreditgiver yder eller giver tilsagn om at yde kredit”
+”Kreditaftale: En aftale, hvorved en kreditgiver yder eller giver tilsagn om at yde en forbruger kredit i form af henstand med betalingen, lån eller anden tilsvarende form for finansiel ordning,  undtagen aftaler om løbende levering af tjenesteydelser eller varer af samme art, hvor forbrugeren betaler for ydelserne eller varerne i rater, så længe de leveres.”
+
+---
 
 Kreditaftaleloven regulere lån og kreditkøb. 
 
@@ -215,7 +217,7 @@ Forarbejderne til kreditaftaleloven betoner, at en arbejdsgiver, som yder kredit
 
 Kreditaftaleloven gælder også for kreditaftaler, hvor kreditten ydes af en ikke-erhvervsdrivende, hvis aftalen er indgået eller formidlet for kreditgiveren af en erhvervsdrivende.  
 
-Kreditgiveren har "bevisbyrden" for, at der ikke foreligger en forbrugerkreditaftale, at en kreditaftale er omfattet af KAL § 2, stk. 2.  
+Kreditgiveren har "bevisbyrden" for, at der ikke foreligger en forbrugerkreditaftale, at en kreditaftale er omfattet af KAL § 2, jf. KAL § 1, stk. 3.  
 
 ---
 
