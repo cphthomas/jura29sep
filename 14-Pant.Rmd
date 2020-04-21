@@ -230,7 +230,7 @@ Begrebet "viljesbestemt pant" er pant stiftet ved aftale - i modsætning til ret
 
 ---
  
-### Typer af pantebreve  
+## Typer af pantebreve  
 
 Der findes følgende pantebrevsformer:
 
@@ -277,6 +277,7 @@ Pantet stiftes ved, at der tinglyses et pantebrev i Tingbogen.
 Ved ejerlejligheder er det almindeligt, at der er tinglyst et ejerpantebrev til sikkerhed for ejers forpligtelser over for ejerforeningen. 
 
 Da det oftest har 1. prioritet ’skubber’ det de øvrige pantebreve ned. 
+
 ---
 
 Nogle ejerforeninger vælger i stedet at tinglyse vedtægterne pantstiftende for at etablere sikkerheden.
@@ -562,7 +563,7 @@ Alle rettigheder over fast ejendom skal tinglyses:
 
 ---
 
-### Begrebet "hævd"
+## Begrebet "hævd"
 
 "Hævd" er en	særlig erhvervelsesmåde, hvor retten stiftes ved en uhjemlet råden (ikke lovmæssig råden) i 20 år eller i alderstid. Danske Lov 5-5-1 lyder således:
 
@@ -823,8 +824,6 @@ Domme:
 Dommen **U 1934.167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000240470/1" target="_blank">Dommen klik her!</a>**
 
----
-
 Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør til hovedbygning og stald omfattet af TL 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000240219/1" target="_blank">Dommen klik her!</a>**
 
@@ -832,7 +831,8 @@ Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør t
 
 ![](img/svin.jpg)
 
-Men dommen **VLT 1932 329:** Pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, var ikke omfattet af TL § 38. 
+Men dommen **VLT 1932 329:** Pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, var ikke omfattet af TL § 38.
+
 ---
 
 Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan henregne dem til bygninger. 
@@ -1219,6 +1219,10 @@ Pant i løsøre kan tinglyses.
 Ejendomsret til løsøre registreres ikke i et officielt register på samme måde som fast ejendom.
 
 Ejendomsretten sikres ved individualisering.
+
+---
+
+<h4><a href="https://youtu.be/Qs5xtmQYcZY" target="_blank">Video om pant i løsøre</a></h4>
 
 ---
  
