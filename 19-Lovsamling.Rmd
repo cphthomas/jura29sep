@@ -6,13 +6,6 @@ cat(readLines('np.html'))
 
 
 
-# Lovsamling 
-
-```{r, echo=FALSE, results='asis'}
-# cat(readLines('np.html'))
-```
-
-
 
 <h3><a href="https://www.retsinformation.dk/eli/lta/2016/193" target="_blank">Aftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2007/515" target="_blank">Arveloven</a></h3>
