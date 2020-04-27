@@ -1123,9 +1123,24 @@ Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter f
 
 ---
 
-"Cut-off-klausul" er en klausul om, at skyldneren ikke skal kunne rejse indsigelse mod en erhverver af fordringen. 
+"Cut-off-klausul" er en klausul om, at skyldneren ikke skal kunne rejse indsigelse mod en erhverver af fordringen, jf. KAL § 32: "Det kan ikke aftales, at der ved overdragelse til tredjemand af de rettigheder, der tilkommer kreditgiveren, sælgeren eller leverandøren af en tjenesteydelse, sker indskrænkning af dennes forpligtelser over for forbrugeren. " 
 
-Er ikke gyldig i forbrugerforhold, jfr. kreditaftalelovens § 33.
+Er ikke gyldig i forbrugerforhold, jf. tillige KAL § 33.
+
+---
+
+I kreditkøb med forbrugere kan der ikke aftales pant i det solgte aktiv jf. KAL § 21, stk. 1, hvorfor pantebrevet ikke er gyldigt.
+
+Der kan heller ikke aftales en cut off-klausul jf. KAL § 32, da fx bilkøberne derved vil blive afskåret fra, at gøre deres evt. mangelsindsigelser gældende over for 3 mand der har fået overdraget fodringen på lånet til bilen fra bilsælgeren.
+
+Når aftalerne overdrages til en ny fordringshaver, er der tale om et efterfølgende trepartsforhold jf. KAL § 33, stk. 1, som giver fx bilkøberen samme rettigheder over for den nye fordringshaver, som bilkøberne havde mod den oprindelige fordringshaver fx bilsælgerne.
+
+---
+
+I denne situation, hvor fx lastbilkøberne ikke er forbrugere, men erhvervsdrivende. Ved ikke-forbrugere er der intet forbud mod pant i bilerne jf. KAL § 21 og ej heller forbud mod at aftale en cut off-klausul jf. KAL § 32.
+Derfor vil såvel pantebrevene i de solgte aktiver, som tillæggene til kreditaftalerne være gyldige.
+
+Der skal heller ikke som erhvervsdrivende køber erlægges 20 pct. i udbetaling, jf. KAL § 34, stk. 1, nr. 4, jf. § 50.
 
 ---
 
