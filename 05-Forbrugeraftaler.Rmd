@@ -82,8 +82,6 @@ De fleste konflikter afgøres af Forbrugerklagenævnet.^[Se nærmere *Sonny Kris
 
 Der er et forbud mod uanmodet telefonisk eller direkte personlig henvendelse til forbrugere på deres bopæl, arbejdsplads, skoler, gymnasier, erhvervsakademier, universiteter eller andre steder, hvor der ikke er almindelig adgang, fx også foreninger, hvis henvendelsen fra virksomheden har til formål at opnå en aftale med forbrugeren, jf. FBL § 4, stk. 1.
 
-
-
 Forbuddet er især begrundet med privatlivets fred og for at imødegå overraskelsesmomentet, så forbrugeren ikke føler sig tvunget til at indgå en aftale. Evt. aftaler der er indgået ved dørtrinet er ugyldige, jf. FBL § 5.
 
 ---
@@ -444,7 +442,44 @@ Forbrugeren har bevisbyrden for, at meddelelsen er sendt.
 Meddelelsen om forbrugerens fortrydelse skal være utvetydig.
 
 Der kan anvendes en standardfortrydelsesformular.
- 
+
+---
+
+**Fortrydelsesret ved køb af værdipapirer?**
+
+Hr. Køb og salg af værdipapir er der tale om en finansiel fjernsalgsaftale og udgangspunktet er, at der er 14 dages fortrydelsesret. Den erhvervsdrivende skal på en synlig måde oplyse om, at der ikke ved købet af værdipair er nogen fortrydelsesret.
+
+---
+
+U1. Der er ingen fortrydelsesret, jf. forbrugeraftalelovens § 18, stk. 2, nr. 15:
+”aftaler om varer, værdipapirer eller tjenesteydelser, hvis prisen afhænger af udsving på kapitalmarkedet, som den erhvervsdrivende ikke har nogen indflydelse på, og som kan forekomme i fortrydelsesperioden”. 
+
+---
+
+Bestemmelsen tilsigter dels at gennemføre direktivets artikel 16, litra b, dels at videreføre den tidligere forbrugeraftalelovs § 17, stk. 2, nr. 3, der undtog aftaler (både fjernsalgsaftaler og aftaler indgået uden for fast forretningssted) om værdipapirer eller finansielle tjenesteydelser, hvis værdipapirets eller tjenesteydelsens pris var afhængig af udsving på kapitalmarkedet, som leverandøren ikke havde nogen indflydelse på, og som kunne forekomme i fortrydelsesperioden, fra fortrydelsesretten.
+
+---
+
+Bestemmelsen indebærer, at reglerne om fortrydelsesret alligevel vil finde anvendelse på aftaler omfattet af lovens § 18, stk. 2, nr. 15, hvis der er tale om en aftale vedrørende en finansiel tjenesteydelse og denne aftale samtidigt er indgået uden for den erhvervsdrivendes forretningssted, jf. definitionen heraf i lovens § 3, nr. 2.
+
+Der kan rejses spm. om der findes værdipapir, som ikke er afhængig af udsving på kapitalmarkedet. Det antages, at det ikke er tilfældet at der findes sådanne værdipapir. Ultrakorte obligationer (udløb om f.eks. 6 mdr.) bevæger sig kun meget, meget lidt. Guld går modsat - når aktier falder pga. uro stiger prisen på guld.
+
+---
+
+U2. Forbrugeraftalelovens § 18, stk. 3 gives der i visse situationer dog fortrydelsesret ved køb af værdipapir som er afhængig af udsving på kapitalmarkedet, som ikke er fjernsalgsaftaler ved køb af værdipapir uden for den erhvervsdrivendes faste forretningssted; fx salg af aktier og obligationer i Bellacentret vil der efter bestemmelsen i § 18, stk. 3 være en fortrydelsesret på købet af værdipapirer, så forbrugeren bliver beskyttet mod den aggressive sælger og for dermed at undgå overrumpling af forbrugeren med det personlige møde med sælgeren.
+
+
+Forbrugeraftalelovens § 18, stk. 3, gælder aftaler vedrørende finansielle tjenesteydelser indgået uden for den erhvervsdrivendes forretningssted generelt, hvor der ikke er tale om en fjernsalgsaftale.
+
+---
+
+Køb af værdipapir i selve filialen er der ikke nogen fortrydelsesret, medmindre det aftales.  For kreditaftaler er der 14 dages fortrydelsesret, jf. kreditaftalelovens § 19.
+
+---
+
+God skik, jf. lov om finansiel virksomhed, jf. 43 og MiFID reglerne skal der også være opmærksomhed på.
+
+
 ---
 
 ## Urimelige aftaler
@@ -495,8 +530,181 @@ En forbruger kan opsige en aftale om løbende levering af varer eller tjenesteyd
 
 Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmøde for opsigelse af fitnessabonnement var urimeligt. I henhold til den erhvervsdrivendes aftalevilkår skulle opsigelse af fitnessabonnementet ske ved, at forbrugeren ved fysisk fremmøde i det center, hvor han var indmeldt, udfyldte af en blanket. Forbrugeren havde fremsendt sin opsigelse til den erhvervsdrivende per mail. Nævnet vurderede, at vilkåret om krav om fysisk fremmøde, som betingelse for opsigelse af fitnessabonnementsaftalen, måtte anses for at være urimeligt og lagde herved vægt på, at der som udgangspunkt ikke kan stilles formkrav til en opsigelse, og at der ikke foreligger oplysninger om saglige hensyn, der i tilstrækkelig grad kan begrunde vilkåret.
 
+---
 
+## E-handelsretten
 
+En central lov for e-handelsretten er e-handelsloven (Lov nr. 227 af 22. april 2002 om tjenester i informationssamfundet herunder visse aspekter af elektronisk handel.e-handelsloven har gennemført dele af Europa-Parlamentets og Rådets direktiv af 2000-06-08om visse retlige aspekter af informationssamfundstjenester, navnlig elektronisk handel, i det indre marked (»Direktivet om elektronisk handel«) (2000/31).
+
+---
+
+Det er karakteristisk for en række informationssamfundstjenester, f.eks. internethjemmesider, at de har en grænseoverskridende karakter. 
+
+For at sikre den frie bevægelighed i det indre marked er det nødvendigt at fjerne visse retlige hindringer for påbegyndelse og udøvelse af informationssamfundstjenester gennem koordinering af medlemsstaternes lovgivning og at fastsætte visse minimumskrav for informationssamfundstjenester på fællesskabsplan. 
+
+---
+
+Ved direktivet fjernes bl.a. retlige hindringer som følge af forskelle i nationale lovgivninger og usikkerhed om, hvilke nationale regler der finder anvendelse på informationssamfundstjenester. 
+
+Der er blevet indført et afsenderlandsprincip, jf. direktivets artikel 3 (lovens §§ 3-6), hvorefter leverandører af online-tjenester kan stille deres ydelser til rådighed overalt i EU på grundlag af de regler og den myndighedskontrol, der findes i den medlemsstat, hvori de er etableret.
+
+Afsenderlandsprincippet gælder kun regler, der er omfattet af »det koordinerede område«, som er defineret i § 2, nr. 8. 
+
+Direktivet indfører ikke ny international privatret og berører ikke domstolenes kompetence, ligesom en række forhold og aktiviteterer holdt uden for direktivets anvendelsesområde.
+
+---
+
+Direktivets bestemmelser gælder som udgangspunkt for både erhvervsdrivende og forbrugere. 
+
+Visse af direktivets bestemmelser kan dog fraviges ved aftale i erhvervsforhold.
+
+E-handelsdirektivet supplerer den generelle og sektorspecifikke EU-regulering, som gælder for informationssamfundstjenester. 
+
+Direktivet berører således en lang række områder, hvor der findes anden regulering, og som henhører under forskellige myndigheders kompetenceområde, f.eks. hvad angår etablering, markedsføring, rådgivning, aftaleindgåelse, ansvar og offentlig kontrol, jf. noterne til de enkelte lovbestemmelser. 
+
+Det overlades som udgangspunkt til medlemsstaterne at bestemme form og midler til gennemførelse af e-handelsdirektivet. 
+
+Da det i Danmark blev anset for uhensigtsmæssigt og omstændeligt at gennemføre direktivet ved ændring i anden lovgivning, er direktivet implementeret ved enselvstændig lov, hvis bestemmelser er formuleret, så de ligger tæt op ad direktivtekstens ordlyd med henblik på at sikre en så korrekt implementering som muligt.
+
+Direktivets artikel 9 fastslår et »diskriminationsforbud«, som indebærer, at medlemsstaternes lovgivning som udgangspunkt ikke må indeholde formkrav, som hindrer elektronisk indgåelse af kontrakter, f.eks. krav om skriftlighed, underskrift, fremlæggelse af originale dokumenter mv. 
+
+Direktivets artikel 9 tager ikke stilling til de bevisspørgsmål, som brugen af elektroniske medier ved bl.a. aftaleindgåelse kan give anledning til. 
+
+De bevismæssige spørgsmål angår bl.a., om der kan opnås tilstrækkelig sikkerhed for, at en meddelelse faktisk stammer fra den angivne udsteder (meddelelsens autenticitet og uafviselighed), og at meddelelsens indhold ikke er ændret efter, at den er afsendt (meddelelsens integritet). 
+
+Se også lov om elektronisk signatur og Betænkning 1456/2004 om e-signaturs retsvirkninger, Betænkning 1400/2000om e-signatur og formkrav i lovgivningen og Beretning 1517/2010 om elektronisk aftaleindgåelse og handel, s. 12 f. og 17 f.
+
+I forbindelse med den danske gennemførelse af e-handelsdirektivet blev det besluttet ikke at implementere artikel 9 som en selvstændig bestemmelse i e-handelsloven, men derimod at iværksætte et tværgående lovmoderniseringsarbejde, som tog sigte på at ændre eller ophæve formkrav mv. i lovgivningen, som unødigt hindrede brugen af digital kommunikation. 
+
+Hvert ministerium blev pålagt at gennemgå sin egen lovgivning med henblik på at finde frem til de relevante bestemmelser og fastsætte en nærmere plan for lovmoderniseringen.
+
+Ved afgørelsen af, om en elektronisk meddelelse kan opfylde evt. formkrav i lovgivningen, tages udgangspunkt i princippet om »funktionel ækvivalens«, jf. nærmere Betænkning 1400/2000 om e-signatur og formkrav i lovgivningen, s. 102 ff. 
+
+Heri ligger en vurdering af, hvilke formål de pågældende formkrav tilsigter at varetage, og hvorvidt en elektronisk meddelelse kan opfylde formkravene. 
+
+Der kan grundlæggende være tale om fire formål: 
+
+1) at sikre bevis for en aftales eksistens og indhold, jf. ovenfor om sikring af meddelelsens autenticitet/uafviselighed og integritet, 
+
+2) at varetage en beskyttelses-/advarselsfunktion, 
+
+3) at indskærpe afgiveren af erklæringen en vis højtidelighed eller alvor, og/eller 4) at sikre dokumentets negotiabilitet.
+
+Medlemsstaterne kan i henhold til direktivets artikel 9, stk. 2, helt eller delvist undtage bestemte kategorier af kontrakter fra artikel 9’s anvendelsesområde. 
+
+---
+
+Det gælder 
+
+a) kontrakter om rettigheder over fast ejendom, 
+
+b) kontrakter, der kræver medvirken af offentlige myndighed, 
+
+c) kontrakter om kaution og sikkerhedsstillelse fra personer, der handler uden for deres erhvervsmæssige virksomhed, samt 
+
+d) familieretlige og arveretlige aftaler. Medlemsstaterne skal meddele Kommissionen, hvilke af de nævnte undtagelser der udnyttes, samt hvert femte år aflægge rapport til Kommissionen om begrundelse for undtagelsen af kontrakter, der kræver medvirken af offentlig myndighed.
+
+---
+
+*E-handelsloven i en praksisnær kontekst*
+
+*E-handelslovens regler gælder for en webshop og hjemmeside*.
+
+Når man driver en netbutik, skal man overholde e-handelsloven. Man skal fx vise tydeligt, hvem man er, og der skal være tydelighed omkring ens salg og ens priser. Herunder skal bestillingsprocedure være klart kommunikeret til ens kunder.
+
+---
+
+*Ufravigelige krav til e-handel*
+
+E-handelsloven indeholder nogle minimumskrav for e-handel, som virksomheden, ikke kan fravige, når der sælges online til forbrugere. 
+
+Reglerne gælder uanset, at man har aftalt noget andet med ens kunde.
+
+---
+
+Du skal blandt andet:
+
+Give nogle generelle oplysninger om din virksomhed. 
+
+Udforme reklamen, så den kan identificeres som reklame.
+
+Give nogle tekniske oplysninger i forbindelse med, at du indgår aftalen.
+
+Give en elektronisk ordrebekræftelse.
+
+Virksomheder, der handler med hinanden via e-handel, kan indbyrdes aftale at fravige enkelte bestemmelser i e-handelsloven. 
+
+Fx kan bestemmelsen om at give en elektronisk ordrebekræftelse afviges, hvis det er skrevet ind i salgsbetingelserne.
+
+E-handelslovens bestemmelser supplerer reglerne i markedsføringsloven og forbrugeraftaleloven, så dem er det også vigtigt, at du sætter dig ind i. 
+
+Forbrugerombudsmanden fører tilsyn med, at virksomheder overholder loven. 
+
+Du har en generel oplysningspligt, hvilket betyder, at du altid skal synliggøre visse oplysninger om din virksomhed. 
+
+---
+
+Din virksomheds webshop og hjemmeside skal som minimum give dine kunder lettilgængelig viden om din virksomheds:
+
+Fulde registrerede navn.
+
+Fysiske etablerings-/forretningsadresse.
+
+E-mailadresse.
+
+CVR-nummer.
+
+Tilhørsforhold til eventuelle godkendelses- og mærkningsordninger.
+
+Speciel oplysningspligt for lovregulerede erhverv.
+
+Priser og intention om salg skal stå tydeligt.
+
+Du skal angive prisen for en vare eller tjenesteydelse, klart og tydeligt. 
+
+Det skal også fremgå, om prisen er inklusive afgifter og leveringsomkostninger.
+
+Du skal udforme og præsentere al kommerciel kommunikation, så det er tydeligt for forbrugerne, at der er tale om reklame, dvs. at du ønsker at sælge varer eller tjenesteydelser.
+
+Det skal tydeligt fremgå, hvem der er afsender.
+
+Betingelser for deltagelse i konkurrencer og spil og benyttelse af reklametilbud, som fx rabatter, tilgift og gaver skal også være let tilgængelige og fremlagt klart og tydeligt.
+
+Krav om let forståelig information om bestilling.
+
+---
+
+Du skal tydeligt, klart og forståeligt informere om:
+
+De forskellige tekniske led, fx bestillingsproceduren, i forbindelse med kontraktens indgåelse.
+
+hvorvidt virksomheden opbevarer den indgåede kontrakt, og hvordan den eventuelt er tilgængelig.
+
+De tekniske hjælpeværktøjer til at finde og rette indtastningsfejl.
+
+De sprog, kontrakten kan indgås på.
+
+Webshoppens tekniske funktioner skal være kundevenlige.
+
+Private forbrugere skal have mulighed for at afgive en korrekt ordre, når de bestiller varer via din hjemmeside. 
+
+Du skal derfor sørge for, at hjemmesidens funktioner er så kundevenlige, at det er muligt for dem at finde og rette indtastningsfejl, så de ikke kommer til at bestille varer, de ikke ønsker.
+
+Du skal også stille kontraktbetingelser og generelle salgsbetingelser til rådighed på en sådan måde, at dine kunder har mulighed for at lagre eller kopiere dem.
+
+Du skal uden unødig forsinkelse, elektronisk bekræfte modtagelsen af en elektronisk ordre.
+
+---
+
+Særligt for handel via online markedspladser:
+
+Markedsplatforme har en stigende rolle på markedet, og du bør derfor som e-handelsvirksomhed gøre dig tanker om fordele og ulemper ved at udbyde dine produkter på en online markedsplatform. 
+
+Markedsplatforme formidler typisk blot kontakten mellem sælger og køber. 
+
+Selve aftalen om køb bliver indgået direkte mellem parterne. 
+
+Normalt vil det være lovgivningen i det land, som platformen betjener, der vil være gældende for købsaftalen.
 
 ---
 
@@ -515,8 +723,6 @@ Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan 
 <h4><a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoer om forbrugerforhold</a></h4>
 
 ---
-
-
 
 **Quiz om e-handel og rejser**
 
