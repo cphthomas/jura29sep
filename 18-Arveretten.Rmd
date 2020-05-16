@@ -800,7 +800,7 @@ Se dommen i **U 2000.1340 H** Holografisk testamente anerkendt, da opretteren ik
 
 "Udvidet samlevertestamente" er en	betegnelse for et testamente mellem ugifte samlevende, hvor de bestemmer, at de skal arve hinanden og arves, som om de var ægtefæller, jf. AL § 87. 
 
-For gyldigt at oprette et sådant testamente skal parterne opfylde betingelserne for at kunne indgå ægteskab med hinanden. 
+For gyldigt at oprette et sådant testamente skal parterne opfylde betingelserne for at kunne indgå ægteskab med hinanden, jf. AL § 88. 
 
 ---
 
@@ -841,6 +841,16 @@ Samlevende kan ikke sidde i uskiftet bo.
 Udvidet samlevertestamente skal ændres ved nyt testamente.
 
 Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
+
+---
+
+Hvis der fx. er bestemt i et samlevertestamente, at ”længstlevende skal arve mest muligt”. Det betyder modsætningsvis, at andre arvinger skal have deres arv begrænset mest muligt til fordel for den af dem, som bliver længstlevende.
+
+Det får den betydning, at førstafdødes formue skal deles ligeligt mellem længstlevende og evt. et barn, født, som ufødt, jf. AL § 1 om børns arveret og AL § 9 om ægtefællens arveret, når afdøde har livsarvinger. Desuden vil den længstlevende automatisk være ”begunstiget” og dermed umiddelbart have retten til udbetalinger fra evt. livsforsikringer jf. nærmere forsikringsaftaleloven § 102. Længstlevende vil også have de særlige rettigheder, som i arvesituationen tilkommer en ægtefælle i form udtagelsesret mv, dog ikke retten til at hensidde i uskiftet bo.  
+
+Barnet er tvangsarving, og arven til barnet kan højst begrænses til en fjerdedel af det, som barnet i udgangspunktet skulle arve, jf. AL § 5. I denne situation, hvor der ikke er andre livsarvinger, skulle barnet i udgangspunktet arve halvdelen af den formue, der falder i arv efter længstlevende. Dvs. tvangsarven til barnet udgør ¼ x ½ = 1/8 
+
+Fællesformuen, som skal deles, udgør fx på dette tidspunkt i alt 400.000 kr. Arven efter førstafdøde udgør altså i alt 200.000 kr., hvoraf længstlevende skal arve mest muligt, dvs. 7/8 eller i alt 175.000 kr. og barnet får 25.000 kr. i tvangsarv efter den førstafdøde.    
 
 ---
 
