@@ -1003,7 +1003,7 @@ Det er uden betydning, om aftalen er endelig eller betinget af et eller flere fo
 Fortrydelsesretten gælder fx ved siden af et eventuelt advokatforbehold, se nærmere nedenfor.  
 
 
-Tilbagekaldelse af købstilbud:
+## Tilbagekaldelse af købstilbud
 
 Det følger af aftalelovens § 7, at et tilbud normalt kan tilbagekaldes, så længe det ikke er kommet til modtagerens kundskab. 
 
@@ -1013,7 +1013,9 @@ I visse tilfælde kan et tilbud dog tilbagekaldes, selv om det er kommet til mod
 
 Det følger af LFFE § 7, stk. 2, at så længe et tilbud om køb ikke er antaget af sælgeren, kan køberen tilbagekalde sit tilbud ved at give underretning herom til sælgeren.  
 
-Reglen i LFFE § 7, stk. 2, fraviger således de generelle regler i aftaleloven, da der er tale om en udvidelse af retten til at tilbagekalde tilbud, hvorefter køber kan træde tilbage fra et tilbud, som efter aftaleretlige regler er bindende, så længe tilbuddet ikke er accepteret af sælger.  
+Reglen i LFFE § 7, stk. 2, fraviger således de generelle regler i aftaleloven, da der er tale om en udvidelse af retten til at tilbagekalde tilbud, hvorefter køber kan træde tilbage fra et tilbud, som efter aftaleretlige regler er bindende, så længe tilbuddet ikke er accepteret af sælger.
+
+Hvis der er sket rettidigt tilbagekaldelse af købstilbudet, efter LFFE § 7, stk. 2, så er der ingen købsaftale, og dermed finder fortrydelseretten ikke anvendelse og der skal ikke betales godgørelse til sælgeren.
 
 ---
 

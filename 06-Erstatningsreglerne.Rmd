@@ -1453,25 +1453,25 @@ En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselsk
 
 ---
 
+## Forsikringstagerens oplysningspligt til forsikringsselskabet
+
 Det kan ikke antages, at den, der tegner forsikring, har en egentlig oplysningspligt, medmindre det må antages, at oplysningen vedrører forhold som forsikrede må vide har betydning for risikobedømmelsen, jf. FAL § 7. 
 
-Har forsikringstageren ved forsikringens tegning svigagtig givet urigtig oplysning om eller fortiet en omstændighed, som må antages at være af betydning for selskabet, er aftalen ikke bindende for dette.  Det samme gælder, hvis hans forhold i øvrigt har været af en sådan art, at det ville stride mod almindelig hæderlighed at gøre aftalen gældende, jf. FAL § 4.
+Har forsikringstageren ved forsikringens tegning svigagtig givet urigtig oplysning om eller fortiet en omstændighed, som må antages at være af betydning for selskabet, er aftalen ikke bindende for dette.  Det samme gælder, hvis hans eller hendes forhold i øvrigt har været af en sådan art, at det ville stride mod almindelig hæderlighed at gøre aftalen gældende, jf. FAL § 4.
 
 ---
 
-Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste eller burde vide, at en af ham given oplysning var urigtig, hæfter selskabet, som om urigtig oplysning ikke forelå, jf. FAL § 5, stk. 1
+Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste eller burde vide, at en af ham given oplysning var urigtig, hæfter selskabet, som om urigtig oplysning ikke forelå, jf. FAL § 5, stk. 1.
 
 ---
 
 Har forsikringstageren, uden at forholdet omfattes af FAL §§ 4 eller 5, givet urigtig oplysning, er selskabet fri for ansvar, hvis det kan antages ikke at ville have overtaget forsikringen, om det rette forhold havde været oplyst, jf. FAL § 6, stk. 1. 
 
-Hvis man fx. udlejer sin bil og der sker skade på bilen tyveri mv., uden at forsikringstageren har informeret sit forsikringsselskab, må det betrages som grov uagtsomhed, med det sandsynlige resultat, at forsikringsselskabet er berettiget til afvise et erstatning, jf. FAL § 6 stk. 1. og § 7
+Hvis forsikringstageren uden at have oplyst det til sit forsikringsselskab fx. udlejer sin bil, og der sker skade på bilen, eller tyveri af bilen under udlejningen, eller, at forsikringstageren udlåner bilen til sin søn, og der sker skade på bilen, må betrages som grov uagtsomhed, at disse oplysninger ikke er blevet givet til forsikringsselskabet, med det sandsynlige resultat, at forsikringsselskabet er berettiget til afvise et erstatning, jf. FAL § 6 stk. 1. og FAL § 7. Disse uoplyste forhold, omkring anvendelsen af bilen forøger forsikringsselskabets risiko, som ikke er blevet beregnet ind i præmiens fastlæggelse for kaskoforsikringen på bilen og denne anvendelse af bilen vil typisk være i strid med forsikringsvilkårene for kaskoforsikringen. 
 
 ---
 
 Må det antages, at selskabet ville have overtaget forsikringen, men på andre vilkår, hæfter det i det omfang, i hvilket det mod den aftalte præmie ville have forpligtet sig. Ville selskabet ved genforsikring i videre omfang have begrænset sit ansvar for egen regning, nedsættes erstatningen i samme forhold, jf. FAL § 6, stk. 2. 
-
-
 
 ---
 
