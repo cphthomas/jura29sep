@@ -52,7 +52,8 @@ cat(readLines('fp.html'))
 >Mine oplevelser med e-bogen har kun været gode. Jeg synes det fungerer godt med indledningen du har lavet til hvert kapitel så man kan få et overblik over, hvilke emner der er vigtige til eksamen. Dem har jeg selv haft stor glæde af når jeg laver eksamensopgaver 😊<br><br>
 >Derudover synes jeg det er godt, i et fag som dette, at have det overblik som e-bogen giver og have muligheden for at søge i bogen så man hurtigere kan finde en forklaring eller lige den § man leder efter. 
 >Quizzerne er også en god mulighed for at repeterer emnerne når vi skal læse til eksamen. 
-Derfor foretrækker jeg helt klart e-bogen i dette fag. 
+>Derfor foretrækker jeg helt klart e-bogen i dette fag.<br><br>
+
 ***Ida-Marie***
 
 <br><br><br>
@@ -62,30 +63,30 @@ Derfor foretrækker jeg helt klart e-bogen i dette fag.
 
 >Den har en lækker og overskuelig opsætning. Jeg er specielt glad for at der er farver i den - det er fedt ar den ikke bare er sort og hvid! 
 >Det hjælper også læsningen at der er fremhævede keywords og specielt tjekspørgsmålene i slutningen af hvert kapitel. 
->jeg har været rigtig glad for den i min sygdomsperiode, da jeg føler at jeg alligevel er ok med hjemmefra.  
+>jeg har været rigtig glad for den i min sygdomsperiode, da jeg føler at jeg alligevel er ok med hjemmefra.<br><br>
 
->Hilsen louise 
+***Louise*** 
 
 
 
 <br><br><br>
 
 >Generelt en rigtig god e-bog. Fordelen ved denne e-bog er at den er meget praksisnær og ikke mindst aktuel da den løbende bliver opdateret. Noget af det der gør den særligt god, er alle de mange eksempler fra virkeligheden som stilles i relation til den teori og de love som vi elever bl.a. arbejder med i praksis. Ligeledes er der i starten af hvert kapitel fremhævet nogle af de mest relevante forhold/paragraffer som hører til kapitlet, hvilket flere gange har været en stor hjælp.<br><br>
->Derfor føler jeg mig godt klædt på når jeg skal til eksamen i Jura, da jeg kan bruge denne e-bog som redskab. Og desuden er der en smart søgefunktion der gør det meget lettere at finde frem til det man leder efter!  
+>Derfor føler jeg mig godt klædt på når jeg skal til eksamen i Jura, da jeg kan bruge denne e-bog som redskab. Og desuden er der en smart søgefunktion der gør det meget lettere at finde frem til det man leder efter!<br><br>
 
 ***Frederik***
 
 <br><br><br>
 
 >Erhvervs- og finansjura for finansøkonomer rummer rigtig mange gode ting, bl.a. de quizzer der er ved de fleste emner, det gør det muligt at lave et hurtigt brush up.<br><br> 
-Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til og fra de forskellige emner. Den er skrevet i et sprog som er nemt at forstå, og der er gode eksempler.<br><br>
+>Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til og fra de forskellige emner. Den er skrevet i et sprog som er nemt at forstå, og der er gode eksempler.<br><br>
 
-<br><br>
 ***Emma***
 
 <br><br><br>
 
 >Jeg synes, at Erhvervs- og finansjura for finansøkonomer er sat rigtig godt op. Simpel at slå op, og nem og finde information i.<br><br>
+
 ***Nick***
 
 <br><br><br>
@@ -94,17 +95,20 @@ Derudover er den nem at navigere i, da menuen i siden gør det nemt at komme til
 <br>Jeg selv brugte den meget til at læse til eksamen. Den er overskuelig og letlæselig, hvilket er en rigtig god ting indenfor jura, da det godt kan være svært at læse, grundet alle de begreber man ikke kender fra hverdagen.<br><br>
 Derudover synes jeg det fungerer super godt, at den er så godt delt op i afsnit. Forstået på den måde, at tit og ofte er det noget meget konkret man søger, og der er dit materiale meget brugervenlig. Det spare en for en masse tid, her tænker jeg også måske i en eksamen situation hvor man er meget presset på tiden<br><br>
 Så overordnet set synes jeg den fungere vildt godt. Ydermere supplere den godt til dine powerpoint, og personligt ville jeg mene, at dine PowerPoints og din e-bog ville være et rigtig godt undervisningsmateriale.<br><br>
-Det var i hvert fald de to ting jeg støttede mig op af, da jeg læste til eksamen, og da jeg sad til eksamen 😊
-<br><br>***Molly***
-
+>Det var i hvert fald de to ting jeg støttede mig op af, da jeg læste til eksamen, og da jeg sad til eksamen 😊
 <br><br>
+
+***Molly***
+
+<br><br><br>
 
 >Generelt er e-bogen skrevet i et let læseligt sprog i modsætning til den forrige lærebog. Den forklarer juraen i et sprog der ikke er overkompliceret og let at forstå for almindelige mennesker. Der er i bogen enkelte slåfejl, og jeg har fundet enkelte link der ikke var aktive eller manglede, men alt i alt en rigtigt god ”første udgave”. Jeg forstiller mig at du retter småfejlene i takt med, at du bruger e-bogen i undervisningen. <br><br>
 Personligt kunne jeg godt tænke mig flere eksempler på hvordan de ”vigtige” love bliver anvendt, opstillet i punktform, således at e-bogen bredere kan anvendes som opslagsvært i eksamensøjemed, men i kraft af at der er mulighed for at tage noter, kan den studerende lave sin egen punktliste. Ydermere mener jeg personligt at det ville lette forståelsen for den studerende med uddrag fra domme hvor denne kan se loven brugt, ligesom man kan på Karnov.<br><br>
-Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for at dygtiggøre sig i erhvervsjura! <br><br>
-**Søren** 
+>Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for at dygtiggøre sig i erhvervsjura!<br><br>
 
-<br><br>
+***Søren*** 
+
+<br><br><br>
 
 <h4>***Vigtigt at bemærke***</h4>
 
@@ -118,31 +122,30 @@ Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for a
 
 *E-bogen giver dig færdigheder til at anvende centrale metoder og redskaber inden for erhvervs- og finansjura, som knytter sig til beskæftigelsen inden for ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion, så du kan vurdere praksisnæreproblemstillinger under hensyntagen til relevant lovgivning, og løsningsmuligheder inden for erhvervs- og finansjura til kunder, samarbejdspartnere og brugere.*
 
-*E-bogen giver dig kompetencer, så du kan håndtere udviklingsorienterede situationer i relation til en finansøkonoms beskæftigelse og kan deltage i fagligt og tværfagligt samarbejde med en professionel tilgang inden for erhvervs- og finansjurakan, og at du i en struktureret sammenhæng kan tilegne dig ny viden, færdigheder og kompetencer inden for erhvervs- og finansjura i relation til ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion.*
+*E-bogen giver dig kompetencer, så du kan håndtere udviklingsorienterede situationer i relation til en finansøkonoms beskæftigelse og du kan deltage i fagligt og tværfagligt samarbejde med en professionel tilgang inden for erhvervs- og finansjura, og at du i en struktureret sammenhæng kan tilegne dig ny viden, færdigheder og kompetencer inden for erhvervs- og finansjura i relation til ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion.*
 
-*E-bogen anvendes i faget “Erhvervs- og Finansjura” på 1. og 2. semester, samt i brancheretningsfaget “Finansiel Rådgivning" på 3. semester, samt i andre af de øknomiske og markedsføringsmæssige fag på finansøkonomuddannelsen. E-bogen kan ligeledes med fordel anvendes ved udarbejdelsen af hovedopgaven på 4. semester. E-bogen kan bruges under den skriftlige eksamen, hvortil der er netadgang. E-bogen indeholder en vejledning i opgavebesvarelse af de juridiske eksamensopgaver.*
+*E-bogen kan anvendes i faget “Erhvervs- og Finansjura” på 1. og 2. semester, samt i brancheretningsfaget “Finansiel Rådgivning" på 3. semester, samt i andre af de økonomiske og markedsføringsmæssige fag på finansøkonomuddannelsen. E-bogen kan ligeledes med fordel anvendes ved udarbejdelsen af af OLA'er, samt til hovedopgaven på 4. semester. E-bogen kan bruges under den skriftlige i Erhvervs- og finansjura-eksamen, hvortil der er netadgang. E-bogen indeholder desuden en vejledning i opgavebesvarelse af de juridiske eksamensopgaver.*
 
 *Ved afslutningen ved hver af de eksamensrelevante kapitler er der opstillede løsningsmodeller til løsning af de til den skriftlige eksamen stillede eksamensopgaver. Løsningsmodeller bør anvendes som disposition ved løsning af eksamensopgaver inden for de respektive retsområder, og den angivne rækkefølge bør som udgangspunkt ikke fraviges. Der er henvisninger mellem løsningsmodellerne, hvis der er flere retsområder, der skal behandles og besvares i en eksamensopgave.*
 
-*E-bogens talrige videoer, quizer, podcast, domme, Finanstilsynets afgørelser, nævnsafgørelser, samt latinske-juridiske betegnelser fra romerretten mv., er ikke at betragte som en del af jeres pensum, men er et supplement til pensum for at fremme din yderligere forståelse for erhvervs- og finansjuraen.*
+*E-bogens talrige videoer, quizzer, podcast, domme, Finanstilsynets afgørelser, nævnsafgørelser, samt latinske-juridiske betegnelser fra romerretten mv., er ikke at betragte som en del af jeres pensum, men er et supplement til pensum for at fremme din yderligere forståelse for erhvervs- og finansjuraen.*
 
 *E-bogen indeholder tidligere eksamensopgaver, samt studierelevante opgaver. Efter hver eksamensopgave er der en podcast, som indeholder en rettevejledning til den stillede eksamensopgave*
 
-*Link til dommene i e-bogen til karnovslovsamling/UfR (Ugeskrift for Retsvæsen), kræver opkopling hjemmefra via "fjernskrivebordet". Då skolen er der automatisk opkomling på Karnovslovsamling*. 
+*Link til dommene i e-bogen til Karnovslovsamling/UfR (Ugeskrift for Retsvæsen), kræver opkobling hjemmefra via "fjernskrivebordet". Då skolen er der automatisk opkobling på Karnovslovsamling*. 
 
-*Adgangen til "Karnovs Lovsamling", der hjemmefra med MAC eller PC opkopling, hvor de enkelte lovparagraffer er kommenterede, sker via "fjernskrivebordet". Se nærmere de respektive vejledninger om adgang til fjernskrivebordet udenfor CPH på "cphbusiness.dk/guides" eller Moodle Flowet Bibliotek under punkt 1. Databaser - (der linkes til CPH's vejledninger)*
+*Adgangen til "Karnovs Lovsamling", der hjemmefra med MAC eller PC opkobling, hvor de enkelte lovparagraffer er kommenterede, sker via "fjernskrivebordet". Se nærmere de respektive vejledninger om adgang til fjernskrivebordet udenfor CPH på "cphbusiness.dk/guides" eller Moodle Flowet Bibliotek under punkt 1. Databaser - (der linkes til CPH's vejledninger)*
 
 *E-bogen indeholder også en løbende opdateret lovsamling som er relevant for dig som finansøkonom.*  
 
-
-*Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske til mig på følgende e-mail:sbmk@cphbusiness.dk  *  
+*Om konstaterede fejl og mangler, samt spørgsmål til e-bogens indhold kan henvendelse ske til mig på følgende e-mail: sbmk@cphbusiness.dk*  
 
 *Ved tekniske problemer kontakt Thomas Petersen: cphthomas@gmail.com*
 
 
 *De bedste hilsener*
 
-*Advokat, lektor, Sonny Kristoffersen, Ph.D.*
+*Lektor Sonny Kristoffersen, Ph.D.*
 
 
 ---
