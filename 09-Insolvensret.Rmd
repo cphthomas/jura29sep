@@ -1,8 +1,8 @@
 # Insolvensret
 
-```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
-```
+<!-- ```{r, echo=FALSE, results='asis'} -->
+<!-- cat(readLines('np.html')) -->
+<!-- ``` -->
 
 
 *Dette her kapitel om insolvensreglerne anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med at kunderne og klienter skylder penge til jeres virksomhed. Derfor er det vigtigt som finansøkonom at bl.a. kende reglerne om inkassoprocessen, tvangsinddrivelse via fogedretten, tvangsauktion, samt konkursbehandling, rekonstruktion og gældssanering*

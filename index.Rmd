@@ -18,29 +18,29 @@ favicon: "favicon.ico"
 
 
 
-```{r, echo=FALSE, results='asis'}
-cat(readLines('fp.html'))
-```
+<!-- ```{r, echo=FALSE, results='asis'} -->
+<!-- cat(readLines('fp.html')) -->
+<!-- ``` -->
 
 
----
-
-
-
-<h4><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h4>
-
-  
-
----
-
-  
-
-
-<h4><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h4>
+<!-- --- -->
 
 
 
----
+<!-- <h4><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h4> -->
+
+
+
+<!-- --- -->
+
+
+
+
+<!-- <h4><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h4> -->
+
+
+
+<!-- --- -->
 
 <br>
 
@@ -102,7 +102,7 @@ Så overordnet set synes jeg den fungere vildt godt. Ydermere supplere den godt 
 
 <br><br><br>
 
->Generelt er e-bogen skrevet i et let læseligt sprog i modsætning til den forrige lærebog. Den forklarer juraen i et sprog der ikke er overkompliceret og let at forstå for almindelige mennesker. Der er i bogen enkelte slåfejl, og jeg har fundet enkelte link der ikke var aktive eller manglede, men alt i alt en rigtigt god ”første udgave”. Jeg forstiller mig at du retter småfejlene i takt med, at du bruger e-bogen i undervisningen. <br><br>
+>Generelt er e-bogen skrevet i et let læseligt sprog i modsætning til den forrige lærebog. Den forklarer juraen i et sprog der ikke er overkompliceret og let at forstå for almindeligew mennesker. Der er i bogen enkelte slåfejl, og jeg har fundet enkelte link der ikke var aktive eller manglede, men alt i alt en rigtigt god ”første udgave”. Jeg forstiller mig at du retter småfejlene i takt med, at du bruger e-bogen i undervisningen. <br><br>
 Personligt kunne jeg godt tænke mig flere eksempler på hvordan de ”vigtige” love bliver anvendt, opstillet i punktform, således at e-bogen bredere kan anvendes som opslagsvært i eksamensøjemed, men i kraft af at der er mulighed for at tage noter, kan den studerende lave sin egen punktliste. Ydermere mener jeg personligt at det ville lette forståelsen for den studerende med uddrag fra domme hvor denne kan se loven brugt, ligesom man kan på Karnov.<br><br>
 >Alt i alt en godt struktureret e-bog, hvor den studerende har rig mulighed for at dygtiggøre sig i erhvervsjura!<br><br>
 
