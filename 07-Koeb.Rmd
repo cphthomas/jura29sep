@@ -1608,7 +1608,7 @@ Vedrører imidlertid kun forholdet mellem parterne - ikke forholdet til tredjem�
 
 ---
 
-## Eksamensopgave 1
+## Eksamensopgave 1 Køb
 
 Eksamensopgave om forbrugerkøb, kreditsikring og inkasso
 
@@ -2283,7 +2283,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 
 ---
 
-## Quiz
+## Quiz Forbrugeraftaler
 
 
 **Quiz om forbrugeraftaler**

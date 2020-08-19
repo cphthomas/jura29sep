@@ -1325,7 +1325,7 @@ Mundtlige gaveløfter skal accepteres straks.
 
 ---
 
-## Eksamensopgave 1
+## Eksamensopgave 1 Insolvensret
 
 Om konkurs og virksomhedsformer mv.
 
@@ -1695,7 +1695,7 @@ De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bes
 
 --- 
 
-## Eksamensopgave 2
+## Eksamensopgave 2 Insolvensret
 
 Om forbrugerret, pant, handel med fast ejendom, modregning og rekonstruktion mv.
 
@@ -1798,7 +1798,7 @@ Eksamensspørgsmålet:
 
 ---
 
-## Eksamensopgave 3 
+## Eksamensopgave 3 Insolvensret
 
 Opgave 1: (50%)
 Tømrermester Bertil Jacobsen havde i efteråret 2018 ombygget Tina Jensens hus for kr. 610.000. Beløbet skulle betales ved afslutningen af arbejdet, men Tina Jensen kunne på det tidspunkt ikke låne pengene, hverken i banken eller i realkreditinstituttet. Den 1.2.2019 underskrev Tina Jensen et frivilligt forlig, hvoraf det fremgik, at beløbet forfaldt ved påkrav. Bertil Jacobsen rykkede flere gange for betaling, uden at Tina Jensen reagerede.
@@ -2031,7 +2031,7 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 ---
 
-## Eksamensopgave 4 
+## Eksamensopgave 4 Insolvensret
 
 Om kreditforfølgning, aftaler, fuldmagt og forbrugerkøb, mv.
 
@@ -2149,7 +2149,7 @@ Eksamensspørgsmål:
 
 ---
 
-## Eksamensopgave 5
+## Eksamensopgave 5 Insolvensret
 
 **Janett Apollo**
 
@@ -2234,7 +2234,7 @@ Alle svar skal være begrundede og indeholde mulige relevante § henvisninger.
 
 ---
 
-## Eksamensopgave 6
+## Eksamensopgave 6 Insolvensret
 
 **Joachim**
 
@@ -2299,7 +2299,7 @@ Hvilket formål sikrer reglerne om omstødelse i konkurs.
 
 ---
 
-## Eksamensopgave 7
+## Eksamensopgave 7 Insolvensret
 
 **Knudsen Properties v/Dennis Knudsen**
 
@@ -2408,7 +2408,7 @@ d)	Krav på 175.000 kr. fra kurator Anders Andersen fra arbejdet med både betal
 
 ---
 
-## Quiz
+## Quiz Insolvensret
 
 
 <h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
