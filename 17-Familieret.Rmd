@@ -1,8 +1,8 @@
 # Familieret
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 
@@ -1048,6 +1048,8 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ## Eksamensopgave 1
 
+**Bo og Jettes ægteskab**
+
 
 Om bodeling med vejledende løsning
 
@@ -1074,7 +1076,11 @@ Eksamensspørgsmålet:
 Lav en bodelingsopgørelse for Bo og Jette, hvis de skulle skilles nu og læg til grund, at Jette har købt tøjbutikken for 350.000 kr. og forsat den som personlig virksomhed med en tilhørende gæld på 400.000 kr. 
 
 
+---
 
+**Podcast om svaret på eksamensopgaven**
+
+---
 
 
 ```{r opgavebodel, echo=FALSE,fig.height=5}
@@ -1131,11 +1137,9 @@ mydf %>%
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
-
----
-
 ## Eksamensopgave 2
+
+**Anders og Pernille ægteskab**
 
 Anders og Pernille blev gift i 2014, da de begge var 29 år gamle. Anders var uddannet finansøkonom og arbejdede i et leasingselskab. Pernille var tidligere butiksassistent, men havde senere valgt at arbejde som frisør hos hendes veninde Lotte, der havde startet sin egen frisørsalon. 
 

@@ -1,8 +1,8 @@
 # Handel med fast ejendom
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 
@@ -1904,9 +1904,11 @@ Køberen kan klage over ejendomsmægleren til "Klagenævnet for ejendomsformidli
 
 ## Eksamensopgave 1
 
+**Kalle og Silles bolighandler**
+
 Om ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.
 
-Kalle og Silles bolighandler
+
 
 ![](img/hus8.jpg)
 
@@ -2111,35 +2113,65 @@ For en nærmere gennemgang om køberes finansiering af fast ejendom, se lærebog
 
 ## Eksamensopgave 2
 
-om handel med fast ejendom
+**”Jeg fik jobbet, mor!!”**
 
-”Jeg fik jobbet, mor!!”
+Om handel med fast ejendom
+
+
 
 Martin var i fremragende humør. Han havde netop fået besked om at han var blevet ansat som ejendomsmægler hos ”Udby Mæglerne ApS” med start den 1. februar, hvor hans opgaver hovedsagelig ville bestå af salg af huse til private.
 
-Den 1. februar mødte Martin op på sit nye arbejde og her blev han mødt af ejeren Egild. 
+Den 1. februar mødte Martin op på sit nye arbejde og her blev han mødt af ejeren Egild. Han bød Martin velkommen og de to blev enige om at Martin sådan set bare kunne gå i gang med arbejdet, da han jo kendte al teorien fra sin tid som Finansøkonomstuderende. 
 
-Han bød Martin velkommen og de to blev enige om at Martin sådan set bare kunne gå i gang med arbejdet, da han jo kendte al teorien fra sin tid som Finansøkonomstuderende. 
+Martins første opgave var et spørgsmål som Egild var kommet i tvivl om: Egild havde en ejendom beliggende Bygaden 1, Udby til salg for Søren for 1.995.000 kr. Den 28. januar havde Keld henvendt sig til Egild, da han gerne ville købe ejendommen til prisen. Egild skyndte sig at udarbejde en købsaftale, som Keld skrev under om aftenen den 28. januar. 
+Egild skyndte sig at sende købsaftalen til Søren, som skrev den under samme aften og afleverede den fysisk tilbage til Egild om morgenen den 29. januar. Egild tænkte at nu var aftalen i hus, men for god ordens skyld ville han lige sende den underskrevne købsaftale til Keld. Egild fik det dog ikke lige gjort, da hans morgenbacon var ved at brænde på. Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en mail fra Keld om at han fortrød købet og ikke ville have ejendommen alligevel.
 
-Martins første opgave var et spørgsmål som Egild var kommet i tvivl om: Egild havde en ejendom beliggende Bygaden 1, Udby til salg for Søren for 1.995.000 kr. 
+1.	Er der indgået en bindende aftale mellem Keld og Søren omkring købet af ejendommen?  (10%)
 
-Den 28. januar havde Keld henvendt sig til Egild, da han gerne ville købe ejendommen til prisen. 
 
-Egild skyndte sig at udarbejde en købsaftale, som Keld skrev under om aftenen den 28. januar. 
+2.	Hvilken forskel for besvarelsen i spørgsmål 1 ville det have haft, såfremt Egild havde sendt den underskrevne købsaftale tilbage til Keld inden Kelds mail om, at han ikke ville have ejendommen alligevel, kom frem til Eigild? (10%)
 
-Egild skyndte sig at sende købsaftalen til Søren, som skrev den under samme aften og afleverede den fysisk tilbage til Egild om morgenen den 29. januar. Egild tænkte at nu var aftalen i hus, men for god ordens skyld ville han lige sende den underskrevne købsaftale til Keld. 
+Martin´s første uger på arbejdet gik fint. Han fik mere og mere ansvar, og det lykkes ham efter ca. 3 uger at sælge sit første hus. Der var tale om et hus beliggende på adressen Sidegaden 1, Udby. Køber var Karsten Karstensen, mens sælger var Sigurd Sigurdsen. Martin havde hørt godt efter på studiet og havde derfor rådet Sigurd til at få udarbejdet tilstandsrapport, el-rapport, tilbud på ejerskifteforsikring samt tilbyde at betale halvdelen af ejerskifteforsikringen. Sigurd havde fulgt Martin´s råd. 
 
-Egild fik det dog ikke lige gjort, da hans morgenbacon var ved at brænde på. 
+Efter at Karsten havde overtaget huset opdagede han et antal mangler, som han ikke havde været opmærksom på før, men som måtte have været der da han overtog huset. Der var tale om:
 
-Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en mail fra Keld om, at han fortrød købet og ikke ville have ejendommen alligevel.
+-	En ikke umiddelbar synlig revne i taget, som gør at det ved meget kraftig regn drypper ned i stuen. Manglen var ikke nævnt i tilstandsrapporten. Sigurd havde ikke nævnt det, da han aldrig havde været opmærksom på problemet. 
 
----
+-	Et hul i kloakrøret ca. 5 meter fra huset, men fortsat inde på husets grund. Manglen var ikke nævnt i tilstandsrapporten. 
+-	En mindre sætningsskade ved væggen i stuen. Manglen var nævnt i tilstandsrapporten.
 
-EksamensSpørgsmålet:
+-	En revne i en termorude. Manglen stod ikke nævnt i tilstandsrapporten, da revnen først var opstået efter at rapporten var lavet, men inden Karsten skulle overtage huset.
 
-1. Er der indgået en bindende aftale mellem Keld og Søren omkring købet af ejendommen?  
+3.	Giv en begrundet redegørelse for hvem, om nogen, Karsten kan rette krav mod i anledning af udbedring af skaderne? (20%)
 
-2. I den forbindelse bedes der redegøres nærmere for advokatforbeholdet og undtagelserne for dækning på ejerskifteforsikringen.
+En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
+
+Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
+
+4.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? (25 %)
+
+En af Martins bekendte Birte arbejdede som privatrådgiver i den lokale bank ”Udby sparekasse”. Lars var en af hendes kunder, og ejede en ejendom beliggende Kirkegade 1 i Udby. Ejendommen var for nuværende alene behæftet med et realkreditpantebrev på kr. 1.000.000 med ”Dansk Realkreditselskab” som kreditor. Lars ønskede nu at låne 500.000 kr. i Birtes bank til brug for en større ombygning af ejendommen. Banken havde vurderet Lars som kreditværdig til lånet, og Lars havde givet udtryk for at han ville give banken sikkerhed for lånet i ejendommen, der var vurderet til 2.000.000 kr. På et af deres møder havde Lars fortalt han gerne ville have at pantebrevet også skulle kunne anvendes til sikkerhed for at mindre lån på 50.000 kr. som han havde tænkt sig at optage i nabobyens bank ”Indby bank”.
+
+5.	Hvilken form for pantebrev kan anvendes til sikring af bankens krav, hvis der tages hensyn til Lars´s ønsker? (10%)
+
+Lars ejede også naboejendommen beliggende Kirkegade 3 i Udby. I denne ejendom havde han været nød til at optage en del lån, da der havde været mange uforudsete renoveringsudgifter. Det drejede sig om:
+
+-	Den 1. marts havde Lars optaget et realkreditlån med en hovedstol på 1.100.000 kr. hos ”Dansk Realkreditselskab” med sikkerhed i ejendommen. Pantebrevet var blevet anmeldt til tinglysning den 6. marts
+
+-	Den 2. marts optog Lars et usikret forbrugslån i ”Udby sparekasse” på 100.000 kr. 
+
+-	Den 5. marts optog Lars et lån i ”Indby bank” med en hovedstol på 400.000 kr. med sikkerhed i ejendommen. Pantebrevet var blevet anmeldt til tinglysning samme dag. På et tidligere møde med banken havde Lars både fortalt at han ville optage et realkreditlån, og realkreditselskabet havde krævet at få 1. prioritet, samt at havde ville optage det usikrede forbrugslån i ”Udby sparekasse”.
+
+-	Den 10 marts foretog SKAT udlæg i ejendommen for 150.000 kr. Udlægget blev anmeldt til tinglysning den 15. marts. 
+
+-	Den 13. marts optog Lars et lån i ”Udby sparekasse” på 100.000 kr. med sikkerhed i ejendommen. Pantebrevet blev anmeldt til tinglysning samme dag. Den 14. marts gjorde SKAT ”Udby sparekasse” opmærksom på at de havde foretaget udlæg den 10. marts.
+
+Efterfølgende viste det sig desværre at Lars ikke kunne betale på sine lån, og ejendommen blev solgt på tvangsauktion.
+
+(Ved besvarelsen nedenfor skal det lægges til grund at lånenes hovedstol er identisk med restgælden)
+
+6.	Hvis der på tvangsauktionen opnås et provenu på 1.550.000 kr., hvilke kreditorer får så del i summen, i hvilken rækkefølge og med hvilket beløb? (25%)
+ 
 
 ---
 
@@ -2148,6 +2180,8 @@ EksamensSpørgsmålet:
 ---
 
 ## Eksamensopgave 3
+
+**Ejendomsmæglerne Anna og Oline**
 
 Opgave 1 (20 %)  
  

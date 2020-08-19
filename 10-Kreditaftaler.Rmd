@@ -1,8 +1,8 @@
 # Kreditaftaler
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 ---
 
@@ -1502,7 +1502,7 @@ Sælger kan:
 
 ## Eksamensopgave 1
 
-Kunst og kærlighed
+**Kunst og kærlighed**
 
 Lone Pind driver et mindre kunstgalleri i Nyborg. I begyndelsen af januar solgte hun et mindre men temmelig værdifuldt oliemaleri til en af galleriets tilbagevendende kunder, kunstsamleren Ole Høj. Som det var sket før, manglede han rede penge til købet, og de aftalte, at Lone fik sikkerhed for kreditten i form af et ejendomsforbehold.
 
@@ -1550,6 +1550,8 @@ Efter at have drøftet situationen med Christian bliver de dog enige om at behol
 
 ## Eksamensopgave 2
 
+**Børge Olsen**
+
 Opgave 1 (25 %) 
 
 Børge Olsen var Smart-tv-nørd, som hele tiden forsøgte at holde trit med udviklingen af Smart-tv fra SONY. 
@@ -1593,9 +1595,9 @@ Næste gang han forsøgte at bruge sit dankort var 2 dage senere, d. 13 april kl
 
 Da han skulle betale, blev han klar over, at han have mistet sin dankort. Han havde ikke nogen ide om, hvordan havde mistet det.   
 
-kl. 13.21 samme dag ringede Børge Olsen til Nets for at spærre kortet. Han fik i den forbindelse oplyst, at i perioden fra 12. april 2019 kl. 18.38 til 13. april 2019 kl. 11.39 14 var kortet blevet brugt 9 gange med et samlet beløb på i alt 30.122,02 kr.
+kl. 13.21 samme dag ringede Børge Olsen til Nets for at spærre kortet. Han fik i den forbindelse oplyst, at i perioden fra 12. april 2019 kl. 18.38 til 13. april 2019 kl. 11.39 var kortet blevet brugt 9 gange med et samlet beløb på i alt 30.122,02 kr.
 
-Ligeledes den 13 april var der i tidsrummet I tidsrummet fra kl. 10.57 til kl 11.39 blevet der foretaget yderligere 4 fire hævninger på tilsammen 9.355 kr. hvorefter Nets havde spærret kortet på grundlag af mistanke om misbrug
+Ligeledes den 13 april var der i tidsrummet fra kl. 10.57 til kl 11.39 blevet der foretaget yderligere 4 fire hævninger på tilsammen 9.355 kr. hvorefter Nets havde spærret kortet på grundlag af mistanke om misbrug
 
 Børge Olsen anmeldte sagen til politiet og gav samtidig Sydbank besked om, at han ikke kunne godkende nogen af de nævnte hævninger på hans konto.
 
@@ -1661,6 +1663,8 @@ Spørgsmål 4: Redegør med inddragelse af den relevante lovgivning for, hvor st
 ---
 
 ## Eksamensopgave 3
+
+**Bo Bjerrehus**
 
 Opgave 1 (25 %) 
 Bo Bjerrehus gjorde sig inden for antikviteter som var over 100 år gammel og størstedelen af hans virksomhed bestod i import fra udlandet. 

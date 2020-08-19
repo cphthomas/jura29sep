@@ -1,9 +1,9 @@
 
 # Fuldmagter og mellemmænd
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 <script async src="https://widget.spreaker.com/widgets.js"></script>
 
@@ -576,11 +576,9 @@ Eksamensopgave - jem og fix
 
 
 
-Kim er ansat i firmaet jem og fix i Odense. Han blev ansat som salgsassistent den 1. januar 2013. 
+Kim er ansat i firmaet jem og fix i Odense. Han blev ansat som salgsassistent den 1. januar 2019. 
 
 Han er meget dygtig og meget omhyggelig med sit arbejde og bliver efterhånden meget vellidt af kunderne - både de lokale håndværkere og de private kunder. 
-
-Den 1. januar 2014 bliver Kim forfremmet til butikschef for afdelingen i Odense.
 
 En af hans gamle klassekammerater Andreas er flyttet til Odense, hvor han har købt et helt nyt hus og skal til at etablere haven. 
 
@@ -598,9 +596,6 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 Eksamensspørgsmålet:
 
 1.	Er jem og fix bundet af de aftaler, som Kim har indgået med Andreas?
-
-
-2. Er jem og fix bundet af de aftaler som Kim har indgået med Andreas?
 
 
 ---

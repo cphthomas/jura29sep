@@ -1,8 +1,8 @@
 # Kautionsforhold
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 
@@ -1064,10 +1064,12 @@ Advokat Sonny Kristoffersen"
 
 ## Eksamensopgave 1
 
+**Prinsessefødselsdagen**
+
 Eksamensopgave om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.
 
 
-Prinsessefødselsdagen
+
 
 Peter Petersen er far til Fie som snart fylder 8 år, og han vil gerne invitere pigerne fra hendes klasse hjem til fødselsdag. 
 
@@ -1137,6 +1139,8 @@ Eksamensspørgsmålet:
 ---
 
 ## Eksamensopgave 2
+
+**Jens Peters landejendom**
 
 
 Jens Peter ejer og driver landejendommen ”Kjøvsager”, hvor han udover at dyrke jorden også producerer slagtesvin. 
@@ -1253,7 +1257,7 @@ Eksamensspørgsmålet:
 
 ## Eksamensopgave 3
 
-Travlhed i kreditafdelingen 
+**Travlhed i kreditafdelingen** 
 
 Du er ansat som trainee i kreditafdelingen i et lokalt pengeinstitut. Der er travlt i afdelingen og chefen har derfor bedt dig om at lave en indstilling til ham i et par sager.   
 

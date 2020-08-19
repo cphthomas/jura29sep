@@ -1,8 +1,8 @@
 # Insolvensret
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 *Dette her kapitel om insolvensreglerne anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med at kunderne og klienter skylder penge til jeres virksomhed. Derfor er det vigtigt som finansøkonom at bl.a. kende reglerne om inkassoprocessen, tvangsinddrivelse via fogedretten, tvangsauktion, samt konkursbehandling, rekonstruktion og gældssanering*
@@ -1791,6 +1791,10 @@ Eksamensspørgsmålet:
 
 8.	Hvilke overvejelser bør Vagn gøre sig i relation til rekonstruktionsforslaget? (15%)
 
+---
+
+**Podcast besvarelsen af eksamenssættet**
+
 
 ---
 
@@ -2141,7 +2145,13 @@ Eksamensspørgsmål:
 
 ---
 
+**Podcast gennemgang af eksamensopgaven**
+
+---
+
 ## Eksamensopgave 5
+
+**Janett Apollo**
 
 Janett Apollo havde fornylig medvirket i realityserien Ultimativ Personlighedsdesign. 
 
@@ -2226,6 +2236,8 @@ Alle svar skal være begrundede og indeholde mulige relevante § henvisninger.
 
 ## Eksamensopgave 6
 
+**Joachim**
+
 Efter at have bestået sin finansøkonomeksamen er Joachim blevet ansat som trainee hos ejendomsmæglerfirmaet Livsstilsejendomme ApS – firmaet der sælger livsstilsejendomme til og for ”de kræsne købere”. 
 
 For at kunne komme rundt til møder, fremvisninger og vurderinger er det dog nødvendigt, at han har sin egen bil – og gerne af en vis standard. 
@@ -2288,6 +2300,8 @@ Hvilket formål sikrer reglerne om omstødelse i konkurs.
 ---
 
 ## Eksamensopgave 7
+
+**Knudsen Properties v/Dennis Knudsen**
 
 Indledning
 

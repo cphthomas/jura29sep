@@ -1,8 +1,8 @@
 # Erstatningsreglerne og den forsikringsmæssige afdækning
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 ---
@@ -1246,7 +1246,7 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 ---
 
-## Eksamensopgave - Med rettevejledning
+## Eksamensopgave 1
 
 Ejendomsmæglerens støvler
 
@@ -1259,7 +1259,7 @@ Desværre havde han fået købt dem i en lidt for lille størrelse, men havde va
 
 Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. 
 
-Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. 
+Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gangen. Spejlet falder ned og smadrer mod gulvet. 
 
 Ude i køkkenet står Pernille og er ved at lave kaffe. 
 
@@ -1269,40 +1269,19 @@ Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun 
 
 Eksamensspørgsmålet:
 
-1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? (25 %)
+1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? 
 
-Vejledende løsning:
+**Podcast om svaret på eksamensopgaven**
 
-Lovgrundlag: Lov om erstatningsansvar
-
-Område: Erstatningsansvar, Principalansvar
-
-Læringsmål: Du skal som studerende anvende og kunne vurdere de grundlæggende erstatningsbetingelser ved erstatning udenfor kontrakt, for derigennem at kunne vurdere reglerne for rådgivnings- og professionsansvar indenfor den finansielle sektor (God skik bekendtgørelsen og lov om formidling af fast ejendom § 24) samt reglerne om principalansvar, jf. DL (Danske Lov fra 1683) 3-19-2.
-
-Spørgsmålet kan løses med forskellige systematikker. 
-
-Besvarelsen bør dog gøre opmærksom på at erstatning i alle tilfælde kræver at de 4 grundbetingelser er opfyldt.
-
-Der kan først ses på om Pernille har lidt et økonomisk tab. Dette må antages for både spejlet og ”Guffe”. 
-
-Der er ligeledes kausalitet i forbindelse med begge skader. 
-
-Det kan dog formodentlig ikke antages at der er adækvans i relation til skaden på ”Guffe”. 
-
-Det er næppe påregneligt for Lars at hans kamp med at tage støvlerne af vil lede til en begivenhedsrække, der slutter med at Pernille hælder varm kaffe ned over sin hund. 
-
-Pernille kan derfor nok ikke få erstatning for tabet af ”Guffe”.
 
 ---
 
-## Eksamensopgave 1 
+## Eksamensopgave 2 
 
 
 Murermester Madsen
 
 ![](img/murermester.jpg)
-
-(fiktiv)
 
 Madsen, der er murer, står sammen med sin ansat, murerlærling Anton oppe på et stillads. De er ved at lave reparationer på Knudsens hus’ ydermurer.
  
@@ -1338,7 +1317,7 @@ Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han vill
 
 Anton følte sig presset og skrev under.   
 
-Eksamensspørgsmålene:
+Eksamensspørgsmålene, der skal tages stillin til:
 
 1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? 
     
@@ -1355,7 +1334,7 @@ Eksamensspørgsmålene:
 
 ---
 
-## Eksamensopgave 2 
+## Eksamensopgave 3 
 
 
 

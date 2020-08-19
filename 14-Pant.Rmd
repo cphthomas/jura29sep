@@ -1,8 +1,8 @@
 # Pant i fast ejendom, løsøre og virksomhedspant
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 
 
@@ -1128,9 +1128,11 @@ Er der tvivl om, hvorvidt genstande er omfattet af TL § 37 (eller TL § 38), ka
 
 ## Eksamensopgave 1
 
+**"Fine biler og dyre vaner"**
+
 Eksamensopgavesæt om pant i fast ejendom, virksomhedspant, pantets omfang, konkurs, omstødelse, tvangsfuldbyrdelse og rekonstruktion mv.
 
-"Fine biler og dyre vaner"
+
 
 Super Cars I/S beskæftigede sig med salg af nye og brugte, eksklusive specialbiler som Porsche, Ferrari, Maseratti, Jaguar. 
 
@@ -1479,9 +1481,11 @@ mydf %>%
 
 ## Eksamensopgave 2
 
+**"Musik med problemer"**
+
 Om pant i fast ejendom og løsøre, samt erstatning, kaution, erstatningsbetingelserne og huseftersynsordningen, mv.
 
-"Musik med problemer"
+
 
 ![](img/musik.jpg)
 
@@ -1628,10 +1632,12 @@ TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller t
 
 ## Eksamensopgave 3
 
+
+**"Tæppehandleren fra Sorø"**
+
 Om køb, erstatning, god skik for finansielle virksomheder,forsikringsret, erstatningsansvarsloven, konkursret, pant og ejendomsforbehold 
 
 
-"Tæppehandleren fra Sorø"
 
 ---
 
@@ -1734,7 +1740,7 @@ Eksamensspørgsmålet:
 
 ## Eksamensopgave 4
 
-"Møbler med prioritet"
+**"Møbler med prioritet"**
 
 Falk Møbler har ansat en ny indkøbsassistent, Lone Kaas, der efter indledende forhandlinger, den 1. oktober 2015, modtog en e-mail med et tilbud fra firmaet Lifetools key account manager, Henrik Lods, om et parti have og udemøbler til DKK 500.000, hvoraf de DKK 300.000 skulle erlægges kontant. 
 
@@ -1796,6 +1802,8 @@ Rekonstruktøren anslog de stadig næsten nye møblers værdi til at være DKK 8
 
 ## Eksamensopgave 5
 
+**Smykkefirmafirmaet Frandsen A/S**
+
 Opgave 1 
 
 Peter Frandsen er eneejer af smykkefirmafirmaet Frandsen A/S, som er beliggende i en tidligere landejendom nord for Aarhus.
@@ -1852,7 +1860,7 @@ Eksamensspørgsmål 4. Kan Peter, og i givet fald efter hvilke regler, kræve er
 
 ## Eksamensopgave 6
 
-"Økologi og kassevogn" 
+**"Økologi og kassevogn"** 
 
 Kaj Vang, som driver det økologiske gartneri/planteskole Tusindfryd i Svogerslev, vest for Roskilde, står overfor en spændende udvikling. Harald Toft, der ejer en af Tusindfryds konkurrenter, Vindinge Planteskole, SØ for Roskilde vil gå på pension, men har ikke været i stand til at finde en køber til virksomheden. Herefter er man blevet enige om, i første omgang, at udleje planteskolen til Kaj fra 1. januar 2013. 
 
@@ -1891,7 +1899,7 @@ Kassevognen er købt kontant, men blev d. 28. august, pantsat og tinglyst til si
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+**Podcast svaret på eksamensopgaven**
 
 
 ---
