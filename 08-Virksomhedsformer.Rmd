@@ -1,8 +1,8 @@
 # Virksomhedsformer og hæftelser
 
-```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
-```
+<!-- ```{r, echo=FALSE, results='asis'} -->
+<!-- cat(readLines('np.html')) -->
+<!-- ``` -->
 
 *De forskellige virksomhedsformer og deres hæftelse har stor betydning i dagligdagen for en finansøkonomen, som er ansat i et pengeinstitut/realkredit, forsikring,	ejendomshandel,	ejendomsadministration	økonomistyring og	revision, når finansøkonomen på vegne af den finansielle virksomhed indgår aftaler og kontrakter med kunder og klienter*
 
