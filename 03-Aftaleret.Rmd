@@ -5,6 +5,8 @@
 <!-- ``` -->
 
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
 Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lovsamlingen klik her!</a>**
 
@@ -755,7 +757,7 @@ Eksamensspørgsmålene
 
 ---
 
-**Podcast svar på eksamensopgave 1**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409436" data-resource="episode_id=40409436" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 3.1. Borde og Stole AS" on Spreaker.</a>
 
 ---
 
@@ -823,7 +825,7 @@ Få uger senere erklæres Otterup Hundekennel imidlertid konkurs, og Lars glæde
 
 ---
 
-**Podcast svar på eksamensopgave 2**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409441" data-resource="episode_id=40409441" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 3.2. Hundekiks og tudekiks" on Spreaker.</a>
 
 ---
 

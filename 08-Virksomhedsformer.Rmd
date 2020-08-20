@@ -4,6 +4,8 @@
 <!-- cat(readLines('np.html')) -->
 <!-- ``` -->
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
 *De forskellige virksomhedsformer og deres hæftelse har stor betydning i dagligdagen for en finansøkonomen, som er ansat i et pengeinstitut/realkredit, forsikring,	ejendomshandel,	ejendomsadministration	økonomistyring og	revision, når finansøkonomen på vegne af den finansielle virksomhed indgår aftaler og kontrakter med kunder og klienter*
 
 ---
@@ -527,7 +529,7 @@ Eksamensspørgsmålet:
 
 
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409444" data-resource="episode_id=40409444" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Poscast til eksamensopgave 8.1. Ivar Justesen" on Spreaker.</a>
 
 ---
 

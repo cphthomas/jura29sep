@@ -4,6 +4,7 @@
 <!-- cat(readLines('np.html')) -->
 <!-- ``` -->
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 ---
 
@@ -1271,7 +1272,7 @@ Eksamensspørgsmålet:
 
 1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? 
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409440" data-resource="episode_id=40409440" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Poscast til eksamensopgave 6.1. Ejendomsmæglerens støvler" on Spreaker.</a>
 
 
 ---
@@ -1330,7 +1331,7 @@ Eksamensspørgsmålene, der skal tages stillin til:
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409445" data-resource="episode_id=40409445" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 6.2. Murermester Madsen" on Spreaker.</a>
 
 ---
 
@@ -1385,7 +1386,7 @@ Eksamensspørgsmålene:
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409439" data-resource="episode_id=40409439" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 6.3. Randers Boldklub" on Spreaker.</a>
 
 ---
 

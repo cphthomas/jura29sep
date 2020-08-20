@@ -4,6 +4,8 @@
 <!-- cat(readLines('np.html')) -->
 <!-- ``` -->
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
 ---
 
 *Aftaler om kreditter anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med jeres virksomheds indgåelse af kreditaftaler og kreditkøbsaftaler med kunder og klienter. Hvis du laver aftaler om kredit, skal du være opmærksom på de regler, der gælder for området. Kreditkøb er, når du aftaler med en køber, at vedkommende ikke behøver at betale kontant, men kan betale en del af eller hele prisen for den vare, han/hun har købt, på et senere tidspunkt.*
@@ -1544,7 +1546,7 @@ Efter at have drøftet situationen med Christian bliver de dog enige om at behol
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417767" data-resource="episode_id=40417767" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Poscast til eksamensopgave 10.1. Kunst og kærlighed" on Spreaker.</a>
 
 ---
 
@@ -1656,9 +1658,7 @@ Der var ikke stillet sikkerhed for nogen af de nævnte gældsposter
 
 Spørgsmål 4: Redegør med inddragelse af den relevante lovgivning for, hvor stor en dividende Kurt Petersen kan forvente at modtage fra konkursboet.
 
----
 
-**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1791,9 +1791,7 @@ Ad. 5)	?
 
 Ad. 6)	?
  
----
 
-**Podcast om svaret på eksamensopgaven**
 
 ---
 

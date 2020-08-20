@@ -5,6 +5,7 @@
 <!-- ``` -->
 
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 
 
@@ -1134,7 +1135,7 @@ Eksamensspørgsmålet:
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417773" data-resource="episode_id=40417773" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Poscast til eksamensopgave 11.1. Prinsessefødselsdagen" on Spreaker.</a>
 
 ---
 
@@ -1249,9 +1250,7 @@ Eksamensspørgsmålet:
 
 7. Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
 
----
 
-**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1299,9 +1298,7 @@ Spørgsmål:
 
 5.	Hvad er retsvirkningen af en ugyldig aftale? (10%) 
 
----
 
-**Podcast om svaret på eksamensopgaven**
 
 ---
 
