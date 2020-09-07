@@ -1546,7 +1546,7 @@ Efter at have drøftet situationen med Christian bliver de dog enige om at behol
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40417767" data-resource="episode_id=40417767" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Poscast til eksamensopgave 10.1. Kunst og kærlighed" on Spreaker.</a>
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417767" data-resource="episode_id=40417767" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast til eksamensopgave 10.1. Kunst og kærlighed" on Spreaker.</a>
 
 ---
 
