@@ -18,16 +18,16 @@ favicon: "favicon.ico"
 
 
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('fp.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('fp.html'))
+```
 
 
 <!-- --- -->
 
 
 
-<!-- <h4><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h4> -->
+<h4><a href="https://vimeo.com/354519447" target="_blank">Video sådan køber du adgang til onlinebøger på www.tepedu.dk.</a></h4>
 
 
 
@@ -36,7 +36,7 @@ favicon: "favicon.ico"
 
 
 
-<!-- <h4><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h4> -->
+<h4><a href="https://vimeo.com/354519512" target="_blank">Video sådan afmelder du dit abonnement på www.tepedu.dk.</a></h4>
 
 
 
