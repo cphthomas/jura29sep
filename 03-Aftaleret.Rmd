@@ -5,8 +5,6 @@ cat(readLines('np.html'))
 ```
 
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
-
 Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lovsamlingen klik her!</a>**
 
@@ -703,7 +701,7 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-## Eksamensopgave 1. Aftaleret
+## Eksamensopgave 1.
 
 Bord og stol A/S
 
@@ -757,11 +755,11 @@ Eksamensspørgsmålene
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409436" data-resource="episode_id=40409436" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 3.1. Borde og Stole AS" on Spreaker.</a>
+**Podcast svar på eksamensopgave 1**
 
 ---
 
-## Eksamensopgave 2 Aftaleret
+## Eksamensopgave 2
 
 Hundekiks og tudekiks
 
@@ -825,7 +823,7 @@ Få uger senere erklæres Otterup Hundekennel imidlertid konkurs, og Lars glæde
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409441" data-resource="episode_id=40409441" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 3.2. Hundekiks og tudekiks" on Spreaker.</a>
+**Podcast svar på eksamensopgave 2**
 
 ---
 
@@ -2145,7 +2143,7 @@ Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
 
 ---
 
-Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1 til 2 gange forbedringstiden for tilbuddet med tillæg af en rimelig betænkningstid.
+Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1 til 2 gange befordringstiden for tilbuddet med tillæg af en rimelig betænkningstid.
 
 ---
 
@@ -2259,7 +2257,7 @@ Forbrugeraftaler fortolkes til fordel for forbrugeren – jf. aftalelovens § 38
 
 ---
 
-## Quiz Aftaleret
+## Quiz
 
 <h3><a href="https://quiz.tepedu.dk/jura4" target="_blank">Quiz aftaleret   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

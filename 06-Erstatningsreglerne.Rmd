@@ -1,20 +1,17 @@
-# Erstatningsreglerne og den forsikringsmæssige afdækning
+# Erstatnings- og forsikringsreglerne
 
 ```{r, echo=FALSE, results='asis'}
 cat(readLines('np.html'))
 ```
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 ---
 
-*Erstatningsreglerne anvendes i og uden for kontrakt i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med økonomisk tab, skader og mangler ved rådgivningen mv. overfor kunder og klienter. kapitlet gennemgår ulovbestemte betingelserne for erstatningsansvar uden for kontrakt, samt erstatning i kontrakt.*
+*Erstatningsreglerne anvendes i og uden for kontrakt i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med økonomisk tab, skader og mangler ved rådgivningen mv. overfor kunder og klienter. kapitlet gennemgår ulovbestemte betingelserne for erstatningsansvar uden for kontrakt, samt erstatning i kontrakt. Forsikringsreglerne anvendes til at dække erstatningsansvaret, hvor det er muligt. Den finansielle virksomhed skal ligeledes være meget opmærksom på god skik reglerne for finansielle virksomheder, samt hvidvask- og databeskyttelsesreglerne.*
 
 ---
 
 *Indledningsvis skal du som studerende være særlig opmærksom på følgende i forbindelse med gennemgangen af erstatningsansvaret og den forsikringsmæssige dækning i forhold til eksamen i Erhvervs- og Finansjura:*
-
-![](img/erstat.jpg)
 
 •	*Grundlæggende erstatningsbetingelser; ansvarsgrundlag, årsagsforbindelse, påregnelighed, økonomisk tab og værnet interesse*.
 
@@ -243,7 +240,7 @@ Se dommen i **Ø.L.D. af 12. maj 2005. Sag: 20. afd., a.s. nr. B-2581-04:** Vær
 
 ---     
 
-## Den almindelige fornuftige person
+**Den almindelige fornuftige person**
 
 ![](img/fornuf.jpg)
 
@@ -282,7 +279,7 @@ Se dommen i **FED 2007.111:** Forsikringstager havde ikke dokumenteret, at der v
 ---     
 
 
-## Ansvar for ikke at gøre noget
+**Ansvar for ikke at gøre noget**
 
 Det er ikke kun handlinger, man kan blive erstatningsansvarlig for. 
 
@@ -296,7 +293,7 @@ Eksempler er husejeren, der ikke gruser et isglat fortov, eller forældre, der i
 
 ---
 
-## Ansvar for psykiske personskader
+**Ansvar for psykiske personskader**
 
 ![](img/psykisk.jpg)
 
@@ -305,8 +302,6 @@ Udover at der kan tilkendes erstatningsansvar ved tingsskader, samt fysiske pers
 ---
 
 Se her nævnte domme:  
-
-<img src="img/meeting.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Se dommen i **U 2012.524 H:** A blev sygemeldt efter et begivenhedsforløb på en personaleweekend og rejste krav om godtgørelse for svie og smerte mod kommunen K som arbejdsgiver. 
 **<a href="https://pro.karnovgroup.dk/document/7000506494/1" target="_blank">Dommen klik her!</a>**
@@ -1247,7 +1242,7 @@ Erstatningen bliver fordoblet, hvis afdøde var eneforsørger.
 
 ---
 
-## Eksamensopgave 1 Erstatningsreglerne
+## Eksamensopgave 1
 
 Ejendomsmæglerens støvler
 
@@ -1272,12 +1267,12 @@ Eksamensspørgsmålet:
 
 1.	Er nogen, og i givet fald hvem, erstatningspligtig over for Pernille for tabet af ”Guffe” og det smadrede spejl? 
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409440" data-resource="episode_id=40409440" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast til eksamensopgave 6.1. Ejendomsmæglerens støvler" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 
 ---
 
-## Eksamensopgave 2 Erstatningsreglerne
+## Eksamensopgave 2 
 
 
 Murermester Madsen
@@ -1331,11 +1326,11 @@ Eksamensspørgsmålene, der skal tages stillin til:
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409445" data-resource="episode_id=40409445" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 6.2. Murermester Madsen" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-## Eksamensopgave 3 Erstatningsreglerne
+## Eksamensopgave 3 
 
 
 
@@ -1386,11 +1381,11 @@ Eksamensspørgsmålene:
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409439" data-resource="episode_id=40409439" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 6.3. Randers Boldklub" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-## Introduktion til forsikringsretten
+## Forsikringsreglerne
 
 For en mere væsentlig uddybning af forsikringsretten for de studerende, som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitzels Forlag: Introduktion til forsikringsreglerne:
 
@@ -1423,7 +1418,7 @@ Forsikringer og pensioner er især reguleret i:
 ---
 
 
-## Indgåelse af en forsikringsaftale
+**Indgåelse af en forsikringsaftale**
 
 Forsikringsaftalen omfatter enhver aftale, som indgås mellem på den ene side en forsikringsgiver (forsikringsselskabet) og på den anden side forsikringstageren.^[Følgende afsnit bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag, jf. **<a href="https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" target="_blank">klik her!</a>**, samt materialer og afgørelser fra Ankenævnet for Forsikring og informationer fra Forsikringsoplysningen og domme fra UfR og FED udgivet af KarnovGroup.] 
 
@@ -1433,7 +1428,7 @@ En forsikringsaftale kan således defineres som en aftale, hvor forsikringsselsk
 
 ---
 
-## Forsikringstagerens oplysningspligt til forsikringsselskabet
+**Forsikringstagerens oplysningspligt til forsikringsselskabet**
 
 Det kan ikke antages, at den, der tegner forsikring, har en egentlig oplysningspligt, medmindre det må antages, at oplysningen vedrører forhold som forsikrede må vide har betydning for risikobedømmelsen, jf. FAL § 7. 
 
@@ -1498,7 +1493,7 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 ---
 
 
-## Bevisbyrderegler 
+**Bevisbyrderegler** 
 
 Forsikringsselskabet har bevisbyrden for, at en forsikringsaftale ikke er en forbrugerforsikring. 
 
@@ -1554,7 +1549,7 @@ Ofte er forsikringstager og forsikrede samme person.
 
 ---
 
-## Har man pligt til at tegne forsikring? 
+Har man pligt til at tegne forsikring? 
 
 
 Der er en lovbestemt pligt til at tegne forsikringer inden for en række retsområder. 
@@ -1568,16 +1563,17 @@ Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, jagtlo
 Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 
 Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. 
+
 **<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Video om alle kan få almindelige forsikringer</a></h4>
+**<h4><a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Video om alle kan få almindelige forsikringer</a></h4>**
 
 ---
 
 
-## Hvordan man ansøger om en forsikring?
+**Hvordan man ansøger om en forsikring?**
 
 Det sker via et skema kaldet en „forsikringsbegæring“, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. 
 
@@ -1621,9 +1617,526 @@ Begrundelsen i FAL § 3b skal indeholde en henvisning til de relevante retsregle
 
 Begrundelsen skal efter anmodning være skriftlig. 
 
+
+## Skades-, pensions- og livsforsikringer
+
+
+**Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden**. 
+
+**Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden**.
+
 ---
 
-## Løsningsmodeller ved eksamensopgaver for erstatning uden for kontrakt 
+**<h4><a href="https://www.youtube.com/embed/jhoZCUQd-n8" target=" _blank">Video: Forstå forsikring på 3 min Klik her!</a></h4>**
+
+---
+
+Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler, se Lovsamlingen.
+
+**<h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>**
+
+Efter forsikringsaftalelovens (forkortet; FAL) § 35 kan enhver lovlig interesse, der lader sig ansætte i penge, være genstand for skadesforsikring.
+
+Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
+
+---
+
+**Kontraheringspligt ved skadesforsikringer?**
+
+Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller forsikringsselskabets pligt til at tegne en bestemt forsikring.
+
+Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring fx en ansvarsforsikring på bil og hund.
+
+Efter færdselslovens § 105, stk. 1, skal der fx tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. 
+Se nærmere Lovsamlingen: **<h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>**
+
+---
+
+Det kan også nævnes, at der fx skal tegnes ansvarsforsikring for luftfartøjer, jf. luftfartslovens § 130, stk. 1, ligesom **statsautoriserede og registrerede revisorer, ejendomsformidlere og forsikringsmæglere har pligt til at tegne ansvarsforsikring**. 
+
+Se fx Bekendtgørelse 2015-12-09 nr. 1537 om garantistillelse og ansvarsforsikring for ejendomsmæglere, ejendomsformidlingsvirksomheder m.v. jf. § 4, stk. 1:
+
+"Enhver ejendomsmægler har pligt til gennem en erklæring fra et forsikringsselskab, jf. dog § 8, at dokumentere, at vedkommende person som ejendomsmægler er dækket af en ansvarsforsikring, og at forsikringsselskabet hæfter direkte over for formueskade påført en forbruger ved enhver form for uagtsom handling eller undladelse, der skyldes ejendomsmægleren eller ejendomsmæglerens personale og for krav omfattet af lovens § 47. 
+
+Forsikringssummen skal andrage mindst 3 millioner kroner pr. forsikringsår. Det skal fremgå af erklæringen, at forsikringsselskabet hæfter over for den skadelidte tredjemand for en af ejendomsmægleren påtaget selvrisiko".
+
+---
+
+Pligt til at tegne forsikring kan endvidere være pålagt medlemmerne af en forening mv. For eksempel skal advokater efter vedtægterne for Det Danske Advokatsamfund tegne en ansvarsforsikring, og efter retsplejelovens § 143 har en advokat pligt til at være medlem af Advokatsamfundet.
+
+Det kan også i en aftale være bestemt, at en af parterne skal tegne en forsikring, fx at sælgeren af en vare skal tegne forsikring for varen, indtil den når frem til bestemmelsesstedet. 
+
+Nævnes kan også pantebrevsformular A og B vedrørende pantsætning af fast ejendom, hvorefter den pantsatte ejendom skal være behørigt brandforsikret.
+
+---
+
+Om *"brandforsikring"*, jf. forsikringsaftalelovens § 79.
+
+Brandforsikring dækker den ved ildsvåde forårsagede skade på en af forsikringen omfattet genstand, selv om denne ikke kommer i brand. 
+
+"Ildsvåde"	er et gammelt ord for brand.
+
+Skade, forårsaget ved ild, der ikke kan betegnes som ildsvåde, omfattes ikke af forsikringen.
+
+Der skal foreligge en flammedannelse, der er sluppet løs.
+
+Ildebrand forudsætter således en flammedannelse; skader på halmfyr, som skyldtes en glødebrand, er derfor ikke omfattet. 
+
+Svideskader dækkes heller ikke.
+
+Omkring "lynnedslag", jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svarer selskabet også for skade, som forvoldes ved lynnedslag, selv om der ikke derved opstår brand, på samme måde som for brandskade.
+
+---
+
+***Studenteropgave***
+
+Find 4 afgørelser fra Ankeknævnet for forsikring (Forsikringsankenævnet) om brandforsikring, hvor ankenævnet giver afslag på forsikringssummen, eller at ankenævnet giver klageren medhold på udbetaling af forsikringssummen ved en brand.
+
+
+**<a href="http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%22%3A%5B%7B%22d%22%3A%221%22%2C%22p%22%3A%22AnkeforsikringClosedDate%22%7D%5D%7D" target="_blank">klik her!</a>**
+
+---
+
+
+**Forskellen på skadesforsikring vs. livsforsikring:**
+
+
+Ordet skadeforsikring - dækker over forsikring af skader på ejendele eller personer.
+
+Det dækker over traditionelle forsikringer, som fx:
+
+**Bilforsikring**
+
+**Familie- og Indboforsikring, herunder rejseforsikring**
+
+**Husforsikring**
+
+**Bygningsforsikring**
+
+**Ejerskifteforsikring**
+
+---
+
+Derudover dækker ordet skadesforsikring også over **sundheds- og ulykkesforsikringer** hvor man kan komme til at gøre skade på sig selv eller andre (**ansvarsforsikringer**, som typisk er en del af familie- og indboforsikringen).
+
+---
+
+**Ulykkesforsikring**
+
+En ulykkesforsikring dækker, hvis man fx kører galt, falder ned ad trappen eller styrter på cyklen og får varige mén eller dør. 
+
+Ulykkesforsikringen dækker kort sagt ved pludselige hændelser, der forårsager en personskade.
+
+---
+
+*Udbetaling:*
+
+En ulykkesforsikring er en forsikring, hvor man får erstatning, hvis man skulle få et varigt mén. 
+
+Forsikringen dækker typisk, hvis man får mén på mere end 5 % efter den pludselige hændelse.
+
+Her kan man se en oversigt over procentsatser for forskellige mén.
+**<a href="https://aes.dk/da/Selvbetjening/Mentabel.aspx" target="_blank">klik her!</a>**
+
+---
+
+Man kan også få erstatning for skader efter forvridninger og forstrækninger.
+
+Ikke kun på arme og ben, men også forvridninger i resten af kroppen, fx ryg og nakke. 
+
+Forsikringen kan dække udgifter til lægeordinerede behandlinger hos fysioterapeut, kiropraktor eller tandlæge med op til et vist beløb om året.
+
+Nogle selskaber udbetaler et beløb pr. dag ved indlæggelse på et hospital i mere end tre dage, som følge af en ulykke. 
+
+---
+
+*Årsagssammenhæng*
+
+For at opnå dækning er det et krav, at der er årsagssammenhæng mellem ulykkestilfældet og skaden. 
+
+Ved vurderingen lægger selskaberne blandt andet vægt på, om ulykkestilfældet er egnet til at forårsage personskaden. 
+
+Det vil sige, om ulykkestilfældet i sig selv er nok til at forårsage/forklare skaden. 
+
+Er dette ikke tilfældet, vil ulykkesforsikringen i de fleste tilfælde ikke dække. Fx er der ikke årsagssammenhæng, hvis skaden skyldes, at man er syg eller har overbelastet eller nedslidt sin krop, uden at det er sket pludseligt.
+
+---
+
+*Erstatning ved invaliditet eller dødsfalddækning*
+
+En ulykkesforsikring vil ofte indeholde en udbetaling i tilfælde af 100 % invaliditet eller død, beløbet udbetales som et engangsbeløb. 
+
+---
+
+*Børneulykkesforsikring*
+
+Det er muligt at tegne en børneulykkesforsikring der dækker dine børn indtil de er fyldt 18 år, se nærmere nedenfor om behovet for at forældrene tegner en sådan forsikring.
+
+---
+
+*Dobbelterstatning*
+
+Flere selskaber giver mulighed for at tegne en dobbelterstatning, hvilket betyder, at man får udbetalt det dobbelte beløb ved en mén-grad på 30 % eller mere. 
+
+Det vil sige, at hvis man mister en hånd og således bliver 30 % invalid efter Arbejdsmarkedets Erhvervssikringens méntabel, se link ovenfor, så udbetaler forsikringsselskabet 60 % af summen, man har forsikret sig for.
+
+Har du således forsikret dig for 1. mio. kr., så ville du under normale omstændigheder modtage 300.000 kr. ved at miste en hånd, mens du modtager det dobbelte beløb 600.000 kr., såfremt du har tegnet en dobbelterstatning.
+
+---
+
+*Fuld erstatning ved øje eller øre*
+
+En lignende udvidet dækning kan også tegnes inden for andre områder fx øje og øre.
+
+Eksempel: Hvis man i forvejen er døv på det ene øre og man bliver døv på ens raske øre, og man har forsikret sig for 1. mio. kr., så vil man under normale omstændigheder modtage 100.000 kr., da det svarer til 10 % invaliditet iflg. Arbejdsmarkedets Erhvervssikringens méntabel. Hvis man derimod har tegnet en udvidet dækning kan man modtage helt op til 75 % i dækning for ens øre, hvilket betyder, at man vil modtage op til 750.000 kr.
+
+Er man i forvejen blind eller har nedsat syn på ens ene øje, og man bliver blind på det andet raske øje, vil udbetalingen blive sat til 100 % i dækning.
+
+---
+
+
+*Fritid eller arbejdstid*
+
+Man skal være opmærksom på om man kun vil dækkes i din fritid, eller om ens ulykkesforsikring skal gælde hele døgnet. Priserne er forskellige alt efter, hvad man arbejder med.
+
+---
+
+*Medicin, hjælpemidler og transport*
+
+En ulykkesforsikring dækker ikke ens omkostninger til medicin, hjælpemidler og transport. Disse udgifter må man selv betale.
+
+---
+
+*Sygdom*
+
+Ulykkesforsikringen dækker ikke en ulykke, som skyldes en sygdom. Dette gælder også, hvis det er smitte fra Fx madforgiftning eller overfølsomhedsreaktioner.
+
+---
+
+*Beruselse, påvirket, grov uagtsomhed mm.*
+
+Ulykkesforsikringen dækker ikke, hvis man er påvirket af alkohol eller andre stoffer med mindre, det kan bevises, at det intet havde med ulykken at gøre. Forsikringen gælder heller ikke, hvis man har handlet groft uagtsomt.
+
+---
+
+*Fødsel eller overbelastning af kroppen*
+
+En ulykkesforsikring dækker ikke ved fødsel eller skader, som er opstået, fordi man overbelaster din krop. Det samme er tilfældet, hvis man får forkert medicinsk behandling.
+
+---
+
+*Farlig sport - Udvidet dækning:*
+
+Ulykkesforsikringen vil ikke dække, hvis man jævnligt dyrker ekstremsport eller farlig sport som fx boksning, motorløb mm. Det samme er tilfældet, hvis man dyrker en sport professionelt. I sådan et tilfælde skal man tegne en udvidet dækning. Undtagelsen er hvis det er et enkeltstående tilfælde som fx en polterabend, firmafest og lignende.
+
+---
+
+*Når man bliver ældre*
+
+Der kan være forskellige betingelser når du bliver ældre fx omkring 60-70 års alderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
+
+---
+
+*Motorcykel, scooter og 45-knallert*
+
+Der kan være forskellige betingelser når man bliver ældre fx omkring 60-70 års alderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
+
+---
+
+Forældre skal tegne en *"børneulykkesforsikring"* på sine børn i vuggestuen, børnehaven eller folkeskolen, da disse steder ikke længere dækkes af kommunen.
+
+Mange forældre tror fejlagtigt at deres børn automatisk er forsikrede på forældrenes ulykkesforsikring, nøjagtigt som det gør sig gældende på indboforsikring og ansvarsforsikring. 
+
+Man skal derfor huske at gør sit forsikringsselskab opmærksom på, at man har fået børn.
+
+De fleste forsikringsselskaber tilbyder at dække dine børn kvit og frit på ens ulykkesforsikring i de første 2-3 år af barnets liv. 
+
+Ofte dækker selskaberne dog kun, hvis man husker at få barnet skrevet på ens ulykkesforsikring. 
+
+Det er altså altafgørende at man kontakter sit forsikringsselskab kort efter at barnet er født og får det skrevet på ens ulykkesforsikring – ellers er barnet ikke dækket. Og der sker faktisk desværre uheld med selv helt små børn der kan give børnene varige mén.
+
+---
+
+Hvorfor man skal have en børneulykkesforsikring:
+
+Når børnene når de 2-3 år skal de have tegnet en separat ulykkesforsikring. Indtil 2012 var det sådan at de fleste kommuner havde en fælles forsikring, for alle børn i daginstitutioner og skoler. 
+
+Fra januar 2012 er det ikke længere lovligt for kommunen at tegne den slags forsikringer og børnene skal altså have deres egen børneulykkesforsikring, der kan dække behandlingen, hvis de skulle falde ned fra et klatrestativ. 
+
+Ofte vil faldulykker kræve ekstra genoptræning og fysioterapi, som går ud over det kommunen dækker og det vil en børneulykkesforsikring i så fald kunne dække.
+
+I uheldige tilfælde kan ulykker betyde at ens børn får varige mén og handicap. Det kan have store omkostninger, både økonomisk og socialt. 
+
+En børneulykkesforsikring sikrer at man får en erstatning svarende til den skade ens barn har været udsat for. 
+
+Sørg derfor også for at vælge en forsikringssum på forsikringen, der ikke er for lille. Normalt bør man vælge en forsikringssum på ca. 1 mio kroner.
+
+En anden meget almindelig ulykke for børn er tandskader. Børn der falder på cyklen kan lave alvorlige skader på tænderne og kommunerne dækker ikke længere den slags skader. Derfor skal børn selv have en børneulykkesforsikring med tandskadedækning. 
+
+---
+
+Der skal således være tale om en *"lovlig interesse"*, der kan forsikres af skadesforsikringen. 
+
+Interessen der ønskes forsikret, må ikke være i strid med "lov og ærbarhed", Lov og ærbarhed, vending, der stammer helt tilbage fra **Christian 5.s Danske (1683) Lov 5-1-2**, hvori der står fremhævet og som stadigvæk gælder den dag i dag, at aftaler skal holdes, hvis de "ikke er imod Loven, eller Ærbarhed", 
+
+---
+
+Det latinske udtryk *"contra bonos mores"*	i strid med lov og ærbarhed. **Danske Lov 5-1-2:** "Alle contracter, som friviligen giøris af dennem, som ere myndige, og komne til deris lavalder, vær sig ved kiøb, sal, gave, mageskifte, pant, laan, leje, forpligter, forløfter og andet, ved hvad navn det nævnis kand, som ikke er imod loven, eller ærbarhed, skulde holdis i alle deris ord og puncter, saa som de indgangne ere". Se hertil Danske Lov i lovsamlingen.
+**<a href="https://j.tepedu.dk/lovsamling.html" target="_blank">klik her!</a>**
+
+*(5: femte bog, 1: kap. 1, 2: 2 afsnit).*
+
+---
+
+Et forsikringselskab kan derfor ikke tilbyde at sælge forsikringer imod fartbøder eller parkeringsafgifter, det vil ikke være en lovlig interesse der kan forsikres.
+
+---
+
+Forsikringselskaberne skal således ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder, fx opståede skader i forbindelse med hæleri, tyveri eller skader og mangler udført af en håndværker med betaling af beløbet uden moms (sortarbejde). 
+
+Man vil heller ikke som forbruger kunne klage til Byggeriets Ankenævn over den mangelfulde ydelse fra "den sorte håndværker"
+
+Se **Forsikringsankenævnskendelse sagsnr.: 86.533.** Klagerens datter havde købt en helt ny computer via den blå avis: "Computeren var købt på en finasieringsaftale med et kreditkort, der var stjålet. Ved købet fik hun udleveret fakturaen, hvor hun kunne se, at hendes sælger ikke var den person, der havde købt computeren. Hun betalte en betydelig lavere pris for computeren end den kostede i forretningen. Efter nævnets opfattelse burde klagerens datter have indset, at sælger ikke var kommet i besiddelse af computeren på lovlig vis. At der ikke blev rejst tiltale mod datteren for hæleri, kunne ikke føre til andet resultat".
+
+
+
+***Studenteropgave***
+
+Find to afgørelser i Forsikringsankenævnet om spørgsmålet om der er tale om en ulovlig eller lovlig interesse som kan forsikres.
+**<a href="http://ankeforsikring.dk/Sider/default.aspx" target="_blank">klik her!</a>**
+
+---
+
+**Forsikringsklasser indenfor skadesforsikring**
+
+
+Skadesforsikringsklasser er for eksempel:
+
+*Bygningsforsikring*, 
+
+*Løsøreforsikring*, 
+
+*Erhvervsansvarsforsikring*, 
+
+*Indboforsikring*, 
+
+*Familieansvarsforsikring*, 
+
+*Sygeforsikring*, 
+
+*Personulykkesforsikring*,
+
+*Ansvarsforsikring*
+
+*Retshjælpsforsikring*.
+
+
+---
+
+
+Det fremgår således bl.a. af bilag 7, jf, ovenfor til Lov om finansiel virksomhed, at skadesforsikring også omfatter assistance, defineret som assistance til personer, der kommer i vanskeligheder under befordring eller under fravær fra bopælen eller det faste opholdssted (forsikringsklasse 18). 
+
+Dette omfatter fx aftaler vedrørende vejhjælp, hjemtransport eller anden assistance, fx i medfør af en rejseforsikring, eller lignende ydelser, der falder ind under denne definition.
+
+---
+
+**Skadesforsikringens genstand skal kunne ansættes til en økonomisk værdi før, at der kan ske dækning på skadesforsikringen**
+
+Hvis genstanden ikke har nogen nævneværdig økonomisk værdi afvises der dækning på skadesforsikringen:
+
+![](img/born4.jpg)
+
+Se fx **FED1998.942:** Konservering af fotoalbum og børnetegninger uden økonomisk værdi ansås ikke for dækket af familieforsikring, og forsikringstageren var derfor alene berettiget til erstatning for materialepriser. 
+**<a href="https://pro.karnovgroup.dk/document/7000331066/1" target="_blank">Dommen klik her!</a>**
+
+---
+
+## Udvalgte skadesforsikringer
+
+Følgende afsnit om skadesforsikringer bygger især på *Sonny Kristoffersen:* Introduktion til forsikringsreglerne, 2019, Hans Reitzels Forlag.
+
+
+**<a href="https://hansreitzel.dk/products/introduktion-til-forsikringsreglerne-bog-47916-9788741272849" target="_blank">Klik her!</a>**, samt materialer og afgørelser fra Ankenævnet for Forsikring samt informationer fra Forsikringsoplysningen samt domme fra UfR og FED udgivet af KarnovGroup.
+
+---
+
+## Bilforsikring
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#bilforsikring" target="_blank">Om bilforsikring, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+
+## Forsikringer af familiens bolig
+
+
+![](img/indbo.jpg)
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#forsikringer-af-familiens-bolig" target="_blank">Om forsikringer af familiens bolig, se Juridisk Håndbog klik her!</a>**
+
+---
+
+## Bygningsforsikringen
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#bygningsforsikringen" target="_blank">Om bygningsforsikringen, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+## Ejerskifteforsikringen 
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#ejerskifteforsikringen"_blank">Om ejerskifteforsikringen, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+## Rejseforsikringen 
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#rejseforsikringen">Om rejseforsikringen, se Juridisk Håndbog klik her!</a>**
+
+
+
+---
+
+## Ansvarsforsikringen
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#ansvarsforsikringen">Om ansvarsforsikringen, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+
+
+## Rettigheder og forpligtelser i forsikringsretten
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#rettigheder-og-forpligtelser-i-forsikringsretten">Om rettigheder og forpligtelser i forsikringsretten, se Juridisk Håndbog klik her!</a>**
+
+
+
+---
+
+
+## Pensionsforsikringer
+
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#pensionsforsikringer">Om pensionsforsikringer, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+## Livsforsikringer
+
+
+
+*"Væddemålet med livsforsikringsselskabet om tidspunkt for dødsfaldet"*
+
+![](img/djav.jpg)
+
+**En livsforsikring sikrer én eller ens families indtægter, hvis én person skulle afgå ved døden**. 
+
+Det garanterer altså ikke, at man lever for altid - men den kan resultere i en økonomisk udbetaling til ens familie og de efterladte, hvis man dør for tidligt.
+
+Størrelsen af beløbet fastsættes sammen med ens rådgiver. 
+
+Pension hører ligeledes under den samme kategori - fx er livrenter et godt eksempel på dette. 
+
+Lever man længere er man sikret en fast indtægt. Dør man derimod tidligt, så er det forsikringsselskabet/pensionsselskabet der tjener på det.
+
+De fleste kendte forsikringsselskaber tilbyder dog også livsforsikring. 
+
+Denne forsikring henvender sig til den som ønsker at forsikre sig fx imod en eventuel død. 
+
+Så hvis situationen er, at ens familie er afhængig af ens indkomst, og man vil sikre sin familie såfremt man går bort, eller bliver uarbejdsdygtig. 
+
+Fastsættelse af præmierne består af flere elementer, dels summen man ønsker at bliver forsikret for, men ligeledes om ens helbredsoplysninger.
+
+---
+
+Livsforsikring er således ikke skadesforsikring, men en *summaforsikring*, der er karakteriseret ved, at forsikringsselskabet skal udbetale den aftalte forsikringssum ved forsikringsbegivenhedens indtræden, uanset om der kan påvises et økonomisk tab og uanset hvor mange livsforsikringer der er tegnet.
+
+Berigelsesforbudet i FAL § 39: "Selskabet er, selv om andet er aftalt, ikke forpligtet til at udrede større erstatning end, hvad der kræves til den lidte skades dækning": 
+
+Gælder kun ved *tingsforsikring*, men ikke for summaforsikring. Dvs fx hvis man har flere livsforsikringer får man udbetalt fra alle forsikringerne. 
+
+
+---
+
+**<h4><a href="https://www.youtube.com/embed/EMCsXK44p1k" target=" _blank">Video: Matematik i forsikring og finansiering Klik her!</a></h4>**
+
+---
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#livsforsikringer">Om livsforsikringer, se Juridisk Håndbog klik her!</a>**
+
+
+---
+
+## Forsikringsformidling
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#forsikringsformidling" target="_blank">Om forsikringsformidling, se Juridisk håndbog klik her!</a>**
+
+---
+
+## Ordforklaringer på forsikringstekniske udtryk
+
+**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#ordforklaringer-p%C3%A5-forsikringstekniske-udtryk" target="_blank">Ordforklaringer på forsikringstekniske udtryk, se Juridisk håndbog klik her!</a>**
+
+
+
+---
+
+## God skik for finansielle virksomheder
+
+Efter § 43 i lov om finansiel virksomhed, skal finansielle virksomheder, finansielle holdingvirksomheder og forsikringsholdingvirksomheder drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet.
+
+God skik-reglerne er offentligretlige regler. En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem den finansielle virksomhed og kunden er ugyldig eller uvirksom. Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold. Disse spørgsmål afgøres af de private finansielle ankenævn og af domstolene.
+
+**<a href="https://j.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret.html" target="_blank">God skik for finansielle virksomheder, se Juridisk håndbog klik her!</a>**
+
+Se e-bogens lovsamling **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lov om finansiel virksomhed, klik her!</a>**
+
+---
+
+## Bekæmpelse af hvidvask og terrorfinansiering
+
+Lovbekendtgørelse nr. 380 af 2. april 2020 om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven) fastsætter forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven) er et regelsæt, som skal sikre, at de virksomheder, som er omfattet af loven, kender deres kunder og de transaktioner, som de foretager.
+
+Hvidvaskloven har i 2020 gennemført yderligere initiativerne om: 
+
+– Administrative bødeforelæg 
+– Udvidelse af de finansielle virksomheders oplysningspligt over for Finanstilsynet. 
+– Ny mulighed for at udpege en sagkyndig person, der kan følge den daglige drift i en    
+  virksomhed, hvor der er risiko for finansiel kriminalitet. 
+– Styrkelse af whistleblowerordningerne gennem forbud mod tavshedsklausuler. 
+– Mulighed for påbud om stop for nye kundeforhold, hvis Finanstilsynet konstaterer 
+  alvorlige overtrædelse af centrale hvidvaskregler i en virksomhed. 
+– Skærpelse af strafansvar for afgivelse af urigtige oplysninger til Finanstilsynet. 
+– Forhøjelse af den strafferetlige forældelsesfrist for grove overtrædelser af 
+  hvidvaskloven og lov om finansiel virksomhed fra 5 til 10 år. 
+– Indførelse af egnetheds- og hæderlighedskrav for Finanstilsynets bestyrelse i stil med  
+  fit & proper-kravene, som gælder for finansielle virksomheder.
+
+Loven har derudover til formål at sikre en effektiv gennemførelse af visse bestemmelser i 4. hvidvaskdirektiv og dermed skabe yderligere klarhed om de juridiske rammer for Hvidvasksekretariatets virksomhed. Endelig er der indført lovændringer vedrørende indefrysning af midler, samt videregivelse af oplysninger og fortrolighed herom i forbindelse med operativt samarbejde om hvidvask og terrorfinansiering.
+
+
+**<a href="https://j.tepedu.dk/bek%C3%A6mpelse-af-hvidvask-og-terrorfinansiering.html" target="_blank">Bekæmpelse af hvidvask og terrorfinansiering, se Juridisk håndbog klik her!</a>**
+
+Se e-bogens lovsamling **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lov om bekæmpelse af hvidvask og terrorfinansiering, klik her!</a>**
+
+---
+
+## Databeskyttelsesreglerne
+
+Den finansielle virksomhed skal i dagligdagen have stor fokus på databeskyttelsesreglerne.
+
+Betegnelsen "databeskyttelse" beskriver både det forhold, at enhver har ret til beskyttelse af sine personoplysninger, og at enhver, der behandler personoplysninger om andre i ikke-privat sammenhæng, er forpligtet til at iagttage disse rettigheder og til at beskytte personoplysningerne. 
+
+**<a href="https://j.tepedu.dk/databeskyttelse.html" target="_blank">Databeskyttelsesreglerne, se Juridisk håndbog klik her!</a>**
+
+
+---
+
+## Løsningsmodeller ved eksamensopgaver indenfor erstatning uden for kontrakt 
 
 **1. Identificer mulige skadevoldere og skader**^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
 
@@ -1829,10 +2342,16 @@ Såsom:
 
 ---
 
-## Quiz Erstatningsreglerne
+## Quiz om erstatningsreglerne
 
 
 <h3><a href="https://quiz.tepedu.dk/jura7" target="_blank">Quiz Erstatningsreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+
+---
+
+## Quiz om skades-, pensions- og livsforsikringer
+
+<h3><a href="https://quiz.tepedu.dk/jura25" target="_blank">Quiz Skades-, pensions- og livsforsikringer<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 
