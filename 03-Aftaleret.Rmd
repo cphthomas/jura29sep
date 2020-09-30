@@ -1,8 +1,8 @@
 # Aftaleret
 
-```{r, echo=FALSE, results='asis'}
-cat(readLines('np.html'))
-```
+<!-- ```{r, echo=FALSE, results='asis'} -->
+<!-- cat(readLines('np.html')) -->
+<!-- ``` -->
 
 
 Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 193 om aftaler og andre retshandler på formuerettens område, 
@@ -10,7 +10,7 @@ Aftaleretten er reguleret af aftaleloven, jf. Lovbekendtgørelse 2016-03-02 nr. 
 
 ---
 
-*Aftaleloven har stor betydning i dagligdagen for en finansøkonomen, som er ansat i et pengeinstitut/realkredit, forsikring,	ejendomshandel,	ejendomsadministration	økonomistyring og	revision, når finansøkonomen på vegne af den finansielle virksomhed indgår aftaler og kontrakter med kunder og klienter*. 
+**Aftaleloven har stor betydning i dagligdagen for en finansøkonomen, som er ansat i et pengeinstitut/realkredit, forsikring,	ejendomshandel,	ejendomsadministration	økonomistyring og	revision, når finansøkonomen på vegne af den finansielle virksomhed indgår aftaler og kontrakter med kunder og klienter.** 
 
 ---
 
@@ -20,23 +20,23 @@ Der er en del af god skik for finansielle virksomheder, jf. lov om finansiel vir
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/QdPllNiV5Ck" target="_blank">Video om en introduktion til aftaleretten</a></h4>
+**<h4><a href="https://www.youtube.com/embed/QdPllNiV5Ck" target="_blank">Video om en introduktion til aftaleretten</a></h4>**
 
 ---
 
-*Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:*
+**Hvilke problemstillinger og aftaleretlige lovregler, du som studerende særlig skal være opmærksom på vedrørende eksamensspørgsmål indenfor aftaleretten:**
 
 
 
-• *Opfordring kontra tilbud*, aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker.
+• **Opfordring kontra bindende tilbud**, jf. aftalelovens § 9, herunder prisangivelser på nettet, netbutikker og i fysiske butikker.
   
-• *Aftaleindgåelse*, aftalelovens §§ 2-7 og 40.
+• **Aftaleindgåelse**, aftalelovens §§ 2-7 og 40.
 
-• *Ugyldighed* (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31).
+• **Ugyldighed** (svig, aftalelovens § 30 fejl, aftalelovens § 32, stk. 1, udnyttelse, aftalelovens § 31).
 
-• *Falsk/forfalskning.*
+• **Falsk/forfalskning.**
 
-• *Urimelighed* - aftalelovens §§ 38c, jf. 36, om rimelige aftaler som kan tilsidesættes.
+• **Urimelighed** - aftalelovens §§ 38c, jf. 36, om rimelige aftaler som kan tilsidesættes.
 
 • *Fuldmagtstyper* (især stillingsfuldmagt, aftalelovens § 10, stk. 2), fuldmagtens omfang og konsekvenser, aftalelovens §§ 10, 11, 15 og 25, modificeret ved erstatningsansvarslovens § 23. 
 
@@ -130,9 +130,9 @@ Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindend
 
 ![](img/six.jpg)
 
-Hvad er en aftale:
+**Hvad er en aftale:**
 
-Ordet ”aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. 
+Ordet "aftale”: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. 
 
 Aftalebegrebet bruges oftest om et tilbud, som er accepteret af modparten, fx en pagt, traktat, kontrakt, charter, overenskomst, vedtægt, vedtagelse, konvention og studehandel. 
 
@@ -140,14 +140,14 @@ Aftaler er bindende, uanset om de er mundtlige eller skriftlige, jf. aftaleloven
 
 ---
 
-Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. Danske Lov 5-1-1:
+Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. **Danske Lov 5-1-1**:
 
 "Een hver er pligtig at efterkomme hvis hand med mund, haand og sejl, lovet og indgaaet haver".
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Danske Lov i Lovsamlingen klik her!</a>**
 
 ---
 
-Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis aftalelovens § 3, stk. 2, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
+Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis **aftalelovens § 3, stk. 2**, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
 
 De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
 
@@ -162,7 +162,7 @@ Udtrykkeligt løfte ctr. stiltiende løfte.
 
 ---
 
-Hvad er forskellen på en aftale og en kontrakt:  
+**Hvad er forskellen på en aftale og en kontrakt:**  
 
 En aftale kan også være mundtlig. 
 
@@ -252,11 +252,13 @@ En kunde tager initiativ til en forsikringsaftale:
 
 ---
 
-Aftaleretlige begreber:
+**Aftaleretlige begreber:**
 
 "Tilbudsmodtager" (sælger): Sælger modtager en ordre eller ønske om køb fra interesseret køber.
 
 ---
+
+**Hvad er et løfte?**
 
 
 Et "løfte": En ensidig erklæring fra en person om at ville påtage sig en pligt, fx en kautionist vil påtage sig pengeforpligtelsen, hvis deitor ikke kan betale til banken. 
@@ -265,7 +267,7 @@ Løftet skaber en forventning hos modtager.
 
 ---
 
-Løftet har følgende retsvirkninger: 
+**Løftet har følgende retsvirkninger:** 
 
 Dels at løftegiveren har pligt enten til at opfylde løftet efter dets indhold (såkaldt naturalopfyldelse) eller 
 
@@ -277,6 +279,8 @@ Positiv opfyldelsesinteresse	er en erstatning, der stiller den anden part, som o
 
 ---
 
+**Hvad er et tilbud?**
+
 
 "Tilbud": Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
 
@@ -286,17 +290,25 @@ Fx debitors "løfte" til banken om at ville betale 1.000 kr. af på lånet hver 
 
 ---
 
+**Hvad er en accept?**
+
 "Accept": En erklæring, som har karakter af antagende svar på tilbud. 
 
 ---
+
+**Hvad er et svar?**
 
 Et "svar", hvori man siger ja til et tilbud. 
 
 ---
 
+**Hvad er accepten?**
+
 "Accepten" er både et løfte, der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. 
 
 ---
+
+**Hvad menes der med, at det er kommet frem?**
 
 "Kommet frem": Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
 
@@ -304,13 +316,15 @@ Et brev er kommet frem, når det er kommet så vidt, at modtageren kan gøre sig
 
 ---
 
+**Hvårnår er det kommet til kundskab?**
+
 "Kommet til kundskab": Det øjeblik, modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst indholdet. 
 
 Der er ikke noget krav om, at modtageren skal have forstået indholdet.
 
 ---
 
-"Opfordring til at gøre tilbud": er en ikke-bindende henvendelse til andre om at give tilbud.
+**Opfordring til at gøre tilbud**: er en ikke-bindende henvendelse til andre om at give tilbud.
 
 Hvis en erhvervsdrivende i overensstemmelse med aftalelovens § 9 vil fravige det almindelige aftaleretlige udgangspunkt om, at tilbud i en internet butik er bindende, skal det fremgå meget tydeligt af siden, at tilbuddene på hjemmesiden alene er ”en opfordring til at give et tilbud”, og at der ikke er indgået en bindende aftale, før sælgeren har accepteret køberens tilbud.
 
@@ -323,13 +337,13 @@ Se dommen i **U 2003.907 V** (U: Ugeskrift for Retsvæsen). Hvor en annoncering 
 
 ---
 
-"Påbud" er en erklæring: som går ud på at lægge bånd på adressaten.
+**Påbud** er en erklæring: som går ud på at lægge bånd på adressaten.
 
-"Reklamation": er en indsigelse i anledning af et retsforhold.
+**Reklamation** er en indsigelse i anledning af et retsforhold.
 
-"Pligtmæssig reklamation": er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). 
+**Pligtmæssig reklamation** er en reklamation, som afgives af hensyn til adressaten og forsendes på adressatens risiko, jf. aftalelovens § 40 (og tilsvarende købelovens § 61). 
 
-Aftaleloven bruger herom udtrykket "give meddelelse".
+Aftaleloven bruger herom udtrykket **give meddelelse**.
 
 ---
 
@@ -337,7 +351,7 @@ Aftaleloven bruger herom udtrykket "give meddelelse".
 ## Aftalemodellen
 
 
-En bindende aftale kommer i stand via den såkaldte aftalemodel:
+En bindende aftale kommer i stand via den såkaldte **aftalemodel**:
 
 *	Tilbudsgiver sender sit tilbud ………….fremsendelsestid.
 
@@ -356,7 +370,7 @@ Resultat: Der er indgået en juridisk bindende aftale mellem parterne.
 
 ---
 
-<h4><a href="https://youtu.be/DvV2yhetl8M" target="_blank">Video om aftalemodellen</a></h4>
+**<h4><a href="https://youtu.be/DvV2yhetl8M" target="_blank">Video om aftalemodellen</a></h4>**
 
 ---
 
@@ -414,12 +428,12 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Tilbud eller opfordring til tilbud:
+**Tilbud eller opfordring til tilbud**:
 
 ![](img/tilbud.jpg)
 
 
-HR: Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
+**HR:** Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
 
 Tilbuddet bliver bindende for tilbudsgiver, når tilbudsmodtager får kendskab til tilbuddets indhold.
 
@@ -445,13 +459,13 @@ Afslaget kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren
 
 ---
 
-Undtagelser: "Opfordring til tilbud", jf. aftalelovens § 9:
+Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
 
 ![](img/aftale1.png)
 
 Nogle typer tilbud er ikke bindende for sælger, kaldet "opfordring til tilbud", fx:
   
-+ "Slagtilbud" og ”så længe lager haves”, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, køtilbud, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
++ **Slagtilbud** og **så længe lager haves**, tilbud og priser i aviser og kataloger, på plakater, annoncer, TV- og radioreklamer, køtilbud, priser og tilbud på internettet, når sælger ikke selv har råderet over websitet.
 
 ---
 
@@ -460,11 +474,11 @@ Se dommen i **U 2002.631 V** Sælgers direktørs notering af kundes ønske om k�
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/j36H6TAo7Us" target="_blank">Video om tilbud contra opfordring til tilbud</a></h4>
+**<h4><a href="https://www.youtube.com/embed/j36H6TAo7Us" target="_blank">Video om tilbud contra opfordring til tilbud</a></h4>**
 
 ---
 
-Afslag på tilbud:
+**Afslag på tilbud:**
 
 Hvis tilbudsmodtager forholder sig passiv, bortfalder tilbuddet, når acceptfristen er udløbet, og sælger kan frit sælge til anden side.
 
@@ -481,12 +495,12 @@ Tilbuddet er stadig bindende for sælger, hvis købers tilbagekaldelse kommer ti
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/Noq0xWiKryg" target="_blank">Video om afslag</a></h4>
+**<h4><a href="https://www.youtube.com/embed/Noq0xWiKryg" target="_blank">Video om afslag</a></h4>**
 
 ---
 
 
-Accept:
+**Accept:**
 
 Der er ingen formkrav til accepten i aftaleloven.
 
@@ -506,7 +520,7 @@ Tilbuddet skal være accepteret i rette tid:
 
 Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
 
-Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1. Den såkaldte »legale acceptfrist«. 
+Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1. Den såkaldte **legale acceptfrist**. 
 
 ---
 
@@ -557,7 +571,7 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 ---
 
-Betænkningstiden er:
+**Betænkningstiden er:**
 
 ![](img/tank.jpg)
 
@@ -571,7 +585,7 @@ Betænkningstiden er:
 
 ---
 
-Accept - forsinket:
+**Accept - forsinket:**
 
 Forsinket accept,	anses i aftaleretten som et nyt tilbud fra acceptanten, jf. aftalelovens § 4, stk. 1.
 
@@ -591,40 +605,36 @@ NB: Hvis tilbudsgiver ikke vil være bundet af en forsinket accept, skal tilbuds
 
 Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal opfylde aftalen.
 
-
 ---
 
 
-”Det at give meddelelse” se nærmere aftalelovens § 40:
+**Det at give meddelelse** se nærmere aftalelovens § 40:
 
-"Når nogen, som efter denne lov skal »give meddelelse« har indleveret meddelelsen til befordring med telegraf eller post eller, hvor andet forsvarligt befordringsmiddel benyttes, har afgivet den til befordring dermed, går det ikke ud over ham, at meddelelsen forsinkes eller ikke kommer frem".
-
-
----
-
-<h4><a href="https://www.youtube.com/embed/w5HtkYrMXDg" target="_blank">Video om tilbagekaldelse efter aftalelovens § 40</a></h4>
-
+**Når nogen, som efter denne lov skal »give meddelelse« har indleveret meddelelsen til befordring med telegraf eller post eller, hvor andet forsvarligt befordringsmiddel benyttes, har afgivet den til befordring dermed, går det ikke ud over ham, at meddelelsen forsinkes eller ikke kommer frem.**
 
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/xoiUi_ShUJc" target="_blank">Video om for sen accept</a></h4>
+**<h4><a href="https://www.youtube.com/embed/w5HtkYrMXDg" target="_blank">Video om tilbagekaldelse efter aftalelovens § 40</a></h4>**
 
-
----
-
-<h4><a href="https://www.youtube.com/embed/dJmhJTwJzhg" target="_blank">Video om rettidig accept</a></h4>
 
 
 ---
 
+**<h4><a href="https://www.youtube.com/embed/xoiUi_ShUJc" target="_blank">Video om for sen accept</a></h4>**
 
-<h4><a href="https://www.youtube.com/embed/xGnZFVV1H74" target="_blank">Video om uoverensstemmende accept</a></h4>
+---
+
+**<h4><a href="https://www.youtube.com/embed/dJmhJTwJzhg" target="_blank">Video om rettidig accept</a></h4>**
+
+---
+
+**<h4><a href="https://www.youtube.com/embed/xGnZFVV1H74" target="_blank">Video om uoverensstemmende accept</a></h4>**
 
 
 ---
 
-Tilbagekaldelse af tilbud/accept:
+**Tilbagekaldelse af tilbud/accept:**
 
 
 
@@ -642,7 +652,7 @@ Situation: Acceptanten vil annullere sin accept:
 Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
 
-U: Se den såkaldte "Re integra-reglen" - aftalelovens § 39, 2. pkt.: 
+U: Se den såkaldte **Re integra-reglen** - aftalelovens § 39, 2. pkt.: 
 
 Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens udløb, hvis to betingelser er opfyldt:  
 
@@ -673,7 +683,7 @@ Se dommen i **U 1989.561 H ** En annullation af en slutseddel, der var underskre
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/Pf2unCK7tME" target="_blank">Video om tilbagekaldelse</a></h4>
+**<h4><a href="https://www.youtube.com/embed/Pf2unCK7tME" target="_blank">Video om tilbagekaldelse</a></h4>**
 
 ---
 
@@ -681,9 +691,9 @@ Uoverensstemmende accept i forhold til tilbuddet:
 
 Accepten skal være i overensstemmelse med tilbuddet – som et spejlbillede, jf. aftalelovens § 6:
 
-HR: Aftalelovens § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
+**HR:** Aftalelovens § 6, stk. 1: En uoverensstemmende accept er et afslag, og vil blive betragtet som et modbud (nyt tilbud), men fra acceptantens side.
 
-U: Aftalelovens § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok. 
+**U:** Aftalelovens § 6, stk. 2 – En uoverensstemmende accept betragtes ikke som et modbud (nyt tilbud), hvis afsenderen tror,	at accepten er i overensstemmelse med tilbuddet og tilbudsgiveren må indse at acceptanten tror at accepten er ok. 
 
 ---
 
@@ -697,7 +707,7 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-”Give meddelelse” se om begrebet igen i aftalelovens § 40.
+**Give meddelelse** se om begrebet igen i aftalelovens § 40.
 
 ---
 
@@ -849,11 +859,11 @@ Aftalelovens § 40 om, at ”give meddelelse” omfatter også e-mails.
 
 ---
 
-<h4><a href="https://youtu.be/l1rc2FBSjss" target="_blank">Video om hjemmesider</a></h4>
+**<h4><a href="https://youtu.be/l1rc2FBSjss" target="_blank">Video om hjemmesider</a></h4>**
 
 ---
 
-<h4><a href="https://youtu.be/SGvg5W3JRzQ" target="_blank">Video om e-mærket</a></h4>
+**<h4><a href="https://youtu.be/SGvg5W3JRzQ" target="_blank">Video om e-mærket</a></h4>**
 
 ---
 
@@ -868,11 +878,11 @@ Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis af
 
 Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
-"Tilblivelsesmangler" – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde).
+**Tilblivelsesmangler** – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde).
 
 ---
 
-"Habilitetsmangler" – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. 
+**Habilitetsmangler** – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. 
 
 Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
@@ -882,52 +892,52 @@ Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-"Bristende forudsætninger" - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
+**Bristende forudsætninger** - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
 ---
 
-*Aftalens ugyldighed kan skyldes følgende forhold:
+**Aftalens ugyldighed kan skyldes følgende forhold:**
 
 Oversigt:
 
 
-"Umyndige" (under 18 år og under lavværgemål), jf. værgemålsloven § 44.
+**Umyndige** (under 18 år og under lavværgemål), jf. værgemålsloven § 44.
 
 ---
 
-"Myndighed" er	evnen til at kunne forpligte sin person eller formue ved retshandler.
+**Myndighed** er	evnen til at kunne forpligte sin person eller formue ved retshandler.
 
 ---
 
-"Fornuftsmangel" – Se værgemålslovens § 46.
+**Fornuftsmangel;** – Se værgemålslovens § 46.
 
 ---
 
-"Falsk"; tiltrådt uden bemyndigelse.
+**Falsk**; tiltrådt uden bemyndigelse.
 
 ---
 
-"Forfalskning"; rettet i gyldig dokument.
+**Forfalskning**; rettet i gyldig dokument.
 
 ---
 
-"Voldelig tvang"; vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
+**Voldelig tvang**; vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
 
 ---
 
-"Forvanskning"; løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
+**Forvanskning;** løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
 
 ---
 
-"Simpel tvang"; anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
+**Simpel tvang;** anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
 
 ---
 
-"Svig"; urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro, jf. aftalelovens § 30.
+**Svig;** urigtige oplysninger eller bevidst fortielse af sandheden ved ond tro, jf. aftalelovens § 30.
 
 ---
 
-"Udnyttelse/åger"; misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
+**Udnyttelse/åger;** misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
 
 ---
 
@@ -935,15 +945,15 @@ Oversigt:
 
 ---
 
-"Stridende mod almindelig hæderlighed hvis ond tro"; jf. aftalelovens § 33 smhl. med aftalelovens § 39.
+**Stridende mod almindelig hæderlighed hvis ond tro;** jf. aftalelovens § 33 smhl. med aftalelovens § 39.
 
 ---
 
-"Urimeligt/i strid med redelig handlemåde (generalklausulen)"; jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
+**Urimeligt/i strid med redelig handlemåde (generalklausulen)**; jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
 
 ---
 
-"Bristende forudsætninger".
+**Bristende forudsætninger**
 
 ---
 
@@ -951,7 +961,7 @@ Forskellen på de stærke og svage ugyldighedsgrunde:
 
 
 
-*Ugyldighedsgrunde*
+**Ugyldighedsgrunde**
 
 Der skelnes mellem stærke og svage ugyldighedsgrunde. 
 
@@ -993,7 +1003,7 @@ De stærke ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 Nærmere om de stærke ugyldighedsgrunde:
 
-"Falsk": Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. 
+**Falsk:** Dokumentet er falsk, fx ved falsk underskrift på en selvskyldnerkaution. 
 
 Løftet er ikke ægte.
 
@@ -1011,7 +1021,7 @@ Eller der bliver forfalsket med en underskrift.
 
 ---
 
-"Forvanskning": Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2:
+**Forvanskning:** Aftaler eller beskeder der under fremsendelsen ændres eller forvanskes ved en fejl, hvorved aftalen får et andet indhold, aftalelovens § 32, stk. 2:
 
 "Bliver en afgiven viljeserklæring, som befordres ved telegraf eller mundtlig fremføres ved bud, forvansket ved fejl fra telegrafvæsenets side eller ved urigtig gengivelse af budet, er afgiveren ikke bundet ved erklæringen i den skikkelse hvori den kom frem, selv om den, til hvem erklæringen er afgivet, var i god tro. Vil afgiveren gøre gældende at erklæringen er uforbindende, har han dog at give meddelelse derom uden ugrundet ophold, efter at forvanskningen er kommet til hans kundskab. Undlader han det, er han bundet ved erklæringen i den skikkelse, hvori den kom frem, såfremt den, til hvem erklæringen er afgivet, var i god tro".
 
@@ -1067,7 +1077,7 @@ Se også udtrykket fra romerretten: *"Reservatio mentalis"*;	"bevidst uoverensst
     
 ---
 
-Hvad er voldelig tvang?
+**Hvad er voldelig tvang?**
 
 Voldelig tvang, er en stærk ugyldighedsgrund, det følger af aftalelovens § 28, stk. 1:
 
@@ -1099,7 +1109,7 @@ Om trusselen rent faktisk er båret af en vilje til at udføre den retsstridige 
 
 Også trusselens styrke er principielt uden betydning for dens retsstridighed (men kan influere på adressatens beføjede tro på, at trusselen er alvorligt ment).
 
-Ordene »personlig vold« taler for, at der alene tænkes på vold - eller trussel herom - som er rettet direkte mod erklæringsgiverens person.
+Ordene **personlig vold** taler for, at der alene tænkes på vold - eller trussel herom - som er rettet direkte mod erklæringsgiverens person.
 
 ---
 
@@ -1122,7 +1132,7 @@ Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter aftale
 
 ---
 
-"Kompulsiv" betyder: Fremkaldt ved trusler.
+**Kompulsiv** betyder: Fremkaldt ved trusler.
 
 Kompulsiv tvang	er tvang, der retter sig mod viljen. Modsat mekanisk tvang.
 
@@ -1159,13 +1169,13 @@ Tinglysningslovens § 27, stk. 1:
 
 ---
 
-"Handleevne" betyder en persons evne til at forpligte sig ved retshandler fx ved et køb.
+**Handleevne** betyder en persons evne til at forpligte sig ved retshandler fx ved et køb.
 
 ---
 
 ![](img/afpresning.jpg)
 
-Ved ikke-voldelig kompulsiv tvang fx "afpresning", er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til løftemodtagerens kundskab, jf. aftalelovens § 29. 
+Ved ikke-voldelig kompulsiv tvang fx **afpresning**, er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til løftemodtagerens kundskab, jf. aftalelovens § 29. 
 
 Denne bestemmelse i aftalelovens § 29 omhandler en såkaldt svag ugyldighedsgrund, som kan fortabes over for en godtroende erklæringsmodtager, se nærmere nedenfor.
 
@@ -1193,7 +1203,7 @@ Dommen i **U 1978.216 V** Truet med at bringe 4 bomber til sprængning på skibe
 
 ---
 
-"Umyndighed":
+**Umyndighed:**
 
 "Umyndige" er personer under 18 år, der ikke har indgået ægteskab (mindreårige), samt personer, der har fået frataget handleevnen efter værgemålslovens § 6.
 
@@ -1226,7 +1236,7 @@ Personer over 15 år kan råde over deres egne penge, som de selv har tjent fx v
 
 ---
 
-"Pengereglen":  
+**Pengereglen:**  
 
 Pengereglen er en uskreven retsgrundsætning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager fx købmanden, der har modtaget pengene i god tro.
 
@@ -1252,7 +1262,7 @@ Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har vær
 
 ---
 
-"Nyttereglen": Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
+**Nyttereglen:** Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
 
 ---
 
@@ -1284,13 +1294,13 @@ I **Juridisk Årbog 2000, s. 99**, er refereret en sag om en umyndig forbruger, 
 
 ---
 
-Se endvidere begrebet "ratihabition"; "efterfølgende godkendelse". 
+Se endvidere begrebet **ratihabition**; "efterfølgende godkendelse". 
 
 Anvendes fx på aftaler indgået af mindreårige, som efterfølgende bliver gyldige ved, at den nu myndige opfylder aftalen.
 
 ---
 
-"Værgemål og fornuftsmangel":
+**Værgemål og fornuftsmangel:**
 
 
 
@@ -1318,13 +1328,13 @@ Aftaler indgået med voksne under værgemål er ugyldige, jf. værgemålslovens 
 De svage ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 
-* "Aftalers ugyldighed ved simpel tvang", jf. aftalelovens § 29.
+* **Aftalers ugyldighed ved simpel tvang**, jf. aftalelovens § 29.
 
-* "Svig", jf. aftalelovens § 30.
+* **Svig**, jf. aftalelovens § 30.
 
-* "Udnyttelse", jf. aftalelovens § 31.
+* **Udnyttelse**, jf. aftalelovens § 31.
 
-* "Fejlskrift/anden fejltagelse", jf. aftalelovens § 32, stk. 1.
+* **Fejlskrift/anden fejltagelse**, jf. aftalelovens § 32, stk. 1.
 
 
 
@@ -1332,7 +1342,7 @@ De svage ugyldighedsgrunde omfatter følgende grunde eller årsager:
 
 Aftalers ugyldighed ved simpel tvang, jf. aftalelovens § 29:
 
-Hvad er simpel tvang?
+**Hvad er simpel tvang?**
 
 Simpel tvang, som en svag ugyldighedsgrund, følger af aftalelovens § 29:
 
@@ -1393,25 +1403,25 @@ Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have ind
 
 ---
 
-* "Svig", jf. aftalelovens § 30:
+* **Svig**, jf. aftalelovens § 30:
 
-Hvad er svig?
+**Hvad er svig?**
 
 ![](img/logn.jpg)
 
 
-"Svig", se nærmere ordlyden i aftalelovens § 30:
+**Svig**, se nærmere ordlyden i aftalelovens § 30:
 
 "En viljeserklæring er ikke bindende for afgiveren, hvis den, til hvem erklæringen er afgivet, har fremkaldt den ved svig eller har indset eller burdet indse, at den var fremkaldt ved svig fra tredjemands side.
 Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige oplysninger om omstændigheder, som kan antages at være af betydning for erklæringen, eller gjort sig skyldig i svigagtig fortielse af sådanne omstændigheder, anses erklæringen for at være fremkaldt ved den således udviste svig, medmindre det gøres antageligt, at denne ikke har indvirket på erklæringen".
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/n52ni_aO5iE" target="_blank">Video om svig</a></h4>
+**<h4><a href="https://www.youtube.com/embed/n52ni_aO5iE" target="_blank">Video om svig</a></h4>**
 
 ---
 
-Ved "svig" forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
+Ved **svig** forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
 
 Svig, er således en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab.
 
@@ -1482,7 +1492,7 @@ Aftalen mellem bådekøberen og Bo Bådesælger er derfor bindende.
 
 ---
 
-"Aftalers ugyldighed udnyttelse", jf. indholdet af aftalelovens § 31:
+**Aftalers ugyldighed udnyttelse**, jf. indholdet af aftalelovens § 31:
 
 "Har nogen udnyttet en andens betydelige økonomiske eller personlige vanskeligheder, manglende indsigt, letsind eller et bestående afhængighedsforhold til at opnå eller betinge en ydelse, der står i væsentligt misforhold til modydelsen, eller som der ikke skal ydes vederlag for, er den, der således er udnyttet, ikke bundet ved den af ham afgivne viljeserklæring.
 Stk. 2. Det samme gælder, hvis tredjemand har gjort sig skyldig i et sådant forhold som omtalt i stk. 1 og den, til hvem viljeserklæringen er afgivet indså eller burde indse dette".
@@ -1570,8 +1580,6 @@ Løftet i mailen er ikke bindende for løftegiver, hvis løftemodtager indså el
 
 Modsætningsvis: Hvis løftemodtager ikke indså eller burde have kunnet indse, at det var en fejl, er løftemodtager i god tro og aftalen er gyldig.
 
-
-
 ---
 
 Er erklæringen udformet af en anden, men har et andet indhold end erklæringsgiveren forestillede sig, finder bestemmelsen anvendelse.
@@ -1585,13 +1593,13 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/-xVEbZDAZZ8" target="_blank">Video om fejlskrift</a></h4>
+**<h4><a href="https://www.youtube.com/embed/-xVEbZDAZZ8" target="_blank">Video om fejlskrift</a></h4>**
 
 ---
 
 ## God og ond tro
 
-"God tro" (på latin kaldet; "bona fide")	god tro er:
+**God tro** (på latin kaldet; "bona fide")	god tro er:
 
 + Løftemodtager(LM) havde ikke viden om ugyldighedsgrunden.
       
@@ -1600,7 +1608,7 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
 
 ---
       
-"Ond tro" er:
+**Ond tro** er:
 
 + Løftemodtager (LM) havde en viden om ugyldighedsgrunden. 
       
@@ -1608,15 +1616,11 @@ Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker b
       
 ---
 
-
-
-<h4><a href="https://www.youtube.com/embed/Ax4X9V-kdGw" target="_blank">Video om god og ond tro</a></h4>
-
-
+**<h4><a href="https://www.youtube.com/embed/Ax4X9V-kdGw" target="_blank">Video om god og ond tro</a></h4>**
 
 ---
 
-Ved stærke ugyldighedsgrunde:
+**Ved stærke ugyldighedsgrunde:**
 
 +	LM er i ond tro = LG er ikke bundet af løftet (aftalen erklæres ugyldig).
       
@@ -1646,13 +1650,13 @@ Retsvirkningen af at en aftale er ugyldig:
 
 ## Urimelige aftaler
 
-"Urimelige aftaler" kan omfatte følgende forhold:
+**Urimelige aftaler** kan omfatte følgende forhold:
 
-* "Indholdsmangler" - Hvis aftalen har fået et urimeligt indhold, kan den tilsidesættes helt eller delvist.
+* **Indholdsmangler** - Hvis aftalen har fået et urimeligt indhold, kan den tilsidesættes helt eller delvist.
 
 Se:
 
-*	Aftalelovens § 33: Hvis aftalen er i "strid med almindelig hæderlighed".
+*	Aftalelovens § 33: Hvis aftalen er i **strid med almindelig hæderlighed**.
 
 *	"Generalklausulen", jf. aftalelovens § 36: "Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende". 
 
@@ -1670,13 +1674,13 @@ I urimelighedsvurderingen indgår:
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/VliOntGAvUU" target="_blank">Video om Forudsætningslæren</a></h4>
+**<h4><a href="https://www.youtube.com/embed/VliOntGAvUU" target="_blank">Video om Forudsætningslæren</a></h4>**
 
 ---
 
 ## Bristende forudsætninger
 
-Forudsætningslæren:
+**Forudsætningslæren:**
 
 Et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
@@ -1688,7 +1692,7 @@ En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhol
 
 ![](img/brul.jpg)
 
-Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:
+**Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:**
 
 1.	Forudsætningen skal have været væsentlig for løftegiver.
 
@@ -1704,7 +1708,7 @@ Bristende forudsætninger, hvis "afgørende/væsentligt, kendeligt og relevant/r
 
 ---
 
-En "ugyldig aftale" er, når parterne ikke er forpligtet af det løfte de har afgivet, og aftalen ophæves.
+En **ugyldig aftale** er, når parterne ikke er forpligtet af det løfte de har afgivet, og aftalen ophæves.
 
 *	Tilbagelevere allerede udvekslede ydelser (penge/varer)
 
@@ -1713,7 +1717,7 @@ En "ugyldig aftale" er, når parterne ikke er forpligtet af det løfte de har af
 ---
 
 
-Kaldet den "negativ kontraktsinteresse":
+Kaldet den **negativ kontraktsinteresse:**
       
 Som betyder, at et erstatningskrav, hvor man i økonomisk henseende stilles, som om aftalen slet ikke var indgået – tilbage til status quo.
 
@@ -1789,24 +1793,24 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 
 Fortolkningsprincipper ved tvivl om indholdet af en aftale:  
 
-* "Koncipistreglen": Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
+* **Koncipistreglen:** Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
 
-* "Minimumsreglen": Aftalen fortolkes til fordel for løftegiver. 
+* **Minimumsreglen:** Aftalen fortolkes til fordel for løftegiver. 
 
-* "Prioritetsreglen": Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
+* **Prioritetsreglen:** Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
 
-* "Gyldighedsreglen": Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
+* **Gyldighedsreglen:** Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 
-* "Rimelighedsreglen": Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
+* **Rimelighedsreglen:** Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
 
-* "Udfyldningsregel:" En regel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
+* **Udfyldningsregel:** En regel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
 
 
 ![](img/fortolk1.jpg)
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/DdFmNJpY3dE" target="_blank">Video om fortolkning af aftaler</a></h4>
+**<h4><a href="https://www.youtube.com/embed/DdFmNJpY3dE" target="_blank">Video om fortolkning af aftaler</a></h4>**
 
 
 ---
@@ -1839,7 +1843,9 @@ kable(collapse_rows_dt, align = "l",caption = "Regler og tolkning") %>%
 
 ## Ansættelsesret, herunder funktionærloven
 
-## Aftaler om finansøkonomens ansættelse og opsigelse 
+Funktionærloven er ikke pensum i Erhvervs- og finansjura på finansøkonomuddannelsen, men kan bruges som viden, når du indgår en ansættelseskontrakt i den finansielle barnche.
+
+**Aftaler om finansøkonomens ansættelse og opsigelse** 
 
 **<a href="https://www.finansforbundet.dk/da/rettigheder-regler/Sider/naarduskalhavenytjob.aspx" target="_blank">Få styr på din ansættelseskontrakt som finansøkonom Klik her!</a>**
 
@@ -1862,35 +1868,35 @@ Desuden skal man arbejde gennemsnitligt mere end 8 timer om ugen og være ansat 
 
 ---
 
-*Papir på ansættelsen*
+**Papir på ansættelsen***
 
 Senest en måned efter, man er startet på sit arbejde, og ens gennemsnitlige arbejdstid er på mere end 8 timer om ugen, skal arbejdsgiveren give én et stykke papir med vilkårene for ens ansættelse.
 
 ---
 
-Arbejdsgiveren har blandt andet pligt til at oplyse om:
+**Arbejdsgiveren har blandt andet pligt til at oplyse om:**
 
-Arbejdstagerens og arbejdsgiverens navn og adresse
+Arbejdstagerens og arbejdsgiverens navn og adresse.
 
-Hvis arbejdstagerens arbejde skal udføres på en anden adresse end den, arbejdsgiveren har anført som sit hovedsæde, skal denne adresse også fremgå. Hvis arbejdstageren ikke er tilknyttet et fast arbejdssted, er det i stedet dette, der skal fremgå af arbejdstagerens ansættelsesaftale
+Hvis arbejdstagerens arbejde skal udføres på en anden adresse end den, arbejdsgiveren har anført som sit hovedsæde, skal denne adresse også fremgå. Hvis arbejdstageren ikke er tilknyttet et fast arbejdssted, er det i stedet dette, der skal fremgå af arbejdstagerens ansættelsesaftale.
 
-Arbejdstagerens titel, rang, stilling, jobkategori eller en beskrivelse af arbejdet 
+Arbejdstagerens titel, rang, stilling, jobkategori eller en beskrivelse af arbejdet. 
 
-Hvornår arbejdstageren er tiltrådt arbejdet 
+Hvornår arbejdstageren er tiltrådt arbejdet. 
 
-Hvor længe det forventes, arbejdstageren skal være ansat - hvis der er tale om tidsbegrænset ansættelse
+Hvor længe det forventes, arbejdstageren skal være ansat - hvis der er tale om tidsbegrænset ansættelse.
 
-Arbejdstagerens rettigheder til betalt ferie 
+Arbejdstagerens rettigheder til betalt ferie.
 
-Reglerne om arbejdstagerens og arbejdsgiverens opsigelsesvarsel
+Reglerne om arbejdstagerens og arbejdsgiverens opsigelsesvarsel.
 
-Hvad arbejdstageren har ret til, eller hvad der er aftalt i løn. Dette inkluderer også tillæg, eventuelt pensionsbidrag og andre lønandele
+Hvad arbejdstageren har ret til, eller hvad der er aftalt i løn. Dette inkluderer også tillæg, eventuelt pensionsbidrag og andre lønandele.
 
-Hvornår arbejdstageren får udbetalt lønnen 
+Hvornår arbejdstageren får udbetalt lønnen. 
 
-Arbejdstagerens normale daglige eller ugentlige arbejdstid
+Arbejdstagerens normale daglige eller ugentlige arbejdstid.
 
-Øvrige væsentlige eller særlige vilkår
+Øvrige væsentlige eller særlige vilkår.
 
 Hvilke kollektive overenskomster der gælder. Hvem overenskomsterne eller aftalerne er indgået med, hvis det drejer sig om parter uden for virksomheden.
 
@@ -1900,17 +1906,23 @@ Disse regler er ikke en del af funktionærloven, men stammer fra ansættelsesbev
 
 ---
 
-*Prøvetid*
+**Prøvetid**
 
 Prøvetiden er højst tre måneder.
 
-Funktionærloven giver mulighed for, at aftale en prøvetid på højst tre måneder. I prøvetiden kan arbejdsgiveren opsige funktionæren med 14 dages varsel. Hvis der er aftalt et gensidigt opsigelsesvarsel på 14. dage, skal funktionæren også sige op med 14 dages varsel. Hvis ikke der er aftalt et gensidigt opsigelsesvarsel, kan funktionæren sige op med dags varsel.
+Funktionærloven giver mulighed for, at aftale en prøvetid på højst tre måneder. 
+
+I prøvetiden kan arbejdsgiveren opsige funktionæren med 14 dages varsel. 
+
+Hvis der er aftalt et gensidigt opsigelsesvarsel på 14. dage, skal funktionæren også sige op med 14 dages varsel. 
+
+Hvis ikke der er aftalt et gensidigt opsigelsesvarsel, kan funktionæren sige op med dags varsel.
 
 De særlige regler for prøvetid gælder kun, hvis der udtrykkeligt ved ansættelsen er aftalt prøvetid.
 
 ---
 
-*Hvis en jobaftale afbrydes*
+**Hvis en jobaftale afbrydes**
 
 Hvis arbejdsgiveren bryder en jobaftale har funktionæren krav på løn i en periode, der svarer til funktionærens opsigelsesvarsel.
 
@@ -1920,13 +1932,13 @@ Det kræver dog, at funktionæren straks gør arbejdsgiveren opmærksom på funk
 
 ---
 
-*Hvis funktionæren bryder en jobaftale*
+**Hvis funktionæren bryder en jobaftale**
 
 Arbejdsgiver har normalt krav på erstatning, hvis funktionæren udebliver fra et job, som er aftalt, funktionæren skulle tiltræde. Erstatningen er sædvanligvis på en halv måneds bruttoløn.
 
 ---
 
-*Funktionæren bliver bortvist*
+**Funktionæren bliver bortvist**
 
 Bliver funktionæren uberettiget bortvist, har funktionæren krav på løn, indtil det lovlige opsigelsesvarsel udløber.
 
@@ -1939,7 +1951,7 @@ Hvis funktionæren skal have arbejdsløshedsdagpenge, og ikke har protesteret mo
 
 ---
 
-*Erstatning*
+**Erstatning**
 
 Hvis funktionæren bliver uberettiget bortvist, skal arbejdsgiveren betale erstatning svarende til funktionæren løn indtil udløbet af det lovlige opsigelsesvarsel. Det samme gælder, hvis funktionæren forlader jobbet, fordi funktionæren arbejdsgiver groft har misligholdt ansættelsesforholdet.
 
@@ -1951,13 +1963,13 @@ Hvis funktionæren ulovligt forlader sin stilling, vil arbejdsgiveren almindelig
 
 ---
 
-*Fratrædelsesgodtgørelse*
+**Fratrædelsesgodtgørelse**
 
 Er funktionæren blevet opsagt, og har funktionæren været uafbrudt beskæftiget i den samme virksomhed i enten 12 eller 17 år, skal arbejdsgiveren udbetale en  fratrædelsesgodtgørelse på henholdsvis 1 og 3 måneders løn, uanset om funktionæren efterfølgende er ledig, overgår til nyt arbejde, eller går på pension.
 
 ---
 
-*Opsigelse*
+**Opsigelse**
 
 Send opsigelsen skriftligt.
 
@@ -1969,7 +1981,7 @@ Hvis funktionæren ønsker at stoppe den 31. januar, betyder det, at funktionær
 
 ---
 
-*Opsigelser skal varsles*
+**Opsigelser skal varsles**
 
 Hvis funktionæren bliver afskediget, har funktionæren krav på at få at vide hvorfor, hvis funktionæren beder om det.
 
@@ -1977,7 +1989,7 @@ Desuden har funktionæren krav på et varsel, som afhænger af, hvor længe funk
 
 ---
 
-Hvis funktionæren har været ansat:
+**Hvis funktionæren har været ansat:**
 
 Under 6 måneder har funktionæren 1 måneds opsigelse (Opsigelsen skal være modtaget inden udløbet af den 5. ansættelsesmåned).
 
@@ -2005,7 +2017,7 @@ Når ansættelsestiden skal regnes ud, skal prøvetiden eller eventuel vikarans�
 
 ---
 
-*Usaglig opsigelse*
+**Usaglig opsigelse**
 
 Fyring skal være rimeligt begrundet.
 
@@ -2023,7 +2035,7 @@ Hvis funktionæren bliver opsagt med for kort varsel, skal funktionæren også p
 
 ---
 
-*Fri til at søge arbejde*
+*Fri til at søge arbejde**
 
 Funktionæren har krav på at få fri med løn til at søge andet arbejde.
 
@@ -2033,7 +2045,7 @@ Dog skal funktionæren tage hensyn til arbejdsmængden og lignende på funktion�
 
 ---
 
-*Kunde- og konkurrenceklausuler*
+**Kunde- og konkurrenceklausuler**
 
 Kunde- og konkurrenceklausuler er reguleret af lov om ansættelsesklausuler (Lov nr. 1565 af 15. december 2015 om ansættelsesklausuler). 
 
@@ -2069,7 +2081,7 @@ Jobklausuler udfases og kan fremadrettet kun indgås ved virksomhedsoverdragelse
 
 ---
 
-*Graviditet*
+**Graviditet**
 
 Senest tre måneder før forventet fødsel skal funktionæren meddele sin arbejdsgiver, hvornår funktionæren forventer at begynde sin barselsorlov. 
 
@@ -2077,7 +2089,7 @@ De øvrige regler i forbindelse med barsel er meget komplicerede. Funktionæren 
 
 ---
 
-*Kortvarige ansættelser/midlertidige ansættelser*
+**Kortvarige ansættelser/midlertidige ansættelser**
 
 Midlertidig ansættelse er for eksempel job som jule- eller ferieassistance.
 
@@ -2181,7 +2193,7 @@ Accepten kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren
 
 ---
 
-***Ophør af aftaler – Ugyldighed og fortrydelse***
+**Ophør af aftaler – Ugyldighed og fortrydelse**
 
 **Ugyldighed – angiv samtlige mulige og relevante ugyldighedsregler**
 

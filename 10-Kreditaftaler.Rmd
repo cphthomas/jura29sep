@@ -4,8 +4,6 @@
 cat(readLines('np.html'))
 ```
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
-
 ---
 
 *Aftaler om kreditter anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med jeres virksomheds indgåelse af kreditaftaler og kreditkøbsaftaler med kunder og klienter. Hvis du laver aftaler om kredit, skal du være opmærksom på de regler, der gælder for området. Kreditkøb er, når du aftaler med en køber, at vedkommende ikke behøver at betale kontant, men kan betale en del af eller hele prisen for den vare, han/hun har købt, på et senere tidspunkt.*
@@ -97,9 +95,9 @@ Kreditaftaleloven (KAL)^[Lovbekendtgørelse 2019-08-06 nr. 817 om kreditaftaler.
 
 ---
 
-Lovens anvendes både i forbrugerkøb, handelskøb og civilkøb.
+Kreditaftaleloven anvendes både i forbrugerkøb, handelskøb og civilkøb.
 
-Ordet ”kreditaftale” er defineret i KAL § 4, nr. 3: 
+Ordet **kreditaftale** er defineret i KAL § 4, nr. 3: 
 
 ”Kreditaftale: En aftale, hvorved en kreditgiver yder eller giver tilsagn om at yde en forbruger kredit i form af henstand med betalingen, lån eller anden tilsvarende form for finansiel ordning,  undtagen aftaler om løbende levering af tjenesteydelser eller varer af samme art, hvor forbrugeren betaler for ydelserne eller varerne i rater, så længe de leveres.”
 
@@ -119,9 +117,9 @@ Definitionen er overensstemmende med definitionerne af forbrugeraftaler/køb i a
 
 ---
 
-Kreditretlige begreber:
+**Kreditretlige begreber:**
 
-En "kreditgiveren" forstås som forbrugerens modpart. 
+En **kreditgiveren** forstås som forbrugerens modpart. 
 
 Kreditgiver er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. 
 
@@ -129,32 +127,32 @@ Ved aftaler om ydelse af pengelån/kredit, der skal tilbagebetales, er långiver
 
 ---
 
-"Amortisering" betyder	en regelmæssig tilbagebetaling af et lån.
+**Amortisering** betyder	en regelmæssig tilbagebetaling af et lån.
 
-"Betalingsstedet" er normalt fordringshaverens bopæl eller forretningssted. "Pengeskyld er bringeskyld".
+**Betalingsstedet** er normalt fordringshaverens bopæl eller forretningssted. Grundsætningen: **Pengeskyld er bringeskyld**.
 
-Betegnelsen "fordringshaver" er	den, der har noget til gode.
+Betegnelsen **fordringshaver** er	den, der har noget til gode.
 
-"Fordringshavermora" foreligger, når opfyldelse forhindres på grund af fordringshaverens forhold. Ved betalingsforpligtelser kan skyldneren i visse tilfælde blive frigjort ved deponering, jf. deponeringsloven.
+**Fordringshavermora** foreligger, når opfyldelse forhindres på grund af fordringshaverens forhold. Ved betalingsforpligtelser kan skyldneren i visse tilfælde blive frigjort ved deponering, jf. deponeringsloven.
 
-"Fordringshaverskifte"	betyder indtræden af ny fordringshaver i et gældsforhold. Kan normalt ske uden skyldnerens samtykke.
+**Fordringshaverskifte**	betyder indtræden af ny fordringshaver i et gældsforhold. Kan normalt ske uden skyldnerens samtykke.
 
-"Forfaldstid" er	det tidspunkt, på hvilket fordringshaveren kan kræve betaling.
+**Forfaldstid** er	det tidspunkt, på hvilket fordringshaveren kan kræve betaling.
 
-"Forhalingsrente" er en	rente som følge af for sen betaling - i modsætning til almindelig kreditrente.
+**Forhalingsrente** er en	rente som følge af for sen betaling - i modsætning til almindelig kreditrente.
 
-"Forældelse"	ophør af en fordring på grund af dennes alder.
+**Forældelse**	ophør af en fordring på grund af dennes alder.
 
-"forældelsesfrist" er normalt på 10 år fra fordringens stiftelse, jf. forældelseslovens § 6. En række krav forældelse dog på 3 år fra forfaldstid, 
+**forældelsesfrist** er normalt på 10 år fra fordringens stiftelse, jf. forældelseslovens § 6. En række krav forældelse dog på 3 år fra forfaldstid, 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lovsamlingen klik her!</a>**
 
 ---
 
-"Saldokvittering" er en	kvittering for betaling til fuld og endelig afgørelse af ethvert mellemværende.
+**Saldokvittering** er en	kvittering for betaling til fuld og endelig afgørelse af ethvert mellemværende.
 
-En "skadesløs kvittering" er en kvittering, hvor den betalende tager forhold om tilbagesøgning, hvis det viser sig, at der betalt for meget.
+En **skadesløs kvittering** er en kvittering, hvor den betalende tager forhold om tilbagesøgning, hvis det viser sig, at der betalt for meget.
 
-"Vanhjemmel" er en retlige mangler ved det solgte, fx at dette var behæftet med pant eller ejendomsforbehold.
+**Vanhjemmel** er en retlige mangler ved det solgte, fx at dette var behæftet med pant eller ejendomsforbehold.
 
 ---
 
@@ -162,11 +160,11 @@ De finansielle institutioners udlån til forbrugere er derfor omfattet af kredit
 
 ---
 
-<h4><a href="https://vimeo.com/304785098" target="_blank">Video om kreditlån klik her!</a></h4>
+**<h4><a href="https://vimeo.com/304785098" target="_blank">Video om kreditlån klik her!</a></h4>**
 
 ---
 
-Hvad er kreditformidling?
+**Hvad er kreditformidling?**
 
 ```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Kreditkøb, to parter i et kreditkøb")}
 
@@ -193,7 +191,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Kreditgiver skal være erhvervsdrivende, jf. dog KAL § 1, stk. 2, og for ikke-forbrugerkøb KAL § 2.^[Følgende afsnit om kreditaftaleloven bygger på *Sonny Kristoffersens*: Forbrugerretten II, Den civilretlige forbrugerbeskyttelse, kap. 5 om kreditaftaler, 2016., KarnovGroup.] 
+**Kreditgiver skal være erhvervsdrivende**, jf. dog KAL § 1, stk. 2, og for ikke-forbrugerkøb KAL § 2.^[Følgende afsnit om kreditaftaleloven bygger på **Sonny Kristoffersens**: Forbrugerretten II, Den civilretlige forbrugerbeskyttelse, kap. 5 om kreditaftaler, 2016., KarnovGroup.] 
 
 Erhvervsdrivende er enhver, der driver en privat erhvervsvirksomhed, hvad enten der er tale om hoved- eller bibeskæftigelse. 
 
@@ -207,11 +205,11 @@ Det er uden betydning, om der tilstræbes økonomisk gevinst med virksomheden.
 
 ---
 
-Offentlig virksomhed, som kan sidestilles med privat erhvervsvirksomhed, f.eks. levering af vand, transport af personer og gods, er også at betragte som erhvervsvirksomhed i lovens forstand, jf. herved princippet i markedsføringslovens § 1. 
+**Offentlig virksomhed**, som kan sidestilles med privat erhvervsvirksomhed, f.eks. levering af vand, transport af personer og gods, er også at betragte som erhvervsvirksomhed i lovens forstand, jf. herved princippet i markedsføringslovens § 1. 
 
 ---
 
-Foreninger og sammenslutninger, hvis formål udelukkende er velgørenhed eller almennyttigt, politisk eller religiøst, kan i almindelighed ikke anses for erhvervsdrivende.  
+**Foreninger og sammenslutninger**, hvis formål udelukkende er velgørenhed eller almennyttigt, politisk eller religiøst, kan i almindelighed ikke anses for erhvervsdrivende.  
 
 Forarbejderne til kreditaftaleloven betoner, at en arbejdsgiver, som yder kredit til en medarbejder, normalt ikke kan anses som kreditgiver i lovens forstand, medmindre arbejdsgiveren yder kreditten som led i sin erhvervsmæssige virksomhed, fx et pengeinstitut.  
 
@@ -219,7 +217,7 @@ Forarbejderne til kreditaftaleloven betoner, at en arbejdsgiver, som yder kredit
 
 Kreditaftaleloven gælder også for kreditaftaler, hvor kreditten ydes af en ikke-erhvervsdrivende, hvis aftalen er indgået eller formidlet for kreditgiveren af en erhvervsdrivende.  
 
-Kreditgiveren har "bevisbyrden" for, at der ikke foreligger en forbrugerkreditaftale, at en kreditaftale er omfattet af KAL § 2, jf. KAL § 1, stk. 3.  
+Kreditgiveren har **bevisbyrden** for, at der ikke foreligger en forbrugerkreditaftale, at en kreditaftale er omfattet af KAL § 2, jf. KAL § 1, stk. 3.  
 
 ---
 
@@ -229,7 +227,7 @@ Før kreditaftalen indgås skal en forbruger have oplysninger om vilkår og omko
 
 ---
 
-Kreditgiver skal bl.a. oplyse om ÅOP (årlige omkostninger i procent; kan betegnes for ”kiloprisen for lånet”)
+Kreditgiver skal bl.a. oplyse om **ÅOP** (årlige omkostninger i procent; kan betegnes for ”kiloprisen for lånet”)
 
 Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskrav 
 
@@ -238,7 +236,7 @@ Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskra
 ![](img/kre5.jpg)
 
 
-Opfylder kreditgiver ikke oplysningspligten:
+**Opfylder kreditgiver ikke oplysningspligten:**
 
 +	Skal forbrugeren evt. betale færre omkostninger.
 
@@ -273,7 +271,7 @@ Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller efter aftalelovens �
 
 ---
 
-Kreditaftalelovens forbrugerbeskyttende sigte kommer til udtryk i lovens bestemmelser om, at forbrugeren senest i forbindelse med kreditaftalens indgåelse skal have en række oplysninger om prisen og vilkårene for kreditten. 
+**Kreditaftalelovens forbrugerbeskyttende sigte** kommer til udtryk i lovens bestemmelser om, at forbrugeren senest i forbindelse med kreditaftalens indgåelse skal have en række oplysninger om prisen og vilkårene for kreditten. 
 
 Loven indeholder derfor en række formkrav til kreditaftaler og bestemmelser om, at manglende eller urigtig opfyldelse af oplysningspligten kan medføre såvel civilretlige som strafferetlige sanktioner, jf. KAL §§ 23 og 24 samt 56, stk. 2. 
 
@@ -288,7 +286,7 @@ Kapitel 2 i KAL regulerer 10 områder, der vedrører kreditgiverens oplysningspl
 
 ---
 
-Disse områder er: 
+**Disse områder er:** 
 
 *1*. Oplysningspligt forud for aftaleindgåelsen, jf. KAL § 7 a.
 
@@ -346,7 +344,7 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 ---
 
-De oplysninger, som kreditgiveren skal give forud for indgåelse af en aftale, er ifølge KAL § 7 a, stk. 2 følgende:  
+**De oplysninger, som kreditgiveren skal give forud for indgåelse af en aftale, er ifølge KAL § 7 a, stk. 2 følgende:**  
 
 *1.* Kredittypen. (fx lån eller en kassekreditaftale)
 
@@ -425,7 +423,7 @@ En kreditaftale skal ifølge KAL § 8, stk. 1, udfærdiges på papir eller på e
 ![](img/kop.jpg)
 
 
-Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om:
+**Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om:**
 
 *1*. Kredittypen.
 
@@ -483,7 +481,7 @@ Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kre
 
 ---
 
-Særligt om kassekreditter:
+**Særligt om kassekreditter:**
 
 ![](img/kasse.png)
 
@@ -493,11 +491,11 @@ En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et eks
 
 ---
 
-<h4><a href="https://youtu.be/cFofI0O1wP4" target="_blank">Video Hvad er en kassekredit</a></h4>
+**<h4><a href="https://youtu.be/cFofI0O1wP4" target="_blank">Video Hvad er en kassekredit</a></h4>**
 
 ---
 
-Kassekreditaftaler skal ifølge KAL § 8, stk. 5, indeholde en klar og tydelig angivelse af:
+**Kassekreditaftaler skal ifølge KAL § 8, stk. 5, indeholde en klar og tydelig angivelse af:**
 
 *1*. Kredittypen.
 
@@ -525,7 +523,7 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 ![](img/opl3.jpg)
 
-Oplysning om variabel rente og andre variable kreditomkostninger:
+**Oplysning om variabel rente og andre variable kreditomkostninger:**
 
 Kreditaftaleloven indeholder ikke begrænsninger af godkendte pengeinstitutters, realkreditinstitutters eller andre godkendte kreditinstitutters ret til at variere den rente og de andre omkostninger, som en forbruger skal betale for en given kredit. 
 
@@ -541,7 +539,7 @@ Den samme begrænsning gælder ifølge KAL § 8, stk. 7, for andre kreditomkostn
 
 ---
 
-Særligt om pantsikrede lån i fast ejendom:  
+**Særligt om pantsikrede lån i fast ejendom:**  
 
 I KAL § 8 a, stk. 1, er det bestemt, at ved kreditaftaler, der sikres ved pant i fast ejendom, skal de oplysninger, der er nævnt i § 8, og aftalens øvrige væsentlige vilkår gives forud for kreditaftalens indgåelse, jf. KAL § 7 a.
 
@@ -549,7 +547,7 @@ For så vidt angår sælgerpantebreve er det ved KAL § 8 a, stk. 2, bestemt, at
 
 ---
 
-<h4><a href="https://vimeo.com/241136749" target="_blank">Video Forstå et sælgerpantebrev på 2 minutter</a></h4>
+**<h4><a href="https://vimeo.com/241136749" target="_blank">Video Forstå et sælgerpantebrev på 2 minutter</a></h4>**
 
 ---
 
@@ -561,7 +559,7 @@ Som en ordensforskrift er det ved KAL § 8 a, stk. 4, bestemt, at KAL § 8 finde
 
 ---
 
-Særligt om overtræk:  
+**Særligt om overtræk:**  
 
 Hvor en kreditgiver og en forbruger har indgået aftale om oprettelse af en løbende konto, hvor det eventuelt vil kunne tillades forbrugeren at overtrække kontoen, skal aftalen ifølge KAL § 8 b, stk. 1, indeholde de oplysninger, der er omhandlet i KAL § 7 b, stk. 2, nr. 5. 
 
@@ -571,7 +569,7 @@ En sådan kreditaftale kan være en kassekredit, men kan også være en anden ko
 
 ---
 
-Oplysningerne skal gives regelmæssigt på papir eller på et andet "varigt medium".
+Oplysningerne skal gives regelmæssigt på papir eller på et andet **varigt medium**.
 
 Hvor der er tale om et væsentligt overtræk (konkret vurdering) i en periode på over 1 kalendermåned skal kreditgiveren ifølge KAL § 8 b, stk. 2, straks på papir eller på et andet varigt medium underrette forbrugeren om følgende:
 
@@ -579,7 +577,7 @@ Overtrækket, det involverede beløb, debitorrenten og en eventuel bod og eventu
 
 ---
 
-Underretning om ændring af debitorrenten:
+**Underretning om ændring af debitorrenten:**
 
 Ifølge KAL § 9, stk. 1, skal kreditgiveren underrette forbrugeren om enhver ændring i debitorrenten. 
 
@@ -593,7 +591,7 @@ Underretningen skal ifølge stk. 1 som hovedregel gives, før ændringerne træd
 
 ---
 
-Dog kan kreditgiveren og forbrugeren i kreditaftalen have fastsat en bestemmelse om, at oplysninger efter KAL § 9, stk. 1 og 2, gives til forbrugeren med jævne mellemrum i de tilfælde, hvor: 
+**Dog kan kreditgiveren og forbrugeren i kreditaftalen have fastsat en bestemmelse om, at oplysninger efter KAL § 9, stk. 1 og 2, gives til forbrugeren med jævne mellemrum i de tilfælde, hvor:** 
 
 *1*) ændringen i debitorrenten skyldes en ændring i en referencesats (fx Nationalbankens diskonto eller udlånsrente), 
 
@@ -617,7 +615,7 @@ Denne forpligtelse kan ikke opfyldes ved, at forbrugeren eksempelvis via adgang 
 
 ---
 
-Ifølge KAL § 10, stk. 2, skal et kontoudtog indeholde oplysninger om:
+**Ifølge KAL § 10, stk. 2, skal et kontoudtog indeholde oplysninger om:**
 
 ![](img/konto.jpg)
 
@@ -651,7 +649,7 @@ Dog kan det ifølge KAL § 10, stk. 4, fastsættes i en kreditaftale, at underre
 
 ---
 
-Beregning af de årlige omkostninger i procent:
+**Beregning af de årlige omkostninger i procent:**
 
 
 ![](img/aop.png)
@@ -672,7 +670,7 @@ Grundligningen, som bestemmer de årlige omkostninger i procent (ÅOP), sætter 
 
 ---
 
-Kreditformidlere: 
+**Kreditformidlere:** 
 
 I visse tilfælde skal en forbruger betale et gebyr til en kreditformidler for den (tjeneste-)ydelse, som formidleren har præsteret i forbindelse med indgåelse af en kreditaftale.
 
@@ -682,7 +680,7 @@ I visse tilfælde skal en forbruger betale et gebyr til en kreditformidler for d
 
 <img src="img/kredit8.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Hvilke konsekvenser har det, hvis kreditgiveren tilsidesætter sine oplysningsforpligtelser:
+**Hvilke konsekvenser har det, hvis kreditgiveren tilsidesætter sine oplysningsforpligtelser:**
 
 Manglende opfyldelse af visse oplysningsforpligtelser, er civilretligt sanktioneret i KAL § 23, såfremt der ikke er givet behørig oplysning om ÅOP og de samlede omkostninger, som forbrugeren skal betale, jf. KAL § 8, stk. 2, nr. 7, eller stk. 5, nr. 6, jf. KAL § 23, stk. 1, jf. dog § 23, stk. 3, at forbrugeren ikke kan afkræves andre kreditomkostninger end en årlig rente svarende til den officielle udlånsrente med et tillæg på 5 %, se fx Juridisk Årbog 1999, s. 188 (møbler på kredit).
 
@@ -717,19 +715,19 @@ Såfremt forbrugeren har betalt mere end det, denne er pligtig at betale ifølge
 
 Forbrugerens retsstilling fastsættes i sådanne tilfælde efter dansk rets almindelige regler om "condictio indebiti" (tilbagesøgning). 
 
-"condictio indebiti" betyder	tilbagesøgning af beløb, som er erlagt i en urigtig formening om skyld.
+**condictio indebiti** betyder	tilbagesøgning af beløb, som er erlagt i en urigtig formening om skyld.
 
 Har sælgeren i et kreditkøb ikke givet oplysninger som foreskrevet i KAL § 8, kan kreditgiveren i almindelighed ikke kræve godtgørelse for omkostninger, som ellers ville påløbe i anledning af forbrugerens misligholdelse, jf. KAL § 24.
 
 ---
 
-Bøder for overtrædelse af kreditaftaleloven:
+**Bøder for overtrædelse af kreditaftaleloven:**
 
 Grove eller gentagne overtrædelser af KAL §§ 7 a, 7 b, 8, 8 a, 8 b, 9, 10 eller 17 straffes med bøde, jf. KAL § 56, stk. 2.
 
 ---
 
-### Urimelige vilkår, som kan tilsidesættes
+### Urimelige vilkår i kreditaftalen
 
 Det følger af KAL § 22: 
 
@@ -748,9 +746,9 @@ Dommen i **U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at ren
 
 ---
 
-## Trepartsforhold  
+## Trepartsforhold en introduktion 
 
-Lånesituationer med tre parter:
+**Lånesituationer med tre parter:**
 
 *1.	Oprindeligt trepartsforhold.
 
@@ -762,9 +760,9 @@ Lånesituationer med tre parter:
 
 Vigtigt at skelne mellem de tre situationer for at afgøre, hvilke regler, der finder anvendelse.
  
-Trepartsforhold: 
+**Trepartsforhold:** 
 
-Oprindeligt trepartsforhold:
+**Oprindeligt trepartsforhold:**
 
 Forbrugeren opnår lån hos en tredjemand gennem en kreditformidler, jf. KAL § 4, stk. 1, nr. 15 litra b
 
@@ -778,9 +776,9 @@ Kreditgiver kan få ejendomsforbehold i det solgte men ikke pant.
 
 ---
  
-Trepartsforhold: 
+**Trepartsforhold:** 
 
-Efterfølgende trepartsforhold:
+**Efterfølgende trepartsforhold:**
 
 Forbrugeren indgår kreditaftale med sælger, jf. KAL § 4, stk. 1, nr. 15 litra a. Sælger overdrager efterfølgende aftalen til en tredjemand. 
 
@@ -795,7 +793,7 @@ Kreditgiver kan få ejendomsforbehold i det solgte men ikke pant.
  
 ---
 
-Trepartsforhold og fritstående lån:
+**Trepartsforhold og fritstående lån:**
 
 Ikke et trepartsforhold fordi sælger ikke har kontakt med långiver
 
@@ -956,7 +954,7 @@ Der skal ikke efter retspraksis meget til før at en sådan aftale foreligger me
 
 ---
 
-Selv om dommen **U 1995.192/2** H er udtryk for, at KAL § 4, nr. 15, litra b, har et bredt anvendelsesområde, medfører bestemmelsen ikke, at alle lån, der anvendes til løsørekøb, må anses for omfattet af KAL § 4, nr. 15, litra b. 
+Selv om dommen **U 1995.192/2 H** er udtryk for, at KAL § 4, nr. 15, litra b, har et bredt anvendelsesområde, medfører bestemmelsen ikke, at alle lån, der anvendes til løsørekøb, må anses for omfattet af KAL § 4, nr. 15, litra b. 
 
 ---
 
@@ -968,7 +966,7 @@ Det kan heller ikke antages, at sælgers medvirken – eksempelvis at han hjælp
 
 ---
 
-Internationale betalingskort omfattet af det oprindelige trepartsforhold:
+**Internationale betalingskort er omfattet af det oprindelige trepartsforhold:**
 
 ![](img/master.jpg)
  
@@ -1030,7 +1028,7 @@ I tilfælde af kreditorskifte (ved det efterfølgende trepartsforhold) er reglen
 
 ---
 
-Efterfølgende trepartsforhold:
+**Efterfølgende trepartsforhold:**
 
 
 ```{r , echo=FALSE, result=TRUE,fig.height=4,fig.cap=("Efterfølgende trepartsforhold, køber kan gøre samme indsigelser overfor både sælger og finansieringsselskab.")}
@@ -1090,11 +1088,11 @@ Efter KAL § 33, stk. 3 og 4, kan forbrugeren i det oprindelige trepartsforhold 
 
 Betingelserne for, at forbrugeren kan gøre et pengekrav gældende mod de nævnte tredjemænd, er: 
 
-*at* forbrugeren har et pengekrav mod sælgeren eller tjenesteyderen i anledning af aftalen (fx krav på hel eller delvis tilbagebetaling af vederlaget eller på erstatning), at forbrugeren sandsynliggør, 
+**at** forbrugeren har et pengekrav mod sælgeren eller tjenesteyderen i anledning af aftalen (fx krav på hel eller delvis tilbagebetaling af vederlaget eller på erstatning), at forbrugeren sandsynliggør, 
 
-*at* sælgeren eller tjenesteyderen ikke opfylder sine forpligtelser, samt 
+**at** sælgeren eller tjenesteyderen ikke opfylder sine forpligtelser, samt 
 
-*at* beløbet ikke overstiger, hvad forbrugeren har betalt den pågældende finansierende tredjemand i anledning af aftalen. 
+**at** beløbet ikke overstiger, hvad forbrugeren har betalt den pågældende finansierende tredjemand i anledning af aftalen. 
 
 ---
 
@@ -1125,7 +1123,7 @@ Det er tvivlsomt, om den finansierende tredjemand over for forbrugeren hæfter f
 
 ---
 
-"Cut-off-klausul" er en klausul om, at skyldneren ikke skal kunne rejse indsigelse mod en erhverver af fordringen, jf. KAL § 32: "Det kan ikke aftales, at der ved overdragelse til tredjemand af de rettigheder, der tilkommer kreditgiveren, sælgeren eller leverandøren af en tjenesteydelse, sker indskrænkning af dennes forpligtelser over for forbrugeren. " 
+**Cut-off-klausul** er en klausul om, at skyldneren ikke skal kunne rejse indsigelse mod en erhverver af fordringen, jf. KAL § 32: "Det kan ikke aftales, at der ved overdragelse til tredjemand af de rettigheder, der tilkommer kreditgiveren, sælgeren eller leverandøren af en tjenesteydelse, sker indskrænkning af dennes forpligtelser over for forbrugeren." 
 
 Er ikke gyldig i forbrugerforhold, jf. tillige KAL § 33.
 
@@ -1151,7 +1149,7 @@ Der skal heller ikke som erhvervsdrivende køber erlægges 20 pct. i udbetaling,
 
 <img src="img/kredit12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-"Ejendomsforbehold" er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1.
+**Ejendomsforbehold** er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1.
 
 Ved et gyldigt ejendomsforbehold	har sælger således forbeholdt sig ejendomsretten til det solgte, hvis købesummen ikke betales.
 
@@ -1187,7 +1185,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Formkravet til et gyldigt ejendomsforbehold:
+**Formkravet til et gyldigt ejendomsforbehold:**
 
 Et gyldigt ejendomsforbehold skal efter KAL § 34, stk. 1 være:
 
@@ -1208,25 +1206,25 @@ OBS: Ingen krav om udbetaling i handelskøb og civilkøb for at der er taget et 
  
 ---
 
-Konflikt med senere rettigheder ved et gyldigt ejendomsforbehold:
+**Konflikt med senere rettigheder ved et gyldigt ejendomsforbehold:**
 
-*HR:* Et gyldigt stiftet ejendomsforbehold beskytter sælgers ejendomsret til aktivet overfor købers andre kreditorer og aftaleerhververe. 
+**HR:** Et gyldigt stiftet ejendomsforbehold beskytter sælgers ejendomsret til aktivet overfor købers andre kreditorer og aftaleerhververe. 
 
-*U:* Hvis en godtroende forbruger har købt aktivet med ejendomsforbehold, kan køber ekstinkvere (udslette) sælger ejendomsforbehold hvis:  
+**U:** Hvis en godtroende forbruger har købt aktivet med ejendomsforbehold, kan køber ekstinkvere (udslette) sælger ejendomsforbehold hvis:  
 
-*U1*: Sælger har givet tilladelse til videresalg.  
+**U1:** Sælger har givet tilladelse til videresalg.  
 
-*U2*: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber.
+**U2:**: Sælger har opført sig passivt eller særlig uforsigtigt, og aktivet er udleveret til køber.
 
-*U3:* Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber. 
-
----
-
-"Forhandlergrundsætning"	betyder, at et ejendomsforbehold ikke kan gøres gældende, hvis sælgeren har solgt genstanden til en person, om hvem han vidste eller burde vide, at denne var forhandler af genstande af den pågældende art, og forhandleren herefter har videresolgt genstanden til en godtroende erhverver, som har fået genstanden i hænde.
+**U3:** Forhandlergrundsætningen – sælger er klar over, at køber er forhandler af aktivet, og aktivet er udleveret til køber. 
 
 ---
 
-"Særregler for forbrugerkøb med ejendomsforbehold:"
+**Forhandlergrundsætning**	betyder, at et ejendomsforbehold ikke kan gøres gældende, hvis sælgeren har solgt genstanden til en person, om hvem han vidste eller burde vide, at denne var forhandler af genstande af den pågældende art, og forhandleren herefter har videresolgt genstanden til en godtroende erhverver, som har fået genstanden i hænde.
+
+---
+
+**Særregler for forbrugerkøb med ejendomsforbehold:**
 
 Formålet med reglerne om køb med ejendomsforbehold er at give sælgeren mulighed for at få sikkerhed for købesummens betaling og derved beskytte sine legitime fordringsrettigheder over for forbrugerens andre kreditorer og aftaleerhververe.  
 
@@ -1258,7 +1256,7 @@ Som køb med ejendomsforbehold anses også en aftale, der er betegnet som lejeko
 
 ![](img/fona.jpg)
 
-Se "Fona-sagerne" i Højesterets dom **U 2004.317 H**, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven.
+Se **Fona-sagerne** i Højesterets dom **U 2004.317 H**, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven.
 **<a href="https://pro.karnovgroup.dk/document/7000279473/1" target="_blank">Dommen klik her!</a>**
 
 
@@ -1267,11 +1265,11 @@ Se "Fona-sagerne" i Højesterets dom **U 2004.317 H**, hvorefter aftale om leje 
 
 ---
 
-"Krav til aftalen om ejendomsforbehold:"
+**Krav til aftalen om ejendomsforbehold:**
 
 Definitorisk stilles der ikke krav om, at et ejendomsforbehold skal aftales skriftligt. 
 
-Da en forbrugerkreditaftale efter bestemmelsen i KAL § 8 skal udfærdiges skriftligt, og da en betingelse for, at kreditgiveren – såvel i forbrugerkøb som ikke-forbrugerkøb med ejendomsforbehold – kan tage det solgte tilbage ifølge KAL § 36, er, at ejendomsforbeholdet er indeholdt i en skriftlig kontrakt, må et ejendomsforbehold de facto aftales skriftligt. 
+Da en forbrugerkreditaftale efter bestemmelsen i KAL § 8 skal udfærdiges skriftligt, og da en betingelse for, at kreditgiveren – såvel i forbrugerkøb som ikke-forbrugerkøb med ejendomsforbehold – kan tage det solgte tilbage ifølge KAL § 36, er, at ejendomsforbeholdet er indeholdt i en skriftlig kontrakt, må et **ejendomsforbehold de facto aftales skriftligt**. 
 
 ---
 
@@ -1290,7 +1288,7 @@ Sælgeren kan ikke tage et ensidigt ejendomsforbehold – fx i en faktura eller 
 ---
 
 
-"Krav til individualisering af det solgte:"
+**Krav til individualisering af det solgte:**
 
 En betingelse for, at et ejendomsforbehold kan gøres gældende, er, at den solgte genstand er specificeret således, at den ikke er forvekslelig med en anden genstand. Kravet gælder såvel inter partes som i forhold til tredjemand. 
 
@@ -1312,7 +1310,7 @@ Det er kreditgiveren, der i det enkelte tilfælde må løfte bevisbyrden for, hv
 
 ---
 
-Et ejendomsforbehold gælder kun for den konkrete genstand, der er taget ejendomsforbehold i. 
+**Et ejendomsforbehold gælder kun for den konkrete genstand, der er taget ejendomsforbehold i.** 
 
 Findes genstanden ikke længere, eller kan den ikke identificeres, kan sælgeren ikke hævde sin rettighed. 
 
@@ -1333,7 +1331,7 @@ Ifølge domspraksis fraviges dette udgangspunkt, såfremt kreditgiveren har udvi
 
 ---
 
-"Betingelser for gyldigheden af et ejendomsforbehold:"
+**Betingelser for gyldigheden af et ejendomsforbehold:**
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
@@ -1347,7 +1345,7 @@ Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter l
 
 ---
 
-Krav til aftaletidspunktet:
+**1. Krav til aftaletidspunktet:**
 
 Efter KAL § 34, stk. 1, nr. 1, skal et ejendomsforbehold således være aftalt senest ved overgivelsen af det købte til forbrugeren. 
 
@@ -1369,7 +1367,7 @@ Kravet om, at ejendomsforbeholdet skal være aftalt senest ved overgivelsen, gæ
 
 ---
 
-"Kreditprisen skal overstige 2.000 kr.:"
+**2. Kreditprisen skal overstige 2.000 kr.:**
 
 Et yderligere krav for, at der foreligger et gyldigt ejendomsforbehold, er, at kreditprisen skal overstige 2.000 kr., jf. KAL § 34, stk. 1, nr. 2.  
 
@@ -1382,7 +1380,7 @@ Det samlede beløb, der skal betales af forbrugeren, beregnes på tidspunktet fo
 
 ---
 
-"Købet må ikke være sket i henhold til kreditaftale med -variabelt lånebeløb:"
+**3. Købet må ikke være sket i henhold til kreditaftale med -variabelt lånebeløb:**
 
 Efter KAL § 34, stk. 1, nr. 3, kan et ejendomsforbehold ikke gyldigt aftales, såfremt kreditkøbet sker i henhold til en aftale om kredit med variabelt lånebeløb, dvs. en kassekredit eller en kontoaftale med eller uden kort.
 
@@ -1396,7 +1394,7 @@ Bestemmelsen i KAL § 34, stk. 1, nr. 3, udelukker ikke, at en køber kan indgå
 
 ---
 
-Udbetalingskrav på mindst 20 % af kontantprisen:
+**4. Udbetalingskrav på mindst 20 % af kontantprisen:**
 
 Efter KAL § 34, stk. 1, nr. 4, er det ydermere en betingelse for et gyldigt ejendomsforbehold, at sælgeren er fyldestgjort for mindst 20 % af kontantprisen, hvilket vil sige den pris, som genstanden kunne være købt til ved kontant betaling på tidspunktet for aftalens indgåelse.  
 
@@ -1471,7 +1469,7 @@ Køber misligholder kreditaftalen og der er et gyldigt ejendomsforbehold:
 
 Er kreditaftalen opsagt kan sælger med ejendomsforbehold tage aktivet tilbage.  
 
-Aktiver omfattet af "trangsbeneficiet" kan ikke tages tilbage, jf. RPL § 509.  
+Aktiver omfattet af **trangsbeneficiet** kan ikke tages tilbage, jf. RPL § 509.  
 
 ---
 
@@ -1484,9 +1482,9 @@ Har køber misligholdt aktivet eller lagt hindringer i vejen for tilbagetagelsen
 
 Køber misligholder kreditaftalen og der er ikke noget gyldigt ejendomsforbehold:
 
-*HR:* Er kreditaftalen opsagt kan sælger uden ejendomsforbehold få udlæg i alle købers aktiver.
+**HR:** Er kreditaftalen opsagt kan sælger uden ejendomsforbehold få udlæg i alle købers aktiver.
 
-*U:* Fogedretten kan henvise sælger til at tage det solgte tilbage.
+**ØU:** Fogedretten kan henvise sælger til at tage det solgte tilbage.
 
 ---
 
@@ -1502,17 +1500,21 @@ Sælger kan:
 
 ...
 
-## Eksamensopgave 1 Kreditaftaler
+## Eksamensopgave 1
 
 **Kunst og kærlighed**
 
 Lone Pind driver et mindre kunstgalleri i Nyborg. I begyndelsen af januar solgte hun et mindre men temmelig værdifuldt oliemaleri til en af galleriets tilbagevendende kunder, kunstsamleren Ole Høj. Som det var sket før, manglede han rede penge til købet, og de aftalte, at Lone fik sikkerhed for kreditten i form af et ejendomsforbehold.
+
+**Eksamensspørgsmålet:** 
 
 1. Hvilke andre former for kreditsikkerhed kunne parterne have overvejet?
 
 ---
 
 De første måneder går det planmæssigt med betalingen, men da først afdraget fra april og derefter fra maj udebliver, bliver Lone urolig.
+
+**Eksamensspørgsmålet:** 
 
 2. Hvilke betingelser skal være opfyldt før Lone kan kræve oliemaleriet tilbage?
 
@@ -1526,11 +1528,15 @@ Det viser sig at Corfitz tager rollen meget alvorligt og selvom Natasha prøver 
 
 Men det er ikke kun Corfitz, men også Lone der har temperament, og som følge af det skete og en anden mindre uoverensstemmelse, udvikler der sig en større konflikt imellem de to, og Lone afviser aftalen om købet som ugyldig.
 
+**Eksamensspørgsmålet:** 
+
 3.  Har hun ret til det?
 
 ---
 
 Få uger efter har striden lagt sig, og Lone er godt tilfreds med Natashas arbejde, hvorefter Natasha tirsdag d. 8. juni 2015 indgår aftale om køb af en lille hyggelig lejlighed i det østlige Odense. Men da hendes næsten faste kæreste, baron Christian von Zlowlov, ganske overraskende, frier til hende to dage senere, og hun vælger at sige ja, fortryder hun lejlighedskøbet, da hun jo nu skal være frue på Christians sydfynske slot.
+
+**Eksamensspørgsmålet:** 
 
 4. Er det muligt for Natasha at komme ud af aftalen, og i givet fald på hvilke betingelser?
 
@@ -1538,19 +1544,23 @@ Få uger efter har striden lagt sig, og Lone er godt tilfreds med Natashas arbej
 
 Efter at have drøftet situationen med Christian bliver de dog enige om at beholde lejligheden, da det i mange situationer er praktisk for dem at have en lejlighed i Odense. Desværre viser det sig få uger senere, at der er nogle temmelig alvorlige fugtskader under og bag køkkenelementerne mellem køkkenvasken og opvaskemaskinen. Der er ikke udfærdiget tilstandsrapport, og sælger hævder, at der er tale om synlige fejl.
 
+**Eksamensspørgsmålet:** 
+
 5.  Hvilke omstændigheder afgør Natachas muligheder for at gøre krav gældende i forbindelse med skaderne?
 
 ---
+
+**Eksamensspørgsmålet:** 
 
 6. Hvis der i den samme situation var blevet udfærdiget tilstandsrapport og elinstallationsrapport samt tegnet ejerskifte-forsikring, og der med sikkerhed var tale om synlige fejl, som ikke fremgik af tilstandsrapporten, hvordan havde Nataschas situation så været, og af hvem og under hvilke betingelser, kunne hun kræve erstatning?
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40417767" data-resource="episode_id=40417767" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast til eksamensopgave 10.1. Kunst og kærlighed" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-## Eksamensopgave 2 Kreditaftaler
+## Eksamensopgave 2
 
 **Børge Olsen**
 
@@ -1585,7 +1595,9 @@ Prisen var 8.000 kr., men han havde kun taget 4.000 kr. med og ville derfor gern
 
 4.	Han kunne søge et lån hos et finansieringsselskab, som Elgiganten havde en samarbejdsaftale med. Elgiganten havde låneansøgningsskemaer liggende i Fields
 
-Spørgsmål 1) Redegør med inddragelse af den relevante lovgivning for, om det er lovligt for Elgiganten at tilbyde finansieringen på de anførte måder
+**Eksamensspørgsmålet:** 
+
+1) Redegør med inddragelse af den relevante lovgivning for, om det er lovligt for Elgiganten at tilbyde finansieringen på de anførte måder
 
 ---
 
@@ -1609,7 +1621,9 @@ Han havde ringet til Nets, da han var kommet hjem, men af ikke nærmere oplyste 
 
 I et efterfølgende brev skrev Sydbank til ham, at han af det samlede beløb hæftede for 8.000 kr., da ”der går for lang tid, fra du opdager at kortet er stjålet, til kortet bliver spærret.”
 
-Spørgsmål 2) Redegør med henvisning til den relevante lovgivning for, i hvilken udstrækning Børge Olsen hæfter for det misbrug, der har fundet af sted den 12. og 13. april 2019?
+**Eksamensspørgsmålet:** 
+
+2) Redegør med henvisning til den relevante lovgivning for, i hvilken udstrækning Børge Olsen hæfter for det misbrug, der har fundet af sted den 12. og 13. april 2019?
 
 ---
 
@@ -1625,7 +1639,9 @@ Da arbejdsmanden skal køre den en af bilerne ind i værkstedshallen, kommer han
 
 Ved påkørslen får den kundebil, han kører i også nogle store buler. 
 
-Spørgsmål 3) Redegør med inddragelse af de relevante lovbestemmelser for, hvem der kan pålægges ansvar for:
+**Eksamensspørgsmålet:** 
+
+3) Redegør med inddragelse af de relevante lovbestemmelser for, hvem der kan pålægges ansvar for:
 
 1)	Den ødelagte værkstedsport 
 2)	Bulerne på kundebilen
@@ -1654,17 +1670,19 @@ Husleje på 75.000 kr.
 Bøde 3.000 kr.
 Indkøb, som boet havde foretaget, på i alt 35.000 kr.
 
-Der var ikke stillet sikkerhed for nogen af de nævnte gældsposter
+Der var ikke stillet sikkerhed for nogen af de nævnte gældsposter.
 
-Spørgsmål 4: Redegør med inddragelse af den relevante lovgivning for, hvor stor en dividende Kurt Petersen kan forvente at modtage fra konkursboet.
+**Eksamensspørgsmålet:** 
 
----
-
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40419045" data-resource="episode_id=40419045" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 10.2 Børge Olsen" on Spreaker.</a>
+4) Redegør med inddragelse af den relevante lovgivning for, hvor stor en dividende Kurt Petersen kan forvente at modtage fra konkursboet.
 
 ---
 
-## Eksamensopgave 3 Kreditaftaler
+**Podcast om svaret på eksamensopgaven**
+
+---
+
+## Eksamensopgave 3
 
 **Bo Bjerrehus**
 
@@ -1697,9 +1715,11 @@ Ole Olsen kunne derefter så forlade antikvitetsbutikken med uldtæppet og et sp
  	 
 Omkring julen 2018 viste det sig, at stolebenene på 6 af stolene fra Slovenien var begyndt at revne. Ole Olsen kontaktede straks Bo Bjerrehus efter nytår for at reklamere over stolenes tilstand.  
  
-Desværre var Bo Bjerrehus gået konkurs dagen efter købet den 29. maj 2018. 
+Desværre var Bo Bjerrehus gået konkurs dagen efter købet den 29. maj 2018.
+
+**Eksamensspørgsmålet:** 
  
-Spørgsmål 1: Der ønskes en begrundet redegørelse for, hvilke muligheder Ole Olsen har for at gøre sit krav gældende. 
+1: Der ønskes en begrundet redegørelse for, hvilke muligheder Ole Olsen har for at gøre sit krav gældende. 
  
 
 Ad. ”Sikkerflex” 
@@ -1736,8 +1756,10 @@ Det vidste sig, at Jørgen ikke havde været opmærksom på, hvor benzinslagen v
 Bilværkstedet ”Bil til tiden” havde en ansvarsforsikring hos forsikringsselskabet Albatros.   
  
 Bo Bjerrehus krævede erstatning for sin udbrændte Mercedes fra Jørgen, samt fra bilværkstedet ”Bil til tiden”. 
+
+**Eksamensspørgsmålet:** 
  
-Spørgsmål 2: Med inddragelse af den relevante lovgivning, ønskes der en stillingtagen til, om Bo Bjerrehus kan opnå erstatning fra Jørgen og fra bilværkstedet ”Bil til tiden”. 
+2: Med inddragelse af den relevante lovgivning, ønskes der en stillingtagen til, om Bo Bjerrehus kan opnå erstatning fra Jørgen og fra bilværkstedet ”Bil til tiden”. 
  
  
 Ad. Jørgen
@@ -1757,8 +1779,10 @@ Samarbejdspartneren spurgte, om Mortensen havde lyst til at give et tilbud på k
 Tirsdag aften havde Mortensen en telefonsamtale med Bjerrehus, som fortalte, at han havde solgt sit tæppe for 8.500 kr. Oven på den oplysning fik Mortensen ”kolde fødder” i forhold til det købstilbud, han havde sendt tidligere på dagen. Han skyndte sig derfor at skrive en ny mail til sin samarbejdspartner om, at han havde overvurderet størrelsen på tæpperne, som han havde troet var større, end de i virkeligheden var. Han ønskede derfor kun, skrev han, at købe tæpperne til en samlet pris på 30.000 kr.  
  
 Onsdag morgen modtog han svar fra samarbejdspartneren, som blankt afviste Mortensens ønske, og han tilføjede, at han aftenen forinden havde læst Mortensens mail, og at han netop nu var ved at sende en accept af Mortensens købstilbud på 45.000 kr. Mortensen fik kort tid efter denne mail, og skrev med det samme tilbage, at han ikke mente, at han var bundet af sit tilbud.  
+
+**Eksamensspørgsmålet:** 
     
-Spørgsmål 3: Redegør med inddragelse af den relevante lovgivning for, om Mortensen er bundet af sit tilbud.  
+3: Redegør med inddragelse af den relevante lovgivning for, om Mortensen er bundet af sit tilbud.  
  
 ---
  
@@ -1779,7 +1803,10 @@ Under et møde i Fogedretten oplyste Mortensen følgende om sine aktiver:
 5.	Han havde desuden en computer til en værdi af 12.000 kr. Computeren brugte han i sin virksomhed. 
  
 6.	Endelig havde han en vielsesring til en værdi af 8.000 kr., som stammede fra ægteskabet med hans nu fraskilte kone. 
-Spørgsmål 4: Redegør med inddragelse af den relevante lovgivning for, i hvilken udstrækning banken vil kunne gøre udlæg i de nævnte aktiver.  
+
+**Eksamensspørgsmålet:** 
+
+4: Redegør med inddragelse af den relevante lovgivning for, i hvilken udstrækning banken vil kunne gøre udlæg i de nævnte aktiver.  
  
 Ad. 1)	?
 
@@ -1795,7 +1822,7 @@ Ad. 6)	?
  
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40419046" data-resource="episode_id=40419046" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Eksamensopgave 10.3 Bo Bjerrehus" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -1826,7 +1853,7 @@ Ad. 6)	?
 
 **3. Når CISG skal anvendes**
 
-- Sælger kan hæve købet ved væsentlig misligholdelse fra køberen – CISG art. 64, jf. § 61 samt 25. CISG stiller således ikke krav om ejendomsforbehold, for at sælgeren kan hæve. 
+- Sælger kan hæve købet ved væsentlig misligholdelse fra køberen – CISG art. 64, jf. art. § 61 samt art. 25. CISG stiller således ikke krav om ejendomsforbehold, for at sælgeren kan hæve. 
 
 ---
 
@@ -1954,7 +1981,7 @@ Ad. 6)	?
 
 ![](img/forbrug.jpg)
 
-Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang tid har du til at tilbagebetale lånet? <a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz.</a>
+Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang tid har du til at tilbagebetale lånet? **<a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz.</a>**
 
 ---
 
@@ -1962,13 +1989,13 @@ Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang
 
 ![](img/real.jpg)
 
-Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når du konverterer et realkreditlån? <a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Test dig selv i vores quiz om realkreditlån.</a>
+Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når du konverterer et realkreditlån? **<a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Test dig selv i vores quiz om realkreditlån.</a>**
 
 ---
 
-## Quiz Kreditaftaler
+## Quiz
 
-<h3><a href="https://quiz.tepedu.dk/jura14" target="_blank">Quiz Kreditaftaler <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+**<h3><a href="https://quiz.tepedu.dk/jura14" target="_blank">Quiz Kreditaftaler <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
 
 
 

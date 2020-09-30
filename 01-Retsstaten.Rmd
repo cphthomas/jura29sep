@@ -71,12 +71,12 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 
 
 
-<h4><a href="https://www.youtube.com/embed/nRkpUt8juz0" target="_blank">Video om den danske Grundlov</a></h4>
+**<h4><a href="https://www.youtube.com/embed/nRkpUt8juz0" target="_blank">Video om den danske Grundlov</a></h4>**
 
 ---
 
 
-<h4><a href="https://youtu.be/D2-6UfvUNOU" target="_blank">Video om Grundloven i 1849</a></h4>
+**<h4><a href="https://youtu.be/D2-6UfvUNOU" target="_blank">Video om Grundloven i 1849</a></h4>**
 
 ---
 
@@ -87,18 +87,18 @@ Efterhånden som den internationale udvikling tog fart, erkendte Kong Christian 
 ---
 
 
-<h4><a href="https://youtu.be/WoDxgUO_K-I" target="_blank">Video Grundlovens tilblivelse</a></h4>
+**<h4><a href="https://youtu.be/WoDxgUO_K-I" target="_blank">Video Grundlovens tilblivelse</a></h4>**
 
 
 ---
 
 
-<h4><a href="https://youtu.be/fz71wkiH4ig" target="_blank">Video Grundlovsændringen i 1915</a></h4>
+**<h4><a href="https://youtu.be/fz71wkiH4ig" target="_blank">Video Grundlovsændringen i 1915</a></h4>**
 
 ---
 
 
-Rettigheder og pligter:
+**Rettigheder og pligter:**
 
 
 Grundloven beskriver bl.a. den enkelte borgers rettigheder og pligter, fx at der er ytringsfrihed, religionsfrihed og værnepligt. 
@@ -157,12 +157,12 @@ Og sproget i mange af paragrafferne er ikke blevet moderniseret siden.
 
 ---
 
-*Af to årsager vil der aldrig opstå revolution i Danmark. Først og fremmest regner det for meget, og man kan ikke revolutionere under en opslået paraply. Dernæst skal ethvert tilløb til revolution overstås inden spisetid, for danskeren vil ikke gå glip af sin varme aftensmad – Arne Melchior*
+***Af to årsager vil der aldrig opstå revolution i Danmark. Først og fremmest regner det for meget, og man kan ikke revolutionere under en opslået paraply. Dernæst skal ethvert tilløb til revolution overstås inden spisetid, for danskeren vil ikke gå glip af sin varme aftensmad – Arne Melchior***
 
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/l5iRg-JX5J4" target="_blank">Video om dit Demokrati | Hvem må stemme?</a><h4>
+**<h4><a href="https://www.youtube.com/embed/l5iRg-JX5J4" target="_blank">Video om dit Demokrati | Hvem må stemme?</a><h4>**
 
 ---
 
@@ -172,7 +172,7 @@ Og sproget i mange af paragrafferne er ikke blevet moderniseret siden.
 
 Grundlovens § 3 har følgende ordlyd: 
 
-*”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.*
+***”Den lovgivende magt er hos kongen og Folketinget i forening. Den udøvende magt er hos kongen. Den dømmende magt er hos domstolene”.***
 
 
 
@@ -203,7 +203,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 ---
 
-*Tremagtsdelingen:*
+**Tremagtsdelingen:**
 
  
 *	Lovgivende magt: Folketinget.
@@ -214,7 +214,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 ---
 
-*Begrundelsen:*
+**Begrundelsen:**
 
 *	Gensidig kontrol.
 
@@ -272,7 +272,7 @@ I 1999 fastslog Højesteret i dommen **U 1999.841 H**, at den såkaldte Tvindlov
 ---
 
 
-<h4><a href="https://youtu.be/SLywBhN18zM" target="_blank">Video om retsstaten</a></h4>
+**<h4><a href="https://youtu.be/SLywBhN18zM" target="_blank">Video om retsstaten</a></h4>**
 
 
 
@@ -288,7 +288,7 @@ Andre metoder er praksisser, der har udviklet sig gennem de snart 170 år, Folke
 
 ---
 
-Folketinget er den lovgivende magt. 
+**Folketinget er den lovgivende magt.** 
 
 Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komme med forslag til nye love og lovændringer. 
 
@@ -296,7 +296,7 @@ Folketinget og regeringen er de eneste, der kan fremsætte lovforslag, dvs. komm
 
 Den lovgivende magt er Folketinget og det er kun Folketinget, der kan vedtage lovforslag.
 
-Lovgivningsmagten er *"omnipotent"*, som betyder, at lovgivningsmagten har uindskrænket magt, med næsten ubegrænset autoritet og/eller styrke. Så den vægtes meget højt i vurderingen af juridiske problemer. 
+Lovgivningsmagten er **"omnipotent"**, som betyder, at lovgivningsmagten har uindskrænket magt, med næsten ubegrænset autoritet og/eller styrke. Så den vægtes meget højt i vurderingen af juridiske problemer. 
 
 ---
 
@@ -306,10 +306,10 @@ Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.
 
 ---
 
-Parlamentarisk kontrol og lovgivning i Folketinget:
+**Parlamentarisk kontrol og lovgivning i Folketinget:**
 
 
-Folketinget har 3 hovedopgaver:
+**Folketinget har 3 hovedopgaver:**
 
 ![](img/sonfolketingssalen.png)
 
@@ -332,13 +332,13 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/wmVKBzA2lqo" target="_blank"> Video om dit Demokrati | Finansloven</a></h4>
+**<h4><a href="https://www.youtube.com/embed/wmVKBzA2lqo" target="_blank"> Video om dit Demokrati | Finansloven</a></h4>**
 
 
 ---
 
 
-Lovforslag:
+**Lovforslag:**
 
 
 ![](img/folketinget2.png)
@@ -366,7 +366,7 @@ Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen h
 
 ---
 
-Ideer til nye love kommer primært fra regeringen, men kan også komme fra:
+**Ideer til nye love kommer primært fra regeringen, men kan også komme fra:**
 
 
 *	Folketingsmedlemmerne.
@@ -390,12 +390,12 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/glMv32HV0-o" target="_blank"> Video om dit Demokrati | Fra idé til lov</a></h4>
+**<h4><a href="https://www.youtube.com/embed/glMv32HV0-o" target="_blank"> Video om dit Demokrati | Fra idé til lov</a></h4>**
 
 ---
 
 
-Folketingets kontrol med regeringen:
+**Folketingets kontrol med regeringen:**
 
 
 ![](img/folketinget3.png)
@@ -407,7 +407,7 @@ Det er at kontrollere, om regeringen – den udøvende magt ‒ fører Folketing
 
 ---
 
-Den kritiske opposition:
+**Den kritiske opposition:**
 
 Parlamentarisk kontrol med regeringen er en meget vigtig opgave i Folketinget, hvor Folketinget kontrollerer, hvordan regeringen fører lovene ud i livet, og om regeringen fører en politik, der i hovedtræk bliver støttet af et flertal i Folketinget.
 
@@ -421,7 +421,7 @@ Det er dem, der har den største interesse i at være kritiske over for regering
 
 ---
 
-Oppositionen undersøger bl.a., om regeringen:
+**Oppositionen undersøger bl.a., om regeringen:**
 
 
 *	Virkeliggør lovens indhold og gør det på den måde, som regeringen har lovet.
@@ -436,7 +436,7 @@ Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, 
 
 ---
 
-Udvalgsarbejdet i Folketinget:
+**Udvalgsarbejdet i Folketinget:**
 
 
 
@@ -460,7 +460,7 @@ Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.
 
 ---
 
-Sådan dannes en regering:
+**Sådan dannes en regering:**
 
 
 
@@ -491,10 +491,10 @@ Så skal man i gang med at finde ud af, hvem der skal være statsminister og dan
 ---
 
 
-Negativ parlamentarisme:
+**Negativ parlamentarisme:**
 
 
-Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer. 
+**Den siddende statsminister fortsætter, hvis der ikke er et flertal imod ham eller hende - dvs. 90 eller flere ud af de 179 folketingsmedlemmer.** 
 
 Det kaldes negativ parlamentarisme.
 
@@ -502,7 +502,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 ---
 
-Dronningen udnævner formelt den nye regering:
+**Dronningen udnævner formelt den nye regering:**
 
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
@@ -517,7 +517,7 @@ Her præsenterer statsministeren sin nye regering for danskerne.
 
 ---
 
-Sådan arbejder regeringen:
+**Sådan arbejder regeringen:**
 
 
 ![](img/talerstol.jpeg)
@@ -551,7 +551,7 @@ Både regeringen og medlemmerne af Folketinget kan fremsætte lovforslag – men
 
 ---
 
-Lovkataloget viser regeringens mål:
+**Lovkataloget viser regeringens mål:**
 
 Når en ny regering tiltræder, vil de partier, der indgår i regeringen, sammen skrive et regeringsgrundlag eller anden form for fælleserklæring. 
 
@@ -587,13 +587,13 @@ Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem d
 
 ---
 
-Statsministeren har stor magt:
+**Statsministeren har stor magt:**
 
 Statsministerposten er landets højeste ministerpost. 
 
 En statsminister har en særlig stor magt og et særlig stort ansvar. 
 
-Det er fx kun statsministeren, der kan bestemme: 
+**Det er kun statsministeren, der kan bestemme:** 
 
 
 *	hvem der skal være minister.
@@ -609,7 +609,7 @@ Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområd
 
 ---
 
-Ministrene:
+**Ministrene:**
 
 
 ![](img/ministrene.jpg)
@@ -639,7 +639,7 @@ Ministrenes opgaver:
 
 At foreslå ny lovgivning er en af ministrenes fornemste opgaver. Lovforslagene bliver forberedt i ministerierne, som har mange medarbejdere til bl.a. at skrive lovforslag.
 
-En ministers arbejde består bl.a. i at:
+**En ministers arbejde består bl.a. i at:**
 
 
 *	forhandle indholdet af nye love på plads. 
@@ -708,7 +708,7 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 
 ---
 
-Domstolenes opgaver:
+**Domstolenes opgaver:**
 
 ![](img/ret1.jpg)
 
@@ -726,7 +726,7 @@ Alle har ret til en retfærdig rettergang. Det står i den europæiske mennesker
 
 Det betyder bl.a., at en retssag skal afgøres inden for en rimelig tidsperiode og ved en domstol, der er uafhængig og upartisk. 
 
-Domstolenes uafhængighed er bestemt i den danske grundlov. Grundloven deler nemlig magten i tre for at forhindre magtmisbrug, jf. Grundlovens § 3:
+**Domstolenes uafhængighed er bestemt i den danske grundlov. Grundloven deler nemlig magten i tre for at forhindre magtmisbrug, jf. Grundlovens § 3:**
 
 
 *	den lovgivende magt (Folketinget)
@@ -750,7 +750,7 @@ De må ikke lade sig påvirke af Folketinget, regeringen, pressen eller andre, n
 
 ---
 
-Byret, landsret og Højesteret:
+**Byretterne, landsretterne og Højesteret:**
 
 Domstolene i Danmark har 3 instanser: byret, landsret og Højesteret. Alle retssager begynder som udgangspunkt i en byret. 
 
@@ -768,7 +768,7 @@ Domsmænd og nævninge kan være inhabile, se dommen i **U 2019.2824 Ø**
 De almindelige domstole behandler civile sager og straffesager. 
 
 
-*Civile sager* er sager, som anlægges ved domstolene for at få afgjort en uenighed mellem 2 parter. 
+**Civile sager** er sager, som anlægges ved domstolene for at få afgjort en uenighed mellem 2 parter. 
 
 Som eksempler på civile sager kan nævnes sager om mangler ved fast ejendom, opsigelse af en arbejdstager, boligretssager, ægteskabssager, faderskabssager og sager om adoption.
 
@@ -789,31 +789,31 @@ Det kan fx være afgørelser om varetægtsfængsling, beslaglæggelse og ransagn
 
 ---
 
-Se det retssikkerhedsbegrebet: *"in dubio pro reo"*;	"enhver grundet tvivl bør komme den sigtede til gode".
+Se det retssikkerhedsbegrebet: **"in dubio pro reo"**;	"enhver grundet tvivl bør komme den sigtede til gode".
 
-Samt *"nullum crimen, nulla poena sine lege"*;	"ingen straf uden lov". jf. her straffelovens § 1: "Straf kan kun pålægges for et forhold, hvis strafbarhed er hjemlet ved lov, eller som ganske må ligestilles med et sådant".
-
----
-
-<h4><a href="https://www.youtube.com/embed/hzh_nfGbQCI" target="_blank">Video "Kend din ret" om straffesager</a></h4>
-
+Samt **"nullum crimen, nulla poena sine lege":**	**"ingen straf uden lov"**. jf. her straffelovens § 1: "Straf kan kun pålægges for et forhold, hvis strafbarhed er hjemlet ved lov, eller som ganske må ligestilles med et sådant".
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/7q3eY91RLKI" target="_blank">Video "Kend din ret" om straffesager</a></h4>
+**<h4><a href="https://www.youtube.com/embed/hzh_nfGbQCI" target="_blank">Video "Kend din ret" om straffesager</a></h4>**
 
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/ydMjwDvjMVI" target="_blank">Video om gadevold - retsspil</a></h4>
+**<h4><a href="https://www.youtube.com/embed/7q3eY91RLKI" target="_blank">Video "Kend din ret" om straffesager</a></h4>**
+
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/z_GMbA99aKs" target="_blank">Video om når du skal i retten</a></h4>
+**<h4><a href="https://www.youtube.com/embed/ydMjwDvjMVI" target="_blank">Video om gadevold - retsspil</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/VrT97zQkas4" target="_blank">Video om rettens arbejde - Vidnets rolle i en straffesag ved byretten</a></h4>
+**<h4><a href="https://www.youtube.com/embed/z_GMbA99aKs" target="_blank">Video om når du skal i retten</a></h4>**
+
+---
+
+**<h4><a href="https://www.youtube.com/embed/VrT97zQkas4" target="_blank">Video om rettens arbejde - Vidnets rolle i en straffesag ved byretten</a></h4>**
 
 ---
 
@@ -844,11 +844,11 @@ Højesteret er en appeldomstol, som behandler domme og kendelser, der er afsagt 
 
 En kendelse	er en beslutning truffet af en domstol, et nævn eller en kommission. 
 
-*"Kære"* er en appelform, hvor kendelser indbringes for en højere ret.
+**"Kære"** er en appelform, hvor kendelser indbringes for en højere ret.
 
 ---
 
-Behandlingen af *"kæremål"* sker som regel skriftligt.
+Behandlingen af **"kæremål"** sker som regel skriftligt.
 
 En kendelse af domstol "kæres" således til en højere domstol. 
 
@@ -856,9 +856,9 @@ Kærefristen	er normalt 2 uger, dog 4 uger i fogedsager.
 
 ---
 
-En dom *"ankes"* til en højere domstol. 
+En dom **"ankes"** til en højere domstol. 
 
-*"Opsættende virkning"*	anvendes fx ved anke af en byretsdom. Anken til landsretten har opsættende (suspensiv) virkning, hvis anken sker inden 14 dage efter dommens afsigelse, dvs. byretsdommens virkning udsættes til landsrettens afgørelse, som enten kan stadfæste byrettens dom eller ændre byrettens dom.
+**"Opsættende virkning"**	anvendes fx ved anke af en byretsdom. Anken til landsretten har opsættende (suspensiv) virkning, hvis anken sker inden 14 dage efter dommens afsigelse, dvs. byretsdommens virkning udsættes til landsrettens afgørelse, som enten kan stadfæste byrettens dom eller ændre byrettens dom.
 
 
 
@@ -894,14 +894,14 @@ Hvis byretten fx mener, at en sag er af principiel karakter, kan den også henvi
 
 ---
  
-*Østre Landsret* ligger i København.
+**Østre Landsret** ligger i København.
 
 Ved landsretterne er ansat ca. 100 landsdommere. Hver landsret ledes af en præsident.
 
 ---
 
 
-*Vestre Landsret* ligger i Viborg og behandler sager fra Jylland.
+**Vestre Landsret** ligger i Viborg og behandler sager fra Jylland.
 
 Østre Landsret ligger som nævnt i København og behandler ligeledes sager fra resten af landet, Færøerne og Grønland.
 
@@ -922,7 +922,7 @@ Begrebet "in terminis";	betyder ordret. Anvendes når en byretsdom eller byrette
 
 ---
 
-Sø- og Handelsretten: 
+**Sø- og Handelsretten:** 
 
 
 Sø- og Handelsretten ligger i København. 
@@ -939,7 +939,7 @@ Sø- og Handelsretten behandler også sager om konkurs, rekonstruktion og gælds
 
 ---
 
-Den Særlige Klageret: 
+**Den Særlige Klageret:** 
 
 Den Særlige Klageret ligger i København samme sted som Højesteret. 
 
@@ -957,7 +957,7 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 
 ![](img/byretten.png)
 
-Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:
+**Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:**
 
 *	civile sager.
 
@@ -969,11 +969,11 @@ Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som 
 
 ---
 
-*Skifteretten* som er en afdeling under byretten behandler først og fremmest følgende typer sager: Skifte af dødsboer, skifte af ægtefællers fællesbo, insolvenssager og sager om konkurskarantæne.
+**Skifteretten** som er en afdeling under byretten behandler først og fremmest følgende typer sager: Skifte af dødsboer, skifte af ægtefællers fællesbo, insolvenssager og sager om konkurskarantæne.
 
 ---
 
-*Fogedretten* som er en afdeling under byretten behandler sager om tvangsgennemførelse af krav. Det kan for eksempel være krav om betaling af penge eller krav om at få en ting udleveret.
+**Fogedretten** som er en afdeling under byretten behandler sager om tvangsgennemførelse af krav. Det kan for eksempel være krav om betaling af penge eller krav om at få en ting udleveret.
 
 
 ---
@@ -1022,7 +1022,7 @@ Det gælder fx, hvis sagen er af principiel betydning, eller sagen kan få væse
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/vtR3p-7IItk" target="_blank">Video om hvordan fungerer byretten</a></h4>
+**<h4><a href="https://www.youtube.com/embed/vtR3p-7IItk" target="_blank">Video om hvordan fungerer byretten</a></h4>**
 
 ---
 
@@ -1030,13 +1030,13 @@ Det gælder fx, hvis sagen er af principiel betydning, eller sagen kan få væse
 
 ---
 
-*Saglig kompetence: Hvilken ret/domstol skal behandle sagen?*
+**Saglig kompetence: Hvilken ret/domstol skal behandle sagen?**
 
-*Stedlig kompetence: Værneting – Hvor i landet skal sagen anlægges?*
+**Stedlig kompetence: Værneting – Hvor i landet skal sagen anlægges?**
 
 ---
 
-Hvis der ikke er lavet en *værnetingsaftale* mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted).
+Hvis der ikke er lavet en **værnetingsaftale** mellem de stridende parter, skal en retssag som hovedregel anlægges ved sagsøgtes hjemting (bopæl/kendt opholdssted).
 
 ---
 
@@ -1048,7 +1048,7 @@ Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og f�
 
 ---
 
-Supplerende værneting, er fx:
+**Supplerende værneting, er fx:**
 
 *	Virksomhedsværneting 
 
@@ -1107,47 +1107,47 @@ text_tbl%>%
 
 Processuelle grundbegreber:
 
-*Forhandlingsprincippet*: Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. Så dommen i en civil retssag kan således alene baseres på det, parterne har fremlagt under retssagen.
+**Forhandlingsprincippet:** Sagsøger og sagsøgte har selv ansvaret for sagens bevisførelse. Retten kan opfordre parterne til at føre et bestemt bevis, men parterne er ikke forpligtet til at følge rettens opfordring. Så dommen i en civil retssag kan således alene baseres på det, parterne har fremlagt under retssagen.
 
 ---
 
-*Bevisumiddelbarhedsprincippet*: Beviser skal føres umiddelbart foran dommeren. 
+**Bevisumiddelbarhedsprincippet:** Beviser skal føres umiddelbart foran dommeren. 
 
 ---
 
-*Den frie bevisbedømmelse*: Retten har frihed til på objektivt grundlag at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
+**Den frie bevisbedømmelse:** Retten har frihed til på objektivt grundlag at vurdere og afgøre, hvad der findes bevist under sagen, og hvilke beviser der vægter tungere end andre.
 
 ---
 
-*"de minimis non curat prætor"*	Dommeren bekymrer sig ikke om uvæsentlige forhold.
+**"de minimis non curat prætor"**	Dommeren bekymrer sig ikke om uvæsentlige forhold.
 
 ---
 
-*Bevisbyrde*: Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret) modsat et præsumptionsansvar - omvendt bevisbyrde, som undtagelsesvis gælder fx i markedsføringsloven, hvor det er den erhvervsdrivende, der har bevisbyrden for, at reklamen taler sandt.
+**Bevisbyrde:** Den som påstår noget under en retssag, skal bevise at han eller hun har ret og har dermed bevisbyrden for sin påstand (kaldet en ”ligefrem bevisbyrde” som er hovedreglen i dansk ret) modsat et præsumptionsansvar - omvendt bevisbyrde, som undtagelsesvis gælder fx i markedsføringsloven, hvor det er den erhvervsdrivende, der har bevisbyrden for, at reklamen taler sandt.
 
 ---
 
-Ved domstolene gælder *"forhandlingsmaksimen"* eller forhandlingsprincippet.
+Ved domstolene gælder **"forhandlingsmaksimen"** eller forhandlingsprincippet.
 
 Retten skal afgøre sagen på grundlag af parternes påstande og de oplysninger, som de tilvejebringer - det modsatte er: 
 
-*"Officialmaksimen"* som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariaterne som skal oplyse sagen. 
+**"Officialmaksimen"** som gælder i forvaltningen, Forbrugerklagenævnet og det private godkendte ankenævn fx Det Finansielle Ankenævn og Forsikringsankenævnet, hvor det er forvaltningen og sekretariaterne som skal oplyse sagen. 
 
 ---
 
-Den processuelle grundsætning: *ne bis in idem*; der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
+Den processuelle grundsætning: **ne bis in idem;** der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
 
 ---
 
-*"Ordre public"* domstolenes adgang til ikke at anvende retsregler fra fremmed ret, som er i strid med fundamentale danske retsprincipper.
+**"Ordre public"** domstolenes adgang til ikke at anvende retsregler fra fremmed ret, som er i strid med fundamentale danske retsprincipper.
 
 ---
 
-*"Sagens anlæg"* sker ved stævningens indlevering til retten. Fra sagens anlæg afbryder forældelse, og der tilkendes normalt procesrente fra sagens anlæg.
+**"Sagens anlæg"** sker ved stævningens indlevering til retten. Fra sagens anlæg afbryder forældelse, og der tilkendes normalt procesrente fra sagens anlæg.
 
 ---
 
-*"Udeblivelsesdom"* er en	dom afsagt i en sag, hvor sagsøgte er udeblevet.
+**"Udeblivelsesdom"** er en	dom afsagt i en sag, hvor sagsøgte er udeblevet.
 
 
 
@@ -1155,11 +1155,11 @@ Den processuelle grundsætning: *ne bis in idem*; der må ikke føres proces to 
 
 ---
 
-Civilretssagens forløb:
+**Civilretssagens forløb:**
 
 Parterne: Sagsøger og sagsøgte.
 
-Sagens forberedelse:
+**Sagens forberedelse:**
 
 Stævning og svarskrift
 
@@ -1173,7 +1173,7 @@ Stævning og svarskrift
 
 ---
 
-Hovedforhandlingen:
+**Hovedforhandlingen:**
 
 Det retsmøde, hvor hele sagen samlet fremlægges for retten med henblik på at gøre sagen endeligt klar til afgørelse.
 
@@ -1198,7 +1198,7 @@ Hovedforhandling blev tidligere kaldt for domsforhandling.
 
 ---
  
-Småsagsprocessen:
+**Småsagsprocessen:**
 
 Småsagsprocessen gør det nemmere at gå rettens vej med sager om mindre beløb. Den særlige behandlingsform til små sager trådte i kraft den 1. januar 2008.
 
@@ -1210,9 +1210,9 @@ At man kan få behandlet en sag om mindre krav på en lettere måde med færre o
 
 ---
 
-Hvorfor en småsagsproces?
+**Hvorfor en småsagsproces?**
 
-Formålet med småsagsprocessen er:
+**Formålet med småsagsprocessen er:**
 
 At det bliver billigere at gennemføre en retssag om mindre krav på højst 50.000 kr., fordi retten hjælper parterne med at forberede sagerne.
 
@@ -1220,7 +1220,7 @@ At det bliver lettere at gå i retten for privatpersoner og mindre erhvervsdrive
 
 ---
 
-Eksempel:
+**Eksempel:**
 
 Murermester Hansen har en kunde, fru Nielsen, som nægter at betale sin regning på 29.000 kr. for en reparation på skorstenen, fordi hun ikke mener, at murermester Hansen har udført arbejdet grundigt nok. Hun kræver, at murermester Hansen gør arbejdet om, før hun vil betale regningen.
 
@@ -1228,7 +1228,7 @@ Murermester Hansen vil have sine penge og anlægger derefter sagen i småsagspro
 
 ---
 
-Værd at vide om småsagsprocessen:  
+**Værd at vide om småsagsprocessen:**  
 
 Småsagsprocessen er tiltænkt sager, hvor kravet er højst 50.000 kr. 
 
@@ -1236,7 +1236,7 @@ I sager, hvor kravet overstiger 50.000 kr., kan parterne aftale, at sagen skal b
 
 Småsager anlægges og behandles - på samme måde som andre civile sager - i domstolenes selvbetjeningsløsning minretssag.dk. Læs mere om minretssag.dk på siden om digitale civile sager:
 
-Link: http://www.domstol.dk/saadangoerdu/civilesager/digitale_civile_sager/Pages/default.aspx
+Link: **http://www.domstol.dk/saadangoerdu/civilesager/digitale_civile_sager/Pages/default.aspx**
 
 Når sagsøgte har afleveret en svarblanket, hjælper retten med forberedelsen af sagen.
 
@@ -1244,17 +1244,17 @@ Undervejs vil der være færre retsmøder end i almindelige retssager, fordi ret
 
 ---
 
-Udenretlige tvistløsningsorganer:
+**Udenretlige tvistløsningsorganer:**
 
-Klage- og ankenævn betydning for den finansielle branche:
+**Klage- og ankenævn betydning for den finansielle branche:**
 
 Forbrugerklagenævnet, Det Finansielle Ankenævn (Sammenlægning pr. 1. februar 2019 af Pengeinstitutankenævnet, Realkreditankenævnet og Ankenævnet for investeringsfonde) Ankenævnet for Forsikring, Ankenævnet for Finansieringsselskaber og Klagenævnet for Ejendomsformidling
 
-Sagsbehandling efter "officialmaksimen", dvs. nævnets sekretariatet skal oplyse klagesagen.
+Sagsbehandling efter **"officialmaksimen"**, dvs. nævnets sekretariatet skal oplyse klagesagen.
 
 ---
 
-Mediation i det offentlige forbrugerklagesystem:
+**Mediation i det offentlige forbrugerklagesystem:**
 
 Der foregår mediation i Nævnenes Hus før, før klagen kan indbringes for Forbrugerklagenævnet. 
 
@@ -1286,18 +1286,18 @@ Stk. 4. Inden parterne accepterer et konkret forslag til en mindelig løsning ef
 
 Stk. 2. Nævnenes Hus kan i særlige tilfælde se bort fra de i stk. 1 fastsatte undergrænser.
 
-Stk. 3. Undergrænserne for varer og tjenesteydelser som nævnt i stk. 1 reguleres hvert tredje år pr. 1. januar, første gang pr. 1. januar 2019, hvor undergrænsen er 1.050 kr., dog 680 kr. for tøj og sko. Reguleringen sker i overensstemmelse med den sats for det generelle pris- og lønindeks, som er fastsat i finansloven. Beløbene afrundes til nærmeste 10 kr. De til enhver tid gældende undergrænser for varer og tjenesteydelser fremgår af Nævnenes Hus’ hjemmeside, www.naevneneshus.dk.
+Stk. 3. Undergrænserne for varer og tjenesteydelser som nævnt i stk. 1 reguleres hvert tredje år pr. 1. januar, første gang pr. 1. januar 2019, hvor undergrænsen er 1.050 kr., dog 680 kr. for tøj og sko. Reguleringen sker i overensstemmelse med den sats for det generelle pris- og lønindeks, som er fastsat i finansloven. Beløbene afrundes til nærmeste 10 kr. De til enhver tid gældende undergrænser for varer og tjenesteydelser fremgår af Nævnenes Hus’ hjemmeside, **www.naevneneshus.dk**.
 
 
 ---
 
-Retsmægling ved domstolene:
+**Retsmægling ved domstolene:**
 
 Alle retter bortset fra Højesteret tilbyder retsmægling i civile sager som alternativ til en løsning af tvisten ved en dom eller et traditionelt retsforlig.
 
 ---
 
-Hvad er retsmægling?
+**Hvad er retsmægling?**
 
 Retsmægling er en frivillig måde at løse konflikter på, hvor en mægler i fortrolighed hjælper sagens parter til selv at finde frem til en løsning på deres problem. 
 
@@ -1309,7 +1309,7 @@ Retsmægleren er en dommer, en domstolsjurist eller en advokat, som har gennemg�
 
 ---
 
-En "advokat" er en person, der i mindst 3 år efter bestået juridisk embedseksamen (cand. jur./jurist) har været i praktisk juridisk virksomhed, og som herefter af justitsministeren er blevet beskikket som advokat. Advokatfuldmægtig	er en jurist/cand. jur., som er under uddannelse til advokat på et advokatkontor,
+En **"advokat"** er en person, der i mindst 3 år efter bestået juridisk embedseksamen (cand. jur./jurist) har været i praktisk juridisk virksomhed, og som herefter af justitsministeren er blevet beskikket som advokat. Advokatfuldmægtig	er en jurist/cand. jur., som er under uddannelse til advokat på et advokatkontor,
 
 ---
 
@@ -1323,7 +1323,7 @@ Mægleren hjælper parterne til selv at finde frem til den løsning, som i stør
 
 ---
 
-*Hvorfor vælge retsmægling?*
+**Hvorfor vælge retsmægling?**
 
 Når man finder ind til kernen, der ligger bag ved en konflikt, er det ikke altid, at en dom er den mest tilfredsstillende løsning for parterne.
 
@@ -1339,7 +1339,7 @@ Der skal som hovedregel stadigvæk betales retsafgift.
 
 ---
 
-*Hvordan foregår retsmægling?*
+**Hvordan foregår retsmægling?**
 
 Retsmægleren holder møde med parterne. Hvis parterne har advokater, aftaler man, om advokaterne skal deltage. 
 
@@ -1359,7 +1359,7 @@ Det kan eventuelt aftales, at mægleren skal afholde møde med parterne hver for
 
 ---
 
-*Hvornår afsluttes retsmægling?*
+**Hvornår afsluttes retsmægling?**
 
 Retsmæglingen bliver afsluttet, når parterne når frem til en løsning på konflikten, eller hvis en af parterne ønsker det. 
 
@@ -1375,7 +1375,7 @@ Hvis retsmæglingen ikke resulterer i en løsning, fortsætter sagen ved retten 
 
 ---
 
-*Hvem kan bruge retsmægling?*
+**Hvem kan bruge retsmægling?**
 
 En sag kan være velegnet til retsmægling, uanset om den drejer sig om private forhold eller erhvervsforhold.
 
@@ -1383,7 +1383,7 @@ Det er en betingelse, at sagen er anlagt ved retten, og at begge parter er enige
 
 ---
 
-*Hvad koster retsmægling?*
+**Hvad koster retsmægling?**
 
 Retsmæglerens bistand er gratis, men hver part skal betale salær til egen advokat.
 
@@ -1392,13 +1392,13 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/JE83bKdqcpg" target="_blank"> Video om retsmægling for virksomheder</a></h4>
+**<h4><a href="https://www.youtube.com/embed/JE83bKdqcpg" target="_blank"> Video om retsmægling for virksomheder</a></h4>**
 
 
 ---
 
 
-*Voldgift* 
+**Voldgift** 
 
 *	Voldgiftsloven – voldgiftsklausul i aftale
 
@@ -1412,7 +1412,7 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 ---
 
-Tinglysningsretten:
+**Tinglysningsretten:**
 
 Tinglysningsretten, som ligger i Hobro, blev etableret den 1. januar 2007 med en præsident som øverste chef.
 
@@ -1420,20 +1420,20 @@ Fra den 8. september 2009 er håndteringen af hele tinglysningsområdet samlet i
 
 Tinglysning er nu en digital proces, der foregår fra hjemmesiden www.tinglysning.dk.
 
-Information og vejledning kan findes på www.tinglysningsretten.dk
+Information og vejledning kan findes på **www.tinglysningsretten.dk**
 
 
 ---
 
 ### Andre dele af domstolssystemet
 
-Procesbevillingsnævnet:
+**Procesbevillingsnævnet:**
 
 Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
 
 ---
 
-Appeltilladelse:
+**Appeltilladelse:**
 
 En appeltilladelse indebærer, at en sag, der ikke ellers ville kunne ankes eller kæres, kan indbringes for en højere retsinstans. 
 
@@ -1441,7 +1441,7 @@ Appeltilladelse forudsætter, at sagen rejser spørgsmål af principiel karakter
 
 ---
 
-Fri proces:
+**Fri proces:**
 
 Fri proces indebærer i grundtræk, at den pågældende får en advokat beskikket til at føre sagen, og at statskassen betaler sagens omkostninger, herunder retsafgifter, advokatsalær og eventuelle sagsomkostninger, som skal betales til modparten. 
 
@@ -1475,7 +1475,7 @@ Man kan derfor ikke klage over nævnets afgørelser til justitsministeren eller 
 
 ---
 
-Rigsretten:
+**Rigsretten:**
 
 Rigsretten består af indtil 15 af Højesterets dommere og et tilsvarende antal medlemmer, som udpeges af Folketinget. 
 
@@ -1497,7 +1497,7 @@ Der blev afsagt dom i sagen den 22. juni 1995.Ved den første rigsretssag siden 
 
 ---
 
-Dommerudnævnelsesrådet:
+**Dommerudnævnelsesrådet:**
 
 Dommerudnævnelsesrådet er et uafhængigt råd, der har til opgave at afgive indstillinger til justitsministeren vedrørende besættelse af dommerstillinger.
 
@@ -1508,7 +1508,7 @@ Dommerudnævnelsesrådet blev oprettet ved lov nr. 402 af 26. juni 1998 som et l
 
 ---
 
-Domstolsstyrelsen:
+**Domstolsstyrelsen:**
 
 Domstolsstyrelsen har til opgave at administrere og udvikle Danmarks Domstole.
 
@@ -1528,9 +1528,9 @@ Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsst
 
 ---
 
-EU-domstolen:
+**EU-domstolen:**
 
-<img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+**<img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>**
 
 
 Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at sikre, at den anvendes på samme måde i alle EU-lande, og afgør retstvister mellem nationale regeringer og EU's institutioner. 
@@ -1540,7 +1540,7 @@ I visse tilfælde kan den også anvendes af enkeltpersoner, virksomheder eller o
 
 ---
 
-Den Europæiske Menneskerettighedsdomstol:
+**Den Europæiske Menneskerettighedsdomstol:**
 
 Den Europæiske Menneskerettighedsdomstol ligger i Strasbourg, og er en institution under Europarådet. 
 
@@ -1550,13 +1550,13 @@ For at indbringe en sag for menneskerettighedsdomstolen, skal man som borger imi
 
 Klagen skal desuden være indsendt senest inden 6 måneder efter den sidste endelige nationale afgørelse. 
  
-Flere oplysninger om muligheden for at indbringe en sag for domstolen kan fås hos Institut for Menneskerettigheder, www.menneskeret.dk.
+Flere oplysninger om muligheden for at indbringe en sag for domstolen kan fås hos Institut for Menneskerettigheder, **www.menneskeret.dk**.
 
 ---
 
-## Quiz Retsstaten
+## Quiz
 
-<h4><a href="https://quiz.tepedu.dk/jura1" target="_blank">Quiz Retsstaten <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
+**<h4><a href="https://quiz.tepedu.dk/jura1" target="_blank">Quiz Retsstaten <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>**
 
 ---
 

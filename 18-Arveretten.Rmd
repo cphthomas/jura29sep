@@ -8,26 +8,26 @@ cat(readLines('np.html'))
 
 ---
 
-*Forståelsen af reglerne om arv kan være anvendelig for dig, som privat person gifte, som samlevende, og dig som finansøkonomer, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.*
+**Forståelsen af reglerne om arv kan være anvendelig for dig, som privat person gifte, som samlevende, og dig som finansøkonomer, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.**
 
 ---
 
-*De arveretlige regler anvendes bl.a. i faget "Privatøkonomisk rådgivning" på finansøkonomuddannelsen samt i udarbejdelse af OLA'er*
-
----
-
-
-
-<h4><a href="https://www.youtube.com/embed/ikBxcxBSBb8" target="_blank">Video Hvem arver fra dig?</a></h4>
-
----
-
-*Døden er en gæld, som ingen kan betale mere end èn gang. - Shakespeare.*
+**De arveretlige regler anvendes bl.a. i faget "Privatøkonomisk rådgivning" på finansøkonomuddannelsen samt i udarbejdelse af OLA'er**
 
 ---
 
 
-Introduktion til arveretten:
+
+**<h4><a href="https://www.youtube.com/embed/ikBxcxBSBb8" target="_blank">Video Hvem arver fra dig?</a></h4>**
+
+---
+
+***Døden er en gæld, som ingen kan betale mere end èn gang. - Shakespeare.***
+
+---
+
+
+**Introduktion til arveretten:**
 
 Med arvelovsrevisionen er der blevet gennemført en styrkelse af den længstlevende ægtefælles retsstilling.^[Følgende afsnit om arveretten bygger især på *Linda Nielsens* Karnovkommentar til arveloven, KarnovGroup.] 
 
@@ -38,7 +38,7 @@ Se nærmere *"arveloven"*(AL) Lov 2007-06-06 nr. 515
 
 ---
 
-Oversigt over arveloven:
+**Oversigt over arveloven:**
 
 * KAP. 1 SLÆGTNINGES ARVERET. 
 
@@ -63,15 +63,15 @@ Oversigt over arveloven:
 
 ---
 
-Hvis Søren og Mette er ægtefæller vil de typisk have et ønske om, at den længstlevende så vidt muligt kan fortsætte sin livsførelse. 
+Ægtefæller vil typisk have et ønske om, at den længstlevende, så vidt muligt kan fortsætte sin livsførelse. 
 
-Arveloven, er derfor søgt indrettet, så dette ønske i højere grad kan realiseres, uden at Søren og Mette som ægtefæller behøver at oprette et *testamente* om begrænsning af børnenes arv.
+Arveloven, er derfor søgt indrettet, så dette ønske i højere grad kan realiseres, uden at ægtefæller behøver at oprette et *testamente* om begrænsning af børnenes arv.
 
 Dette er navnlig sket ved en forhøjelse af den legale arveret, fra 1/3 til 1/2 af arveladerens ejendele, når arveladeren samtidig efterlader sig børn (livsarvinger). 
 
 ---
 
-Arveloven indebærer endvidere, at arvelader har fået større frihed til at disponere over sin formue ved oprettelse af testamente. 
+Arveloven indebærer endvidere, at arvelader har fået **større frihed til at disponere over sin formue ved oprettelse af testamente**. 
 
 *Livsarvingernes tvangsarv* er således nedsat fra 1/2 til 1/4 af den legale arv.
 
@@ -79,17 +79,17 @@ Også *ægtefællens tvangsarv* udgør fremover 1/4 af den legale arv.
 
 ---
 
-Endvidere er indført en adgang for arvelader til at begrænse en livsarvings tvangsarv til 1 mio. kr., ligesom arveladeren har fået mulighed for at bestemme, at en livsarving skal have sin tvangsarv udbetalt kontant. 
+Endvidere er indført en adgang for arvelader til at **begrænse en livsarvings tvangsarv** til 1 mio. kr., ligesom arveladeren har fået mulighed for at bestemme, at en livsarving skal have sin tvangsarv udbetalt kontant. 
 
 Dette indebærer, at det bl.a. bliver lettere at ligestille sammenbragte børn i arveretlig henseende, og at gennemførelsen af generationsskifter af erhvervsvirksomheder lettes.
 
-Herudover giver arveloven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et *udvidet samlevertestamente*).
+Herudover giver arveloven mulighed for, at ugifte samlevende på en særlig nem måde kan oprette testamente om gensidig arveret (et **udvidet samlevertestamente**).
 
 ---
 
-De aktiver og passiver, som en afdød efterlader sig, kaldes et *dødsbo*.
+De aktiver og passiver, som en afdød efterlader sig, kaldes et **dødsbo**.
 
-Afviklingen af dødsboet mellem arvinger og kreditorer kaldes et *skifte*. 
+Afviklingen af dødsboet mellem arvinger og kreditorer kaldes et **skifte**. 
 
 De arveretlige regler i arveloven fastlægger, hvem der er arvinger, og hvor meget og hvad den enkelte arving skal arve af det, der er i behold i boet. 
 
@@ -99,15 +99,15 @@ Efterlader afdøde sig ingen gæld, men alene aktiver, og ses der bort fra de fo
 
 ---
 
-De arveretlige regler medfører således en overgang af ejendomsretten til afdødes formue fra den afdøde til arvingerne. 
+De arveretlige regler medfører således en **overgang af ejendomsretten** til afdødes formue fra den afdøde til arvingerne. 
 
 ---
 
 En betingelse for at arve er, at arvingen har overlevet arveladeren. 
 
-Bevis for arveladerens død vil i almindelighed let kunne føres ved fremlæggelse af en *dødsattest*. 
+Bevis for arveladerens død vil i almindelighed let kunne føres ved fremlæggelse af en **dødsattest**. 
 
-Hvis en sådan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er død eller må anses for død (såkaldt *dødsformodningsdom*).  
+Hvis en sådan ikke kan tilvejebringes, kan en domstol undertiden statuere, at en person er død eller må anses for død (såkaldt **dødsformodningsdom**).  
 
 ---
 
@@ -131,7 +131,7 @@ Den gravide kvindes foster er således arveberettiget.
 
 ---
 
-Det siges, at *"arven er faldet"*, når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
+Det siges, at **"arven er faldet"**, når kravet på arv kan overføres ved aftale, tilegnes af arvingens kreditorer, falde i arv ved arvingens død eller indgå i arvingens eventuelle separations- eller skilsmissebo. 
 
 Dette tidspunkt indtræder som regel ved arveladers død. 
 
@@ -139,9 +139,9 @@ Dette tidspunkt indtræder som regel ved arveladers død.
 
 Der gælder særregler, når arveladerens efterlevende ægtefælle overtager et fællesbo til hensidden i uskiftet bo med den førstafdødes livsarvinger. 
 
-Et *"uskiftet bo"* er	en ægtefælles overtagelse af fællesboet uden skifte med førstafdødes livsarvinger.
+Et **"uskiftet bo"** er	en ægtefælles overtagelse af fællesboet uden skifte med førstafdødes livsarvinger.
 
-Sammenlevende person, som ikke er gift, kan ikke sidde i uskiftet bo.
+**Sammenlevende person, som ikke er gift, kan ikke sidde i uskiftet bo.**
 
 ---
  
@@ -152,11 +152,11 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 ![](img/arv4.png)
 
-Arven fordeles til arveklasse 1, 2 eller 3. 
+**Arven fordeles til arveklasse 1, 2 eller 3.** 
 
-Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.  
+**Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.**  
 
-Ægtefælle har også legal arveret.
+Ægtefælle har også **legal arveret**.
 
 ---
 
@@ -166,28 +166,28 @@ Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen
 
 ---
 
-Vores arvesystem kaldes også for *"parentelsystemet"* med	opdeling af slægten i arveklasser. 
+Vores arvesystem kaldes også for **"parentelsystemet"** med	opdeling af slægten i arveklasser. 
 
-Første parentel er arveladerens livsarvinger, hvis der ikke er nogen, så går arven videre til:
+**Første parentel er arveladerens livsarvinger, hvis der ikke er nogen, så går arven videre til:**
 
-Andet parentel er arveladerens forældre og disses livsarvinger, hvis der ikke er nogen, så går arven videre til: 
+**Andet parentel er arveladerens forældre og disses livsarvinger, hvis der ikke er nogen, så går arven videre til:** 
 
-Tredje parentel er arveladerens bedsteforældre og disses livsarvinger.
+**Tredje parentel er arveladerens bedsteforældre og disses livsarvinger.**
 
 
 ---
 
-*Arveklasse 1:* 
+**Arveklasse 1:** 
 
-Arveklasse 1 er "livsarvinger", som er børn, børnebørn, oldebørn osv., jf. AL § 1. 
+Arveklasse 1 er **"livsarvinger"**, som er børn, børnebørn, oldebørn osv., jf. AL § 1. 
 
-Børnene arver lige. 
+**Børnene arver lige**. 
 
 Er et af børnene døde, træder dette barns livsarvinger i stedet og arver lige ¼ af arven er tvangsarv, jf. AL § 5. 
 
 Børns arv kan begrænses til 1 mio. kr., jf. AL § 5, stk. 2. (1.290.000 kr. i 2019).   
 
-AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger (tvangsarvinger), som er arveladerens nærmeste slægtsarvinger. 
+AL § 1 omhandler således arv til 1. arveklasse, dvs. arveladerens livsarvinger (**tvangsarvinger**), som er arveladerens nærmeste slægtsarvinger. 
 
 ---
 
@@ -201,11 +201,13 @@ Er et barn død, træder dets børn i dets sted og arver indbyrdes lige.
 
 På tilsvarende måde arver fjernere livsarvinger. 
 
-Denne såkaldte *"stirpal-grundsætning"* betyder, at arven inden for hver arveklasse fordeles i "stammer" og ikke efter "hoveder". 
+Denne såkaldte **"stirpal-grundsætning"** betyder, at arven inden for hver arveklasse fordeles i "stammer" og ikke efter "hoveder". 
 
 ---
 
 Stirpalgrundsætningen	fordelingen af arven efter stammer og linier. 
+
+**Eksempel:**
 
 Hvis fx arveladeren efterlader sig en datter og en afdød søns 2 børn, arver datteren halvdelen af boet, mens de 2 børnebørn skal dele den anden halvdel med en fjerdedel til hver. Hvis man delte efter antal hoveder, ville de hver arve en tredjedel.
 
@@ -213,19 +215,19 @@ Hvis fx arveladeren efterlader sig en datter og en afdød søns 2 børn, arver d
 
 Børnebørn arver således ikke, så længe barnet lever. 
 
-Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte *"repræsentationsprincip"*. 
+Når børnebørnene arver, må de »deles« om det afdøde barns arv - det såkaldte **"repræsentationsprincip"**. 
 
 På tilsvarende måde arver fjernere livsarvinger (oldebørn mv.).   
 
 ---
 
-*Arveklasse 2:*
+**Arveklasse 2:**
 
 Arveklasse 2 er arveladers forældre, jf. AL § 2. Forældrene arver lige. 
 
-Er en af forældrene død, træder dennes børn (arveladers søskende) i stedet og arver lige. Der bliver på denne måde forskel på hel- og halvsøskende. 
+Er en af forældrene død, træder dennes børn (**arveladers søskende**) i stedet og arver lige. Der bliver på denne måde forskel på hel- og halvsøskende. 
 
-Arveklasse 2 er ikke tvangsarvinger, så kan arvelader selv bestemme ved testamente, hvad der skal ske med formuen. 
+**Arveklasse 2 er ikke tvangsarvinger**, så kan arvelader selv bestemme ved testamente, hvad der skal ske med formuen. 
 
 ---
 
@@ -233,13 +235,13 @@ Hvis der ikke er oprettet testamente så følger arven arveklasserne.
 
 Bestemmelsen i AL § 2 omhandler således arv til 2. arveklasse - forældrelinjen. 
 
-Hvis arveladeren ikke efterlader sig livsarvinger, tilfalder arven anden arveklasse, som også kaldes "udarvinger"; som er arveladerens arveberettigede slægtninge, bortset fra arveladerens livsarvinger, fx afdødes forældre, søskende og søskendebørn.
+Hvis arveladeren ikke efterlader sig livsarvinger, tilfalder arven anden arveklasse, som også kaldes **"udarvinger"**; som er arveladerens arveberettigede slægtninge, bortset fra arveladerens livsarvinger, fx afdødes forældre, søskende og søskendebørn.
 
 ---
 
-Arveklasse 2 udgøres således af afdødes forældre og disses efterkommere, dvs. arveladerens søskende, nevøer og niecer osv. 
+**Arveklasse 2** udgøres således af afdødes forældre og disses efterkommere, dvs. arveladerens søskende, nevøer og niecer osv. 
 
-Et "kollateralt slægtskab" er et	slægtskab i sidelinien, dvs. hvor personer har fælles ophav, fx søskende.
+Et **"kollateralt slægtskab"** er et	slægtskab i sidelinien, dvs. hvor personer har fælles ophav, fx søskende.
 
 Lever begge arveladerens forældre, arver de hver halvdelen, hvis arvelader ikke efterlader sig nogen livsarvinger.
 
@@ -257,13 +259,13 @@ Er en af bedsteforældrene døde, træder dennes børn (arveladers faster, moste
 
 Bedsteforældre børnebørn (fætre og kusiner) arver ikke. 
 
-Arveklasse 3 er ikke tvangsarvinger.  
+**Arveklasse 3 er ikke tvangsarvinger.**  
 
 Lever alle 4 bedsteforældre deles arven i 4 portioner. 
 
 ---
 
-Er en af bedsteforældrene død, træder dennes børn i stedet efter *"repræsentationsprincippet"*. 
+Er en af bedsteforældrene død, træder dennes børn i stedet efter **"repræsentationsprincippet"**. 
 
 Arveladers farbrødre, fastre, mostre og morbrødre kan således være legale arvinger. 
 
@@ -298,13 +300,13 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 
 
-<h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video Sådan fordeles arven</a></h4>
+**<h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video Sådan fordeles arven</a></h4>**
 
 ---
 
 ## Længstlevendes ægtefælles arveret
 
-Her en oversigt over længstlevendes ægtefælles arveret:  
+**Her en oversigt over længstlevendes ægtefælles arveret:**  
 
 *	Ægtefællen arver 1/2, hvis arvelader har børn, jf. AL § 9, stk. 1, ellers det hele jf. § 9, stk. 2. 
 
@@ -327,52 +329,52 @@ Her en oversigt over længstlevendes ægtefælles arveret:
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/qYf2gatfAWQ" target="_blank">Video Fordeling af arv: Ugift par uden børn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/qYf2gatfAWQ" target="_blank">Video Fordeling af arv: Ugift par uden børn</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/cDriXFDNg30" target="_blank">Video Fordeling af arv: Ugift par med fælles børn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/cDriXFDNg30" target="_blank">Video Fordeling af arv: Ugift par med fælles børn</a></h4>**
 
 ---
 
 
-<h4><a href="https://www.youtube.com/embed/x7WzAOJJNXQ" target="_blank">Video Fordeling af arv: Ugift par med stedbørn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/x7WzAOJJNXQ" target="_blank">Video Fordeling af arv: Ugift par med stedbørn</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/WVec5BYeu34" target="_blank">Video Arv mellem sammenlevende</a></h4>
+**<h4><a href="https://www.youtube.com/embed/WVec5BYeu34" target="_blank">Video Arv mellem sammenlevende</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/bNa7tt460bY" target="_blank">Video om fordeling af arv uden børn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/bNa7tt460bY" target="_blank">Video om fordeling af arv uden børn</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/TXaWe8-jz9s" target="_blank">Video Fordeling af arv med fællesbørn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/TXaWe8-jz9s" target="_blank">Video Fordeling af arv med fællesbørn</a></h4>**
 
 ---
 
-"Stedbørn" er	de børn, som ægtefællen har med andre - kaldes også særbørn eller særkuldbørn.
+**"Stedbørn"** er	de børn, som ægtefællen har med andre - kaldes også særbørn eller særkuldbørn.
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/MQ6i9G5NxUc" target="_blank">Video Fordeling af arv: Ægtepar med stedbørn</a></h4>
+**<h4><a href="https://www.youtube.com/embed/MQ6i9G5NxUc" target="_blank">Video Fordeling af arv: Ægtepar med stedbørn</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/UtsI4IWmajI" target="_blank">Video Arv mellem ægtefæller</a></h4>
+**<h4><a href="https://www.youtube.com/embed/UtsI4IWmajI" target="_blank">Video Arv mellem ægtefæller</a></h4>**
 
 ---
 
 ## Uskiftet bo for den længstlevendes ægtefælle
 
-Vælger ægtefællen at sidde i uskiftet bo, får ægtefællen rådighed over alle aktiver og overtager afdødes gældsforpligtelser, jf. AL §§ 24 og 25. 
+Vælger ægtefællen at sidde i **uskiftet bo**, får ægtefællen rådighed over alle aktiver og overtager afdødes gældsforpligtelser, jf. AL §§ 24 og 25. 
 
 Kan kun sidde i uskiftet bo med delingsformue – særejet skal skiftes, jf. AL § 17. 
 
 ---
 
-Man kan ikke sidde i uskiftet bo, hvis man ikke har været gift. 
+**Man kan ikke sidde i uskiftet bo, hvis man ikke har været gift.** 
 
 Særbørn skal give samtykke til uskiftet bo, jf. AL § 18. 
 
@@ -400,7 +402,7 @@ Testamenter giver arvelader mulighed for at få indflydelse på, hvem der skal a
 
 ---
 
-Oversigt over arveladers testationskompetence: 
+**Oversigt over arveladers testationskompetence:** 
 
 Hovedreglen er, at arvelader kan ved testamente råde over hele sin formue. 
 
@@ -410,11 +412,11 @@ Tvangsarven er som udgangspunkt 1/4 af arveladers formue.
 
 ---
 
-En *"legatar"* er	en person, der skal arve en bestemt angiven pengesum eller bestemte ejendele.
+En **"legatar"** er	en person, der skal arve en bestemt angiven pengesum eller bestemte ejendele.
 
 ---
 
-*Testationskompetence:*
+**Testationskompetence:**
 
 ```{r pie,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("En fjerdedel af testators formue er tvangsarv hvis der er børn eller ægtefælle")}
 library("chartjs")
@@ -427,7 +429,7 @@ cjsLegend(position = "top")
 
 ---
 
-Eksempel: Tvangsarv med ægtefælle og 2 børn, formue: 1.200.000,-:
+**Eksempel: Tvangsarv med ægtefælle og 2 børn, formue: 1.200.000,-:**
 
 ```{r pie2,echo=FALSE, message=FALSE,result=TRUE, fig.cap=("Formuen 1.200.000,- Ægtefællen arver 50% af 25% af formuen  i tvangsarv, børnene hver 25% af 25% af formuen i tvangsarv")}
 library("chartjs")
@@ -440,7 +442,7 @@ cjsLegend(position = "top")
 
 ---
 
-OBS: Suppleringsarv er også tvangsarv: 
+**OBS: Suppleringsarv er også tvangsarv:** 
 
 Der er tale om en tvangsarveret, der ikke kan fratages ved testamente. 
 
@@ -456,17 +458,17 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 
 
-<h4><a href="https://www.youtube.com/embed/5MxSyf_Ah84" target="_blank">Video Styr på arven: Testamente eller ej?</a></h4>
+**<h4><a href="https://www.youtube.com/embed/5MxSyf_Ah84" target="_blank">Video Styr på arven: Testamente eller ej?</a></h4>**
 
 ---
 
 
 
-<h4><a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" target="_blank">Video Styr på arven: Fem gode råd om testamente</a></h4>
+**<h4><a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" target="_blank">Video Styr på arven: Fem gode råd om testamente</a></h4>**
 
 ---
 
-*Hvad du skal være opmærksom på omkring arveforhold:*
+**Hvad du skal være opmærksom på omkring arveforhold:**
 
 1.Find ud af, hvem du vil have, der skal arve efter dig.
 
@@ -480,15 +482,15 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/TcZb7VCClcQ" target="_blank">Video Hvordan opretter du et testamente?</a></h4>
+**<h4><a href="https://www.youtube.com/embed/TcZb7VCClcQ" target="_blank">Video Hvordan opretter du et testamente?</a></h4>**
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q" target="_blank">Video Styr på arven: Hvem får pensionen? </a></h4>
+**<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q" target="_blank">Video Styr på arven: Hvem får pensionen? </a></h4>**
 
 ---
 
-Hvem skal have ens pension og livsforsikring, når man dør?
+**Hvem skal have ens pension og livsforsikring, når man dør?**
 
 Det er vigtigt at huske, at pension og livsforsikring ikke skal skrives ind i ens testamente. 
 
@@ -525,7 +527,7 @@ Hvis der skulle være fejl i et testamente, har domstolene mulighed for at rette
 
 ---
 
-Se nærmere om "korrigerende fortolkning" af et testamente, jf. arvelovens § 76:
+Se nærmere om **"korrigerende fortolkning"** af et testamente, jf. arvelovens § 76:
 
 "En testamentarisk bestemmelse, der på grund af en fejlskrift eller anden fejltagelse har fået et indhold, der afviger fra det tilsigtede indhold, skal så vidt muligt gennemføres efter sin rette mening. Hvis denne ikke kan fastslås, er den testamentariske bestemmelse ugyldig".
 
@@ -537,27 +539,27 @@ Er det klart, at der er skrevet forkert, men er det ikke muligt at finde ud af, 
 
 ---
 
-Andre testamenteretlige begreber:
+**Andre testamenteretlige begreber:**
 
-Et *"kodicil"* er et	tillæg til et testamente.
+Et **"kodicil"** er et	tillæg til et testamente.
 
-Et *"liberationslegat"* er en bestemmelse i et testamente om, at en bestemt gældspost skal eftergives ved testators død.
+Et **"liberationslegat"** er en bestemmelse i et testamente om, at en bestemt gældspost skal eftergives ved testators død.
 
-Et *"reciprokt testamente"* er et	gensidigt testamente, hvor opretterne begunstiger hinanden.
+Et **"reciprokt testamente"** er et	gensidigt testamente, hvor opretterne begunstiger hinanden.
 
-*"Repartition"* er en	redegørelse for fordelingen af et dødsbos midler.
+**"Repartition"** er en	redegørelse for fordelingen af et dødsbos midler.
 
-*"Sekundosuccesssion"* er en	bestemmelser om, hvem arven tilfalder, når den første arving er død.
+**"Sekundosuccesssion"** er en	bestemmelser om, hvem arven tilfalder, når den første arving er død.
 
-*"Eksheredere"*, at	gøre arveløs.
+**"Eksheredere"**, at	gøre arveløs.
 
-Et *"uigenkaldeligt testamente"* er et	testamente, som ikke kan tilbagekaldes. Uigenkaldelighedserklæringen skal afgives i testamentsform og der skal desuden foreligge et bindende løfte over for arvingerne.
+Et **"uigenkaldeligt testamente"** er et	testamente, som ikke kan tilbagekaldes. Uigenkaldelighedserklæringen skal afgives i testamentsform og der skal desuden foreligge et bindende løfte over for arvingerne.
 
-*"Universalarving"* er en	arving, som skal arv hele dødsboet.
+**"Universalarving"** er en	arving, som skal arv hele dødsboet.
 
 ---
 
-<h4><a href="https://jyskebank.tv/hvorfor-lave-et-testamente" target="_blank">Video Hvorfor skrive et testamente?</a></h4>
+**<h4><a href="https://jyskebank.tv/hvorfor-lave-et-testamente" target="_blank">Video Hvorfor skrive et testamente?</a></h4>**
 
 
 ---
@@ -566,7 +568,7 @@ Et *"uigenkaldeligt testamente"* er et	testamente, som ikke kan tilbagekaldes. U
 
 ![](img/notar.png)
 
-Et notartestamente er et testamente, der underskrives foran en notar i byretten. 
+**Et notartestamente er et testamente, der underskrives foran en notar i byretten.** 
 
 Notarens gebyr på 300 kr. sikrer, at testamentet bliver fundet og fulgt, når testator går bort. 
 
@@ -578,11 +580,11 @@ Registrerer testamentet i Centralregistret for testamenter.
 
 Notartestamentet er svært at anfægte (tilsidesætte) i praksis.
 
-En *"bortkomstklausul"* er en klausul i et notartestamente om, at den underskrevne genpart af testamentet, som opbevares i skifteretten, skal have samme gyldighed som originaleksemplaret.
+En **"bortkomstklausul"** er en klausul i et notartestamente om, at den underskrevne genpart af testamentet, som opbevares i skifteretten, skal have samme gyldighed som originaleksemplaret.
 
 ---
 
-*Nærmere om et notartestamente:*
+**Nærmere om et notartestamente:**
 
 Ved underskrift af testamente skal man udover originalen medbringe en kopi af testamentet.
 
@@ -602,7 +604,7 @@ Retten beholder kopien og underretter et centralt register om, at testamentet er
 
 ---
 
-Om oprettelse af notartestamente - en vejledning til testator:
+**Om oprettelse af notartestamente - en vejledning til testator:**
 
 Der skal udfyldes en forside til testamentet. 
 
@@ -613,7 +615,7 @@ Hent forsiden her:
 
 Det anbefales, at blanketten udfyldes på pc.
 
-Testamentet er gyldigt fra det øjeblik, man har underskrevet det hos notaren.
+Testamentet er gyldigt fra det øjeblik, man har underskrevet det hos **notaren**.
 
 ---
 
@@ -645,11 +647,11 @@ Formuleringen af testamentet og dets indhold kan man drøfte med en advokat.
 
 ---
 
-*Hvad indeholder et testamente?*
+**Hvad indeholder et testamente?**
 
 Et testamente kan indeholde mange forskellige emner, alt efter hvilken slags testamente, der er tale om. 
 
-Testamenter regulerer generelt følgende:
+**Testamenter regulerer generelt følgende:**
 
 * Parterne: Hvem efterlader arven og har de børn?
 
@@ -683,7 +685,7 @@ Testamenter regulerer generelt følgende:
 
 ---
 
-Et vidnetestamente er et testamente, der underskrives under tilstedeværelse af to uvildige vidner. 
+Et vidnetestamente er et testamente, der underskrives under tilstedeværelse af **to uvildige vidner**. 
 
 I den tilhørende vidnepåtegning skal vidnerne skrive under på, at de sammen har overværet underskrivelsen af testamentet samt at testator var fornuftsmæssig i stand til at råde over sin formue ved testamente.
 
@@ -695,7 +697,7 @@ Vidnerne kontrollerer testators underskrift, fornuft mv.
 
 ---
 
-En person kan således ikke være testamentsvidne, hvis:
+**En person kan således ikke være testamentsvidne, hvis:**
 
 * Testamentet begunstiger den pågældende eller dennes ægtefælle, samlever, beslægtede eller besvogrede i op- eller nedstigende linje, søskende eller andre nærstående. (Forlovede vil sammen med kærester og - efter en konkret vurdering - fjernere beslægtede blive anset for at være nærstående), 
 
@@ -707,7 +709,7 @@ En person kan således ikke være testamentsvidne, hvis:
 
 Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid med AL § 64, stk. 3, nr. 1-3, er testamentet således anfægteligt. 
 
-Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
+**Bevisbyrden** påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 
 ---
@@ -719,7 +721,7 @@ Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 ## Nødtestamente, jf. AL § 65
 
-*"Holografisk testamente"*, i dansk ret et nødtestamente oprettet uden vidner, men skrevet og underskrevet egenhændigt af testator.
+*"Holografisk testamente"*, i dansk ret et nødtestamente oprettet **uden vidner**, men skrevet og underskrevet egenhændigt af testator.
 
 
 
@@ -727,7 +729,7 @@ Bevisbyrden påhviler den, der vil arve, hvis testamentet tilsidesættes.
 
 ---
 
-Betingelser ved oprettelsen af et nødtestamente:
+**Betingelser ved oprettelsen af et nødtestamente:**
 
 Kræver en nødsituation.
 
@@ -822,11 +824,11 @@ Udvidet samlevertestamente bortfalder ved indgåelse af ægteskab.
 
 ---
 
-Hvis der fx. er bestemt i et samlevertestamente, at *”længstlevende skal arve mest muligt”*. Det betyder, at andre arvinger skal have deres arv begrænset mest muligt til fordel for den af dem, som bliver længstlevende.
+Hvis der fx. er bestemt i et samlevertestamente, at **”længstlevende skal arve mest muligt”**. Det betyder, at andre arvinger skal have deres arv begrænset mest muligt til fordel for den af dem, som bliver længstlevende.
 
 Det får den betydning, at førstafdødes formue skal deles ligeligt mellem længstlevende og evt. et fællesbarn, eller særbarn, født, som ufødt jf. AL § 94, jf. AL § 1 om børns arveret og AL § 9 om ægtefællens arveret, når afdøde har livsarvinger. 
 
-Desuden vil den længstlevende automatisk være *”begunstiget”* og dermed umiddelbart have retten til udbetalinger fra evt. livsforsikringer jf. nærmere forsikringsaftaleloven § 102. 
+Desuden vil den længstlevende automatisk være **”begunstiget”** og dermed umiddelbart have retten til udbetalinger fra evt. livsforsikringer jf. nærmere forsikringsaftaleloven § 102. 
 
 Længstlevende vil også have de særlige rettigheder, som i arvesituationen tilkommer en ægtefælle i form udtagelsesret mv, dog ikke retten til at hensidde i uskiftet bo.  
 
@@ -838,7 +840,7 @@ Fællesformuen, som skal deles, efter førsteafdøde udgør fx på dette tidspun
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/0Ss86d4klSw" target="_blank">Video Udvidet samlevertestamente</a></h4>
+**<h4><a href="https://www.youtube.com/embed/0Ss86d4klSw" target="_blank">Video Udvidet samlevertestamente</a></h4>**
 
 ---
 
@@ -877,7 +879,7 @@ Hvis forudsætningerne for at oprette et uigenkaldeligt testamente brister eller
 
 Der kan ske en fradømmelse af arveretten for arvingen ved dennes forsætlige forbrydelse mod den afdøde.
 
-Følgende fremgår således af arvelovens § 48:
+**Følgende fremgår således af arvelovens § 48:**
 
 "Når en person har begået en forsætlig overtrædelse af straffeloven, som har medført en andens død, kan det ved dom bestemmes, at den pågældende fortaber retten til at få arv, forsikringssummer, pensioner eller andre ydelser, der var afhængige af den dræbtes død. Tilsvarende kan det bestemmes, at den pågældendes arv eller andel i forsikringssummer, pension eller andre ydelser ikke må forøges som følge af lovovertrædelsen.
 
@@ -923,7 +925,7 @@ Dommen i **U 1946.812 H** Medvirken. T, der var K's universalarving, fik tredjem
  
 --
 
-Se retspraksis, hvor der ikke skete fortabelse: 
+**Se retspraksis, hvor der ikke skete fortabelse:** 
 
 Se dommen i **U 1983.439 V** En abnorm enkeltreaktion, hvor tiltalte følte sig truet og uretfærdigt behandlet af faderen. Fængsel i 6 år for drab på far. Ej frakendelse af retten til arv.
 **<a href="https://pro.karnovgroup.dk/document/7000206460/1">Dommen klik her!</a>**
@@ -947,13 +949,13 @@ Gennemgå følgende domme om frakendelse af arveretten: **U 1997.1686 H**; **U 1
 
 ## Dødsgaver
 
-"Dødsgave" er en	gave, som ikke kan gøres gældende, så længe giveren lever. Kræver testamentsform, jf. arvelovens § 93.
+**"Dødsgave"** er en	gave, som ikke kan gøres gældende, så længe giveren lever. Kræver testamentsform, jf. arvelovens § 93.
 
-"Dødslejegave	gave", som gives på dødslejet. Kræver testamentsform, jf. arvelovens § 93, dog ikke "sædvanlige gaver", jf. arvelovens § 93, stk. 2.
+**"Dødslejegave	gave"**, som gives på dødslejet. Kræver testamentsform, jf. arvelovens § 93, dog ikke "sædvanlige gaver", jf. arvelovens § 93, stk. 2.
 
 ---
 
-Se ligeledes romerrettens begreb "inter vivos"; som betyder "mellem levende". Det modsatte af "mortis causa" (ved død). 
+Se ligeledes romerrettens begreb **"inter vivos"**; som betyder **"mellem levende"**. Det modsatte af **"mortis causa"** (ved død). 
 
 En gave er en disposition inter vivos, mens et testamente er en disposition mortis causa.
 
@@ -981,21 +983,21 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/exm1sAFp0dE" target="_blank">Video Webseminar om Arv, testamenter og pensioner</a></h4>
+**<h4><a href="https://www.youtube.com/embed/exm1sAFp0dE" target="_blank">Video Webseminar om Arv, testamenter og pensioner</a></h4>**
 
 ---
 
 ## Behandlingen af dødsboet
 
-Om information og vejledning om behandling af dødsboer:
+**Om information og vejledning om behandling af dødsboer:**
 
-Hvem anmelder dødsfaldet til skifteretten?
+**Hvem anmelder dødsfaldet til skifteretten?**
 
 Præsten anmelder dødsfaldet til folkeregisteret og skifteretten, som straks sender besked til skattevæsenet.
 
 ---
 
-Hvem skal tage sig af begravelsen?
+**Hvem skal tage sig af begravelsen?**
 
 Normalt tager den nærmeste familie sig af begravelsen. 
 
@@ -1003,7 +1005,7 @@ Hvis der ikke er nogen familie, tager kommunen sig af sagen.
 
 ---
 
-Hvad må de pårørende, inden de pårørende har været i skifteretten?
+**Hvad må de pårørende, inden de pårørende har været i skifteretten?**
 
 Indtil skifteretten har taget stilling til, hvordan boet skal behandles, skal de pårørende sørge for, at afdødes værdier bliver opbevaret betryggende. 
 
@@ -1015,7 +1017,7 @@ Når skifteretten har taget stilling til boets behandling, udsteder skifteretten
 
 ---
 
-Skifterettens behandling:
+**Skifterettens behandling:**
 
 Skifteretten vil kontakte kontaktpersonen i boet ca. 4 uger efter dødsfaldet.
 
@@ -1025,25 +1027,25 @@ I andre tilfælde vil det være nødvendigt med et møde i skifteretten.
 
 ---
 
-Begreber:
+**Begreber:**
 
-*"Skæringsdagen"* i et dødsbo	den dag, pr. hvilken dødsboet gøres op. Skal ved almindeligt privat skifte ligge senest 12 måneder efter dødsdagen.
+**"Skæringsdagen"** i et dødsbo	den dag, pr. hvilken dødsboet gøres op. Skal ved almindeligt privat skifte ligge senest 12 måneder efter dødsdagen.
 
 ---
 
-*"Boudlæg":*
+**"Boudlæg":**
 
 Hvis afdødes formue ikke overstiger 45.000 kr., kan boet blive behandlet som boudlæg.
 
 ---
 
-*"Ægtefælleudlæg":*
+**"Ægtefælleudlæg":**
 
 Hvis afdødes og ægtefællens samlede formue ikke overstiger 780.000 kr., bliver hele boet udlagt til ægtefællen.
 
 ---
 
-*"Uskiftet bo":*
+**"Uskiftet bo":**
 
 Hvis afdøde efterlader sig børn, kan ægtefællen sidde i uskiftet bo.
 
@@ -1063,7 +1065,7 @@ Det koster 500 kr. i retsafgift (2019) at få boet udleveret til uskiftet bo.
 
 ---
 
-Man kan ikke få boet udleveret til uskiftet bo, hvis:
+**Man kan ikke få boet udleveret til uskiftet bo, hvis:**
 
 1. Afdøde og ægtefællen kun havde særeje.
 
@@ -1075,18 +1077,18 @@ Man kan ikke få boet udleveret til uskiftet bo, hvis:
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" target="_blank">Video Få styr på arven: Uskiftet bo kan blive dyrt </a></h4>
+**<h4><a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" target="_blank">Video Få styr på arven: Uskiftet bo kan blive dyrt </a></h4>**
 
 ---
 Se link her:
 
-Om boudlæg:
+**Om boudlæg:**
 
 **<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/boudlaeg/Pages/default.aspx">klik her!</a>**
 
 ---
 
-Om ægtefælleudlæg:
+**Om ægtefælleudlæg:**
 
 **<a href="http://www.domstol.dk/saadangoerdu/doedsfald/dodsbo/aegtefaelleudlaeg/Pages/default.aspx">klik her!</a>**
 
@@ -1101,7 +1103,7 @@ Læs mere om dødsboskat i SKAT´s vejledning, som man kan finde her eller søg 
 
 ---
 
-*"Privat skifte":*
+**"Privat skifte":**
 
 Hvis arvingerne er enige om det, kan boet skiftes privat. 
  
@@ -1149,11 +1151,11 @@ Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skat
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/Va5cNkBjT_M" target="_blank">Video Hvad koster det at arve?</a></h4>
+**<h4><a href="https://www.youtube.com/embed/Va5cNkBjT_M" target="_blank">Video Hvad koster det at arve?</a></h4>**
 
 ---
 
-Når man arver, skal man betale det, der hedder "boafgift". Det, der tidligere hed arveafgift. Der findes tre afgiftsklasser:
+**Når man arver, skal man betale det, der hedder "boafgift". Det, der tidligere hed arveafgift. Der findes tre afgiftsklasser:**
 
 • 0 pct. = Ægtefælle.
 
@@ -1171,7 +1173,7 @@ Den nuværende grænse (2019) for gaver for nærbeslægtede er 61.500 kr. pr. pe
 
 ---
 
-"Bobestyrerbo":
+**"Bobestyrerbo":**
 
 Hvis der ikke foreligger andre muligheder, bliver boet behandlet som bobestyrerbo. 
 
@@ -1184,27 +1186,27 @@ Se link her: *Hvornår skal et bo behandles af en bobestyrer?*:
 
 ---
 
-"Boer efter udlændinge (tidligere kaldet "henvisningsboer")":
+**"Boer efter udlændinge (tidligere kaldet "henvisningsboer")":**
 
 Se link her:
 **<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/UDLAENDINGE/Pages/default.aspx" >klik her!</a>**
 
 ---
 
-"Vejledning til værger og skifteværger": 
+**"Vejledning til værger og skifteværger":** 
 
 Se link her:
 **<a href="http://www.domstol.dk/SAADANGOERDU/DOEDSFALD/DODSBO/VAERGER/Pages/default.aspx" >klik her!</a>**
 
 ---
 
-Klage over skifterettens afgørelser:
+**Klage over skifterettens afgørelser:**
 
 Man kan klage over skifterettens afgørelser til landsretten.
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/_TmFA4SLd0U"  target="_blank">Video Få styr på arven: Undgå spærret konto ved død</a></h4>
+**<h4><a href="https://www.youtube.com/embed/_TmFA4SLd0U"  target="_blank">Video Få styr på arven: Undgå spærret konto ved død</a></h4>**
 
 
 ---
@@ -1214,28 +1216,36 @@ Man kan klage over skifterettens afgørelser til landsretten.
 Bo Mortensen på 52 år levede papirløst sammen med Pia Larsen på 30 år. Parret mødte hinanden, da Pia for seks år siden blev ansat som sekretær i Intel A/S, hvor Bo Mortensen er direktør. Parret har sammen to børn på henholdsvis 2 og 3 år. 
 For to år siden købte parret en dejlig villa sammen, og ejer den i forholdet 50/50.
 
-Spørgsmål 1: 
+**Eksamensspørgsmål 1:** 
 
 Hvem er arvinger efter Bo Mortensen, og hvad ville arven udgøre, hvis Bo pludselig faldt om af et hjerteslag?
+
+---
 
 Ud over medejerskabet til villaen ejer Bo Mortensen også en stor aktiepost i Intel A/S, en pensionsopsparing med et indestående på kr. 2.500.000 og al indbo i den faste ejendom, da Pia intet ejede, da de flyttede sammen.
 Bo Mortensen og Pia Larsen blev gift i august 2019, men Bo er noget bekymret for, hvordan han skal beskytte sin formue mod deling, hvis det nu viser sig, at ægteskabet med Pia alligevel ikke holder.
 
-Spørgsmål 2: 
+**Eksamensspørgsmål 2**: 
 
 Angiv hvilke muligheder du kan se, at Bo Mortensen har.
+
+---
+
 Bo Mortensen er meget forelsket i Pia, og vil også gerne have, at Pia over tid får ret til en større og større andel af hans formue på trods af at ægteskabet eventuelt måtte ende med en skilsmisse.
 
-Spørgsmål 3: 
+**Eksamensspørgsmål 3:**
 
-Angiv om en sådan mulighed findes for Bo Mortensen
+Angiv om en sådan mulighed findes for Bo Mortensen.
+
+---
+
 En mørk og tåget aften i december 2019 kører Bo Mortensen ind i et træ på vej hjem fra arbejde, og bliver dræbt på stedet.
 
 Pia Larsen bliver indkaldt til møde i Skifteretten og præsenteres for den kendsgerning, at Bo Mortensen har et - for Pia ukendt - barn på 20 år.
 
-Spørgsmål 4: 
+**Eksamensspørgsmål 4:** 
 
-Hvem er arvinger efter Bo Mortensen og hvor stor en andel får de hver især af dødsboet. (der skal ikke udregnes noget beløb)
+Hvem er arvinger efter Bo Mortensen og hvor stor en andel får de hver især af dødsboet. (der skal ikke udregnes noget beløb).
 
 <a class="spreaker-player" href="https://www.spreaker.com/episode/28803484" data-resource="episode_id=28803484" data-width="100%" data-height="200px" data-theme="light" data-playlist="false" data-playlist-continuous="false" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="right" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true">Listen to "rettevejledning" on Spreaker.</a>
 
@@ -1247,7 +1257,7 @@ Hvem er arvinger efter Bo Mortensen og hvor stor en andel får de hver især af 
 ## Løsningsmodeller til eksamensopgaver med arv og skifte
 
 
-*1. Gennemgå samtlige personer for arveret ^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat Peter Wedel Ranch Krarup.]
+**1. Gennemgå samtlige personer for arveret** ^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat Peter Wedel Ranch Krarup.]
 
 -	Ufødte børn tager kun arv, hvis de er avlet forinden dødsfaldet og fødes levnede - AL (arveloven) § 94, stk. 1.
 
@@ -1481,9 +1491,9 @@ Formkrav:
 
 ---
 
-## Quiz Arveretten
+## Quiz
 
-<h3><a href="https://quiz.tepedu.dk/jura24" target="_blank">Quiz Arveretten<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+**<h3><a href="https://quiz.tepedu.dk/jura24" target="_blank">Quiz Arveretten<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
 
 
 

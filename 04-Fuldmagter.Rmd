@@ -9,12 +9,12 @@ cat(readLines('np.html'))
 
 ---
 
-*Fulmagtsreglerne anvendes, når du som fuldmægtig finansøkonom er ansat i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af aftaler og kontrakter med kunder og klienter.*
+**Fulmagtsreglerne anvendes, når du som fuldmægtig finansøkonom er ansat i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af aftaler og kontrakter med kunder og klienter.**
 
 ---
 
 
-Hvad er en fuldmagt?
+**Hvad er en fuldmagt?**
 
 Fuldmagt er en	ret til at handle i en andens navn og for en andens regning.
 
@@ -31,23 +31,23 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 Forskellige former for fuldmagter:
 
-"Stillingsfuldmagt" aftalelovens § 10, stk. 2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og bankassistenter.
+**Stillingsfuldmagt** aftalelovens § 10, stk. 2 i aftaleloven i relation til et ansættelsesforhold fx læger, kassedamer og bankassistenter.
 
 ---
 
-"Forevisningsfuldmagt" aftalelovens § 16, stk. 1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
+**Forevisningsfuldmagt** aftalelovens § 16, stk. 1 i aftaleloven fx et stykke papir der giver lov til at købe/sælge i fuldmagtsgivers navn. Fx. afhentning i Føtex af en andens (fuldmagtsgivers) postpakke.
 
 ---
 
-"Specialfuldmagt" aftalelovens § 13 aftaleloven, når 3.mand kender FM´s (fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger eller en salgsassistent må bestille varer.
+**Specialfuldmagt** aftalelovens § 13 aftaleloven, når 3.mand kender FM´s (fuldmagtsgiveren) omfang. Fx må lærere indkøbe bøger eller en salgsassistent må bestille varer.
 
 ---
 
-"Offentlig bekendtgjort fuldmagt" fra fuldmagtsgiveren, jf. aftalelovens § 14, stk. 1 i aftaleloven fx hvis der afholdes reception.
+**Offentlig bekendtgjort fuldmagt** fra fuldmagtsgiveren, jf. aftalelovens § 14, stk. 1 i aftaleloven fx hvis der afholdes reception.
 
 ---
 
-Opsigelse af fuldmagt kan ske ved følgende:
+**Opsigelse af fuldmagt kan ske ved følgende:**
 
 * Fuldmagten opsiges/fratrædes.
 
@@ -65,12 +65,12 @@ Opsigelse af fuldmagt kan ske ved følgende:
 
 
 
-"Fuldmagt" er således reguleret af aftaleloven, se Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. 
+**Fuldmagt** er således reguleret af aftaleloven, se Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Aftaleloven se Lovsamlingen Klik her!</a>**
 
 ---
 
-Fuldmagter inddeles på følgende måde:
+**Fuldmagter inddeles på følgende måde:**
 
 "Fuldmagt med særlig tilværelse".
   
@@ -80,9 +80,9 @@ Fuldmagter inddeles på følgende måde:
 
 Derudover findes der regler om mellemmænd:
   
-"Kommission" (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014). 
+**Kommission** (Kommisionsloven Lovbekendtgørelse nr. 332 af 31. marts 2014). 
   
-"Handelsagenter" (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende).
+**Handelsagenter** (Lov nr. 272 af 2. maj 1990 om handelsagenter og handelsrejsende).
 
 
 ---
@@ -126,13 +126,13 @@ Fuldmagt: Aftaleloven afsnit II, jf. aftalelovens §§ 10-27 ^[Følgende bygger 
 
 ---
 
-Personerne ved fuldmagtsforhold:
+**Personerne ved fuldmagtsforhold:**
 
-"Fuldmagtsgiver/hovedmanden," er den, i hvis navn og for hvis regning aftalen indgås.
+**Fuldmagtsgiver/hovedmanden,** er den, i hvis navn og for hvis regning aftalen indgås.
 
-"Fuldmægtigen/mellemmanden," er den, der handler i hovedmandens navn.
+**Fuldmægtigen/mellemmanden,** er den, der handler i hovedmandens navn.
 
-"Tredjemand/aftalepart," er hovedmandens aftalepart.
+**Tredjemand/aftalepart,** er hovedmandens aftalepart.
 
 ---
 
@@ -157,7 +157,7 @@ Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan 
 
 ---
 
-En fuldmagt skabt ved passivitet kaldes ofte "adfærdsfuldmagt". 
+En fuldmagt skabt ved passivitet kaldes ofte **adfærdsfuldmagt**. 
 
 Der foreligger ingen fuldmagt, men hovedmanden har ved sin adfærd givet grund til at tro, at „fuldmægtigen“ var bemyndiget til at disponere på hovedmandens vegne.
 
@@ -176,23 +176,23 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 ---
 
 
-Aftaleloven sondrer mellem på den ene side "legitimation" og på den anden side "beføjelse". 
+Aftaleloven sondrer mellem på den ene side **legitimation** og på den anden side **beføjelse**. 
 
-Ved "fuldmagt" forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
+Ved **fuldmagt** forstås således den magt eller kompetence (legitimation), fuldmægtigen har til inden for visse grænser at foretage retshandler med bindende virkning for fuldmagtsgiveren. 
 
-Ved "beføjelse" (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
+Ved **beføjelse** (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. det mellem ham og fuldmagtsgiveren bestående retsforhold har til at optræde på dennes vegne:
 
-* "Bemyndigelse/beføjelse": Er således den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
+* **Bemyndigelse/beføjelse:** Er således den interne instruks mellem fuldmagtsgiver og fuldmægtig. Indholdet af denne instruks er som udgangspunkt ikke kendt for omverdenen.
 
-* "Legitimation": Den ydre fuldmagt er synlig og kendt for omverdenen.
+* **Legitimation:** Den ydre fuldmagt er synlig og kendt for omverdenen.
 
-* "Fuldmagt/legitimation": Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus).
+* **Fuldmagt/legitimation:** Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus).
 
 Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end fuldmagten. Fuldmagten kan aldrig være snævrere end bemyndigelse.
 
 ---
 
-<h4><a href="https://youtu.be/ugJt8-E7xJY" target="_blank">Video om fuldmagt via aftaler</a></h4>
+**<h4><a href="https://youtu.be/ugJt8-E7xJY" target="_blank">Video om fuldmagt via aftaler</a></h4>**
 
 ---
 
@@ -202,7 +202,7 @@ Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end 
 
 
 
-Der findes som nævnt to fuldmagtsformer:
+**Der findes som nævnt to fuldmagtsformer:**
 
 1. "Fuldmagt med særlig tilværelse".
 
@@ -212,20 +212,20 @@ Der findes som nævnt to fuldmagtsformer:
 
 *Fuldmagt med særlig tilværelse:*
 
-+ "Stillingsfuldmagt", jf. aftalelovens § 10, stk. 2.
++ **Stillingsfuldmagt**, jf. aftalelovens § 10, stk. 2.
 
-+ "Specialfuldmagt", jf. aftalelovens § 13.
++ **Specialfuldmagt**, jf. aftalelovens § 13.
 
-+ "Offentlig bekendtgjort fuldmagt", jf. aftalelovens § 14, stk. 1
++ **Offentlig bekendtgjort fuldmagt**, jf. aftalelovens § 14, stk. 1
 
-+ "Skriftlig fuldmagt/forevisningsfuldmagt", jf. aftalelovens § 16, stk. 1
++ **Skriftlig fuldmagt/forevisningsfuldmagt**, jf. aftalelovens § 16, stk. 1
 
 ---
 
 *Fuldmagt uden særlig tilværelse:*
 
 
-Kaldes også en "§ 18-fuldmagt".
+Kaldes også en **§ 18-fuldmagt**.
 
 ---
 
@@ -233,7 +233,7 @@ Kaldes også en "§ 18-fuldmagt".
 
 ## Fuldmagt med særlig tilværelse
 
-### Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:
+**Stillingsfuldmagt, jf. aftalelovens § 10, stk. 2:**
 
 ”Indtager nogen ifølge aftale med en anden en stilling, som efter lov eller sædvane medfører beføjelse for ham til indenfor visse grænser at handle på den andens vegne, anses han befuldmægtiget til at foretage retshandler, som falder indenfor disse grænser”. 
 
@@ -341,11 +341,11 @@ Samt **U 2006.356 V** om regres ved en forsætligt forvoldt skade og arbejdstage
 
 ---
 
-Ordet "Regres" er et krav om tilbagebetaling for noget man har betalt på andres vegne. Ordet regres kommer af det latinske regressus og betyder ”tilbagegang”.
+Ordet **Regres** er et krav om tilbagebetaling for noget man har betalt på andres vegne. Ordet regres kommer af det latinske regressus og betyder ”tilbagegang”.
 
 ---
 
-Ophør af fuldmagtsforholdet:
+**Ophør af fuldmagtsforholdet:**
 
 En stillingsfuldmagt ophører og tilbagekaldes ved at fuldmægtigen fjernes fra stillingen, fx opsiges eller bortvises.
 
@@ -357,7 +357,7 @@ I en opsigelsesperiode bør fuldmagtsgiver tage stilling til, om fuldmægtigen s
 
 ---    
 
-### Specialfuldmagt, jf. aftalelovens § 13  
+**Specialfuldmagt, jf. aftalelovens § 13**  
 
 Aftalelovens § 13 har følgende ordlyd:
 
@@ -365,7 +365,7 @@ Aftalelovens § 13 har følgende ordlyd:
 
 ---
 
-Det kaldes også for "legitimationsfuldmagt".
+Det kaldes også for **legitimationsfuldmagt**.
 
 Fuldmagten er en særskilt erklæring, der meddeles direkte fra fuldmagtsgiver til tredjemand.
   
@@ -383,7 +383,7 @@ Tilbagekaldelsen får virkning når den er kommet frem – behøver ikke komme t
  
 ---
 
-### Offentlig bekendtgjort fuldmagt, jf. aftalelovens § 14
+**Offentlig bekendtgjort fuldmagt**, jf. aftalelovens § 14
 
 
 Bestemmelsen i aftalelovens § 14 har følgende indhold:
@@ -400,7 +400,7 @@ Offentlig bekendtgjort fuldmagt - fx kuratorfuldmagt, der får fuldmagt til at b
 
 ---
 
-### Skriftlig fuldmagt/forevisningsfuldmagt 
+**Skriftlig fuldmagt/forevisningsfuldmagt** 
 
 Se aftalelovens § 16 med følgende bestemmelse:
 
@@ -438,7 +438,7 @@ Der sondres ikke mellem bemyndigelse og legitimation, da fuldmagtens omfang og b
 
 ---
 
-Aftaler i strid med fuldmagten:
+**Aftaler i strid med fuldmagten:**
 
 Fuldmagtsgiver er ikke bundet af aftaler som fuldmægtigen indgår i strid med en § 18-fuldmagt, uanset om tredjemand var i god tro, jf. aftalelovens § 11, stk. 2.
 
@@ -510,7 +510,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/pg3C6fbVoTs" target="_blank">Video om erstatning efter aftalelovens § 25</a></h4>
+**<h4><a href="https://www.youtube.com/embed/pg3C6fbVoTs" target="_blank">Video om erstatning efter aftalelovens § 25</a></h4>**
 
 ---
 
@@ -527,15 +527,15 @@ Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anfø
 
 ---
 
-Mere alvorlige straffelovs forbrydelser som fuldmægtig:
+**Mere alvorlige straffelovs forbrydelser som fuldmægtig:**
 
-"Mandatsvig og returkommission:"
+**Mandatsvig og returkommission:**
 
-"Mandatsvig" straffes efter straffeloven.	For mandatsvig straffes den, som for derigennem at skaffe sig eller andre uberettiget vinding påfører en anden formuetab 1) ved misbrug af en for ham skabt adgang til at handle med retsvirkning for denne eller 2) ved i et formueanliggende, som det påhviler ham at varetage for den anden, at handle mod dennes tarv, jf. straffelovens § 280.
+**Mandatsvig** straffes efter straffeloven.	For mandatsvig straffes den, som for derigennem at skaffe sig eller andre uberettiget vinding påfører en anden formuetab 1) ved misbrug af en for ham skabt adgang til at handle med retsvirkning for denne eller 2) ved i et formueanliggende, som det påhviler ham at varetage for den anden, at handle mod dennes tarv, jf. straffelovens § 280.
 
 ---
 
-"Returkommission" straffes efter straffelovens § 299, stk. 2: Med bøde eller fængsel indtil 4 år straffes den, som ved varetagelse af en andens formueanliggender for sig selv eller andre på pligtstridig måde modtager, fordrer eller lader sig tilsige gave eller anden fordel, såvel som den, der yder, lover eller tilbyder en sådan gave eller anden fordel".
+**Returkommission** straffes efter straffelovens § 299, stk. 2: Med bøde eller fængsel indtil 4 år straffes den, som ved varetagelse af en andens formueanliggender for sig selv eller andre på pligtstridig måde modtager, fordrer eller lader sig tilsige gave eller anden fordel, såvel som den, der yder, lover eller tilbyder en sådan gave eller anden fordel".
 
 ---
 
@@ -563,11 +563,11 @@ Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for kø
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/08Bm3t_CR9s" target="_blank">Video om fuldmagtens grænser</a></h4>
+**<h4><a href="https://www.youtube.com/embed/08Bm3t_CR9s" target="_blank">Video om fuldmagtens grænser</a></h4>**
 
 ---
 
-## Eksamensopgave 1 Fuldmagter
+## Eksamensopgave 1
 
 
 Eksamensopgave - jem og fix  
@@ -600,11 +600,11 @@ Eksamensspørgsmålet:
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40409438" data-resource="episode_id=40409438" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 4.1. Jem og Fix" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-<h4><a href="https://youtu.be/oeIre44pjQU" target="_blank">Video om sådan laver du selv en Fuldmagt</a><h4>
+**<h4><a href="https://youtu.be/oeIre44pjQU" target="_blank">Video om sådan laver du selv en Fuldmagt</a><h4>**
 
 ---
 
@@ -652,22 +652,23 @@ Er flere af disse forskrifter anvendelige på samme fuldmagt, skal de alle iagtt
 
 ---
 
-Stillingsfuldmagt – ved bortvisning eller flytning - aftalelovens § 10, stk. 2. 
-
----
-Specialfuldmagt – når 3. mand underrettes om tilbagekaldelsen - aftalelovens § 13.
+**Stillingsfuldmagt** – ved bortvisning eller flytning - aftalelovens § 10, stk. 2. 
 
 ---
 
-Offentlig bekendtgjort fuldmagt – tilbagekaldelsen offentliggøres på samme måde - aftalelovens § 14.
+**Specialfuldmagt** – når 3. mand underrettes om tilbagekaldelsen - aftalelovens § 13.
 
 ---
 
-Skriftlig fuldmagt – fuldmagten modtages retur eller destrueres - aftalelovens § 16. 
+**Offentlig bekendtgjort fuldmagt** – tilbagekaldelsen offentliggøres på samme måde - aftalelovens § 14.
 
 ---
 
-§ 18-fuldmagt – når besked om tilbagekaldelse er kommet frem til fuldmægtigen - aftalelovens § 18.
+**Skriftlig fuldmagt** – fuldmagten modtages retur eller destrueres - aftalelovens § 16. 
+
+---
+
+**§ 18-fuldmagt** – når besked om tilbagekaldelse er kommet frem til fuldmægtigen - aftalelovens § 18.
 
 ---
 
@@ -717,9 +718,9 @@ Fuldmægtigen er dog ansvarsfri, såfremt 3. mand vidste eller burde vide, at fu
 
 ---
 
-## Quiz Fuldmagter
+## Quiz
 
-<h3><a href="https://quiz.tepedu.dk/jura5" target="_blank">Quiz Jura Fuldmagter   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
+**<h3><a href="https://quiz.tepedu.dk/jura5" target="_blank">Quiz Jura aftaleret   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
 
 
 
