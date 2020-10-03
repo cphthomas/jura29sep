@@ -8,7 +8,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af kapitlet "forbrugeraftaler og forbrugerbeskyttelse":**
+***Indledningsvis skal du som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af kapitlet "forbrugeraftaler og forbrugerbeskyttelse":***
 
 
 •	**Forbrugerbeskyttelse ved erhvervelse af fast ejendom; fortrydelsesret og tilbud, tilbagekaldelse og sælgers accept, Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom (LFFE) kapitel 2**
@@ -41,7 +41,7 @@ Forbrugeraftaleloven kan vel karakteriseres som forbrugernes grundlov. Eller ang
 
 ---
 
-Forbrugeraftaleloven er "beskyttelsespræceptiv" – dvs. loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
+Forbrugeraftaleloven er **"beskyttelsespræceptiv"** – dvs. loven kan ikke fraviges til skade for forbrugeren, FBL § 33, men forbrugeren kan godt stilles bedre end, hvad lovgivningen tilsiger, fx 6 måneders fortrydelsesretten i forhold til den lovpligtige fortrydelsesret på 14 dage.
 
 En forbrugeraftale indgås mellem to parter, hvor den erhvervsdrivende indgår aftalen som led i sit erhverv, mens den anden part (forbrugeren) handler hovedsagelig uden for sit erhverv, jf. FBL § 2, stk. 1. 
 
@@ -90,7 +90,7 @@ Forbuddet er især begrundet med privatlivets fred og for at imødegå overraske
 
 ---
  
-Undtagelserne finder vi i FBL § 4, stk. 2, hvorefter telefoniske henvendelse gerne må ske, hvis det handler om:
+**Undtagelserne finder vi i FBL § 4, stk. 2, hvorefter telefoniske henvendelse gerne må ske, hvis det handler om:**
 
 * Bestilling af bøger,
 
@@ -105,7 +105,7 @@ Undtagelserne finder vi i FBL § 4, stk. 2, hvorefter telefoniske henvendelse ge
 
 ## Telefonsalg
 
-Ved telefoniske henvendelser omfattet af FBL § 4, stk. 2, om bestilling af bøger, abonnementer på aviser mv. skal forbrugeren ved hvert opkald have oplysning i telefonsamtalen om:
+**Ved telefoniske henvendelser omfattet af FBL § 4, stk. 2, om bestilling af bøger, abonnementer på aviser mv. skal forbrugeren ved hvert opkald have oplysning i telefonsamtalen om:**
  
 * Den erhvervsdrivendes identitet.
 
@@ -120,7 +120,7 @@ Ved telefoniske henvendelser omfattet af FBL § 4, stk. 2, om bestilling af bøg
 
 Virksomheden der gerne må ringe uanmodet, skal tjekke	*Robinson-listen* inden henvendelse, ellers er det en overtrædelse af markedsføringslovens § 10, stk. 4, nr. 2 og 3.
 
-Derudover gælder markedsføringslovens § 10, stk. 6: 
+**Derudover gælder markedsføringslovens § 10, stk. 6:** 
 
 "Den erhvervsdrivende skal derfor ved den første henvendelse til forbrugeren, oplyse denne om retten til at frabede sig uanmodede henvendelser fra den erhvervsdrivende i fremtiden".
 
@@ -189,7 +189,7 @@ Den erhvervsdrivende har pligt til at give tydelig skriftlig oplysning om fortry
 
 ---
 
-Oplysningen skal gives:
+**Oplysningen skal gives:**
 
 Ved mødet med forbrugeren.
 
@@ -203,7 +203,7 @@ Fortrydelsesfristen begynder først at løbe fra det tidspunkt, forbrugeren modt
 ## Fjernsalg
 
 
-"Fjernsalg" er en aftale om salg af varer eller salg af tjenesteydelser, eller aftale om løbende levering af varer eller tjenesteydelser.
+**"Fjernsalg"** er en aftale om salg af varer eller salg af tjenesteydelser, eller aftale om løbende levering af varer eller tjenesteydelser.
   
 Aftalen indgås på afstand ved fjernkommunikation, fx e-handel, aftale indgået pr. e-mail, telefonsalg, katalog- og postordresalg.
   
@@ -285,7 +285,7 @@ Den erhvervsdrivende skal tilbagebetale penge til forbrugeren, senest 30 dage fr
 ## Forbrugerens fortrydelsesret i forbrugeraftaleloven
 
 
-"Fortrydelsesret" er en ret for forbrugeren til uden angivelse af begrundelse at træde tilbage fra en aftale, som ellers ville være bindende for forbrugeren.
+**"Fortrydelsesret"** er en ret for forbrugeren til uden angivelse af begrundelse at træde tilbage fra en aftale, som ellers ville være bindende for forbrugeren.
 
 ---
  
@@ -293,7 +293,7 @@ Hovedreglen i dansk ret er, at der ingen fortrydelsesret er ved køb i den fysis
 
 ---
 
-Se her FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret i forbrugerkøb:
+**Se her FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret i forbrugerkøb:**
 
 * Forbrugeraftaler, der indgået ved fjernsalg, fx på nettet.
 
@@ -304,7 +304,7 @@ Se her FBL § 18, stk. 1, hvor der er lovgivet om en fortrydelsesret i forbruger
 
 **Fortrydelsesret: Andre særregler:**
 
-Fortrydelsesret ved køb af fast ejendom, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom:
+**Fortrydelsesret ved køb af fast ejendom, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom:**
 
 En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af den nominelle købesummen, se nærmere ebogens kap. 21.
 
@@ -319,11 +319,9 @@ En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indg
 **Fortrydelsesfristen 14 dages beregning:**
 
  
-Fortrydelsesfristen beregnes fra forskellige tidspunkter, jf. FBL § 19, stk. 2 – aftale om køb af:
+**Fortrydelsesfristen beregnes fra forskellige tidspunkter, jf. FBL § 19, stk. 2 – aftale om køb af:**
 
 Tjenesteydelse – beregnes fra aftalens indgåelse.
-
----
 
 Flere varer der leveres enkeltvis – beregnes når den sidste vare er i forbrugerens fysiske besiddelse.
 
@@ -333,7 +331,7 @@ Flere varer der leveres i partier – beregnes fra det sidste parti er i forbrug
 
 Varer der leveres regelmæssigt over en periode – beregnes fra den første vare er i forbrugerens besiddelse.
 
-Levering af vand, gas , elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse.
+Levering af vand, gas, elektricitet m.v. samt varer med digitalt indhold – beregnes fra aftalens indgåelse.
 
 Den dag, hvor forbrugeren har modtaget de oplysninger om fortrydelsesret mv., som det påhviler den erhvervsdrivende at give forbrugeren på papir eller andet varigt medium.
  
@@ -359,7 +357,7 @@ Forbrugeren skal sende varen tilbage senest 14 dage efter, at den erhvervsdriven
 
 ---
   
-Forbrugeren bærer risikoen for varen.
+**Forbrugeren bærer risikoen for varen.**
 
 Ved værdiforringelse (forskellen mellem ny-pris og gensalgspris) skal forbrugeren betale. 
 
@@ -539,7 +537,7 @@ Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmø
 
 (Emnet er ikke pensum på finansøkonomuddannelsen)
 
-En central lov for e-handelsretten er e-handelsloven (Lov nr. 227 af 22. april 2002 om tjenester i informationssamfundet herunder visse aspekter af elektronisk handel.e-handelsloven har gennemført dele af Europa-Parlamentets og Rådets direktiv af 2000-06-08om visse retlige aspekter af informationssamfundstjenester, navnlig elektronisk handel, i det indre marked (»Direktivet om elektronisk handel«) (2000/31).
+En central lov for e-handelsretten er **e-handelsloven** (Lov nr. 227 af 22. april 2002 om tjenester i informationssamfundet herunder visse aspekter af elektronisk handel.e-handelsloven har gennemført dele af Europa-Parlamentets og Rådets direktiv af 2000-06-08om visse retlige aspekter af informationssamfundstjenester, navnlig elektronisk handel, i det indre marked (»Direktivet om elektronisk handel«) (2000/31).
 
 ---
 
@@ -636,13 +634,13 @@ Reglerne gælder uanset, at man har aftalt noget andet med ens kunde.
 
 ---
 
-**Du skal blandt andet:**
+**Man skal blandt andet:**
 
-Give nogle generelle oplysninger om din virksomhed. 
+Give nogle generelle oplysninger om ens virksomhed. 
 
 Udforme reklamen, så den kan identificeres som reklame.
 
-Give nogle tekniske oplysninger i forbindelse med, at du indgår aftalen.
+Give nogle tekniske oplysninger i forbindelse med, at man indgår aftalen.
 
 Give en elektronisk ordrebekræftelse.
 
@@ -650,15 +648,15 @@ Virksomheder, der handler med hinanden via e-handel, kan indbyrdes aftale at fra
 
 Fx kan bestemmelsen om at give en elektronisk ordrebekræftelse afviges, hvis det er skrevet ind i salgsbetingelserne.
 
-E-handelslovens bestemmelser supplerer reglerne i markedsføringsloven og forbrugeraftaleloven, så dem er det også vigtigt, at du sætter dig ind i. 
+E-handelslovens bestemmelser supplerer reglerne i markedsføringsloven og forbrugeraftaleloven, så dem er det også vigtigt, at man sætter sig ind i. 
 
 Forbrugerombudsmanden fører tilsyn med, at virksomheder overholder loven. 
 
-Du har en generel oplysningspligt, hvilket betyder, at du altid skal synliggøre visse oplysninger om din virksomhed. 
+Man har en generel oplysningspligt, hvilket betyder, at man altid skal synliggøre visse oplysninger om ena virksomhed. 
 
 ---
 
-Din virksomheds webshop og hjemmeside skal som minimum give dine kunder lettilgængelig viden om din virksomheds:
+Virksomhedens webshop og hjemmeside skal som minimum give sine kunder lettilgængelig viden om ens virksomheds:
 
 Fulde registrerede navn.
 
@@ -674,11 +672,11 @@ Speciel oplysningspligt for lovregulerede erhverv.
 
 Priser og intention om salg skal stå tydeligt.
 
-Du skal angive prisen for en vare eller tjenesteydelse, klart og tydeligt. 
+Man skal angive prisen for en vare eller tjenesteydelse, klart og tydeligt. 
 
 Det skal også fremgå, om prisen er inklusive afgifter og leveringsomkostninger.
 
-Du skal udforme og præsentere al kommerciel kommunikation, så det er tydeligt for forbrugerne, at der er tale om reklame, dvs. at du ønsker at sælge varer eller tjenesteydelser.
+Man skal udforme og præsentere al kommerciel kommunikation, så det er tydeligt for forbrugerne, at der er tale om reklame, dvs. at man ønsker at sælge varer eller tjenesteydelser.
 
 Det skal tydeligt fremgå, hvem der er afsender.
 
@@ -688,7 +686,7 @@ Krav om let forståelig information om bestilling.
 
 ---
 
-Du skal tydeligt, klart og forståeligt informere om:
+Man skal tydeligt, klart og forståeligt informere om:
 
 De forskellige tekniske led, fx bestillingsproceduren, i forbindelse med kontraktens indgåelse.
 
@@ -700,19 +698,19 @@ De sprog, kontrakten kan indgås på.
 
 Webshoppens tekniske funktioner skal være kundevenlige.
 
-Private forbrugere skal have mulighed for at afgive en korrekt ordre, når de bestiller varer via din hjemmeside. 
+Private forbrugere skal have mulighed for at afgive en korrekt ordre, når de bestiller varer via ens hjemmeside. 
 
-Du skal derfor sørge for, at hjemmesidens funktioner er så kundevenlige, at det er muligt for dem at finde og rette indtastningsfejl, så de ikke kommer til at bestille varer, de ikke ønsker.
+Man skal derfor sørge for, at hjemmesidens funktioner er så kundevenlige, at det er muligt for dem at finde og rette indtastningsfejl, så de ikke kommer til at bestille varer, de ikke ønsker.
 
-Du skal også stille kontraktbetingelser og generelle salgsbetingelser til rådighed på en sådan måde, at dine kunder har mulighed for at lagre eller kopiere dem.
+Man skal også stille kontraktbetingelser og generelle salgsbetingelser til rådighed på en sådan måde, at ens kunder har mulighed for at lagre eller kopiere dem.
 
-Du skal uden unødig forsinkelse, elektronisk bekræfte modtagelsen af en elektronisk ordre.
+Man skal uden unødig forsinkelse, elektronisk bekræfte modtagelsen af en elektronisk ordre.
 
 ---
 
 **Særligt for handel via online markedspladser:**
 
-Markedsplatforme har en stigende rolle på markedet, og du bør derfor som e-handelsvirksomhed gøre dig tanker om fordele og ulemper ved at udbyde dine produkter på en online markedsplatform. 
+Markedsplatforme har en stigende rolle på markedet, og man bør derfor som e-handelsvirksomhed gøre sig tanker om fordele og ulemper ved at udbyde ens produkter på en online markedsplatform. 
 
 Markedsplatforme formidler typisk blot kontakten mellem sælger og køber. 
 
@@ -734,7 +732,7 @@ Nethandel #heltsikkert giver dig én samlet indgang til information om, hvordan 
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoer om forbrugerforhold</a></h4>**
+<h4><a href="https://www.forbrug.dk/menu/videokanal/#mainVideo" target="_blank">Videoer om forbrugerforhold</a></h4>
 
 ---
 
@@ -767,7 +765,7 @@ Har du styr på, om du må eje kopivarer i Danmark? Eller om du må tage dem med
 
 ## Quiz
 
-**<h3><a href="https://quiz.tepedu.dk/jura6" target="_blank">Quiz om forbrugeraftaler og forbrugerbeskyttelse<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura6" target="_blank">Quiz om forbrugeraftaler og forbrugerbeskyttelse<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 ---
 

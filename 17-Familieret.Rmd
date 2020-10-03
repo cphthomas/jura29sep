@@ -8,11 +8,11 @@ cat(readLines('np.html'))
 
 ---
 
-**Forståelsen af reglerne om ægtefællers økonomiske forhold kan være anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.**
+***Forståelsen af reglerne om ægtefællers økonomiske forhold kan være anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.***
 
 ---
 
-**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten til eksamen:**
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af familieretten til eksamen og din gennemførelse af "OLA" ved udarbejdelse af det juridiske kundenotat:***
 
 * Relateres til rådgivning af privatkunder.  
 
@@ -80,7 +80,7 @@ I alle øvrige forhold har det til gengæld stor betydning hvem af ægtefællern
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/lXw-hdped28" target="_blank" >Video Familieliv og jura</a></h4>**
+<h4><a href="https://www.youtube.com/embed/lXw-hdped28" target="_blank" >Video Familieliv og jura</a></h4>
 
 
 ---
@@ -315,11 +315,11 @@ Begge ægtefæller skal være enige herom og indgå en skriftlig (og tinglyst i 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/NNG8jga_q_Y" target="_blank" >Video Tinglysning af ægtepagt</a></h4>**
+<h4><a href="https://www.youtube.com/embed/NNG8jga_q_Y" target="_blank" >Video Tinglysning af ægtepagt</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/DQmRSVrdmrY" target="_blank" >Video Sådan laver du selv en ægtepagt</a></h4>**
+<h4><a href="https://www.youtube.com/embed/DQmRSVrdmrY" target="_blank" >Video Sådan laver du selv en ægtepagt</a></h4>
 
 ---
 
@@ -1042,7 +1042,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/u3qv7qhAn14" target="_blank" >Video Hvilket særeje skal du vælge?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/u3qv7qhAn14" target="_blank" >Video Hvilket særeje skal du vælge?</a></h4>
 
 ---
 
@@ -1520,7 +1520,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/-ZXmo3X8GOQ" target="_blank" >Video Guide til separation og skilsmisse</a></h4>**
+<h4><a href="https://www.youtube.com/embed/-ZXmo3X8GOQ" target="_blank" >Video Guide til separation og skilsmisse</a></h4>
 
 ---
 
@@ -1528,7 +1528,7 @@ Det, der træder i stedet for særeje, og indtægter af særeje er særeje, jf. 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/cKeZZuNhIaw" target="_blank" >Video Guide til bodeling ved skilsmisse</a></h4>**
+<h4><a href="https://www.youtube.com/embed/cKeZZuNhIaw" target="_blank" >Video Guide til bodeling ved skilsmisse</a></h4>
 
 ---
 
@@ -1611,7 +1611,7 @@ Dette gælder også aktiver, som tilhører den anden ægtefælles delingsformue,
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/M2Av7OqKLtw" target="_blank" >Video Skilsmisse i børnehøjde</a></h4>**
+<h4><a href="https://www.youtube.com/embed/M2Av7OqKLtw" target="_blank" >Video Skilsmisse i børnehøjde</a></h4>
 
 ---
 
@@ -2423,16 +2423,16 @@ U5: Regulerings-, misbrugs- eller kompensationskrav, jf. ÆF § 53.
 **Aspekter af skilsmissen**
 
 
-**<h4><a href="https://www.youtube.com/embed/ZvS2L4wIKPo" target="_blank" >Video Når det går galt ved en skilsmisse</a></h4>**
+<h4><a href="https://www.youtube.com/embed/ZvS2L4wIKPo" target="_blank" >Video Når det går galt ved en skilsmisse</a></h4>
 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/tEDkwMk96r8" target="_blank" >Video Regler for samvær</a></h4>**
+<h4><a href="https://www.youtube.com/embed/tEDkwMk96r8" target="_blank" >Video Regler for samvær</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/o3E7r1JbvpA" target="_blank" >Video Hvordan møder man skilsmissen?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/o3E7r1JbvpA" target="_blank" >Video Hvordan møder man skilsmissen?</a></h4>
 
 ---
 
@@ -2609,7 +2609,7 @@ Følgende aktiver og krav indgår ikke i ligedelingen af ægtefællernes delings
 
 ## Quiz
 
-**<h3><a href="https://quiz.tepedu.dk/jura23" target="_blank">Quiz Familieret<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura23" target="_blank">Quiz Familieret<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 ---
  

@@ -9,7 +9,7 @@ cat(readLines('np.html'))
 
 ---
 
-*Forståelsen af reglerne om tingsretlige konflikter i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom samt ved finansiering via virksomhedspant mv.*
+***Forståelsen af reglerne om tingsretlige konflikter i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom samt ved finansiering via virksomhedspant mv.***
 
 ---
 

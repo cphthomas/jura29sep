@@ -6,7 +6,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Kapitel 2 skal kun læses i hovedtræk. Kapitlet omhandler hvilke retsregler (retskilder) som findes i vores retssystem og hvordan retskilderne anvendes i den juridiske metode. E-bogens andre kapitler beskriver nærmere retskilderne for de behandlet lovemner der er relevante for Finansøkonomen** 
+***Kapitel 2 skal kun læses i hovedtræk. Kapitlet omhandler hvilke retsregler (retskilder) som findes i vores retssystem og hvordan retskilderne anvendes i den juridiske metode. E-bogens andre kapitler beskriver nærmere retskilderne for de behandlet lovemner der er relevante for Finansøkonomen.*** 
 
 
 ---
@@ -410,15 +410,15 @@ Mens lovene udformes, afgiver udvalgene udtalelser fra deres særlige regionale 
 
 ---
 
-**<h4><a href="https://youtu.be/3GRtTKpMyVM" target="_blank">Video EU institutioner</a></h4>**
+<h4><a href="https://youtu.be/3GRtTKpMyVM" target="_blank">Video EU institutioner</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/7y0IJQHlEEY">Video om dit Demokrati | Hvad bestemmer EU</a></h4>**
+<h4><a href="https://www.youtube.com/embed/7y0IJQHlEEY">Video om dit Demokrati | Hvad bestemmer EU</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/ED7rPDtZkPM" target="_blank">Video om dit Demokrati | Hvem må være med i EU</a></h4>**
+<h4><a href="https://www.youtube.com/embed/ED7rPDtZkPM" target="_blank">Video om dit Demokrati | Hvem må være med i EU</a></h4>
 
 ---
 
@@ -565,7 +565,7 @@ I juridisk Ordbog (*Bo von Eyben*, 14. udg.) defineres juridisk metode som følg
 
 ## Quiz
 
-**<h4><a href="https://quiz.tepedu.dk/jura2" target="_blank">Quiz Retskilderne <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>**
+<h4><a href="https://quiz.tepedu.dk/jura2" target="_blank">Quiz Retskilderne <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 
 ---
 

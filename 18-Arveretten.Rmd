@@ -8,17 +8,17 @@ cat(readLines('np.html'))
 
 ---
 
-**Forståelsen af reglerne om arv kan være anvendelig for dig, som privat person gifte, som samlevende, og dig som finansøkonomer, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.**
+***Forståelsen af reglerne om arv kan være anvendelig for dig, som privat person gifte, som samlevende, og dig som finansøkonomer, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til ægtefællerne ved deres køb af fast ejendom, lejeforhold og ved låneoptag mv.***
 
 ---
 
-**De arveretlige regler anvendes bl.a. i faget "Privatøkonomisk rådgivning" på finansøkonomuddannelsen samt i udarbejdelse af OLA'er**
+***De arveretlige regler anvendes bl.a. i faget "Privatøkonomisk rådgivning" på finansøkonomuddannelsen, samt i udarbejdelse af det juridiske kundenotat under OLA'er.***
 
 ---
 
 
 
-**<h4><a href="https://www.youtube.com/embed/ikBxcxBSBb8" target="_blank">Video Hvem arver fra dig?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/ikBxcxBSBb8" target="_blank">Video Hvem arver fra dig?</a></h4>
 
 ---
 
@@ -300,7 +300,7 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 
 
-**<h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video Sådan fordeles arven</a></h4>**
+<h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video Sådan fordeles arven</a></h4>
 
 ---
 
@@ -329,28 +329,28 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/qYf2gatfAWQ" target="_blank">Video Fordeling af arv: Ugift par uden børn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/qYf2gatfAWQ" target="_blank">Video Fordeling af arv: Ugift par uden børn</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/cDriXFDNg30" target="_blank">Video Fordeling af arv: Ugift par med fælles børn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/cDriXFDNg30" target="_blank">Video Fordeling af arv: Ugift par med fælles børn</a></h4>
 
 ---
 
 
-**<h4><a href="https://www.youtube.com/embed/x7WzAOJJNXQ" target="_blank">Video Fordeling af arv: Ugift par med stedbørn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/x7WzAOJJNXQ" target="_blank">Video Fordeling af arv: Ugift par med stedbørn</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/WVec5BYeu34" target="_blank">Video Arv mellem sammenlevende</a></h4>**
+<h4><a href="https://www.youtube.com/embed/WVec5BYeu34" target="_blank">Video Arv mellem sammenlevende</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/bNa7tt460bY" target="_blank">Video om fordeling af arv uden børn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/bNa7tt460bY" target="_blank">Video om fordeling af arv uden børn</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/TXaWe8-jz9s" target="_blank">Video Fordeling af arv med fællesbørn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/TXaWe8-jz9s" target="_blank">Video Fordeling af arv med fællesbørn</a></h4>
 
 ---
 
@@ -358,11 +358,11 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/MQ6i9G5NxUc" target="_blank">Video Fordeling af arv: Ægtepar med stedbørn</a></h4>**
+<h4><a href="https://www.youtube.com/embed/MQ6i9G5NxUc" target="_blank">Video Fordeling af arv: Ægtepar med stedbørn</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/UtsI4IWmajI" target="_blank">Video Arv mellem ægtefæller</a></h4>**
+<h4><a href="https://www.youtube.com/embed/UtsI4IWmajI" target="_blank">Video Arv mellem ægtefæller</a></h4>
 
 ---
 
@@ -458,13 +458,13 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 
 
-**<h4><a href="https://www.youtube.com/embed/5MxSyf_Ah84" target="_blank">Video Styr på arven: Testamente eller ej?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/5MxSyf_Ah84" target="_blank">Video Styr på arven: Testamente eller ej?</a></h4>
 
 ---
 
 
 
-**<h4><a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" target="_blank">Video Styr på arven: Fem gode råd om testamente</a></h4>**
+<h4><a href="https://www.youtube.com/embed/JdGPXTv0KEA" width="853" target="_blank">Video Styr på arven: Fem gode råd om testamente</a></h4>
 
 ---
 
@@ -482,11 +482,11 @@ Reglen vil derfor også i praksis blive påberåbt af en længstlevende ægtefæ
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/TcZb7VCClcQ" target="_blank">Video Hvordan opretter du et testamente?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/TcZb7VCClcQ" target="_blank">Video Hvordan opretter du et testamente?</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q" target="_blank">Video Styr på arven: Hvem får pensionen? </a></h4>**
+<h4><a href="https://www.youtube.com/embed/F6Yourieo0Q" target="_blank">Video Styr på arven: Hvem får pensionen? </a></h4>
 
 ---
 
@@ -559,7 +559,7 @@ Et **"uigenkaldeligt testamente"** er et	testamente, som ikke kan tilbagekaldes.
 
 ---
 
-**<h4><a href="https://jyskebank.tv/hvorfor-lave-et-testamente" target="_blank">Video Hvorfor skrive et testamente?</a></h4>**
+<h4><a href="https://jyskebank.tv/hvorfor-lave-et-testamente" target="_blank">Video Hvorfor skrive et testamente?</a></h4>
 
 
 ---
@@ -840,7 +840,7 @@ Fællesformuen, som skal deles, efter førsteafdøde udgør fx på dette tidspun
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/0Ss86d4klSw" target="_blank">Video Udvidet samlevertestamente</a></h4>**
+<h4><a href="https://www.youtube.com/embed/0Ss86d4klSw" target="_blank">Video Udvidet samlevertestamente</a></h4>
 
 ---
 
@@ -983,7 +983,7 @@ Sædvanlige gaver mellem ægtefæller og konkurslovens regler, om lejlighedsgave
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/exm1sAFp0dE" target="_blank">Video Webseminar om Arv, testamenter og pensioner</a></h4>**
+<h4><a href="https://www.youtube.com/embed/exm1sAFp0dE" target="_blank">Video Webseminar om Arv, testamenter og pensioner</a></h4>
 
 ---
 
@@ -1077,7 +1077,7 @@ Det koster 500 kr. i retsafgift (2019) at få boet udleveret til uskiftet bo.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" target="_blank">Video Få styr på arven: Uskiftet bo kan blive dyrt </a></h4>**
+<h4><a href="https://www.youtube.com/embed/Fuag5hpZ9Ik" target="_blank">Video Få styr på arven: Uskiftet bo kan blive dyrt </a></h4>
 
 ---
 Se link her:
@@ -1151,7 +1151,7 @@ Valg af skifteform kan have stor betydning for ægtefællens og arvingernes skat
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/Va5cNkBjT_M" target="_blank">Video Hvad koster det at arve?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/Va5cNkBjT_M" target="_blank">Video Hvad koster det at arve?</a></h4>
 
 ---
 
@@ -1206,7 +1206,7 @@ Man kan klage over skifterettens afgørelser til landsretten.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/_TmFA4SLd0U"  target="_blank">Video Få styr på arven: Undgå spærret konto ved død</a></h4>**
+<h4><a href="https://www.youtube.com/embed/_TmFA4SLd0U"  target="_blank">Video Få styr på arven: Undgå spærret konto ved død</a></h4>
 
 
 ---
@@ -1493,7 +1493,7 @@ Formkrav:
 
 ## Quiz
 
-**<h3><a href="https://quiz.tepedu.dk/jura24" target="_blank">Quiz Arveretten<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura24" target="_blank">Quiz Arveretten<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 

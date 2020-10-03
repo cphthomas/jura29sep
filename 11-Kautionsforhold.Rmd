@@ -12,12 +12,12 @@ cat(readLines('np.html'))
 
 ---
 
-**Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter. Kaution er kendetegnet ved, at en person eller virksomhed, går ind og garanterer at betale en anden persons gæld, hvis personen ikke er i stand til det. I nogle tilfælde kan banker eller andre kreditorer kræve, at man som låntager skal få en anden person til at kautionerer for ens lån. Det vil sige at personen, der også hedder en kautionist, garanterer at betale låntagers lån, hvis låntager ikke selv kan betale, når kravet - fx lånet - forfalder til betaling. Kreditor vil undersøge kautionisten i forhold til, hvorvidt han eller hun er økonomisk stærkt stillet i forhold til at kautionere for lånet. Hvis kreditor accepterer kautionisten, betyder det, at der er flere, der hæfter for lånet, hvilket giver en større sikkerhed for tilbagebetaling for kreditoren. Kaution giver på den måde kreditor større sikkerhed og låntager mulighed for indgå i kontrakter såsom låneaftaler, som låntager måske ellers ikke kunne uden en kaution. Hvis låntager betaler sine forpligtelser - såsom renter og afdrag - vil låntager ikke misligholde sine forpligtelser. Hvis låntager ikke misligholder sine forpligtelser, vil der ikke kunne gøres noget krav gældende mod en kautionist. Det vil sige, at kautionisten ikke vil berøres af at kautionere.**
+***Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter. Kaution er kendetegnet ved, at en person eller virksomhed, går ind og garanterer at betale en anden persons gæld, hvis personen ikke er i stand til det. I nogle tilfælde kan banker eller andre kreditorer kræve, at man som låntager skal få en anden person til at kautionerer for ens lån. Det vil sige at personen, der også hedder en kautionist, garanterer at betale låntagers lån, hvis låntager ikke selv kan betale, når kravet - fx lånet - forfalder til betaling. Kreditor vil undersøge kautionisten i forhold til, hvorvidt han eller hun er økonomisk stærkt stillet i forhold til at kautionere for lånet. Hvis kreditor accepterer kautionisten, betyder det, at der er flere, der hæfter for lånet, hvilket giver en større sikkerhed for tilbagebetaling for kreditoren. Kaution giver på den måde kreditor større sikkerhed og låntager mulighed for indgå i kontrakter såsom låneaftaler, som låntager måske ellers ikke kunne uden en kaution. Hvis låntager betaler sine forpligtelser - såsom renter og afdrag - vil låntager ikke misligholde sine forpligtelser. Hvis låntager ikke misligholder sine forpligtelser, vil der ikke kunne gøres noget krav gældende mod en kautionist. Det vil sige, at kautionisten ikke vil berøres af at kautionere.***
 
 
 ---
 
-**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:**
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:***
 
 **Kautionsformer især sondringen mellem simpel og selvskyldnerkaution**
 
@@ -1565,7 +1565,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 ## Quiz
 
-**<h3><a href="https://quiz.tepedu.dk/jura15" target="_blank">Quiz Kautionsforhold <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura15" target="_blank">Quiz Kautionsforhold <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 

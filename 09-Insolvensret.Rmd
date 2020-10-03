@@ -5,11 +5,11 @@ cat(readLines('np.html'))
 ```
 
 
-**Dette her kapitel om insolvensreglerne anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med at kunderne og klienter skylder penge til jeres virksomhed. Derfor er det vigtigt som finansøkonom at bl.a. kende reglerne om inkassoprocessen, tvangsinddrivelse via fogedretten, tvangsauktion, samt konkursbehandling, rekonstruktion og gældssanering**
+***Dette her kapitel om insolvensreglerne anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med at kunderne og klienter skylder penge til jeres virksomhed. Derfor er det vigtigt som finansøkonom at bl.a. kende reglerne om inkassoprocessen, tvangsinddrivelse via fogedretten, tvangsauktion, samt konkursbehandling, rekonstruktion og gældssanering.***
 
 ---
 
-**Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:** 
+***Du skal som studerende være særlig opmærksom på følgende problemstillinger ved gennemgangen af insolvensretten, herunder kreditorforfølgning:*** 
 
 
 
@@ -120,7 +120,7 @@ Hvis skyldner selv erklærer sig insolvent, forventes det at være rigtigt.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/kxa-lYBFCDk" target="_blank">Video om udlæg og trangsbeneficium</a></h4>**
+<h4><a href="https://www.youtube.com/embed/kxa-lYBFCDk" target="_blank">Video om udlæg og trangsbeneficium</a></h4>
 
 ---
 
@@ -221,7 +221,7 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/XbxO46Oeizw" target="_blank">Video Gode råd og gæld</a></h4>**
+<h4><a href="https://www.youtube.com/embed/XbxO46Oeizw" target="_blank">Video Gode råd og gæld</a></h4>
 
 ---
 
@@ -325,7 +325,7 @@ Man kan foretage en vejledende beregning af retsafgiften.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/z8QQeRFvPGQ" target="_blank">Video God inkassoskik</a></h4>**
+<h4><a href="https://www.youtube.com/embed/z8QQeRFvPGQ" target="_blank">Video God inkassoskik</a></h4>
 
 ---
 
@@ -334,7 +334,7 @@ Man kan foretage en vejledende beregning af retsafgiften.
 
 ---
 
-**<h4><a href="https://youtu.be/4p97-bt-mYk" target="_blank">Video: Inkasso i hundesalonen</a></h4>**
+<h4><a href="https://youtu.be/4p97-bt-mYk" target="_blank">Video: Inkasso i hundesalonen</a></h4>
 
 ---
 
@@ -351,7 +351,7 @@ Provenuet fra tvangsauktionen nedbringer skyldners gæld
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/th9E-UvXijE" target="_blank">Video Gode råd om gæld: Fogedretten</a></h4>**
+<h4><a href="https://www.youtube.com/embed/th9E-UvXijE" target="_blank">Video Gode råd om gæld: Fogedretten</a></h4>
 
 ---
 
@@ -387,11 +387,11 @@ Se **U 2019.3313 Ø** Gældsbrev, der var underskrevet ved anvendelse af Bank Ne
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/gNK1K_cpsSw" target="_blank">Video Gode råd og gæld: SKAT</a></h4>**
+<h4><a href="https://www.youtube.com/embed/gNK1K_cpsSw" target="_blank">Video Gode råd og gæld: SKAT</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/V_ZxNcRklxE" target="_blank">Video Gode råd om gæld: Budget</a></h4>**
+<h4><a href="https://www.youtube.com/embed/V_ZxNcRklxE" target="_blank">Video Gode råd om gæld: Budget</a></h4>
 
 ---
 
@@ -736,16 +736,16 @@ Se dommen i **U 2019.3256** om krav i henhold til gældsbrev var ikke fritaget f
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/kxa-lYBFCDk" target="_blank">Video: Udlæg og trangsbeneficiet</a></h4>**
+<h4><a href="https://www.youtube.com/embed/kxa-lYBFCDk" target="_blank">Video: Udlæg og trangsbeneficiet</a></h4>
 
 ---
  
 
-Trangsbeneficiet, jf. RPL § 509:
+**Trangsbeneficiet, jf. RPL § 509:**
 
 ![](img/beskeden.png)
 
-Kreditor kan ikke få udlæg i aktiver omfattet af trangsbeneficiet.
+Kreditor kan ikke få udlæg i aktiver omfattet af **trangsbeneficiet**.
 
 Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
 
@@ -1304,7 +1304,7 @@ Se dommen i **U 2019.3119 V** Overdragelse af selskabs biler til selskabets dire
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/-x0_B732-Pw" target="_blank">Video: Hvad er forskellen på frivillig gældssanering og konkurs?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/-x0_B732-Pw" target="_blank">Video: Hvad er forskellen på frivillig gældssanering og konkurs?</a></h4>
 
 ---
 
@@ -2035,15 +2035,15 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/lWPR4f96Hng" target="_blank">Video: Gældssanering ja eller nej</a></h4>**
+<h4><a href="https://www.youtube.com/embed/lWPR4f96Hng" target="_blank">Video: Gældssanering ja eller nej</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/eUtA_eE8acg" target="_blank">Video: Advokatråd om gældssanering</a></h4>**
+<h4><a href="https://www.youtube.com/embed/eUtA_eE8acg" target="_blank">Video: Advokatråd om gældssanering</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/PzVeVWnCsSw" target="_blank">Video om reglerne for gældssanering</a></h4>**
+<h4><a href="https://www.youtube.com/embed/PzVeVWnCsSw" target="_blank">Video om reglerne for gældssanering</a></h4>
 
 ---
 
@@ -2496,6 +2496,6 @@ d)	Krav på 175.000 kr. fra kurator Anders Andersen fra arbejdet med både betal
 ## Quiz
 
 
-**<h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 

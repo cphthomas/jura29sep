@@ -11,14 +11,14 @@ cat(readLines('np.html'))
 
 ---
 
-Hvad er et køb:
+**Hvad er et køb:**
 
 Købeloven (Lovbekendtgørelse nr. 140 af 17. februar 2014 Købelov) opstiller ikke en definition af, hvad der forstås ved køb, 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se købeloven klik her!</a>**
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/QQ9Dk4gvExM" target="_blank">Video om introduktion til køberetten</a></h4>**
+<h4><a href="https://www.youtube.com/embed/QQ9Dk4gvExM" target="_blank">Video om introduktion til køberetten</a></h4>
 
 
 ---
@@ -717,7 +717,7 @@ Varen skal være i overensstemmelse med, hvad der er blevet aftalt mellem køber
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/ycpgvBLXZDA" target="_blank">Video om faktiske mangler</a></h4>**
+<h4><a href="https://www.youtube.com/embed/ycpgvBLXZDA" target="_blank">Video om faktiske mangler</a></h4>
 
 ---
 
@@ -794,7 +794,7 @@ Sml. om køberens undersøgelsespligt før indgåelse af købeaftalen, jf. KBL  
 
 ---
 
-**<h4><a href="https://youtu.be/o32ngMsTEMY" target="_blank">Video om Caveat Emptor - købers undersøgelsespligt</a></h4>**
+<h4><a href="https://youtu.be/o32ngMsTEMY" target="_blank">Video om Caveat Emptor - købers undersøgelsespligt</a></h4>
 
 ---
 
@@ -1056,7 +1056,7 @@ Ved leveringen til køberen, dvs. på tidspunktet for risikoens overgang, jf. KB
 
 ---
 
-**<h4><a href="https://vimeo.com/309261723" target="_blank">Video om køb</a></h4>**
+<h4><a href="https://vimeo.com/309261723" target="_blank">Video om køb</a></h4>
 
 ---
 
@@ -1083,15 +1083,15 @@ Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 
 ---
 
-**<h4><a href="https://youtu.be/2HE6yDTD0tQ" target="_blank">Video om forholdsmæssigt afslag</a></h4>**
+<h4><a href="https://youtu.be/2HE6yDTD0tQ" target="_blank">Video om forholdsmæssigt afslag</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309270676" target="_blank">Video om Købeloven- Antal reparationsforsøg</a></h4>**
+<h4><a href="https://vimeo.com/309270676" target="_blank">Video om Købeloven- Antal reparationsforsøg</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/304777987" target="_blank">Video om køb reparationsforsøg</a></h4>**
+<h4><a href="https://vimeo.com/304777987" target="_blank">Video om køb reparationsforsøg</a></h4>
 
 ---
 
@@ -1124,12 +1124,12 @@ Har køberen foretaget en sådan undersøgelse, kan køberen ikke påberåbe sig
 
 ---
 
-**<h4><a href="https://vimeo.com/309253968" target="_blank">Video om reklamationsretten</a></h4>**
+<h4><a href="https://vimeo.com/309253968" target="_blank">Video om reklamationsretten</a></h4>
 
 
 ---
 
-**<h4><a href="https://vimeo.com/304774898" target="_blank">Video om reklamationsretten</a></h4>**
+<h4><a href="https://vimeo.com/304774898" target="_blank">Video om reklamationsretten</a></h4>
 
 ---
 
@@ -1145,7 +1145,7 @@ Hvis man ikke kan finde bonnen for købet, kan man anvende et bankudskrift som k
 
 ---
 
-**<h4><a href="https://vimeo.com/305910704" target="_blank">Video om garantier</a></h4>**
+<h4><a href="https://vimeo.com/305910704" target="_blank">Video om garantier</a></h4>
 
 
 
@@ -1946,14 +1946,14 @@ Fordringshavermora foreligger, når køber ikke vil modtage det købte på det a
 
 ## Ekstra bonusmateriale til erhvervs- og finansjura
 
-**Ekstra jura-materiale som ikke er pensum for finansøkonomuddannelsen, men som du kan bruges privat som professionelt i den finansielle branche:**
+**Ekstra jura-materiale som ikke er pensum for finansøkonomuddannelsen, men som du kan bruge privat som professionelt i bl.a. den finansielle branche:**
 
 ---
 
 **Markedsførings- og konkurrenceret**
 
 
-Den finansielle brancshe er reguleret af markedsføringsloven og konkurreceloven.
+Den finansielle branche er reguleret af markedsføringsloven og konkurreceloven.
 
 
 **<a href="https://j.tepedu.dk/markedsf%C3%B8rings-og-konkurrenceret.html" target="_blank">Om markedsførings- og konkurrenceret, se Juridisk Håndbog klik her!</a>**
@@ -1988,7 +1988,7 @@ De danske ATB-instanser er Center for Klageløsning og de godkendte private anke
 
 ---
 
-**<h4><a href="https://vimeo.com/309270909" target="_blank">Video om forbrugerklager</a></h4>**
+<h4><a href="https://vimeo.com/309270909" target="_blank">Video om forbrugerklager</a></h4>
 
 
 
@@ -2011,7 +2011,7 @@ Center for Klageløsning og Forbrugerklagenævnet behandler klager, der ikke hø
 
 ---
 
-**<h4><a href="https://vimeo.com/309260267" target="_blank">Video konflikthåndtering</a></h4>**
+<h4><a href="https://vimeo.com/309260267" target="_blank">Video konflikthåndtering</a></h4>
 
 ---
 
@@ -2163,7 +2163,7 @@ Pakkerejse-Ankenævnet behandler klager vedrørende rejser, der er arrangeret og
 
 --- 
 
-**<h4><a href="https://vimeo.com/309269644" target="_blank">Video om rettigheder på rejsen</a></h4>**
+<h4><a href="https://vimeo.com/309269644" target="_blank">Video om rettigheder på rejsen</a></h4>
 
 ---
 
@@ -2314,27 +2314,27 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 
 ---
 
-**<h4><a href="https://vimeo.com/309273066" target="_blank">Video om at forhandle om prisen</a></h4>**
+<h4><a href="https://vimeo.com/309273066" target="_blank">Video om at forhandle om prisen</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309272558" target="_blank">Video om deltagelse i netkonkurrence</a></h4>**
+<h4><a href="https://vimeo.com/309272558" target="_blank">Video om deltagelse i netkonkurrence</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309258695" target="_blank">Video Når du køber på nettet</a></h4>**
+<h4><a href="https://vimeo.com/309258695" target="_blank">Video Når du køber på nettet</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309257060" target="_blank">Video om køb på nettet</a></h4>**
+<h4><a href="https://vimeo.com/309257060" target="_blank">Video om køb på nettet</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309255477" target="_blank">Video om told</a></h4>**
+<h4><a href="https://vimeo.com/309255477" target="_blank">Video om told</a></h4>
 
 ---
 
-**<h4><a href="https://vimeo.com/309252834" target="_blank">Video hvad betyder .dk?</a></h4>**
+<h4><a href="https://vimeo.com/309252834" target="_blank">Video hvad betyder .dk?</a></h4>
 
 ---
 
@@ -2343,7 +2343,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 
 **Quiz om forbrugeraftaler**
 
-Må bilforhandleren sælge den brugte bil som "købt som beset"? Og hvor ofte skal din bil til syn?<a href="https://www.forbrug.dk/quiz/biler/?rn=64766" target="_blank"> Tag testen her.</a>
+Må bilforhandleren sælge den brugte bil som "købt som beset"? Og hvor ofte skal din bil til syn? **<a href="https://www.forbrug.dk/quiz/biler/?rn=64766" target="_blank"> Tag testen her.</a>**
 
 ---  
 
@@ -2380,101 +2380,101 @@ Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? O
 
 ---
 
-**<h4><a href="https://vimeo.com/306171700" target="_blank">Video om julehandel</a></h4>**
+<h4><a href="https://vimeo.com/306171700" target="_blank">Video om julehandel</a></h4>
 
 
 ---
 
-**<h4><a href="https://vimeo.com/305941642" target="_blank">Video om julegaven kan byttes</a></h4>**
+<h4><a href="https://vimeo.com/305941642" target="_blank">Video om julegaven kan byttes</a></h4>
 
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/julequiz/?rn=43716" target="_blank"> Quiz: Julehandel</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/julequiz/?rn=43716" target="_blank"> Quiz: Julehandel</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/abonnementer/?rn=43716" target="_blank"> Quiz: Abonnementer</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/abonnementer/?rn=43716" target="_blank"> Quiz: Abonnementer</a></h4>**
 
 ---
  
-**<h4><a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Quiz: Betalingskort</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Quiz: Betalingskort</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/biler/?rn=43716" target="_blank">Quiz: Biler</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/biler/?rn=43716" target="_blank">Quiz: Biler</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz: Boligsalg</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz: Boligsalg</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/blaasygesikring/?rn=43716" target="_blank">Quiz: Det blå EU-sygesikringskort</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/blaasygesikring/?rn=43716" target="_blank">Quiz: Det blå EU-sygesikringskort</a></h4>
 
 ---
 
 
-**<h4><a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Quiz: Elektronik</a></h4>** 
+<h4><a href="https://www.forbrug.dk/quiz/elektronik/?rn=43716" target="_blank">Quiz: Elektronik</a></h4> 
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Quiz: Forbrugerrettigheder</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/forbrugerquizzen/?rn=43716" target="_blank">Quiz: Forbrugerrettigheder</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Quiz: Forbrugslån</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Quiz: Forbrugslån</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/klagemuligheder/?rn=43716" target="_blank">Quiz: Klagemuligheder</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/klagemuligheder/?rn=43716" target="_blank">Quiz: Klagemuligheder</a></h4>
 
 --- 
 
-**<h4><a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Quiz: Kopivarer</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/kopivarequizzen/?rn=43716" target="_blank">Quiz: Kopivarer</a></h4>
 
 --- 
 
-**<h4><a href="https://www.forbrug.dk/quiz/markedsfoeringslov/?rn=43716" target="_blank">Quiz: Markedsføringsloven</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/markedsfoeringslov/?rn=43716" target="_blank">Quiz: Markedsføringsloven</a></h4>
 
 --- 
 
-**<h4><a href="https://www.forbrug.dk/quiz/priser-og-moms-quiz/?rn=43716" target="_blank">Quiz: Moms</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/priser-og-moms-quiz/?rn=43716" target="_blank">Quiz: Moms</a></h4>
 
 ---
 
 
-**<h4><a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Quiz: Nethandel</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/ehandelsquizzen/?rn=43716" target="_blank">Quiz: Nethandel</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Quiz: Nethandel og rejser</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/e-handel-og-rejser/?rn=43716" target="_blank">Quiz: Nethandel og rejser</a></h4>
 
 --- 
 
-**<h4><a href="https://www.forbrug.dk/quiz/proevepakke/?rn=43716" target="_blank">Quiz: Prøvepakker</a></h4>**
-
---- 
-
-
-**<h4><a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Quiz: Realkreditlån</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/proevepakke/?rn=43716" target="_blank">Quiz: Prøvepakker</a></h4>
 
 --- 
 
 
-**<h4><a href="https://www.forbrug.dk/quiz/skiferie/?rn=43716" target="_blank">Quiz: Skiferie</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Quiz: Realkreditlån</a></h4>
+
+--- 
+
+
+<h4><a href="https://www.forbrug.dk/quiz/skiferie/?rn=43716" target="_blank">Quiz: Skiferie</a></h4>
 
 ---  
  
 
-**<h4><a href="https://www.forbrug.dk/quiz/snyd-i-din-mailboks/?rn=43716" target="_blank">Quiz: Snyd i din mailbox</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/snyd-i-din-mailboks/?rn=43716" target="_blank">Quiz: Snyd i din mailbox</a></h4>
 
 ---
  
-**<h4><a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Quiz: Spam og reklamer</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/spam-og-reklamer/?rn=43716" target="_blank">Quiz: Spam og reklamer</a></h4>
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/toej-og-sko/?rn=43716" target="_blank">Quiz: Tøj og sko</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/toej-og-sko/?rn=43716" target="_blank">Quiz: Tøj og sko</a></h4>
 
 

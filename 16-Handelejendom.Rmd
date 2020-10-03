@@ -8,15 +8,15 @@ cat(readLines('np.html'))
 
 ---
 
-**Forståelsen af lovreglerne om køb og salg af fast ejendom i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion, ved din rådgivning til køberen og sælgeren ved finansiering af fast ejendom mv.**
+***Forståelsen af lovreglerne om køb og salg af fast ejendom i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion, ved din rådgivning til køberen og sælgeren ved finansiering af fast ejendom mv.***
 
 ---
 
-**Reglerne for handel med fast ejendom anvendes også i faget "Salg og Rådgivning", samt brancheretningsfaget "Ejendomsmægler på finansøkonomuddannelsen"**
+***Reglerne for handel med fast ejendom anvendes også i faget "Salg og Rådgivning", samt brancheretningsfaget "Ejendomsmægler på finansøkonomuddannelsen".***
 
 ---
 
-**Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne**:
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af handel med fast ejendom til brug for løsning af eksamensopgaverne:***
 
 
 •	**Købsaftalens indgåelse (aftalelovens § 1-7 og de særlige regler i lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom kapitel.**
@@ -57,7 +57,7 @@ Et **"mageskifte"** er ikke et køb af fast ejendom, men	bytte af fast ejendom.
 
 ---
 
-Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione" er en	blandet gave og køb, fx hvor en far overdrager en fast ejendom til sin søn for 500.000 kr, hvoraf 200.000 kr. er en gave.
+Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatione"** er en	blandet gave og køb, fx hvor en far overdrager en fast ejendom til sin søn for 500.000 kr, hvoraf 200.000 kr. er en gave.
 
 ---
 
@@ -90,18 +90,18 @@ Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione
 --- 
 
 
-**<h4><a href="https://youtu.be/N-0EyS75yrg" target="_blank">Video om gode råd om køb af bolig A-Z</a></h4>**
+<h4><a href="https://youtu.be/N-0EyS75yrg" target="_blank">Video om gode råd om køb af bolig A-Z</a></h4>
 
 
 ---
 
 
-**<h4><a href="https://www.youtube.com/embed/QvUETHDp7do" target="_blank">Video Webinar: Nykredit giver gode råd om boligkøb</a></h4>**
+<h4><a href="https://www.youtube.com/embed/QvUETHDp7do" target="_blank">Video Webinar: Nykredit giver gode råd om boligkøb</a></h4>
 
 ---
 
 
-**<h4><a href="https://youtu.be/ga9VK96CdhQ" target="_blank">Video Finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed</a></h4>**
+<h4><a href="https://youtu.be/ga9VK96CdhQ" target="_blank">Video Finansøkonomens anvendelse af juraen i hverdagen i en ejendomsmæglervirksomhed</a></h4>
 
 ---
 
@@ -124,7 +124,7 @@ Der findes et begreb ved handel med fast ejendom: "Negotium mixtum cum donatione
 ---
 
 
-**<h4><a href="https://youtu.be/U7tQihKHRoA" target="_blank">Video Få styr på førstegangskøbet: Sådan køber du en bolig</a></h4>**
+<h4><a href="https://youtu.be/U7tQihKHRoA" target="_blank">Video Få styr på førstegangskøbet: Sådan køber du en bolig</a></h4>
 
 ---
 
@@ -143,13 +143,13 @@ Hvis vederlagets størrelse ikke er et fast beløb, skal der i stedet angives be
 
 ---
 
-Ved beregningsprincipper forstås grundlaget for beregningen af vederlaget, således at det er muligt for forbrugeren selv at beregne den endelige pris. 
+Ved **beregningsprincipper** forstås grundlaget for beregningen af vederlaget, således at det er muligt for forbrugeren selv at beregne den endelige pris. 
 
 Det kan fx være i form af en vis procentdel af selve købesummen eller, hvis der er aftalt vederlag efter regning, en prisliste over de tilbudte og aftalte ydelser.  
 
 ---
  
-Som en konsekvens af LOFE § 28 om ansvarlig ejendomsmægler for hvert formidlingsopdrag skal det fremgå af formidlingsaftalen, hvem der er ansvarlig ejendomsmægler for sagen. 
+Som en konsekvens af LOFE § 28 om ansvarlig ejendomsmægler **for hvert formidlingsopdrag skal det fremgå af formidlingsaftalen, hvem der er ansvarlig ejendomsmægler for sagen.** 
 
 ---
 
@@ -213,7 +213,7 @@ Bestemmelsen hindrer tillige, at en aftale om formidling af sælgers nuværende 
 
 **Aftaleperioden for en formidlingsaftale må højst være seks måneder:** 
 
-Bestemmelsen i LOFE § 31 er en delvis videreførelse af den tidligere omsætnings lovs § 12, stk. 1, og lyder, at aftaleperioden for en formidlingsaftale højst må være seks måneder. 
+Bestemmelsen i LOFE § 31 er en delvis videreførelse af den tidligere omsætningslovs § 12, stk. 1, og lyder, at aftaleperioden for en formidlingsaftale højst må være seks måneder. 
 
 Bestemmelsen i LOFE § 31 er dog modsat den tidligere gældende regel alene begrænset til tilfælde, hvor der er aftalt resultatafhængigt vederlag, og hvor det også er aftalt, at sælger skal betale vederlag ved opsigelse.  
 
@@ -223,7 +223,7 @@ Behovet for, at aftalen udløber efter et givet tidsrum, gælder alene for aftal
 
 Aftaler af sådan karakter begrænses derfor til en periode, der maksimalt må være på seks måneder, og når perioden ophører, kan sælger vælge ikke at gå videre med aftalen uden at skulle betale ejendomsmægleren, heller ikke et opsigelsesgebyr, jf. LOFE § 33, stk. 2.   
 
-Hvis formidlingsaftalen, som sælger har indgået med ejendomsmægleren, ikke er en resultatafhængig aftale, men en aftale om betaling ”efter regning”, følger det modsætningsvis af LOFE § 31, at formidlingsaftalen kan indgås for en periode længere end seks måneder.  
+Hvis formidlingsaftalen, som sælger har indgået med ejendomsmægleren, ikke er en resultatafhængig aftale, men en aftale om betaling **”efter regning”**, følger det modsætningsvis af LOFE § 31, at formidlingsaftalen kan indgås for en periode længere end seks måneder.  
 
 ---
 
@@ -435,7 +435,7 @@ Det er således kun, når ejendomsmægleren rent faktisk leverer den helt centra
 
 ---
 
-**<h4><a href="https://youtu.be/RKc8n10ChnE" target="_blank">Video Gennemgang af en købsaftale</a></h4>**
+<h4><a href="https://youtu.be/RKc8n10ChnE" target="_blank">Video Gennemgang af en købsaftale</a></h4>
 
 ---
 
@@ -852,7 +852,7 @@ LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov 
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Huseftersynsordningen</a></h4>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Huseftersynsordningen</a></h4>
 
 
 
@@ -1149,7 +1149,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/eQqlGY1lm2M" target="_blank">Video Fortrydelsesret og advokatforbehold i en bolighandel</a></h4>**
+<h4><a href="https://www.youtube.com/embed/eQqlGY1lm2M" target="_blank">Video Fortrydelsesret og advokatforbehold i en bolighandel</a></h4>
 
 ---
 
@@ -1739,7 +1739,7 @@ Mangler ved fast ejendom forældes 3 år efter køber har opdaget manglen eller 
 
 ---
 
-**<h4><a href="https://youtu.be/dsA2EXsZVsg" target="_blank">Video Tilstandsrapport og energimærke</a></h4>**
+<h4><a href="https://youtu.be/dsA2EXsZVsg" target="_blank">Video Tilstandsrapport og energimærke</a></h4>
 
 ---
 
@@ -1768,11 +1768,11 @@ Tillæg med udlevering af Hustypebeskrivelser.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Sådan sikrer du din hushandel</a></h4>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Sådan sikrer du din hushandel</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/ioTmSBDIJ6k" target="_blank">Video Sådan bruger du hustypebeskrivelserne</a></h4>**
+<h4><a href="https://www.youtube.com/embed/ioTmSBDIJ6k" target="_blank">Video Sådan bruger du hustypebeskrivelserne</a></h4>
 
 ---
 
@@ -1792,16 +1792,16 @@ På baggrund af tilstandsrapport og elinstallationsrapport indhenter sælgeren e
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/krfhBpCbbJg" target="_blank">Video Hvad dækker ejerskifteforsikringen</a></h4>**
+<h4><a href="https://www.youtube.com/embed/krfhBpCbbJg" target="_blank">Video Hvad dækker ejerskifteforsikringen</a></h4>
 
 ---
 
 
-**<h4><a href="https://youtu.be/aLNod14h5rc" target="_blank">Video Gode råd om ejerskifteforsikringen</a></h4>**
+<h4><a href="https://youtu.be/aLNod14h5rc" target="_blank">Video Gode råd om ejerskifteforsikringen</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/O3nShnJ2w8c" target="_blank">Video Tjek huset før du køber</a></h4>**
+<h4><a href="https://www.youtube.com/embed/O3nShnJ2w8c" target="_blank">Video Tjek huset før du køber</a></h4>
 
 ---
  
@@ -2013,7 +2013,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
  
 ---
 
-**<h4><a href="https://youtu.be/4jT7zb0TzZ8" target="_blank">Video Køb af fast ejendom</a></h4>**
+<h4><a href="https://youtu.be/4jT7zb0TzZ8" target="_blank">Video Køb af fast ejendom</a></h4>
 
 ---
 
@@ -2038,7 +2038,7 @@ Men det er dog først, når skøde og tinglysning er endeligt- og anmærkningsfr
 ---
 
 
-**<h4><a href="https://www.youtube.com/embed/VnxgfS2MTUM" target="_blank">Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/VnxgfS2MTUM" target="_blank">Video få styr på førstegangskøbet: Hvad kan jeg købe bolig for?</a></h4>
 
 ---
 
@@ -2080,7 +2080,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
   
 ---
 
-**<h4><a href="https://www.youtube.com/embed/XLCa5kGQ2HA" target="_blank">Video Nye boliglån</a></h4>**
+<h4><a href="https://www.youtube.com/embed/XLCa5kGQ2HA" target="_blank">Video Nye boliglån</a></h4>
 
 ---
 
@@ -2092,7 +2092,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/3GBFrCyRmvw" target="_blank">Video Brug en boligadvokat, når du køber bolig</a></h4>**
+<h4><a href="https://www.youtube.com/embed/3GBFrCyRmvw" target="_blank">Video Brug en boligadvokat, når du køber bolig</a></h4>
 
 ---
 
@@ -2111,7 +2111,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/PrxUe5RjQso" target="_blank">Video Valg af huslån</a></h4>**
+<h4><a href="https://www.youtube.com/embed/PrxUe5RjQso" target="_blank">Video Valg af huslån</a></h4>
 
 ---
 
@@ -2282,7 +2282,7 @@ Når der er afgivet et købstilbud på en villa, hvor længe kan køber da nå a
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Sådan sikrer du din hushandel</a></h4>**
+<h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Sådan sikrer du din hushandel</a></h4>
 
 ---
 
@@ -2290,11 +2290,11 @@ Når der er afgivet et købstilbud på en villa, hvor længe kan køber da nå a
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/hH5T-cIhfSY" target="_blank">Video Hvad er det bedste lån?</a></h4>**
+<h4><a href="https://www.youtube.com/embed/hH5T-cIhfSY" target="_blank">Video Hvad er det bedste lån?</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/kUx-iNg3tPk" target="_blank">Video Råd fra førstegangskøbere</a></h4>**
+<h4><a href="https://www.youtube.com/embed/kUx-iNg3tPk" target="_blank">Video Råd fra førstegangskøbere</a></h4>
 
 
 ---
@@ -2314,14 +2314,14 @@ Hør nærmere en Podcast fra SKAT om forældrekøb.
 
 ---
 
-**<h4><a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz om boligen</a></h4>**
+<h4><a href="https://www.forbrug.dk/quiz/boligquizzen/?rn=43716" target="_blank">Quiz om boligen</a></h4>
 
 
 ---
 
 ## Quiz
 
-**<h4><a href="https://quiz.tepedu.dk/jura21" target="_blank">Quiz Handel med fast ejendom<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>**
+<h4><a href="https://quiz.tepedu.dk/jura21" target="_blank">Quiz Handel med fast ejendom<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 
 
 

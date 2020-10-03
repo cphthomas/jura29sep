@@ -7,7 +7,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Erstatningsreglerne anvendes i og uden for kontrakt i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med økonomisk tab, skader og mangler ved rådgivningen mv. overfor kunder og klienter. kapitlet gennemgår ulovbestemte betingelserne for erstatningsansvar uden for kontrakt, samt erstatning i kontrakt. Forsikringsreglerne anvendes til at dække erstatningsansvaret, hvor det er muligt. Den finansielle virksomhed skal ligeledes være meget opmærksom på god skik reglerne for finansielle virksomheder, samt hvidvask- og databeskyttelsesreglerne.**
+***Erstatningsreglerne anvendes i og uden for kontrakt i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med økonomisk tab, skader og mangler ved rådgivningen mv. overfor kunder og klienter. kapitlet gennemgår ulovbestemte betingelserne for erstatningsansvar uden for kontrakt, samt erstatning i kontrakt. Forsikringsreglerne anvendes til at dække erstatningsansvaret, hvor det er muligt. Den finansielle virksomhed skal ligeledes være meget opmærksom på god skik reglerne for finansielle virksomheder, samt hvidvask- og databeskyttelsesreglerne.***
 
 ---
 
@@ -1033,7 +1033,7 @@ Find retssager i UfR, som nærmere behandler erstatningskrav mod børn.
 
 ---
 
-**<h4><a href="https://youtu.be/0MInd7t_dHw" target="_blank">Video om forsikring, erstatning og arbejdsgiveransvar</a></h4>**
+<h4><a href="https://youtu.be/0MInd7t_dHw" target="_blank">Video om forsikring, erstatning og arbejdsgiveransvar</a></h4>
 
 ---
 
@@ -1410,15 +1410,15 @@ For en mere væsentlig uddybning af forsikringsretten for de studerende, som der
 
 ---
 
-**<h4><a href="https://youtu.be/jhoZCUQd-n8" target="_blank">Video om at forstå forsikring på 3 minutter</a></h4>**
+<h4><a href="https://youtu.be/jhoZCUQd-n8" target="_blank">Video om at forstå forsikring på 3 minutter</a></h4>
 
 ---
 
-**<h4><a href="https://youtu.be/C5MKa1y1r8I" target="_blank">Video Birgitte sælger forsikringer</a></h4>**
+<h4><a href="https://youtu.be/C5MKa1y1r8I" target="_blank">Video Birgitte sælger forsikringer</a></h4>
 
 ---
 
-**<h4><a href="https://youtu.be/j-qLQu7qECw" target="_blank">Video om at blive skadesbehandler I forsikringsselskab</a></h4>**
+<h4><a href="https://youtu.be/j-qLQu7qECw" target="_blank">Video om at blive skadesbehandler I forsikringsselskab</a></h4>
 
 ---
 
@@ -1461,7 +1461,7 @@ Forsikringstagerens undladelse af at give oplysning har ingen indflydelse på se
 
 ---
 
-Forsikrede vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i ”forsikringsbegæringen”, se nedenfor.  
+Forsikrede vil i almindelighed kunne indskrænke sig til redeligt at besvare de stillede spørgsmål i **”forsikringsbegæringen”**, se nedenfor.  
  
 En forsikringsaftale er normalt en standardkontrakt og vil blive fortolket imod forsikringsselskabet, hvis indholdet er uklart, jf. nærmere koncipistreglen i aftalelovens § 38 b.  
 
@@ -1495,7 +1495,7 @@ Ved en forbrugerforsikring forstås en forsikringsaftale, hvor forsikringstagere
 
 ---
 
-**<h4><a href="https://youtu.be/sixGZPICtew" target="_blank">Video om unge og forsikringer | Gode råd om forsikringer</a></h4>**
+<h4><a href="https://youtu.be/sixGZPICtew" target="_blank">Video om unge og forsikringer | Gode råd om forsikringer</a></h4>
 
 ---
 
@@ -1542,9 +1542,9 @@ Det kan således indgå i bevisvurderingen, hvis man ikke vil give samtykke til,
 
 ---
 
-Hvad menes der med ordet »forsikringstager«? Den (person eller virksomhed), der har indgået aftale om forsikring med forsikringsselskabet (forsikringsgiver). 
+Hvad menes der med ordet **»forsikringstager«?** Den (person eller virksomhed), der har indgået aftale om forsikring med forsikringsselskabet (forsikringsgiver). 
 
-I livsforsikring er forsikringstager den person, der betaler og ejer forsikringen, mens „forsikrede“ er den person, hvis liv eller helbred er forsikret. 
+I livsforsikring er forsikringstager den person, der betaler og ejer forsikringen, mens **"forsikrede“** er den person, hvis liv eller helbred er forsikret. 
 
 Ved livsforsikring dog kaldet den »den begunstigede«.
 
@@ -1569,20 +1569,18 @@ Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, jagtlo
 
 Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 
-Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. 
-
-**<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
+Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. **<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Video om alle kan få almindelige forsikringer</a></h4>**
+<h4><a href="https://www.youtube.com/embed/asAt_30Pd_o" target="_blank">Video om alle kan få almindelige forsikringer</a></h4>
 
 ---
 
 
 **Hvordan man ansøger om en forsikring?**
 
-Det sker via et skema kaldet en „forsikringsbegæring“, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. 
+Det sker via et skema kaldet en **"forsikringsbegæring“**, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. 
 
 Forsikringsbegæringen vil normalt indeholde oplysninger om ens person m.m. og omfatte en række spørgsmål, som man skal besvare til belysning af risikoforholdene. 
 
@@ -1628,23 +1626,23 @@ Begrundelsen skal efter anmodning være skriftlig.
 ## Skades-, pensions- og livsforsikringer
 
 
-**Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden**. 
+**Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden.** 
 
-**Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden**.
+**Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden.**
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/jhoZCUQd-n8" target=" _blank">Video: Forstå forsikring på 3 min Klik her!</a></h4>**
+<h4><a href="https://www.youtube.com/embed/jhoZCUQd-n8" target=" _blank">Video: Forstå forsikring på 3 min Klik her!</a></h4>
 
 ---
 
 Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler, se Lovsamlingen.
 
-**<h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>**
+<h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>
 
 Efter forsikringsaftalelovens (forkortet; FAL) § 35 kan enhver lovlig interesse, der lader sig ansætte i penge, være genstand for skadesforsikring.
 
-Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.
+**Forsikringen kan tegnes for forsikringstagerens eller tredjemands interesse.**
 
 ---
 
@@ -1681,7 +1679,7 @@ Om *"brandforsikring"*, jf. forsikringsaftalelovens § 79.
 
 Brandforsikring dækker den ved ildsvåde forårsagede skade på en af forsikringen omfattet genstand, selv om denne ikke kommer i brand. 
 
-"Ildsvåde"	er et gammelt ord for brand.
+**"Ildsvåde"**	er et gammelt ord for brand.
 
 Skade, forårsaget ved ild, der ikke kan betegnes som ildsvåde, omfattes ikke af forsikringen.
 
@@ -1689,9 +1687,9 @@ Der skal foreligge en flammedannelse, der er sluppet løs.
 
 Ildebrand forudsætter således en flammedannelse; skader på halmfyr, som skyldtes en glødebrand, er derfor ikke omfattet. 
 
-Svideskader dækkes heller ikke.
+**Svideskader** dækkes heller ikke.
 
-Omkring "lynnedslag", jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svarer selskabet også for skade, som forvoldes ved lynnedslag, selv om der ikke derved opstår brand, på samme måde som for brandskade.
+Omkring **"lynnedslag"**, jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svarer selskabet også for skade, som forvoldes ved lynnedslag, selv om der ikke derved opstår brand, på samme måde som for brandskade.
 
 ---
 
@@ -2087,11 +2085,11 @@ Gælder kun ved **tingsforsikring**, men ikke for summaforsikring. Dvs fx hvis m
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/EMCsXK44p1k" target=" _blank">Video: Matematik i forsikring og finansiering Klik her!</a></h4>**
+<h4><a href="https://www.youtube.com/embed/EMCsXK44p1k" target=" _blank">Video: Matematik i forsikring og finansiering Klik her!</a></h4>
 
 ---
 
-**<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#livsforsikringer">Om livsforsikringer, se Juridisk Håndbog klik her!</a>**
+<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#livsforsikringer">Om livsforsikringer, se Juridisk Håndbog klik her!</a>
 
 
 ---
@@ -2117,6 +2115,8 @@ Efter § 43 i lov om finansiel virksomhed, skal finansielle virksomheder, finans
 God skik-reglerne er offentligretlige regler. En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem den finansielle virksomhed og kunden er ugyldig eller uvirksom. Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold. Disse spørgsmål afgøres af de private finansielle ankenævn og af domstolene.
 
 **<a href="https://j.tepedu.dk/god-skik-for-den-finansielle-virksomhed-samt-erstatningsansvaret.html" target="_blank">God skik for finansielle virksomheder, se Juridisk håndbog klik her!</a>**
+
+---
 
 Se e-bogens lovsamling **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Lov om finansiel virksomhed, klik her!</a>**
 
@@ -2379,13 +2379,13 @@ Såsom:
 ## Quiz om erstatningsreglerne
 
 
-**<h3><a href="https://quiz.tepedu.dk/jura7" target="_blank">Quiz Erstatningsreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura7" target="_blank">Quiz Erstatningsreglerne   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 ---
 
 ## Quiz om skades-, pensions- og livsforsikringer
 
-**<h3><a href="https://quiz.tepedu.dk/jura25" target="_blank">Quiz Skades-, pensions- og livsforsikringer<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>**
+<h3><a href="https://quiz.tepedu.dk/jura25" target="_blank">Quiz Skades-, pensions- og livsforsikringer<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
 
 

@@ -8,15 +8,15 @@ cat(readLines('np.html'))
 
 ---
 
-*Forståelsen af reglerne om pant i fast ejendom, løsøre og virksomhedspant i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom og ved finansiering via virksomhedspant i tinglysningsloven.*
+***Forståelsen af reglerne om pant i fast ejendom, løsøre og virksomhedspant i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom og ved finansiering via virksomhedspant i tinglysningsloven.***
 
 ---
 
-*Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant i forhold til eksamen*:
+***Som studerende skal du være særlig opmærksom på følgende forhold ved gennemlæsning af pensum om pant i fast ejendom, løsøre og virksomhedspant i forhold til eksamen:***
 
 
 
-*Underpant i fast ejendom:*
+**Underpant i fast ejendom:**
 
 
 * *Stiftelse, TL § 1*.
@@ -42,7 +42,7 @@ cat(readLines('np.html'))
 
 ---
 
-*Underpant i løsøre:*
+**Underpant i løsøre:**
 
 
 * *Underpant i løsøre (inkl. motorkøretøjer m.m.)*.
@@ -55,7 +55,7 @@ cat(readLines('np.html'))
 
 ---
 
-*Virksomhedspant/fordringspant:*
+**Virksomhedspant/fordringspant:**
 
 * *Virksomhedspant TL § 47c - § 47f*.
 
@@ -85,7 +85,7 @@ Pant reguleres i vidt omfang af reglerne i tinglysningsloven, jf. Lovbekendtgør
 
 ---
 
-"Allonge"	er et tillæg - til et pantebrev.
+**"Allonge"**	er et tillæg - til et pantebrev.
 
 ---
 
@@ -166,7 +166,7 @@ Pantsætter skal ofte sørge for at aktivet er forsikret mod tyveri og brand.
 
 ![](img/tinglysning8.jpg)
 
-Håndpant:
+**Håndpant:**
 
 Håndpant er en pantsætningsform ved løsøre og omsætningspapirer (fx. kunst og smykker, kaldet "pretiosa";	som kostbarheder, især smykker), hvor der er fare for, at pantsætter vil forringe aktivet eller pantsætter sælger aktivet.
 
@@ -177,13 +177,13 @@ Det kræver således en rådighedsberøvelse af aktivet fra pantsætteren.
 ---
 
    
-Underpant:
+**Underpant:**
 
 Det oftest anvendte, da pantsætter kan beholde rådigheden over aktivet (fx pantsætning af hus eller bil).
 
 ---
    
-Retspant: er fx et "udlæg": 
+**Retspant: er fx et "udlæg":** 
 
 Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene.
 
@@ -213,7 +213,7 @@ Med et pantebrev stiller ejeren sin ejendom som sikkerhed over for en långiver,
 
 Afdrager boligejeren ikke på lånet som aftalt, kan panthaveren begære tvangsauktion over ejendommen uden først at skulle foretage udlæg.
 
-Et "pantebrev" er nærmere en aftale som indeholder beskrivelse af det pantsatte og hvad det ligger til sikkerhed for:
+Et **"pantebrev"** er nærmere en aftale som indeholder beskrivelse af det pantsatte og hvad det ligger til sikkerhed for:
 
 +	Kan indeholde et gældsbrev
 
@@ -232,19 +232,19 @@ Begrebet "viljesbestemt pant" er pant stiftet ved aftale - i modsætning til ret
  
 ## Typer af pantebreve  
 
-Der findes følgende pantebrevsformer:
+**Der findes følgende pantebrevsformer:**
 
-"Realkreditpantebreve", der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til realkreditinstituttet.
+**"Realkreditpantebreve"**, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til realkreditinstituttet.
 
 ---
 
-"Ejerpantebreve", hvor ejeren af en fast ejendom reserverer et pant i sin ejendom og underpantsætter dette fx til sin bank. 
+**"Ejerpantebreve"**, hvor ejeren af en fast ejendom reserverer et pant i sin ejendom og underpantsætter dette fx til sin bank. 
 
 Ejerpantebreve anvendes typisk som sikkerhed for lån i pengeinstitutter med tinglyst prioritetsstilling, men indebærer ikke i sig selv en pligt til forrentning og afdrag af et bestemt lånt beløb. 
 
 ---
 
-"Skadesløsbreve", hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, når størrelsen af gælden ikke er endeligt fastlagt.
+**"Skadesløsbreve"****, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, når størrelsen af gælden ikke er endeligt fastlagt.
 
 Skadesløsbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kassekredit eller lignende.
 
@@ -256,13 +256,13 @@ Skadesløsbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kas
 
 Alle pantebreve skal tinglyses for at pantet gyldigt kan stiftes.
 
-"Tinglysningsafgiften" for pantebreve er 1,5 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.660. 
+"Tinglysningsafgiften"** for pantebreve er 1,5 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.660. 
 
 Tinglysningsafgiften vil normalt blive medfinansieret i lånet.
 
 ---
 
-Eksempler på almindelige situationer:
+**Eksempler på almindelige situationer:**
 
 Da de færreste boligkøbere har mulighed for at betale boligen kontant, skal der normalt optages lån i forbindelse med boligkøbet. 
 
@@ -297,7 +297,7 @@ Dette indebærer i praksis, at køber afdrager på lånet direkte til sælger i 
 
 ---
 
-Godt at vide inden man tinglyser:
+**Godt at vide inden man tinglyser:**
 
 Al tinglysning foregår digitalt på hjemmesiden www.tinglysning.dk. Det er muligt at tinglyse i Tingbogen (fast ejendom) "Bilbogen", "Andelsboligbogen" og "Personbogen".
 
@@ -308,9 +308,9 @@ I mapperne ovenfor finder man vejledninger til de digitale tingbøger samt gener
 ---
 
 
-Rent praktisk er tinglysningsprocessen delt i tre faser:
+**Rent praktisk er tinglysningsprocessen delt i tre faser:**
 
-1. Vælg den relevante dokumenttype under ”Ny Anmeldelse” og udfyld alle trin. Personen, der har oprettet anmeldelsen, vil fremadrettet blive kaldt ”Anmelder”.
+1. Vælg den relevante dokumenttype under **”Ny Anmeldelse”** og udfyld alle trin. Personen, der har oprettet anmeldelsen, vil fremadrettet blive kaldt ”Anmelder”.
 
 2. Når anmeldelsen er færdiggjort og lagt i underskriftsmappen, skal de relevante parter logge ind med deres NemID og underskrive digitalt.
 
@@ -322,7 +322,7 @@ Vær opmærksom på at det er anmelder, der har det juridiske ansvar for indhold
 
 ---
 
-Hotline:
+**Hotline:**
 
 Deres hotline kan være behjælpelig, hvis man har tekniske problemer. Tinglysningsretten kan – som domstol – ikke yde juridisk vejledning. Hotline kan kontaktes på tlf. 70 22 18 00.
 
@@ -330,13 +330,13 @@ Deres hotline kan være behjælpelig, hvis man har tekniske problemer. Tinglysni
  
 ## Sikringsakt
 
-Pant kræver typisk at der foretages en "sikringsakt" for at panthavers ret er sikret mod andre. 
+Pant kræver typisk at der foretages en **"sikringsakt"** for at panthavers ret er sikret mod andre. 
 
 Forholdet mellem pantsætter og panthaver kræver ikke tinglysning.
 
 ---
 
-Sikringsakten afhænger af aktivet og kan være:
+**Sikringsakten afhænger af aktivet og kan være:**
 
 + Tinglysning.
    

@@ -8,11 +8,11 @@ cat(readLines('np.html'))
 
 ---
 
-**Forståelsen af reglerne om fordringer (krav), gældsbreve og pantebreve i gældsbrevsloven og tinglysningsloven er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med de forskellige sikkerhedsstillelse der kan etableres ved lån til kunder og klienter.**
+***Forståelsen af reglerne om fordringer (krav), gældsbreve og pantebreve i gældsbrevsloven og tinglysningsloven er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med de forskellige sikkerhedsstillelse der kan etableres ved lån til kunder og klienter.***
 
 ---
 
-Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og *Lars Hedegaard Kristensen og Henrik Kure*: Elektroniske Karnovkommentar til gældsbrevsloven].
+***Her skal gennemgås de vigtige juridiske regler for fordringer, gældsbreve og pantebreve. Afsnittet er yderst relevant for eksamen.***^[Herværende gennemgang af reglerne om fordringer, gældsbreve og pantebreve bygger bl.a. på oplysninger fra SKAT og* *Lars Hedegaard Kristensen og Henrik Kure*: Elektroniske Karnovkommentar til gældsbrevsloven].
 
 ---
 
@@ -125,7 +125,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
   
 ---
 
-**<h4><a href="https://www.youtube.com/embed/W8DnSJmntmY" target="_blank">Video Hvad er obligationer</a></h4>**
+<h4><a href="https://www.youtube.com/embed/W8DnSJmntmY" target="_blank">Video Hvad er obligationer</a></h4>
 
 ---
   
@@ -265,15 +265,15 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/8ufuecp-wXA" target="_blank">Video Hvordan laver du et gældsbrev</a></h4>**
+<h4><a href="https://www.youtube.com/embed/8ufuecp-wXA" target="_blank">Video Hvordan laver du et gældsbrev</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/J88adaVemVQ" target="_blank">Video Hvordan opretter du et gældsbrev online</a></h4>**
+<h4><a href="https://www.youtube.com/embed/J88adaVemVQ" target="_blank">Video Hvordan opretter du et gældsbrev online</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/PPqd-fYRCg0" target="_blank">Video Hvordan du laver en låneaftale</a></h4>**
+<h4><a href="https://www.youtube.com/embed/PPqd-fYRCg0" target="_blank">Video Hvordan du laver en låneaftale</a></h4>
 
 ---
 
@@ -845,7 +845,7 @@ En ordning om at belåne fakturaer medfører normalt ikke, at pantefogeden er af
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/zNxALT0w14U" target="_blank">Video Hvad er factoring</a></h4>**
+<h4><a href="https://www.youtube.com/embed/zNxALT0w14U" target="_blank">Video Hvad er factoring</a></h4>
 
 ---
 
@@ -918,15 +918,15 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/4SY6YPbY2YY" target="_blank">Video 1 Om gældsbrevsloven</a></h4>**
+<h4><a href="https://www.youtube.com/embed/4SY6YPbY2YY" target="_blank">Video 1 Om gældsbrevsloven</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/uODiLMSn3kg" target="_blank">Video 2 Om gældsbrevsloven</a></h4>**
+<h4><a href="https://www.youtube.com/embed/uODiLMSn3kg" target="_blank">Video 2 Om gældsbrevsloven</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/nC3Sy7tBCaY" target="_blank">Video 3 Om gældsbrevsloven</a></h4>**
+<h4><a href="https://www.youtube.com/embed/nC3Sy7tBCaY" target="_blank">Video 3 Om gældsbrevsloven</a></h4>
 
 
 ---
@@ -1205,7 +1205,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/NqakMVHBPw4" target="_blank">Video Overdragelse af fordringer</a></h4>**
+<h4><a href="https://www.youtube.com/embed/NqakMVHBPw4" target="_blank">Video Overdragelse af fordringer</a></h4>
 
 ---
 
@@ -1331,7 +1331,7 @@ Se nærmere gennemgangen i afsnittet om det efterfølgende trepartsforhold.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/B9dSq8QSHp0" target="_blank">Video Debitor- og kreditorskifte</a></h4>**
+<h4><a href="https://www.youtube.com/embed/B9dSq8QSHp0" target="_blank">Video Debitor- og kreditorskifte</a></h4>
 
 ---
 
@@ -1415,7 +1415,7 @@ Om "simpel kaution" se afsnittet.
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/jS9HN8OxvgI" target="_blank">Video At slå op i bilbogen</a></h4>**
+<h4><a href="https://www.youtube.com/embed/jS9HN8OxvgI" target="_blank">Video At slå op i bilbogen</a></h4>
 
 ---
 
@@ -2601,11 +2601,11 @@ Hvis der foretages udlæg i et papirbaseret pantebrev, skal fogeden tage dette m
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/CBUM8aybRQU" target="_blank">Video Digital tinglysning af underskrift på dokumenter og skøde</a></h4>**
+<h4><a href="https://www.youtube.com/embed/CBUM8aybRQU" target="_blank">Video Digital tinglysning af underskrift på dokumenter og skøde</a></h4>
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/6Spl32wXXco" target="_blank">Video Forstå tinglysning på 45 sekunder</a></h4>**
+<h4><a href="https://www.youtube.com/embed/6Spl32wXXco" target="_blank">Video Forstå tinglysning på 45 sekunder</a></h4>
 
 ---
 
@@ -2710,7 +2710,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 ---
 
-**<h4><a href="https://www.youtube.com/embed/2EwMrDiABD8" target="_blank">Video om tingbogens historie</a></h4>**
+<h4><a href="https://www.youtube.com/embed/2EwMrDiABD8" target="_blank">Video om tingbogens historie</a></h4>
 
 ---
 
@@ -2734,13 +2734,13 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 **1.1.1. Omsætningsgældsbreve**
 
-- Ihændehavergældsbreve er gældsbreve, der lyder på betaling til ihændehaveren eller er uden kreditorangivelse, jf. GBL § 11, stk. 2, nr. 1. 
+- **Ihændehavergældsbreve** er gældsbreve, der lyder på betaling til ihændehaveren eller er uden kreditorangivelse, jf. GBL § 11, stk. 2, nr. 1. 
 
-- Ordregældsbreve er gældsbreve, der lyder på betaling til en navngivet kreditor med tilføjelsen ”eller ordre”, jf. GBL § 11, stk. 2, nr. 2. 
+- **Ordregældsbreve** er gældsbreve, der lyder på betaling til en navngivet kreditor med tilføjelsen ”eller ordre”, jf. GBL § 11, stk. 2, nr. 2. 
 
-- Pantebreve er omsætningsgældsbreve, når det tillige giver pant i registreret skib eller luftfartøj, med mindre der i gældsbrevet er indføjet ordene ”ikke til ordre” eller tilsvarende forbehold, jf. GBL § 11, stk. 2, nr. 3. 
+- Pantebreve er omsætningsgældsbreve, når det tillige giver **pant i registreret skib eller luftfartøj**, med mindre der i gældsbrevet er indføjet ordene ”ikke til ordre” eller tilsvarende forbehold, jf. GBL § 11, stk. 2, nr. 3. 
 
-- Navnegældsbreve, når det utvetydigt angives, at gældsbrevet er et omsætningsgældsbrev, jf. GBL § 11, stk. 2, nr. 4. 
+- **Navnegældsbreve**, når det utvetydigt angives, at gældsbrevet er et omsætningsgældsbrev, jf. GBL § 11, stk. 2, nr. 4. 
 
 - Reglerne finder dog ikke anvendelse på tinglyste digitale gældsbreve/pantebreve, jf. GBL § 11, stk. 3. Se i stedet løsningsmodel om pant og udlæg, jf. TL § 27a.
 
@@ -2829,7 +2829,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 **3.2. Hvis overdrager eller pantsætter erklæres konkurs – omstødelse**
 
-- Fristdagen findes og er første anmeldelse til Skifteretten, jf. KL (konkursloven) § 1. 
+- **Fristdagen** findes og er første anmeldelse til Skifteretten, jf. KL (konkursloven) § 1. 
 
 ---
 
