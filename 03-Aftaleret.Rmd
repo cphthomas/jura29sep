@@ -714,9 +714,9 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ---
 
-## Eksamensopgave 1. Aftaleret
+## Eksamensopgave 1. Bord og stol A/S
 
-Bord og stol A/S
+
 
 ![](img/hotel.jpg)
 
@@ -773,9 +773,7 @@ Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at d
 
 ---
 
-## Eksamensopgave 2 Aftaleret
-
-**Hundekiks og tudekiks**
+## Eksamensopgave 2 Hundekiks og tudekiks
 
 I Køge driver Lars Ravn hundekennelen Vax Pedigree, som han i 2010 har købt sammen med den tilhørende ejendom. 
 
