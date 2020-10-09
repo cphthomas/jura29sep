@@ -7,22 +7,20 @@ cat(readLines('np.html'))
 
 ---
 
-***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer (krav) og deres ophør i forhold til eksamen, samt senere når du skal arbejde i den finansielle sektor:***
+*Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af fordringer (krav) og deres ophør i forhold til eksamen, samt senere når du skal arbejde i den finansielle sektor:*
 
 
-***Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)***
+*Sondring mellem almindelige fordringer, simple gældsbreve og omsætningsgældsbreve – analog anvendelse af reglerne for simple gældsbreve jf. GBL § 26 på alm. fordringer (ved afprøvningen bør der være fokus på simple fordringer/gældsbreve og tinglyste negotiable dokumenter)*
 
----
+*Sikringsakt* 
 
-**Sikringsakt** 
+*Fordringers ophør:* 
 
-**Fordringers ophør:** 
+- *Forældelse Se forældelseslovens regler*  
 
-- **Forældelse Se forældelseslovens regler**  
+- *Modregning – almindelige betingelser + GBL § 27 og 28*
 
-- **Modregning – almindelige betingelser + GBL § 27 og 28**
-
-- **Betaling med frigørende virkning, GBL § 29 og 30** 
+- *Betaling med frigørende virkning, GBL § 29 og 30* 
 
 
 ---
@@ -30,7 +28,7 @@ cat(readLines('np.html'))
 ## Modregningsadgang
 
 
-**Modregning** er en måde at opfylde/afslutte krav på. 
+*Modregning* er en måde at opfylde/afslutte krav på. 
 
 Modregning bringer krav til ophør i det omfang, kravene dækker hinanden. 
 
@@ -70,7 +68,7 @@ edges <- data.frame(from = c(1,2), to = c(2,1),
 
 ---
 
-Se det gældende hovedprincip om modregningsadgang fra romerretten: **"inter easdem personas"*;	modregning kan som udgangspunkt kun ske når hovedkrav og modkrav er mellem de samme personer.
+Se det gældende hovedprincip om modregningsadgang fra romerretten: "inter easdem personas";	modregning kan som udgangspunkt kun ske når hovedkrav og modkrav er mellem de samme personer.
 
 ---
 
@@ -102,10 +100,10 @@ Modregning sker ved, at den ene part afgiver en erklæring (modregningserklærin
 
 ---
 
-**I modregning gælder der et særligt sprogbrug af juridiske begreber:** 
+I modregning gælder der et særligt sprogbrug af juridiske begreber: 
 
 
-* *Modregneren: Den der ønsker at modregne og derfor afgiver en modregningserklæring.
+* Modregneren: Den der ønsker at modregne og derfor afgiver en modregningserklæring.
 
 * Hovedmanden: Modtageren af modregningserklæringen.
 
@@ -119,15 +117,15 @@ Modregning sker ved, at den ene part afgiver en erklæring (modregningserklærin
 
 Fx, at forbrugeren skylder afdrag (hovedkravet) i forbindelse med køb af en bil, og at der er konstateret mangler ved bilen, som køberen vil modregne (modkravet) i de afdrag, der skyldes på bilen overfor sælgeren.
 
-**Der er udvidet adgang til modregning med konnekse modfordringer**. 
+Der er udvidet adgang til modregning med konnekse modfordringer. 
 
 ---
 
-Se nedenfor de 4 betingelser for, at der kan foretages **"tvungen ikke-konneks modregningsafgang"**, dvs. at hovedkrav og modkrav ikke udspringer af det samme retsforhold fx. kreditkøb af en bil samt mangler ved købet af en anden bil.
+Se nedenfor de 4 betingelser for, at der kan foretages "tvungen ikke-konneks modregningsafgang", dvs. at hovedkrav og modkrav ikke udspringer af det samme retsforhold fx. kreditkøb af en bil samt mangler ved købet af en anden bil.
 
 ---
 
-**Ved tvungen ikke-konneks modregning kan modregning ske, uden at der foreligger en aftale om modregning mellem parterne.**
+Ved tvungen ikke-konneks modregning kan modregning ske, uden at der foreligger en aftale om modregning mellem parterne.
 
 Tvungen ikke-konneks modregning iværksættes ved, at modregneren afgiver en modregningserklæring. 
 
@@ -147,7 +145,7 @@ For at tvungen ikke-konneks modregning må finde sted, er der en række betingel
 
 Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne ikke-konnekse modregning iværksættes.
 
-**Betingelserne er følgende:**
+Betingelserne er følgende:
 
 * 1. Kravene er udjævnelige.
 
@@ -159,13 +157,13 @@ Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne i
 
 ---
 
-* Ad. 1. **Kravene til udjævnelighed**
+* Ad. 1. Kravene til udjævnelighed
 
 Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. 
 
 Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordringen er pengefordringer.
 
-Dvs. krav om **"komputabel"**;	Sammenregnelig. 
+Dvs. krav om "komputabel";	Sammenregnelig. 
 
 Det er en betingelse for modregning, at hovedfordring og modfordring er komputable, fx. 2 krav på penge. 
 
@@ -177,7 +175,7 @@ Blot kravene er delelige, må der modregnes over for en hovedfordring, der er st
 
 ---
 
-* Ad. 2. **Kravene er afviklingsmodne**
+* Ad. 2. Kravene er afviklingsmodne
 
 At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. 
 
@@ -191,7 +189,7 @@ Med "forfaldstidspunkt" menes sidste rettidige betalingsdag, da betaling som udg
 
 ---
 
-* Ad. 3. **Kravene er gensidige**
+* Ad. 3. Kravene er gensidige
 
 Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) har krav på hinanden, således at debitor efter den ene fordring er kreditor efter den anden fordring.
 
@@ -199,7 +197,7 @@ Modregning må kun ske, hvor to personer (fysiske og/eller juridiske personer) h
 
 * Ad. 4. Modkravet er retskraftigt
 
-At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved **forældelse"** eller **præklusion:** 
+At modkravet skal være retskraftigt betyder, at modfordringen ikke må være bortfaldet, fx ved "forældelse" eller "præklusion: 
 
 En ret kan ophøre ved præklusion, hvis retten ikke gøres gældende rettidigt fx en kreditors krav, når der indrykkes et proklama i et dødsbo.
 
@@ -210,7 +208,7 @@ Hvis modfordringen er bortfaldet, er modregning udelukket.
 ## Ophør ved forældelse
 
 
-**Der bliver behandlet følgende vigtige emner vedrørende forældelse:**
+Der bliver behandlet følgende vigtige emner vedrørende forældelse:
 
 
 * Hvorfor forældelsesregler. 
@@ -242,9 +240,9 @@ Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 af 9. november 2015 om foræl
 
 ---
 
-**Forældelsesloven omfatter:**
+Forældelsesloven omfatter:
 
-**Fordringer på penge eller andre ydelser, fx:**
+Fordringer på penge eller andre ydelser, fx:
 
 + Krav på løn.
 
@@ -253,7 +251,7 @@ Forældelsesloven (FL; Lovbekendtgørelse nr. 1238 af 9. november 2015 om foræl
 + Krav efter en faktura.
 
 
-**Forældelsesloven omfatter ikke:**
+Forældelsesloven omfatter ikke:
 
 + Tinglyste pantebreve.
 
@@ -388,7 +386,7 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
 
 ---
 
-**HR: Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:**
+*HR:* Alle krav forældes efter 3 år, jf. FL § 3, stk. 1, fx:
 
 + Krav på renter og rykkergebyrer.
 
@@ -399,7 +397,7 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
 ---
 
    
-**U: Nogle krav forældes efter 10 år, fx:**
+U: Nogle krav forældes efter 10 år, fx:
 
 + Underskrevet gældsbrev.
 
@@ -447,7 +445,7 @@ Konsekvensen af afbrydelsen er, at fristen ikke løber længere.
 
 ---
 
-**Suspenderet forældelsesfrist:** 
+*Suspenderet forældelsesfrist:* 
 
 Betyder at fristen løber først fra et senere tidspunkt.
 
@@ -523,7 +521,7 @@ Deponering betyder, at debitor betaler til en konto i en bank med frigørende vi
 
 ---
 
-**Deponering kan ske, når:**
+Deponering kan ske, når:
 
 + Debitor ikke kan betale på grund af kreditors forhold, fx hvis kreditor er væk.
    
@@ -537,16 +535,16 @@ Deponering betyder, at debitor betaler til en konto i en bank med frigørende vi
 
 Lidt begreber:
 
-**"Deponering":**	En betaling, som er betinget af, at visse krav bliver opfyldt.
+"Deponering":	En betaling, som er betinget af, at visse krav bliver opfyldt.
 
-**"Depositar":** Den person, der påtager sig at opbevare en værdi (ting såvel som penge) for en anden. Depositaren forpligter sig samtidig til at tilbagelevere den samme ting.
+"Depositar": Den person, der påtager sig at opbevare en værdi (ting såvel som penge) for en anden. Depositaren forpligter sig samtidig til at tilbagelevere den samme ting.
 
 
 
 
 ---
 
-## Quiz
+## Quiz Ophør af fordringer
 
 
 
