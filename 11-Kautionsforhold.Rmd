@@ -5,7 +5,6 @@ cat(readLines('np.html'))
 ```
 
 
-<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 
 
@@ -13,20 +12,20 @@ cat(readLines('np.html'))
 
 ---
 
-*Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter. Kaution er kendetegnet ved, at en person eller virksomhed, går ind og garanterer at betale en anden persons gæld, hvis personen ikke er i stand til det. I nogle tilfælde kan banker eller andre kreditorer kræve, at man som låntager skal få en anden person til at kautionerer for ens lån. Det vil sige at personen, der også hedder en kautionist, garanterer at betale låntagers lån, hvis låntager ikke selv kan betale, når kravet - fx lånet - forfalder til betaling. Kreditor vil undersøge kautionisten i forhold til, hvorvidt han eller hun er økonomisk stærkt stillet i forhold til at kautionere for lånet. Hvis kreditor accepterer kautionisten, betyder det, at der er flere, der hæfter for lånet, hvilket giver en større sikkerhed for tilbagebetaling for kreditoren. Kaution giver på den måde kreditor større sikkerhed og låntager mulighed for indgå i kontrakter såsom låneaftaler, som låntager måske ellers ikke kunne uden en kaution. Hvis låntager betaler sine forpligtelser - såsom renter og afdrag - vil låntager ikke misligholde sine forpligtelser. Hvis låntager ikke misligholder sine forpligtelser, vil der ikke kunne gøres noget krav gældende mod en kautionist. Det vil sige, at kautionisten ikke vil berøres af at kautionere.*
+***Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter. Kaution er kendetegnet ved, at en person eller virksomhed, går ind og garanterer at betale en anden persons gæld, hvis personen ikke er i stand til det. I nogle tilfælde kan banker eller andre kreditorer kræve, at man som låntager skal få en anden person til at kautionerer for ens lån. Det vil sige at personen, der også hedder en kautionist, garanterer at betale låntagers lån, hvis låntager ikke selv kan betale, når kravet - fx lånet - forfalder til betaling. Kreditor vil undersøge kautionisten i forhold til, hvorvidt han eller hun er økonomisk stærkt stillet i forhold til at kautionere for lånet. Hvis kreditor accepterer kautionisten, betyder det, at der er flere, der hæfter for lånet, hvilket giver en større sikkerhed for tilbagebetaling for kreditoren. Kaution giver på den måde kreditor større sikkerhed og låntager mulighed for indgå i kontrakter såsom låneaftaler, som låntager måske ellers ikke kunne uden en kaution. Hvis låntager betaler sine forpligtelser - såsom renter og afdrag - vil låntager ikke misligholde sine forpligtelser. Hvis låntager ikke misligholder sine forpligtelser, vil der ikke kunne gøres noget krav gældende mod en kautionist. Det vil sige, at kautionisten ikke vil berøres af at kautionere.***
 
 
 ---
 
-*Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:*
+***Som studerende skal du være særlig opmærksom på følgende problemstillinger ved gennemgangen af sikkerhedsstillelse for gæld i forhold til eksamen:***
 
-*Kautionsformer især sondringen mellem simpel og selvskyldnerkaution*
+**Kautionsformer især sondringen mellem simpel og selvskyldnerkaution**
 
-*Sondring mellem privat- og erhvervskaution*
+**Sondring mellem privat- og erhvervskaution**
 
-*Oplysning til kautionisterne i lov om finansiel virksomhed (FIL) § 47 og 48 i forbindelse med hoveddebitors misligholdelse af betaling*
+**Oplysning til kautionisterne i lov om finansiel virksomhed (FIL) § 47 og 48 i forbindelse med hoveddebitors misligholdelse af betaling**
   
-*Kautionisternes hæftelse og indbyrdes regres*
+**Kautionisternes hæftelse og indbyrdes regres**
 
 ---
 
@@ -35,15 +34,15 @@ cat(readLines('np.html'))
 <img src="img/kaution1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-"Kaution", betyder overtagelse af en økonomisk risiko, som bæres af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor hæfter for opfyldelsen af debitors betalingspligt.   
+**Kaution**, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor hæfter for opfyldelsen af debitors betalingspligt.   
 
 Ordet "kaution" kommer af latin cautio 'forsigtighed, sikkerhed', af cavere 'passe på, sikre'.
 
 ---
 
-Kaution er således en sikkerhedsstillelse for en andens gældsforhold.
+**Kaution er således en sikkerhedsstillelse for en andens gældsforhold**.
 
-Begrebet "hovedmanden"	anvendes ved kaution om den person, der er kautioneret for, dvs. debitor.
+Begrebet **hovedmanden**	anvendes ved kaution om den person, der er kautioneret for, dvs. debitor.
 
 ---
 
@@ -57,7 +56,7 @@ Der er tre parter i kautionsforhold (Se figuren nedenfor):
   
 ---
 
-Parter i kautionsforhold:
+**Parter i kautionsforhold:**
 
 ```{r, echo=FALSE, result=TRUE,fig.height=3,fig.cap=("Forholdet mellem debitor, kreditor og kautionist")}
 nodes <- data.frame(id = 1:3,
@@ -91,7 +90,7 @@ Kautionsaftalen indgås mellem kautionisten og kreditor.
 
 ---
 
-Kautionisten har typisk en relation til låntager i forvejen:
+**Kautionisten har typisk en relation til låntager i forvejen:**
 
 +	Forældre &lrarr;	børn.
 
@@ -235,21 +234,21 @@ Find 3 nævnsafgørelser i det Det Finansielle Ankenævn (Tidligere Pengeinstitu
 
 ## Privat kaution eller erhvervskaution
 
-"Privatkaution" stilles typisk af en fysisk person overfor en person eller en virksomhed.
+**Privatkaution** stilles typisk af en fysisk person overfor en person eller en virksomhed.
 
 Der vil ofte være en nær relation mellem debitor og kautionist.
 
-"Erhvervskaution" stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
+**Erhvervskaution** stilles både af fysiske og juridiske personer, men typisk er debitor en virksomhed.
 
 ---
 
-Begrebet "debitorskifte" betyder indtræden af en ny skyldner i et gældsforhold. 
+Begrebet **debitorskifte** betyder indtræden af en ny skyldner i et gældsforhold. 
 
 Kan kun ske med fordringshaverens samtykke, som dog kan være meddelt på forhånd.
 
 ---
 
-I vurderingen om der er tale om en erhvervskaution eller privat kaution indgår følgende parametre (Se figuren nedenfor):
+**I vurderingen om der er tale om en erhvervskaution eller privat kaution indgår følgende parametre (Se figuren nedenfor):**
 
 + Ejerandel i virksomhed, der kautioneres for.
 
@@ -307,11 +306,11 @@ mydf %>%
 
 ---
 
-### Erhvervskaution over for et pengeinstitut
+## Erhvervskaution over for et pengeinstitut
 
 <img src="img/kaution15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Med hensyn til erhvervskaution over for et pengeinstitut, følger det af FIL § 47: 
+**Med hensyn til erhvervskaution over for et pengeinstitut, følger det af FIL § 47:** 
 
 ”Er der inden for erhvervsforhold stillet kaution for lån ydet af et pengeinstitut, og udebliver låntager med betaling af hovedstol, afdrag eller renter, skal der senest 6 måneder efter de pågældende ydelsers forfaldsdag skriftligt gives meddelelse til enhver af kautionisterne eller til den eller dem af disse, der er bemyndiget til at modtage meddelelsen på samtlige kautionisters vegne". 
 
@@ -324,7 +323,7 @@ Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
 
 ---
 
-Se følgende domme:
+**Se følgende domme:**
 
 **U 1992.442 Ø**, hvor der kunne ikke ses bort fra, at kautionisten ved underretning kunne have gennemført sit regreskrav helt eller delvis mod hovedskyldneren. Finansieringsselskabet var afskåret fra nu at gøre kautionsforpligtelsen gældende.
 **<a href="https://pro.karnovgroup.dk/document/7000200021/1" target="_blank">Dommen klik her!</a>**
@@ -341,12 +340,12 @@ Se følgende domme:
 
 ---
 
-### Privatkaution i et pengeinstitut
+## Privatkaution i et pengeinstitut
 
 <img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
-Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut:
+**Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut:**
 
 "§ 48
 Inden der indgås aftale om en kautionsforpligtelse uden for erhvervsforhold for lån eller kreditter ydet af et pengeinstitut, skal pengeinstituttet sikre sig, at kautionisten er tilstrækkeligt informeret om indholdet af aftalen og konsekvenserne af at påtage sig en kautionsforpligtelse. Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpligtelse indebærer, og indeholde en afbalanceret beskrivelse af de risici, der er forbundet hermed. Endvidere skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere
@@ -605,7 +604,7 @@ I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt 
 
 ---
 
-## Oplysningspligt
+**Oplysningspligt ved privat kaution**
 
 <img src="img/kaution7.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
@@ -635,25 +634,25 @@ Hvis oplysningspligten ikke er overholdt kan kautionen - eventuelt tilsidesætte
 
 ## Kautionens indhold
 
-Hvornår kautionen kan gøres gældende afhænger af kautionstypen:
+**Hvornår kautionen kan gøres gældende afhænger af kautionstypen:**
 
 
-"Simpel kaution" – når det er dokumenteret, at debitor ikke kan betale lånet.
+**Simpel kaution** – når det er dokumenteret, at debitor ikke kan betale lånet.
   
-"Selvskyldnerkaution" – når debitor har misligholdt lånet.
+**Selvskyldnerkaution** – når debitor har misligholdt lånet.
   
-"Tabskaution" – efter udtømmende retsforfølgning.
+**Tabskaution** – efter udtømmende retsforfølgning.
 
 ---
   
-Hvilket beløb kautionen kan gøres gældende for afhænger af kautionstypen:
+**Hvilket beløb kautionen kan gøres gældende for afhænger af kautionstypen:**
 
   
-"Alskyld" – for hele lånet.
+**Alskyld** – for hele lånet.
   
-"Begrænset kaution" – for et maksimalt beløb.
+**Begrænset kaution** – for et maksimalt beløb.
   
-"Delkaution" – for en bestemt del af lånet.
+**Delkaution** – for en bestemt del af lånet.
 
 (Se figuren nedenfor).
  
@@ -704,17 +703,17 @@ Hvis en person eller bank skal yde et lån, er det ofte en forudsætning, at lå
 
 Helt grundlæggende findes der to former for sikkerhed. 
 
-Pantesikkerhed betyder, at låntager eller en tredjemand stiller sikkerhed ved at give långiver pant i en genstand af værdi (f.eks. fast ejendom), der kan tvangssælges via fogedretten, hvis låntager ikke tilbagebetaler lånet som aftalt.
+**Pantesikkerhed** betyder, at låntager eller en tredjemand stiller sikkerhed ved at give långiver pant i en genstand af værdi (f.eks. fast ejendom), der kan tvangssælges via fogedretten, hvis låntager ikke tilbagebetaler lånet som aftalt.
 
 ---
 
-Kaution betyder, at låntager stiller sikkerhed for lånets tilbagebetaling ved at anvise én eller flere kautionister, der hæfter for gældens betaling sammen med låntager.
+**Kaution** betyder, at låntager stiller sikkerhed for lånets tilbagebetaling ved at anvise én eller flere kautionister, der hæfter for gældens betaling sammen med låntager.
 
 Der findes forskellige former for hæftelse og kautioner, som vil blive beskrevet i det følgende.
 
 ---
 
-### Pro rata hæftelse
+## Pro rata hæftelse
 
 ```{r network11, fig.height=4, echo=FALSE, result=TRUE,fig.cap=("Pro rata hæftelse.")}
 nodes <- data.frame(id = 1:5, 
@@ -748,7 +747,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 ---
 
 
-"Pro rata hæftelse" indebærer, at hver person alene hæfter for en bestemt andel af den samlede gæld.
+**Pro rata hæftelse** indebærer, at hver person alene hæfter for en bestemt andel af den samlede gæld.
 
 Det kan eksempelvis være aftalt, at to kautionister hver især alene hæfter for 50.000 kr. af en samlet gæld på 100.000 kr.
 
@@ -763,9 +762,9 @@ Det kan dog være aftalt, at kautionisterne har regres over for hinanden, selv o
 
 ---
 
-### Solidarisk hæftelse
+## Solidarisk hæftelse
 
-"Solidarisk hæftelse" betyder, at kautionisterne hæfter for hele eller en del af gælden i fællesskab ud fra devisen "én for alle, alle for én".
+**Solidarisk hæftelse** betyder, at kautionisterne hæfter for hele eller en del af gælden i fællesskab ud fra devisen **én for alle, alle for én**.
 
 Der vil være solidarisk hæftelse mellem to kautionister, hvis ikke andet er aftalt eller følger af lovgivningen.
 
@@ -773,17 +772,17 @@ Der findes to former for solidarisk hæftelse - fuldstændig solidarisk hæftels
 
 ---
 
-### Fuldstændig solidarisk hæftelse
+## Fuldstændig solidarisk hæftelse
 
-Ved fuldstændig solidarisk hæftelse hæfter kautionisterne for hele gælden i fællesskab.
+Ved **fuldstændig solidarisk hæftelse** hæfter kautionisterne for hele gælden i fællesskab.
 
 Långiver kan kræve hele gælden betalt af enhver af kautionisterne, men långiver kan naturligvis ikke samlet kræve mere end det samlede skyldige beløb.
 
 ---
 
-Delvis solidarisk hæftelse:
+**Delvis solidarisk hæftelse:**
 
-Ved "delvis solidarisk hæftelse" hæfter flere kautionister alene for en del af den samlede gæld.
+Ved **delvis solidarisk hæftelse** hæfter flere kautionister alene for en del af den samlede gæld.
 
 Eksempelvis kan det være aftalt, at to kautionister hæfter for 50.000 kr. af en samlet gæld på 100.000 kr.
 
@@ -797,10 +796,10 @@ Dette er ikke tilfældet ved pro rata hæftelse, hvor hver enkelt kautionist hæ
 
 ---
 
-## Simpel kaution eller en selvskyldnerkaution
+## Selvskyldnerkaution eller en simpel kaution  
 
 
-"Selvskyldnerkaution" er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. 
+**Selvskyldnerkaution** er den strengeste form for kaution set fra kautionistens synspunkt og anvendes af pengeinstitutterne. 
 
 Selvskyldnerkaution indebærer, at kautionisten hæfter allerede fra den dag, hvor låntageren misligholder sin betalingsforpligtelse.
 
@@ -810,7 +809,7 @@ Hvis kravet ikke er betalt, kan långiver allerede fra forfaldsdagen kræve beta
 
 ---
 
-Ved "simpel kaution" skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
+Ved **simpel kaution** skal långiver derimod dokumentere, at låntager ikke kan betale gælden, før der kan kræves betaling fra kautionisterne.
 
 Simpel kaution finder anvendelse, medmindre andet er aftalt fx en selvskyldnerkaution eller følger af lov.
 
@@ -863,9 +862,9 @@ De samme beskyttelsesregler gælder, hvis en privatperson stiller pantesikkerhed
 
 Er der flere kautionister kan det være (Se figuren nedenfor):
 
-Samkaution – afhængigt af hinanden.
+**Samkaution** – afhængigt af hinanden.
 
-Medkaution – uafhængigt af hinanden.
+**Medkaution** – uafhængigt af hinanden.
   
 Flere kautionister hæfter solidarisk, hvis ikke andet er aftalt.
 
@@ -873,7 +872,7 @@ Hvis det er aftalt kan kautionisterne hæfte pro rata (Se figuren nedenfor).
 
 ---
   
-"Samkautionister" har efter betaling af gælden regresret mod de andre kautionister.
+**Samkautionister** har efter betaling af gælden regresret mod de andre kautionister.
  
  
 ```{r , echo=FALSE, fig.height=4,result=TRUE,fig.cap=("Flere kautionister kan kautionere, enten som sam- eller medkautionister.")}
@@ -942,19 +941,19 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ## Kautionens ophør
 
-Kautionen ophører, når gælden bliver betalt eller eftergivet.
+**Kautionen ophører, når gælden bliver betalt eller eftergivet.**
 
 Privat kaution bortfalder efter 5 år eller 10 år, hvis kautionen ikke forlænges.
 
 ---
 
-Kautionen kan bortfalde ved kreditors henstand.
+**Kautionen kan bortfalde ved kreditors henstand.**
 
 Privat kaution – kreditor skal give kautionisten besked inden for 3 måneder.
 
 Erhvervskaution – kreditor skal give kautionisten besked inden for 6 måneder.
   
-Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
+**Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.**
 
 ---
 
@@ -963,17 +962,17 @@ Kautionen forældes sammen med hovedfordring, hvis ikke andet er aftalt.
 
 Når kautionisten har betalt kreditor det skyldige beløb, har kautionisten regresret overfor debitor:
 
-*HR:* Kautionisten indtræder i kreditors rettigheder også i fx en panteret
+**HR:** Kautionisten indtræder i kreditors rettigheder også i fx en panteret
 
-*U1*: Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
+**U1:** Kautionisten var klar over, at fordringen var ugyldig på grund af låntagers umyndighed
   
-*U2*: Fordringen er eftergivet helt eller delvist ved tvangsakkord
+**U2:** Fordringen er eftergivet helt eller delvist ved tvangsakkord
 
 ---
 
 ## Regresret
 
-Kautionistens regresret
+**Kautionistens regresret**
 
 ```{r ,echo=FALSE, result=TRUE, fig.height=4,fig.cap=("Kautionistens regresret over for låntager")}
 
@@ -1006,9 +1005,9 @@ Låntager er nemlig forpligtet til at betale gælden til de kautionister, der ha
 
 ---
 
-Kautionisterne har såkaldt "regres over for låntager".
+Kautionisterne har såkaldt **"regres over for låntager"**.
 
-Ordet "regres" kommer af det latinske regressus 'tilbagegang', af regredi, af re- og gradi 'gå, træde'.
+Ordet **"regres"** kommer af det latinske regressus 'tilbagegang', af regredi, af re- og gradi 'gå, træde'.
 
 Det er ikke kun fra låntager en kautionist kan kræve betaling. 
 
@@ -1036,7 +1035,7 @@ På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk
 
 ---
 
-Eksempel:
+**Eksempel:**
 
 "Min mand har kautioneret for sin datter. Overtager jeg denne forpligtelse ved min mands død ?
 Med venlig hilsen X"
@@ -1063,12 +1062,11 @@ Advokat Sonny Kristoffersen"
 
 ---
 
-## Eksamensopgave 1 Kautionsforhold
+## Eksamensopgave 1
 
 **Prinsessefødselsdagen**
 
-Eksamensopgave om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.
-
+Eksamensopgave for finansøkonomer om forbrugeraftaler, erstatningsret, kreditorforfølgning, konkurs, selskabsformer og kaution mv.
 
 
 
@@ -1086,7 +1084,7 @@ Den 19. oktober åbner Peter pakken for at sende invitationerne ud.
 
 Desværre er der ikke prinsesseudstyr i pakken, men i stedet udstyr til en fødselsdag med monstertema. 
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
 Hvilke muligheder har Peter for at fortryde sit køb eller gøre misligholdelsesbeføjelser gældenden imod Temafesten? (20%)
 
@@ -1098,7 +1096,7 @@ Da dagen nærmer sig, har han sendt monsterpakken retur til TEMAFESTEN, og han h
 
 Han går i stedet i en hobbyforretning og køber papir, glimmer, palletter, lim mv. og laver selv udstyr til en super flot prinsessefødselsdag – fødselsdagen bliver et kæmpe hit – men materialerne koster 2.300 kr. 
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
 2. Kan Peter få refunderet hele eller dele af udgifterne til materialerne til prinsessefesten af TEMAFESTEN? (5%)
 
@@ -1119,7 +1117,7 @@ Herefter har han kontakt til TEMAFESTEN omtrent hver 3. dag – de bliver ved me
 Herefter kontakter Peter en advokat for at få rådgivning om hvordan beløbet kan inddrives og hvordan forløbet i en sådan inddrivelse forventes at være.
 
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
 3. Hvilken rådgivning skal advokaten give ham? (10%)
 
@@ -1129,17 +1127,22 @@ Peter beslutter sig for, at advokaten skal forsøge at inddrive pengene for ham.
 
 Advokaten kan oplyse, at det fremgår af konkursboets cirkulærebreve, at der næsten ingen aktiver er i konkursboet - blot et mindre varelager, som endnu ikke er værdisat.
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
 4. Hvilken stilling har Peters tilgodehavende i TEMAFESTENs konkursbo og hvad betyder det for Peters mulighed for at få sit tilgodehavende tilbage? (15%)
 
+**Eksamensspørgsmålet:**
+
+5. Har kuratoren ret? (15%) 
+
+
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40417773" data-resource="episode_id=40417773" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast til eksamensopgave 11.1. Prinsessefødselsdagen" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
-## Eksamensopgave 2 Kautionsforhold
+## Eksamensopgave 2
 
 **Jens Peters landejendom**
 
@@ -1162,17 +1165,25 @@ Lisbeths aktiver består dels af et aktiedepot i Bank Nord med aktier i en rækk
 
 Ejendomsværdien udgør kr. 760.000. Bank Nords rådgiver overvejer derfor, om han ikke kan få Lisbeth til at stille sikkerhed for forhøjelsen – og måske evt. for hele Jens Peters driftskredit, der så vil udgøre i alt kr. 800.000.
 
+**Eksamensspørgsmålet:**
+
 1.	Hvilke overvejelser bør Bank Nords rådgiver gøre sig i forbindelse med sikkerhed i form af en kaution fra Lisbeth? 
 
 ---
+
+**Eksamensspørgsmålet:**
 
 2.	Kan der i stedet for kaution stilles sikkerhed for Jens Peters gæld i Lisbeths aktiedepot og i hendes sommerhus og i bekræftende fald hvordan?
 
 ---
 
+**Eksamensspørgsmålet:**
+
 3.	Hvorledes hæfter Lisbeth for gælden ved etablering af sikkerhederne nævnt i henholdsvis spørgsmål 1. og 2.?
 
 ---
+
+**Eksamensspørgsmålet:**
 
 4.	Forklar hvilken sikkerhed hos Lisbeth du ville vælge, hvis du var rådgiver hos Bank Nord?
 
@@ -1194,6 +1205,8 @@ Men da det ikke som forudsat lykkedes for Jens Peter at skaffe finansiering til 
 
 Smeden kræver anlægget udleveret i henhold til kreditkøbskontraktens ejendomsforbehold, da der stadig skyldes kr. 25.000, mens Bank Nord gør gældende at anlægget er omfattet af pantet i den faste ejendom. 
 
+**Eksamensspørgsmålet:**
+
 5. Hvem af kreditorerne har ret?
 
 ---
@@ -1203,9 +1216,13 @@ Læg til nu grund at Lisbeth i foråret 2014 kautionerede for forhøjelsen af dr
 
 Lisbeth protesterer dog mod kravet og nægter at betale, idet hun gør gældende, at aftalen er ugyldig, da hun alene skrev under på kautionsaftalen med banken, fordi rådgiveren på et møde i banken lagde et urimeligt hårdt pres på hende ved flere gange at true med, ”at de måtte gå fra hus og hjem”, hvis hun ikke skrev under.
 
+**Eksamensspørgsmålet:**
+
 6.	Kan Lisbeth efter din opfattelse få ret i sin påstand? 
 
 ---
+
+**Eksamensspørgsmålet:**
 
 
 7.	Hvis det i spørgsmål 6 lægges til grund, at banken har ret i deres krav, hvorledes vil de så kunne inddrive deres tilgodehavende hos Lisbeth, hvis hun fortsat nægter at betale?
@@ -1214,9 +1231,9 @@ Lisbeth protesterer dog mod kravet og nægter at betale, idet hun gør gældende
 
 Kurator i TEMAFESTENS konkursbo mener, at tilbagebetalingen af 1.015 kr. for monsterpakken kan omstødes, idet ingen kreditorer har fået nogen former for betaling i adskillige måneder op til konkursen blev en realitet.
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
-5. Har kuratoren ret? (15%) 
+8. Har kuratoren ret? (15%) 
 
 
 ---
@@ -1231,9 +1248,9 @@ Der bliver ikke udleveret nogen form for information fra pengeinstituttet omkrin
 
 Peter ønsker at løbe så lille en personlig økonomisk risiko som overhovedet muligt. 
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
-Spm. 6. Hvilke selskabsformer bør Peter overveje og hvad skal han vælge? (10%) 
+Hvilke selskabsformer bør Peter overveje og hvad skal han vælge? (10%) 
 
 --- 
 
@@ -1246,17 +1263,17 @@ SPAREBANKEN giver i første omgang Peter 5 måneders henstand med tilbagebetalin
 Herefter mister SPAREBANKEN tålmodigheden, og beder Peters ekskone om at indbetale de 250.000 kr. som hun har kautioneret for Peters lån.
 
 
-Eksamensspørgsmålet:
+**Eksamensspørgsmålet:**
 
-7. Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
-
----
-
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40419047" data-resource="episode_id=40419047" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 11.2. Jens Peters Landejendom" on Spreaker.</a>
+Gør rede for den juridiske situation vedrørende ekskonens kaution (25%)
 
 ---
 
-## Eksamensopgave 3 Kautionsforhold
+**Podcast om svaret på eksamensopgaven**
+
+---
+
+## Eksamensopgave 3
 
 **Travlhed i kreditafdelingen** 
 
@@ -1276,7 +1293,7 @@ Banken har en konservativ udlånspolitik og man låner alene penge ud mod utvivl
  
 Du sidder nu og gør dig visse overvejelser om mulighederne for sikkerhed ud fra Tages liste. 
  	 
-Spørgsmål: 
+**Eksamensspørgsmålet:** 
 
 1.	Hvorledes kan banken opnå sikkerhed i de under punkt 1. – 4. nævnte aktiver og hvordan er prioritetsstillingen i de enkelte aktiver? (30%) 
 
@@ -1294,7 +1311,7 @@ Benny har oplyst, at han på ingen måde har været bekendt med sekretærens æn
 
 Chefen mener, at banken ikke er bundet af låneaftalen og at lånet må tilbagebetales omgående. Men han vil dog gerne lige have en nærmere vurdering af sagen. 
  
-Spørgsmål: 
+**Eksamensspørgsmålet:** 
 
 4.	Giv chefen den ønskede vurdering af sagen og tag herunder stilling til, hvem af parterne der har ret. (30%) 
 
@@ -1302,14 +1319,14 @@ Spørgsmål:
 
 ---
 
-<a class="spreaker-player" href="https://www.spreaker.com/episode/40419048" data-resource="episode_id=40419048" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Listen to "Podcast eksamensopgave 11.3. Travlhed i kreditafdelingen" on Spreaker.</a>
+**Podcast om svaret på eksamensopgaven**
 
 ---
 
 ## Tredjemandspant
 
 
-Hvad menes der med tredjemandspant?
+**Hvad menes der med tredjemandspant?**
 
 Når låntager og pantsætter ikke er samme person
 
@@ -1358,7 +1375,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ## Garantistillelse
 
-Hvad er en garantistillelse?
+**Hvad er en garantistillelse?**
 
 Garantistillelse er en sikkerhedsstillelse for betaling på samme måde som kaution.
 
@@ -1368,11 +1385,11 @@ Parterne i garantistillelse er garantirekvirent, garant og beneficiant (Se figur
 
 ---
 
-To typer af garantier:
+**To typer af garantier:**
 
-"Anfordringsgaranti" – kommer til udbetaling på anfordring.
+**Anfordringsgaranti** – kommer til udbetaling på anfordring.
 
-"Betinget garanti" – kommer til udbetaling når den stillede betingelse er opfyldt.
+**Betinget garanti** – kommer til udbetaling når den stillede betingelse er opfyldt.
  
 
 
@@ -1408,7 +1425,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 -	Flere Kautionister hæfter solidarisk og kaldes samkautionister. 
 
--	nedenfor Pkt. 2-4 gennemgås for hver kautionist.
+-	Se nedenfor pkt. 2-4 gennemgås for hver kautionist.
 
 ---
 
@@ -1444,9 +1461,9 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 **4. Kautionsforpligtelsens indhold**
 
--	Ugyldighed – se løsningsmodel i kap. 4 (aftaler), pkt. 2.
+-	Ugyldighed – se eksamensløsningsmodellen i kap. 3 (aftaler).
 
--	Fortolkning af kautionsaftalen – se løsningsmodel i kap. 4 (aftaler), pkt. 3.
+-	Fortolkning af kautionsaftalen – se eksamensløsningsmodellen i kap. 3 (aftaler).
 
 -	Den kautionssikrede fordring dækker kun den fordring, den er stillet til sikkerhed for. 
 
@@ -1488,7 +1505,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 **6.2.1. Kautionistens dividenderet i skyldnernes konkursbo**
 
--	Bestemmelserne i KL § 47 - § 51 finder tilsvarende anvendelse på kaution – KL § 52.
+-	Bestemmelserne i KL § 47 - KL § 51 finder tilsvarende anvendelse på kaution – KL § 52.
 
 -	Hæfter flere skyldnere solidarisk, nedsættes kreditors ret til dividende af hele sin fordring i en skyldners bo, jf. KL § 47, stk.1, ikke ved: 
 
@@ -1502,14 +1519,14 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 -	Opnår fordringshaveren mere, end han har krav på, fordeles det overskydende mellem skyldneren eller deres boer efter, hvad der under hensyn til retsforholdet mellem dem skal påhvile hver især. I øvrigt haves intet krav mod boerne – jf. KL § 48.
 
--	Anmeldes i et bo en fordring og krav på regres fra en medskyldner for samme fordring, beregnes dividende fælles for begge fodringer. Den regresberettigede kan kun kræve den del af dividenden fælles for begge fordringer. Den regresberettigede kan kun kræve den del af dividenden, som bliver tilbage, efter at den fælles fordringshaver har fået det, som tilkommer ham. Har flere medskyldnere krav på regres, skal overskuddet, efter at fordringshaveren har fået fuld betaling, fordeles mellem dem efter princippet i § 48 - jf. KL § 49.
+-	Anmeldes i et bo en fordring og krav på regres fra en medskyldner for samme fordring, beregnes dividende fælles for begge fodringer. Den regresberettigede kan kun kræve den del af dividenden fælles for begge fordringer. Den regresberettigede kan kun kræve den del af dividenden, som bliver tilbage, efter at den fælles fordringshaver har fået det, som tilkommer ham. Har flere medskyldnere krav på regres, skal overskuddet, efter at fordringshaveren har fået fuld betaling, fordeles mellem dem efter princippet i KL § 48 - jf. KL § 49.
 
 ---
 
 
 **6.2.2. Omstødelse**
 
--	Er en kaution for skyldnerens gæld blevet frigivet som følge af en betaling eller retsforfølgning, der kan omstødes, har boet krav mod kautionisten, hvis denne ved frigivelsen kendte eller burde kende de omstændigheder, som begrunder krav som omstødelse - jf. KL § 80, stk. 2. 
+-	Er en kaution for skyldnerens gæld blevet frigivet som følge af en betaling eller retsforfølgning, der kan omstødes, har boet krav mod kautionisten, hvis denne ved frigivelsen kendte eller burde kende de omstændigheder, som begrunder krav som omstødelse, jf. KL § 80, stk. 2. 
 
 ---
 
@@ -1521,12 +1538,18 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 -	Pant stillet af tredjemand sidestilles med en kautionistforpligtelse med begrænset hæftelse.
 
--	Ved ens hæftelser fordeles den indbyrdes hæftelse ligeligt – GBL §2, stk. 1, j. §61.
--	Ved forskel i hæftelsen fordeles den indbyrdes hæftelse forholdsmæssigt efter det beløb, som maksimalt vil kunne gøres gældende mod de enkelte kautionister i forhold til kreditors krav på det tidspunkt, hvor kautionen gøres gældende 
+-	Ved ens hæftelser fordeles den indbyrdes hæftelse ligeligt – GBL §2, stk. 1, j. GBL § 61.
 
-7.2. Når en kautionist er opkrævet mere, end han endeligt skal bære
--	Kan den overskydende del opkræves hos de øvrige kautionister – GBL § 2,2, jf. §61.
--	Kan en simpel medkautionists andel først opkræves, når debitor er fastslået insolvent. 
+-	Ved forskel i hæftelsen fordeles den indbyrdes hæftelse forholdsmæssigt efter det beløb, som maksimalt vil kunne gøres gældende mod de enkelte kautionister i forhold til kreditors krav på det tidspunkt, hvor kautionen gøres gældende.
+
+---
+
+**7.2. Når en kautionist er opkrævet mere, end han endeligt skal bære**
+
+-	Kan den overskydende del opkræves hos de øvrige kautionister – GBL § 2,2, jf. GBL § 61.
+
+-	Kan en simpel medkautionists andel først opkræves, når debitor er fastslået insolvent.
+
 -	Kan en tabskautionists andel først opkræves, når tabet endeligt er fastlagt.
 
 ---
@@ -1540,7 +1563,7 @@ visNetwork(nodes, edges,  width = "100%",avoidOverlap=2) %>%
 
 ---
 
-## Quiz Kautionsforhold
+## Quiz
 
 <h3><a href="https://quiz.tepedu.dk/jura15" target="_blank">Quiz Kautionsforhold <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 
