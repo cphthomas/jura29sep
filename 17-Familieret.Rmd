@@ -4,7 +4,7 @@
 cat(readLines('np.html'))
 ```
 
-
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 ---
 
@@ -1046,9 +1046,7 @@ Hvis ægtefællerne opretter en ægtepagt i strid med tredjemands bestemmelser, 
 
 ---
 
-## Eksamensopgave 1
-
-**Bo og Jettes ægteskab**
+## Eksamensopgave 1 Bo og Jettes ægteskab
 
 
 Om bodeling med vejledende løsning
@@ -1078,7 +1076,11 @@ Lav en bodelingsopgørelse for Bo og Jette, hvis de skulle skilles nu og læg ti
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417770" data-resource="episode_id=40417770" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 17.1. Bo og Jettes ægteskab</a>
+
+
+
+
 
 ---
 
@@ -1137,9 +1139,7 @@ mydf %>%
 
 ---
 
-## Eksamensopgave 2
-
-**Anders og Pernille ægteskab**
+## Eksamensopgave 2 Anders og Pernille ægteskab
 
 Anders og Pernille blev gift i 2014, da de begge var 29 år gamle. Anders var uddannet finansøkonom og arbejdede i et leasingselskab. Pernille var tidligere butiksassistent, men havde senere valgt at arbejde som frisør hos hendes veninde Lotte, der havde startet sin egen frisørsalon. 
 
@@ -1231,7 +1231,8 @@ Pernille modtog efterfølgende en mail fra sin bank, hvori banken bad hende indb
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417766" data-resource="episode_id=40417766" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 17.2. Anders og Pernilles ægteskab</a>
+
 
 ---
 
@@ -2607,7 +2608,7 @@ Følgende aktiver og krav indgår ikke i ligedelingen af ægtefællernes delings
 
 ---
 
-## Quiz
+## Quiz Familieret
 
 <h3><a href="https://quiz.tepedu.dk/jura23" target="_blank">Quiz Familieret<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

@@ -5,6 +5,9 @@ cat(readLines('np.html'))
 ```
 
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
+
 ***Dette her kapitel om insolvensreglerne anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med at kunderne og klienter skylder penge til jeres virksomhed. Derfor er det vigtigt som finansøkonom at bl.a. kende reglerne om inkassoprocessen, tvangsinddrivelse via fogedretten, tvangsauktion, samt konkursbehandling, rekonstruktion og gældssanering.***
 
 ---
@@ -1325,9 +1328,7 @@ Mundtlige gaveløfter skal accepteres straks.
 
 ---
 
-## Eksamensopgave 1
-
-Om konkurs og virksomhedsformer mv.
+## Eksamensopgave 1 konkurs og virksomhedsformer mv.
 
 **Ejendomsmæglerens konkurs**
 
@@ -1445,7 +1446,7 @@ Uanset hvad du har svaret i opgave 6, skal du nu lægge til grund, at Bank Skt. 
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409437" data-resource="episode_id=40409437" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.1. Ejendomsmæglerens konkurs</a>
 
 ---
 
@@ -1695,12 +1696,9 @@ De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bes
 
 --- 
 
-## Eksamensopgave 2
+## Eksamensopgave 2 Grossistens bekymringer
 
 Om forbrugerret, pant, handel med fast ejendom, modregning og rekonstruktion mv.
-
-
-**Grossistens bekymringer**
 
 
 "Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. 
@@ -1793,12 +1791,12 @@ Problemerne skyldes en meget uheldig valutadisposition og rekonstruktøren mener
 
 ---
 
-**Podcast besvarelsen af eksamenssættet**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409443" data-resource="episode_id=40409443" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.2. Grossistens bekymringer</a>
 
 
 ---
 
-## Eksamensopgave 3 
+## Eksamensopgave 3 Tømrermester Bertil Jacobsen
 
 Opgave 1: (50%)
 Tømrermester Bertil Jacobsen havde i efteråret 2018 ombygget Tina Jensens hus for kr. 610.000. Beløbet skulle betales ved afslutningen af arbejdet, men Tina Jensen kunne på det tidspunkt ikke låne pengene, hverken i banken eller i realkreditinstituttet. Den 1.2.2019 underskrev Tina Jensen et frivilligt forlig, hvoraf det fremgik, at beløbet forfaldt ved påkrav. Bertil Jacobsen rykkede flere gange for betaling, uden at Tina Jensen reagerede.
@@ -1869,6 +1867,12 @@ Forestil dig at datoen er den 3. juli 2019, og at Tina heller ikke betalte ydels
 **Eksamensspørgsmålet**
 
 Er betingelserne for en tilbagetagelse af bilen gennem fogedretten nu opfyldt?
+
+---
+
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417763" data-resource="episode_id=40417763" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.3. Tømrermester Bertil Jaobsen og Tina Jensen</a>
+
 
 ---
 
@@ -2047,12 +2051,11 @@ Hvis man under sagen får behov for at få sin egen advokat (ikke at forveksle m
 
 ---
 
-## Eksamensopgave 4 
+## Eksamensopgave 4 Lottogevinsten
 
 Om kreditforfølgning, aftaler, fuldmagt og forbrugerkøb, mv.
 
 
-**LOTTOGEVINSTEN**
 
 19-årige Karl er en drømmer, og det er hans overbevisning, at han en dag nok skal vinde et stort beløb i Lotto – så han køber hver uge en lottokupon eller to, og en lørdag aften tjekker han ugens kupon og kan se, at han har så mange tal rigtige at han står til en gevinst på 1.245.324,00 kr.
 
@@ -2161,13 +2164,11 @@ Jens ejer også en motorcykel.
 
 ---
 
-**Podcast gennemgang af eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417764" data-resource="episode_id=40417764" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.4. Lottogevinsten</a>
 
 ---
 
-## Eksamensopgave 5
-
-**Janett Apollo**
+## Eksamensopgave 5 Janett Apollo
 
 Janett Apollo havde fornylig medvirket i realityserien Ultimativ Personlighedsdesign. 
 
@@ -2270,13 +2271,11 @@ Alle svar skal være begrundede og indeholde mulige relevante § henvisninger.
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417778" data-resource="episode_id=40417778" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.5. Jenett Apollo</a>
 
 ---
 
-## Eksamensopgave 6
-
-**Joachim**
+## Eksamensopgave 6 Joachim
 
 Efter at have bestået sin finansøkonomeksamen er Joachim blevet ansat som trainee hos ejendomsmæglerfirmaet Livsstilsejendomme ApS – firmaet der sælger livsstilsejendomme til og for ”de kræsne købere”. 
 
@@ -2353,13 +2352,12 @@ Hvilket formål sikrer reglerne om omstødelse i konkurs.
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417765" data-resource="episode_id=40417765" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.6. Joachim</a>
+
 
 ---
 
-## Eksamensopgave 7
-
-**Knudsen Properties v/Dennis Knudsen**
+## Eksamensopgave 7 Knudsen Properties v/Dennis Knudsen
 
 Indledning
 
@@ -2489,11 +2487,11 @@ d)	Krav på 175.000 kr. fra kurator Anders Andersen fra arbejdet med både betal
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417780" data-resource="episode_id=40417780" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 9.7. Knudsen Properties v. Dennis Knudsen</a>
 
 ---
 
-## Quiz
+## Quiz Insolvensret
 
 
 <h3><a href="https://quiz.tepedu.dk/jura13" target="_blank">Quiz Insolvensret <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>

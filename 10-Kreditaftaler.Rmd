@@ -4,7 +4,7 @@
 cat(readLines('np.html'))
 ```
 
----
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 ***Aftaler om kreditter anvendes i dagligdagen i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med jeres virksomheds indgåelse af kreditaftaler og kreditkøbsaftaler med kunder og klienter. Hvis du laver aftaler om kredit, skal du være opmærksom på de regler, der gælder for området. Kreditkøb er, når du aftaler med en køber, at vedkommende ikke behøver at betale kontant, men kan betale en del af eller hele prisen for den vare, han/hun har købt, på et senere tidspunkt.***
 
@@ -1500,9 +1500,7 @@ Sælger kan:
 
 ...
 
-## Eksamensopgave 1
-
-**Kunst og kærlighed**
+## Eksamensopgave 1 Kunst og kærlighed
 
 Lone Pind driver et mindre kunstgalleri i Nyborg. I begyndelsen af januar solgte hun et mindre men temmelig værdifuldt oliemaleri til en af galleriets tilbagevendende kunder, kunstsamleren Ole Høj. Som det var sket før, manglede han rede penge til købet, og de aftalte, at Lone fik sikkerhed for kreditten i form af et ejendomsforbehold.
 
@@ -1556,13 +1554,14 @@ Efter at have drøftet situationen med Christian bliver de dog enige om at behol
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417767" data-resource="episode_id=40417767" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 10.1. Kunst og kærlighed</a>
+
+
 
 ---
 
-## Eksamensopgave 2
-
-**Børge Olsen**
+## Eksamensopgave 2 Børge Olsen
 
 
 
@@ -1680,13 +1679,11 @@ Der var ikke stillet sikkerhed for nogen af de nævnte gældsposter.
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40419045" data-resource="episode_id=40419045" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast eksamensopgave 10.2 Børge Olsen</a>
 
 ---
 
-## Eksamensopgave 3
-
-**Bo Bjerrehus**
+## Eksamensopgave 3 Bo Bjerrehus
 
 Opgave 1 (25 %) 
 Bo Bjerrehus gjorde sig inden for antikviteter som var over 100 år gammel og størstedelen af hans virksomhed bestod i import fra udlandet. 
@@ -1824,7 +1821,7 @@ Ad. 6)	?
  
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40419046" data-resource="episode_id=40419046" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Eksamensopgave 10.3 Bo Bjerrehus</a>
 
 ---
 
@@ -1995,7 +1992,7 @@ Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når 
 
 ---
 
-## Quiz
+## Quiz Kreditaftaler 
 
 <h3><a href="https://quiz.tepedu.dk/jura14" target="_blank">Quiz Kreditaftaler <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

@@ -1552,7 +1552,7 @@ Flere oplysninger om muligheden for at indbringe en sag for domstolen kan fås h
 
 ---
 
-## Quiz
+## Quiz Retsstaten
 
 <h4><a href="https://quiz.tepedu.dk/jura1" target="_blank">Quiz Retsstaten <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 

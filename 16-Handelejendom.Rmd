@@ -4,7 +4,7 @@
 cat(readLines('np.html'))
 ```
 
-
+<script async src="https://widget.spreaker.com/widgets.js"></script>
 
 ---
 
@@ -1906,9 +1906,7 @@ Køberen kan klage over ejendomsmægleren til "Klagenævnet for ejendomsformidli
 
 ---
 
-## Eksamensopgave 1
-
-**Kalle og Silles bolighandler**
+## Eksamensopgave 1 Kalle og Silles bolighandler
 
 Om ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.
 
@@ -2003,7 +2001,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417775" data-resource="episode_id=40417775" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 16.1. Kalle og Silles bolighandler</a>
 
 ---
 
@@ -2115,9 +2113,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
 
 ---
 
-## Eksamensopgave 2
-
-**”Jeg fik jobbet, mor!!”**
+## Eksamensopgave 2 Jeg fik jobbet, mor!!
 
 Om handel med fast ejendom
 
@@ -2197,13 +2193,12 @@ Efterfølgende viste det sig desværre at Lars ikke kunne betale på sine lån, 
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417779" data-resource="episode_id=40417779" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 16.2.  Jeg fik jobbet mor</a>
+
 
 ---
 
-## Eksamensopgave 3
-
-**Ejendomsmæglerne Anna og Oline**
+## Eksamensopgave 3 Ejendomsmæglerne Anna og Oline
 
 Opgave 1 (20 %)  
  
@@ -2286,7 +2281,8 @@ Når der er afgivet et købstilbud på en villa, hvor længe kan køber da nå a
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40417771" data-resource="episode_id=40417771" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 16.3.  Ejendomsmæglerne Anna og Oline</a>
+
 
 ---
 
@@ -2319,7 +2315,7 @@ Hør nærmere en Podcast fra SKAT om forældrekøb.
 
 ---
 
-## Quiz
+## Quiz Handel med fast ejendom
 
 <h4><a href="https://quiz.tepedu.dk/jura21" target="_blank">Quiz Handel med fast ejendom<img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h4>
 

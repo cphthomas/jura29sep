@@ -567,10 +567,7 @@ Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for kø
 
 ---
 
-## Eksamensopgave 1
-
-
-**Eksamensopgave - jem og fix**  
+## Eksamensopgave 1 jem & fix
 
 ![](img/jem.jpg)
 
@@ -600,11 +597,11 @@ Kim må ellers slet ikke købe varer ind, da det skal foregå centralt.
 
 ---
 
-**Podcast om svaret på eksamensopgaven**
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409438" data-resource="episode_id=40409438" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast eksamensopgave 4.1. Jem og Fix</a>
 
 ---
 
-<h4><a href="https://youtu.be/oeIre44pjQU" target="_blank">Video om sådan laver du selv en Fuldmagt</a><h4>
+<h4><a href="https://youtu.be/oeIre44pjQU" target="_blank">Video: sådan laver du selv en Fuldmagt</a><h4>
 
 ---
 
@@ -718,7 +715,7 @@ Fuldmægtigen er dog ansvarsfri, såfremt 3. mand vidste eller burde vide, at fu
 
 ---
 
-## Quiz
+## Quiz aftaleret
 
 <h3><a href="https://quiz.tepedu.dk/jura5" target="_blank">Quiz Jura aftaleret   <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
 

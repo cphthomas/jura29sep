@@ -6,6 +6,8 @@ cat(readLines('np.html'))
 
 
 
+<script async src="https://widget.spreaker.com/widgets.js"></script>
+
 
 **Kapitel 7 om køb skal kun læses i hovedtræk**
 
@@ -1622,12 +1624,7 @@ Vedrører imidlertid kun forholdet mellem parterne - ikke forholdet til tredjem�
 
 ---
 
-## Eksamensopgave 1
-
-**Eksamensopgave om forbrugerkøb, kreditsikring og inkasso**
-
-
-Børge Brugtvognsforhandler
+## Eksamensopgave 1 Børge Brugtvognsforhandler
 
 ![](img/brugtvogn.jpg)
 
@@ -1670,7 +1667,10 @@ Derudover har banken sendt et brev om, at der er overtræk på kassekreditten og
 
 3.  Redegør for hvad kan banken gøre for at sikre kassekreditten?
 
-**Podcast eksamensbesvarelsen til "Børge brugtvognsforhandler"**
+
+---
+
+<a class="spreaker-player" href="https://www.spreaker.com/episode/40409442" data-resource="episode_id=40409442" data-width="100%" data-height="350px" data-theme="light" data-playlist="show" data-playlist-continuous="true" data-autoplay="false" data-live-autoplay="false" data-chapters-image="true" data-episode-image-position="left" data-hide-logo="true" data-hide-likes="true" data-hide-comments="true" data-hide-sharing="true" data-hide-download="true" data-cover="https%3A%2F%2Fd3wo5wojvuv7l.cloudfront.net%2Fimages.spreaker.com%2Foriginal%2F09fdb4872bdbd4e7cd0a30fdc74ee72f.jpg">Podcast til eksamensopgave 7.1. Børge brugtvognsforhandler</a>
 
 ---
 
@@ -2338,7 +2338,7 @@ Fx hvis du ikke kan få adgang til en lejet film. I praksis betyder det oftest, 
 
 ---
 
-## Quizzer
+## Quizzer Køb
 
 
 **Quiz om forbrugeraftaler**
