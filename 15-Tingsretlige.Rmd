@@ -9,7 +9,7 @@ cat(readLines('np.html'))
 
 ---
 
-*Forståelsen af reglerne om tingsretlige konflikter i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom samt ved finansiering via virksomhedspant mv.*
+***Forståelsen af reglerne om tingsretlige konflikter i er især anvendelig for dig, der skal arbejde i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring, samt revision og økonomifunktion i forbindelse med sikkerhedsstillelse ved lån til kunder og klienter ved deres køb af fast ejendom samt ved finansiering via virksomhedspant mv.***
 
 ---
 
@@ -640,7 +640,7 @@ C kan fortrænge A's ret over fondsaktivet, hvis:
 
 ---
 
-## Quiz Tingsretlige konflikter
+## Quiz
 
 
 <h3><a href="https://quiz.tepedu.dk/jura20" target="_blank">Quiz Tingsretlige konflikter <img width="5%" height="5%" border="100" align="center"  src="img/quizbuzzer.png"/></a></h3>
