@@ -40,7 +40,7 @@ Aftaleloven, købeloven og markedsføringsloven
 
 Lov om formidling af fast ejendom, jf. Lov nr. 526 af 28. maj 2014 om formidling af fast ejendom m.v. (LOFE), 
 
-Formidlingsbekendtgørelsen, jf. bekendtgørelse nr 1230 af 21/11/2014.
+Formidlingsbekendtgørelsen, jf. bekendtgørelse nr. 1230 af 21/11/2014.
 	
 Lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom, jf. Lovbekendtgørelse nr. 1123 af 22. september 2015 om forbrugerbeskyttelse ved erhvervelse af fast ejendom mv. (LFFE)
 
@@ -57,7 +57,7 @@ Et **"mageskifte"** er ikke et køb af fast ejendom, men	bytte af fast ejendom.
 
 ---
 
-Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatione"** er en	blandet gave og køb, fx hvor en far overdrager en fast ejendom til sin søn for 500.000 kr, hvoraf 200.000 kr. er en gave.
+Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatione"** er en	blandet gave og køb, fx hvor en far overdrager en fast ejendom til sin søn for 500.000 kr., hvoraf 200.000 kr. er en gave.
 
 ---
 
@@ -133,7 +133,7 @@ Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatio
 
 ![](img/hus5.jpg)
  
-En aftale om formidlingsopdraget skal være skriftlig. LOFE § 29, stk. 1.^[Følgende afsnit om formidlingsaftalen bygger på **Sonny Kristoffersen**: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018, Hans Reitzels Forlag. Som kan anbefales for dig, der vælger ejendomsmæglerbranchen.] 
+En aftale om formidlingsopdraget skal være skriftligt. LOFE § 29, stk. 1.^[Følgende afsnit om formidlingsaftalen bygger på **Sonny Kristoffersen**: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018, Hans Reitzels Forlag. Som kan anbefales for dig, der vælger ejendomsmæglerbranchen.] 
 
 Kravet om parternes underskrift skal bl.a. sikre, at der er fuldstændig enighed om de vilkår, som fremgår af aftalen, inklusive situationer, hvor sælgeren fx har anført tillægstekst i hånden.  
   
@@ -143,7 +143,7 @@ Hvis vederlagets størrelse ikke er et fast beløb, skal der i stedet angives be
 
 ---
 
-Ved **beregningsprincipper** forstås grundlaget for beregningen af vederlaget, således at det er muligt for forbrugeren selv at beregne den endelige pris. 
+Ved **beregningsprincipper** forstås grundlaget for beregningen af vederlaget, sådet er muligt for forbrugeren selv at beregne den endelige pris. 
 
 Det kan fx være i form af en vis procentdel af selve købesummen eller, hvis der er aftalt vederlag efter regning, en prisliste over de tilbudte og aftalte ydelser.  
 
@@ -227,7 +227,7 @@ Hvis formidlingsaftalen, som sælger har indgået med ejendomsmægleren, ikke er
 
 ---
 
-Efter udløbet af aftalen står det således forbrugeren frit at forlade aftalen. Aftalen kan endvidere højst forlænges med tre måneder ad gangen. 
+Efter udløbet af aftalen står det således forbrugeren frit at forlade aftalen. Aftalen kan desuden højst forlænges med tre måneder ad gangen. 
 
 I forbindelse med den oprindelige aftales udløb, kan der således aftales en ny periode på tre måneder, som herefter kan forlænges med tre måneder ad gangen. 
 
@@ -345,11 +345,11 @@ I sådanne tilfælde vil en sælger og en køber ellers kunne udnytte ejendomsm�
 
 ---
 
-I andre tilfælde, hvor ejendomsmægleren eksempelvis får ret til vederlag ved levering af ydelser efter regning, og vederlaget således ikke indeholder et resultatafhængigt element, vil det som udgangspunkt følge direkte af formidlingsaftalen, at et salg efter aftaleperiodens ophør ikke vil udløse vederlag til ejendomsmægleren, alene fordi ejendomsmægleren ikke har leveret en ydelse, der udløser ret til vederlag, jf. også bemærkningerne ovenfor til lovens § 31 om sælgers ret til at kunne opsige aftalen uden varsel.  
+I andre tilfælde, hvor ejendomsmægleren fx får ret til vederlag ved levering af ydelser efter regning, og vederlaget således ikke indeholder et resultatafhængigt element, vil det som udgangspunkt følge direkte af formidlingsaftalen, at et salg efter aftaleperiodens ophør ikke vil udløse vederlag til ejendomsmægleren, alene fordi ejendomsmægleren ikke har leveret en ydelse, der udløser ret til vederlag, jf. også bemærkningerne ovenfor til lovens § 31 om sælgers ret til at kunne opsige aftalen uden varsel.  
 
 ---
 
-Bestemmelsen i LOFE § 32, stk. 2, finder endvidere anvendelse i den situation, hvor en sælger opsiger formidlingsaftalen umiddelbart efter indgåelse af bindende købsaftale, og hvor der mellem mægler og sælger er aftalt resultatafhængigt vederlag. 
+Bestemmelsen i LOFE § 32, stk. 2, finder desuden anvendelse i den situation, hvor en sælger opsiger formidlingsaftalen umiddelbart efter indgåelse af bindende købsaftale, og hvor der mellem mægler og sælger er aftalt resultatafhængigt vederlag. 
 
 I disse situationer har ejendomsmægleren ret til vederlag, uanset LOFE § 29, stk. 3, jf. LOFE § 33, stk. 2, om mæglers krav på rimeligt vederlag ved sælgers opsigelse af formidlingsaftalen. 
 
@@ -389,7 +389,7 @@ Skulle ejendomsmægler nr. 2 have handlet illoyalt i forhold til ejendomsmægler
 
 Det afgørende ved vurderingen af, om en anden ejendomsmægler har medvirket, er, om den anden ejendomsmægler har påtaget sig et formidlingsopdrag for sælger i forhold til den pågældende faste ejendom, og i hvilket omfang mægleren har iværksat eller påbegyndt salgsbestræbelser. 
 
-Det forhold, at køber og sælger henvender sig til en advokat eller en ejendomsmægler og beder denne udføre en afgrænset del af, hvad der normalt indeholdes i et formidlingsopdrag, eksempelvis udfærdigelse af en købsaftale, vil ikke i sig selv være at anse som, at der medvirker en anden ejendomsmægler. 
+Det forhold, at køber og sælger henvender sig til en advokat eller en ejendomsmægler og beder denne udføre en afgrænset del af, hvad der normalt indeholdes i et formidlingsopdrag, fx udfærdigelse af en købsaftale, vil ikke i sig selv være at anse som, at der medvirker en anden ejendomsmægler. 
 
 ---
 
@@ -397,7 +397,7 @@ Det vil dog bero på en konkret vurdering, hvorvidt der er tale om formidling el
 
 ---
 
-Endvidere har ejendomsmægleren krav på vederlag, hvis ejendomsmægleren sælger ejendommen, selvom formidlingsaftalen er udløbet, såfremt købsaftalen indgås på baggrund af ejendomsmæglerens indsats. 
+Desuden har ejendomsmægleren krav på vederlag, hvis ejendomsmægleren sælger ejendommen, selvom formidlingsaftalen er udløbet, såfremt købsaftalen indgås på baggrund af ejendomsmæglerens indsats. 
 
 Der vil som udgangspunkt ikke være tvivl herom i de situationer, hvor ejendomsmægleren efter formidlingsaftalens udløb har fortsat salgsbestræbelserne og har udarbejdet købsaftalen.   
 
@@ -411,7 +411,7 @@ Begrebet "betinget skøde" er et skøde, som er betinget af købesummens betalin
 
 Foreligger der forbehold eller betingelser, skal disse være fjernet, før retten til vederlag kan udløses. 
 
-Endvidere skal fortrydelsesfristen efter lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom også være udløbet.  
+Desuden skal fortrydelsesfristen efter lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom også være udløbet.  
 
 ---
 
@@ -453,7 +453,7 @@ Såfremt sælger misligholder aftalen, vil ejendomsmæglerens ret til vederlag i
 
 Det er antaget i teorien, men følger også af Erhvervsstyrelsens vejledende udtalelse af 11. september 2009, at hvis der ifølge den tidligere omsætningslov var aftalt vederlag efter regning, så kunne ejendomsmægleren få vederlag for sit erlagte arbejde samt dokumenterede omkostninger til både annoncering og fremskaffelse af dokumenter, uanset om det var ejendomsmægleren eller forbrugeren, der opsagde aftalen. 
 
-Dette princip videreføre LOFE § 34, stk. 1, uændret.  
+Dette princip viderefører LOFE § 34, stk. 1, uændret.  
 
 Da sådanne aftaler fremover kan være fortløbende, findes det også af den grund rimeligt, at parterne har mulighed for at aftale spørgsmål om vederlag i tilfælde af opsigelse.  
 
@@ -507,7 +507,7 @@ LOFE § 37, stk. 1, finder man minimumskravene til ejendomsmæglerens obligatori
 
 ---
 
-**Efter lovens § 37, stk. 1, har lovgiver nedsat antallet af de obligatoriske opgaver fra fem til fire, således at ejendomsmægleren skal:**
+**Efter lovens § 37, stk. 1, har lovgiver nedsat antallet af de obligatoriske opgaver fra fem til fire, så ejendomsmægleren skal:**
 
 1. Værdiansætte ejendommen. 
 
@@ -527,7 +527,7 @@ Bestemmelsen sætter fokus på, hvilke opgaver der falder inden for ejendomsmæg
 
 ---
 
-Udgangspunktet er endvidere, at færre obligatoriske opgaver kan bidrage til at øge konkurrencen og til, at der udvikles nye koncepter. 
+Udgangspunktet er desuden, at færre obligatoriske opgaver kan bidrage til at øge konkurrencen og til, at der udvikles nye koncepter. 
 
 Dermed har LOFE § 37, stk. 1, samtidig til formål at bidrage til øget konkurrence på markedet for formidling af salg af fast ejendom.  
 
@@ -677,7 +677,7 @@ Markedsføringslovens §§ 5-6 bestemmer, at en erhvervsdrivendes ikke i sin han
 
 Disse bestemmelser om forbud mod vildledning gælder også inden for fast ejendom. 
 
-Det vurderes, at markedsføringslovens bestemmelser, jf. markedsføringslovens §§ 5-7 er med til at sikre forbrugerne den fornødne beskyttelse i forbindelse med markedsføring af fast ejendom.
+Det vurderes, at markedsføringslovens bestemmelser, jf. markedsføringslovens §§ 5-7 er med til at sikre forbrugerne den nødvendige beskyttelse i forbindelse med markedsføring af fast ejendom.
 
 ---
 
@@ -793,7 +793,7 @@ Til gengæld vil der være flere repræsentanter, hvis en række selvstændige e
 
 ---
 	
-Et interessentskab skal anses som én virksomhed, således at én deltager ikke kan være sælgers ejendomsmægler samtidig med, at en anden deltager er købers repræsentant.
+Et interessentskab skal anses som én virksomhed, så én deltager ikke kan være sælgers ejendomsmægler samtidig med, at en anden deltager er købers repræsentant.
 
 LOFE § 26, stk. 3, er en forlængelse af god skik-reglen og er en modificeret udgave af den tidligere omsætningslovs § 15, stk. 2, 3. pkt., idet ejendomsmægleren skal oplyse – og ikke rådgive – køber om mulighed, ikke behov, for at søge egen bistand. 
 
@@ -881,7 +881,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 **Oversigt over processen i en ejendomshandel:**  
 
-**Når der er indgået formidlingsaftale med sælgeren skal ejendomsmægleren:**
+**Når der er indgået formidlingsaftale med sælgeren, skal ejendomsmægleren:**
 
 * Varetage sælgers interesser og rådgive sælger, herunder i LOFE § 37.
 
@@ -895,7 +895,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 *	Fravigelser fra standarden skal fremhæves over for køberen.
 
-*	Der indsættes ofte et advokat og/eller et finansieringsforbehold.
+*	Der indsættes ofte et advokatforbehold og/eller et finansieringsforbehold.
 
 * Købsaftalen gennemses af køberens advokat.
 
@@ -905,7 +905,7 @@ Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan s�
 
 *	Ejendomsmægler må ikke rådgive både sælger og køber, men er udelukket sælgerens mand, jf. LOFE § 26.
 
-*	Køberen skal oplyses om sin fortrydelsesretten af sælgeren/formidleren.
+*	Køberen skal oplyses om sin fortrydelsesret af sælgeren/formidleren.
 
 ---
 
@@ -932,7 +932,7 @@ Fortrydelsesretten skal i denne sammenhæng begrebsmæssigt ses i modsætning ti
  
 Reglerne om en fortrydelsesret ved køb af fast ejendom har karakter af traditionel forbrugerbeskyttelse, eftersom det alene er køberen, der har fortrydelsesret. 
 
-Anvendelsesområdet for LFFE kapitel 2 er dog ikke, som i anden civilretlig forbrugerbeskyttelseslovgivning, afgrænset til forbrugeraftaler. 
+Anvendelsesområdet for LFFE-kapitel 2 er dog ikke, som i anden civilretlig forbrugerbeskyttelseslovgivning, afgrænset til forbrugeraftaler. 
 
 ---
 
@@ -1017,7 +1017,7 @@ Det følger af LFFE § 7, stk. 2, at så længe et tilbud om køb ikke er antage
 
 Reglen i LFFE § 7, stk. 2, fraviger således de generelle regler i aftaleloven, da der er tale om en udvidelse af retten til at tilbagekalde tilbud, hvorefter køber kan træde tilbage fra et tilbud, som efter aftaleretlige regler er bindende, så længe tilbuddet ikke er accepteret af sælger.
 
-Hvis der er sket rettidigt tilbagekaldelse af købstilbudet, efter LFFE § 7, stk. 2, så er der ingen købsaftale, og dermed finder fortrydelseretten ikke anvendelse og der skal ikke betales godgørelse til sælgeren.
+Hvis der er sket rettidigt tilbagekaldelse af købstilbuddet, efter LFFE § 7, stk. 2, så er der ingen købsaftale, og dermed finder fortrydelsesretten ikke anvendelse og der skal ikke betales godtgørelse til sælgeren.
 
 ---
 
@@ -1105,7 +1105,7 @@ Da der som nævnt først er noget at fortryde, når der er indgået en aftale, k
 
 **I lovforarbejderne til LFFE anføres det:** 
 
-»I tilfælde, hvor aftalen indgås ved, at sælgeren afgiver et tilbud om salg, løber 6-dages fristen fra det tidspunkt, hvor sælgeren efter aftaleretlige regler ikke længere kan tilbagekalde tilbuddet, dvs. når det er kommet til køberens kundskab, jf. stk. 2. I nogle af disse tilfælde vil 6-dages fristen allerede være udløbet inden aftalen indgås, således at der slet ikke bliver nogen fortrydelsesret.«
+»I tilfælde, hvor aftalen indgås ved, at sælgeren afgiver et tilbud om salg, løber 6-dages fristen fra det tidspunkt, hvor sælgeren efter aftaleretlige regler ikke længere kan tilbagekalde tilbuddet, dvs. når det er kommet til køberens kundskab, jf. stk. 2. I nogle af disse tilfælde vil 6-dages fristen allerede være udløbet inden aftalen indgås, så der slet ikke bliver nogen fortrydelsesret.«
 
 ---
 
@@ -1123,7 +1123,7 @@ LFFE § 8, stk. 2, finder kun anvendelse på det tilbud, som køberen accepterer
 
 Ad. B. LFFE § 8, stk. 1, gælder i situationer, hvor købsaftalen indgås på enhver anden måde end ved, at køberen accepterer et tilbud om salg. 
 
-I praksis indgås de fleste købsaftaler vedrørende erhvervelse af fast ejendom, ved at sælgeren accepterer et tilbud fra køberen, fx når køberen underskriver købsaftalen, hvorefter sælger ved sin underskrift acceptere købet. 
+I praksis indgås de fleste købsaftaler vedrørende erhvervelse af fast ejendom, ved at sælgeren accepterer et tilbud fra køberen, fx når køberen underskriver købsaftalen, hvorefter sælger ved sin underskrift accepterer købet. 
 
 Fortrydelsesfristen regnes i alle disse tilfælde fra aftalens indgåelse. 
 
@@ -1143,7 +1143,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ---
 
-**Betingede købsaftaler (advokatforbehold mv.):**
+##Betingede købsaftaler (advokatforbehold mv.)
 
 ![](img/hus12.jpg)
 
@@ -1173,17 +1173,12 @@ Sådanne aftalte betingelser gælder således ved siden af fortrydelsesretten, o
 
 ---
 
-Et advokatforbehold kan efter omstændighederne være formuleret således, at det tillægger køber en fakultativ ret til at træde tilbage fra handlen uden pligt til at betale godtgørelse efter LFFE § 11 og uden at have andre konsekvenser. 
+Et advokatforbehold kan efter omstændighederne være formuleret således, at det tillægger, køber en fakultativ ret til at træde tilbage fra handlen uden pligt til at betale godtgørelse efter LFFE § 11 og uden at have andre konsekvenser. 
 
 Blot en meddelelse fra den pågældende advokat om, at handlen ikke kan godkendes, vil således efter omstændighederne medføre, at købsaftalen bortfalder i sin helhed.
 
 Et forbehold, der ikke indeholder en sidste frist for meddelelse af godkendelse eller nægtelse heraf, mister sin gyldighed, hvis den pågældende advokat ikke reagerer inden rimelig tid. 
 
-Efter retspraksis maksimalt ca. 30 dage.
-
----
-
-Et advokatforbehold løber derfor ikke til evig tid - kun en måned.
 
 Se dommen i **U 1994.13/1 V**, hvor et advokatforbehold i en slutseddel ikke kunne gøres gældende efter godt en måneds forløb. Sælgeren af en fast ejendom tog i slutsedlen, som han underskrev den 4. eller 6. april, forbehold om sin advokats godkendelse af slutsedlen. Ved skrivelse af 9. maj meddelte advokaten, at han ikke kunne godkende slutsedlen. Da advokatforbeholdet herefter ikke var gjort gældende inden rimelig tid, var sælgeren bundet af aftalen. 
 **<a href="https://pro.karnovgroup.dk/document/7000200269/1">Dommen klik her!</a>**
@@ -1197,7 +1192,7 @@ Advokaten skal rådgive køberen inden udløbet af advokatforbeholdet, jf. **U 2
 
 **Tinglysning af aftale om køb:**
 
-Såfremt en aftale om køb er blevet tinglyst, er fortrydelsesretten betinget af, at køberen inden udløbet af den i LFFE § 8 nævnte frist foretager det fornødne til aflysning af aftalen, jf. LFFE § 9. 
+Hvis en aftale om køb er blevet tinglyst, er fortrydelsesretten betinget af, at køberen inden udløbet af den i LFFE § 8 nævnte frist foretager det nødvendige til aflysning af aftalen, jf. LFFE § 9. 
 
 Det er uden betydning, om skødet er endeligt eller betinget. Den nævnte 6 dages frist beregnes på samme måde som efter LFFE § 8.
 
@@ -1211,7 +1206,7 @@ Går der noget galt ved registreringen, har køberen ikke opfyldt sin forpligtel
 
 ---
 
-Hvis det er sælgeren, som har sørget for tinglysning af aftalen, er det tilstrækkeligt, at køberen leverer den fornødne dokumentation til aflysning af aftalen til sælgeren.
+Hvis det er sælgeren, som har sørget for tinglysning af aftalen, er det tilstrækkeligt, at køberen leverer den nødvendige dokumentation til aflysning af aftalen til sælgeren.
 
 Køberen har 6 hverdage til at bringe de nævnte forhold i orden, selv om køberen eventuelt allerede dagen efter aftalens indgåelse har givet sælgeren underretning om, at han vil træde tilbage. 
 
@@ -1221,7 +1216,7 @@ Køberen har 6 hverdage til at bringe de nævnte forhold i orden, selv om køber
 
 Har køberen taget ejendommen i brug, er fortrydelsesretten betinget af, at ejendommen inden udløbet af den i LFFE § 8 nævnte frist stilles til sælgerens disposition, jf. LFFE § 10, stk. 1. 
 
-Det må endvidere antages, at LFFE § 10, stk. 1 også gælder i tilfælde, hvor sælgeren endnu ikke er fraflyttet, men hvor køberen har fået lov til at disponere over en del af ejendommen. 
+Det må desuden antages, at LFFE § 10, stk. 1 også gælder i tilfælde, hvor sælgeren endnu ikke er fraflyttet, men hvor køberen har fået lov til at disponere over en del af ejendommen. 
 
 ---
 
@@ -1409,7 +1404,7 @@ Bestemmelsen beskytter ikke køberen i tilfælde, hvor sælgeren er insolvent. I
 
 **Oplysning om fortrydelsesretten:**
 
-I LFFE kapitel 4 findes reglerne om oplysning om fortrydelsesretten. 
+I LFFE-kapitel 4 findes reglerne om oplysning om fortrydelsesretten. 
 
 En erhvervsdrivende sælger eller formidler mv., som nævnt i LFFE § 6, stk. 3, skal, inden fortrydelsesfristen begynder at løbe, jf. LFFE § 8, i et særskilt dokument, give køberen oplysning om fortrydelsesretten efter kapitel 2, jf. LFFE § 19, stk. 1, 1. pkt. 
 
@@ -1441,7 +1436,7 @@ Overtrædelse af pligten til at oplyse om, at køberen har fortrydelsesret, samt
 
 ---
 
-Ejendomsmæglere, der handler i strid med god skik inden for branchen, vil efter omstændighederne også kunne mødes med sanktioner efter lov om formidling af fast ejendom Såfremt overtrædelsen er begået af et selskab, en forening, en fond eller lignende, kan der pålægges den juridiske person at betale en bøde, jf. LFFE § 22, stk. 2.
+Ejendomsmæglere, der handler i strid med god skik inden for branchen, vil efter omstændighederne også kunne mødes med sanktioner efter lov om formidling af fast ejendom. Hvis overtrædelsen er begået af et selskab, en forening, en fond eller lignende, kan der pålægges den juridiske person at betale en bøde, jf. LFFE § 22, stk. 2.
 
 ---
 
@@ -1453,7 +1448,7 @@ Kan en køber sandsynliggøre, at han ville have benyttet sig af muligheden for 
 
 ---
 
-Træder køberen tilbage fra en aftale efter reglerne i LFFE kapitel 2, er sælgeren med hensyn til en eventuel professionel rådgivers honorarkrav, stillet som om ejendommen ikke var solgt, jf. LFFE § 20.
+Træder køberen tilbage fra en aftale efter reglerne i LFFE-kapitel 2, er sælgeren med hensyn til en eventuel professionel rådgivers honorarkrav, stillet som om ejendommen ikke var solgt, jf. LFFE § 20.
 
 Hvilke honorarregler, der gælder i denne situation, vil formentlig afhænge af, hvilken rådgivningsopgave der er tale om. 
 
@@ -1556,11 +1551,17 @@ Det følger således af lov om forbrugerbeskyttelse ved erhvervelse af fast ejen
 
 ---
 
+***Sælgeransvarsforsikring***
+
+En sælgeransvarsforsikring er en forsikring til boligsælgeren. Sælgeransvarsforsikringen fritager sælgeren for dele af det restansvar, der falder uden for en almindelig ejerskifteforsikring. Konkret betyder det, at sælgeren kan få dækket nogle af de udgifter, som sælgeren måtte blive dømt til at betale til køber i forbindelse med en retssag. For eksempel udgifter til lovliggørelse af ulovlige bygningsindretninger og ulovlige stik- og kloakledninger i jorden uden for boligen samt krav, der udspringer af påbud om oprensning af forurenet grund.
+
+---
+
 Den, der køber noget, der er gammelt og brugt, kan ikke uden særlig vedtagelse forvente, at realydelsen vil besidde de samme egenskaber, som den der køber nyt. 
 
 ---
 
-Nyere retspraksis vedrørende køb af fast ejendom modificerer tidligere praksis, således at ikke enhver fejl i teknisk forstand uden videre anses som en mangel i køberetlig forstand. 
+Nyere retspraksis vedrørende køb af fast ejendom modificerer tidligere praksis, så ikke enhver fejl i teknisk forstand uden videre anses som en mangel i køberetlig forstand. 
 
 ---
 
@@ -1582,7 +1583,7 @@ Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, j
 
 Efter retspraksis foreligger der en fysisk mangel ved en fast ejendom, hvis ejendommen ikke svarer til, hvad sælgeren har garanteret, eller hvad køberen over for sælgeren har forudsat.
 
-Endvidere foreligger der en mangel, hvis ejendommen ikke svarer til, hvad køberen med rimelighed kunne forvente, jf. princippet i købelovens §§ 75 a og 76.
+Desuden foreligger der en mangel, hvis ejendommen ikke svarer til, hvad køberen med rimelighed kunne forvente, jf. princippet i købelovens §§ 75 a og 76.
 
 ---
 
@@ -1602,7 +1603,7 @@ Afgørelsen er skønsmæssig og konkret.
 
 En betingelse for (ud over, at der skal kunne påvises et ansvarsgrundlag), at der overhovedet kan kræves erstatning af en sælger af fast ejendom er, at der kan konstateres en retlig relevant mangel. 
 
-En retlig relevant mangel vurderes på baggrund af, om de konstaterede skader går ud over, hvad man som køber af en ejendom må forvente. 
+En retlig relevant mangel vurderes på baggrund af, om de konstaterede skader går ud over, hvad man som køber af en ejendom, må forvente. 
 
 Ved køb af fast ejendom er køberens mangelsbeføjelser, efter den almindelige obligationsret, retten til at hæve aftalen, at kræve forholdsmæssigt (passende) afslag i købesummen eller at kræve erstatning, jf. princippet i købelovens § 78. 
 
@@ -1626,7 +1627,7 @@ Efter almindelige obligationsretlige regler kan køberen som udgangspunkt kræve
 
 I retspraksis har man fraveget dette udgangspunkt, »idet der ved afgørelsen af, om køberen bør tilkendes et afslag, lægges vægt på manglens omfang og betydning for køberen.« 
 
-Formålet med et forholdsmæssigt afslag er således at gennemføre en delvis restitution.   
+Formålet med et forholdsmæssigt afslag er så gennemføre en delvis restitution.   
 
 Et forholdsmæssigt afslag er ikke betinget af, at der foreligger et ansvarsgrundlag eller andet særligt retsgrundlag. 
 
@@ -1675,7 +1676,7 @@ Oplysninger i tilstandsrapporten fra sælgeren kan ikke uden videre anses for at
 
 En køber har som udgangspunkt ikke pligt til af egen drift at besigtige ejendommen før købet. 
 
-Såfremt køberen inden købet, af en godtroende sælger, er blevet opfordret til at undersøge et bestemt angivet forhold nærmere, vil køberen normalt ikke senere kunne påberåbe sig det pågældende forhold som en mangel ved ejendommen, hvis han undlader at følge sælgers opfordring. 
+Hvis køberen inden købet, af en godtroende sælger, er blevet opfordret til at undersøge et bestemt angivet forhold nærmere, vil køberen normalt ikke senere kunne påberåbe sig det pågældende forhold som en mangel ved ejendommen, hvis han undlader at følge sælgers opfordring. 
 
 ![](img/hus14.jpg)
 
@@ -1683,7 +1684,7 @@ Helt generelt formulerede opfordringer til at besigtige ejendommen har derimod i
 
 I almindelighed stilles der ikke strenge krav til en købers evne til at opdage mangler i forbindelse med en undersøgelse af en fast ejendom. 
 
-Det skyldes, at køberen i langt de fleste tilfælde savner de faglige forudsætninger for, at kunne vurdere ejendommens kvalitet i detaljer. 
+Det skyldes, at køberen i langt de fleste tilfælde savner de faglige forudsætninger for at kunne vurdere ejendommens kvalitet i detaljer. 
 
 ---
 
@@ -1780,7 +1781,7 @@ På baggrund af tilstandsrapport og elinstallationsrapport indhenter sælgeren e
 
 ---
 
-**Sælger er fri for ansvar for fejl og mangler ved den faste ejendom  (jf. LFFE § 2), hvis:**
+**Sælger er fri for ansvar for fejl og mangler ved den faste ejendom (jf. LFFE § 2), hvis:**
 
 - Køberen har modtaget tilstandsrapport fra sælger, som er mindre end 6 måneder gammel.
 
@@ -1855,7 +1856,7 @@ Værdiansættelsen danner grundlag for aftalen om udbudspris, men udbudsprisen s
 
 I øvrigt bliver det sværere at bevise, at der er tale om en afvigelse, som angivet i bestemmelsen, jo længere tid der går.
 
-At afvigelsen skal være væsentlig vil sige, at der skal foreligge et markant værdispring i forhold til den relevante ydergrænse for det skøn, som værdiansættelsen er udtryk for. 
+At afvigelsen skal være væsentlig, vil sige, at der skal foreligge et markant værdispring i forhold til den relevante ydergrænse for det skøn, som værdiansættelsen er udtryk for. 
 
 Den forskel, som kan forlanges erstattet, fastsættes skønsmæssigt ud fra den nævnte ydergrænse.
 
@@ -1946,7 +1947,7 @@ Heldigvis ønsker køberen at gennemføre købet af ejerlejligheden og det betyd
 
 Ejendommen koster kr. 1.795.000 kontant, som de får finansieret ved et realkreditlån på 1.435.000, et banklån på kr. 260.000 og en kontant udbetaling på kr. 100.000. 
 
-Til finansiering af et nyt køkken og div. istandsættelser af ejendommen får de endvidere et lån fra Silles forældre på kr. 250.000 mod sikkerhed i ejendommen.
+Til finansiering af et nyt køkken og div. istandsættelser af ejendommen får de desuden et lån fra Silles forældre på kr. 250.000 mod sikkerhed i ejendommen.
 
 
 **Eksamensspørgsmålet:**
@@ -2007,7 +2008,7 @@ Som var det ikke nok, opdager Kalle nogle måneder senere, at salgsopstillingen 
 
 ## Kort oversigt over finansiering af køb af fast ejendom
 
-(Der henvises til de andre øknomiske-finansielle fag på studiet)
+(Der henvises til de andre økonomiske-finansielle fag på studiet)
  
 ---
 
@@ -2102,7 +2103,7 @@ Køber overtager sælgers lån i ejendommen – evt. nye lån, som køber har op
 
 * Efterhånden som sælgers lån bliver indfriet, vil anmærkningerne på skødet blive fjernet fra tingbogen.
   
-* Når skødet er anmærkningsfrit kan købesummen frigives til sælgeren.
+* Når skødet er anmærkningsfrit, kan købesummen frigives til sælgeren.
   
 * Advokaten skal udarbejde en refusionsopgørelse til afslutning af ejendomshandlen.
 
@@ -2124,7 +2125,7 @@ Martin var i fremragende humør. Han havde netop fået besked om at han var blev
 Den 1. februar mødte Martin op på sit nye arbejde og her blev han mødt af ejeren Egild. Han bød Martin velkommen og de to blev enige om at Martin sådan set bare kunne gå i gang med arbejdet, da han jo kendte al teorien fra sin tid som Finansøkonomstuderende. 
 
 Martins første opgave var et spørgsmål som Egild var kommet i tvivl om: Egild havde en ejendom beliggende Bygaden 1, Udby til salg for Søren for 1.995.000 kr. Den 28. januar havde Keld henvendt sig til Egild, da han gerne ville købe ejendommen til prisen. Egild skyndte sig at udarbejde en købsaftale, som Keld skrev under om aftenen den 28. januar. 
-Egild skyndte sig at sende købsaftalen til Søren, som skrev den under samme aften og afleverede den fysisk tilbage til Egild om morgenen den 29. januar. Egild tænkte at nu var aftalen i hus, men for god ordens skyld ville han lige sende den underskrevne købsaftale til Keld. Egild fik det dog ikke lige gjort, da hans morgenbacon var ved at brænde på. Da Egild kom tilbage til sit skrivebord kunne han se at der netop var kommet en mail fra Keld om at han fortrød købet og ikke ville have ejendommen alligevel.
+Egild skyndte sig at sende købsaftalen til Søren, som skrev den under samme aften og afleverede den fysisk tilbage til Egild om morgenen den 29. januar. Egild tænkte at nu var aftalen i hus, men for god ordens skyld ville han lige sende den underskrevne købsaftale til Keld. Egild fik det dog ikke lige gjort, da hans morgenbacon var ved at brænde på. Da Egild kom tilbage til sit skrivebord, kunne han se at der netop var kommet en mail fra Keld om at han fortrød købet og ikke ville have ejendommen alligevel.
 
 **Eksamensspørgsmålet:**
 
@@ -2154,7 +2155,7 @@ Efter at Karsten havde overtaget huset opdagede han et antal mangler, som han ik
 
 En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggende i nabobyen Indby. Huset tilhørte Pernille. Martin havde i dagens anledning taget sine nye og meget dyre Armani® støvler på. Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selvom Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
 
-Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
+Da Martin kommer ind i huset, vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gange. Spejlet falder ned og smadrer mod gulvet. Ude i køkkenet står Pernille og er ved at lave kaffe. Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. ”Guffe”, der var en præmiehund med en værdi på 10.000 kr., måtte efterfølgende aflives.
 
 **Eksamensspørgsmålet:**
 
@@ -2166,11 +2167,11 @@ En af Martins bekendte Birte arbejdede som privatrådgiver i den lokale bank ”
 
 **Eksamensspørgsmålet:**
 
-5.	Hvilken form for pantebrev kan anvendes til sikring af bankens krav, hvis der tages hensyn til Lars´s ønsker? (10%)
+5.	Hvilken form for pantebrev kan anvendes til sikring af bankens krav, hvis der tages hensyn til Lars´ ønsker? (10%)
 
 ---
 
-Lars ejede også naboejendommen beliggende Kirkegade 3 i Udby. I denne ejendom havde han været nød til at optage en del lån, da der havde været mange uforudsete renoveringsudgifter. Det drejede sig om:
+Lars ejede også naboejendommen beliggende Kirkegade 3 i Udby. I denne ejendom havde han været nødt til at optage en del lån, da der havde været mange uforudsete renoveringsudgifter. Det drejede sig om:
 
 -	Den 1. marts havde Lars optaget et realkreditlån med en hovedstol på 1.100.000 kr. hos ”Dansk Realkreditselskab” med sikkerhed i ejendommen. Pantebrevet var blevet anmeldt til tinglysning den 6. marts
 
@@ -2204,7 +2205,7 @@ Opgave 1 (20 %)
  
 Anna og Oline er veninder og har kendt hinanden siden gymnasietiden. De er begge gået ejendomsmæglervejen og er netop blevet registrerede ejendomsmæglere. Anna er gift og har et barn, og ejer sammen med sin mand en større villa nær Aarhus. Oline lever sammen med sin kæreste i en lejet lejlighed ved havnefronten i Aarhus.  
  
-Anna og Oline har begge et ønske om at blive selvstændige erhvervsdrivende, og de synes derfor, at det er nærliggende at starte en ejendomsmæglervirksomhed op sammen. De ønsker ikke at indgå i et kædesamarbejde. Det skal være en uafhængig ejendomsmæglervirksomhed. De er enige om, at de skal have lige stor indflydelse på driften, og at de skal indskyde lige meget i startkapital. De har sparet ca. 100.000 kr. op hver, som de tænker skal anvendes til indskud, hvis der skulle være et kapitalkrav i forbindeles med virksomhedsoprettelsen.  
+Anna og Oline har begge et ønske om at blive selvstændige erhvervsdrivende, og de synes derfor, at det er nærliggende at starte en ejendomsmæglervirksomhed op sammen. De ønsker ikke at indgå i et kædesamarbejde. Det skal være en uafhængig ejendomsmæglervirksomhed. De er enige om, at de skal have lige stor indflydelse på driften, og at de skal indskyde lige meget i startkapital. De har sparet ca. 100.000 kr. op hver, som de tænker skal anvendes til indskud, hvis der skulle være et kapitalkrav i forbindelse med virksomhedsoprettelsen.  
  
 Det vil desuden være nødvendigt for dem at optage et lån til diverse udgifter i forbindelse med opstarten af virksomheden (husleje, depositum, driftsmidler og markedsføring m.m.,) samt oprette en kassekredit i banken til den løbende drift, da de ud over opsparingen til virksomhedsoprettelsen ikke har nogen formue. Anna og hendes mand har dog en mindre friværdi i deres villa.  
  
@@ -2255,7 +2256,7 @@ Som du kan se, har banken ikke sikkerhed for kassekreditten. Hvor i konkursorden
  
 Opgave 3 (45 %) 
  
-Anna og Olines ejendomsmæglervirksomhed kører rigtig godt. De har flere attraktive ejerlejligheder og villaer til salg, og der er godt gang i salget af begge dele. Da de har travlt, har de fornylig ansat dig som trainee i ejendomsmæglervirksomheden.  
+Anna og Olines ejendomsmæglervirksomhed kører rigtig godt. De har flere attraktive ejerlejligheder og villaer til salg, og der er godt gang i salget af begge dele. Da de har travlt, har de fornyelig ansat dig som trainee i ejendomsmæglervirksomheden.  
  
 På det daglige morgenmøde beder Anna og Oline dig om at forberede et kundemøde, hvor du skal gennemgå et udkast til en formidlingsaftale med potentiel sælger af en villa. Denne har på forhånd sendt en mail med nogle spørgsmål omkring en ejendomshandel, som han gerne vil have svar på inden, han underskriver aftalen. Du skal nu lave dit notat med svar på nedenstående spørgsmål, så du er godt forberedt til kundemødet.  
  

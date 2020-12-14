@@ -70,11 +70,11 @@ Fristdag, jf. KL § 1
 
 Nærtstående, jf. KL § 2, 
 
-Konkursordenen, jf. KL kapitel 10, 
+Konkursordenen, jf. KL-kapitel 10, 
   
 Separatister og underpanthavere, jf. KL §§ 82 og 86, 
   
-Omstødelse af dispositioner, jf. KL kapitel 8 
+Omstødelse af dispositioner, jf. KL-kapitel 8 
 
 ---				
 
@@ -136,7 +136,7 @@ En rigtigt opgjort status er et vægtigt indicium om skyldnerens betalingsevne, 
 
 Det må kræves, at der består en fordring mod skyldneren, men ikke, at den er forfalden. 
 
-Fordringen må endvidere tilkomme den, der indleverer konkursbegæringen til skifteretten.
+Fordringen må desuden tilkomme den, der indleverer konkursbegæringen til skifteretten.
 
 ---
 
@@ -232,7 +232,7 @@ Lovens formål søges også opnået ved regler om, at inkassovirksomhed skal ud�
 
 Inkassolovens kap. 1 fastlægger anvendelsesområdet for loven.
 
-Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. Endvidere indeholder kap. 2 regler om sikkerhedsstillelse. 
+Kap. 2 fastsættes autorisationsordningen for inkassofirmaer og visse andre virksomheder. Desuden indeholder kap. 2 regler om sikkerhedsstillelse. 
 
 Kap. 3 fastsættes regler om godkendelse af personale, som retter personlige henvendelser til skyldnere. 
 
@@ -490,7 +490,7 @@ Hvis man er utilfreds med fogedrettens afgørelse, kan man normalt kære (klage)
 
 **Mødepligt i fogedsager:**
 
-Man har pligt til at møde i fogedretten. Men man kan – med mindre fogedretten har bestemt andet – lade en anden møde for sig, hvis man udfylder den fuldmagt, man har modtaget med indkaldelsen til mødet i fogedretten.
+Man har pligt til at møde i fogedretten. Men man kan – medmindre fogedretten har bestemt andet – lade en anden møde for sig, hvis man udfylder den fuldmagt, man har modtaget med indkaldelsen til mødet i fogedretten.
  
 Den person, som møder for én, skal kende til sagen og til ens økonomiske forhold. 
 
@@ -650,7 +650,7 @@ Hvis en person eller virksomhed overtræder et forbud eller påbud, som er medde
 
 Fogedretten kan eksempelvis hindre, at et forbud bliver overtrådt, sikre at et påbud bliver efterkommet eller tilintetgøre, hvad der er foretaget i strid med forbuddet eller påbuddet. 
 
-Fogedretten kan også under visse betingelser beslagægge genstande, som anvendes eller har været anvendt ved overtrædelse af forbuddet eller påbuddet.
+Fogedretten kan også under visse betingelser beslaglægge genstande, som anvendes eller har været anvendt ved overtrædelse af forbuddet eller påbuddet.
 
 Man skal som hovedregel sende ens anmodning om bistand eller beslaglæggelse til fogedretten i den retskreds, hvor ens modpart har adresse eller til fogedretten ved den byret, der har meddelt forbuddet eller påbuddet.
 
@@ -754,7 +754,7 @@ Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
 
 ---
 
-Almindelig hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer.
+Almindelige hvidevarer hører til et beskedent hjem, fx køleskab, fryser, almindeligt tv og almindelig computer.
 
 Smykker, malerier, smart TV eller fjernsyn med surround sound og subwoofer og andre værdifulde aktiver er ikke omfattet af trangsbeneficiet.
 
@@ -1067,7 +1067,7 @@ Kreditor har stadig et restkrav på 90.000 kr. efter konkursen er afsluttet.
 
 Kreditorernes udækkede gæld følger skyldner, hvis skyldner er en fysisk person.
 
-Hvis skyldner er et selskab har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort.
+Hvis skyldner er et selskab, har kreditor ingen at rette kravet mod efter konkursen. Den udækkede gæld kan ikke blive fyldestgjort.
 
 ---
  
@@ -1103,7 +1103,7 @@ I den forbindelse kan karantænen udvides til et forbud mod deltagelse i enhver 
 
 En overtrædelse af karantænen kan også medføre, at personen hæfter personligt på objektivt grundlag for selskabets forpligtelser, hvis det går konkurs.
 
-Endvidere kan en overtrædelse af en konkurskarantæne straffes med bøde eller fængsel indtil 6 måneder efter straffelovens § 131.
+Desuden kan en overtrædelse af en konkurskarantæne straffes med bøde eller fængsel indtil 6 måneder efter straffelovens § 131.
 
 ---
 
@@ -1668,7 +1668,7 @@ Tvangsakkord, jf. § 10 a.
 Virksomhedsoverdragelse, jf. § 10 b. 
 
 § 10 a
-En tvangsakkord kan gå ud på procentvis nedsættelse eller bortfald af fordringerne mod skyldneren. En tvangsakkord kan endvidere gå ud på betalingsudsættelse. 
+En tvangsakkord kan gå ud på procentvis nedsættelse eller bortfald af fordringerne mod skyldneren. En tvangsakkord kan desuden gå ud på betalingsudsættelse. 
 
 En tvangsakkord kan betinges af, at skyldnerens formue eller en del af denne fordeles mellem fordringshaverne...". 
 
@@ -1692,7 +1692,7 @@ Vedtagelse af en tvangsakkord kræver tilslutning fra mindst 60% af de deltagend
 
 Betegnelsen "fordringshaver" er	den, der har noget til gode.
 
-De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bestemt andel af det samlede beløb, der giver stemmeret; andelen afhænger af akkordforslagets indhold, men udgør mindst 60%.
+De fordringshavere, der tiltræder akkorden, skal desuden repræsentere en bestemt andel af det samlede beløb, der giver stemmeret; andelen afhænger af akkordforslagets indhold, men udgør mindst 60%.
 
 --- 
 
@@ -1701,7 +1701,7 @@ De fordringshavere, der tiltræder akkorden, skal endvidere repræsentere en bes
 Om forbrugerret, pant, handel med fast ejendom, modregning og rekonstruktion mv.
 
 
-"Kineserhviskeren" kalder man Vagn Vig, i gave og indbo branchen. 
+"Kineserhviskeren" kalder man Vagn Vig, i gave og indbobranchen. 
 
 Allerede mens han gik på erhvervsakademiet i Kolding, var han blevet venner med nogle af de kinesiske medstuderende, senere havde han fået en kinesisk kæreste, havde tilegnet sig noget af sproget og havde rejst i Kina. 
 
@@ -1745,7 +1745,7 @@ I Trekantsområdet har han fundet en passende bygning til salg, tæt på motorve
 
 Den nye bygning skal i givet fald også rumme de eksisterende lagerfunktioner og derudover ledes og administreres virksomheden fra lejede lokaler i det centrale Kolding.
 
-Under en drøftelse om finansieringen med revisoren, foreslår denne, at et banklån til delvis finansiering af købet af den nye lagerbygning/pakkeri, samt til etableringen af webshoppen, ud over pant i ejendommen, sikkert vil kræve enten et virksomhedspant eller et fordringspant.
+Under en drøftelse om finansieringen med revisoren, foreslår denne, at et banklån til delvis finansiering af købet af det nye lagerbygning/pakkeri, samt til etableringen af webshoppen, ud over pant i ejendommen, sikkert vil kræve enten et virksomhedspant eller et fordringspant.
 
 **Eksamensspørgsmålet:**
 
@@ -1765,7 +1765,7 @@ Godt to måneder senere modtager han et brev, der fortæller, at møbelkæden er
 
 ---
 
-Kun to dage forinden har Vagn og sælgeren begge underskrevet aftalen om køb af den kombinerede lagerbygning/pakkeri, og han overvejer nu, i lyset af denne udvikling, om han har ret til at fortryde købet.
+Kun to dage forinden har Vagn og sælgeren begge underskrevet aftalen om køb af det kombinerede lagerbygning/pakkeri, og han overvejer nu, i lyset af denne udvikling, om han har ret til at fortryde købet.
 
 **Eksamensspørgsmålet:**
 
@@ -1805,7 +1805,7 @@ Tømrermester Bertil Jacobsen havde i efteråret 2018 ombygget Tina Jensens hus 
 
 Hvordan kan Bertil Jacobsen gennemtvinge sit krav på lovlig vis?
 
-**Eksamensspørgsmåler 1.2 (5%)**
+**Eksamensspørgsmålet 1.2 (5%)**
 
 Hvad kunne Bertil Jacobsen have gjort, såfremt Tina Jensen ikke havde underskrevet det frivillige forlig?.
 
@@ -1846,7 +1846,7 @@ Tina Jensen købte bilen for et år siden i maj 2018. Bilen blev købt på kredi
 **Eksamensspørgsmålet 2.1 (10%)**
 
 Hvilke betingelser skal opfyldes, for at ejendomsforbeholdet er gyldigt ?
-Af kreditkøbskontrakten fremgår det, at Tina Jensen skal tilbagebetale i alt kr. 75.000 til en årlig variabel rente på 13,95% med en ydelse på kr. 1.559, 00 pr. måned, der forfalder til betaling d. 1. i hver måned. Da Tina Jensen ikke reagerer på Autogårdens henvendelse, ønsker Autogården, at sende Tina Jensen i fogedretten med henblik på tilbagetagelse af den solgte bil. 
+Af kreditkøbskontrakten fremgår det, at Tina Jensen skal tilbagebetale i alt kr. 75.000 til en årlig variabel rente på 13,95% med en ydelse på kr. 1.559, 00 pr. måned, der forfalder til betaling d. 1. i hver måned. Da Tina Jensen ikke reagerer på Autogårdens henvendelse, ønsker Autogården at sende Tina Jensen i fogedretten med henblik på tilbagetagelse af den solgte bil. 
 
 **Eksamensspørgsmålet 2.2 (5%)**
 
@@ -2069,7 +2069,7 @@ Karl køber sig en komplet garderobe hos butikken ”Når mænd er bedst”. Han
 
 Der står ikke nogen penge på hans konto, så det bliver et overtræk, men det tænker Karl jo dækkes ind, når gevinsten udbetales. 
 
-Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW forhandleren. 
+Karl føler også stor trang til at købe sig en passende bil – han tager derfor direkte fra ”Når mænd er bedst” til BMW-forhandleren. 
 
 Her forelsker han sig i en rigtig fin bil til 354.000,00 kr. 
 
@@ -2100,9 +2100,9 @@ Spm. 2: Har Karl ret til at få pengene retur? (5%)
 
 ---
 
-Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW forhandleren, at han ikke ser sig bundet af købsaftalen. 
+Karl mener ikke længere, at de forudsætninger han havde for at købe bilen er til stede, og han siger derfor til BMW-forhandleren, at han ikke ser sig bundet af købsaftalen. 
 
-BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
+BMW-forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort med alle de lækre tilkøb som Karl har bestilt.
 
 **Eksamensspørgsmålet:**
 
@@ -2110,14 +2110,14 @@ BMW forhandleren er ikke enig, specielt fordi bilen er ved at være klargjort me
 
 ---
 
-BMW forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
+BMW-forhandleren fastholder, at købsaftalen er bindende, men bliver nervøs for, hvorvidt Karl kan betale for bilen i det lange løb, men han tænker, at han er sikret af det ejendomsforbehold, som står som standard i købsaftalen.
 
 Karl har ikke nogen penge at betale bilen med.
 
 
 **Eksamensspørgsmålet:**
 
-4: Vil BMW forhandleren kunne søge sig fyldestgjort i bilen, på baggrund af det foretagne ejendomsforbehold? (16%)
+4: Vil BMW-forhandleren kunne søge sig fyldestgjort i bilen, på baggrund af det foretagne ejendomsforbehold? (16%)
 
 ---
 
@@ -2140,7 +2140,7 @@ Karls forældre indvilger i at kautionere for lånet, men Karl har bedt banken o
 
 Jens har i nogen tid haft svært ved at få omsat sine varer, og nu hvor han ikke ved, om og hvornår han får de 84.000 kr. for Karls indkøb af tøj, bliver han rigtig nervøs for, om en af leverandørerne, eller evt. banken, som har virksomhedspant til sikkerhed for en kassekredit, som på nuværende tidspunkt er trukket til 540.000,00 – 40.000,00 over det bevilgede maxbeløb, vil begære ham konkurs.
 
-I virksomheden, som drives fra lejede lokaler, er der aktiver i form af et varelaget til en samlet værdi af ca. 100.000 kr., inventar til en værdi af ca. 40.000 kr., It-udstyr for omtrent 10.000 kr. samt en varevogn. 
+I virksomheden, som drives fra lejede lokaler, er der aktiver i form af et varelager til en samlet værdi af ca. 100.000 kr., inventar til en værdi af ca. 40.000 kr., It-udstyr for omtrent 10.000 kr. samt en varevogn. 
 
 Specielt er Jens bekymret for, at en konkurs vil betyde, at den faste ejendom, som han ejer sammen med sin hustru, hvor han bor med sin familie og hvorfra hustruen driver sin frisørsalon, risikerer at blive solgt som følge af en konkurs.
 
@@ -2170,11 +2170,11 @@ Jens ejer også en motorcykel.
 
 ## Eksamensopgave 5 Janett Apollo
 
-Janett Apollo havde fornylig medvirket i realityserien Ultimativ Personlighedsdesign. 
+Janett Apollo havde fornyelig medvirket i realityserien Ultimativ Personlighedsdesign. 
 
 Her var hendes personlighed blevet omskabt, så hun nu fremstod som en smart ung international forretningskvinde. 
 
-Forretningen bestod i korthed af hende selv, og publikums interesse i også at følge hendes skæbne fremover, desuden skulle hun starte et agentur for andre realitystjerner. 
+Forretningen bestod i korthed af hende selv, og publikumsinteresse i også at følge hendes skæbne fremover, desuden skulle hun starte et agentur for andre realitystjerner. 
 
 Hun skal derfor etablere et selskab, og mødes med den flotte unge erhvervsrådgiver, 
 
@@ -2292,7 +2292,7 @@ Både Nordfinans og banken kræver dog at få sikkerhed i bilen.
 **Eksamensspørgsmålet:** 
  
 1.	(30%) 
-Redegør for hvordan henholdsvis Nordfinans og Banken kan opnå sikkerhed i bilen, herunder hvad de skal foretage sig i forbindelse med etablering af sikkerheden og tag endvidere stilling til hvilken finansiering af bilkøbet, der her er relevant for Joachim. 
+Redegør for hvordan henholdsvis Nordfinans og Banken kan opnå sikkerhed i bilen, herunder hvad de skal foretage sig i forbindelse med etablering af sikkerheden og tag desuden stilling til hvilken finansiering af bilkøbet, der her er relevant for Joachim. 
  
 Joachim kan fra sin undervisning i erhvervsjura huske noget om, at der ved indgåelse kreditaftaler er fortrydelsesret. 
 
@@ -2404,7 +2404,7 @@ Fædrene indvilligede i at kautionere den 1. september 2009. Annes far begrænse
  
 Rejsebureauet går rimeligt, men likviditetsbehovet stiger, og allerede den 1. oktober 2009, er det ikke længere muligt for Erik Knudsen at betale de aftalte renter og afdrag efterhånden som de forfalder. Pr. 1. januar 2010 er gælden på lånet nået helt op på 832.000,- kr.
  
-Da den islandske askesky i april 2010 vælter indover Danmark, går salget næsten helt i stå, hvorfor Erik Knudsen ser sig nødsaget til at lukke rejsebureauet. 
+Da den islandske askesky i april 2010 vælter ind over Danmark, går salget næsten helt i stå, hvorfor Erik Knudsen ser sig nødsaget til at lukke rejsebureauet. 
 
 Sparbank opsiger herefter lånet pr. 1. maj 2010, samt kræver at kautionisterne betaler i henhold til deres kautionsforpligtelser. På dette tidspunkt skyldes der 874.000,- kr. på lånet. 
 
@@ -2459,7 +2459,7 @@ Under boets behandling opstår der følgende spørgsmål:
 
 1). I hvilket omfang skal kurator Anders Andersen godkende revisor Søren Svendsens krav?
 
-2)	Af kontoudskriften vedrørende Knudsens Properties kassekredit fremgik, at der den 15. juli 2009 var overført 100.000 kr. til Dennis Knudsens hustru Anne Knudsen. Dennis Knudsen forklarede, at der var tale om en gave i anledning af deres 30 års bryllupsdag. 
+2)	Af kontoudskriften vedrørende Knudsens Properties kassekredit fremgik, at der den 15. juli 2009 var overført 100.000 kr. til Dennis Knudsens hustru Anne Knudsen. Dennis Knudsen forklarede, at der var tale om en gave i anledning af deres 30-års bryllupsdag. 
 
 3)	Videre fremgik det af bilag i bogholderiet, at en af Knudsens Properties leverandører, den 3. marts 2010 havde fået udleveret 5 nyere bærbare PC’ere, som betaling for byggematerialer leveret den 1. februar 2010.
 
@@ -2469,7 +2469,7 @@ Under boets behandling opstår der følgende spørgsmål:
 
 ---
 
-4)	Endelig fik kurator Anders Andersen, fredag den 11. juni 2010, opgjort Knudsens Properties samlede aktivmasse  til 2.300.000 kr. med følgende krav fra de usikrede kreditorer:
+4)	Endelig fik kurator Anders Andersen, fredag den 11. juni 2010, opgjort Knudsens Properties samlede aktivmasse til 2.300.000 kr. med følgende krav fra de usikrede kreditorer:
 
 a)	Leverandørerne har et samlet krav på 2.750.000 kr. Heraf har en vinleverandør et krav på 50.000 kr. for vinafgifter.
   

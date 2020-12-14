@@ -111,7 +111,7 @@ Samt **"lex posterior"**;	nyere lovbestemmelse går forud for ældre lovbestemme
 
 ---
 
-En vigtigt forståelse af, hvordan loven skal fortolkes er "formålsfortolkning", hvad er formålet med loven: på latin; **"ratio legis"**;	"lovens formål".
+En vigtig forståelse af, hvordan loven skal fortolkes er "formålsfortolkning", hvad er formålet med loven: på latin; **"ratio legis"**;	"lovens formål".
 
 ---
 
@@ -143,7 +143,7 @@ Et cirkulære kan ikke forpligte borgerne, og disse kan normalt heller ikke retl
 
 --- 
 
-### Dommenes retskildeværdi ("præjudikatsværdi")
+### Dommenes retsskildeværdi ("præjudikatsværdi")
 
 ![](img/dom1.png)
 
@@ -169,7 +169,7 @@ Højesteretsdomme har generelt større præjudikatsværdi end landsretsdomme, de
 
 ---
 
-Endvidere har nye domme større præjudikatsværdi end ældre domme. 
+Desuden har nye domme større præjudikatsværdi end ældre domme. 
 
 Dommes præjudikatsværdi begrænses, når deres begrundelser gøres meget konkrete.
 
@@ -188,7 +188,7 @@ Eksempler herpå er god advokatskik, god ejendomsmæglerskik, god skik for de fi
 
 God skik regler findes i begrænset omfang på lov- eller bekendtgørelsesniveau (eksempel herpå er bekendtgørelse om god skik for finansielle virksomheder), mens normerne for god skik i andre tilfælde er fastsat af domstolene mv. 
 
-God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidsvarende standardnorm, der udvikles i takt med samfundsudviklingen.
+God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidssvarende standardnorm, der udvikles i takt med samfundsudviklingen.
 
 ![](img/god.jpg)
 
@@ -225,7 +225,7 @@ Den traditionelle opfattelse er, at det være en handlemåde, der er
 
 Kutyme er defineret ved at være en sædvane. 
 
-Den har ikke samme retskildeværdi som retssædvane, da retssædvane svarer til lovniveau. Kutyme må derfor betragtes som trin-lavere. 
+Den har ikke samme retsskildeværdi som retssædvane, da retssædvane svarer til lovniveau. Kutyme må derfor betragtes som trin-lavere. 
 
 Kutyme er en alment kendt handlemåde i en bestemt branche, hvilket aktørerne i den pågældende branche har eller bør have viden om. 
 
@@ -257,7 +257,7 @@ Præceptive regler er kendetegnet ved, at de ikke kan fraviges ved aftale. Aftal
 
 ---
 
-Eksempelvis kan man ikke håndhæve en aftale om sort arbejde. 
+Fx kan man ikke håndhæve en aftale om sort arbejde. 
 
 Beskyttelsespræceptive er kendetegnet ved, at de efter aftale kan stille den svage part bedre end loven (fx en arbejdstager), men hvor denne ret ikke tilkommer den stærke part (fx en arbejdsgiver). 
 
@@ -288,7 +288,7 @@ Se fra romerretten: **"ex æquo et bono"**	efter ret og billighed (rimelighed).
 
 **"jus romanum"** er den ret, der gjaldt i Romerriget. Denne ret har spillet en afgørende rolle for den europæiske retsudvikling og er en meget vigtig del af kulturarven fra antikken. ^[Følgende afsnit om romerretten bygger især på *Mathias Hein Jessen* https://videnskab.dk/kultur-samfund/du-kan-takke-romerriget-du-skal-folge-loven.] 
 
-Romerretten har leveret afgørende begreber og kategorier om eksempelvis magt, jurisdiktion og ejendom til politisk tænkning og har været en meget afgørende del af den måde, vi tænker politik, stat, suverænitet, magt og ejendom på her i Vesten.
+Romerretten har leveret afgørende begreber og kategorier om fx magt, jurisdiktion og ejendom til politisk tænkning og har været en meget afgørende del af den måde, vi tænker politik, stat, suverænitet, magt og ejendom på her i Vesten.
 
 ---
 
@@ -386,7 +386,7 @@ Et eksempel er EU's direktiv om forbrugerrettigheder, som styrker forbrugernes r
 
 En **"afgørelse"** er bindende for dem, den er rettet til (fx et EU-land eller en individuel virksomhed) og er direkte gældende. 
 
-fx har Kommissionen udstedt en afgørelse om EU's deltagelse i forskelige antiterrororganisationers arbejde. Afgørelsen vedrører kun sådanne organisationer.
+fx har Kommissionen udstedt en afgørelse om EU's deltagelse i forskellige antiterrororganisationers arbejde. Afgørelsen vedrører kun sådanne organisationer.
 
 ---
 

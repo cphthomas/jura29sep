@@ -158,7 +158,7 @@ Kravet om, at der skal foreligge en skriftlig erklæring, indebærer, at der ska
 
 ---
 
-Det kræves endvidere, at erklæringen er dispositiv, hvilket indebærer, at der efter almindelige regler skal foreligge et løfte. 
+Det kræves desuden, at erklæringen er dispositiv, hvilket indebærer, at der efter almindelige regler skal foreligge et løfte. 
 
 For at være et gældsbrev skal erklæringen gå ud på at forpligte underskriveren. 
 
@@ -170,7 +170,7 @@ Som hovedregel må erklæringen være forsynet med udstederens (eller dennes ful
 
 ---
 
-Dette krav fraviges, hvor det er sædvanligt, at dokumentet ikke underskrives, f.eks. ved rente- og udbyttekuponer. 
+Dette krav fraviges, hvor det er sædvanligt, at dokumentet ikke underskrives, fx ved rente- og udbyttekuponer. 
 
 I øvrigt kan underskriften være stemplet eller trykt.
 
@@ -190,7 +190,7 @@ Da erklæringen skal være selvstændig foreligger der dog ikke et gældsbrev, h
 
 ---
 
-Kravet om, at erklæringen skal være ensidig, indebærer at f.eks. en købekontrakt ikke er et gældsbrev: 
+Kravet om, at erklæringen skal være ensidig, indebærer at fx en købekontrakt ikke er et gældsbrev: 
 
 Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers side.
 
@@ -217,7 +217,7 @@ Det er uden betydning, om beløbet er angivet i dansk eller fremmed valuta, elle
 
 eller om det er pristalsreguleret.
 
-Hvis flere landes møntenhed har samme betegnelse, f.eks. kroner, men gældsbrevet ved sin angivelse af skyldens størrelse ikke har bestemt, hvilket lands mønt, der er tænkt på, antages det, at der skal betales i betalingsstedets mønt, jf. dommen i **U 1962.294 H**.
+Hvis flere landes møntenhed, har samme betegnelse, fx kroner, men gældsbrevet ved sin angivelse af skyldens størrelse ikke har bestemt, hvilket lands mønt, der er tænkt på, antages det, at der skal betales i betalingsstedets mønt, jf. dommen i **U 1962.294 H**.
 **<a href="https://pro.karnovgroup.dk/document/7000217947/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -261,7 +261,7 @@ Spørgsmålet om der foreligger en overdragelsessituation eller en udstedelsessi
 
 ---
 
-Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reelt være tale om en udstedelsessituation, således at D ikke mister eventuelle indsigelser over for K2.
+Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reelt være tale om en udstedelsessituation, så D ikke mister eventuelle indsigelser over for K2.
 
 ---
 
@@ -467,7 +467,7 @@ mydf <- data.frame(
          "Misbrug hvor kortet og 
           pinkoden er brugt. ",
          "Hæftelse hvis kortet og 
-      den pinkoden er brugt. Kunden har som minimum har handlet simpelt uagtsomt. ",
+      den pinkode er brugt. Kunden har som minimum har handlet simpelt uagtsomt. ",
          "Misbrug af kortet, hvor pinkoden har været anvendt samt et af følgende:<br>1. Kunden har ikke oplyst at kortet er mistet<br>
           2. Kunden selv har givet en anden kortet<br>
           3. Kunden har udvist en grov uforsvarlig adfærd",
@@ -552,7 +552,7 @@ Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af
 
 ---
 
-Om uagtsomhed ved brugen af "Nemid":
+Om uagtsomhed ved brugen af "NemId":
 
 Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån optaget af en anden ved misbrug af kvindens NemID.
 **<a href="https://pro.karnovgroup.dk/document/7000838249/1">Dommen klik her!</a>**
@@ -896,7 +896,7 @@ Der findes herefter regler om omsætningsgældsbreve to steder i lovgivningen.
 
 *1*. Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene »ikke til ordre« eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 
-*2*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
+*2*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42c. Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 
 *3*. Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i andele i andelsboligforeninger som nævnt i TL § 42i, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet. 
 
@@ -977,7 +977,7 @@ Det vil sige, at man ved udlæg i disse omsætningsgældsbreve efter RPL § 523,
 
 Et udlæg i fordringer, herunder omsætningsgældsbreve, er beskyttet over for andre retsforfølgende kreditorer straks fra dets foretagelse. 
 
-Udlægshaver skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer. Se RPL § 526, stk. 1 og 2.  
+Udlægshavere skal derfor ikke foretage nogen særlig sikringsakt i forhold til andre kreditorer. Se RPL § 526, stk. 1 og 2.  
 
 ---
 
@@ -1042,7 +1042,7 @@ Samme bestemmelse gælder også "bilbogen" (TL § 42g, stk. 3, 1. pkt.), **"ande
 
 ---
 
-For at udlægshaver kan blive legitimeret over for gældsbrevsdebitor, skal han derfor have gældsbrevet i hænde og for de tinglyste digitale pantebreves vedkommende have tinglyst sin ret. 
+For at udlægshavere kan blive legitimeret over for gældsbrevsdebitor, skal han derfor have gældsbrevet i hænde og for de tinglyste digitale pantebreves vedkommende have tinglyst sin ret. 
 
 Se RPL § 523, stk. 2 og TL § 27a. Reglen gælder også bilbogen, andelsboligbogen og personbogen.  
 
@@ -1094,7 +1094,7 @@ Handlingen skal altså til for, at man ikke mister sin ret til det aktiv, som fx
 
 ---
 
-Det er typen af aktiv, der er afgørende for hvilken sikringsakt, der skal foretages. Hvis der f.eks. er tale om udlæg i livsforsikringspoler, skal der ske påtegning på policen.
+Det er typen af aktiv, der er afgørende for hvilken sikringsakt, der skal foretages. Hvis der fx er tale om udlæg i livsforsikringspoler, skal der ske påtegning på policen.
 
 ---
 
@@ -1157,7 +1157,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 ---
 
-**"Vindikation"** er tilbagesøgning af ting, som en anden uretmæssigt besidder - fx udlevering til ejermanden af en stjålen cykel. Kan ske, selv om besidderen har købt tingen i god tro.
+**"Vindikation"** er tilbagesøgning af ting, som en anden uretmæssig besidder - fx udlevering til ejermanden af en stjålen cykel. Kan ske, selv om besidderen har købt tingen i god tro.
 
 ---
 
@@ -1267,7 +1267,7 @@ Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mi
 ### Forholdet mellem overdrager og erhverver
 
 
-Hvis kreditor overdrager fordringen på debitor til en erhverver bliver det juridisk karakteriseret som et "efterfølgende trepartsforhold”: 
+Hvis kreditor overdrager fordringen på debitor til en erhverver, bliver det juridisk karakteriseret som et "efterfølgende trepartsforhold”: 
 
 ---
  
@@ -1404,7 +1404,7 @@ For det andet kan overdrageren kræves, hvis dette følger af aftalen med erhver
 
 ---
 
-Er der eksempelvis aftalt **"skadesløs transport"**, hæfter overdrageren som simpel kautionist over for erhververen for fordringen.
+Er der fx aftalt **"skadesløs transport"**, hæfter overdrageren som simpel kautionist over for erhververen for fordringen.
 
 Se begrebet **"skadesløs transport"**; overdragelse af en fordring, hvor overdrageren indestår som simpel kautionist for, at skyldneren betaler, jf. GBL § 10 (nomen esse bonum).
 
@@ -1457,7 +1457,7 @@ Skyldner kan gøre alle indsigelser gældende over for kreditor – men ikke, n�
 
 **Konflikter mellem senere erhververe (C-D):**
 
-Når en fordring overdrages flere gange kan der opstå konflikter mellem de forskellige erhververe 
+Når en fordring overdrages flere gange, kan der opstå konflikter mellem de forskellige erhververe 
 
 ---
 
@@ -1487,7 +1487,7 @@ Løsningen afhænger af, hvilken type krav der er tale om, se nedenfor
 
 *  Omsætningspantebreve.
 
-Gældsbreve, der ikke er omsætningsgældsbreve er simple gældsbreve.  
+Gældsbreve, der ikke er omsætningsgældsbreve, er simple gældsbreve.  
 
 ---  
  
@@ -1700,7 +1700,7 @@ edges <- data.frame(from = c(1,2,3,1,1), to = c(2,3,4,3,4),
 ```
 
 
-Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at undgå, at skylderens byrde øges ved overdragelse. 
+Grundlæggende er formålet med reglerne om overdragelse af simple fordringer at undgå, at skyldnerens byrde øges ved overdragelse. 
 
 Dette har særligt fundet udtryk i GBL § 27, hvorefter skyldnerens indsigelser mod at være helt eller delvis forpligtet over for kreditor, også kan gøres gældende over for en senere erhverver af fordringen.
 
@@ -1714,7 +1714,7 @@ Overdragelse kan være afskåret eller begrænset ved aftale mellem skyldneren o
 
 Når skyldneren har betalt til erhververen, består der ikke længere nogen fordring, som der kan gøres indsigelse imod. 
 
-Opdager skyldneren eksempelvis efter betaling, at skyldneren kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27.
+Opdager skyldneren fx efter betaling, at skyldneren kan gøre misligholdelsesbeføjelser gældende i anledning af kontraktsforholdet med overdrageren, kan sådanne misligholdelsesbeføjelser ikke som et pengekrav rettes mod erhververen efter GBL § 27.
 
 ---
 
@@ -1803,11 +1803,11 @@ edges <- data.frame(from = c(1,2,2), to = c(2,3,4),
 
 ---
 
-**HR:** Først i tid bedst i ret (uskreven hoveregel i dansk ret).
+**HR:** Først i tid bedst i ret (uskreven hovedregel i dansk ret).
 
 **U1**: En erhverver ifølge aftale kan vinde over en anden aftaleerhververs ret ved at foretage sikringsakt først i god tro.  
 
-**U2**: Udlæg får førsteret, når det er foretaget før aftaleerhververens meddelelse er kommet frem.  
+**U2**: Udlæg får førsteret, når det er foretaget før aftaleerhververens meddelelse, er kommet frem.  
 
 **U3**: Et udlæg i fordringen er beskyttet mod andre kreditorer og aftaleerhververe i et år fra udlæg er foretaget.
 
@@ -1906,7 +1906,7 @@ edges <- data.frame(from = c(1,1), to = c(2,3),
 
 
 
-### Udlæg i en simple gældsbrev eller den simple fordring 
+### Udlæg i et simple gældsbrev eller den simple fordring 
 
 Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument, bør fogeden tage dokumentet i forvaring, jf. RPL (retsplejeloven) § 523, stk. 2. 
 
@@ -2075,7 +2075,7 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
   
 +	Erhverver er i god tro om indsigelsen.
   
-+	Den gode tro er tilstede på det tidspunkt gældsbrevet bliver overdraget fysisk.
++	Den gode tro er til stede på det tidspunkt gældsbrevet bliver overdraget fysisk.
   
 * Skyldner bevarer stærke indsigelser også overfor en erhverver i god tro, jf. GBL § 17:
 
@@ -2294,7 +2294,7 @@ Reglen i GBL § 14, stk. 1 gælder, uanset af hvilken grund gældsbrevet er komm
 
 ---
 
-Det kan eksempelvis tænkes, at gældsbrevet er blevet stjålet fra ejeren og forsynet med en falsk transportpåtegning, hvorefter det er bragt i omsætning.  
+Det kan fx tænkes, at gældsbrevet er blevet stjålet fra ejeren og forsynet med en falsk transportpåtegning, hvorefter det er bragt i omsætning.  
 
 ---
 
@@ -2330,9 +2330,9 @@ GBL § 14 må dog forstås således, at det er tilstrækkeligt, at gældsbrevet 
 
 Dette er i GBL § 14 udtrykt således, at erhververen vinder ret, medmindre erhververen vidste, at overdrageren manglede ret til at råde over gældsbrevet, eller erhververen ikke har udvist den agtpågivenhed, som forholdene krævede. 
 
-I almindelighed kan det forlanges, at erhververen foretager en undersøgelse af selve gældsbrevet. 
+I almindelighed kan det forlanges, at erhververen undersøger selve gældsbrevet. 
 
-Den, der vil bestride erhververens ret, må bevise, at erhververen ikke har udvist den fornødne agtpågivenhed.  
+Den, der vil bestride erhververens ret, må bevise, at erhververen ikke har udvist den nødvendige agtpågivenhed.  
 
 ---
 
@@ -2346,7 +2346,7 @@ Ved andre omsætningsgældsbreve skal overdrageren ifølge GBL § 14, stk. 2, v�
 
 GBL § 14, stk. 2:
 
-"Ved andre omsætningsgældsbreve  gælder det samme, dersom overdragelsen er foretaget af den, som efter § 13 formodes at have ret til at gøre fordringen gældende, eller af nogen, som med grund antoges at være identisk med ham eller at have fuldmagt til at overdrage for ham. Støtter overdrageren sin ret på tidligere overdragelser, behøver erhververen ikke at prøve deres ægthed eller gyldighed, medmindre omstændighederne giver grund dertil".
+"Ved andre omsætningsgældsbreve gælder det samme, dersom overdragelsen er foretaget af den, som efter § 13 formodes at have ret til at gøre fordringen gældende, eller af nogen, som med grund antoges at være identisk med ham eller at have fuldmagt til at overdrage for ham. Støtter overdrageren sin ret på tidligere overdragelser, behøver erhververen ikke at prøve deres ægthed eller gyldighed, medmindre omstændighederne giver grund dertil".
 
 ---
 
@@ -2417,7 +2417,7 @@ Ved **tinglyste digitale simple gældsbreve** forstås dels pantebreve, der give
 
 Klausulen medfører, at dokumentet er unegotiabelt og efter reglerne om simple gældsbreve ikke kan overdrages. 
 
-Endvidere er simple pantebreve dels tinglyste digitale pantebreve,  
+Desuden er simple pantebreve dels tinglyste digitale pantebreve,  
 
 *  der giver pant i motorkøretøjer,
 *  andele i andelsboligforeninger og 
@@ -2439,7 +2439,7 @@ Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havd
 
 ---
 
-Når erhverver har foretaget sin sikringsakt (tinglysning), kan skyldner betale med frigørende virkning til den nu tinglyste erhverver, således at gælden nedskrives eller forsvinder.
+Når erhverver har foretaget sin sikringsakt (tinglysning), kan skyldner betale med frigørende virkning til den nu tinglyste erhverver, så gælden nedskrives eller forsvinder.
 
 Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden.
 
@@ -2546,7 +2546,7 @@ En aftaleerhverver skal være i god tro på tinglysningstidspunktet, jf. TL § 5
 
 Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejendom, er negotiabelt, medmindre der i pantebrevet er indføjet ordene "ikke til ordre" eller tilsvarende forbehold, jf. TL § 27, stk. 2.
 
-Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. 
+Et tinglyst pantebrev, herunder et ejerpantebrev, der giver pant i motorkøretøjer, er ikke negotiabelt, medmindre dette klart fremgår af pantebrevet, jf. TL § 42 c. 
 
 Skadesløsbreve er ikke negotiable pantebreve, jf. TL § 42g, stk. 3, 2. og 3. pkt.  
 
@@ -2645,7 +2645,7 @@ Som ved omsætningsgældsbreve, jf. TL § 27 a.
 
 +	Erhverver er i god tro om indsigelsen.
 
-+	Den gode tro er tilstede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5.
++	Den gode tro er til stede på det tidspunktet hvor erhverver får tinglyst sin ret, jf. nærmere TL § 5.
 
 +	Overdragelsen til erhverver er fra den person, der havde ret til at disponere ifølge tingbogen.
 
@@ -2752,7 +2752,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 - Pantebreve, der giver pant i biler, løsøre, fordringer og lignende, er simple gældsbreve. 
 
-- Reglerne, bortset fra § 31, finder tillige anvendelse på tingslyste digitale simple gældsbreve, jf. GBL § 26, stk. 2.
+- Reglerne, bortset fra § 31, finder tillige anvendelse på tinglyste digitale simple gældsbreve, jf. GBL § 26, stk. 2.
 
 ---
 
@@ -2784,7 +2784,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 **3.1.1 Simple gældsbreve**
 
-- Ved pant og overdragelse til eje er sikringsakten denuntiation til debitor, jf.GBL § 31.
+- Ved pant og overdragelse til eje er sikringsakten denuntiation til debitor, jf. GBL § 31.
 
 - Tinglyste digitale simple gældsbreve, jf. GBL § 26, stk. 2 – skal overdragelse tingslyses. 
 
@@ -2799,7 +2799,7 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
 
 - Ved fordringspant kan indehaveren af en erhvervsvirksomhed ved skadesløsbrev underpantsætte virksomhedens udestående og fremtidige simple fordringer hidrørende fra salg af varer og tjenesteydelser, jf. TL § 47d, stk. 1-2. (I personbogen, jf. TL § 43a).
 
-- Der kan på intet tidspunkt være tingslyst både virksomhedspant og fordringspant, jf. TL § 47e, stk. 2. 
+- Der kan på intet tidspunkt være tinglyst både virksomhedspant og fordringspant, jf. TL § 47e, stk. 2. 
 
 - Fordringspant kan ikke stilles til fordel for skyldnerens eller pantsætterens nærstående (KL § 2), jf. TL § 47e, stk. 1. 
 
@@ -2843,7 +2843,7 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 
 **Pant for samtidig stiftet gæld**
 
-- Pant for samtidig stiftet gæld omstødes kun, såfremt sikringsakten er foretaget senere end 3 måneder før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning ( indenfor et par dage), jf. KL § 70. 
+- Pant for samtidig stiftet gæld omstødes kun, såfremt sikringsakten er foretaget senere end 3 måneder før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning (indenfor et par dage), jf. KL § 70. 
 
 ---
 
@@ -2950,7 +2950,7 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 
 **4.5. Trepartsforhold ved forbrugerkredit**
 
-- Det kaldes et trepartsforhold, når købet finansieres af tredjemand, dog ikke når køberen selv skaffer sig kreditten (f.eks. ved lån i egen bank).
+- Det kaldes et trepartsforhold, når købet finansieres af tredjemand, dog ikke når køberen selv skaffer sig kreditten (fx ved lån i egen bank).
 
 ---
 
@@ -2966,14 +2966,14 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 
 - Ved kreditaftaler med henblik på opnåelse af en tjenesteydelse finder bestemmelsen i stk. 3 tilsvarende anvendelse, når vederlaget for tjenesteydelsen dækkes helt eller delvis ved lån indrømmet forbrugeren af en tredjemand på grundlag af en aftale herom mellem denne og leverandøren af tjenesteydelsen - jf. KAL § 33 stk. 4. 
 
-- Har Kreditgiveren fået pant i fast ejendom gælder reglerne i KAL § 33, stk. 2-4 kun i det omfang, andet ikke følger af reglerne om tinglyste pantebreve i fast ejendom - jf. KAL KAL § 33 stk. 5.
+- Har Kreditgiveren fået pant i fast ejendom gælder reglerne i KAL § 33, stk. 2-4 kun i det omfang, andet ikke følger af reglerne om tinglyste pantebreve i fast ejendom - jf. KAL § 33 stk. 5.
 
 ---
 
 
 **5. Mellem en overdrager og en erhverver**
 
-- Overdrageren indestår for fordringens beståen, (f.eks. at denne er ugyldig eller betalt) - GBL § 9.
+- Overdrageren indestår for fordringens beståen, (fx at denne er ugyldig eller betalt) - GBL § 9.
 
 - Overdrageren indestår ikke for debitors betalingsevne - jf. GBL § 10. 
 
@@ -3052,7 +3052,7 @@ Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 
 
 1.	Kreditor efter den ene fordring skal være debitor efter den anden fordring (gensidighed). 
 
-2.	Fordringerne skal være udjævnelige (komputabilitet). Dvs., at ydelsen efter den ene fordring umiddelbart kan anvendes til opfyldelse af hovedfordringen (f.eks. penge mod penge, men ikke pære mod æbler). 
+2.	Fordringerne skal være udjævnelige (komputabilitet). Dvs., at ydelsen efter den ene fordring umiddelbart kan anvendes til opfyldelse af hovedfordringen (fx penge mod penge, men ikke pære mod æbler). 
 
 3.	Hovedfordringens frigørelsestid skal være kommet, dvs. debitor i henhold til denne skal være forpligtet til at betale fordringen (afviklingsmoden).
 

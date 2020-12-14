@@ -21,6 +21,10 @@ Der er en del af god skik for finansielle virksomheder, jf. lov om finansiel vir
 
 ---
 
+Aftaleloven bruges også i vidt omfang i faget Privatøkonomisk Rådgivning.
+
+---
+
 <h4><a href="https://www.youtube.com/embed/QdPllNiV5Ck" target="_blank">Video om en introduktion til aftaleretten</a></h4>
 
 ---
@@ -73,12 +77,12 @@ Aftalelovens principper har betydning på hele aftaleområdet,^[Følgene bygger 
 ---
 
 
-```{r aftalelov,echo=FALSE,fig.height=4, result=TRUE,fig.cap=("Oversigt over aftalelove")}
+```{r aftalelov,echo=FALSE,fig.height=4, result=TRUE,fig.cap=("Oversigt over aftaleloven")}
 
 
 nodes <- data.frame(id = 1:7, 
                     shape = c("box"), 
-                    label = c(" Aftalelov "," Forsikringsaftalelov "," Kreditaftalelov "," Forbrugeraftalelov "," Aftale om pant "," Købelov "," Kautionsaftale "),
+                    label = c(" Aftaleloven "," Indgåelse af forsikringsaftaler "," Indgåelse af kreditaftaler "," Forbrugeraftaler "," Aftaler om pant "," Aftaler om køb "," Aftaler om kautionsformer "),
                     font.size = c(50,25,25,25,25,25,25))
 edges <- data.frame(from = c(1,1,1,1,1,1), to = c(2,3,4,5,6,7),arrows = c("to"),length = rep(40,6))
 
@@ -105,7 +109,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 **Undtagelse**
 
-**(U1):** Begrænsninger i præceptive lovregler. 
+**(U1):** Begrænsninger i præceptive (ufravigelige) lovregler. 
 
 ---
 
@@ -121,13 +125,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 ---
 
-Fx et løfte om at ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fartbøder eller, at retssystemet skulle håndhæve mangler ved håndværksydelser i forbindelse med udførelsen af sort arbejde.
+**Hvad er et løfte**
+
+Et løfte er fx, at man ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fartbøder eller, at retssystemet skulle håndhæve mangler ved håndværksydelser i forbindelse med udførelsen af sort arbejde.
 
 ---
 
-Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter. 
-
-Fx er en aftale om køb af drikkevarer uden for den tilladte åbningstid bindende trods lovovertrædelsen.
+Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter, fx i lov om finansielle virksomhed, jf. § 43 om god skik for finansielle virksomheder, men det kan være en medvirkende årsag til, at aftalen bliver ugyldig eller kan tilsidesættes efter aftalelovens § 36, som værende urimelig. 
 
 ---
 
@@ -150,11 +154,13 @@ Mundtlige aftaler	er principielt bindende, men kan meget ofte ikke bevises, jf. 
 
 ---
 
-Mundtlige aftaler er således lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis **aftalelovens § 3, stk. 2**, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
+Mundtlige aftaler er lige så bindende som skriftlige, jf. Danske Lov, DL 5–1–1 og forudsætningsvis **aftalelovens § 3, stk. 2**, som fastslår, at tilbud, der fremsættes mundtligt skal accepteres straks.
 
 De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
 
 Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
+
+En mundtlig aftale kan bevises over for en dommer, hvor man er underlagt, vidne- og partsafhøring under strafansvar.
 
 ---
 
@@ -169,7 +175,7 @@ Udtrykkeligt løfte ctr. stiltiende løfte.
 
 **En aftale kan også være mundtlig.** 
 
-En kontrakt er skriftlig og underskrevet af aftalepartnerne og kan således påberåbes (håndhæves) ved domstolene.  
+En kontrakt er skriftlig og underskrevet af aftalepartnerne og kan så påberåbes (håndhæves) ved domstolene.  
 
 ![](img/ret2.jpg)
 
@@ -261,10 +267,10 @@ Tilbudsmodtager (boligsælgeren): Den, som modtager et tilbud.
 
 ---
 
-**Hvad er et løfte?**
+**Hvad er et løfte**
 
 
-Et **"løfte"**: En ensidig erklæring fra en person om at ville påtage sig en pligt, fx en kautionist vil påtage sig pengeforpligtelsen, hvis deitor ikke kan betale til banken. 
+Et **"løfte"**: En ensidig erklæring fra en person om at ville påtage sig en pligt, fx en kautionist vil påtage sig pengeforpligtelsen, hvis debitor ikke kan betale til banken. 
 
 Løftet skaber en forventning hos modtager. 
 
@@ -282,7 +288,7 @@ Positiv opfyldelsesinteresse	er en erstatning, der stiller den anden part, som o
 
 ---
 
-**Hvad er et tilbud?**
+**Hvad er et tilbud**
 
 
 **"Tilbud"**: Et tilbud er et løfte, som taber sin virkning, hvis det ikke accepteres i rette tid. 
@@ -293,25 +299,25 @@ Fx debitors **"løfte"** til banken om at ville betale 1.000 kr. af på lånet h
 
 ---
 
-**Hvad er en accept?**
+**Hvad er en accept**
 
 **"Accept":** En erklæring, som har karakter af antagende svar på tilbud. 
 
 ---
 
-**Hvad er et svar?**
+**Hvad er et svar**
 
 Et **"svar"**, hvori man siger ja til et tilbud. 
 
 ---
 
-**Hvad er accepten?**
+**Hvad er accepten**
 
 **"Accepten"** er både et løfte, der binder acceptanten, når modtageren har hørt/læst accepten (kundskabsøjeblikket), og det er samtidig et påbud der binder modtageren, når det er kommet frem, dvs. når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst. 
 
 ---
 
-**Hvad menes der med, at det er kommet frem?**
+**Hvad menes der med, at det er kommet frem**
 
 **"Kommet frem":** Når et svar (tilbud eller accept) er modtaget i modtagerens brevkasse, indbakke eller lignende, men indholdet er endnu ikke læst.
 
@@ -319,7 +325,7 @@ Et brev er kommet frem, når det er kommet så vidt, at modtageren kan gøre sig
 
 ---
 
-**Hvårnår er det kommet til kundskab?**
+**Hvornår er det kommet til kundskab**
 
 **"Kommet til kundskab":** Det øjeblik, modtageren er blevet bekendt med indholdet af tilbud eller accept, dvs. har hørt eller læst indholdet. Fx åbner en mail.
 
@@ -329,7 +335,7 @@ Der er ikke noget krav om, at modtageren skal have forstået indholdet.
 
 **Opfordring til at gøre tilbud**: er en ikke-bindende henvendelse til andre om at give tilbud.
 
-Hvis en erhvervsdrivende i overensstemmelse med aftalelovens § 9 vil fravige det almindelige aftaleretlige udgangspunkt om, at tilbud i en internet butik er bindende, skal det fremgå meget tydeligt af siden, at tilbuddene på hjemmesiden alene er ”en opfordring til at give et tilbud”, og at der ikke er indgået en bindende aftale, før sælgeren har accepteret køberens tilbud.
+Hvis en erhvervsdrivende i overensstemmelse med aftalelovens § 9 vil fravige det almindelige aftaleretlige udgangspunkt om, at tilbud i en internetbutik er bindende, skal det fremgå meget tydeligt af siden, at tilbuddene på hjemmesiden alene er ”en opfordring til at give et tilbud”, og at der ikke er indgået en bindende aftale, før sælgeren har accepteret køberens tilbud.
 
 ---
 
@@ -452,13 +458,13 @@ Tilbuddet må ikke være tilbagekaldt helt eller delvist (ændret).
 
 ---
 
-Tilbuddet kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7, se senere.
+Tilbuddet kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7, se senere.
 
 Hvis tilbuddet afslås af tilbudsmodtager, bortfalder tilbuddet og kan ikke accepteres senere, jf. aftalelovens § 5.
 
 ---
 
-Afslaget kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7.
+Afslaget kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom, jf. aftalelovens § 7.
 
 ---
 
@@ -663,7 +669,7 @@ Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens 
 
 2.	Årsagen til, at tilbagekaldelsen er kommet for sent frem, skyldes særlige omstændigheder.
 
-Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal således noget særligt til.
+Re integra-reglen kan ikke påberåbes, bare fordi man har fortrudt. Der skal så noget særligt til.
 
 ---
 
@@ -690,7 +696,7 @@ Se dommen i **U 1989.561 H ** En annullation af en slutseddel, der var underskre
 
 ---
 
-Uoverensstemmende accept i forhold til tilbuddet:
+**Uoverensstemmende accept i forhold til tilbuddet:**
 
 Accepten skal være i overensstemmelse med tilbuddet – som et spejlbillede, jf. aftalelovens § 6:
 
@@ -758,11 +764,7 @@ Bord og stol afviser reklamationen, da der står på bagsiden af fakturaen, at d
 
 1.	Redegør for om Parkhotellet har krav på at få møblerne til 11.995 kr. 
 
-
- 
 2.	Redegør for om Strand Hotellet har krav på at få møblerne til 11.995 kr. 
-
-
 
 3.	Redegør for hvilke rettigheder Hotel Golf har i forhold til de løse stolerygge.
 
@@ -779,9 +781,9 @@ I Køge driver Lars Ravn hundekennelen Vax Pedigree, som han i 2010 har købt sa
 
 Et halvt år tidligere har Lars købt hunhunden Rita af racen Akita, som skal indgå i avlen. 
 
-Hunden stammer fra kennlen Trofast, og Lars har studeret dens stamtavle grundigt for bl.a. at sikre sig, at hunden som ønsket, bringer nyt blod til Vax Pedigree. 
+Hunden stammer fra kennelen Trofast, og Lars har studeret dens stamtavle grundigt for bl.a. at sikre sig, at hunden som ønsket, bringer nyt blod til Vax Pedigree. 
 
-Det er derfor en stor overraskelse da det viser sig at Ritas første kuld hvalpe udviser klare træk, som ikke er i overensstemmelse med racen, og at Rita tydeligvis ikke er en ren Atika, og at Kennlen Trofast har fusket med stamtavlen.
+Det er derfor en stor overraskelse da det viser sig at Ritas første kuld hvalpe udviser klare træk, som ikke er i overensstemmelse med racen, og at Rita tydeligvis ikke er en ren Atika, og at Kennelen Trofast har fusket med stamtavlen.
 
 Lars mener ikke at det kan være rigtigt og kræver overfor Trofast, at handlen er ugyldig og skal gå tilbage, samt erstatning for de omkostninger han har haft på den "uduelige hund", som han udtrykker det.
 
@@ -795,7 +797,7 @@ Lars har store planer om at lancere en ny type hundekiks efter egen opskrift, og
 
 Lars er meget i tvivl om hele projektet og skyder det hele fra sig i nogle uger, inden han finder modet til at overveje tilbuddet, og svarer med en ordre på 600 poser om måneden i fire måneder.
 
-Da han ikke hører noget tilbage fra producenten, ringer han til deres salgschef, som fortælle ham, at der ikke er indgået nogen aftale.
+Da han ikke hører noget tilbage fra producenten, ringer han til deres salgschef, som fortæller ham, at der ikke er indgået nogen aftale.
 
 **Eksamensspørgsmålet:**
 
@@ -803,7 +805,7 @@ Da han ikke hører noget tilbage fra producenten, ringer han til deres salgschef
 
 ---
 
-Vax Pedigree har fornylig åbnet en web butik med forskellige produkter til hunde. Det har hidtil kørt uden problemer, men da en kunde fortryder et køb af en snackbold, kommer han i tvivl om reglerne. Kunden henviser til forbrugeraftaleloven og mener ikke at hun skal betale for at returnere varen. Lars mener at huske, at det forholder sig omvendt.
+Vax Pedigree har fornyelig åbnet en web butik med forskellige produkter til hunde. Det har hidtil kørt uden problemer, men da en kunde fortryder et køb af en snackbold, kommer han i tvivl om reglerne. Kunden henviser til forbrugeraftaleloven og mener ikke at hun skal betale for at returnere varen. Lars mener at huske, at det forholder sig omvendt.
 
 **Eksamensspørgsmålet:**
 
@@ -871,9 +873,9 @@ Det er uden betydning, om modtageren rent faktisk læser e-mailen.
 
 Den er **”kommet til kundskab”** - når e-mailen åbnes og læses. 
 
-Det er uden betydning, om modtageren rent faktisk forstå indholdet, fx indholdet i en tilstandsrapport.
+Det er uden betydning, om modtageren rent faktisk forstå indholdet, fx indholdet i en tilstandsrapport ved en bygningsgennemgang af en bygningssagkyndig.
 
-Aftalelovens § 40 om, at ”give meddelelse” omfatter også e-mails.
+Aftalelovens § 40 om, at **”give meddelelse”** omfatter også e-mails.
 
 ---
 
@@ -902,7 +904,7 @@ Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
 **Habilitetsmangler** – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. 
 
-Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
+Hvis man har habilitet, har man evne til at foretage retsgyldige handlinger.
 
 ---
 
@@ -935,7 +937,7 @@ Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-**Forfalskning**; rettet i gyldig dokument.
+**Forfalskning**; rettet i gyldigt dokument.
 
 ---
 
@@ -975,7 +977,7 @@ Hvis man har habilitet	har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-Forskellen på de stærke og svage ugyldighedsgrunde:
+**Forskellen på de stærke og svage ugyldighedsgrunde:**
 
 
 
@@ -991,7 +993,7 @@ De stærke ugyldighedsgrunde kan gøres gældende også over for en kontraktpart
 
 ---
 
-**De svage ugyldighedsgrunde** kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan således fastholde aftalen trods ugyldighedsgrunden. 
+**De svage ugyldighedsgrunde** kan ikke gøres gældende over for en kontraktpart i god tro, og den godtroende part kan så fastholde aftalen trods ugyldighedsgrunden. 
 
 Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A trods svigen, såfremt B ikke burde være klar over, at der var udvist svig.
 
@@ -1059,7 +1061,7 @@ Gør afsenderen ikke det, er vedkommende bundet af indholdet i den fejlagtige af
 
 Bestemmelsen i aftalelovens § 32, stk. 2 tager ikke stilling til, om afsenderen har pligt til at erstatte den godtroende erklæringsmodtager det tab, denne lider ved at stole på erklæringen. 
 
-Her må gælde almindelige erstatningsregler, således afsenderen er erstatningspligtig, når forvanskningen skyldes dennes fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2.
+Her må gælde almindelige erstatningsregler, så afsenderen er erstatningspligtig, når forvanskningen skyldes dennes fejl, eller ansvar kan støttes på arbejdsgiveransvaret i DL 3-19-2.
 
 ---
 
@@ -1095,7 +1097,7 @@ Se også udtrykket fra romerretten: *"Reservatio mentalis"*;	"bevidst uoverensst
     
 ---
 
-**Hvad er voldelig tvang?**
+**Hvad er voldelig tvang**
 
 Voldelig tvang, er en stærk ugyldighedsgrund, det følger af aftalelovens § 28, stk. 1:
 
@@ -1107,7 +1109,7 @@ Voldelig tvang, er en stærk ugyldighedsgrund, det følger af aftalelovens § 28
 
 Aftalen er ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af mekanisk vold, fx holder en pistol for panden af løftegiver, eller en kniv for halsen.
 
-Tvangen (truslen) skal have henblik på løftets afgivelse, således at det tilfælde, at en retshandel er fremkaldt ved en i spøg fremsat trussel, ligesom når løftet er afgivet af frygt, der ikke er fremkaldt ved nogen derpå rettet trussel, falder uden for tvangsbegrebet.
+Tvangen (truslen) skal have henblik på løftets afgivelse, så at det tilfælde, at en retshandel er fremkaldt ved en i spøg fremsat trussel, ligesom når løftet er afgivet af frygt, der ikke er fremkaldt ved nogen derpå rettet trussel, falder uden for tvangsbegrebet.
 
 ---
 
@@ -1167,17 +1169,17 @@ Se dommen i **U 2010.1819 Ø** Bruger af betalingskort hæftede for samlevers mi
 
 ---
 
-Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven § 17 og tinglysningsloven § 27.
+Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven (GBL) § 17 og tinglysningsloven (TL) § 27.
 
 ---
 
-**Gældsbrevslovens § 17:**
+**GBL § 17:**
 
 "Udstederen kan selv over for en erhverver i god tro påberåbe sig, at gældsbrevet var falsk eller forfalsket,  underskrevet på hans vegne uden fuldmagt dertil, eller ugyldigt på grund af voldelig tvang (lov nr. 242 af 8. maj 1917 om aftaler og andre retshandler på formuerettens område § 28) umyndighed som følge af mindreårighed og tinglyst værgemål med fratagelse af den retlige handleevne, jf. værgemålslovens § 6, eller manglende evne til at handle fornuftsmæssigt, jf. værgemålslovens § 46, at gældsbrevet var erklæret dødt og magtesløst,  eller at fordringen var ophørt eller forandret efter lovgivningens regler om deponering, forældelse, præklusion, tvangsakkord eller gældssanering". 
 
 ---
 
-**Tinglysningslovens § 27, stk. 1:**
+**TL § 27, stk. 1:**
 
 "Når et dokument er tinglyst, kan godtroende erhververe af rettigheder over ejendommen ifølge tinglyst aftale ikke mødes med nogen indsigelse mod nævnte dokuments gyldighed. Den indsigelse, at et dokument er falsk eller forfalsket, eller at dets udstedelse retsstridig er fremkaldt ved personlig vold eller ved trussel om øjeblikkelig anvendelse af sådan, eller at udstederen var umyndig ved udstedelsen, bevares dog også overfor den godtroende erhverver. Ved overdragelse af et tinglyst negotiabelt pantebrev til eje eller pant gælder endvidere reglerne i §§ 27 a og 27 b."
 
@@ -1205,7 +1207,7 @@ Sager om afpresning kan efter omstændighederne have betydelig grovhed og nærme
 
 ---
 
-I nyere tid er der således set sager, hvor rockere og 2. generationsindvandrerbander med gangsterlignende metoder i form af trusler med tæskehold o.l. har tvunget andre til at betale "dummebøder" ofte til betydelige beløb. 
+I nyere tid er der set sager, hvor rockere og 2. generationsindvandrerbander med gangsterlignende metoder i form af trusler med tæskehold o.l. har tvunget andre til at betale "dummebøder" ofte til betydelige beløb. 
 
 ---
 
@@ -1407,7 +1409,7 @@ Se dommen i **U 1975.656 V** Betinget dom uden straffastsættelse, samt bøde fo
 
 ---
 
-Løfter, der er motiveret af simpel tvang er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
+Løfter, der er motiveret af simpel tvang, er ikke bindende for løftegiver, hvis løftemodtager selv har udøvet tvangen.
   
 Hvis løftet er motiveret simpel tvang udøvet af tredjemand, er løftegiver ikke bundet af sit løfte, hvis løftemodtager indså eller burde have indset, at løftet blev afgivet som følge af simpel tvang.
 
@@ -1441,7 +1443,7 @@ Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige opl
 
 Ved **svig** forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
 
-Svig, er således en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab.
+Svig, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab.
 
 ---
 
@@ -1472,7 +1474,7 @@ Svig kan i almindelighed ikke medføre ugyldighed, når adressaten er i god tro 
 
 Såvel urigtige oplysning som fortielser kan medføre, at der foreligger svig. I begge henseender gælder et krav om "forsæt" (at det er sket med vilje). 
 
-Svig kan således være fejlinformation, urigtige oplysninger og fortielser, der bruges eller tilbageholdes for at få en aftale i hus eller få solgt en brugt bil:
+Svig kan så være fejlinformation, urigtige oplysninger og fortielser, der bruges eller tilbageholdes for at få en aftale i hus eller få solgt en brugt bil:
 
 
 ---
@@ -1564,7 +1566,7 @@ Der må ved afgørelsen af, om et relevant misforhold foreligger, tages hensyn t
 
 ---
 
-Det løftegiveren har valget mellem, om løftegiver vil have viljeserklæringen kendt ugyldig som helhed, eller om løftegiver - eventuelt i forbindelse med en påstand om ugyldighed og tilbagegivelse af ydelserne - vil kræve vederlaget nedsat, således at misforholdet mellem de to ydelser fjernes.
+Det løftegiveren har valget mellem, om løftegiver vil have viljeserklæringen kendt ugyldig som helhed, eller om løftegiver - eventuelt i forbindelse med en påstand om ugyldighed og tilbagegivelse af ydelserne - vil kræve vederlaget nedsat, så at misforholdet mellem de to ydelser fjernes.
 
 Den udnyttede kan også vælge at fastholde retshandelen, hvis denne nu på grund af fx en prisstigning eller en rentestigning kan se sin fordel herved.
 
@@ -1743,13 +1745,13 @@ Dvs. **"negativ kontraktsinteresse"**	er en erstatning, der stiller en part i et
 
 Modsat den såkaldte **"positiv opfyldelsesinteresse"**, hvor også den mistede fortjeneste skal erstattes. 
 
-Køber skal således stilles som om aftalen var opfyldt efter købsaftalens indhold. I modsætning til den "negative kontraktsinteresse", giver den "positive opfyldelsesinteresse" dermed også dækning for tabt fortjeneste.
+Køber skal så stilles som om aftalen var opfyldt efter købsaftalens indhold. I modsætning til den "negative kontraktsinteresse", giver den "positive opfyldelsesinteresse" dermed også dækning for tabt fortjeneste.
       
 ---
 
 ## Standardkontrakter/vilkår
 
-Standardvilkår ses eksempelvis i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
+Standardvilkår ses fx i fortrykt lejekontrakt, salgsaftale for biler, lånedokumenter, forsikringsaftaler.
 
 Hovedreglen er, at standardvilkår trykt på eller vedlagt kontrakten, anses for vedtaget ved kundens underskrift.
 
@@ -1876,7 +1878,9 @@ Funktionærloven er ikke pensum i Erhvervs- og finansjura på finansøkonomuddan
 
 ## Funktionærloven
 
-Lovbekendtgørelse nr. 1002 af 24. august 2017 om retsforholdet mellem arbejdsgivere og funktionærer (funktionærloven) indeholder en regulering af funktionærens og arbejdsgiverens rettigheder og forpligtelser, eksempelvis angående opsigelsesvarsel, sygdom, godtgørelse, graviditet, konkurrence mv.
+**(Ikke pensum for finansøkonomen)**
+
+Lovbekendtgørelse nr. 1002 af 24. august 2017 om retsforholdet mellem arbejdsgivere og funktionærer (funktionærloven) indeholder en regulering af funktionærens og arbejdsgiverens rettigheder og forpligtelser, fx angående opsigelsesvarsel, sygdom, godtgørelse, graviditet, konkurrence mv.
 
 ---
 
@@ -2089,7 +2093,7 @@ Kunde- og konkurrenceklausuler (samt klausuler hvor disse kombineres) kan kun g�
 
 Der er indført maksimumgrænser på enten 6 eller 12 måneder for den tid som en klausul kan gælde for lønmodtageren.
 
-Adgangen til kompensation for klausuler er ændret på flere måder og bl.a. således, at kompensationen forøges jo mere belastende klausulen er for lønmodtageren og ved bedre adgang til engangskompensation.
+Adgangen til kompensation for klausuler er ændret på flere måder og bl.a. så, at kompensationen forøges jo mere belastende klausulen er for lønmodtageren og ved bedre adgang til engangskompensation.
 
 ---
 
@@ -2145,7 +2149,7 @@ Tilbuddet er bindende for tilbudsgiveren - jf. aftalelovens § 1.
 
 Tilbuddet må ikke være tilbagekald helt eller delvist (ændret)
 
-Tilbuddet kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom om tilbuddet - jf. aftalelovens § 7.
+Tilbuddet kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom om tilbuddet - jf. aftalelovens § 7.
 
 ---
 
@@ -2153,7 +2157,7 @@ Tilbuddet kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtagere
 
 Hvis tilbuddet afslås, bortfalder tilbuddet og kan ikke accepteres senere - jf. aftalelovens § 5.
 
-Afslaget kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
+Afslaget kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
 
 ---
 
@@ -2197,7 +2201,7 @@ Indlevering til postvæsen eller fremsendelse pr. telefax er tilstrækkeligt - j
 
 Uoverensstemmende accept foreligger, hvis accepten giver en anden retsstilling end tilbuddet, dvs. hvis accepten medfører ændringer i forhold til tilbuddet eller lovgivningen.
 
-En uoverensstemmende accept er et afslag på tilbuddet, der således falder bort, og accepten bliver til et ny tilbud - jf. aftalelovens § 6, stk. 1. Dette skal accepteres af den oprindelige tilbudsgiver for at aftale forligger. 
+En uoverensstemmende accept er et afslag på tilbuddet, der så falder bort, og accepten bliver til et ny tilbud - jf. aftalelovens § 6, stk. 1. Dette skal accepteres af den oprindelige tilbudsgiver for at aftale forligger. 
 
 ---
 
@@ -2207,7 +2211,7 @@ Meddelelsespligt, hvis acceptanten må gå ud fra, at tilbuddet er overensstemme
 
 **Accepten må ikke være tilbagekaldt helt eller delvist**
 
-Accepten kan tilbagekaldes, såfremt tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
+Accepten kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren senest samtidig med, at modtageren får kundskab herom - jf. aftalelovens § 7.
 
 ---
 
@@ -2269,7 +2273,7 @@ Lov om forbrugerbeskyttelse ved køb af fast ejendom er der 6 hverdages fortryde
 
 ---
 
-**Fortolkning af aftaler**
+***Fortolkning af aftaler***
 
 **Minimumsreglen**, dvs. mindst byrdefulde forståelse.
 

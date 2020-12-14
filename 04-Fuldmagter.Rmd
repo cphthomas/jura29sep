@@ -14,7 +14,7 @@ cat(readLines('np.html'))
 ---
 
 
-**Hvad er en fuldmagt?**
+**Hvad er en fuldmagt**
 
 **Fuldmagt er en	ret til at handle i en andens navn og for en andens regning.**
 
@@ -186,7 +186,7 @@ Ved **beføjelse** (bemyndigelse) den ret eller tilladelse, fuldmægtigen iht. d
 
 * **Legitimation:** Den ydre fuldmagt er synlig og kendt for omverdenen.
 
-* **Fuldmagt/legitimation:** Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. købe et hus).
+* **Fuldmagt/legitimation:** Omfatter det tredjemand kan forvente. Fuldmagtsgivers signal til omverdenen om, hvordan fuldmægtigen kan binde fuldmagtsgiver. De ydre rammer (eks. køber et hus).
 
 Fuldmagt og bemyndigelse kan være ens, men bemyndigelsen er ofte snævrere end fuldmagten. Fuldmagten kan aldrig være snævrere end bemyndigelse.
 
@@ -390,7 +390,7 @@ Tilbagekaldelsen får virkning når den er kommet frem – behøver ikke komme t
 
 ”En fuldmagt, som af fuldmagtsgiveren er offentlig bekendtgjort i bladene eller på anden måde, tilbagekaldes ved en erklæring, som bekendtgøres på samme måde. 
 
-Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden ligeså virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.
+Stk. 2. Er dette ikke muligt, skal tilbagekaldelsen tilkendegives på anden lige så virksom måde. Fuldmagtsgiveren kan forlange, at den i § 17 omtalte myndighed skal afgøre, hvad han i så henseende har at foretage.
 
 Stk. 3. Fuldmagten anses ikke som offentlig bekendtgjort, fordi den er tinglæst”.
 
@@ -480,15 +480,15 @@ Fuldmægtigen er ved aftalens indgåelse garant (står inde) for at:
 
 **Aftalelovens § 25 – erstatning til tredjemand (fortsat):**
 
-**HR:** Hvis fuldmægtigen ikke havde den fornødne fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
+**HR:** Hvis fuldmægtigen ikke havde den nødvendige fuldmagt til at handle, og aftalen derfor falder til jorden, kan tredjemand forlange erstatning hos fuldmægtigen, hvis han lider et økonomisk tab.
 
-**U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den fornødne fuldmagt.
+**U1:** Erstatning kan ikke komme på tale, hvis tredjemand vidste eller burde vide, at fuldmægtigen ikke havde den nødvendige fuldmagt.
 
 **U2:** Erstatning kan ikke komme på tale, hvis fuldmægtigen indgår aftaler, og ikke ved at fuldmagten i mellemtiden er blevet tilbagekaldt.
 
 ---
 
-Fuldmægtigen indestår for, at denne har den fornødne fuldmagt til at foretage den retshandel, han foretager (fx afgivelse af tilbud eller accept af et banklån). 
+Fuldmægtigen indestår for, at denne har den nødvendige fuldmagt til at foretage den retshandel, han foretager (fx afgivelse af tilbud eller accept af et banklån). 
 
 Fuldmægtigen indestår efter alm regler ikke for, at fuldmagtsgiveren opfylder kontrakten, medmindre medkontrahenten har føje til at tro, at fuldmægtigen garanterer herfor. 
 
@@ -506,7 +506,7 @@ Hvis fuldmægtigen er umyndig, kan et sådant ansvar ikke pålægges fuldmægtig
 
 ---
 
-Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet tredjemand er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den fornødne fuldmagt.
+Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fuldmagtens eksistens eller at forlange udtrykkelig garanti for, at fornøden fuldmagt foreligger, idet tredjemand er berettiget til at gå ud fra, at den, der optræder som fuldmægtig, også har den nødvendige fuldmagt.
 
 ---
 
@@ -523,7 +523,7 @@ Tredjemand kan altså kræve erstatning for det fulde tab, tredjemand lider ved,
 
 Tredjemand er ikke henvist til at nøjes med en erstatning for det tab, tredjemand har lidt ved at handle i tillid til fuldmagtens eksistens, tredjemand har krav på at blive stillet økonomisk, som om fuldmagten eksisterede. 
 
-Hvis den opgivne fuldmagtgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som tredjemand, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
+Hvis den opgivne fuldmagtsgiver er kommet under konkurs, følger det af det anførte, at tredjemand kun kan kræve det beløb, som tredjemand, hvis fuldmagten havde været i orden, ville have erholdt af konkursboet.
 
 ---
 
@@ -554,7 +554,7 @@ Se dommen i **U 1936.833 Ø:** Tiltalte, der havde generalfuldmagt for en bygher
 
 ---
 
-Se endvidere dommen i **JD 1943.121** Om statsbanefunktionærs urigtige opgørelse over flyttegodtgørelse.
+Se desuden dommen i **JD 1943.121** Om statsbanefunktionærs urigtige opgørelse over flyttegodtgørelse.
 
 ---
 
@@ -706,7 +706,7 @@ Fuldmagt uden særlig tilværelse (§ 18-fuldmagt)
 
 **Fuldmægtigens erstatningsansvar over for 3. mand**
 
-Fuldmægtigen indestår for at have den fornødne fuldmagt og skal erstatte 3. mand den skade, som han har lidt ved, at aftalen ikke bliver bindende - jf. aftalelovens § 25, stk. 1.
+Fuldmægtigen indestår for at have den nødvendige fuldmagt og skal erstatte 3. mand den skade, som han har lidt ved, at aftalen ikke bliver bindende - jf. aftalelovens § 25, stk. 1.
 
 ---
 

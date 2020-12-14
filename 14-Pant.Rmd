@@ -35,7 +35,7 @@ cat(readLines('np.html'))
 
 * *Ejerpantebreve, TL § 1a*.  
 
-* *Forståelse for forskellen mellem en aftaleerhverver, arvinger og  retsforfølgende kreditorer*.
+* *Forståelse for forskellen mellem en aftaleerhverver, arvinger og retsforfølgende kreditorer*.
 
 * *Gyldighedsvirkningen, TL § 27 (kædekonflikt) + evt. erstatningsadgang, TL § 30 og 31*.
 
@@ -150,7 +150,7 @@ Pantsætter (ejer) skal passe på det pantsatte aktiv.
 
 Pantsætteren skal sørge for almindelig vedligeholdelse af det pantsatte aktiv.
 
-Der må ikke ske forringe pantets værdi ud over sædvanlig slid og ælde, fx:
+Der må ikke ske forringe pantets værdi ud over sædvanligt slid og ælde, fx:
    
 * Værdiforringende ændringer.
 
@@ -256,7 +256,7 @@ Skadesløsbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kas
 
 Alle pantebreve skal tinglyses for at pantet gyldigt kan stiftes.
 
-"Tinglysningsafgiften"** for pantebreve er 1,5 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.660. 
+"Tinglysningsafgiften"** for pantebreve er 1,45 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.730. 
 
 Tinglysningsafgiften vil normalt blive medfinansieret i lånet.
 
@@ -429,7 +429,7 @@ Formålet med sikringsakten er:
 
 Prioritetskonstaterende virkning: 
 
-Er der flere panthaver i samme aktiv opstår en prioritetsstilling i mellem panthaverne.
+Er der flere panthaver i samme aktiv opstår en prioritetsstilling imellem panthaverne.
 
 ---
 
@@ -594,7 +594,7 @@ Den 20-årige råden kaldes ordinær hævd mens den længere rådighedsperiode k
 
 Rådigheden afbrydes, hvis ejeren opstiller en fysisk hindring eller foretager retslige skridt mod den eller de personer, der bruger ejendommen.
 
-Når der vindes hævd får den eller de, der har brugt ejendommen, ejendomsret i overensstemmelse med den råden, der er udvist. 
+Når der vindes hævd, får den eller de, der har brugt ejendommen, ejendomsret i overensstemmelse med den råden, der er udvist. 
 
 ---
 
@@ -623,7 +623,7 @@ De vigtigste dokumenter, der således kan tinglyses:
 
 "Almindelige pantebreve": Skal udfærdiges på standardblanket. Foranstående hæftelser skal angives.
 
-"Skadesløsbreve/ejerpantebreve": Hvor der gives pant for et max. beløb, men skyldens størrelse fremgår ikke af selve pantebrevet, men af et under-liggende skyldforhold.
+"Skadesløsbreve/ejerpantebreve": Hvor der gives pant for et max. beløb, men skyldens størrelse fremgår ikke af selve pantebrevet, men af et underliggende skyldforhold.
 
 "Servitutter": Ex. servitut vedrørende lokalplaner og vejret.
 
@@ -776,7 +776,7 @@ Indlagt løsøre er omfattet af ejendomspantet og særskilt ret over det kan ikk
 
 ---
 
-Et juridiske begreber ved fast ejendom:
+Juridiske begreber ved fast ejendom:
 
 "Afståelsesret" er en	ret for en lejer til at lade en anden indtræde i sit sted på uændrede vilkår.
 
@@ -795,7 +795,7 @@ TL § 38 har følgende ordlyd:
 
 TL § 38 afskærer således inden for sit anvendelsesområde adgangen til at opretholde særskilte rettigheder over bestanddele og tilbehør til den faste ejendom, det være sig i form af ejendomsforbehold, løsøreunderpant, leasing eller på anden måde.^[Følgende afsnit om TL § 37 og 38 bygger på *Peter Mortensen* bemærkninger i Karnovkommentaren til Tinglysningsloven, KarnovGroup.]
 
-Tilbehør til en erhvervsejendom nu kun omfattes af TL § 38, såfremt tilbehøret er til brug for selve bygningen (eller grunden) modsat erhvervsvirksomheden. 
+Tilbehør til en erhvervsejendom nu kun omfattes af TL § 38, hvis tilbehøret er til brug for selve bygningen (eller grunden) modsat erhvervsvirksomheden. 
 
 ---
 
@@ -841,14 +841,14 @@ Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan
 
 ![](img/hons.jpg)
 
-Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, således at det let kunne fjernes, uden for TL § 38. 
+Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, så det let kunne fjernes, derfor uden for TL § 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000241331/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 ![](img/vind.jpg)
 
-Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, således at særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom.
+Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, så særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom.
 
 ---
 
@@ -953,7 +953,7 @@ Altså - med undtagelse af biler, jf. stk. 3 - alle genstande, der varigt benytt
 
 ---
 
-Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations/udstillingsvare, der traditionelt henregnes til en virksomheds varelager. 
+Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations-/udstillingsvare, der traditionelt henregnes til en virksomheds varelager. 
 **<a href="https://pro.karnovgroup.dk/document/7000206004/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -973,13 +973,13 @@ Bestemmelsen kan fraviges ved aftale (deklaratorisk), hvis:
    
 Løsøret kan udskilles ifølge regelmæssig drift.
  
-Hvis ejendommen er en landejendom omfatter pantet også:
+Hvis ejendommen er en landejendom, omfatter pantet også:
 
 ![](img/dyr.jpg)
 
 Besætningen: 
 
-Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, således at de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom:
+Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, så de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom:
 
 ![](img/heste.jpg)
 
@@ -1051,7 +1051,7 @@ Om kartoffelleveringsrettigheder, se dommen **U 1998 209/2 V:** og dommen **U 20
 
 En landejendom er oftest en traditionel gård med jordbrug og besætning. 
 
-Der må være tale om en egentlig jordbrugsvirksomhed, jf. dommen **U 1995.362 H:** Minkfarm ikke omfattet. Panteret i minkfarm omfattede ikke minkskind, der var løsørepantsat, jf. TL's § 37. 
+Der må være tale om en egentlig jordbrugsvirksomhed, jf. dommen **U 1995.362 H:** Minkfarm ikke omfattet. Panteret i minkfarm omfattede ikke minkskind, der var løsørepantsat, jf. TL § 37. 
 **<a href="https://pro.karnovgroup.dk/document/7000201619/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -1071,7 +1071,7 @@ Se dommen **U 1933.762 V** (ligeledes).
 
 ---
 
-Se dommen **VLT 1935.58** (pant i smedje med tilhørende areal af 1 td land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
+Se dommen **VLT 1935.58** (pant i smedje med tilhørende areal af 1 td. land antoges ikke at omfatte 1 hest, 1 ko og nogle smågrise, selv om stald var indrettet i husets ene ende). 
 
 ---
 
@@ -1301,7 +1301,7 @@ Se også dommen i **U 1972.176 V.** Pantet omfattede også genstande erhvervet v
 
 ---
 
-En erhvervsvirksomhed, der drives fra lejede lokaler kan således give pant i: 
+En erhvervsvirksomhed, der drives fra lejede lokaler, kan således give pant i: 
 
 + Driftsmidler og driftsinventar.
 
@@ -1311,7 +1311,7 @@ En erhvervsvirksomhed, der drives fra lejede lokaler kan således give pant i:
 
 ---
    
-Hvis det er en landbrugsvirksomheds kan pantet også omfatte besætning og afgrøder mm.
+Hvis det er en landbrugsvirksomheds, kan pantet også omfatte besætning og afgrøder mm.
 
 Nye aktiver bliver automatisk omfattet af pantet.
 
@@ -1418,9 +1418,9 @@ Bortset fra de særlige undtagelser fra forbuddet mod underpant i tingsindbegreb
 
 ---
 
-Det vil kræve, at de pantsatte genstande klart adskilles fra andre genstande tilhørende pantsætteren, således at denne ikke er i stand til at underskyde ikke-pantsatte genstande under aftalen og dermed skade de øvrige kreditorer. 
+Det vil kræve, at de pantsatte genstande klart adskilles fra andre genstande tilhørende pantsætteren, så denne ikke er i stand til at underskyde ikke-pantsatte genstande under aftalen og dermed skade de øvrige kreditorer. 
 
-Rent praksis kunne det være stelnummer på de knallerter der er omfattet af pantet.
+I praksis kunne det være stelnummer på de knallerter der er omfattet af pantet.
 
 ---
 
@@ -1526,13 +1526,13 @@ Eksamensspørgsmålet:
 
 Emne: Kaution
 
-Anvend reglerne: Alm. Regler om kaution – lov om finansiel virksomhed (FIL) §§ 47 og 48 –  samt kautionspjecen udarbejdet af FinansDanmark og ForbrugerrådetTænk
+Anvend reglerne: Alm. Regler om kaution – lov om finansiel virksomhed (FIL) §§ 47 og 48, samt kautionspjecen udarbejdet af FinansDanmark og ForbrugerrådetTænk
 
 
 Læringsmål: Forståelse for kaution i både private og erhvervsforhold.
 
 
-SoundNeed har også brug for en ny mixerpult til lydstudiet, og Johan forslår, at kreditten til købet finasieres med et lån i banken sikret med pant i mixerpulten.
+SoundNeed har også brug for en ny mixerpult til lydstudiet, og Johan forslår, at kreditten til købet finansieres med et lån i banken sikret med pant i mixerpulten.
 
 
 Eksamensspørgsmålet:
@@ -1616,7 +1616,7 @@ Dette må afgøres ud fra almindelige formueretlige principper om ekstinktion.
 
 Det følger af disse principper, at den panteret eller retsforfølgning, der skal fortrænge en utinglyst panteret, selv skal være omsætningsbeskyttet, dvs. ved tinglysning eller meddelelse i henhold til gældsbrevslovens § 31. 
 
-Udlæg i fordringer er dog sikret ved udlæggets foretagelse. Erhververen ifølge aftale om underpant skal endvidere være i god tro på tidspunktet for aftalens anmeldelse til tinglysning.  
+Udlæg i fordringer er dog sikret ved udlæggets foretagelse. Erhververen ifølge aftale om underpant skal desuden være i god tro på tidspunktet for aftalens anmeldelse til tinglysning.  
 
 TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller tjenesteydelser
 
@@ -1628,7 +1628,7 @@ TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller t
 
 ## Eksamensopgave 3 Tæppehandleren fra Sorø
 
-Om køb, erstatning, god skik for finansielle virksomheder,forsikringsret, erstatningsansvarsloven, konkursret, pant og ejendomsforbehold 
+Om køb, erstatning, god skik for finansielle virksomheder, forsikringsret, erstatningsansvarsloven, konkursret, pant og ejendomsforbehold 
 
 
 
@@ -1674,7 +1674,7 @@ Eksamensspørgsmålet:
 
 ---
 
-Virksomheden yder også service med rensning og vedligeholdelse af tæpper, og da en særlig tæpperensningsmaskine er gået tabt under branden måtte der indkøbes en ny. Den kostbare maskine købes d. 3. februar, på kredit med ejendomsforbehold til sælgeren.
+Virksomheden yder også service med rensning og vedligeholdelse af tæpper, og da en særlig tæpperensningsmaskine er gået tabt under branden, måtte der indkøbes en ny. Den kostbare maskine købes d. 3. februar, på kredit med ejendomsforbehold til sælgeren.
 
 Jonas er også nødsaget til at anskaffe en ny varevogn til selskabet. Handlen gennemføres den 6. februar, og ligeledes på kredit med ejendomsforbehold der tinglyses.
 
@@ -1733,7 +1733,7 @@ Eksamensspørgsmålet:
 
 ## Eksamensopgave 4 Møbler med prioritet
 
-Falk Møbler har ansat en ny indkøbsassistent, Lone Kaas, der efter indledende forhandlinger, den 1. oktober 2015, modtog en e-mail med et tilbud fra firmaet Lifetools key account manager, Henrik Lods, om et parti have og udemøbler til DKK 500.000, hvoraf de DKK 300.000 skulle erlægges kontant. 
+Falk Møbler har ansat en ny indkøbsassistent, Lone Kaas, der efter indledende forhandlinger, den 1. oktober 2015, modtog en e-mail med et tilbud fra firmaet Lifetools key account manager, Henrik Lods, om et parti have og udemøbler til DKK 500.000, hvoraf de DKK 300.000 skulle betales kontant. 
 
 Lone afventer imidlertid nogle andre tilbud, og vil derfor ikke svare med det samme. 
 
@@ -1743,7 +1743,7 @@ Lone er ikke enig heri og foretager sig ikke andet, før hun i løbet af de føl
 
 Hos Lifetools er Henrik på kursus, så han ser først mailen efter weekenden, d. 12. oktober, og svarer samme dag tilbage, at der desværre ikke er en aftale, da det oprindelige tilbud jo er trukket tilbage og desuden er ugyldigt, derudover, hævder han, er accepten for sen. 
 
-Endvidere gør Lifetools gældende, at Henrik Lods, under alle omstændigheder, har overtrådt sine beføjelser, da han ikke må tilbyde henstand på mere end 25 % af kontantprisen. 
+Desuden gør Lifetools gældende, at Henrik Lods, under alle omstændigheder, har overtrådt sine beføjelser, da han ikke må tilbyde henstand på mere end 25 % af kontantprisen. 
 
 Lone, der har fulgt godt med i erhvervsjuratimerne, mener ikke at argumenterne holder.
 
@@ -1816,7 +1816,7 @@ Eksamensspørgsmål 1. Hvordan bør bankrådgiveren Kim Rasmussen rådgive i det
 
 Opgave 2 
 
-Smykkefirmaet har ligeledes brug for rådgivning om finansiering af en ny produktionsmaskine, der kan producere top kvalitet, titanium smykker, 316L rustfrit stål smykker, Wolfram smykker, messing smykker osv. 
+Smykkefirmaet har ligeledes brug for rådgivning om finansiering af en ny produktionsmaskine, der kan producere topkvalitet, titanium smykker, 316L rustfrit stål smykker, Wolfram smykker, messing smykker osv. 
 
 Peter foreslår Kim, at banken yder et lån til købet af en ny produktionsmaskine mod at få sikkerhed i produktionsmaskinen. Peter beder derfor Kim undersøge nærmere med bankens juridiske afdeling, hvilke muligheder banken har for at få sikkerhed i en ny produktionsmaskine.
 
@@ -1852,15 +1852,15 @@ Eksamensspørgsmål 4. Kan Peter, og i givet fald efter hvilke regler, kræve er
 
 Kaj Vang, som driver det økologiske gartneri/planteskole Tusindfryd i Svogerslev, vest for Roskilde, står overfor en spændende udvikling. Harald Toft, der ejer en af Tusindfryds konkurrenter, Vindinge Planteskole, SØ for Roskilde vil gå på pension, men har ikke været i stand til at finde en køber til virksomheden. Herefter er man blevet enige om, i første omgang, at udleje planteskolen til Kaj fra 1. januar 2013. 
 
-Sammen med Vindinge Planteskole overtager Kaj altmuligmanden Ronny Vang, som efter et hasteopkald i begyndelsen af april, tager initiativ til at efterkomme en ordre fra kommunen om et større parti planter til bunddækning. Da han under leveringen svinger lastbilens kran med planterne ud til siden, forrykkes vægten, og da Ronny har undladt at bruge vognens støtteben vælter lastbilen ned over kommunens gaffeltruck og en parkeret bil. Både kommunen og bilejeren kræver herefter erstatning af Tusindfryd. 
+Sammen med Vindinge Planteskole overtager Kaj altmuligmanden Ronny Vang, som efter et hasteopkald i begyndelsen af april, tager initiativ til at efterkomme en ordre fra kommunen om et større parti planter til bunddækning. Da han under leveringen svinger lastbilens kran med planterne ud til siden, forrykkes vægten, og da Ronny har undladt at bruge vognens støtteben vælter, lastbilen ned over kommunens gaffeltruck og en parkeret bil. Både kommunen og bilejeren kræver herefter erstatning af Tusindfryd. 
 
 1.	Har de ret til det?
 
-Kommunen insisterer endvidere på en ny leverance i stedet for den ødelagte, hvilket Kaj, der ikke har nye planter på lager, afviser med henvisning til, at aftalen ikke er gyldig, eftersom Ronny, der heller ikke under Vindinge Planteskole havde beføjelse til at ekspedere større ordrer på egen hånd, har overskredet sin fuldmagt.
+Kommunen insisterer desuden på en ny leverance i stedet for den ødelagte, hvilket Kaj, der ikke har nye planter på lager, afviser med henvisning til, at aftalen ikke er gyldig, eftersom Ronny, der heller ikke under Vindinge Planteskole havde beføjelse til at ekspedere større ordrer på egen hånd, har overskredet sin fuldmagt.
 
 2.	Har Kaj ret i det?  
 
-Kaj har store planer for en rationel stordrift af de to enheder virksomheden nu omfatter. Planerne indebærer investering i et stort solvarmeanlæg til opvarmning af drivhusene i Svogerslev, nye automatiserede planteborde til den nye afdeling i Vindinge og en kassevogn til transporten mellem de to steder. Kaj arvede virksomheden i Svogerslev to år forinden og bor i den medfølgende beboelse. Han mener det er på tide, nu hvor han er i gang, at renovere køkkenet med nye hvidevarer. 
+Kaj har store planer for en rationel stordrift af de to enheder virksomheden nu omfatter. Planerne indebærer investering i et stort solvarmeanlæg til opvarmning af drivhusene i Svogerslev, nye automatiserede planteborde til den nye afdeling i Vindinge og en kassevogn til transporten mellem de to steder. Kaj arvede virksomheden i Svogerslev to år forinden og bor i den medfølgende beboelse. Han mener det er på tide, nu hvor han er i gang at renovere køkkenet med nye hvidevarer. 
 Desværre fulgte en trist, våd og kold dansk sommer, og da en af virksomhedens store aftagere gik konkurs, hvilket forårsagede et betydeligt tab for Tusindfryd, så det sort ud. På et møde om situationen d. 
 8. oktober, blev Kaj og hans rådgivere enige om, at han skulle indgive begæring om 
 rekonstruktionsbehandling til skifteretten. Hvilket skete den 12. oktober, hvorefter der var møde i skifteretten den 18. oktober. 
@@ -1937,7 +1937,7 @@ Går banken ned, så overfører værdipapircentralen blot værdipapirerne til en
 
 ---
 
-## Løsningsmodeller for ekamensopgaver i forbindelse med ejendomsrettens overgang ved køb (købernes beskyttelse)
+## Løsningsmodeller for eksamensopgaver i forbindelse med ejendomsrettens overgang ved køb (købernes beskyttelse)
 
 
 Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhverver (køber) er beskyttet mod overdragerens (sælgerens) kreditor og evt. konkursbo, f.eks. i opgaver, hvor en køber endnu ikke har fået det købte udleveret, og sælgeren går konkurs, eller sælgerens kreditorer forsøger at foretage udlæg heri.^[Følgende afsnit bygger på Løsningsmodellerne fra opgavesamlingen i Erhvervsret ASPIRI, v. advokat *Peter Wedel Ranch Krarup*.]
@@ -1950,7 +1950,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 -	Har sælger valgfrihed med hensyn til den vare, der skal leveres, er købet et genuskøb.
 
--	Har sælger ikke valgfrihed med hensyn til den vare, der skal leveres er købet et specieskøb.
+-	Har sælger ikke valgfrihed med hensyn til den vare, der skal leveres, er købet et specieskøb.
 
 ---
 
@@ -1983,7 +1983,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 **18.1.3. Fordringer og gældsbreve**
 
--	Se løsningsmodel ovenfor i kap. 16 – Fordringer og gældsbreve.
+-	Se løsningsmodel ovenfor i kap. 12 – Fordringer og gældsbreve.
 
 ---
 
@@ -2055,7 +2055,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 - Ejerens ret fortabes, hvis han har givet overdrageren en særlig legitimation til at handle over genstanden (f.eks. ved fuldmagt, kommission og konsignation), eller ejeren har optrådt uforsigtig eller udvist passivitet. 
 
-- Ejerens ret ekstinkveres ved kontanter efter ”pengeregelen”, idet den person, der i god tro modtager kontant betaling, kan ekstinkvere indsigelser om, at den betalende ikke kunne disponere over pengene. Dette gælder også, såfremt pengene er stjålne. 
+- Ejerens ret ekstinkveres ved kontanter efter ”pengeregelen”, idet den person, der i god tro modtager kontant betaling, kan ekstinkvere indsigelser om, at den betalende ikke kunne disponere over pengene. Dette gælder også, hvis pengene er stjålne. 
 
 ---
 
@@ -2071,7 +2071,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 **3.4.1. Erhvervsvirksomheds driftsmateriel og –inventar (TL(tinglysningslovens) § 37)**
 
-- Er genstanden driftsmateriel/-inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særlig erhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, med mindre andet er aftalt – jf. TL § 37. 
+- Er genstanden driftsmateriel/-inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særlig erhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, medmindre andet er aftalt – jf. TL § 37. 
 
 - Undtaget er motorkøretøjer, dvs. biler, lastvogne, motorcykler, sætte- og påhængsvogne samt campingvogne (men ikke mejetærskere, traktorer og gaffeltrucks – jf. TL § 37, stk. 3.).
 
@@ -2101,7 +2101,7 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 -	Ved løsøre/rettigheder/biler/fast ejendom anvendes denne løsningsmodel
 
--	Ved fordringer/gældsbreve/pantebreve/værdipapirer/aktier anvendes i stedet løsningsmodel om (fordringer) i kap. 16.
+-	Ved fordringer/gældsbreve/pantebreve/værdipapirer/aktier anvendes i stedet løsningsmodel om (fordringer) i kap. 12.
 
 ---
 
@@ -2119,7 +2119,7 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 -	Opbevaring hos 3. mand samt orientering om, at udlevering ikke må ske.
 
--	Fyldestgøres et krav, der er sikret ved håndpant, ikke rettidigt, kan panthaveren lade pantet bortsælge ved tvangsaktion – jf. RPL § 538a, stk. 1.
+-	Fyldestgøres et krav, der er sikret ved håndpant, ikke rettidigt, kan panthaveren lade pantet bortsælge ved tvangsauktion – jf. RPL § 538a, stk. 1.
 
 ---
 
@@ -2193,19 +2193,19 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 **3.1.1. Pant for gammel gæld**
 
--	Pant for gammel gæld omstødes, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70.
+-	Pant for gammel gæld omstødes, hvis sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70.
 
 ---
 
 **18.3.1.2. Pant for samtidig stiftet gæld**
 
-- 	Pant for samtidig stiftet gæld omstødes kun, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning (inden for et par dage) – jf. KL § 70.
+- 	Pant for samtidig stiftet gæld omstødes kun, hvis sikringsakten er foretaget senere end 3 mdr. før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning (inden for et par dage) – jf. KL § 70.
 
 ---
 
 **3.1.3. Virksomhedspant**
 
--	Virksomhedspant omstødes, såfremt sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70 stk. 1 & stk. 3.
+-	Virksomhedspant omstødes, hvis sikringsakten er foretaget senere end 3 mdr. før fristdagen – jf. KL § 70 stk. 1 & stk. 3.
 
 -	Den forøgelse af pantet, der sker ved, at aktiver senere end 3 måneder før fristdagen bliver omfattet af pantet, omstødes, medmindre forøgelsen fremtrådte som ordinær. Hvis der således kan omstødes, vil omstødelse tillige kunne ske med hensyn til efterfølgende forøgelser, uanset om disse kan anses som ordinære.  Omstødelse kan dog ikke ske, i det omfang den samlede forøgelse modsvares af en forringelse af virksomhedspantet eller nettoforøgelse af den sikrede fordring, der er indtrådt efter den nævnte forøgelse – jf. KL § 70a.
 
@@ -2363,7 +2363,7 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 **5.1. Erhvervsvirksomheds driftsmateriel og – inventar (TL § 37)**
 
--	Er genstanden driftsmateriel/inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særligerhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, med mindre andet er aftalt – jf. TL § 37.
+-	Er genstanden driftsmateriel/inventar, og er dette indført til en pantsat fast ejendom, der af ejeren varigt er indrettet med en særligerhvervsvirksomhed for øje, indgår sådanne aktiver i pantet i den faste ejendom, medmindre andet er aftalt – jf. TL § 37.
 
 -	Undtaget er motorkøretøjer, dvs. biler, lastvogne, motorcykler, sætte- og påhængsvogne samt campingvogne (men ikke mejetærskere, traktorer og gaffeltrucks) – jf. TL § 37, stk. 3.
 

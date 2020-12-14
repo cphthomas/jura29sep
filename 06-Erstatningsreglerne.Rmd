@@ -24,7 +24,7 @@ cat(readLines('np.html'))
 
 ---
 
-**Erstatningsretten bruges også i faget "Privatøkonomisk rådgivning på finansøkonomuddannelsen.**
+**Erstatningsretten bruges bl.a. også i faget "Privatøkonomisk rådgivning på finansøkonomuddannelsen.**
 
 ---
 
@@ -35,11 +35,11 @@ cat(readLines('np.html'))
 
 ## Erstatningsansvar uden en lovgivning
 
-Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibiotek, samt min bog "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel **<a href="https://jura.tepedu.dk/bibliotek-premium.html" target="_blank">Se nærmere biblioteket klik her!</a>**.]
+Tegning af en forsikring kan påvirke ens erstatningsansvar. Ligesom manglende tegning af en forsikring kan påvirke ens erstatningsansvar.^[Følgende afsnit om erstatningsansvaret og den forsikringsmæssige afdækning bygger hovedsagelig på *Sonny Kristoffersen* bøger "Kend Erstatningsreglerne", på forlaget Samfundslitteratur, se e-bogens bibliotek, samt min bog "Introduktion til forsikringsreglerne", på forlaget Hans Reitzel **<a href="https://jura.tepedu.dk/bibliotek-premium.html" target="_blank">Se nærmere biblioteket klik her!</a>**.]
 
 ---
 
-Et ansvarsforsikringsselskab beskæfter sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (dvs. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. 
+Et ansvarsforsikringsselskab beskæftiger sig indgående med erstatningsreglerne for at vurdere, om skadevolderen (dvs. forsikringstageren) har pådraget sig et erstatningsansvar over for en skadelidt. 
 
 Ofte findes der ingen lovgivning, som kan fortælle, hvornår man som privatperson er ansvarlig for en skade. 
 
@@ -90,7 +90,7 @@ Se dommen *"FED 2012.2*: Landsretten fandt, at en tilskuer, der ved strafbar han
 
 <img src="img/carbroken.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
-Se dommen i **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen lyste.. 
+Se dommen i **FED 2006.78:** Ansvarspådragende efter culpareglen, at en person, der kørte i en lånt bil, ikke sikrede sig, at der var olie og vand på bilen, uagtet temperaturlampen lyste. 
 **<a href="https://pro.karnovgroup.dk/document/7000376722/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -145,7 +145,7 @@ Man skal heller ikke erstatte noget.
 
 ![](img/hotel1.jpg)
 
-Åbner en hotelgæst eksempelvis døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
+Åbner en hotelgæst fx døren til sit værelse indefra, i det øjeblik en tjener går forbi på gangen med en bakke med glas, og døren rammer bakken, så glassene falder på gulvet og knuses, er der tale om et hændeligt uheld. Uheldet kan ikke bebrejdes hotelgæsten, da han ikke havde mulighed for at undgå det. Han havde opført sig som “den gode hotelgæst” og ikke begået nogen fejl. 
 
 ---
 
@@ -184,7 +184,7 @@ Se **Ankenævnskendelse i sagsnr.: 51.809**: 8-årigt barn faldt over egne ben o
 
 ---
 
-"Gæstebudskade": Hvis en gæst kommer til at ødelægge noget hjemme hos værten, fx vælter en dyr vase eller spilder rødvin på et tæppe, kaldes det for en gæstebudsskade. 
+**"Gæstebudsskade":** Hvis en gæst kommer til at ødelægge noget hjemme hos værten, fx vælter en dyr vase eller spilder rødvin på et tæppe, kaldes det for en gæstebudsskade. 
 
 Ved gæstebudsskader er gæsten normalt ikke erstatningsansvarlig. Værten har derfor ikke krav på erstatning fra gæsten. 
 
@@ -198,7 +198,7 @@ Nogle indboforsikringer – bl.a. Topdanmarks – dækker gæstebudsskader allig
 
 Det anbefales derfor, at man som vært beder gæsten kontakte sit forsikringsselskab, da de måske dækker skaden. I så fald vil man få erstattet skaden fratrukket forsikringens selvrisiko.
 
-Hvs gæsten smadder værtens indbo i vrede, så er der selvfølgelig ikke tale om en gæstebudskade, men gæsten har et et erstatningsansvar.
+Hvis gæsten smadder værtens indbo i vrede, så er der selvfølgelig ikke tale om en gæstebudsskade, men gæsten har et erstatningsansvar.
 
 ![](img/gast.jpg)
 
@@ -251,7 +251,7 @@ Begrebet afgrænser en uagtsomhed/en adfærd, der afviger fra de adfærdsnormer,
 
 ---
 
-Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end hvad en alimindelig fornuftig person ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
+Kommer en domstol til det resultat, at en skadevolder har handlet anderledes, end hvad en almindelig fornuftig person ville have gjort i samme situation, har skadevolderen handlet forkert og vil blive pålagt et erstatningsansvar.
 
 Det skal bevises af skadelidte (kaldet en **ligefrem bevisbyrde**). Det er hovedreglen i dansk ret; Den der vil gøre noget gældende, har også bevisbyrden herfor.
 
@@ -317,7 +317,7 @@ Se dommen i **U 2010.1609 H:** Psykisk personskade anset for omfattet af ulykkes
 
 ## Simpel uagtsomhed
 
-Ved **simpelt uagtsomhed** (latin; **culpa levis**), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig personen ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
+Ved **simpel uagtsomhed** (latin; **culpa levis**), har skadevolder handlet mere skødesløst, end hvad en almindelig fornuftig person ville have handlet i den samme situation – den lille dagligdags uagtsomhed – er skadevolder erstatningsansvarlig. 
 
 Simpel uagtsomhed er en uagtsomhed, som ikke kan betegnes som grov. 
 
@@ -334,7 +334,7 @@ Se dommen i **FED 2019.35**. Cyklist erstatningsansvarlig for fodgængers tilska
 
 ---
 
-Hvis eksempelvis en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. 
+Hvis fx en fodgænger træder ud på vejbanen uden at se sig for og rammer en forbikørende cyklist, der vælter, kan uheldet bebrejdes fodgængeren, der har været mere skødesløs end “den gode fodgænger”. 
 
 Derfor er fodgængeren erstatningsansvarlig for cyklistens økonomiske tab. 
 
@@ -393,7 +393,7 @@ Se dommen i **U 1998.1693 H:** Opbevaring af nøglen til sikringsboksen i et auk
 
 ![](img/fald.jpg)
 
-Se dommen i **U 1999.1706 H** Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved forsikredes forsæt eller grove uagtsomhed. 
+Se dommen i **U 1999.1706 H** Død ved fald på ca. 6 meter fra et tag ikke omfattet af ulykkesforsikring, da faldet var fremkaldt ved, forsikredes forsæt eller grove uagtsomhed. 
 **<a href="https://pro.karnovgroup.dk/document/7000196767/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -449,7 +449,7 @@ Se dommen i **U 2019.2748 V** 3 års fængsel for bl.a. uagtsomt manddrab ved so
 
 Samt **forsætlig** findes i straffeloven, dvs. med vilje:
 
-Se dommen i **U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Endvidere udvisning for bestandig. 
+Se dommen i **U 2019.2688 Ø**: 8 års fængsel for forsætlig påkørsel med døden til følge, jf. straffelovens § 245, stk. 1, jf. § 246. Desuden udvisning for bestandig. 
 **<a href="https://pro.karnovgroup.dk/document/7000838303/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -574,7 +574,7 @@ Se dommen i **FED 2004.507:** Kommune og underentreprenør solidarisk ansvarlige
 
 ---
 
-Lejeloven indeholder et objektiv ansvar for installationer, som kan finde analogt anvendelse på en andelshaver.
+Lejeloven indeholder et objektivt ansvar for installationer, som kan finde analogt anvendelse på en andelshaver.
 
 Se dommen i **TBB2014.722**: Andelshaver ansvarlig efter analogi fra lejelovens § 29, stk. 10, overfor andelsboligforening for vandskade hidrørende fra vandtilslutning til vaskemaskine.
 
@@ -605,7 +605,7 @@ Det fremgår af Lov om erstatningsansvar (EAL) (Lovbekendtgørelse nr. 1070 af 2
 
 ![](img/rude.jpg)
 
-Smadrer en dreng eksempelvis naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
+Smadrer en dreng fx naboens glasrude, der er forsikret, ved en simpel uagtsomhed, er drengen ikke erstatningsansvarlig. Vinduet bliver betalt af glasforsikringen.
 
 Lov om erstatningsansvar fastslår også, at hvis staten, en kommune eller en anden offentlig institution er selvforsikrende, skal de erstatningsmæssigt betragtes på samme måde, som hvis de havde tegnet forsikring. 
 
@@ -627,13 +627,13 @@ I ingen af tilfældene er drengen erstatningsansvarlig. For kommunens vedkommend
 
 "Handlinger foretagne i nødværge er straffri, for så vidt de har været nødvendige for at modstå eller afværge et påbegyndt eller overhængende uretmæssigt angreb og ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt.
 
-Stk. 2. Overskrider nogen grænserne for lovligt nødværge, bliver han dog straffri, hvis overskridelsen er rimeligt begrundet i den ved angrebet fremkaldte skræk eller ophidselse".
+Stk. 2. Overskrider nogen grænserne for lovligt nødværge, bliver han dog straffri, hvis overskridelsen er rimeligt begrundet i den ved angrebet, fremkaldte skræk eller ophidselse".
 
 ---
 
-Nødværge betegner en handling, som foretages i et forsøg på at afværge et angreb, og hvor den person, der foretager nødværget handler på en måde, som medfører indgreb i den angribendes retsgoder.
+Nødværge betegner en handling, som foretages i et forsøg på at afværge et angreb, og hvor den person, der foretager nødværget, handler på en måde, som medfører indgreb i den angribendes retsgoder.
 
-Såfremt nødværgehandlingerne er nødvendige for at afværge eller modstå et påbegyndt eller overhængende angreb, og handlingerne ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt, er nødværget lovligt.
+Hvis nødværgehandlingerne er nødvendige for at afværge eller modstå et påbegyndt eller overhængende angreb, og handlingerne ikke åbenbart går ud over, hvad der under hensyn til angrebets farlighed, angriberens person og det angrebne retsgodes betydning er forsvarligt, er nødværget lovligt.
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Se straffeloven i Lovsamlingen klik her!</a>**
 
 ---
@@ -722,7 +722,7 @@ Handlingen kan foretages af den person, hvis værdier er truet, eller af andre, 
 
 ---
 
-For at være straffri skal handlingen endvidere være af væsentlig mindre betydning end den skade, der ville være sket uden indgriben.
+For at være straffri skal handlingen desuden være af væsentlig mindre betydning end den skade, der ville være sket uden indgriben.
 
 Visse værdier af ikke-økonomisk art kan aldrig ofres i en nødsituation; det er fx ikke tilladt at dræbe et menneske for at redde et eller flere menneskeliv. Se også nødværge.
 
@@ -745,7 +745,7 @@ Samt anderledes dommen i **U 2014.2941 V**: Fjernelse af to franske bulldogs fra
 
 ---
 
-Objektiv ansvarsfrighedsgrund **Negotiorum gestio:** Begrebet betyder uanmodet forretningsførelse og betegner den situation, hvor en person på en andens vegne, men uden bemyndigelse fra den anden, varetager den andens interesser, mens den anden selv er forhindret i at varetagne sine egne interesser.
+Objektiv ansvarsfrihedsgrund **Negotiorum gestio:** Begrebet betyder uanmodet forretningsførelse og betegner den situation, hvor en person på en andens vegne, men uden bemyndigelse fra den anden, varetager den andens interesser, mens den anden selv er forhindret i at varetagne sine egne interesser.
 
 
 ---
@@ -1257,7 +1257,7 @@ En fredag eftermiddag var Martin taget ud til en fremvisning af et hus beliggend
 
 Desværre havde han fået købt dem i en lidt for lille størrelse, men havde valgt at tage dem på alligevel selv om Egild ikke havde ment at det var en god idé, da han syntes at de ikke rigtig udstrålede det image som ”Udby Mæglerne ApS” gerne ville stå for.
 
-Da Martin kommer ind i huset vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. 
+Da Martin kommer ind i huset, vil han tage støvlerne af, men finder ud af at de sidder rigtig godt fast. Han kæmper noget med støvlerne, men til sidst får han dem revet af. 
 
 Desværre rammer han med sin voldsomme bevægelse det spejl der hænger i gangen. Spejlet falder ned og smadrer mod gulvet. 
 
@@ -1265,7 +1265,7 @@ Ude i køkkenet står Pernille og er ved at lave kaffe.
 
 Hun bliver så forskrækket at hun taber den meget varme kaffe ned over sin hun ”Guffe”. 
 
-”Guffe”, der var en præmiehund med en værdi på 10.000 kr, måtte efterfølgende aflives.
+”Guffe”, der var en præmiehund med en værdi på 10.000 kr., måtte efterfølgende aflives.
 
 Eksamensspørgsmålet:
 
@@ -1317,7 +1317,7 @@ Derefter spurgte han sin ansatte murelæring, der netop havde arvet, om han vill
 
 Anton følte sig presset og skrev under.   
 
-Eksamensspørgsmålene, der skal tages stillin til:
+Eksamensspørgsmålene, der skal tages stilling til:
 
 1.	Kan Hr. Knudsen kræve erstatning og i givet fald for hvad og af hvem? 
     
@@ -1447,7 +1447,7 @@ Må det antages, at forsikringstageren ved forsikringens tegning hverken vidste 
 
 Har forsikringstageren, uden at forholdet omfattes af FAL §§ 4 eller 5, givet urigtig oplysning, er selskabet fri for ansvar, hvis det kan antages ikke at ville have overtaget forsikringen, om det rette forhold havde været oplyst, jf. FAL § 6, stk. 1. 
 
-Hvis forsikringstageren uden at have oplyst det til sit forsikringsselskab fx. udlejer sin bil, og der sker skade på bilen, eller tyveri af bilen under udlejningen, eller, at forsikringstageren udlåner bilen til sin søn, og der sker skade på bilen, må betrages som grov uagtsomhed, at disse oplysninger ikke er blevet givet til forsikringsselskabet, med det sandsynlige resultat, at forsikringsselskabet er berettiget til afvise et erstatning, jf. FAL § 6 stk. 1. og FAL § 7. 
+Hvis forsikringstageren uden at have oplyst det til sit forsikringsselskab fx. udlejer sin bil, og der sker skade på bilen, eller tyveri af bilen under udlejningen, eller, at forsikringstageren udlåner bilen til sin søn, og der sker skade på bilen, må betragtes som grov uagtsomhed, at disse oplysninger ikke er blevet givet til forsikringsselskabet, med det sandsynlige resultat, at forsikringsselskabet er berettiget til at afvise erstatning, jf. FAL § 6 stk. 1. og FAL § 7. 
 
 Disse uoplyste forhold, omkring anvendelsen af bilen forøger forsikringsselskabets risiko, som ikke er blevet beregnet ind i præmiens fastlæggelse for kaskoforsikringen på bilen og denne anvendelse af bilen vil typisk være i strid med forsikringsvilkårene for kaskoforsikringen. 
 
@@ -1469,7 +1469,7 @@ En forsikringsaftale er normalt en standardkontrakt og vil blive fortolket imod 
 
 For indgåelse af en forsikringsaftale gælder aftalelovens almindelige regler.
 
-Det er relevant at nævne, at der er pligt til at brandforsikre en ejendom, såfremt man ønsker den finansieret.
+Det er relevant at nævne, at der er pligt til at brandforsikre en ejendom, hvis man ønsker den finansieret.
 
 
 
@@ -1479,7 +1479,7 @@ Det er relevant at nævne, at der er pligt til at brandforsikre en ejendom, såf
 
 ![](img/Guadeloupe.jpg)
 
-Se afgørelsen i **Sagsnr.: 83897:** Klager over afvisning af dækning for feriekompensation. Klager anmeldte, at hun var blevet syg under en ferierejse i Guadeloupe, der var et oversøisk fransk departement. Selskabet henviste til, at Guadeloupe ikke var omfattet af forsikringens geografiske dækningsområde, EU/EØS. Selskabet henviste til policen og påpegede bl.a., at forsikringen alene dækkede i de lande, der var omtalt i forsikringens definition af EU/EØS. Nævnet fandt, at policen og forsikringsbetingelserne var udformet på en sådan måde, at forsikringstageren ikke kunne få et klart og entydigt svar på, hvilke geografiske områder, der var dækket. Nævnet bemærkede, at opstod der tvivl om forståelsen af en aftale, og havde det pågældende aftalevilkår ikke været genstand for individuel forhandling, fortolkedes vilkåret på den måde, som var mest gunstig for forbrugeren, jf. aftalelovens § 38 b. Da Guadeloupe var en del af Frankrig, var selskabet ikke berettiget til at afvise at yde forsikringsdækning. Klager medhold.  
+Se afgørelsen i **Sagsnr.: 83897:** Klager over afvisning af dækning for feriekompensation. Klager anmeldte, at hun var blevet syg under en ferierejse i Guadeloupe, der var et oversøisk fransk departement. Selskabet henviste til, at Guadeloupe ikke var omfattet af forsikringens geografiske dækningsområde, EU/EØS. Selskabet henviste til policen og påpegede bl.a., at forsikringen alene dækkede i de lande, der var omtalt i forsikringens definition af EU/EØS. Nævnet fandt, at policen og forsikringsbetingelserne var udformet på en sådan måde, at forsikringstageren ikke kunne få et klart og entydigt svar på, hvilke geografiske områder, der var dækket. Nævnet bemærkede, at opstod der tvivl om forståelsen af en aftale, og havde det pågældende aftalevilkår ikke været genstand for individuel forhandling, fortolkedes vilkåret på den måde, som var mest gunstig for forbrugeren, jf. aftalelovens § 38 b. Da Guadeloupe var en del af Frankrig, var selskabet ikke berettiget til at nægte at yde forsikringsdækning. Klager medhold.  
 
 ---
 
@@ -1532,7 +1532,7 @@ Selskabet har også bevisbyrden, hvis det anfører, at man har undladt at sikre 
 
 ---
 
-Eksempelvis skal forsikringsselskabet bevise, at man har kørt alkoholpåvirket, at man har kørt over for rødt, at man har kørt alt for hurtigt eller på anden måde har handlet forsætligt eller groft uagtsomt.  
+Fx skal forsikringsselskabet bevise, at man har kørt alkoholpåvirket, at man har kørt over for rødt, at man har kørt alt for hurtigt eller på anden måde har handlet forsætligt eller groft uagtsomt.  
 
 Hvis selskabet gør gældende, at ens krav er forældet, er det selskabet, der skal bevise dette. I alle sager gælder, at det kan have betydning for beviset, hvis en af parterne ikke vil eller kan fremlægge visse oplysninger. 
 
@@ -1569,7 +1569,7 @@ Der er forsikringspligt indenfor bl.a. arbejdsskadeloven, færdselsloven, jagtlo
 
 Se domspraksis om en sag vedrørende jagtansvarsforsikringen:
 
-Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, afviste at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbart forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. **<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
+Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet sted hen for at spise frokost. Efter frokost ville jægerne A og B justere A's riffel, men ved et uheld blev A dræbt, da B utilsigtet affyrede riflen. Den lovpligtige jagtansvarsforsikring, F1, nægtede at dække skaden med henvisning til, at denne forsikring kun dækker under „jagt eller i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning“. B's almindelige ansvarsforsikring, F2, dækkede skaden, men gjorde regres over for F1 og gjorde bl.a. gældende, at vådeskudsulykken skete i en for jagten naturlig tilknyttet situation, hvor der blev håndteret jagtvåben. Landsretten fandt ikke, at ulykken var sket under jagt, eller at den havde haft en sådan tæt tidsmæssig og stedlig tilknytning til jagt, at ulykken kunne anses som sket i umiddelbar forbindelse med jagtens påbegyndelse eller afslutning. F1 blev derfor frifundet. **<a href="https://pro.karnovgroup.dk/document/7000517576/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -1582,7 +1582,7 @@ Se dommen i **FED 2012.14:** Jagt blev afbrudt og deltagerne kørte et andet ste
 
 Det sker via et skema kaldet en **"forsikringsbegæring“**, hvor man giver forsikringsselskabet de oplysninger, som danner grundlag for forsikringens art, størrelse, risiko og antagelsesvilkår. 
 
-Forsikringsbegæringen vil normalt indeholde oplysninger om ens person m.m. og omfatte en række spørgsmål, som man skal besvare til belysning af risikoforholdene. 
+Forsikringsbegæringen vil normalt indeholde oplysninger om ens person m.m. at omfatte en række spørgsmål, som man skal besvare til belysning af risikoforholdene. 
 
 Disse spørgsmål har man pligt til at besvare i nøje overensstemmelse med de faktiske forhold. 
 
@@ -1614,7 +1614,7 @@ Et forsikringsselskab eller en pensionskasse må ligeledes anmode om og bruge op
 
 Forsikringsaftalen kommer i stand, ved at forsikringsselskabet accepterer ens forsikringsbegæring, enten i form af et antagende svar eller eventuelt blot ved fremsendelse af en police til forsikringstageren.
 
-Et forsikringselskabs afslag på at tegne en forsikring som begæret og forsikringsselskabets opsigelse af en forsikringsaftale skal efter anmodning begrundes. 
+Et forsikringsselskabs afslag på at tegne en forsikring som begæret og forsikringsselskabets opsigelse af en forsikringsaftale skal efter anmodning begrundes. 
 
 ---
 
@@ -1636,7 +1636,7 @@ Begrundelsen skal efter anmodning være skriftlig.
 
 ---
 
-Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbestingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler, se Lovsamlingen.
+Skadesforsikringens dækningsomfang reguleres af policen, de almindelige forsikringsbetingelser i overensstemmelse med forsikringsaftaleloven, jf. Lovbekendtgørelse 2015-11-09 nr. 1237 om forsikringsaftaler, se Lovsamlingen.
 
 <h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>
 
@@ -1667,7 +1667,7 @@ Forsikringssummen skal andrage mindst 3 millioner kroner pr. forsikringsår. Det
 
 ---
 
-Pligt til at tegne forsikring kan endvidere være pålagt medlemmerne af en forening mv. For eksempel skal advokater efter vedtægterne for Det Danske Advokatsamfund tegne en ansvarsforsikring, og efter retsplejelovens § 143 har en advokat pligt til at være medlem af Advokatsamfundet.
+Pligt til at tegne forsikring kan desuden være pålagt medlemmerne af en forening mv. For eksempel skal advokater efter vedtægterne for Det Danske Advokatsamfund tegne en ansvarsforsikring, og efter retsplejelovens § 143 har en advokat pligt til at være medlem af Advokatsamfundet.
 
 Det kan også i en aftale være bestemt, at en af parterne skal tegne en forsikring, fx at sælgeren af en vare skal tegne forsikring for varen, indtil den når frem til bestemmelsesstedet. 
 
@@ -1695,7 +1695,7 @@ Omkring **"lynnedslag"**, jf.	FAL § 81, stk. 1: Hvis ikke andet er aftalt, svar
 
 ***Studenteropgave***
 
-Find 4 afgørelser fra Ankeknævnet for forsikring (Forsikringsankenævnet) om brandforsikring, hvor ankenævnet giver afslag på forsikringssummen, eller at ankenævnet giver klageren medhold på udbetaling af forsikringssummen ved en brand.
+Find 4 afgørelser fra Ankenævnet for forsikring (Forsikringsankenævnet) om brandforsikring, hvor ankenævnet giver afslag på forsikringssummen, eller at ankenævnet giver klageren medhold på udbetaling af forsikringssummen ved en brand.
 
 
 **<a href="http://ankeforsikring.dk/kendelser/Sider/kendelser.aspx#Default=%7B%22o%22%3A%5B%7B%22d%22%3A%221%22%2C%22p%22%3A%22AnkeforsikringClosedDate%22%7D%5D%7D" target="_blank">klik her!</a>**
@@ -1781,7 +1781,7 @@ Det er muligt at tegne en børneulykkesforsikring der dækker dine børn indtil 
 
 **Dobbelterstatning**
 
-Flere selskaber giver mulighed for at tegne en dobbelterstatning, hvilket betyder, at man får udbetalt det dobbelte beløb ved en mén-grad på 30 % eller mere. 
+Flere selskaber giver mulighed for at tegne en dobbelterstatning, hvilket betyder, at man får udbetalt det dobbelte beløb ved en méngrad på 30 % eller mere. 
 
 Det vil sige, at hvis man mister en hånd og således bliver 30 % invalid efter Arbejdsmarkedets Erhvervssikringens méntabel, se link ovenfor, så udbetaler forsikringsselskabet 60 % af summen, man har forsikret sig for.
 
@@ -1791,9 +1791,9 @@ Har du således forsikret dig for 1. mio. kr., så ville du under normale omstæ
 
 **Fuld erstatning ved øje eller øre**
 
-En lignende udvidet dækning kan også tegnes inden for andre områder fx øje og øre.
+En lignende udvidet dækning, kan også tegnes inden for andre områder fx øje og øre.
 
-Eksempel: Hvis man i forvejen er døv på det ene øre og man bliver døv på ens raske øre, og man har forsikret sig for 1. mio. kr., så vil man under normale omstændigheder modtage 100.000 kr., da det svarer til 10 % invaliditet iflg. Arbejdsmarkedets Erhvervssikringens méntabel. Hvis man derimod har tegnet en udvidet dækning kan man modtage helt op til 75 % i dækning for ens øre, hvilket betyder, at man vil modtage op til 750.000 kr.
+Eksempel: Hvis man i forvejen er døv på det ene øre og man bliver døv på ens raske øre, og man har forsikret sig for 1. mio. kr., så vil man under normale omstændigheder modtage 100.000 kr., da det svarer til 10 % invaliditet iflg. Arbejdsmarkedets Erhvervssikringens méntabel. Hvis man derimod har tegnet en udvidet dækning, kan man modtage helt op til 75 % i dækning for ens øre, hvilket betyder, at man vil modtage op til 750.000 kr.
 
 Er man i forvejen blind eller har nedsat syn på ens ene øje, og man bliver blind på det andet raske øje, vil udbetalingen blive sat til 100 % i dækning.
 
@@ -1838,13 +1838,13 @@ Ulykkesforsikringen vil ikke dække, hvis man jævnligt dyrker ekstremsport elle
 
 **Når man bliver ældre**
 
-Der kan være forskellige betingelser når du bliver ældre fx omkring 60-70 års alderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
+Der kan være forskellige betingelser når du bliver ældre fx omkring 60-70- årsalderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
 
 ---
 
 **Motorcykel, scooter og 45-knallert**
 
-Der kan være forskellige betingelser når man bliver ældre fx omkring 60-70 års alderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
+Der kan være forskellige betingelser når man bliver ældre fx omkring 60-70-årsalderen. Hos nogle selskaber nedsættes erstatningen, hvor andre selskaber hæver præmien. 
 
 ---
 
@@ -1866,7 +1866,7 @@ Det er altså altafgørende at man kontakter sit forsikringsselskab kort efter a
 
 Når børnene når de 2-3 år skal de have tegnet en separat ulykkesforsikring. Indtil 2012 var det sådan at de fleste kommuner havde en fælles forsikring, for alle børn i daginstitutioner og skoler. 
 
-Fra januar 2012 er det ikke længere lovligt for kommunen at tegne den slags forsikringer og børnene skal altså have deres egen børneulykkesforsikring, der kan dække behandlingen, hvis de skulle falde ned fra et klatrestativ. 
+Fra januar 2012 blev det ikke længere lovligt for kommunen at tegne den slags forsikringer og børnene skal altså have deres egen børneulykkesforsikring, der kan dække behandlingen, hvis de skulle falde ned fra et klatrestativ. 
 
 Ofte vil faldulykker kræve ekstra genoptræning og fysioterapi, som går ud over det kommunen dækker og det vil en børneulykkesforsikring i så fald kunne dække.
 
@@ -1874,7 +1874,7 @@ I uheldige tilfælde kan ulykker betyde at ens børn får varige mén og handica
 
 En børneulykkesforsikring sikrer at man får en erstatning svarende til den skade ens barn har været udsat for. 
 
-Sørg derfor også for at vælge en forsikringssum på forsikringen, der ikke er for lille. Normalt bør man vælge en forsikringssum på ca. 1 mio kroner.
+Sørg derfor også for at vælge en forsikringssum på forsikringen, der ikke er for lille. Normalt bør man vælge en forsikringssum på ca. 1 mio. kroner.
 
 En anden meget almindelig ulykke for børn er tandskader. Børn der falder på cyklen kan lave alvorlige skader på tænderne og kommunerne dækker ikke længere den slags skader. Derfor skal børn selv have en børneulykkesforsikring med tandskadedækning. 
 
@@ -1893,11 +1893,11 @@ Det latinske udtryk **contra bonos mores**	**i strid med lov og ærbarhed**. **D
 
 ---
 
-Et forsikringselskab kan derfor ikke tilbyde at sælge forsikringer imod fartbøder eller parkeringsafgifter, det vil ikke være en lovlig interesse der kan forsikres.
+Et forsikringsselskab kan derfor ikke tilbyde at sælge forsikringer imod fartbøder eller parkeringsafgifter, det vil ikke være en lovlig interesse der kan forsikres.
 
 ---
 
-Forsikringselskaberne skal således ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder, fx opståede skader i forbindelse med hæleri, tyveri eller skader og mangler udført af en håndværker med betaling af beløbet uden moms (sortarbejde). 
+Forsikringsselskaberne skal således ikke dække på en skadesforsikring, hvis skaden er sket i forbindelse med begået ulovligheder, fx opståede skader i forbindelse med hæleri, tyveri eller skader og mangler udført af en håndværker med betaling af beløbet uden moms (sort arbejde). 
 
 Man vil heller ikke som forbruger kunne klage til Byggeriets Ankenævn over den mangelfulde ydelse fra "den sorte håndværker"
 
@@ -2017,7 +2017,7 @@ En rejseforsikring er en forsikring, der kan kompensere og afhjælpe økonomiske
 
 ## Ansvarsforsikringen
 
-En ansvarsforsikring kan "fratage" dig ansvar hvis du kommer til at gøre skade på andre mennesker, ting eller hvis du ejer en virksomhed der sælger produkter hvor du f.eks. kan risikere at blive retsforfulgt. 
+En ansvarsforsikring kan "fratage" dig ansvar hvis du kommer til at gøre skade på andre mennesker, ting eller hvis du ejer en virksomhed der sælger produkter hvor du fx kan risikere at blive retsforfulgt. 
 
 **<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#ansvarsforsikringen">Om ansvarsforsikringen, se Juridisk Håndbog klik her!</a>**
 
@@ -2080,7 +2080,7 @@ Livsforsikring er således ikke skadesforsikring, men en **summaforsikring**, de
 
 Berigelsesforbudet i FAL § 39: "Selskabet er, selv om andet er aftalt, ikke forpligtet til at udrede større erstatning end, hvad der kræves til den lidte skades dækning": 
 
-Gælder kun ved **tingsforsikring**, men ikke for summaforsikring. Dvs fx hvis man har flere livsforsikringer får man udbetalt fra alle forsikringerne. 
+Gælder kun ved **tingsforsikring**, men ikke for summaforsikring. Dvs. fx hvis man har flere livsforsikringer får man udbetalt fra alle forsikringerne. 
 
 
 ---
@@ -2206,7 +2206,7 @@ Nedennævnte erstatningsbetingelse skal gennemgås for hver enkelt potentiel ska
 
 * Pligt til at tilkalde assistance ved personskade og livsfare.
 
-* Pligt for forældre, lærer og pædagoger til holde opsyn med børn med børn i deres varetægt.
+* Pligt for forældre, lærer og pædagoger til at holde opsyn med børn med børn i deres varetægt.
 
 ---
 
@@ -2302,7 +2302,7 @@ Såsom:
 
 - **Nødret** – skadevolder ofrer et gode for at redde et dyrere eller forhindre personskade, jf. straffelovens § 14.
 
-- **Lovlig retshåndhævelse** – skader, der sker ved lovlig retshåndhævelse/anholdelser o. lign.
+- **Lovlig retshåndhævelse** – skader, der sker ved lovlige retshåndhævelse/anholdelser o. lign.
 
 - **Samtykke** – hvis skadelidte har samtykket i handlingen.
 
@@ -2333,7 +2333,7 @@ Såsom:
 
 - I det omgang skaden er dækket af en tingsforsikring eller en driftstabsforsikring, er der ikke erstatningsansvar for skadevolder – jf. EAL § 19. En selvrisiko skal således erstattes. 
 
-- Er skaden forvoldt ved forsæt eller grov uagtsomhed, eller er skaden forvoldt ved erhvervsmæssig virksomhed, eller offentlig virksomhed, der må ligestilles hermed er skadevolder ikke ansvarsfri – jf. EAL § 19, stk. 2.
+- Er skaden forvoldt ved forsæt eller grov uagtsomhed, eller er skaden forvoldt ved erhvervsmæssig virksomhed, eller offentlig virksomhed, der må ligestilles hermed, er skadevolder ikke ansvarsfri – jf. EAL § 19, stk. 2.
 
 - Gælder ikke, hvis det er en lovpligtig ansvarsforsikring for motorkøretøjer – jf. EAL § 21, nr. 1.
 

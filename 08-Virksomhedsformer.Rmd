@@ -16,7 +16,7 @@ cat(readLines('np.html'))
 
 ---
 
-***Som studerende skal man være særlig opmærsom på følgende ved gennemgangen af virksomhedsformer:***
+***Som studerende skal man være særlig opmærksom på følgende ved gennemgangen af virksomhedsformer:***
 
 
 ---
@@ -300,7 +300,7 @@ Den tidligere definition i selskabsloven er udgået og definitionen findes nu i 
 
 Det er fundet unødvendigt at medtage en negativ afgrænsning heraf også i selskabsloven, hvor heller ikke andre juridiske personer, der falder uden for selskabsloven (eksempelvis fonde og foreninger) er negativt afgrænset.
 
-*Finansielle virksomheder: er som udgangspunkt omfattet af selskabsloven, men er i øvrigt undergivet omfattende særregulering, jf. især lov om finansiel virksomheder. 
+*Finansielle virksomheder: er som udgangspunkt omfattet af selskabsloven, men er i øvrigt undergivet omfattende særregulering, jf. især lov om finansielle virksomheder. 
 
 ---
 
@@ -445,9 +445,9 @@ Hverken **garantikapital** eller **ansvarlig lånekapital/indskudskapital** skal
 
 ---
   
-Et lån, der er ydet til selskabet på vilkår, at det skal stå tilbage for alle eksisterende og eller kommende selskabskreditorer, skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf. årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i regnskabsklasse C (mellemstore og store selskaber) og regnskabsklasse D (navnlige statslige og børnoterede aktieselskaber). 
+Et lån, der er ydet til selskabet på vilkår, at det skal stå tilbage for alle eksisterende og eller kommende selskabskreditorer, skal særskilt opregnes med noteoplysning herom i årsregnskabet, jf. årsregnskabsloven § 93, stk. 3 (der gælder for virksomheder i regnskabsklasse C (mellemstore og store selskaber) og regnskabsklasse D (navnlig statslige og børsnoterede aktieselskaber). 
 
-En årsregnskabsoplysning om, at låntagerselskabet er rådig over et ansvarligt lån, er et løfte til almenheden om at lånet indestår »indtil videre«.
+En årsregnskabsoplysning om, at låntagerselskabet er rådigt over et ansvarligt lån, er et løfte til almenheden om at lånet indestår »indtil videre«.
   
 ---
 
@@ -473,7 +473,7 @@ Ivar ejer en nedlagt landejendom, der er belånt langt udover dens værdi. Han h
 
 Ivars bil har en værdi af ca. kr. 150.000, men den er købt med ejendomsforbehold hos en autoforhandler og der skyldes fortsat 128.000 i den. 
 
-I banken har han to indlånskonti – en NEM-konto med et indestående på kr. 2.982 og en konto med et indestående på kr. 79.000, der hidrører fra en arbejdsskadeerstatning, som han fik udbetalt efter en arbejdsulykke for en del år siden. 
+I banken har han to indlånskonti – en NEMkonto med et indestående på kr. 2.982 og en konto med et indestående på kr. 79.000, der hidrører fra en arbejdsskadeerstatning, som han fik udbetalt efter en arbejdsulykke for en del år siden. 
 
 Herudover har han et depot med en aktiepost i Carlsberg med en kursværdi på ca. kr. 20.000. Hos tre kunder har han nog-le tilgodehavender på i alt kr. 85.000 for levering af varer. 
 
@@ -510,7 +510,7 @@ Ivar havde under fogedretsmødet oplyst Zync Invest om pantebrevet til banken. U
 ---
 
 
-Ivar vil gerne starte endnu et erhvervsprojekt op sammen med sin svoger. Men da de er to deltagere overvejer han nu bl.a. på baggrund af råd fra sin revisor, om de i stedet kan starte op i et anpartsselskab. 
+Ivar vil gerne starte endnu et erhvervsprojekt op sammen med sin svoger. Men da de er to deltagere, overvejer han nu bl.a. på baggrund af råd fra sin revisor, om de i stedet kan starte op i et anpartsselskab. 
 
 
 **Eksamensspørgsmålet:**
@@ -591,7 +591,7 @@ Tilsvarende gælder, at når en kapitalejer har indbetalt sine kapitalandele ful
 
 ---
 
-Udover at kapitalselskabets ejere og ledelse kan ifalde erstatningsansvar efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejere/ledelse ikke har handlet ansvarspådragende.
+Udover at kapitalselskabets ejere og ledelse kan ifalde erstatningsansvar efter reglerne i selskabslovens kapitel 22, der i vidt omfang er modelleret over dansk rets almindelige erstatningsreger og omtales i forbindelse med det nævnte kapitels enkelte bestemmelser, kan der tænkes en såkaldt gennembrudshæftelse – som dog er meget sjældent set i praksis, men hvis grundsynspunkt kan føre til hæftelse på objektivt grundlag, altså hvor kapitalejer/ledelse ikke har handlet ansvarspådragende.
 
 ---
 
@@ -644,7 +644,7 @@ Et anpartsselskab kan have én eller flere ejere.
 
 Ejerne af selskabet kan være privatpersoner, eller det kan være selskaber. 
 
-Ejerandelen af selskabet bestemmes af, hvor stor en del af anpartsselskabets kapital personen eller selskabet har indskudt.
+Ejerandelen af selskabet bestemmes af, hvor stor en del af anpartsselskabets kapitalperson eller selskabet har indskudt.
 
 ---
 
@@ -708,7 +708,7 @@ Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltperso
 
 ## Partnerselskab P/S
 
-**Kaldes også kommanditaktieselska
+**Kaldes også kommanditaktieselskab
 
 **2 typer selskabsdeltagere:** 
 
@@ -724,7 +724,7 @@ Selskabsformen bruges især i advokatbranchen.
 
 **Hæftelse:**
 
-Komplementaren hæfter personligt og direkte, og hvis der er flere komplementarer hæfter de solidarisk.
+Komplementaren hæfter personligt og direkte, og hvis der er flere komplementarer, hæfter de solidarisk.
 
 Kommanditaktionæren hæfter begrænset.
 
@@ -761,7 +761,7 @@ Ses inden for landbrug, indkøbs- og brugsforeninger, vandværk, varme- og elfor
 
 ---
 
-**Hæftelsen** i et andelsselskab er ikke lovreguleret. Hæftelsesformen fremgår af selskabets  vedtægter.
+**Hæftelsen** i et andelsselskab er ikke lovreguleret. Hæftelsesformen fremgår af selskabets vedtægter.
 
 Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte, dvs. at kreditorerne først skal have udtømt alle muligheder for inddrivelse hos andelsselskabet, før de kan gå efter andelshaverne.
  

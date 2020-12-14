@@ -162,7 +162,7 @@ Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testament
 
 Arvelader kan selv få indflydelse på fordeling af arven ved at oprette testamente. 
 
-Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen, (på latin; "fiscus"),  jf. nærmere AL § 95, stk. 1: "Er der ingen arvinger efter loven eller testamente, tilfalder afdødes formue staten".  
+Er der ingen arvinger efter arvelov eller testamente tilfalder arven statskassen, (på latin; "fiscus"), jf. nærmere AL § 95, stk. 1: "Er der ingen arvinger efter loven eller testamente, tilfalder afdødes formue staten".  
 
 ---
 
@@ -231,7 +231,7 @@ Er en af forældrene død, træder dennes børn (**arveladers søskende**) i ste
 
 ---
 
-Hvis der ikke er oprettet testamente så følger arven arveklasserne.
+Hvis der ikke er oprettet testamente, så følger arven arveklasserne.
 
 Bestemmelsen i AL § 2 omhandler således arv til 2. arveklasse - forældrelinjen. 
 
@@ -279,7 +279,7 @@ Arveladerens kusiner og fætre samt deres børn er således ikke legale arvinger
 
 ---
 
-Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på mødrene side sker efter stirpal-grundsætningen i § 2, og fordeles således ud i 1/4 til hhv. farfaren eller dennes børn, farmoren eller dennes børn, mormoren eller dennes børn samt morfaren eller dennes børn. 
+Arven mellem bedsteforældrelinien på fædrene side og bedsteforældrene på mødrene side sker efter stirpalgrundsætningen i § 2, og fordeles således ud i 1/4 til hhv. farfaren eller dennes børn, farmoren eller dennes børn, mormoren eller dennes børn samt morfaren eller dennes børn. 
 
 ---
 
@@ -796,7 +796,7 @@ Personer, der sidder i uskiftet bo, kan ikke oprette udvidet samlevertestamente.
 
 ---
 
-Parterne skal endvidere på dødstidspunktet leve sammen sammen på fælles bopæl og  
+Parterne skal desuden på dødstidspunktet leve sammen på fælles bopæl og  
 
 a) vente, have eller have haft et fælles barn eller  
 
@@ -836,7 +836,7 @@ Barnet er tvangsarving, og arven til barnet kan højst begrænses til en fjerded
 
 I denne situation, hvor der ikke er andre livsarvinger, skulle barnet i udgangspunktet arve halvdelen af den formue, der falder i arv efter førstafdøde. Dvs. tvangsarven til barnet efter førstafdøde udgør ¼ x ½ = 1/8 
 
-Fællesformuen, som skal deles, efter førsteafdøde udgør fx på dette tidspunkt i alt 600.000 kr. Arven efter førstafdøde udgør altså i alt 300.000 kr., hvoraf længstlevende skal arve mest muligt, dvs. 7/8 eller i alt 262.500 kr. og barnet får 37.500 kr. i tvangsarv efter den førstafdøde.    
+Fællesformuen, som skal deles, efter førstafdøde udgør fx på dette tidspunkt i alt 600.000 kr. Arven efter førstafdøde udgør altså i alt 300.000 kr., hvoraf længstlevende skal arve mest muligt, dvs. 7/8 eller i alt 262.500 kr. og barnet får 37.500 kr. i tvangsarv efter den førstafdøde.    
 
 ---
 
@@ -848,7 +848,7 @@ Fællesformuen, som skal deles, efter førsteafdøde udgør fx på dette tidspun
 
 Testamentarisk bestemmelse om, hvem der skal arve sædvanligt indbo og personlige effekter. 
 
-Kan ifølge  arvelovens § 66 oprettes skriftligt af testator ved en dateret og underskrevet erklæring. 
+Kan ifølge arvelovens § 66 oprettes skriftligt af testator ved en dateret og underskrevet erklæring. 
 
 For den, der i forvejen er arving, anses en begunstigelse i et indbotestamente for en fortrinsret til inden for sin arvelod at overtage de pågældende genstande til vurderingsbeløbet, medmindre andet fremgår af den testamentariske bestemmelse.
 
@@ -1261,7 +1261,7 @@ Hvem er arvinger efter Bo Mortensen og hvor stor en andel får de hver især af 
 
 -	Ufødte børn tager kun arv, hvis de er avlet forinden dødsfaldet og fødes levnede - AL (arveloven) § 94, stk. 1.
 
--	Kun arvinger, der er i live på dødstidspunktet tager arv - jf. AL § 94, stk. 1.
+-	Kun arvinger, der er i live på dødstidspunktet, tager arv - jf. AL § 94, stk. 1.
 
 -	Er to, som har arvet efter hinanden, døde, uden at det vides, hvem der er død først, arver ingen af dem hinanden - jf. AL § 94, stk. 2.
 
@@ -1273,7 +1273,7 @@ Hvem er arvinger efter Bo Mortensen og hvor stor en andel får de hver især af 
 
 -	Livsarvingers afkom - jf. AL § 1, stk. 2. 
 
--	Adaptivbørn sidestilles med livarvinger, jf. AL § 4.
+-	Adoptivbørn sidestilles med livsarvinger, jf. AL § 4.
 
 -	Ægtefællen, jf. AL § 9. 
 
@@ -1347,7 +1347,7 @@ Formkrav:
 
 **2.2.3. Nødtestamente - jf. AL § 65**
 
--	Består der hindringer på grund af sygdom eller nødstilfælde, således at der ikke kunne oprettes notar- eller vidnetestamente, kan der oprettes et nødtestamente på en hvilken som helst anden måde - jf. AL § 65, stk. 1.
+-	Består der hindringer på grund af sygdom eller nødstilfælde, så der ikke kunne oprettes notar- eller vidnetestamente, kan der oprettes et nødtestamente på en hvilken som helst anden måde - jf. AL § 65, stk. 1.
 
 -	Et nødstestamente bortfalder 3 måneder efter af hindringer er ophørt - jf. AL § 65, stk. 2.
 
@@ -1357,7 +1357,7 @@ Formkrav:
 
 -	Livsarvinger og ægtefællen er tvangsarvinger, og testator kan alene begrænse deres arv til ¼ - jf. AL § 5, stk. 1.
 
--	Testator kan ved testamente begrænse arvelodden til hvert af sine børn til kr. 1.000.000 - jf. AL § 5, stk. 2. Dette vil også binde deres livsarvinger, med mindre andet fremgår af testamentet.
+-	Testator kan ved testamente begrænse arvelodden til hvert af sine børn til kr. 1.000.000 - jf. AL § 5, stk. 2. Dette vil også binde deres livsarvinger, medmindre andet fremgår af testamentet.
 
 -	Længstlevende kan uanset ovenstående udtaget, så meget, at værdien deraf sammenlagt med længstlevendes boslod, arvelod og særeje, udgør indtil kr. 630.000 (2009). - jf. AL § 11, stk. 3.
 
@@ -1487,7 +1487,7 @@ Formkrav:
 
 -	Hvis kun livsarvinger, arver disse i lige deling det hele - jf. AL § 1, stk. 1. 
 
--	Ellers arveklasse 2,3 og Statsklassen i rækkefølge. 
+-	Ellers arveklasse 2,3 og Statskassen i rækkefølge. 
 
 ---
 

@@ -144,8 +144,6 @@ På bopælen, hvis det ikke har med erhvervsmæssigt salg at gøre, fx henvendel
 
 ---
 
-
-
 ## Forbrugeraftalers ugyldighed og bødestraf
 
 * Aftalen er ugyldig: Aftaler indgået i strid med FBL § 4 er ugyldige, jf. FBL § 5. Forbrugeren kan godt fastholde aftalen uanset ugyldighed. 
@@ -306,7 +304,7 @@ Hovedreglen i dansk ret er, at der ingen fortrydelsesret er ved køb i den fysis
 
 **Fortrydelsesret ved køb af fast ejendom, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom:**
 
-En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af den nominelle købesummen, se nærmere ebogens kap. 21.
+En køber kan fortryde et køb af en fast ejendom i 6 hverdage fra aftalens indgåelse mod samtidig betaling af en godtgørelse til sælger på 1% af den nominelle købesum, se nærmere ebogens kap. 21.
 
 ---
 
@@ -448,7 +446,7 @@ Der kan anvendes en standardfortrydelsesformular.
 
 **Fortrydelsesret ved køb af værdipapirer?**
 
-**HR.** Køb og salg af værdipapir er der tale om en finansiel fjernsalgsaftale og udgangspunktet er, at der er 14 dages fortrydelsesret. Den erhvervsdrivende skal på en synlig måde oplyse om, at der ikke ved købet af værdipair er nogen fortrydelsesret.
+**HR.** Køb og salg af værdipapir er der tale om en finansiel fjernsalgsaftale og udgangspunktet er, at der er 14 dages fortrydelsesret. Den erhvervsdrivende skal på en synlig måde oplyse om, at der ikke ved købet af værdipapir er nogen fortrydelsesret.
 
 ---
 
@@ -537,7 +535,7 @@ Se Forbrugerklagenævnets sagsnr.: *18/11554*, hvor et vilkår om fysisk fremmø
 
 (Emnet er ikke pensum på finansøkonomuddannelsen)
 
-En central lov for e-handelsretten er **e-handelsloven** (Lov nr. 227 af 22. april 2002 om tjenester i informationssamfundet herunder visse aspekter af elektronisk handel.e-handelsloven har gennemført dele af Europa-Parlamentets og Rådets direktiv af 2000-06-08om visse retlige aspekter af informationssamfundstjenester, navnlig elektronisk handel, i det indre marked (»Direktivet om elektronisk handel«) (2000/31).
+En central lov for e-handelsretten er **e-handelsloven** (Lov nr. 227 af 22. april 2002 om tjenester i informationssamfundet herunder visse aspekter af elektronisk handel. E-handelsloven har gennemført dele af Europa-Parlamentets og Rådets direktiv af 2000-06-08om visse retlige aspekter af informationssamfundstjenester, navnlig elektronisk handel, i det indre marked (»Direktivet om elektronisk handel«) (2000/31).
 
 ---
 

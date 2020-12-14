@@ -4,6 +4,10 @@
 cat(readLines('np.html'))
 ```
 
+
+
+
+
 <!-- ```{r echo=FALSE} -->
 
 <!-- BEGREB <<- c( -->
@@ -177,7 +181,7 @@ Grundlovens § 3 har følgende ordlyd:
 
 
 ```{r Magtenstredeling,echo=FALSE, result=TRUE, fig.cap=("Magtens tredeling")}
-
+library(visNetwork)
 nodes <- data.frame(id = 1:3, 
                     shape = c("box"), 
                     level = c(1,2,2),
@@ -505,7 +509,7 @@ Taber regeringen valget, skal der findes en ny statsminister og en ny regering.
 
 Den siddende statsminister skal, i samarbejde med dronningen, finde ud af, hvilken statsministerkandidat der har den bredeste opbakning hos det nye folketingsmedlemmer. Det kaldes en dronningerunde.
 
-Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddeende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i 2019.
+Der kan også udnævnes af dronningen en "kongelig undersøger", som ikke nødvendigvis er den siddende statsminister, se fx udnævnelsen af Mette Frederiksen som kongelig undersøger efter folketingsvalget i 2019.
 
 ---
 
@@ -1042,7 +1046,7 @@ Følger også af romerretten: *"actor sequitur forum rei"*;	sagsøgeren skal anl
 
 ---
 
-Værneting er således et spørgsmålet om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
+Værneting er et spørgsmål om, hvor en retssag skal anlægges og føres. Ved hvilken domstol en sag skal anlægges, hvis der opstår uenighed mellem aftaleparter med bopæl i hver sit EU-land, afhænger af, om der er indgået en værnetingsaftale og af EU-Domsforordningen.
 
 ---
 
@@ -1133,7 +1137,7 @@ Retten skal afgøre sagen på grundlag af parternes påstande og de oplysninger,
 
 ---
 
-Den processuelle grundsætning: **ne bis in idem;** der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), således at en ny sag må afvises.
+Den processuelle grundsætning: **ne bis in idem;** der må ikke føres proces to gange om samme spørgsmål. Den første sag har retskraft (gælder), så en ny sag må afvises.
 
 ---
 
@@ -1222,7 +1226,7 @@ At det bliver lettere at gå i retten for privatpersoner og mindre erhvervsdrive
 
 Murermester Hansen har en kunde, fru Nielsen, som nægter at betale sin regning på 29.000 kr. for en reparation på skorstenen, fordi hun ikke mener, at murermester Hansen har udført arbejdet grundigt nok. Hun kræver, at murermester Hansen gør arbejdet om, før hun vil betale regningen.
 
-Murermester Hansen vil have sine penge og anlægger derefter sagen i småsagsprocessen blot ved at udfylde en stævningsblanket til retten. Retten hjælper derefter både muremester Hansen og fru Nielsen med at tilrettelægge sagen, formulere deres påstande og evt. få en sagkyndig til at undersøge skorstenen. Tidligere skulle de selv have sørget for det.
+Murermester Hansen vil have sine penge og anlægger derefter sagen i småsagsprocessen blot ved at udfylde en stævningsblanket til retten. Retten hjælper derefter både murermester Hansen og fru Nielsen med at tilrettelægge sagen, formulere deres påstande og evt. få en sagkyndig til at undersøge skorstenen. Tidligere skulle de selv have sørget for det.
 
 ---
 
@@ -1307,7 +1311,7 @@ Retsmægleren er en dommer, en domstolsjurist eller en advokat, som har gennemg�
 
 ---
 
-En **"advokat"** er en person, der i mindst 3 år efter bestået juridisk embedseksamen (cand. jur./jurist) har været i praktisk juridisk virksomhed, og som herefter af justitsministeren er blevet beskikket som advokat. Advokatfuldmægtig	er en jurist/cand. jur., som er under uddannelse til advokat på et advokatkontor,
+En **"advokat"** er en person, der i mindst 3 år efter bestået juridisk embedseksamen (cand.jur./jurist) har været i praktisk juridisk virksomhed, og som herefter af justitsministeren er blevet beskikket som advokat. Advokatfuldmægtig	er en jurist/cand.jur., som er under uddannelse til advokat på et advokatkontor,
 
 ---
 
@@ -1402,7 +1406,7 @@ Retsmægling er ofte mindre tidskrævende og dermed også billigere for parterne
 
 *	Ofte hurtigere sagsbehandling end ved de alm. domstole
 
-*	Dommere med særligt fagkundskab
+*	Dommere med særlig fagkundskab
 
 *	Sagen er ikke offentlig
 
@@ -1427,7 +1431,7 @@ Information og vejledning kan findes på **www.tinglysningsretten.dk**
 
 **Procesbevillingsnævnet:**
 
-Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet endvidere haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
+Procesbevillingsnævnet blev oprettet pr. 1. januar 1996 med det formål at behandle ansøgninger om 2. og 3. instansbevillinger i civile sager og straffesager. Siden den 1. januar 2007 har Procesbevillingsnævnet desuden haft til opgave at behandle klager over Civilstyrelsens afslag på ansøgninger om fri proces.
 
 ---
 

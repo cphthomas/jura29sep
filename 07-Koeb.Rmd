@@ -108,7 +108,7 @@ Det er karakteristisk for de særlige regler om handelskøb, at parternes forpli
 
 ---
 
-Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, således at der fx pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBL § 54’s reklamationsfrist på 2 år kan fraviges ved en aftale.
+Det er dog ikke udelukket, at man i nogle typer af civile køb, som har et betydeligt merkantilt præg, efter omstændighederne kan skærpe parternes forpligtelser, så der fx pålægges køberen en streng reklamationsforpligtelse ligesom i handelskøb, hvor KBL § 54’s reklamationsfrist på 2 år kan fraviges ved en aftale.
 
 ---
 
@@ -169,7 +169,7 @@ Lønmodtageres indkøb af genstande anses for forbrugerkøb, også selv om det k
 
 ---
 
-Købeaftaler, som indgås mellem to ikke-erhvervsdrivende, er som udgangspunkt ikke forbrugerkøb, men et civilkøb, medmindre et erhvervsdrivende mellemled indgår eller formidler aftaleindgåelsen for den ikke-erhvervsdrivende sælger, jf. KBL § 4a, stk. 2.
+Købsaftaler, som indgås mellem to ikke-erhvervsdrivende, er som udgangspunkt ikke forbrugerkøb, men et civilkøb, medmindre et erhvervsdrivende mellemled indgår eller formidler aftaleindgåelsen for den ikke-erhvervsdrivende sælger, jf. KBL § 4a, stk. 2.
 
 Er ydelsen indkøbt mhp. anvendelse i offentlig virksomhed, fx stat og kommune, er der ikke tale om forbrugerkøb.
 
@@ -320,7 +320,7 @@ Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksi
 
 ---
 
-Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3 årige-forældelse i forældelseslovens § 3, stk. 1 og ikke underlagt reklamationsreglerne i købeloven.  
+Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3-årige forældelse i forældelseslovens § 3, stk. 1 og ikke underlagt reklamationsreglerne i købeloven.  
 
 <img src="img/fix.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
 
@@ -328,7 +328,7 @@ Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. de
 
 **Fixkøb:**
 
-Betegnelsen "fixkøb" bruges om et køb, hvor køber har betinget sig, at levering sker på et helt bestemt tidspunkt, fx en fødselsdagsskage, der skal leveres om formiddagen den 3. august 2019.
+Betegnelsen "fixkøb" bruges om et køb, hvor køber har betinget sig, at levering sker på et helt bestemt tidspunkt, fx en fødselsdagskage, der skal leveres om formiddagen den 3. august 2019.
   
  
 Samtidighedsgrundsætningen: Sælgeren har ikke pligt til at levere salgsgenstanden, medmindre købesummen samtidig betales, og køber har ikke pligt til at betale købesummen, medmindre salgsgenstanden samtidig stilles til hans rådighed, jf. KBL § 14 (kontantkøb).
@@ -371,7 +371,7 @@ Med rette betalingsmiddel.
 
 Indtil levering er sket, bærer sælgeren risikoen for salgsgenstandens hændelige undergang eller forringelse.
 
-Når levering har fundet sted overgår risikoen fra sælger til køber.
+Når levering har fundet sted, overgår risikoen fra sælger til køber.
 
 NB! **Levering** kan ske, inden salgsgenstanden er kommet i købers besiddelse.
 
@@ -478,7 +478,7 @@ Risikoovergang ved CFR: Risikoovergangen sker, i det øjeblik at godset er place
 
 ---
 
-**Kommentarer til CFR klausulen:** 
+**Kommentarer til CFR-klausulen:** 
 
 Denne Incoterm kan kun anvendes til brug ved søtransport, eller ved transport via indenlandske vandveje. 
 
@@ -495,7 +495,7 @@ Fragtomkostninger ved CIF: Sælgeren er forpligtet til at til at afholde alle fr
 
 Køber afholder alle omkostninger i forbindelse med losningen af godset, og den videre transport. 
 
-Sælgeren er endvidere forpligtet til at tegne en forsikring med minimumsdækning for søtransporten.
+Sælgeren er desuden forpligtet til at tegne en forsikring med minimumsdækning for søtransporten.
 
 
 ---
@@ -522,7 +522,7 @@ Incoterms, som er en forkortelse af ”International Commercial Terms”, er kor
 
 ---
 
-Incoterms er ikke lovregler, men nogle standard handelsbetingelser. 
+Incoterms er ikke lovregler, men nogle standardhandelsbetingelser. 
 
 Derfor er det vigtigt, at det tydeligt skal fremgå af sælger/købers aftale at Incoterms er anvendt, da disse bestemmelser rent juridisk ellers ikke vil finde anvendelse.
 
@@ -530,7 +530,7 @@ Derfor er det vigtigt, at det tydeligt skal fremgå af sælger/købers aftale at
 
 Sådan fungerer det: Køber og sælger indgår en handelsaftale – I handelsaftalen er det nødvendigt at aftale hvordan den købte vare skal leveres.
 
-Køber og sælger blive enige om at anvende Incoterms, hvilket giver dem et klart overblik over hvornår varen er at betragte som leveret, hvem der skal betale for hvilke omkostninger, og hvornår risikoen for godset overgår fra sælger til køber.
+Når køber og sælger bliver enige om at anvende Incoterms; Hvilket giver dem et klart overblik over hvornår varen er at betragte som leveret, hvem der skal betale for hvilke omkostninger, og hvornår risikoen for godset overgår fra sælger til køber.
 
 
 ---
@@ -583,7 +583,7 @@ Sælgeren har almindeligvis bevisbyrden for, at der er leveret rettidigt.
 
 ---
 
-Leverer sælgeren før det aftalte leveringstidspunkt, kan køberen afvise at modtage genstanden og kræve fornyet levering i rette tid, hvis afvigelsen fra sælgerens frigørelsestid er væsentlig.
+Leverer sælgeren før det aftalte leveringstidspunkt, kan køberen nægte at modtage genstanden og kræve fornyet levering i rette tid, hvis afvigelsen fra sælgerens frigørelsestid er væsentlig.
 
 ---
 
@@ -593,7 +593,7 @@ KBL § 21, stk. 1 gælder dog ikke:
 
 Hvis forsinkelsen skyldes købers forhold, fx **fordringshavermora** eller
 
-Hvis forsinkelsen skyldes en hændelig begivenhed, som sælger ikke bærer risikoen for, kan sælger:
+Hvis forsinkelsen skyldes en hændelig begivenhed, som sælger, ikke bærer risikoen for, kan sælger:
  
 * Tilbageholde købesummen, jf. KBL § 14.
 
@@ -653,7 +653,7 @@ Dette indebærer bl.a., at en reklamation kan tillægges retsvirkning, hvis modt
 
 Såfremt en part over for den misligholdende part tilkendegiver, hvilke(n) misligholdelsesbeføjelse(r) han eller hun vil påberåbe sig, kan parten som udgangspunkt ikke omgøre sit valg.
 
-Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgeren skal erlægge sin ydelse i rater el.lign., gælder følgende:
+Hvis sælger skal levere over flere gange (successiv levering), dvs. at sælgeren skal betale sin ydelse i rater el.lign., gælder følgende:
 
 ---
 
@@ -676,7 +676,7 @@ U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem
 
 ![](img/man.jpg)
 
-Sælgerens forpligtelse iht. købeaftalen består i at erlægge salgsgenstanden i rette tid og på rette sted samt i rette stand og mængde.
+Sælgerens forpligtelse iht. købsaftalen består i at levere salgsgenstanden i rette tid og på rette sted samt i rette stand og mængde.
 
 KBL §§ 21–27 regulerer de tilfælde, hvor sælgeren ikke leverer i rette tid og på rette sted (og dette ikke skyldes køberens forhold).
 
@@ -792,7 +792,7 @@ Når salgsgenstanden er leveret, har køber pligt til at undersøge varen, i ove
 
 Se det latinske begreb: **Caveat Emptor-reglen**: Køberen skal se sig for.
 
-Sml. om køberens undersøgelsespligt før indgåelse af købeaftalen, jf. KBL  § 47. 
+Sml. om køberens undersøgelsespligt før indgåelse af købsaftalen, jf. KBL § 47. 
 
 ---
 
@@ -822,7 +822,7 @@ Er, når køber ikke opnår den forventede ejendomsret ved købet. Fx. hvis sæl
 
 **Fastholde købet**
 
-tredjemands ret fjernes – pant i bil indfries af sælger eller køber, ellers kan tredjemand kræve bilen tilbage fra køber
+Tredjemands ret fjernes – pant i bil indfries af sælger eller køber, ellers kan tredjemand kræve bilen tilbage fra køber
 
 **Ophæve købet/annullere**
 
@@ -896,7 +896,7 @@ Det solgte afvises af køber.
 
 Der er taget et kontantforbehold/ejendomsforbehold.
 
-Hvis det solgte er leveret til en køber på et tidspunkt, hvor køber er taget under konkursbehandling, og konkursboet ikke indtræder i aftalen eller stiller sikkerhed for købesummens betaling.
+Hvis det solgte, er leveret til en køber på et tidspunkt, hvor køber er taget under konkursbehandling, og konkursboet ikke indtræder i aftalen eller stiller sikkerhed for købesummens betaling.
  
 ---
 
@@ -1003,13 +1003,13 @@ Levering sker og risikoen for varen overgår fra sælger til køber (forbrugeren
 
 **Forsendelseskøb:** Levering sker, når varen er i købers besiddelse. Risikoen for varens forringelse eller hændelige undergang ligger hos sælger, indtil varen er i købers besiddelse, jf. KBL § 73: 
 
-Denne bestemmelse finder kun anvendelse, såfremt sælgeren ved aftalen har påtaget sig at sende salgsgenstanden til køberen. 
+Denne bestemmelse finder kun anvendelse, hvis sælgeren ved aftalen har påtaget sig at sende salgsgenstanden til køberen. 
 
 ---
 
 Bestemmelsen gælder også, hvis sælgeren først efter aftalens indgåelse påtager sig at sende genstanden til køberen. En pligt til at sende genstanden kan også følge af sædvane. 
 
-Levering er ikke sket, såfremt sælgeren fx, uden at køberen har anmodet herom, overgiver genstanden til køberens nabo eller henstiller den uden for køberens bopæl, fordi køberen ikke træffes hjemme. 
+Levering er ikke sket, hvis sælgeren fx, uden at køberen har anmodet herom, overgiver genstanden til køberens nabo eller henstiller den uden for køberens bopæl, fordi køberen ikke træffes hjemme. 
 
 ---
 
@@ -1031,7 +1031,7 @@ Køber kan:
 
 * Påberåbe sig samtidighedsgrundsætningen. Parternes ydelser skal erlægges samtidigt
 
-* Kræve levering, dvs. fastholde købet, jf. KBL § 21, stk. 1.
+* Kræve levering, dvs. fastholder købet, jf. KBL § 21, stk. 1.
 
 * Ophæve købet/annullere, jf. KBL § 74, stk. 2.
 
@@ -1079,7 +1079,7 @@ Se grundprincipperne i KBL §§ 75a og 76.
 
 * Forholdsmæssigt/passende afslag, jf. KBL § 78, stk. 1, nr. 3:
 
-* Tilbageholde købesum, indtil mangelfri vare er leveret, se samtidighedsgrundsætningen, jf. KBL § 14.
+* Tilbageholde købesum, indtil mangelsfri vare er leveret, se samtidighedsgrundsætningen, jf. KBL § 14.
  
 Ophæve købet/annullere, jf. KBL § 78, stk. 1, nr. 4.
 
@@ -1143,7 +1143,7 @@ Hvis man ikke kan finde bonnen for købet, kan man anvende et bankudskrift som k
 
 ---
 
-**Den absolutte reklamationsfrist** er 24 måneder fra salgsgenstandens overgivelse, jf. KBL § 83, stk. 1, medmindre at sælgeren har påtaget sig at indestår for salgsgenstanden i længere tid ved et garantitilsagn (tilsikring), eller at der er tale om en reparation af det købte, som er en tjenesteydelse, hvor indsigelser på den mangelfulde reparation forældes efter 3 år, jf. forældelseslovens § 3.
+**Den absolutte reklamationsfrist** er 24 måneder fra salgsgenstandens overgivelse, jf. KBL § 83, stk. 1, medmindre sælgeren har påtaget sig at indestår for salgsgenstanden i længere tid ved et garantitilsagn (tilsikring), eller at der er tale om en reparation af det købte, som er en tjenesteydelse, hvor indsigelser på den mangelfulde reparation forældes efter 3 år, jf. forældelseslovens § 3.
 
 ---
 
@@ -1153,17 +1153,17 @@ Hvis man ikke kan finde bonnen for købet, kan man anvende et bankudskrift som k
 
 ---
 
-**Formodningsreglen**, jf. købelovens § 77a, stk. 3:
+**Formodningsreglen**, jf. KBL § 77a, stk. 3:
 
 Hvis en mangel viser sig i de første 6 måneder efter levering, formodes det, at genstanden var mangelfuld ved levering.
 
-Køber skal ikke bevise at manglen var tilstede ved leveringen – det formodes, at manglen var tilstede ved leveringen.
+Køber skal ikke bevise at manglen var til stede ved leveringen – det formodes, at manglen var til stede ved leveringen.
 
 ---
 
 Køber skal dog bevise, at der er en mangel ved varen.
 
-Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den absolutte reklamationsfrist på de 24 måneder, er det køber som skal bevise, at manglen var tilstede på leveringstidspunktet.
+Hvis en mangel viser sig efter 6 måneder fra levering, og inden udløbet af den absolutte reklamationsfrist på de 24 måneder, er det køber som skal bevise, at manglen var til stede på leveringstidspunktet.
  
 ---
 
@@ -1216,7 +1216,7 @@ Dette skyldes, at de nordiske lande har nogenlunde den samme købelov.
 
 **Forudsætninger for anvendelse af CISG (CISG art. 1)**
 
-For det første skal parterne skal have deres forretningssteder i forskellige stater, hvilket skal fremgå af aftalen. Derudover skal parternes forretningsstederne ligge i stater, der har tiltrådt CISG eller lovvalg skal føre til anvendelse af regler i en stat, der har tiltrådt CISG.
+For det første skal parterne skal have deres forretningssteder i forskellige stater, hvilket skal fremgå af aftalen. Derudover skal parternes forretningssteder ligge i stater, der har tiltrådt CISG eller lovvalg skal føre til anvendelse af regler i en stat, der har tiltrådt CISG.
 
 --- 
 
@@ -1246,7 +1246,7 @@ Køb mellem danske virksomheder: Den danske købelov anvendes (intet grænseover
 
 --- 
 
-Salg fra Danmark til nordisk land: Den danske købelov anvendes (Iflg. International  Købelov § 2 finder CISG ikke anvendelse på internordiske køb. Iflg. løsørekøblovvalgslovens § 4 skal anvendes dansk ret).
+Salg fra Danmark til nordisk land: Den danske købelov anvendes (Iflg. International Købelov § 2 finder CISG ikke anvendelse på internordiske køb. Iflg. løsørekøblovvalgslovens § 4 skal anvendes dansk ret).
 
 ---
 
@@ -1266,7 +1266,7 @@ Salg fra CISG-stat (ikke nordisk) til Danmark: CISG anvendes (Ifølge løsørek�
 
 --- 
 
-Salg fra ikke-CISG stat til Danmark: CISG anvendes ikke men derimod pågældende stats egen nationale købelov (Iflg. løsørekøblovvalgslovens § 4 skal anvendes  udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG stat).
+Salg fra ikke-CISG-stat til Danmark: CISG anvendes ikke men derimod pågældende stats egen nationale købelov (Iflg. løsørekøblovvalgslovens § 4 skal anvendes udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG-stat).
 
 --- 
 
@@ -1280,7 +1280,7 @@ Salg fra DK til nordisk land: Den danske aftalelov anvendes (Ifølge Internation
 
 --- 
 
-Salg fra nordisk land til DK: Aftaleloven i pågældende nordiske stat anvendes (ifølge International Købelov § 2 finder CISG ikke anvendelse i internordiske køb. Ifølge Kontraktlovvalgskonventionens art. 8 smh. med  løsørekøblovvalgsloven § 4 skal aftaleloven i sælgers stat anvendes).
+Salg fra nordisk land til DK: Aftaleloven i pågældende nordiske stat anvendes (ifølge International Købelov § 2 finder CISG ikke anvendelse i internordiske køb. Ifølge Kontraktlovvalgskonventionens art. 8 smh. med løsørekøblovvalgsloven § 4 skal aftaleloven i sælgers stat anvendes).
 
  
 
@@ -1292,11 +1292,11 @@ Salg fra DK til stat, der ikke har tiltrådt CISG: Den danske aftalelov anvendes
 
        
 
-Salg fra CISG-stat (ikke nordisk) til DK: CISG anvendes (iflg. løsørekøblovvalgsloven § 4 smh. med kontraktlovvalgskonventionens Art. 8 skal anvendes  udenlandsk ret. Iflg. CISG art. 1 finder CISG kap. II herefter anvendelse, da begge stater har tiltrådt CISG)
+Salg fra CISG-stat (ikke nordisk) til DK: CISG anvendes (iflg. løsørekøblovvalgsloven § 4 smh. med kontraktlovvalgskonventionens Art. 8 skal anvendes udenlandsk ret. Iflg. CISG art. 1 finder CISG kap. II herefter anvendelse, da begge stater har tiltrådt CISG)
 
 --- 
 
-Salg fra ikke-CISG stat til DK: CISG anvendes ikke men derimod pågældende stats egen nationale aftalelov (Iflg. løsørekøblovvalgsloven § 4 smh. med kontraklovvalgskonventionens Art. 8 skal anvendes  udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG stat).
+Salg fra ikke-CISG-stat til DK: CISG anvendes ikke men derimod pågældende stats egen nationale aftalelov (Iflg. løsørekøblovvalgsloven § 4 smh. med kontraklovvalgskonventionens Art. 8 skal anvendes udenlandsk ret. Iflg. CISG art. 1, stk. 1 nr. b finder CISG ikke anvendelse, da der er tale om en ikke-CISG-stat).
 
 --- 
 
@@ -1369,7 +1369,7 @@ Hvis forsendelseskøb: Leveringsforpligtelsen opfyldes ved overgivelse til førs
 
 CISG art. 31a:
 
-"hvis aftalen angår en vare, der skal sendes, at overgive varen til den første transportør med henblik på varens videreforsendelse til køber".
+"hvis aftalen angår en vare, der skal sendes at overgive varen til den første transportør med henblik på varens videreforsendelse til køber".
 
 ---
 
@@ -1387,7 +1387,7 @@ Sælger er forpligtet til at levere en mangelsfri genstand. Definition af mangle
 
 "1. Sælger er forpligtet til at levere en vare af den mængde og kvalitet og svarende til den beskrivelse, der er fastsat i aftalen. Varen skal endvidere være emballeret eller pakket på den måde, som er fastsat i aftalen.
 
-2. Medmindre andet er aftalt mellem parterne, er varen kun mangelfri, hvis den:
+2. Medmindre andet er aftalt mellem parterne, er varen kun mangelsfri, hvis den:
 
 a) er egnet til de formål, til hvilke varer af den angivne beskrivelse sædvanligvis vil blive anvendt,
 
@@ -1397,7 +1397,7 @@ c) har den kvalitet, der svarer til en vareprøve eller model, som sælger har f
 
 d) er emballeret eller pakket på en måde, der er sædvanlig for en sådan vare, eller, hvor en sådan måde ikke findes, på en måde, som er forsvarlig for at bevare og beskytte varen.
 
-3. Sælger er ikke ansvarlig for en mangel ved varen efter bestemmelserne i stk 2, litra a-d, hvis køber på tidspunktet for aftalens indgåelse kendte eller ikke kunne have været uvidende om en sådan mangel".
+3. Sælger er ikke ansvarlig for en mangel ved varen efter bestemmelserne i stk. 2, litra a-d, hvis køber på tidspunktet for aftalens indgåelse kendte eller ikke kunne have været uvidende om en sådan mangel".
 
 --- 
 
@@ -1431,7 +1431,7 @@ CISG art. 38:
 
 CISG art. 39:
 
-"1. Køber mister adgangen til at påberåbe sig mangler ved varen, såfremt han ikke giver meddelelse til sælger herom( med angivelse af manglens beskaffenhed inden rimelig tid efter, at han har opdaget eller burde have opdaget manglen.
+"1. Køber mister adgangen til at påberåbe sig mangler ved varen, såfremt han ikke giver meddelelse til sælger herom med angivelse af manglens beskaffenhed inden rimelig tid efter, at han har opdaget eller burde have opdaget manglen.
 
 2. Køber mister under alle omstændigheder retten til at påberåbe sig mangler ved varen, såfremt han ikke giver meddelelse til sælger inden 2 år fra den dag, da varen faktisk blev overgivet i købers besiddelse, medmindre denne tidsfrist er uforenelig med en aftalt garantiperiode".
 
@@ -1509,7 +1509,7 @@ CISG art. 49, stk. 1:
 
 a) hvis sælgerens manglende opfyldelse af sine forpligtelser efter aftalen eller denne konvention er en væsentlig misligholdelse, eller
 
-b) i tilfælde af manglende levering, hvis sælger ikke leverer varen inden for den yderligere frist, som køber har fastsat i henhold til artikel 47, stk 1, eller hvis han meddeler, at han ikke vil levere varen inden for den således fastsatte frist".
+b) i tilfælde af manglende levering, hvis sælger ikke leverer varen inden for den yderligere frist, som køber har fastsat i henhold til artikel 47, stk. 1, eller hvis han meddeler, at han ikke vil levere varen inden for den således fastsatte frist".
 
 ---
 
@@ -1556,15 +1556,15 @@ CISG art. 46, stk. 3:
 
 Sælger er berettiget til at afhjælpe mangler - også efter leveringstidspunktet 
 
-CISG art. 48, anderledes efter Købelovens § 49:
+CISG art. 48, anderledes efter KBL § 49:
 
 "1. Hvor ikke andet følger af artikel 49, kan sælger, selv efter leveringstidspunktet, på egen bekostning afhjælpe enhver misligholdelse fra hans side, hvis dette kan gøres uden urimelig forsinkelse for køber, og uden at denne udsættes for en urimelig ulempe eller usikkerhed om, hvorvidt hans udlæg vil blive godtgjort af sælger. Køber bevarer dog sin eventuelle ret til at kræve skadeserstatning efter bestemmelserne i denne konvention.
 
 2. Opfordrer sælger køber til at lade ham vide, om køber vil tage imod opfyldelse af aftalen, og efterkommer køber ikke denne opfordring inden rimelig tid, kan sælger opfylde aftalen inden for den tidsfrist, som han har angivet i sin opfordring. Køber kan da ikke inden for den tidsfrist gøre nogen form for misligholdelsesbeføjelse gældende, som er uforenelig med sælgers opfyldelse af sine forpligtelser.
 
-3. En meddelelse fra sælger om, at han vil opfylde aftalen inden for en angiven frist, antages at indeholde en opfordring til køber i henhold til stk 2 om, at denne skal meddele sælger sin afgørelse.
+3. En meddelelse fra sælger om, at han vil opfylde aftalen inden for en angiven frist, antages at indeholde en opfordring til køber i henhold til stk. 2 om, at denne skal meddele, sælger sin afgørelse.
 
-4. En opfordring eller meddelelse fra sælger i henhold til stk 2 eller stk 3 i denne artikel får kun virkning, hvis den kommer frem til køber".
+4. En opfordring eller meddelelse fra sælger i henhold til stk. 2 eller stk. 3 i denne artikel får kun virkning, hvis den kommer frem til køber".
 
  
 ---
@@ -1572,6 +1572,7 @@ CISG art. 48, anderledes efter Købelovens § 49:
 **Erstatningsansvar**
 
 **HR:** Enhver misligholdelse er erstatningspådragende (CISG art. 79 modsætningsvis). 
+
 Det sondres altså ikke mellem genus- og specieskøb.
 
 --- 
@@ -1584,7 +1585,7 @@ CISG art. 79:
 
 2. Skyldes en parts manglende opfyldelse, at en tredjemand, som han har antaget til helt eller delvist at opfylde aftalen, ikke opfylder sine forpligtelser, er parten kun fritaget for erstatningspligt, hvis:
 
-a) han er fritaget efter bestemmelserne i stk 1, og
+a) han er fritaget efter bestemmelserne i stk. 1, og
 
 b) den pågældende tredjemand, han har antaget, ville være fritaget, hvis bestemmelserne i stk 1 skulle gælde for ham.
 
@@ -1608,7 +1609,7 @@ Efter dansk ret reguleres dette spørgsmål efter produktansvarsloven. Dvs. i ti
 
 **Ophævelse efter overgivelse**
 
-I modsætning til Købelovens § 28, stk. 2 kan der ske ophævelse af købet, selv om salgsgenstanden er overgivet 
+I modsætning til KBL § 28, stk. 2 kan der ske ophævelse af købet, selv om salgsgenstanden er overgivet 
 
 CISG art. 4:
 
@@ -1646,7 +1647,7 @@ Hun har haft bilen i 5 dage, da den går i stykker, og nu vil Merete have sine p
 
 Børge afviser hende med den begrundelse, at der ikke er nogen reklamationsret da det er en ældre bil og da den er solgt som den er og forefindes og at Merete i øvrigt tog en prøvetur i bilen inden hun købte den. 
 
-Da Merete fastholder sit krav tilbyder Børge, at han vil reparerer bilen, men så må hun også selv betale de nødvendige reservedele – hun skal nok få dem til indkøbspris.
+Da Merete fastholder sit krav, tilbyder Børge, at han vil reparerer bilen, men så må hun også selv betale de nødvendige reservedele – hun skal nok få dem til indkøbspris.
 
 Kaj har også købt en bil hos Børge - for 180.000 kr. 
 
@@ -1781,9 +1782,9 @@ Kvalitetsmangler.
 
 •	Ved forbrugerkøb - jf. KBL § 76:
 
-•	Genstanden ikke svarer til den betegnelse, hvorunder den er solgt, eller sælgeren ved købets afslutning har givet urigtige eller vildledende oplysninger, medmindre at det er uden betydning for købers bedømmelse af genstanden. 
+•	Genstanden ikke svarer til den betegnelse, hvorunder den er solgt, eller sælgeren ved købets afslutning har givet urigtige eller vildledende oplysninger, medmindre det er uden betydning for købers bedømmelse af genstanden. 
 
-•	Sælgeren eller tideligere led har givet oplysninger som nævnt ovenfor på varens pakning, i annoncer eller i andre meddelelser til offentligheden.
+•	Sælgeren eller tidligere led har givet oplysninger som nævnt ovenfor på varens pakning, i annoncer eller i andre meddelelser til offentligheden.
 
 •	Sælgeren her forsømt at give køberen oplysninger, som sælgeren burde kende, om forhold af betydning for køberens bedømmelse af salgsgenstanden.
 
@@ -1817,7 +1818,7 @@ Kvalitetsmangler.
 
 **4.2 Købers misligholdelse**
 
-•	Køber skal betale på det aftale betalingstidspunkt.
+•	Køber skal betale på det aftalte betalingstidspunkt.
 
 •	Når betalingstiden ikke er aftalt, skal sælger betale ved sælgers påkrav herom - jf. KBL § 12.
 
@@ -1898,7 +1899,7 @@ Fordringshavermora foreligger, når køber ikke vil modtage det købte på det a
 
 -	Hæve hvis væsentligt – (forsinkelse) KBL § 21 + § 74, (mangler) KBL §§ 42-43 + KBL § 78. 
 
-•	Ved successive leveringer kun den berørte del, med mindre der er sammenhæng mellem ydelserne - jf. KBL § 22 (forsinkelse) + KBL § 46 (mangler).
+•	Ved successive leveringer kun den berørte del, medmindre der er sammenhæng mellem ydelserne - jf. KBL § 22 (forsinkelse) + KBL § 46 (mangler).
 
 •	Tilbagelevere det modtagne i væsentlig samme stand og mængde - jf. KBL § 57.
 
@@ -1928,13 +1929,13 @@ Fordringshavermora foreligger, når køber ikke vil modtage det købte på det a
 
 •	Er købet et kontantkøb, eller er varen ved kreditkøb endnu ikke overgivet til køberen, kan sælgeren hæve ved væsentlig misligholdelse - jf. KBL § 28, stk. 1. 
 
-•	Er varen overgivet til køberen, uden at betaling er modtaget (leveret på kredit), med mindre varen er udleveret til køberen ved en fejl, kan sælgeren kun hæve, såfremt der foreligger væsentlig misligholdelse, og såfremt salgsgenstanden er solgt med et gyldigt ejendomsforbehold – jf. KBL § 28, stk. 2.
+•	Er varen overgivet til køberen, uden at betaling er modtaget (leveret på kredit), medmindre varen er udleveret til køberen ved en fejl, kan sælgeren kun hæve, såfremt der foreligger væsentlig misligholdelse, og såfremt salgsgenstanden er solgt med et gyldigt ejendomsforbehold – jf. KBL § 28, stk. 2.
 
 •	Tilbagelevere det modtagne i væsentlig samme stand og mængde - jf. KBL § 57.
 
 •	Dog ikke hvis genstanden hændeligt er gået til grunde eller forandret/forbrugt inden manglen blev opdaget - jf. KBL § 58. 
 
--	Sælger har udtagelsesret, såfremt varen er overgivet til køberen efter dennes konkurs - jf. KBL § 41. 
+-	Sælger har udtagelsesret, hvis varen er overgivet til køberen efter dennes konkurs - jf. KBL § 41. 
 
 -	Er varen endnu ikke overgivet til køberen, har sælger tilbageholds- og standsningsret ved anticiperet misligholdelse (f.eks. konkurs) - jf. KBL §§ 39-40.
 
@@ -1953,23 +1954,23 @@ Fordringshavermora foreligger, når køber ikke vil modtage det købte på det a
 **Markedsførings- og konkurrenceret**
 
 
-Den finansielle branche er reguleret af markedsføringsloven og konkurreceloven.
+Den finansielle branche er reguleret af markedsføringsloven og konkurrenceloven.
 
 
-**<a href="https://j.tepedu.dk/markedsf%C3%B8rings-og-konkurrenceret.html" target="_blank">Om markedsførings- og konkurrenceret, se Juridisk Håndbog klik her!</a>**
-
----
-
-
-
-
-**<a href="https://j.tepedu.dk/produktansvar.html" target="_blank">Om produktansvar, se Juridisk Håndbog klik her!</a>**
+**<a href="https://j.tepedu.dk/markedsf%C3%B8rings-og-konkurrenceret.html" target="_blank">Om markedsførings- og konkurrenceret, se Sonny Kristoffersen Juridisk Håndbog klik her!</a>**
 
 ---
 
-**Bibliotek over mine bøger og artikler:**
 
-**<a href="https://j.tepedu.dk/bibliotek.html" target="_blank">Bibliotek, se Juridisk Håndbog klik her!</a>**
+
+
+**<a href="https://j.tepedu.dk/produktansvar.html" target="_blank">Om produktansvar, se Sonny Kristoffersen Juridisk Håndbog klik her!</a>**
+
+---
+
+**Bibliotek over Sonny Kristoffersen bøger og artikler:**
+
+**<a href="https://j.tepedu.dk/bibliotek.html" target="_blank">Bibliotek, se Sonny Kristoffersen Juridisk Håndbog klik her!</a>**
 
 ---
 
@@ -2142,7 +2143,7 @@ Byggeriets Ankenævn behandler klager fra forbrugere over maler-, murer-, tømre
 
 **Håndværkets Ankenævn**
 
-Håndværkets Ankenævn behandler klager fra forbrugere over nybygnings-, ombygnings-, tilbygnings- og reparationsarbejde vedrørende vvs-, bygningssmede-, maler-, snedker-, tømrer-, tække-, murer-, kloak-, belægnings-, anlægsgartner, auto- og møbelpolstringsarbejde. Håndværkets Ankenævn behandler endvidere klager over leverancer af vinduer, yderdøre og termoruder.
+Håndværkets Ankenævn behandler klager fra forbrugere over nybygnings-, ombygnings-, tilbygnings- og reparationsarbejde vedrørende vvs-, bygningssmede-, maler-, snedker-, tømrer-, tække-, murer-, kloak-, belægnings-, anlægsgartner, auto- og møbelpolstringsarbejde. Håndværkets Ankenævn behandler desuden klager over leverancer af vinduer, yderdøre og termoruder.
 **<a href="https://www.hvanke.dk/" target="_blank">Håndværkets Ankenævn klik her!</a>**
 
 ----
