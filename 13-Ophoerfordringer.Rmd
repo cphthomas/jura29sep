@@ -372,10 +372,6 @@ mydf %>%
 
 ---
 
-![](img/mod.jpg)
-
----
-
 Forældelsesloven indeholder særlige frister for visse fordringer, der har særlig interesse for pengeinstitutter og andre långivere.
 
 For pengelån og overtræk er forældelsesfristen 10 år. For renter og gebyrer heraf dog kun 3 år, jf. forældelseslovens § 6.
@@ -512,9 +508,6 @@ Det kan således ikke udelukkes, at domstolene i en konkret situation finder, at
 
 Aftalt deponering eller efter deponeringsloven (Lovbekendtgørelse nr. 339 2. april 2014 om skyldneres ret til at frigøre sig ved deponering).
 
-
-
-<img src="img/deponeringafpenge.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 Deponeringsloven vedrører en debitors mulighed for med frigørende virkning at deponere sin ydelse i form af penge eller værdipapirer med den virkning, at debitor stilles, som om han havde opfyldt sin forpligtelse.

@@ -29,8 +29,6 @@ I praksis anvendes begrebet retskilde om den præmis i en konklusion om gældend
 
 Retskilderne præsenteres i dansk ret traditionelt i et hierarki med grundloven og lovene som øverste retskilder og **"forholdets natur"** som den laveste.
 
-![](img/retskilde.jpg)
-
 Lovgivningen er den primære retskilde, som altid skal tages i betragtning ved fastlæggelse af retsstillingen, men retspraksis er også en vigtig retskilde, især hvis der foreligger en afgørelse fra Højesteret (se præjudikat) eller en afgørelse fra EU-Domstolen eller fra Menneskerettighedsdomstolen vedrørende Den Europæiske Menneskerettighedskonvention. 
 
 ---
@@ -115,15 +113,12 @@ En vigtig forståelse af, hvordan loven skal fortolkes er "formålsfortolkning",
 
 ---
 
-![](img/lov7.jpg)
-
 Justitia (rettens gudinde) med en vægt i den ene hånd og et sværd i den anden er blevet et afgørende symbol på rettens betydning og lovens upartiske (blinde) retfærdighed. 
  
 ---
 
 ### Bekendtgørelse
 
-![](img/bekendt.png)
 
 En bekendtgørelse er en administrativ forskrift udstedt af en forvaltningsmyndighed med hjemmel (støtte) i lov. 
 
@@ -145,7 +140,6 @@ Et cirkulære kan ikke forpligte borgerne, og disse kan normalt heller ikke retl
 
 ### Dommenes retsskildeværdi ("præjudikatsværdi")
 
-![](img/dom1.png)
 
 En dom er en form for retsafgørelse, der i modsætning til kendelser og beslutninger afslutter sagens behandling ved retten.
 
@@ -190,7 +184,6 @@ God skik regler findes i begrænset omfang på lov- eller bekendtgørelsesniveau
 
 God skik er som udgangspunkt branchebestemt, og de vage rammer sikrer en tidssvarende standardnorm, der udvikles i takt med samfundsudviklingen.
 
-![](img/god.jpg)
 
 ---
 
@@ -246,8 +239,6 @@ Aftaler (fx en kontrakt) der er indgået mellem parter, anses for en af de vigti
 Imidlertid er der ikke tale om en "lov", men reguleringen af aftalen kan være underlagt lovgivningen. Det skal derfor afdækkes, om aftalen er underlagt præceptive (ufravigelige) lovregler og regler, der er deklaratoriske (fravigelige), 
 
 
-![](img/lov3.jpg)
-
 om aftalen er i strid mod lov og ærbarhed (Danske Lovs 5-1-2), og om aftalen, uden et gyldigt grundlag binder en tredjemand.
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Danske Lov Klik her!</a>**
 
@@ -284,7 +275,6 @@ Se fra romerretten: **"ex æquo et bono"**	efter ret og billighed (rimelighed).
 
 ## Romerretten
 
-![](img/romer.jpg)
 
 **"jus romanum"** er den ret, der gjaldt i Romerriget. Denne ret har spillet en afgørende rolle for den europæiske retsudvikling og er en meget vigtig del af kulturarven fra antikken. ^[Følgende afsnit om romerretten bygger især på *Mathias Hein Jessen* https://videnskab.dk/kultur-samfund/du-kan-takke-romerriget-du-skal-folge-loven.] 
 
@@ -348,10 +338,6 @@ Andre latinske juridiske udtryk vil løbende blive forklaret igennem herværende
 
 ---
 
-![](img/romer1.jpg)
-
----
-
 ## EU-rettens retskilder
 
 De mål, der er fastsat i traktaterne, nås gennem forskellige typer retsakter. Nogle er bindende, andre er ikke. 
@@ -370,7 +356,6 @@ Da EU fx ønskede at garantere fælles sikkerhedsforanstaltninger for varer impo
 
 ### Direktiver
 
-![](img/lov4.jpg)
 
 Et **"direktiv"** er en retsakt, der fastsætter et mål, som EU-landene skal opnå. 
 
@@ -424,7 +409,6 @@ Mens lovene udformes, afgiver udvalgene udtalelser fra deres særlige regionale 
 
 ## Case law
 
-![](img/lov5.jpg)
 
 Der er stor forskel på retskildeopfattelsen inden for forskellige retssystemer, se fx case law.^[Følgende afsnit om Case Law bygger på http://denstoredanske.dk/Samfund,_jura_og_politik/Jura/Retssammenligning,_komparativ_ret/case_law.]
 

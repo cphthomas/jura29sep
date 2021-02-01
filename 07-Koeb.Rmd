@@ -58,8 +58,6 @@ Dette indebærer, at købelovens principper i mange henseender også finder anve
 
 Købelovens regler gælder også, når der købes **brugte ting** af sælgeren.
 
-![](img/brugt.jpg)
- 
 ---
 
 Hvor købeloven gælder:
@@ -77,8 +75,6 @@ Hovedreglen er, at købeloven er deklaratorisk i handelskøb, hvor der er en kø
 * Må vige for handelsbrug eller sædvane.
 
 
-![](img/orne.png)
-
 Se Højesteretsdom **U 1984.525 H** – Om den ufrugtbare orne: En leveret orne viste sig ufrugtbar, og der skete omlevering. Køberen rejste krav om erstatning for produktionstab, men ved erklæringer fra forskellige organisationer ansås godtgjort en sædvane inden for handelen med avlsorner for, at driftstab ikke kunne kræves erstattet. 
 **<a href="https://pro.karnovgroup.dk/document/7000205124/1" target="_blank">Dommen klik her!</a>**
 
@@ -93,8 +89,6 @@ Dvs., at forbrugeren bliver stillet bedre end, hvad der følger af købelovens u
 Købelovens begreber ved et handelskøb mellem to erhvervsdrivende:
  
 Et køb, der indgås mellem handlende, der handler i eller for deres bedrift, jf. KBL § 4, stk. 1 er et *handelskøb* fx. ved køb og salg af lastbiler mellem to erhvervsdrivende - en lastbilsælger og en vognmand.
-
-![](img/land.jpg)
 
 Dvs. et køb, hvor både køber og sælger er erhvervsdrivende, og hvor købet indgås i forbindelse med deres virksomhed eller deres erhvervsmæssige aktiviteter.
 
@@ -125,8 +119,6 @@ Heller ikke aftaler, som indgås af erhvervsdrivende, som driver liberalt erhver
 Den handel, hvorved en forretningsdrivende etablerer sig ved køb af en forretning, er hverken et handelskøb eller et forbrugerkøb, men derimod et civilkøb.
 
 ---
-
-![](img/restaurant.jpg)
 
 Se dommen i **U 1988.76 V:** om forsinkelse med betaling af ydelse. Efter en i 1982 indgået kontrakt med ejendomsforbehold om salg af en restauration forfaldt restkøbesummen til betaling, hvis ydelser udeblev ud over 5 dage efter forfaldsdag. I juli 1986 videresolgtes restaurationen til K, der overtog gælden i henhold til købekontrakten, men ikke rettidigt betalte en den 1. august 1986 forfalden ydelse til den oprindelige ejer E. Efter at E den 12. august 1986 havde opsagt restgælden, betalte K dagen efter den forfaldne ydelse. - Da det ikke kunne udelukkes, at E, der havde været bekendt med salget til K, måtte have indset, at den manglende betaling af ydelsen måtte bero på en fejltagelse, havde forsinkelsen ikke berettiget E til at kræve restgælden betalt. 
 **<a href="https://pro.karnovgroup.dk/document/7000197909/1" target="_blank">Dommen klik her!</a>**
@@ -228,6 +220,7 @@ Se afgørelsen i **Forbrugerredegørelse 2002–2003 6.6.1** (en ejerlejlighedsf
 ---
 
 Se nedenfor under Biblioteket, se min artikel om boligforeninger mv. og deres evt. status som forbrugere, jf. *Sonny Kristoffersen* i ET 2018 102 ff.
+
 **<a href="https://jura.tepedu.dk/bibliotek-premium.html" target="_blank">Se artiklen klik her!</a>**
 
 ---
@@ -237,8 +230,6 @@ Se nedenfor under Biblioteket, se min artikel om boligforeninger mv. og deres ev
 Et køb, hvor begge parter er privat personer, og hvor der ikke bruges en erhvervsdrivende mellemmand til at formidle salget - kaldes for et **civilkøb** og er ikke defineret i købeloven. 
 
 Man anvender handelskøbsreglerne analogt, som har et betydeligt merkantilt præg, medmindre andet er blevet aftalt mellem parterne. 
-
-![](img/dba.png)
 
 Et civilt køb kan fx foregå på ”Den Blå Avis” eller på et loppemarked, hvor private udveksler genstande og penge samtidigt. 
 
@@ -266,7 +257,7 @@ Der findes forskellige former for køb under handelskøbet:
 
 **Genuskøb** 
 
-![](img/bananer.jpg)
+
 
 **Genuskøb er karakteriseret ved:**
 
@@ -281,11 +272,7 @@ Sælgeren har valgfrihed med hensyn til, hvilke varer i det pågældende parti h
 
 ---
 
-
-
 **Specieskøb:**
-
-![](img/mona.jpg)
 
 **Specieskøb** er et køb af en individuelt bestemt genstand, fx købet af maleriet af "Mona Lisa".
 
@@ -302,8 +289,6 @@ Sælger har ikke valgfrihed med hensyn til, hvilken vare han vil levere til køb
 ---
 
  
-<img src="img/bride.png" align="right" width="15%" height="15%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
-
 **Bestillingskøb/fremstillingskøb:**
 
 Et bestillingskøb kan også kaldes et fremstillingskøb, da købet vedrører bestilling af genstande, som først skal fremstilles, jf. KBL § 2, stk. 1, som indeholder et element af værksleje, nemlig aftaler, hvor den ene part har påtaget sig mod vederlag at fremstille en ny genstand (i modsætning til aftaler om fx reparation af en allerede eksisterende genstand). 
@@ -322,7 +307,7 @@ Det tilsvarende gælder ikke, hvis det blot er en reparation af en allerede eksi
 
 Reparationer og tjenesteydelser er omfattet af forældelseslovens regler, jf. den 3-årige forældelse i forældelseslovens § 3, stk. 1 og ikke underlagt reklamationsreglerne i købeloven.  
 
-<img src="img/fix.png" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/> 
+
 
 ---
 
@@ -342,9 +327,7 @@ Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb ti
 
 **Sælgers og købers forpligtelser under handelskøbet**
 
-![](img/gotta.jpg)
- 
- 
+
 **Sælgers forpligtelser består i at:**
 
 Levere den solgte vare i rette tid og på rette sted (leveringstidspunkt og leveringssted).
@@ -366,8 +349,6 @@ Med rette betalingsmiddel.
 
 **Levering og risikoens overgang ved handelskøbet**
 
-![](img/lever.jpg)
- 
 
 Indtil levering er sket, bærer sælgeren risikoen for salgsgenstandens hændelige undergang eller forringelse.
 
@@ -674,8 +655,6 @@ U2: Købet kan hæves i sin helhed, hvis det er begrundet i sammenhængen mellem
 ## Mangler ved salgsgenstanden
 
 
-![](img/man.jpg)
-
 Sælgerens forpligtelse iht. købsaftalen består i at levere salgsgenstanden i rette tid og på rette sted samt i rette stand og mængde.
 
 KBL §§ 21–27 regulerer de tilfælde, hvor sælgeren ikke leverer i rette tid og på rette sted (og dette ikke skyldes køberens forhold).
@@ -687,8 +666,6 @@ KBL §§ 42–54 regulerer de tilfælde, hvor sælgeren ikke leverer i rette sta
 Om retlige mangler, herunder vanhjemmel, og rådighedsmangler, dvs. de tilfælde, hvor køberen ikke får den rådighed over salgsgenstanden, som er aftalt, eller som køberen måtte forudsætte, se KBL § 59.
 
 ---
-
-<img src="img/mangel.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Købeloven indeholder ikke uden for forbrugerkøb en definition af, hvad der forstås ved en faktisk (kvalitativ) mangel. 
 
@@ -844,8 +821,6 @@ Der er flere måder, hvor på køberen kan misligholde ved købet.
 
 **Købers forsinkelse med købesummens betaling**:
 
-<img src="img/payment.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 ---
 
 **Købers forpligtelse**:
@@ -984,8 +959,6 @@ Rette betalingsmiddel i henhold til aftalen.
 ---
 
 **Levering af varen og risikoens overgang**
-
-<img src="img/glass.png" align="right" width="10%" height="10%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Hvis intet er aftalt om levering, skal den erhvervsdrivende stille varen til rådighed for køber på den erhvervsdrivendes forretningssted – afhentningskøb, jf. KBL § 9, som er udtryk for hovedreglen, nemlig at leveringsstedet er hos sælgeren (eller der, hvor salgsgenstanden med parternes vidende befinder sig, jf. KBL § 9, stk. 2), dvs. at lovens udgangspunkt er, at der er tale om afhentningskøb - også i forbrugerkøb, jf. KBL § 1, stk. 2 e.c.
 
@@ -1627,8 +1600,6 @@ Vedrører imidlertid kun forholdet mellem parterne - ikke forholdet til tredjem�
 
 ## Eksamensopgave 1 Børge Brugtvognsforhandler
 
-![](img/brugtvogn.jpg)
-
 Børge Johansen har i mange år haft skiftende jobs. Han har svært ved at fastholde sine jobs, da han bedst kan lide selv at bestemme arbejdstempo mv. 
 
 Han interesserer sig meget for biler og er ret god til at reparere biler, da en del jobs har været på bilværksteder. 
@@ -2070,8 +2041,6 @@ Ankenævnet behandler klager fra forbrugere over problemer oplevet i bus, tog el
 
 **Ankenævnet for Feriehusudlejning**
 
-![](img/ferie.jpg)
-
 Ankenævnet behandler forbrugerklager vedrørende leje af ferieboliger beliggende i Danmark og det øvrige EU. 
 
 Klagerne angår som udgangspunkt enhver mangel, der måtte udspringe af en lejeaftale. 
@@ -2187,8 +2156,6 @@ Det finansielle ankenævn behandler også klager fra forbrugere over realkrediti
 ---
 
 **Teleankenævnet**
-
-![](img/tele4.jpg)
 
 Teleankenævnet behandler klager mellem slutbrugere og teleudbydere vedrørende telefonabonnementer og internetabonnementer samt registrering og debitering af indholdstjenester.
 **<a href="https://teleanke.dk/" target="_blank">Teleankenævnet klik her!</a>**
@@ -2350,8 +2317,6 @@ Må bilforhandleren sælge den brugte bil som "købt som beset"? Og hvor ofte sk
 
 **Quiz om køb af håndværkerydelser**
 
-![](img/hondvark.jpg)
-
 Hvad er AB-forbruger? Hvad har du ret til, hvis der er fejl ved håndværkerarbejdet? Og hvad gør du, hvis håndværkeren ikke går i gang med arbejdet til tiden? 
 **<a href="https://www.forbrug.dk/quiz/quiz-haandvaerkere/?rn=43716" target="_blank"> Tag testen her.</a>**
 
@@ -2365,16 +2330,12 @@ De fleste kan hente en gevinst ved at skifte leverandør eller forhandle om pris
 
 **Quiz om bus, tog og metro**
 
-![](img/metro.jpg)
-
 Hvert år rejser danskerne mange tusinde kilometer med bus, tog og Metro. Men kender du fx dine rettigheder, hvis toget er forsinket? Test din viden her.
 **<a href="https://www.forbrug.dk/quiz/quiz-bus-tog-og-metro/?rn=43716" target="_blank"> Tag testen her.</a>**
 
 ---
 
 **Quiz om el**
-
-![](img/el.jpg)
 
 Må elselskabet ringe til dig med tilbud? Hvad koster det at skifte elselskab? Og hvem skal du kontakte, hvis strømmen pludselig går? Test dig selv i vores quiz.
 **<a href="https://www.forbrug.dk/quiz/el/?rn=43716" target="_blank"> Tag testen her.</a>**

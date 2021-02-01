@@ -61,10 +61,6 @@ Reglerne for anvendelse af fuldmagt findes i aftalelovens kapitel II.
 
 ---
 
-![](img/fuldmagt2.jpg)
-
-
-
 **Fuldmagt** er således reguleret af aftaleloven, se Lovbekendtgørelse nr. 193 af 2. marts 2016 om aftaler og andre retshandler på formuerettens område. 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank"> Aftaleloven se Lovsamlingen Klik her!</a>**
 
@@ -146,11 +142,6 @@ Fuldmagtsforholdet hviler normalt på en **"aftale"** mellem en fuldmagtsgiver o
 
 ---
 
-![](img/fuldmagt1.jpg)
-
-
----
-
 Aftalelovens bestemmelser indeholder ikke nogen udtømmende opregning af de måder, hvorpå en fuldmagt kan skabes. 
 
 Anden optræden eller adfærd fra hovedmandens side end en viljeserklæring kan skabe fuldmagt, fx overgivelse af dokumenter eller ved passivitet.
@@ -170,8 +161,6 @@ En aftale kan i nogle tilfælde rammes af ugyldighed, hvis der er handlet i stri
 ---
 
 ## Sondringen mellem bemyndigelse og legitimation
-
-<img src="img/Bemyndigelse vs. legitimation.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
@@ -301,9 +290,6 @@ Selv om salgschefens stillingsfuldmagt generelt er mere omfattende end værkfør
 
 
 ---
-
-<img src="img/lawyer-free-stock-photos-justice-1080x721.jpg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 **Sædvanens betydning er mange gange større end aftalelovens**, når det gælder stillingsfuldmagt, men det er i sagens natur mindre sikkert, hvad der er sædvanligt, end hvad der står i loven. 
 
@@ -515,7 +501,7 @@ Aftalelovens § 25 indebærer, at tredjemand ikke selv behøver at undersøge fu
 ---
 
 
-Fuldmægtigen skal erstatte tredjemand den **"positive opfyldelsesinteresse"**, dvs. tredjemand skal stilles, som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået. <img src="img/mj-s-71657-unsplash.jpg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+Fuldmægtigen skal erstatte tredjemand den **"positive opfyldelsesinteresse"**, dvs. tredjemand skal stilles, som om aftalen var blevet indgået og ikke alene den negative kontraktsinteresse, dvs. stilles som om aftalen ikke var blevet indgået.
 
 Tredjemand kan altså kræve erstatning for det fulde tab, tredjemand lider ved, at løftet ikke kan gøres gældende imod den opgivne fuldmagtsgiver, inkl. fortjeneste. 
 
@@ -568,10 +554,6 @@ Se dommen i **U 1974.955 Ø** Funktionær for et aktieselskab med ansvar for kø
 ---
 
 ## Eksamensopgave 1 jem & fix
-
-![](img/jem.jpg)
-
-
 
 Kim er ansat i firmaet jem og fix i Odense. Han blev ansat som salgsassistent den 1. januar 2019. 
 

@@ -12,8 +12,6 @@ cat(readLines('np.html'))
 
 
 
-<!-- ![](img/kau9.jpg) -->
-
 ---
 
 ***Forståelsen af kautionsreglerne i lov om finansiel virksomhed kan især være anvendelig i ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion i forbindelse med indgåelse af kautionsaftaler med kunder og klienter. Kaution er kendetegnet ved, at en person eller virksomhed, går ind og garanterer at betale en anden persons gæld, hvis personen ikke er i stand til det. I nogle tilfælde kan banker eller andre kreditorer kræve, at man som låntager skal få en anden person til at kautionerer for ens lån. Det vil sige at personen, der også hedder en kautionist, garanterer at betale låntagers lån, hvis låntager ikke selv kan betale, når kravet - fx lånet - forfalder til betaling. Kreditor vil undersøge kautionisten i forhold til, hvorvidt han eller hun er økonomisk stærkt stillet i forhold til at kautionere for lånet. Hvis kreditor accepterer kautionisten, betyder det, at der er flere, der hæfter for lånet, hvilket giver en større sikkerhed for tilbagebetaling for kreditoren. Kaution giver på den måde kreditor større sikkerhed og låntager mulighed for indgå i kontrakter såsom låneaftaler, som låntager måske ellers ikke kunne uden en kaution. Hvis låntager betaler sine forpligtelser - såsom renter og afdrag - vil låntager ikke misligholde sine forpligtelser. Hvis låntager ikke misligholder sine forpligtelser, vil der ikke kunne gøres noget krav gældende mod en kautionist. Det vil sige, at kautionisten ikke vil berøres af at kautionere.***
@@ -34,8 +32,6 @@ cat(readLines('np.html'))
 ---
 
 ## Kautionsbegreber
-
-<img src="img/kaution1.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 **Kaution**, betyder overtagelse af en økonomisk risiko, som bæres af en kreditor i et skyldforhold, med den virkning, at kautionisten sammen med debitor hæfter for opfyldelsen af debitors betalingspligt.   
@@ -200,8 +196,6 @@ I dommen **U 1993.949 V** blev en kautionsaftale tilsidesat i medfør af aftalel
 
 ---
 
-![](img/kau11.jpg)
-
 I dommen **U 1994.126 V** blev en kautionsforpligtelse ligeledes tilsidesat i medfør af aftalelovens § 36.
 **<a href="https://pro.karnovgroup.dk/document/7000200410/1" target="_blank">Dommen klik her!</a>**
 
@@ -312,7 +306,7 @@ mydf %>%
 
 ## Erhvervskaution over for et pengeinstitut
 
-<img src="img/kaution15.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
+
 
 **Med hensyn til erhvervskaution over for et pengeinstitut, følger det af FIL § 47:** 
 
@@ -345,8 +339,6 @@ Skriftlighedskravet kan opfyldes i såvel papirformat som elektronisk format.
 ---
 
 ## Privatkaution i et pengeinstitut
-
-<img src="img/kaution3.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 **Der er i FIL § 48 lovbestemmelser vedrørende privatkaution i et pengeinstitut:**
@@ -396,8 +388,6 @@ Ved tilstrækkeligt informeret forstås, at informationen skal være udformet, s
 
 Der vil derfor kunne være behov for at supplere en udleveret pjece med yderligere information over for kautionister, der har svært ved at forstå indholdet og konsekvenserne ved en kautionsforpligtelse.
 
-![](img/kau15.jpg)
-
 ---
 
 [Se pjecen om privatkaution af december 2017 her.](https://finansdanmark.dk/media/19183/information-om-privat-kaution-og-tredjemandspant.pdf)
@@ -427,8 +417,6 @@ Denne information skal indeholde oplysninger om, hvad den konkrete kautionsforpl
 Desuden skal pengeinstituttet for den debitor, hvis gæld kautionsforpligtelsen skal sikre, med samtykke fra debitor udlevere: 
 
 ---
-
-![](img/ors.jpg)
 
 Den seneste årsopgørelse fra SKAT.
 
@@ -470,9 +458,6 @@ I disse tilfælde må kautionsforpligtelsen derfor forventes tilsidesat.
 
 ---
 
-<img src="img/kaution5.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
 Kautionsaftaler efter FIL § 48, stk. 1 skal udfærdiges på papir eller andet varigt medium for at kunne gøres gældende, jf. FIL § 48, stk. 3. 
 
 Ved varigt medium forstås i overensstemmelse med § 4, nr. 13, i kreditaftaleloven en indretning, som sætter forbrugeren i stand til at lagre oplysninger rettet til forbrugeren personligt på en måde, der muliggør senere søgning i et tidsrum, som er afpasset efter oplysningernes formål, og som giver mulighed for uændret gengivelse af de lagrede oplysninger.
@@ -510,8 +495,6 @@ Dette udelukker dog ikke, at meddelelse kan gives til andre, hvor der er en rime
 Bestemmelsen i FIL § 48, stk. 6 in fine indebærer, at der, som det antages i gældende ret, ikke kan lægges vægt på en generel forhåndstilladelse til at indrømme henstand, der er indeholdt i kautionsaftalen.
 
 ---
-
-<img src="img/kaution2.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Overskrides fristen i FIL § 48, stk. 6, kan kautionsforpligtelsen kun gøres gældende over for kautionisten for det beløb, som låntagerens gæld efter den sikrede fordring ville have udgjort, hvis låntageren havde betalt alle ydelser rettidigt indtil det tidspunkt, som ligger 3 måneder forud for det tidspunkt, hvor meddelelse gives, jf. FIL § 48, stk. 7.
 
@@ -610,7 +593,6 @@ I modsætning til kaution hæfter en tredjemandspantsætter dog ikke personligt 
 
 **Oplysningspligt ved privat kaution**
 
-<img src="img/kaution7.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Krav om at Finansielle virksomheder giver oplysninger til private kautionister (tilsvarende regler for tredjemandspant), jf. FIL § 48 om:
 
@@ -1034,8 +1016,6 @@ På samme måde viser det sig ofte at det ikke er alle kautionister, der faktisk
 ---
   
 ## Hvis kautionisten dør
-
-  <img src="img/kaution10.png" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 

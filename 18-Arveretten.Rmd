@@ -150,8 +150,6 @@ Et **"uskiftet bo"** er	en ægtefælles overtagelse af fællesboet uden skifte m
 Arvinger kan inddeles i tre hovedgrupper: slægtninge, ægtefæller og testamentsarvinger.  
 
 
-![](img/arv4.png)
-
 **Arven fordeles til arveklasse 1, 2 eller 3.** 
 
 **Er der ingen arvinger i arveklasse 1 går man videre til arveklasse 2, og er der ingen arvinger i arveklasse 2, arver arveklasse 3.**  
@@ -290,14 +288,6 @@ Efterlades en mormor og to fastre, arver mormoren således 1/2 og fastrene 1/4, 
   
 ---
  
-
-
-![](img/arv7.jpg)
-
-
-
----
-
 
 
 <h4><a href="https://www.youtube.com/embed/EIgZkPOF0_E" target="_blank">Video Sådan fordeles arven</a></h4>
@@ -503,9 +493,6 @@ Her skal man til gengæld selv lave en begunstigelse - og det er helt gratis at 
 
 
 
-![](img/testamente.jpg)
-
-
 ---
 
 
@@ -565,8 +552,6 @@ Et **"uigenkaldeligt testamente"** er et	testamente, som ikke kan tilbagekaldes.
 ---
 
 ## Notartestamente, jf. AL § 63
-
-![](img/notar.png)
 
 **Et notartestamente er et testamente, der underskrives foran en notar i byretten.** 
 
@@ -681,8 +666,6 @@ Et testamente kan indeholde mange forskellige emner, alt efter hvilken slags tes
 
 
 
-![](img/arv1.jpg)
-
 ---
 
 Et vidnetestamente er et testamente, der underskrives under tilstedeværelse af **to uvildige vidner**. 
@@ -725,8 +708,6 @@ Hvis et testamentsvidne har medvirket til oprettelse af et testamente i strid me
 
 
 
-![](img/nodtestamente.jpg)
-
 ---
 
 **Betingelser ved oprettelsen af et nødtestamente:**
@@ -742,14 +723,6 @@ Bortfalder efter tre måneder.
 En nødsituation kunne fx blodprop eller umiddelbart før en stor operation.
 
 Andre nødstilfælde kan være et synkende skib, en naturkatastrofe, samt beslutning om selvmord, jf. nedenfor dommene om nødtestamente ved selvmord, jf. **U 1970.10 H, U 1979.108 H** og **U 2000.1340 H.**
-
-
-
-
-![](img/nod3.jpg)
-
-
-
 
 ---
 

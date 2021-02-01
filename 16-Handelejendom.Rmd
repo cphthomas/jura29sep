@@ -65,8 +65,6 @@ Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatio
 
 ---
 
-![](img/hus1.jpg)
-
 **Aktører og funktioner ved hushandlen:**
 
 * En sælger af huset.
@@ -106,8 +104,6 @@ Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatio
 ---
 
 
-![](img/hus2.jpg)
-
 ## Gennemgang af en ejendomshandel
 
 **Afsnittet læses kun i hovedtræk, da det bliver mere detaljeret gennemgået under brancheretningsfaget for formidling af fast ejendom.**
@@ -131,8 +127,6 @@ Der findes et begreb ved handel med fast ejendom: **"Negotium mixtum cum donatio
 
 **Formidlingsaftalen:**
 
-![](img/hus5.jpg)
- 
 En aftale om formidlingsopdraget skal være skriftligt. LOFE § 29, stk. 1.^[Følgende afsnit om formidlingsaftalen bygger på **Sonny Kristoffersen**: Ejendomsmægleren og ejendomsvirksomheden i et juridisk perspektiv, 2018, Hans Reitzels Forlag. Som kan anbefales for dig, der vælger ejendomsmæglerbranchen.] 
 
 Kravet om parternes underskrift skal bl.a. sikre, at der er fuldstændig enighed om de vilkår, som fremgår af aftalen, inklusive situationer, hvor sælgeren fx har anført tillægstekst i hånden.  
@@ -834,8 +828,6 @@ Udenfor falder værdiansættelser af fast ejendom i andre situationer, fx værdi
 	
 Ved værdiansættelsen skal ejendomsmægleren tage hensyn til markedsforholdene, de fysiske omstændigheder omkring ejendommen samt andre relevante forhold. 
 
-![](img/hus3.jpg)
-
 Ejendomsmægleren kan ikke tage et generelt forbehold for eventuelle synlige mangler. Sådanne fejl og mangler vil typisk fremgå af en byggeteknisk gennemgang, bl.a. en tilstandsrapport, el-installationsrapport eller lignende.  
 
 Det må som udgangspunkt antages at være i strid med god ejendomsmæglerskik, hvis ikke ejendomsmægleren i forbindelse med værdiansættelse foretager en fysisk besigtigelse af ejendommen, jf. **Kendelse (103-2009) fra Disciplinærnævnet for Ejendomsmæglere afsagt i 2011.**
@@ -854,11 +846,6 @@ LOFE § 27, stk. 2, pålægger ejendomsmægleren at rådgive sælgeren om behov 
 
 <h4><a href="https://www.youtube.com/embed/GCogSgE3ZmU" target="_blank">Video Huseftersynsordningen</a></h4>
 
-
-
-
-![](img/hus13.jpg)
-
 Dette indebærer, at der generelt skal være orienteret om risikoen for skjulte fejl og mangler samt reglerne om mangelsansvar og om mulighederne for at imødegå risikoen ved en byggeteknisk gennemgang og forsikringstegning. 
 
 Tillige skal der være rådgivet om de juridiske konsekvenser af, at der ikke foreligger en rapport fra en byggeteknisk gennemgang. 
@@ -870,8 +857,6 @@ Efter indførelsen af huseftersynsordningen vil ejendomsmægleren ofte tage forb
 Ejendomsmæglerens pligt som formidler til at rådgive sælger om byggeteknisk gennemgang, huseftersynsordningen m.v. og til at oplyse køber om rapporten fra en byggeteknisk gennemgang samt muligheden for at tegne ejerskifteforsikring fremgår af LOFE §§ 44-45. 
 
 Hvis sælgeren er utilfreds med ejendomsmæglerens værdiansættelse, så kan sælgeren ikke klage til Klagenævnet for Ejendomsformidling, men må anlægge sag ved domstolene.
-
-![](img/hus11.png)
 
 ---
 
@@ -1143,9 +1128,7 @@ Sælgers accept af et købstilbud vil normalt ikke kunne anses for at være komm
 
 ---
 
-##Betingede købsaftaler (advokatforbehold mv.)
-
-![](img/hus12.jpg)
+## Betingede købsaftaler (advokatforbehold mv.)
 
 ---
 
@@ -1475,9 +1458,6 @@ Sælger har ikke tilsvarende lovmæssig fortrydelsesret over køberen ved handel
 
 ## Fysiske mangler ved fast ejendom
 
-![](img/hus9.jpg)
-
- 
 Der skal gøres nogle generelle bemærkninger til området for **»fysiske mangler ved fast ejendom«**. 
 
 Købeloven gælder ikke for køb af fast ejendom.  
@@ -1515,8 +1495,6 @@ Find og gennemgå afgørelsen i **Disciplinær- og klagenævnet for beskikkede b
 Omfattet af mangler ved fast ejendom kan fx også være fravigelser i boligarealet, men dette medfører ikke nødvendigvis en værdiforringelse. 
 
 ---
-
-![](img/hus10.jpg)
 
 Der synes at være en vis usikkerhed i retspraksis, hvor meget der skal til før, at **"fravigelsen i boligarealet"** udgør en mangel ved en hushandel;
  
@@ -1570,16 +1548,12 @@ Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, j
 
 ---
 
-![](img/hus15.jpg)
-
 **"Ulovlige bygningsindretninger"** er i retspraksis blevet behandlet på samme måde som fysiske mangler, formentlig fordi en ulovlig bygningsindretning som regel kan lovliggøres ved en fysisk udbedring. 
 
 
 
 
 ---
-
-![](img/hus17.jpg)
 
 Efter retspraksis foreligger der en fysisk mangel ved en fast ejendom, hvis ejendommen ikke svarer til, hvad sælgeren har garanteret, eller hvad køberen over for sælgeren har forudsat.
 
@@ -1598,8 +1572,6 @@ Ved afgørelsen af om der foreligger en mangel, lægges der bl.a. vægt på en r
 Afgørelsen er skønsmæssig og konkret.
 
 ---
-
-![](img/hus4.jpg)
 
 En betingelse for (ud over, at der skal kunne påvises et ansvarsgrundlag), at der overhovedet kan kræves erstatning af en sælger af fast ejendom er, at der kan konstateres en retlig relevant mangel. 
 
@@ -1678,8 +1650,6 @@ En køber har som udgangspunkt ikke pligt til af egen drift at besigtige ejendom
 
 Hvis køberen inden købet, af en godtroende sælger, er blevet opfordret til at undersøge et bestemt angivet forhold nærmere, vil køberen normalt ikke senere kunne påberåbe sig det pågældende forhold som en mangel ved ejendommen, hvis han undlader at følge sælgers opfordring. 
 
-![](img/hus14.jpg)
-
 Helt generelt formulerede opfordringer til at besigtige ejendommen har derimod ingen retsvirkning. 
 
 I almindelighed stilles der ikke strenge krav til en købers evne til at opdage mangler i forbindelse med en undersøgelse af en fast ejendom. 
@@ -1743,8 +1713,6 @@ Mangler ved fast ejendom forældes 3 år efter køber har opdaget manglen eller 
 <h4><a href="https://youtu.be/dsA2EXsZVsg" target="_blank">Video Tilstandsrapport og energimærke</a></h4>
 
 ---
-
-![](img/hus16.jpg)
 
 Sælger kan få udarbejdet tilstandsrapport af bygningssagkyndig.
 
@@ -1879,8 +1847,6 @@ Se dommen i **U 2019.2221 H** Ikke grundlag for erstatningsansvar i anledning af
 
 ---
 
-![](img/hus6.png)
-
 **Ejendomsmæglers rådgiveransvar vurderes efter almindelige erstatningsretlige principper:**
 
 Professionsansvar, skærpet objektiviseret culpaansvar.
@@ -1895,8 +1861,6 @@ Ejendomsmægler har et objektivt ansvar, jf. LOFE § 47, hvis
 
 ---
 
-![](img/hus7.png)
-  
 Køberen kan klage over ejendomsmægleren til "Klagenævnet for ejendomsformidling", dog ikke over værdiansættelsen af ejendommen.
 **<a href="https://www.ejendomsmaeglernaevnet.dk/">klik her!</a>**
 
@@ -1911,9 +1875,6 @@ Køberen kan klage over ejendomsmægleren til "Klagenævnet for ejendomsformidli
 
 Om ejendomshandel, forbrugerbeskyttelse, kreditsikring, omsætningsbeskyttelse, erstatningsret og professionsansvaret mv.
 
-
-
-![](img/hus8.jpg)
 
 
 Kalle og Sille er kærester og ønsker at finde drømmehuset og flytte sammen. 

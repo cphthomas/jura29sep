@@ -132,10 +132,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 
 ## Hvad er et gældsbrev
 
-![](img/galds.jpg)
-
 ---
-<img src="img/Geldsbrev.jpg" align="right" width="20%" height="20%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Principperne i gældsbrevsloven finder anvendelse både for gældsbreve og simple fordringer, jf. (Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve; forkortet her ”GBL”).
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">klik her!</a>**
@@ -176,8 +173,6 @@ I øvrigt kan underskriften være stemplet eller trykt.
 
 ---
 
-<img src="img/gb16.jpg" align="right" width="40%" height="40%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 **"Checks og veksler"** er ikke omfattet af gældsbrevsbegrebet, dels fordi disse dokumenttyper er reguleret i deres egne love (Checklov: Lovbekendtgørelse nr. 558 af 25. august 1986 og Veksellov: Lovbekendtgørelse nr. 1661 af 12. december 2018), dels grundet deres særegne karakter.  
 
 ---  
@@ -196,13 +191,9 @@ Sælgers krav på købesummen er afhængig af ikke-misligholdelse fra sælgers s
 
 ---
 
-<img src="img/gb17.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 Ud fra tilsvarende synspunkter falder også "lejekontrakter" uden for begrebet.
 
 ---
-
-<img src="img/gb18.jpg" align="right" width="50%" height="50%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 En "forsikringspolice" er ikke et gældsbrev, da sikredes krav er afhængig af sikredes opfyldelse af sine forpligtelser bl.a. præmiebetaling.
 
@@ -279,8 +270,6 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ## Flere skyldnere hæfter solidarisk
 
-![](img/soli.jpg)
-
 Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, jf. den deklaratoriske regel i GBL § 2:
 
 1. Kreditor kan vælge at kræve hele gælden betalt af hver enkelt solidarisk skyldner.
@@ -292,8 +281,6 @@ Flere skyldnere hæfter solidarisk, hvis ikke andet er aftalt, jf. den deklarato
 ## Skyldnerens forpligtelser
 
 
-
-![](img/bring.jpg)
 
 ---
 
@@ -363,10 +350,6 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 
 
-![](img/mis6.jpg)
-
-
-
 ---
 
 Kortmisbrug her er, hvor kortholder ikke selv har (mis-)brugt kortet.
@@ -383,9 +366,6 @@ Ej heller **"tredjemands (misbrugerens) ansvar"** er reguleret af betalingsloven
 **<a href="https://jura.tepedu.dk/lovsamling.html">Lovsamlingen klik her!</a>**
 
 
-![](img/fan.jpg)
-
-
 Se fx dommen i **U 2003.432 V**, fængsel i 6 måneder for pengefalsk.
 **<a href="https://pro.karnovgroup.dk/document/7000260384/1">Dommen klik her!</a>**
 
@@ -399,10 +379,6 @@ Dommen i **U 2003.251 Ø**, bedrageri med dankort for 139.500 kr. henført under
 "Tredjemandsbrug af kortholders betalingskort" er reguleret af betalingsloven (forkortet; ”BTL”).
 **<a href="https://jura.tepedu.dk/lovsamling.html">Lovsamlingen klik her!</a>**
 
-
----
-
-![](img/mis2.png)
 
 ---
 
@@ -437,10 +413,6 @@ Kortholder selv har oplyst koden til misbrugeren og
 
 Kortholder burde have indset risikoen for misbrug, fx i en skilsmissesituation.
 
----
-
-![](img/mis3.jpg)
- 
 ---
 
 Efter kortet er spærret er banken ansvarlig for al misbrug af kortholders betalingskort.
@@ -512,9 +484,6 @@ mydf %>%
 **Om tredjemandsmisbrug af kortholderes betalingsmiddel**
 
 
-<img src="img/kortmisbrug2.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
 Klokken er 9.31 mandag d. 5. februar 2018, da Andreas Andersen ringer til privatrådgiver Lærke Jensens kontor i Sparekassen Pecunia. 
 
 Han får hurtigt forklaret, at grunden til, at han har ringet er, at han har mistet sit Visa/dankort og at han gerne vil have kortet spærret. 
@@ -561,20 +530,12 @@ Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån 
 
 **Quiz om betalingskort** 
 
-![](img/kort.jpg)
 
 **<a href="https://www.forbrug.dk/quiz/betalingskort/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz om betalingskort. Klik her!</a>**  
 
 ---
 
-![](img/mis4.png)
-
----
-
-
 ## Forskellige typer af pengekrav og fordringer  
-
-<img src="img/gb9.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 ---
 
@@ -593,13 +554,9 @@ Se dommen i **U 2019.2593 V**. Kvinde hæftede på grund af uagtsomhed for lån 
 
 ---
 
-![](img/fak.jpg)
-
 **Simple fordringer** er almindeligt pengekrav, hvor der ikke er lavet et gældsbrev, fx **fakturakrav** (regninger) eller en kassekredit.
 
 ---
-
-![](img/bank2.jpg)
 
 **Simple gældsbreve** er gældsbreve, som ikke er omsætningsgældsbreve, jf. GBL §26, jf. GBL § 11, stk. 2, fx lånedokumenter (familielån og banklån).
 
@@ -618,8 +575,6 @@ Da der er tale om et ejerpantebrev, som er et omsætningsgældsbrev, skal det f�
 ---
 
 **Ejerpantebrevs-dokument:**
-
-![](img/ejer.jpg)
 
 ---
 
@@ -727,9 +682,6 @@ Sikringsakten kan være, at man skal give meddelelse (denunciere), jf. Gbl. § 3
 ---
 
 
-<img src="img/gb10.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
 Når man foretager udlæg i simple gældsbreve eller simple fordringer, er der som udgangspunkt intet krav om, at man foretager en sikringsakt. 
 
 Den, der foretager udlægget, er sikret både over for skyldnerens øvrige kreditorer og godtroende aftaleerhververe fra udlæggets foretagelse. Se RPL § 526, stk. 1 og 2.
@@ -756,8 +708,6 @@ Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitima
 
 ### Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg
 
-
-<img src="img/gb11.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje eller pant, skal derimod foretage en sikringsakt for at være beskyttet mod overdragerens retsforfølgende kreditorer.
 
@@ -910,8 +860,6 @@ Skadesløsbreve er ikke negotiable pantebreve: Se TL § 47, stk. 7, 2. og 3. pkt
 
 **Bemærk her** 
 
-![](img/ud4.png)
-
 Hvis et gældsbrev ikke falder ind under definitionen i henholdsvis GBL eller TL, og det klart fremgår af gældsbrevet, at det ikke skal være negotiabelt, er det som nævnt et simpelt gældsbrev: 
 
 Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m, stk. 2, 2. og 3. pkt. og § 47, stk. 7, 2. og 3. pkt.  
@@ -1048,8 +996,6 @@ Se RPL § 523, stk. 2 og TL § 27a. Reglen gælder også bilbogen, andelsboligbo
 
 ---
 
-![](img/gald3.jpg)
-
 Hvis et omsætningsgældsbrev er overdraget, men skyldneren har betalt forfaldne renter eller forfaldne, tidsfæstede afdrag til overdrageren, kan skyldneren gøre dette gældende over for en senere erhverver af omsætningsgældsbrevet. 
 
 Se GBL § 16. 
@@ -1183,8 +1129,6 @@ Modsat er **"ekstinktion"** som er	udtryk for, at den godtroende omsætningserhv
 ---
 
 **Bemærk her**
-
-![](img/ud3.png)
 
 I relation til retsplejelovens regler er en fordring et krav på betaling af en pengeydelse.
 
@@ -1993,10 +1937,6 @@ Den, der på lovlig vis har fået omsætningsgældsbrevet i hænde, har ret til 
 
 ---
 
-![](img/fordring1.jpg)
-
-
-
 For tinglyste digitale pantebreve er den, der er berettiget ifølge "Tingbogen", legitimeret til at gøre fordringen gældende, jf. TL § 27a, stk. 1.   
 
 Tilsvarende gælder for Bilbogen (TL § 42g, stk. 3, 1. pkt., jf. TL § 27a, stk. 1), 
@@ -2703,10 +2643,6 @@ edges <- data.frame(from = c(1,2,3), to = c(2,3,4),
   +	Som ovenfor beskrevet ved simple pantebreve.
 
 
-
----
-
-![](img/tingbog.jpg)
 
 ---
 

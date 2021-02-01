@@ -80,8 +80,6 @@ Omstødelse af dispositioner, jf. KL-kapitel 8
 
 **Regler og definitioner**
 
-![](img/insol1.jpg)
-
 **Retsplejeloven og Konkursloven regulerer:**
 
 **Individualforfølgning:**
@@ -110,8 +108,6 @@ Stk. 2 En skyldner er insolvent, hvis han ikke kan opfylde sine forpligtelser, e
 ---
 
 Ordet **insolvent**
-
-![](img/insolvent2.jpg)
 
 Defineret i KL § 17.
 
@@ -172,8 +168,6 @@ Om forsikringsselskabers konkurs, se lov om finansiel virksomhed §§ 264-265, h
 
 Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige interessenter er under konkurs.
 
-![](img/insolvent3.jpg)
-
 
 **Insolvens antages i almindelighed at foreligge efter KL § 18, hvis:**
 
@@ -189,8 +183,6 @@ Ansvarlige interessentskabers boer behandles som konkursboer, når samtlige inte
  
 ---
 
-![](img/inkasso3.jpg)
-
 ## Inkasso
 
 Efter en **rykkerprocedure med 3 rykkergebyrer**, jf. rentelovens § 9 b, skal sagen overdrages til retlig inkasso:
@@ -201,8 +193,6 @@ For rykkerskrivelser vedrørende fordringer kan fordringshaveren kræve et gebyr
 Stk. 2. Der kan kræves et rykkergebyr på højst 100 kr. for hver rykkerskrivelse, dog højst for 3 skrivelser vedrørende samme ydelse.  Har skyldneren inden for en sammenhængende periode til stadighed været i restance vedrørende samme skyldforhold, kan der uanset 1. pkt. højst kræves rykkergebyr for 3 skrivelser vedrørende restancerne i den pågældende periode. Der kan kun kræves gebyr for rykkerskrivelser, som er sendt med mindst 10 dages mellemrum".
 
 Den tredje rykkerskrivelse skal indeholde et inkassovarsel.
-
-![](img/ryk.jpg)
 
 ---
 
@@ -250,9 +240,6 @@ Kap. 8 indeholder straffe- og ikrafttrædelsesbestemmelser.
 
 **Inkassoprocessen**
 
-![](img/insolvent4.jpg)
-
-
 
 Gælden sendes til inkasso, hvis skyldner ikke betaler, efter kreditor har sendt en eller flere rykkere (højst 3 stk.)
 
@@ -267,15 +254,9 @@ Inkasso kan foretages af:
 Inkassobrev med diverse oplysninger sendes til skyldner.
 
 
-![](img/inkasso.jpg)
-
 **Formålet med inkasso** er at få betalt gælden eller opnå en afdragsordning, som kaldes et frivilligt forlig.
 
 Betaler skyldner stadig ikke, må kreditor overveje at fortsætte med tvangsinddrivelse.
-
----
-
-![](img/inkasso2.png)
 
 ---
 
@@ -343,8 +324,6 @@ Man kan foretage en vejledende beregning af retsafgiften.
 
 
 ## Tvangsinddrivelse
-
-![](img/insolvent5.jpg)
 
 Ordet **tvangsinddrivelse:**
 
@@ -695,8 +674,6 @@ Kan med Fogedrettens påtegning på betalingspåkravet anvendes som fundament
 
 **Udlæg**
 
-![](img/insolvent6.jpg)
-
 Hvis man skylder penge, og man ikke betaler, kan kreditor bede fogedretten om at hjælpe med at indkræve pengene.
 
 I fogedretten vil man blive spurgt, om man har mulighed for at betale pengene. 
@@ -746,8 +723,6 @@ Se dommen i **U 2019.3256** om krav i henhold til gældsbrev var ikke fritaget f
 
 **Trangsbeneficiet, jf. RPL § 509:**
 
-![](img/beskeden.png)
-
 Kreditor kan ikke få udlæg i aktiver omfattet af **trangsbeneficiet**.
 
 Omfatter aktiver, der hører til et beskedent hjem, fx seng, bord, stol, sofa.
@@ -785,9 +760,6 @@ Spørgsmål er i et hvilket omfang, der kan foretages udlæg i følgende genstan
 ---
 
 ## Tvangsauktion
-
-<img src="img/gaden.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 
 En tvangsauktion er et **tvangssalg**. 
 
@@ -859,8 +831,6 @@ Se konkursloven.
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">klik her!</a>**
 
 ---
-
-![](img/insolvent7.jpg)
 
 For at en skyldner - en person eller et selskab - kan erklæres konkurs, er det en betingelse, at skyldneren er "insolvent", jf. kravet i konkurslovens § 17:
 
@@ -971,8 +941,6 @@ Er det i Storkøbenhavn (København, Lyngby, Glostrup og Frederiksberg retskreds
 
 ### Konkursbehandling
 
-![](img/konkurs.jpg) 
-
 
 **Under konkursbehandlingen sker der følgende:**
 
@@ -1072,8 +1040,6 @@ Hvis skyldner er et selskab, har kreditor ingen at rette kravet mod efter konkur
 ---
  
 ###	Konkurskarantæne
-
-![](img/karantane.jpg)
 
 
 **Konkurskarantæne betyder, at en person i en periode får et forbud mod at deltage i ledelsen af en virksomhed**, hvori den pågældende ikke hæfter personligt og ubegrænset for virksomhedens forpligtelse (aktieselskaber, anpartsselskaber m.v.)
@@ -1333,8 +1299,6 @@ Mundtlige gaveløfter skal accepteres straks.
 **Ejendomsmæglerens konkurs**
 
 
-![](img/konkurs5.jpg)
-
 Karla Kamilla Kyrel drev ejendomsmæglerfirmaet K3 v/ Karla Kamilla Kyrel. Virksomheden, der var startet i maj 2014, havde haft svært ved at få foden indenfor på markedet og de huse, man rent faktisk havde fået til salg, havde vist sig vanskelige at sælge. 
 
 D. 11. august 2015 modtog Retten i Odense Bank Skt. Knuds konkursbegæring mod Karla Kamilla Kyrel personligt og d. 14. august 2015 afsagde Retten i Odense konkursdekret. 
@@ -1450,16 +1414,10 @@ Uanset hvad du har svaret i opgave 6, skal du nu lægge til grund, at Bank Skt. 
 
 ---
 
-![](img/konkurs6.jpg)
-
 **Hvilke dispositioner kan fx omstødes:**
-
-![](img/gaver1.jpg)
 
 **Gaver, der ikke er lejlighedsgaver, jf. KL § 64**
 
-
-![](img/gald1.jpg)
 
 **Betaling af gæld, jf. KL § 67, hvis betaling er sket:**
 
@@ -1519,8 +1477,6 @@ Skifteretten udnævner en rekonstruktør – der typisk vil være advokat – ti
 Det er vigtigt at være opmærksom på, at en begæring om rekonstruktion ikke kan hæves eller kaldes tilbage, når den er taget til følge. 
 
 En indledt sag om rekonstruktion kan kun ende med akkord, konkurs, eller med at skyldneren bliver solvent.
-
-![](img/rekon1.jpg)
 
 ---
 
@@ -1879,8 +1835,6 @@ Er betingelserne for en tilbagetagelse af bilen gennem fogedretten nu opfyldt?
 ## Gældssanering
 
 
-<img src="img/gald.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 **Gældssanering er en ordning, hvor ens gæld kan blive slettet eller sat ned.** 
 
 Hvis gælden bliver sat ned, bliver der lavet en afdragsordning for resten af gælden. 
@@ -1892,8 +1846,6 @@ Hvis gælden bliver sat ned, bliver der lavet en afdragsordning for resten af g�
 ---
 
 **Hvad er gældssanering?**  
-
-![](img/h.jpg)
 
 En **gældssanering** er	bortfald eller nedsættelse af gæld ved en kendelse afsagt af skifteretten.
 
@@ -1944,8 +1896,6 @@ Man kan læse mere om betingelserne for gældssanering
 ---
 
 **Hvordan søger man?**
-
-![](img/galdsan.jpg)
 
 Man udfylder og underskriver ansøgningsskemaet.
 

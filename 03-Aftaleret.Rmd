@@ -54,8 +54,6 @@ Aftaleretten beskæftiger sig med reglerne for indgåelse af aftaler, fuldmagtsf
 
 ---
 
-![](img/sunt.jpg)
-
 **Et grundlæggende aftaleretligt princip er:**
 
 **"Pacta sunt servanda"** (latin: **Aftaler skal holdes**) er det grundlæggende juridiske princip inden for aftaleret, civilret og international ret om, at aftaler skal holdes.
@@ -135,8 +133,6 @@ Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige
 
 ---
 
-![](img/six.jpg)
-
 **Hvad er en aftale:**
 
 Ordet **"aftale”**: En aftale - jf. aftalelovens titel - består af viljeserklæringer, som to eller flere personer afgiver indbyrdes, og hvoraf mindst én erklæring er et løfte, som har karakter tilbud. 
@@ -176,8 +172,6 @@ Udtrykkeligt løfte ctr. stiltiende løfte.
 **En aftale kan også være mundtlig.** 
 
 En kontrakt er skriftlig og underskrevet af aftalepartnerne og kan så påberåbes (håndhæves) ved domstolene.  
-
-![](img/ret2.jpg)
 
 ---
 
@@ -240,8 +234,6 @@ edges <- data.frame(from = c(1),
 
 Eksempler på indgåelse af juridiske aftaler mellem parter 
 
-![](img/formid.jpg)
-
 ---
 
 Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:  
@@ -251,8 +243,6 @@ Tilbudsgiver (ejendomsmægleren): Den, der afsender/giver et tilbud til en anden
 Tilbudsmodtager (boligsælgeren): Den, som modtager et tilbud. 
 
 ---
-
-![](img/forsik1.png)
 
 **En kunde tager initiativ til en forsikringsaftale:**  
 
@@ -439,8 +429,6 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 **Tilbud eller opfordring til tilbud**:
 
-![](img/tilbud.jpg)
-
 
 **HR:** Tilbud er bindende for afgiveren, jf. aftalelovens § 1.
 
@@ -470,7 +458,6 @@ Afslaget kan tilbagekaldes, hvis tilbagekaldelsen kommer frem til modtageren sen
 
 Undtagelser: **Opfordring til tilbud**, jf. aftalelovens § 9:
 
-![](img/aftale1.png)
 
 Nogle typer tilbud er ikke bindende for sælger, kaldet "opfordring til tilbud", fx:
   
@@ -582,7 +569,6 @@ Rimelig betænkningstid” afhænger af de konkrete omstændigheder.
 
 **Betænkningstiden er:**
 
-![](img/tank.jpg)
 
 +	Den er kort, hvis prisen på salgsproduktet svinger meget.
     
@@ -722,9 +708,6 @@ Lader tilbudsgiver som ingenting, er tilbudsgiver bundet af aftalen og skal leve
 
 ## Eksamensopgave 1. Bord og stol A/S
 
-
-
-![](img/hotel.jpg)
 
 
 Firmaet ”Bord og stol A/S” producerer og handler med alle former for møbler, men har i de senere år specialiseret sig i møbler til hoteller. ”Bord og stol A/S”s indkøber har fundet nogle meget elegante møbler i Østen lavet i et nyt og anderledes design. 
@@ -890,8 +873,6 @@ Aftalelovens § 40 om, at **”give meddelelse”** omfatter også e-mails.
 ## Aftalers ugyldighed
 
 
-<img src="img/deal3.jpeg" align="right" width="30%" height="30%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis aftalen rammes af ugyldighed.
 
 ---
@@ -1027,13 +1008,9 @@ Hvis A fx giver B et løfte pga. svigagtige oplysninger fra C, binder løftet A 
 
 Løftet er ikke ægte.
 
-![](img/dok.jpg)
-
 ---
 
 **"Forfalskning":** Lånedokumentet er forfalsket, hvis der er ændret i dokumentet, fx et beløb – ændret fra 250.000 kr. til 550.000 kr. 
-
-![](img/falsk1.jpg)
 
 Løftet er ægte fra starten, men indholdet af løftet ændres. 
 
@@ -1105,8 +1082,6 @@ Voldelig tvang, er en stærk ugyldighedsgrund, det følger af aftalelovens § 28
 
 ---
 
-![](img/pistol.jpg)
-
 Aftalen er ugyldig hvis løftet fra løftegiver er fremkaldt ved vold eller trussel om øjeblikkelig anvendelse af mekanisk vold, fx holder en pistol for panden af løftegiver, eller en kniv for halsen.
 
 Tvangen (truslen) skal have henblik på løftets afgivelse, så at det tilfælde, at en retshandel er fremkaldt ved en i spøg fremsat trussel, ligesom når løftet er afgivet af frygt, der ikke er fremkaldt ved nogen derpå rettet trussel, falder uden for tvangsbegrebet.
@@ -1132,8 +1107,6 @@ Også trusselens styrke er principielt uden betydning for dens retsstridighed (m
 Ordene **personlig vold** taler for, at der alene tænkes på vold - eller trussel herom - som er rettet direkte mod erklæringsgiverens person.
 
 ---
-
-![](img/vold.jpg)
 
 Om udøvelse af vold i forbindelse med indgåelse af en aftale overtrædes straffelovens bestemmelser (Lovbekendtgørelse 2018-09-20 nr. 1156), jf. straffelovens § 244-246 om de mere om mindre kvalificerede former for strafbar vold. Se også straffelovens § 288 om røveri, samt straffelovens § 260 om ulovlig tvang. 
 **<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">Straffeloven i Lovsamlingen klik her!</a>**
@@ -1192,8 +1165,6 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven (GBL) 
 **Handleevne** betyder en persons evne til at forpligte sig ved retshandler fx ved et køb.
 
 ---
-
-![](img/afpresning.jpg)
 
 Ved ikke-voldelig kompulsiv tvang fx **afpresning**, er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til løftemodtagerens kundskab, jf. aftalelovens § 29. 
 
@@ -1324,9 +1295,6 @@ Anvendes fx på aftaler indgået af mindreårige, som efterfølgende bliver gyld
 
 
 
-![](img/sind.jpg)
-
-
 Personer over 18 år kan komme under værgemål/umyndiggøres, fx pga. svær demens, sindssygdom, psykisk handicap mv.
 
 Er ude af stand til at varetage deres økonomiske anliggender, og hvor der er en risiko for forringelse eller økonomisk udnyttelse.
@@ -1427,9 +1395,6 @@ Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have ind
 
 **Hvad er svig?**
 
-![](img/logn.jpg)
-
-
 **Svig**, se nærmere ordlyden i aftalelovens § 30:
 
 "En viljeserklæring er ikke bindende for afgiveren, hvis den, til hvem erklæringen er afgivet, har fremkaldt den ved svig eller har indset eller burdet indse, at den var fremkaldt ved svig fra tredjemands side.
@@ -1479,10 +1444,6 @@ Svig kan så være fejlinformation, urigtige oplysninger og fortielser, der brug
 
 ---
 
-<img src="img/deal5.jpeg" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
-
-
 Situationen: Sælger af en båd påstår urigtigt, at båden har været ejet af en berømthed, og på den baggrund meddeler køber, at han vil købe båden, trods den høje købesum.
 
 Løftet om køb af båden kan erklæres ugyldigt, hvis modtageren af løftet var i ond tro bådesælgeren. 
@@ -1496,8 +1457,6 @@ Bådesælgeren er i ond tro, hvis: han vidste eller burde vide om et forhold og 
 **Svig udøvet af tredjemand:**
 
 **Situationen:** 
-
-<img src="img/bod.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 Peter (tredjemand) har sin båd til salg hos Bo Bådesælger. 
@@ -1710,8 +1669,6 @@ En bristende forudsætning: Løftegivers vildfarelse vedrører fremtidige forhol
 
 ---
 
-![](img/brul.jpg)
-
 **Ophævelse af aftalen kræver at 3 betingelser skal være opfyldt:**
 
 1.	Forudsætningen skal have været væsentlig for løftegiver.
@@ -1766,8 +1723,6 @@ Undtagelsen til hovedreglen er, at et standardvilkår kan tilsidesættes, hvis d
 ---
 
 Se fra retspraksis:
-
-![](img/viasat.png)
 
 Se dommen i **U 2005.2960 S** Vilkår om forlængelse af abonnementsaftale medmindre forbrugeren opsagde inden 30 dage før abonnementsperiodens udløb, tilsidesat:
 **<a href="https://pro.karnovgroup.dk/document/7000311279/1" target="_blank">Dommen klik her!</a>**
@@ -1825,8 +1780,6 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 
 * **Udfyldningsregel:** En regel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
 
-
-![](img/fortolk1.jpg)
 
 ---
 

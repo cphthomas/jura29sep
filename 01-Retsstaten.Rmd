@@ -313,7 +313,6 @@ Magten i samfundet er delt i 3 for at forhindre, at der sker magtmisbrug.
 
 **Folketinget har 3 hovedopgaver:**
 
-![](img/sonfolketingssalen.png)
 
 
 *	At behandle lovforslag og vedtage landets love.
@@ -343,7 +342,6 @@ Reglerne kan ændre sig over tid, fordi samfundet ændrer sig, men de fleste af 
 **Lovforslag:**
 
 
-![](img/folketinget2.png)
 
 Love regulerer, hvordan vi skal leve sammen i Danmark, hvad vi skal drive i fællesskab – fx folkeskolen og sygehusene – og hvordan det fælles skal være indrettet. 
 
@@ -386,8 +384,6 @@ Derfor er det regeringen, der fremsætter de fleste lovforslag. For regeringen h
 
 Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igennem en længere proces i ministerierne.
 
-![](img/lov.jpg)
-
 
 ---
 
@@ -399,8 +395,6 @@ Inden et lovforslag fremsættes i Folketingssalen, har det som regel været igen
 
 **Folketingets kontrol med regeringen:**
 
-
-![](img/folketinget3.png)
 
 
 Ud over at lovgive har Folketinget en anden og lige så vigtig rolle i demokratiet. 
@@ -442,8 +436,6 @@ Oppositionen har en politisk fordel i at finde fejl og mangler ved en regering, 
 
 
 
-![](img/udvalgsarbejde.jpg)
-
 Arbejdet i Folketinget foregår både i Folketingssalen og i Folketingets udvalg. 
 
 Udvalgene arbejder med hvert deres fagområde og behandler både lovgivning og den brede kontrol med regeringens arbejde.  
@@ -464,9 +456,6 @@ Ministrene er som regel også medlemmer af Folketinget, men det er ikke et krav.
 
 **Sådan dannes en regering:**
 
-
-
-![](img/dronning.jpg)
 
 
 Grundloven giver dronningen magt til at udpege statsministeren og de øvrige ministre. 
@@ -521,8 +510,6 @@ Her præsenterer statsministeren sin nye regering for danskerne.
 
 **Sådan arbejder regeringen:**
 
-
-![](img/talerstol.jpeg)
 
 Regeringens ministre leder via deres ministerier landet efter de love, Folketinget har vedtaget. 
 
@@ -584,7 +571,6 @@ Den mundtlige del er åbningstalen, som statsministeren holder på åbningsdagen
 Statsministeren:
 
 
-![](img/statsministeren.jpg)
 Statsministen er regeringens chef. Det er statsministeren, der bestemmer, hvem der skal være ministre, og hvilke ministerier der skal være.
 
 ---
@@ -613,8 +599,6 @@ Statsministeren fører tilsyn med sine ministre og fordeler opgaver og fagområd
 
 **Ministrene:**
 
-
-![](img/ministrene.jpg)
 
 Regeringen, og dermed ministrene, har den udøvende magt i Danmark. 
 
@@ -711,9 +695,6 @@ Uafhængige domstole er en grundlæggende del af magtens tredeling i et demokrat
 ---
 
 **Domstolenes opgaver:**
-
-![](img/ret1.jpg)
-
 
 
 Domstolene er den dømmende magt i Danmark. 
@@ -833,9 +814,6 @@ Visse mindre sager kan dog normalt kun behandles ved én instans, byretterne, ud
 
 ### Højesteret   
 
-![](img/hojesteret.png)
-
-
 Danmark har én højesteret. Den ligger ved Christiansborg Slot i København. 
 
 Højesteret er den øverste domstol i Danmark. Her afgøres fx sager, der har betydning for, hvordan lignende sager skal afgøres, eller sager, der har særlig samfundsmæssig interesse. 
@@ -887,8 +865,6 @@ Særlige forvaltnings- eller forfatningsdomstole anvender man i mange andre EU-l
 
 ![Østre Landsret i København]
 
-
-(img/landsret.png)
 
 I Danmark findes der 2 landsretter: Vestre Landsret i Viborg og Østre Landsret i København. Landsretten behandler primært appelsager fra byretten.
 
@@ -956,8 +932,6 @@ Klageretten behandler derudover sager om genoptagelse af straffesager og udelukk
 ---
 
 ### Byretterne
-
-![](img/byretten.png)
 
 **Danmark har 24 byretter. De er fordelt over hele landet. Byretten behandler som nævnt bl.a.:**
 
@@ -1531,9 +1505,6 @@ Sammensætningen af Domstolsstyrelsens bestyrelse er fastsat i lov om Domstolsst
 ---
 
 **EU-domstolen:**
-
-**<img src="img/eudomstolen.png" align="right" width="40%" height="40%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>**
-
 
 Den Europæiske Unions Domstol (EU-Domstolen) fortolker EU's lovgivning for at sikre, at den anvendes på samme måde i alle EU-lande, og afgør retstvister mellem nationale regeringer og EU's institutioner. 
 

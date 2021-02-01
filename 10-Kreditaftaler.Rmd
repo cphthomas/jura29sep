@@ -235,8 +235,6 @@ Kreditaftalen skal indgås på varigt medie og opfylde tilsvarende oplysningskra
 
 ---
 
-![](img/kre5.jpg)
-
 
 **Opfylder kreditgiver ikke oplysningspligten:**
 
@@ -267,9 +265,6 @@ Urimelige vilkår kan blive tilsidesat, jf. KAL § 22 eller efter aftalelovens �
 ---
 
 ## Kreditgiverens oplysningspligt mv.
-
-![](img/opl.png)
-
 
 ---
 
@@ -342,10 +337,6 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 ---
 
-![](img/kre4.png)
-
----
-
 **De oplysninger, som kreditgiveren skal give forud for indgåelse af en aftale, er ifølge KAL § 7 a, stk. 2 følgende:**  
 
 **1.** Kredittypen. (fx lån eller en kassekreditaftale)
@@ -408,8 +399,6 @@ Kreditvurderingspligten har til formål at beskytte forbrugeren og skal som føl
 
 ### Kravene til selve kreditaftalen
 
-![](img/credit.jpg)
-
 De ovenfor omtalte bestemmelser i KAL §§ 7 a, 7 b og 7 c vedrører som tidligere anført oplysninger, der skal gives, og kreditvurderinger, der skal foretages, før der indgås en kreditaftale. 
 
 Bestemmelsen i lovens § 8 regulerer de formkrav og de oplysninger, som skal fremgå af selve kreditaftalen.  
@@ -421,9 +410,6 @@ Formkrav:
 En kreditaftale skal ifølge KAL § 8, stk. 1, udfærdiges på papir eller på et andet varigt medium. Desuden er det et krav, at alle aftalens parter skal have et eksemplar af aftalen.  
 
 ---
-
-![](img/kop.jpg)
-
 
 **Ifølge KAL § 8, stk. 2, skal en kreditaftale indeholde oplysning om:**
 
@@ -485,10 +471,6 @@ Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kre
 
 **Særligt om kassekreditter:**
 
-![](img/kasse.png)
-
-
-
 En kassekredit er et lån i et pengeinstitut, der gør det muligt at have et ekstra rådighedsbeløb, selvom kontoen skulle være tom.
 
 ---
@@ -522,8 +504,6 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 **9.** Proceduren for udøvelse af retten til at opsige kreditaftalen.  
 
 ---
-
-![](img/opl3.jpg)
 
 **Oplysning om variabel rente og andre variable kreditomkostninger:**
 
@@ -619,8 +599,6 @@ Denne forpligtelse kan ikke opfyldes ved, at forbrugeren fx via adgang til netba
 
 **Ifølge KAL § 10, stk. 2, skal et kontoudtog indeholde oplysninger om:**
 
-![](img/konto.jpg)
-
 ---
 
 **1.** Den nøjagtige periode, som kontoudtoget dækker.
@@ -654,8 +632,6 @@ Dog kan det ifølge KAL § 10, stk. 4, fastsættes i en kreditaftale, at underre
 **Beregning af de årlige omkostninger i procent:**
 
 
-![](img/aop.png)
- 
 Ved de **årlige omkostninger i procent (også betegnet som **"ÅOP"**) forstås ifølge KAL § 16, stk. 1, en procentsats, der på årsbasis svarer til nutidsværdien af alle fremtidige eller eksisterende forpligtelser i form af udnyttede kreditmuligheder, tilbagebetalinger og omkostninger, der er aftalt mellem kreditgiveren og forbrugeren. 
 
 Sagt med andre ord betyder ÅOP, hvor meget det samlet koster at låne 100 kr. i ét år. **"kiloprisen for lånet"**.
@@ -668,8 +644,6 @@ Grundligningen, som bestemmer de årlige omkostninger i procent (ÅOP), sætter 
 
 
 
-![](img/aop1.png)
-
 ---
 
 **Kreditformidlere:** 
@@ -679,8 +653,6 @@ I visse tilfælde skal en forbruger betale et gebyr til en kreditformidler for d
 ---
 
 ### Kreditgiverens tilsidesættelse af oplysningspligten
-
-<img src="img/kredit8.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 **Hvilke konsekvenser har det, hvis kreditgiveren tilsidesætter sine oplysningsforpligtelser:**
 
@@ -803,7 +775,6 @@ Forbrugeren opnår lån hos en långiver. Låneprovenuet bliver brug til et kont
 
 Typisk situation: Forbruger optager lån i sin bank. 
 
-![](img/bil.jpg)
 
 Lånet bliver brugt til køb af fx bil. 
 
@@ -855,8 +826,6 @@ Der foreligger dog kun et oprindeligt trepartsforhold, hvis der tillige foreligg
 
 Som eksempel på oprindelige trepartsforhold kan nævnes de eksterne kontosystemer, hvor en særlig kontoorganisation – kontoring eller lignende – ved aftale med en række handlende mv. har forpligtet sig til gennem ydelse af kredit at finansiere de aftaler, som kunder, der er tilsluttet organisationen, og som typisk er udstyret med et særligt kontokort, foretager hos de pågældende handlende mv. 
 
-
-![](img/konto1.jpg)
 
 Endvidere kan nævnes de såkaldte lånekøb, hvor købesummen helt eller delvis tilvejebringes ved lån til forbrugeren fra tredjemand, fx et finansieringsselskab, med hvem sælgeren har truffet aftale om finansiering af købet.  
 
@@ -970,16 +939,6 @@ Det kan heller ikke antages, at sælgers medvirken – fx, at han hjælper købe
 
 **Internationale betalingskort er omfattet af det oprindelige trepartsforhold:**
 
-![](img/master.jpg)
- 
----
-
-![](img/euro.jpg)
- 
----
-
-![](img/diner.jpg)
-
 ---
 
 Lån, der ydes af eksterne kontosystemer (og selskabskonstruktioner, der må ligestilles hermed) må antages at være omfattet af KAL § 4, nr. 15, litra b«.  
@@ -1006,7 +965,6 @@ Endelig kan der næppe herske tvivl om, at kreditelementet indgår som et væsen
 
 ### Forbrugerens adgang til at fremsætte indsigelser over for anden kreditor
 
-<img src="img/kredit11.jpeg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 I KAL kapitel 9 om kreditorskifte er der fastsat regler til beskyttelse af forbrugeren i trepartsforhold.
 
@@ -1162,8 +1120,6 @@ Fælles for et oprindeligt trepartsforhold og et fritstående lån er, at køber
 ## Køb med ejendomsforbehold
 
 
-<img src="img/kredit12.jpg" align="right" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 **Ejendomsforbehold** er en aftale mellem køber og sælger om, at sælger kan tage varen tilbage, hvis køber ikke betaler afdrag efter kreditaftalen, jf. KAL § 34, stk. 1.
 
 Ved et gyldigt ejendomsforbehold	har sælger således forbeholdt sig ejendomsretten til det solgte, hvis købesummen ikke betales.
@@ -1269,14 +1225,8 @@ Som køb med ejendomsforbehold anses også en aftale, der er betegnet som lejeko
 
 ---
 
-![](img/fona.jpg)
-
 Se **Fona-sagerne** i Højesterets dom **U 2004.317 H**, hvorefter aftale om leje af videoapparat med ret til at købe apparatet for 1 kr. efter 5 år var i strid med kreditaftaleloven.
 **<a href="https://pro.karnovgroup.dk/document/7000279473/1" target="_blank">Dommen klik her!</a>**
-
-
-
-![](img/video.png)
 
 ---
 
@@ -1993,15 +1943,11 @@ Ad. 6)	?
 
 **Quiz om forbrugslån**
 
-![](img/forbrug.jpg)
-
 Hvad betyder ÅOP? Har du mulighed for at fortryde et forbrugslån? Og hvor lang tid har du til at tilbagebetale lånet? **<a href="https://www.forbrug.dk/quiz/forbrugslaan/?rn=43716" target="_blank">Test din viden i forbrug.dk’s quiz.</a>**
 
 ---
 
 **Quiz om realkreditlån**
-
-![](img/real.jpg)
 
 Hvad er kursskæring og bidragssats? Hvad er et F3-lån? Og hvad sker der, når du konverterer et realkreditlån? **<a href="https://www.forbrug.dk/quiz/realkreditlaan/?rn=43716" target="_blank">Test dig selv i vores quiz om realkreditlån.</a>**
 

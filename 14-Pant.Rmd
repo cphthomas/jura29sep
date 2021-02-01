@@ -164,8 +164,6 @@ Pantsætter skal ofte sørge for at aktivet er forsikret mod tyveri og brand.
 
 ## Forskellige typer pant
 
-![](img/tinglysning8.jpg)
-
 **Håndpant:**
 
 Håndpant er en pantsætningsform ved løsøre og omsætningspapirer (fx. kunst og smykker, kaldet "pretiosa";	som kostbarheder, især smykker), hvor der er fare for, at pantsætter vil forringe aktivet eller pantsætter sælger aktivet.
@@ -515,8 +513,6 @@ mydf %>%
  
 ## Pant i fast ejendom
 
-![](img/tinglysning7.jpg)
-
 Pant i fast ejendom er en sikkerhed som bruges til opfyldelse af en forpligtelse. 
 
 Pant i fast ejendom bruges oftest til at stille sikkerhed for et lån via et pantebrev.
@@ -819,8 +815,6 @@ TL § 38 kan anvendes analogt på tilbehør til grunden.
 
 Domme:
 
-![](img/gart.jpg)
-
 Dommen **U 1934.167:** Centrifugalpumpe ved brønd i det fri, der anvendtes til gartneris forsyning med vand omfattet af TL § 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000240470/1" target="_blank">Dommen klik her!</a>**
 
@@ -828,8 +822,6 @@ Dommen **U 1932.603 Ø:** Automatisk pumpe i ejendoms gård forbundet med rør t
 **<a href="https://pro.karnovgroup.dk/document/7000240219/1" target="_blank">Dommen klik her!</a>**
 
 ---
-
-![](img/svin.jpg)
 
 Men dommen **VLT 1932 329:** Pumpe anvendt i briketfabrik, anbragt i skur uden tilknytning til nogen bygning, var ikke omfattet af TL § 38.
 
@@ -839,14 +831,10 @@ Svinehuse, hønsehuse og mindre skure omfattes af TL § 38, selv om man ikke kan
 
 ---
 
-![](img/hons.jpg)
-
 Dommen **U 1939.883 V:** Hønsehus af tynde brædder, opstillet et stykke fra ejendommens bygninger på støbt cementramme, så det let kunne fjernes, derfor uden for TL § 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000241331/1" target="_blank">Dommen klik her!</a>**
 
 ---
-
-![](img/vind.jpg)
 
 Det er tvivlsomt, i hvilket omfang vindmøller er omfattet af TL § 38, så særskilt pantsætning - og andre særskilte rettigheder - er afskåret i tilfælde, hvor møllen opføres på egen ejendom.
 
@@ -870,8 +858,6 @@ Tilbehør til grunden kan også være omfattet af TL § 38, jf. ordet "delvis".
 Med udtrykket »indlagt« er det bl.a. fremhævet, at der må være en vis rumlig forbindelse mellem bygning (grund) og tilbehør, selv om det ikke kræves, at anbringelsen er sket »mur- og nagelfast«. 
 
 Generelt følger af begrebet »indlagt« dels et krav om, at genstanden skal være bestemt til stationær brug (modsat let transportabel), dels et krav om, at den skal være varigt anbragt på ejendommen (modsat blot midlertidigt): 
-
-![](img/hvidvare.jpg)
 
 Se dommen **U 1987.854 V:** Køleskabe, komfurer og elradiatorer, der var opstillet i 2 nyopførte huse, men ikke var tilsluttet elnettet, anset for omfattet af TL § 38. 
 **<a href="https://pro.karnovgroup.dk/document/7000206469/1" target="_blank">Dommen klik her!</a>**
@@ -975,15 +961,11 @@ Løsøret kan udskilles ifølge regelmæssig drift.
  
 Hvis ejendommen er en landejendom, omfatter pantet også:
 
-![](img/dyr.jpg)
 
 Besætningen: 
 
 Dyr er i ældre retspraksis efter omstændighederne blevet opfattet som driftsmateriel, så de ansås for omfattet af tilbehørspantet, selv om der ikke var tale om en landejendom:
 
-![](img/heste.jpg)
-
-![](img/hons1.jpg)
 
 Dommen i **U 1981.863 V** (Heste i stutteri). 
 **<a href="https://pro.karnovgroup.dk/document/7000207606/1" target="_blank">Dommen klik her!</a>**
@@ -993,18 +975,12 @@ Dommen i **U 1981.863 V** (Heste i stutteri).
 Dommen i **U 1969.961 V** (Høns i hønseri). 
 **<a href="https://pro.karnovgroup.dk/document/7000219399/1" target="_blank">Dommen klik her!</a>**
 
-
-
-
-![](img/dam.jpg)
-
 Men se nu dommen **U 1987.807 H** En ørredbestand på et dambrug kunne ikke anses for driftsmateriel. 
 **<a href="https://pro.karnovgroup.dk/document/7000206388/1" target="_blank">Dommen klik her!</a>**
 
 
 og 
 
-![](img/mink.jpg)
 
 Dommen i **U 1995.362 H** En minkfarms besætning af mink ikke anset som driftsinventar eller driftsmateriel. 
 **<a href="https://pro.karnovgroup.dk/document/7000201619/1" target="_blank">Dommen klik her!</a>**
@@ -1228,8 +1204,6 @@ Ejendomsretten sikres ved individualisering.
  
 ## Biler
 
-<img src="img/tinglysning9.jpg" align="right" width="50%" height="50%"style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
-
 Motorkøretøjer er:
 
 Typisk: Personbiler, lastbiler, varebiler, busser, campingvogne, motorcykler, påhængs- og sættevogne Typisk ikke: Knallerter, traktorer, mejetærsker, sidevogne.
@@ -1286,13 +1260,9 @@ Hvis virksomheden primært drives fra egen ejendom, medens den lejede ejendom al
 
 Der kræves ligesom ved TL § 37 en stedlig tilknytning til ejendommen, jf. dommene i **U 1990.217 H**, jf. **U 1988.745 Ø**. 
 
-![](img/lager.jpg)
-
 Bestemmelsen i TL § 47b, stk. 2 giver ikke hjemmel til pantsætning af varelagre og lignende, bortset fra den særlige regel om landbrugsejendomme, jf. dommen i **U 1971.616 H.** 
 **<a href="https://pro.karnovgroup.dk/document/7000212386/1" target="_blank">Dommen klik her!</a>**
 
-
-![](img/leje.jpg)
 
 Lejekontrakt og/eller goodwill kan pantsættes sammen med driftsinventar mv. 
 
@@ -1315,16 +1285,12 @@ Hvis det er en landbrugsvirksomheds, kan pantet også omfatte besætning og afgr
 
 Nye aktiver bliver automatisk omfattet af pantet.
 
-![](img/op.jpg)
-
 Aktiver kan udskilles ifølge regelmæssig drift, se dommen i **U 1972.1058 V:** Køberen af en opslåningsmaskine fra et bageri burde have indset, at der ikke forelå udskillelse ifølge regelmæssig drift, og dømtes til at erstatte panthaveren maskinens værdi. 
 **<a href="https://pro.karnovgroup.dk/document/7000216059/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
 ## Virksomhedspant – TL § 47
-
-![](img/virk.jpg)
 
 Virksomhedspant er et panteretligt redskab der skal lette virksomheders adgang til finansiering, ved pantsætning af forskellige aktivkategorier.
 
@@ -1345,10 +1311,6 @@ TL § 47 omfatter ikke pantebreve, der giver underpant i biler mv., idet rettigh
 
 Vedrørende underpant i andet løsøre som ikke er omfattet af TL § 47, bemærkes der følgende:
 
-
-![](img/skibe.jpg)
-
-![](img/sas.jpg)
 
 * a) "Skibe" på over 5 BRT og fly:  
    
@@ -1374,9 +1336,6 @@ Genstande, der skal pantsættes efter reglerne om fast ejendom, kan ikke pantsæ
 ---
 
 "Patenter, varemærker og mønstre" kan pantsættes efter TL § 47. 
-
-![](img/patent.png)
-
 
 
 Efter varemærkelovens § 41 kan en pantsætning af et varemærke registreres i varemærkeregisteret, men dette har ikke betydning som sikringsakt.
@@ -1480,10 +1439,6 @@ mydf %>%
 ## Eksamensopgave 2 Musik med problemer
 
 Om pant i fast ejendom og løsøre, samt erstatning, kaution, erstatningsbetingelserne og huseftersynsordningen, mv.
-
-
-
-![](img/musik.jpg)
 
 Johan Tuxen-Brahe bor og driver sit pladeselskab, SoundNeed ApS, fra en tidligere landejendom syd for København. 
 
@@ -1635,8 +1590,6 @@ Om køb, erstatning, god skik for finansielle virksomheder, forsikringsret, erst
 ---
 
 <br>
-
-<img src="img/tæppehandler.jpg" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 
 Jonas Hansen ejer og driver virksomheden Hansen Tæpper ApS, der importerer og sælger ægte tæpper. 

@@ -145,10 +145,6 @@ Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsd
 ## Virksomhedsformer
 
 
-![](img/virksomhed.jpg)
-
-
-
 ---
 
 
@@ -157,8 +153,6 @@ Viser det sig, at selskabet ikke kan betale, kan kravet så rettes mod selskabsd
 ---
 
 ## Enkeltmandsvirksomhed
-
-![](img/enkelt.jpg)
 
 Det betyder, at virksomheden:
 
@@ -391,8 +385,6 @@ A/S: Aktier – aktionær.
 **Ledelsesstruktur og beslutninger:**
 
 
-![](img/beslutninger.jpg)
-
 **Bestyrelse/tilsynsråd og direktion** 
 
 **Generalforsamlingen:**
@@ -429,7 +421,6 @@ En sådan aftale regulerer det interne forhold mellem kapitalejerne (aktionær- 
 
 **Selskabskapital:**
 
-![](img/capital.jpg)
 
 ---
 
@@ -454,12 +445,6 @@ En årsregnskabsoplysning om, at låntagerselskabet er rådigt over et ansvarlig
 ## Eksamensopgave 1. Justesens juristerier
 
 Om kreditorforfølgning, sikringsakter, grundlæggende selskabsret, hæftelsesformer, prioritetsstillinger, kreditsikring, selskabsformer og hæftelse, mv.
-
-
-
-
-
-<img src="img/ivarksatter.png" align="right" width="30%" height="30%" style="border:0.0px solid #eeeeee; padding:5px; margin:6px;"/>
 
 Ivar Justesen er en evig iværksætter og er altid i gang med nye ”erhvervseventyr”, desværre ikke alle lige vellykkede, så derfor har han efterhånden oparbejdet en del gæld. En af hans kreditorer, Sun-Import A/S rykker nu kraftigt for betaling i henhold til en forfalden faktura på kr. 114.870.
 
@@ -566,8 +551,6 @@ Modsat begrebet "fusion"; samling af flere selskaber taler man om "spaltning"	op
 
 ---
 
-![](img/google.png)
-  
 ## Aktieselskaber A/S 
 
 
@@ -690,8 +673,6 @@ Ejerne i et K/S kan både være virksomheder (juridiske personer) og enkeltperso
 
 **Hæftelse:**
 
-![](img/kom.png)
-
 **Komplementar:** Hæfter personligt, uden begrænsning og solidarisk for virksomhedens forpligtelser.
 
 **Kommanditist:** Hæfter begrænset for virksomhedens forpligtelser og kommanditisten kan ikke miste mere end det beløb der er indskudt i kommanditselskabet.
@@ -735,8 +716,6 @@ Partnerselskabet adskiller sig blandt andet fra et K/S ved at der skal indbetale
 
 ## Partrederi og partselskab
 
-![](img/skib.jpg)
-
 **Partrederi:**
 
 Særligt inden for småskibsfarten, hvor 2 eller flere ejer et skib.
@@ -751,10 +730,6 @@ Partselskabsdeltageren hæfter **pro-rata** med hele sin formue, men kun for sin
 
 ## Andelsselskab A.M.B.A
 
-![](img/andelsselskab.jpg) 
- 
-
-
 **Formål:** At fremme deltagernes fælles interesser gennem deres deltagelse i virksomheden som aftagere, leverandører eller på anden lignende måde, og hvor virksomhedens afkast fordeles blandt medlemmerne eller forbliver indestående i virksomheden, jf. LEV § 4.
 
 Ses inden for landbrug, indkøbs- og brugsforeninger, vandværk, varme- og elforsyningsselskaber mv.
@@ -766,10 +741,6 @@ Ses inden for landbrug, indkøbs- og brugsforeninger, vandværk, varme- og elfor
 Oftest er der begrænset hæftelse for ejerne, som er subsidiær eller indirekte, dvs. at kreditorerne først skal have udtømt alle muligheder for inddrivelse hos andelsselskabet, før de kan gå efter andelshaverne.
  
 
-
----
-
-![](img/aura.png)
 
 ---
 
