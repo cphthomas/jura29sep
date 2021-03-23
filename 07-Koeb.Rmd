@@ -242,7 +242,7 @@ Se dommen om et civilkøb af en bil i **U 2019.3071 V** vedrørende et vilkår i
 
 **Handelskøb**
 
-Et handelskøb er som tidligere nævnt et køb, hvor både køber og sælger er erhvervsdrivende, og hvor aftalen om købet indgås som led i en virksomhed. kaldet **B2B**. 
+Et *handelskøb* er som tidligere nævnt et køb, hvor både køber og sælger er erhvervsdrivende, og hvor aftalen om købet indgås som led i en virksomhed. kaldet **B2B**. 
 
 Købelovens regler ved handelskøb er **deklaratoriske** dvs., at de kan fraviges ved aftale mellem de to erhvervsdrivende.
 
@@ -259,7 +259,7 @@ Der findes forskellige former for køb under handelskøbet:
 
 
 
-**Genuskøb er karakteriseret ved:**
+*Genuskøb* er karakteriseret ved:
 
 Køb af genstande, bestemt efter art, jf. KBL § 3.
 
@@ -274,7 +274,7 @@ Sælgeren har valgfrihed med hensyn til, hvilke varer i det pågældende parti h
 
 **Specieskøb:**
 
-**Specieskøb** er et køb af en individuelt bestemt genstand, fx købet af maleriet af "Mona Lisa".
+*Specieskøb* er et køb af en individuelt bestemt genstand, fx købet af maleriet af "Mona Lisa".
 
 Genstanden kan være unik, og måske findes der kun den ene.
 
@@ -328,7 +328,7 @@ Modtages betaling ikke samtidig med levering, overgår købet fra kontantkøb ti
 **Sælgers og købers forpligtelser under handelskøbet**
 
 
-**Sælgers forpligtelser består i at:**
+*Sælgers forpligtelser består i at:*
 
 Levere den solgte vare i rette tid og på rette sted (leveringstidspunkt og leveringssted).
 
@@ -336,7 +336,7 @@ Levere den solgte vare i rette stand (uden faktiske og retlige mangler).
 
 ---
 
-**Købers forpligtelser** består i at modtage varen og at betale den aftalte købesum:
+*Købers forpligtelser* består i at modtage varen og at betale den aftalte købesum:
 
 I rette tid.
 
@@ -354,7 +354,7 @@ Indtil levering er sket, bærer sælgeren risikoen for salgsgenstandens hændeli
 
 Når levering har fundet sted, overgår risikoen fra sælger til køber.
 
-NB! **Levering** kan ske, inden salgsgenstanden er kommet i købers besiddelse.
+NB! *Levering* kan ske, inden salgsgenstanden er kommet i købers besiddelse.
 
 ---
 
@@ -384,6 +384,7 @@ Køber henter selv varen på sælgers forretningssted eller bopæl, jf. KBL § 9
 
 Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, dvs. det tidspunkt, hvor varen er klar til afhentning, også selv om varen ikke bliver afhentet af køber til tiden.
 
+
 **Handelskøb/genuskøb:** 
 
 Risikoen overgår fra sælger til køber på det aftalte afhentningstidspunkt, også selv om varen ikke bliver afhentet af køber til tiden.
@@ -401,7 +402,7 @@ Ved en **bindende individualisering** ved genuskøb opnår køber beskyttelse mo
 
 **Pladskøb og afsendelseskøb/forsendelseskøb**
 
-**Pladskøb – udbringelseskøb:** 
+*Pladskøb – udbringelseskøb:* 
 
 Levering inden for sælgers geografiske udbringningsområde. 
 
@@ -449,7 +450,7 @@ Sælger skal stå for eksportklareringen af godset.
 
 **CFR (Cost & freight)**, jf. KBL § 63, jf. § 10.
 
-**Fragtomkostninger ved CFR:**
+*Fragtomkostninger ved CFR:*
 
 Sælgeren er forpligtet til at til at afholde alle fragtomkostninger frem til godset er ankommet til ankomsthavnen. 
 
@@ -472,7 +473,7 @@ Sælger skal stå for eksportklareringen af godset.
 
 **Cif (Cost, insurance, freight)**, jf. KBL § 64, jf. § 63 og § 10.
 
-Fragtomkostninger ved CIF: Sælgeren er forpligtet til at til at afholde alle fragtomkostninger frem til godset er ankommet til ankomsthavnen. 
+*Fragtomkostninger ved CIF:* Sælgeren er forpligtet til at til at afholde alle fragtomkostninger frem til godset er ankommet til ankomsthavnen. 
 
 Køber afholder alle omkostninger i forbindelse med losningen af godset, og den videre transport. 
 
@@ -481,7 +482,7 @@ Sælgeren er desuden forpligtet til at tegne en forsikring med minimumsdækning 
 
 ---
 
-**Risikoovergang for CIF:** Risikoovergangen sker, i det øjeblik at godset er placeret på det af sælgeren angivne skib i afgangshavnen, og godset er frakoblet fra lasteenheden.
+*Risikoovergang for CIF:* Risikoovergangen sker, i det øjeblik at godset er placeret på det af sælgeren angivne skib i afgangshavnen, og godset er frakoblet fra lasteenheden.
 
 Kommentarer til CIF klausulen: Denne Incoterm kan kun anvendes til brug ved søtransport, eller ved transport via indenlandske vandveje. 
 
@@ -622,7 +623,7 @@ Om køberens reklamationspligt ved sælgerens forsinkelse, jf. KBL §§ 31–32.
 
 Om sælgerens reklamationspligt ved køberens forsinkelse, jf. KBL §§ 52–54. 
 
-Om køberens reklamationspligt ved mangler ved salgsgenstanden KBL § 52  
+Om køberens reklamationspligt ved mangler ved salgsgenstanden KBL § 52.  
 
 ---
 
@@ -1177,7 +1178,7 @@ Sælger har omsorgspligt, og under visse betingelser salgspligt og ret til at s�
 
 ## Den international købelov
 
-**Den internationale købelov (CISG) er ikke en del pensum på finansøkonomuddannelsen**
+(Den internationale købelov (CISG) er ikke en del pensum på finansøkonomuddannelsen)
 
 Ved Lovbekendtgørelse nr. 1224 af 21. november 2014 International købelov, (forkortet; intkbl), skabtes grundlag for, at Danmark kunne ratificere FN-konventionen om internationale løsørekøb, forkortet CISG (dvs. United Nations Convention on Contracts for the International Sale of Goods). Om den internationale udbredelse af CISG.
 
@@ -1859,8 +1860,8 @@ Fordringshavermora foreligger, når køber ikke vil modtage det købte på det a
 
 **6.2 – Sælgers ved købers misligholdelse**
 
--	Handelskøb – straks efter at forsinkelsen indtræder - §32. 
--	Civilkøb og forbrugerkøb – uden ugrundet ophold efter, at forsinkelsen indtræder - §32. 
+-	Handelskøb – straks efter at forsinkelsen indtræder - § 32. 
+-	Civilkøb og forbrugerkøb – uden ugrundet ophold efter, at forsinkelsen indtræder - § 32. 
 
 **7. Misligholdelsesbeføjelser**
 

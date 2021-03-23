@@ -19,7 +19,7 @@ cat(readLines('np.html'))
 
 Tingsretlige begreber:
 
-"Aftaleerhverver" har indgået en aftale om overdragelse af aktivet fx salg eller pantsætning, se fx gældsbrevslovens kap. 2 om fortabelse af indsigelser og rettigheder til fordel for en godtroende omsætningserhverver. 
+**"Aftaleerhverver"** har indgået en aftale om overdragelse af aktivet fx salg eller pantsætning, se fx gældsbrevslovens kap. 2 om fortabelse af indsigelser og rettigheder til fordel for en godtroende omsætningserhverver. 
 
 Hvis man i god tro køber et negotiabelt dokument eller får pant i det og får dokumentet i sin besiddelse, kan man fx gøre gældskravet gældende, selvom overdrageren havde stjålet dokumentet, eller skyldneren havde betalt før tiden. 
 
@@ -29,17 +29,17 @@ Også en køber på tvangsauktion må anses som aftaleerhverver.
 
 ---
 
-"Retsforfølgende kreditor" tvinger sit krav igennem uden aftale fx ved et udlæg.
+**"Retsforfølgende kreditor"** tvinger sit krav igennem uden aftale fx ved et udlæg.
 
 Den aftale eller retsforfølgning, der skal kunne fortrænge en utinglyst ret, skal selv være tinglyst, og aftaleerhververen skal være i god tro, hvorimod en retsforfølgende kreditor ikke behøver at være i god tro.
 
 ---
 
-"Arv" – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
+**"Arv"** – her er en arving hverken at betragte som en aftaleerhverver eller som en retsforfølgende kreditor.
 
 ---
 
-"Lovbestemt pant" er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
+**"Lovbestemt pant"** er fx SKATs førsteprioritet til ejendomsskat, som ikke skal tinglyses, jf. TL § 4: 
 
 ”De på fast ejendom hvilende skatter og afgifter til stat og kommune samt forsikringsbidrag til de af staten anerkendte brandforsikringsselskaber har gyldighed mod enhver uden tinglysning”. 
 
@@ -84,13 +84,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 
 
-"Dobbeltoverdragelse" – når samme rettighedshaver disponerer over samme ret mere end én gang, dvs., at overdrageren uberettiget har overdraget rettigheden aktivet til flere erhververe.
+**"Dobbeltoverdragelse"** – når samme rettighedshaver disponerer over samme ret mere end én gang, dvs., at overdrageren uberettiget har overdraget rettigheden aktivet til flere erhververe.
 
 ---
 
 
 
-"Kædeoverdragelse" – når rettigheden over aktivet først overdrages fra A til B, hvorefter B overdrager dette aktiv videre til C
+**"Kædeoverdragelse"** – når rettigheden over aktivet først overdrages fra A til B, hvorefter B overdrager dette aktiv videre til C
 
 
  
@@ -143,7 +143,9 @@ Hvis en rettighedshaver (A) disponerer mere end en gang over den samme rettighed
 
 *HR:* Først i tid bedst i ret – B fik en rettighed over aktivet før C gjorde, og derfor har B som udgangspunkt en bedre ret
 
-*U:* C kan fortrænge B’s ret, hvis:
+*U:* 
+
+C kan fortrænge B’s ret, hvis:
   
 B ikke har foretaget den nødvendige sikringsakt.
 
@@ -175,7 +177,7 @@ Det gælder også, når der er foretaget udlæg i fordringen, jf. GBL § 27.
 
 ---
 
-Man taler også om ”dobbeltsuccession”, når to eller flere erhververe afleder modstridende rettigheder fra samme person. 
+Man taler også om **”dobbeltsuccession”**, når to eller flere erhververe afleder modstridende rettigheder fra samme person. 
 
 ---
 
@@ -198,7 +200,9 @@ Rettighedskonflikten mellem B og C skal løses efter lovbestemmelsen i TL § 1, 
 
 *HR:* Først i tid bedst i ret – B har indgået aftalen med A først og har derfor først fået rettigheden over ejendommen.
 
-*U:* C kan fortrænge B's rettighed hvis:  
+*U:* 
+
+C kan fortrænge B's rettighed hvis:  
   
 B ikke har fået tinglyst sin rettighed.
 
@@ -216,11 +220,11 @@ Det særlige godtros-krav gælder således ved ekstinktion (udslettelse) af rett
 
 ---
 
-"Ond tro" hos erhververens fuldmægtig udelukker også ekstinktion. 
+**"Ond tro"** hos erhververens fuldmægtig udelukker også ekstinktion. 
 
 Det er antaget, at det er groft uagtsomt ikke at undersøge tingbogen. 
 
-Omvendt kan "god tro" styrkes gennem tingbogens oplysninger. 
+Omvendt kan **"god tro"** styrkes gennem tingbogens oplysninger. 
 
 ---
 
@@ -263,9 +267,9 @@ I realiteten betyder det, at skyldner ikke har mulighed for at sælge eller bel�
 
 Som udlægshaver i en ejendom, har man også mulighed for at begære ejendommen solgt på en tvangsauktion. 
 
-Dette kræver dog en såkaldt "retlig interesse" hos udlægshaver. 
+Dette kræver dog en såkaldt **"retlig interesse"** hos udlægshaver. 
 
-Det betyder, at der skal være "rimelig mulighed" for, at den udlægshaver, der begærer ejendommen på tvangsauktion opnår dækning for sit krav. 
+Det betyder, at der skal være **"rimelig mulighed"** for, at den udlægshaver, der begærer ejendommen på tvangsauktion opnår dækning for sit krav. 
 
 ---
 
@@ -406,7 +410,7 @@ Det er dog værd at bemærke, at tvangssalg af løsøre uden den store værdi, o
 ## Dobbeltoverdragelser af fondsaktiver
 
 
-"Fondsaktiv": ”Dematerialiseret omsætteligt værdipapir, der er registreret i en værdipapircentral (CSD)”, jf. kapitalmarkedslovens § 3, nr. 34. 
+**"Fondsaktiv"**: ”Dematerialiseret omsætteligt værdipapir, der er registreret i en værdipapircentral (CSD)”, jf. kapitalmarkedslovens § 3, nr. 34. 
 
 Dvs. et papir, som ikke foreligger i fysisk form, men er registreret elektronisk i den danske Værdipapircentral eller anden værdipapircentral. 
 
@@ -533,7 +537,7 @@ Nogle aktivtyper behandles efter særlige regler
 
 ---
  
-### Kædeoverdragelser ved fast ejendom
+## Kædeoverdragelser ved fast ejendom
 
 Rettighedskonflikten mellem A og C løses efter lovbestemmelsen i TL § 27, stk. 1. C kan fortrænge A's ret over den faste ejendom, hvis: 
 
@@ -553,19 +557,19 @@ Denne bestemmelse giver en godtroende erhverver ret til erstatning af statskasse
 
 ---
  
-### Kædeoverdragelse af en bil
+## Kædeoverdragelse af en bil
 
-*HR:* Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+**HR:** Rettighedskonflikten mellem A og C over bilen løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
-*U1*: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over bilen
+**U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over bilen
 
-*U2:* Hvis A har gyldigt ejendomsforbehold i bilen, jf. kreditaftalelovens § 34, stk. 1, men ikke tinglyst det, vil C fortrænge A's ejendomsforbehold over bilen.
+**U2:** Hvis A har gyldigt ejendomsforbehold i bilen, jf. kreditaftalelovens § 34, stk. 1, men ikke tinglyst det, vil C fortrænge A's ejendomsforbehold over bilen.
 
-...
+---
  
-### Kædeoverdragelse af løsøre
+## Kædeoverdragelse af løsøre
 
-*HR:* Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
+**HR:** Rettighedskonflikten over et løsøre mellem A og C løses som udgangspunkt til A's fordel. A's indsigelse mod B kan også gøres gældende over for C
 
 **U1**: Hvis A har været uforsigtig eller meget passiv over for B, kan C fortrænge A's ret over løsøret.    
 
@@ -575,7 +579,7 @@ Et gyldigt ejendomsforbehold i et løsøre, jf. kreditaftalelovens § 34, stk. 1
 
 ---
  
-### Kædeoverdragelser af fondsaktiver på kapitalmarkedet
+## Kædeoverdragelser af fondsaktiver på kapitalmarkedet
 
 Kædeoverdragelser er reguleret af kapitalmarkedslovens § 186:
 

@@ -105,7 +105,7 @@ Modregning sker ved, at den ene part afgiver en erklæring (modregningserklærin
 **I modregning gælder der et særligt sprogbrug af juridiske begreber:** 
 
 
-* *Modregneren: Den der ønsker at modregne og derfor afgiver en modregningserklæring.
+* Modregneren: Den der ønsker at modregne og derfor afgiver en modregningserklæring.
 
 * Hovedmanden: Modtageren af modregningserklæringen.
 
@@ -141,7 +141,7 @@ Fordringer vedbliver således med at bestå med deres fulde beløb, indtil modre
 
 ---
 
-### Betingelser for tvungen ikke-konneks modregning
+## Betingelser for tvungen ikke-konneks modregning
 
 For at tvungen ikke-konneks modregning må finde sted, er der en række betingelser, der skal være opfyldte.
 
@@ -161,7 +161,7 @@ Disse betingelser skal alle være opfyldte på det tidspunkt, hvor den tvungne i
 
 * Ad. 1. **Kravene til udjævnelighed**
 
-Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden. 
+Betingelsen om udjævnelighed betyder, at kravene kan benyttes til korrekt opfyldelse af hinanden.  
 
 Betingelsen om udjævnelighed er opfyldt, når både hovedfordringen og modfordringen er pengefordringer.
 
@@ -179,15 +179,12 @@ Blot kravene er delelige, må der modregnes over for en hovedfordring, der er st
 
 * Ad. 2. **Kravene er afviklingsmodne**
 
-At kravene er afviklingsmodne betyder, at modfordringens forfaldstidspunkt er kommet, mens hovedfordringens frigørelsestidspunkt skal være kommet. 
+Fordringerne skal kunne indfries. 
 
-Forfaldstidspunktet er det tidspunkt, hvor kreditor kan kræve, at debitor betaler, hvad debitor skylder. 
+At kravene er afviklingsmodne betyder, at hovedfordringens frigørelsestidspunkt er kommet, dvs. debitor i henhold til denne skal være forpligtet til at betale fordringen (afviklingmoden). 
 
-Frigørelsestidspunktet er det tidspunkt, hvor debitor har ret til at frigøre sig ved at betale, hvad debitor skylder.
+Modfordringens forfaldstidspunkt er indtrådt, dvs. modfordringen skal være forfalden til betaling, så er fordringerne afviklingsmodne.
 
-Denne betingelse er begrundet i, at en kreditor kan kræve betaling, når forfaldstidspunktet er kommet, mens en debitor kan frigøre sig fra sin gæld, når frigørelsestidspunktet er kommet.
-
-Med "forfaldstidspunkt" menes sidste rettidige betalingsdag, da betaling som udgangspunkt ikke må kræves før da.
 
 ---
 
@@ -227,7 +224,7 @@ Hvis modfordringen er bortfaldet, er modregning udelukket.
 
 ---
 
-### Hvorfor forældelsesregler 
+## Hvorfor forældelsesregler 
 
 Forældelsesreglerne er nødvendige regler, der primært er til for at udelukke gamle krav, som det kan være svært at føre bevis for eksistensen af, eller krav, som de involverede parter havde indrettet sig på ikke længere eksisterede.
 
@@ -277,7 +274,7 @@ Forældelsesfristen løber fra det tidligste tidspunkt kreditor kunne kræve bet
    
 ---
 
-### Retsvirkningerne af forældelse
+## Retsvirkningerne af forældelse
 
 Når forældelsen faktisk indtræder, ophører forpligtelsen helt med at eksistere – uanset om de involverede parter har kendskab til fordringen eller ej, eller om de med vilje ikke har betalt. 
 
@@ -293,7 +290,7 @@ Dog kan forældelsesfristerne i forældelsesloven ikke på forhånd fraviges til
 
 ---
 
-### Om forældelsesfrister i forældelsesloven 
+## Om forældelsesfrister i forældelsesloven 
 
 Forældelseslovens opbygning er lavet sådan, at der er en almindelig forældelsesfrist på 3 år (den relative forældelsesfrist). 
 
@@ -368,7 +365,7 @@ mydf %>%
 
 ---
 
-### Forældelsesfrister - pengelån, indlån og kaution 
+## Forældelsesfrister - pengelån, indlån og kaution 
 
 ---
 
@@ -407,7 +404,7 @@ Når en fordring er sikret ved kaution, forældes kautionen ligesom den fordring
  
 ---
 
-### Afbrydelse af forældelse 
+## Afbrydelse af forældelse 
 
 I forældelseslovens kapitel 5 findes der nogle regler om, hvordan forældelsen kan afbrydes. 
 
@@ -457,7 +454,7 @@ Fristen kan ikke suspenderes ud over de lange frister på 10 eller 30 år (milj�
 
 ---
 
-### Passivitetsgrundsætning
+## Passivitetsgrundsætning
 
 Der gælder en almindelig uskreven passivitetsgrundsætning i dansk ret.
 
@@ -467,11 +464,11 @@ Passivitetsgrundsætninger hviler på spørgsmålet om, hvorvidt kreditor ved at
 
 Hvis man som debitor vil påberåbe sig en ulovfæstet passivitetsgrundsætning som grundlag for, at kreditor ikke længere har en ret til at kræve betaling, skal der udover at være passeret en længere rum tid også være nogle andre forhold der gør, at debitor ikke længere regnede med, at kreditor havde til hensigt at forfølge sit krav. 
 
-1.	Er debitor i god tro?
+**1.**	Er debitor i god tro?
 
-2.	Skyldes vildfarelsen vedrørende betaling overvejende kreditors forhold?
+**2.**	Skyldes vildfarelsen vedrørende betaling overvejende kreditors forhold?
 
-3.	Er fejlen opdaget og rettet hurtigt?
+**3.**	Er fejlen opdaget og rettet hurtigt?
 
 ---
 

@@ -125,8 +125,6 @@ Se dommen i **FED 2008.1:**  En mandlig stripteasedanser B ansvarlig for øjensk
 **<a href="https://pro.karnovgroup.dk/document/7000382215/1" target="_blank">Dommen klik her!</a>**
 
 
-<br><br><br><br>
-
 ---     
 
 ## Hændeligt uheld - uden ansvar
@@ -1072,7 +1070,7 @@ Der er også mulighed for som ofre at få udbetalt en "tortgodtgørelse" i forbi
 
 (TfK – Tidsskrift for Kriminalret)
 
-Se dommen i **TfK 2015.1100:** Fængsel i 1 år og betinget udvisning for forsøg på voldtægt. Tortgodtgørelse på 30.000 kr. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000733790/1**
+Se dommen i **TfK 2015.1100:** Fængsel i 1 år og betinget udvisning for forsøg på voldtægt. Tortgodtgørelse på 30.000 kr. Se hele dommen her:**<a href="https://pro.karnovgroup.dk/document/7000733790/1" target="_blank">Dommen klik her!</a>** 
 
 ---
 
@@ -1081,7 +1079,9 @@ Se dommen i **TfK 2015.729:** Fængsel i 1 år og 3 måneder for at have tiltvun
 
 ---
 
-Se dommen i **TfK 2015.575:** 6 måneders fængsel for overtrædelse af straffelovens § 210, stk. 1, ved mors samleje med 17-årig biologisk søn. Tortgodtgørelse på 20.000 kr. Se hele dommen her: **https://pro.karnovgroup.dk/document/7000729633/1**
+Se dommen i **TfK 2015.575:** 6 måneders fængsel for overtrædelse af straffelovens § 210, stk. 1, ved mors samleje med 17-årig biologisk søn. Tortgodtgørelse på 20.000 kr. Se hele dommen her: **<a href="https://pro.karnovgroup.dk/document/7000729633/1" target="_blank">Dommen klik her!</a>**
+
+
 
 ---
 
@@ -1304,6 +1304,10 @@ Eksamensspørgsmålene:
 
 ---
 
+
+
+---
+
 ## Forsikringsreglerne
 
 For en mere væsentlig uddybning af forsikringsretten for de studerende, som der vil vælge forsikringsvejen, se nærmere e-bogens kapitel 25, samt bogen hos Hans Reitzels Forlag: Introduktion til forsikringsreglerne:
@@ -1452,7 +1456,7 @@ Det kan således indgå i bevisvurderingen, hvis man ikke vil give samtykke til,
 
 ---
 
-Hvad menes der med ordet **»forsikringstager«?** Den (person eller virksomhed), der har indgået aftale om forsikring med forsikringsselskabet (forsikringsgiver). 
+Hvad menes der med ordet **"forsikringstager"** Den (person eller virksomhed), der har indgået aftale om forsikring med forsikringsselskabet (forsikringsgiver). 
 
 I livsforsikring er forsikringstager den person, der betaler og ejer forsikringen, mens **"forsikrede“** er den person, hvis liv eller helbred er forsikret. 
 
@@ -1532,9 +1536,9 @@ Begrundelsen skal efter anmodning være skriftlig.
 ## Skades-, pensions- og livsforsikringer
 
 
-**Skadesforsikring er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden.** 
+**Skadesforsikring** er en aftale, hvor et forsikringsselskab overtager den økonomiske risiko for en uvis begivenheds indtræden. 
 
-**Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden.**
+Ved skadesforsikring forstås i denne sammenhæng en forsikring, hvor selskabet kun er pligtig at erlægge forsikringsydelsen, når den sikrede har lidt en skade, der kan måles i penge, og hvor den ydelse, forsikringsselskabet skal erlægge, bestemmes af den sum penge, der skal til for at erstatte skaden.
 
 ---
 
@@ -1559,7 +1563,8 @@ Forsikringsaftaleloven indeholder ingen regler om forsikringstagerens eller fors
 Forsikringstageren har i medfør af anden lovgivning i visse tilfælde pligt til at tegne en lovpligtig forsikring fx en ansvarsforsikring på bil og hund.
 
 Efter færdselslovens § 105, stk. 1, skal der fx tegnes ansvarsforsikring for motordrevne køretøjer, samt efter hundelovens § 8, stk. 2, skal der tegnes ansvarsforsikring for hunde. 
-Se nærmere Lovsamlingen: **<h4><a href="https://j.tepedu.dk/lovsamling.html" target=" _blank">Klik her!</a></h4>**
+
+Se nærmere Lovsamlingen:**<a href="https://jura.tepedu.dk/lovsamling.html" target="_blank">klik her!</a>**
 
 ---
 
@@ -1988,7 +1993,7 @@ Gælder kun ved **tingsforsikring**, men ikke for summaforsikring. Dvs. fx hvis 
 
 ---
 
-<a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#livsforsikringer">Om livsforsikringer, se Juridisk Håndbog klik her!</a>
+<h4><a href="https://j.tepedu.dk/skades-pensions-og-livsforsikringer.html#livsforsikringer">Om livsforsikringer, se Juridisk Håndbog klik her!</a></h4>
 
 
 ---
@@ -2009,6 +2014,8 @@ Gælder kun ved **tingsforsikring**, men ikke for summaforsikring. Dvs. fx hvis 
 
 ## God skik for finansielle virksomheder
 
+(Pensum i brancheretningsfaget Finansiel Rådgivning)
+
 Efter § 43 i lov om finansiel virksomhed, skal finansielle virksomheder, finansielle holdingvirksomheder og forsikringsholdingvirksomheder drives i overensstemmelse med redelig forretningsskik og god praksis inden for virksomhedsområdet.
 
 God skik-reglerne er offentligretlige regler. En overtrædelse af reglerne om god skik indebærer således ikke uden videre, at den konkrete aftale mellem den finansielle virksomhed og kunden er ugyldig eller uvirksom. Manglende overholdelse vil dog kunne have en afsmittende virkning på visse civilretlige forhold. Disse spørgsmål afgøres af de private finansielle ankenævn og af domstolene.
@@ -2023,9 +2030,11 @@ Se e-bogens lovsamling **<a href="https://jura.tepedu.dk/lovsamling.html" target
 
 ## Bekæmpelse af hvidvask og terrorfinansiering
 
+(Pensum i brancheretningsfaget Finansiel Rådgivning)
+
 Lovbekendtgørelse nr. 380 af 2. april 2020 om forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven) fastsætter forebyggende foranstaltninger mod hvidvask og finansiering af terrorisme (hvidvaskloven) er et regelsæt, som skal sikre, at de virksomheder, som er omfattet af loven, kender deres kunder og de transaktioner, som de foretager.
 
-**Hvidvaskloven har i 2020 gennemført yderligere initiativerne om:** 
+**Hvidvaskloven har i 2020 gennemført yderligere lovinitiativerne om:** 
 
 – Administrative bødeforelæg 
 
@@ -2058,7 +2067,9 @@ Se e-bogens lovsamling **<a href="https://jura.tepedu.dk/lovsamling.html" target
 
 ---
 
-## Databeskyttelsesreglerne
+## Databeskyttelsesreglerne 
+
+(Pensum i brancheretningsfaget Finansiel Rådgivning)
 
 Den finansielle virksomhed skal i dagligdagen have stor fokus på databeskyttelsesreglerne.
 
@@ -2081,7 +2092,7 @@ Nedennævnte erstatningsbetingelse skal gennemgås for hver enkelt potentiel ska
 
 **2. Børn og utilregnelige** 
 
-•	Børn under 15 år sidestilles med voksne – jf. EAL § 24A (dog ikke børn under 4 år).
+•	Børn under 15 år sidestilles med voksne – jf. EAL (erstatningsansvarsloven) § 24A (dog ikke børn under 4 år).
 
 •	Utilregnelige sidestilles med tilregnelig (raske) - jf. EAL § 24B.
 

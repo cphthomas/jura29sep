@@ -1140,7 +1140,7 @@ Efter LFFE § 8, stk. 1 regnes fortrydelsesfristen fra aftalens indgåelse.
 
 Det er uden betydning, om aftalen er endelig eller betinget. 
 
-Dette betyder bl.a., at et sædvanligt advokatforbehold i en købsaftale ikke udskyder eller på anden måde påvirker fortrydelsesfristen, men blot gælder ved siden af denne.
+Dette betyder bl.a., at et sædvanligt advokatforbehold eller bankens finansieringsforbehold i en købsaftale ikke udskyder eller på anden måde påvirker fortrydelsesfristen, men blot gælder ved siden af denne.
 
 ---
 
@@ -1323,7 +1323,7 @@ Godtgørelsesbeløbet skal være kommet frem til sælgeren inden fristens udløb
 
 Hvis en postanvisning er kommet frem til sælgeren inden 6-dages-fristens udløb, er betalingen rettidig, også selv om sælgeren først efter fristens udløb har mulighed for at få rede penge. 
 
-Hvis beløbet overføres til sælgernes konto, skal beløbet blot være debiteret betalerens konto, jf. betalingstjenestelovens § 69 in fine, inden 6 dages-fristens udløb.
+Hvis beløbet overføres til sælgernes konto, skal beløbet blot være debiteret betalerens konto, jf. betalingslovens § 69 in fine, inden 6 dages-fristens udløb.
 
 ---
 
@@ -1543,14 +1543,12 @@ Nyere retspraksis vedrørende køb af fast ejendom modificerer tidligere praksis
 
 ---
 
-Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, jf. **U 1998.185 Ø**. Ikke erstatning for mangler ved gulv, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom § 2
+Oplysninger i tilstandsrapporten kan ikke uden videre opfattes som en garanti, jf. **U 1998.185 Ø**. Ikke erstatning for mangler ved gulv, jf. lov om forbrugerbeskyttelse ved erhvervelse af fast ejendom § 2.
 **<a href="https://pro.karnovgroup.dk/document/7000201845/1">Dommen klik her!</a>**
 
 ---
 
 **"Ulovlige bygningsindretninger"** er i retspraksis blevet behandlet på samme måde som fysiske mangler, formentlig fordi en ulovlig bygningsindretning som regel kan lovliggøres ved en fysisk udbedring. 
-
-
 
 
 ---
@@ -1677,13 +1675,17 @@ En fysisk mangel ved en fast ejendom er typisk karakteriseret ved en defekt, som
 
 ---
 
-**Uanset at sælger har fået udarbejdet tilstandsrapport mv., kan sælger være ansvarlig for mangler over for køberen, fx:**
+**Uanset, at sælger har fået udarbejdet tilstandsrapport mv., kan sælger være ansvarlig for mangler over for køberen, fx:**
 
 * Ved ulovlige bygningsindretninger.
 
 * Hvis sælgeren har givet garanti over for køberen.
 
 * Hvis sælger har handlet svigagtigt eller groft uagtsomt fx ved oplysninger til den bygningssagkyndige eller køberen. 
+
+---
+
+Højesteret har udtalt, at køberen af en fast ejendom kun undtagelsesvis vil have anledning til at fremsætte et krav mod sælgeren begrundet i en bygnings fysiske tilstand, og at der skal meget til, for at en uprofessionel sælgers adfærd vil kunne karakteriseres som svigagtig eller groft uagtsom. Se **<a href="https://pro.karnovgroup.dk/document/7000472112/1">Dommen klik her!</a>** 
 
 ---
 
@@ -1771,6 +1773,8 @@ På baggrund af tilstandsrapport og elinstallationsrapport indhenter sælgeren e
 ---
 
 <h4><a href="https://www.youtube.com/embed/O3nShnJ2w8c" target="_blank">Video Tjek huset før du køber</a></h4>
+
+
 
 ---
  
@@ -2086,6 +2090,7 @@ Martin var i fremragende humør. Han havde netop fået besked om at han var blev
 Den 1. februar mødte Martin op på sit nye arbejde og her blev han mødt af ejeren Egild. Han bød Martin velkommen og de to blev enige om at Martin sådan set bare kunne gå i gang med arbejdet, da han jo kendte al teorien fra sin tid som Finansøkonomstuderende. 
 
 Martins første opgave var et spørgsmål som Egild var kommet i tvivl om: Egild havde en ejendom beliggende Bygaden 1, Udby til salg for Søren for 1.995.000 kr. Den 28. januar havde Keld henvendt sig til Egild, da han gerne ville købe ejendommen til prisen. Egild skyndte sig at udarbejde en købsaftale, som Keld skrev under om aftenen den 28. januar. 
+
 Egild skyndte sig at sende købsaftalen til Søren, som skrev den under samme aften og afleverede den fysisk tilbage til Egild om morgenen den 29. januar. Egild tænkte at nu var aftalen i hus, men for god ordens skyld ville han lige sende den underskrevne købsaftale til Keld. Egild fik det dog ikke lige gjort, da hans morgenbacon var ved at brænde på. Da Egild kom tilbage til sit skrivebord, kunne han se at der netop var kommet en mail fra Keld om at han fortrød købet og ikke ville have ejendommen alligevel.
 
 **Eksamensspørgsmålet:**
@@ -2236,6 +2241,65 @@ Er der fortrydelsesret i forbindelse med køb af en villa, og i givet fald, hvor
 Eksamensspørgsmålet: 3.3 (10 %) 
  
 Når der er afgivet et købstilbud på en villa, hvor længe kan køber da nå at trække sit tilbud tilbage? 
+
+---
+
+## Eksamensopgave 4 Mikkel Rasmussen & Pia Jensen
+
+**Opgave 1**
+
+Mikkel Rasmussen er 48 er år og arbejder i et ejendomsadministrationsselskab. Han har fornylig solgt sit rækkehus og er flyttet i en lejlighed med sin kone. Køberen, som ville lave en istandsættelse af lejligheden, har nu sendt ham en mail, hvori han klager over, at han er stødt på følgende mangler ved huset.
+
+1.	El-tavlen – altså det sted, i huset, hvor alle sikringerne sidder – er ikke lovlig, fordi den ikke giver ikke den samme beskyttelse mod kortslutninger m.v. som moderne el-tavler gør. Opsætning af en ny el- tavle vil koste 6.500. kr.
+
+2.	I badeværelset er der en skjult revne i gulvet langs kanten af brusekabinen, hvorfra der siver vand ind i naborummet. En reparation oplyses at ville koste 22.000 kr.
+
+3.	Et af badeværelsesvinduerne binder og skal have slebet vinduesrammen. Pris 750 kr.
+
+4.	Et cykelskur af træ, som ligger i forhaven ved siden af husets indkørsel, er angrebet af råd og skal udskiftes. Pris 7.500 kr.
+
+Køberen af har i forbindelse med handlen fået udleveret en 5 årig, sædvanlig tilstandsrapport og elinstallationsrapport, sammen med tilbud om en ejerskifteforsikring, som Mikkel havde tilbudt at betale halvdelen af. Bortset fra den ulovlige el-tavle var der ikke nogen af forholdene, som var omtalt i rapporterne. Køberen gjorde desuden vrøvl over, at elinstallations- rapporten var godt 10 måneder gammel, da handlen blev indgået.
+
+Spm. 1 Inddrag den relevante lovgivning og redegør for, mod hvem – om nogen - køberen kan rejse krav om betaling for de påklagede forhold? (25%)
+
+**Opgave 2**
+
+Hos ejendomsadministrationsselskabet arbejdede Mikkel bl.a. med inddrivelse af tilgodehavender. Normalt blev lejerne opsagt og skulle fraflytte, hvis huslejen ikke blev betalt som aftalt, men i mange tilfælde kunne der efter fraflytningen stadig være skyldig husleje, skyldige forbrugsafgifter, udgifter til istandsættelse og andre krav. Mikkel havde til opgave at søge at inddrive disse tilgodehavender.
+
+Blandt de sager, som Mikkel skulle behandle var bl.a. følgende verserende sager, hvor skyldneren havde søgt gældssanering.
+
+1)	En 30 årig tidligere studerende, som havde en samlet gæld på 290.000 kr. Gælden var ca. 3 år gammel og stammede fra kviklån, SU lån, som ikke var blevet tilbagebetalt og en erstatning, han var blevet dømt til at betale som ansvarlig for et færdselsuheld pga. promillekørsel. Han arbejde nu som pædagogmedhjælper og kunne fremlægge et budget, som viste, at han i bedste fald kun havde råd til sine (sædvanlige) faste månedlige udgifter. Ingen formue.
+
+2)	En 52 årig arbejdsløs mand, som havde en gæld på 310.000 kr., som han ifølge det fremlagte budget ikke kunne afvikle på. Manden boede i en lejelejlighed og var ejer af en mindre bil
+
+3)	En 62 årig invalidepensionist uden andre indtægter end sin pension, med en beskeden friværdi i sin lejlighed og med en samlet gæld på 1.215.000 kr., stammende fra underskud på driften og salg af en landbrugsejendom.
+
+Spm. 2) Hvilken retsinstans beslutter en evt. gældssanering. (5%)
+
+Spm. 3) Hvad kan en gældssanering i henhold til de relevante bestemmelser gå ud på? (10%)
+
+Spm. 4) Med inddragelse af den relevante lovgivning, hvad er den sandsynlige udgang på de tre ovennævnte gældssaneringsanmodninger? (20%)
+
+Spm. 5) Hvad sker der, med den ”sanerede” gæld, hvis skyldneren efterfølgende får en væsentlig indkomst f.eks. en arv eller en lotterigevinst? (5%)
+
+**Opgave 3**
+
+Pia Jensen havde ifølge sin skattemæssige årsopgørelse for 2019 lønindkomst på 259.409 kr. og kapitalindkomst på -7.476 kr. ”Indestående i pengeinstitutter, obligationer, pantebreve” udgjorde 9.473 kr. ”Gæld til realkredit, reallån,
+pengeinstitutter” udgjorde 218.232 kr.
+
+Ifølge en lønseddel for februar 2019 havde Pia ansættelse som social- og sundhedsassistent med en månedsløn på cirka 21.000 kr.
+Ved et gældsbrev af 29. august 2019 ydede Bonus Sparekasse et erhvervslån, på 334.300 kr. til Pia’s daværende samlever, Søren Hansen. Pia underskrev samme dag gældsbrevet som selvskyldnerkautionist for erhvervslånet.
+
+Pia satte underskrift på selvskyldnerkautionserklæringen og bekræftede i erklæringen at have modtaget nærmere opregnet økonomisk materiale og at have fået udleveret og gennemgået pjece om kaution.
+
+Ved breve af henholdsvis 2. og 18. juni 2020 rykkede sparekassen Søren for restancer på erhvervslånet. Sparekassen sendte kopi af brevene til Pia som kautionist.
+
+Ved brev af 12. august 2020 anmodede sparekassen Pia om at betale 351.110,29 kr. til indfrielse af kautionen.
+
+Spm. 1) Kan Bonus Sparekasse forvente at få medhold i det krav, som de har rejste mod Pia? (30%)
+
+Spm. 2) Havde det haft betydning, hvis Pia havde stået som simpel kautionist? (5%)
+
 
 ---
 

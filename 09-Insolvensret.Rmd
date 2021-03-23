@@ -18,7 +18,7 @@ cat(readLines('np.html'))
 
 •	**Forskellen på individual- og universalforfølgning, herunder forskellen på tvangsauktion og konkurs**
 
-•	**Individualforfølgning:**
+
 
 ---
 
@@ -1098,7 +1098,9 @@ Skifteretten kan videregive oplysninger fra registret til en kurator eller rekon
 ---
 
 Se dommen i **U 2019.3164 V**, hvor en direktør i konkursramt selskab blev pålagt konkurskarantæne i 3 år.
-**<a href="https://pro.karnovgroup.dk/document/7000841374/1" target="_blank"> klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000841374/1" target="_blank"> Dommen klik her!</a>**
+
+Se dommen **U 2021.1301 H** Andelsboligforening var ikke omfattet af virksomhedsbegrebet i konkurslovens § 157, og bestyrelsesformanden frifandtes for konkurskarantæne.**<a href="https://pro.karnovgroup.dk/document/7000865218/1" target="_blank"> Dommen klik her!</a>**
 
 ---
 
@@ -1847,7 +1849,7 @@ Hvis gælden bliver sat ned, bliver der lavet en afdragsordning for resten af g�
 
 **Hvad er gældssanering?**  
 
-En **gældssanering** er	bortfald eller nedsættelse af gæld ved en kendelse afsagt af skifteretten.
+En *gældssanering* er	bortfald eller nedsættelse af gæld ved en kendelse afsagt af skifteretten.
 
 Gældssanering er en ordning, hvor man får nedsat en stor og håbløs gæld til et beløb, som man er i stand til at betale.
 
@@ -1890,8 +1892,6 @@ Det er for det andet en betingelse, at ens forhold og omstændighederne i øvrig
 
 Det betyder navnlig, at gældens alder, omstændighederne ved gældens stiftelse og den hidtidige afvikling af gælden skal tale for gældssanering.
 
-Man kan læse mere om betingelserne for gældssanering
-**<a href="http://www.domstol.dk/saadangoerdu/gaeld/gaeldssanering/betingelser/Pages/default.aspx" target="_blank">klik her!</a>**
 
 ---
 
@@ -1899,15 +1899,9 @@ Man kan læse mere om betingelserne for gældssanering
 
 Man udfylder og underskriver ansøgningsskemaet.
 
-Ansøgningsskemaet 
-**<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldsanering.pdf" target="_blank">klik her!</a>**
-
 ---
 
 Man kan også hente ansøgningsskemaet i skifteretten. 
-
-Man finder en vejledning til at udfylde ansøgningsskemaet
-**<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldssanering%20-%20vejledning.pdf" target="_blank">klik her!</a>**
 
 ---
 
@@ -1939,23 +1933,9 @@ Hvis man bor i en af følgende retskredse: Københavns Byret, Retten på Frederi
 
 ---
 
-Man kan få hjælp til at finde ens retskreds.
-**<a href="http://www.domstol.dk/FIND/Pages/findminretskreds.aspx" target="_blank">klik her!</a>**
-
----
-
-
 **Hvad sker der under sagen?**
 
 Når man har indleveret ansøgningen til skifteretten, indkalder skifteretten én normalt til et møde. 
-
-Hvis man vil forberede sig på mødet, kan man her finde en liste over spørgsmål, som skifteretten typisk vil stille under mødet.
-**<a href="http://www.domstol.dk/Selvbetjening/blanketter/Blanketter/Gaeldssanering%20-%20spoergsm%C3%A5l.pdf" target="_blank">klik her!</a>**
-
----
-
-Man kan læse mere om gældssaneringssagens forløb
-**<a href="http://www.domstol.dk/saadangoerdu/gaeld/gaeldssanering/Pages/Sagensgang.aspx" target="_blank">klik her!</a>**
 
 ---
 

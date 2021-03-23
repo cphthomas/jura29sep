@@ -20,13 +20,13 @@ cat(readLines('np.html'))
 .
 **Ejendomsforbeholdets betydning i forbindelse med anden**
 
-**sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 og 38**. 
+**sikkerhedsstillelse og tilbehørspant i fast ejendom, TL §§ 37 og 38** 
   
-*Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b,**
+**Oprindelig trepartsforhold, KAL § 4, nr. 15, litra b**
 
 **Fritstående lån reguleret af kreditaftalelovens alm. regler**
 
-**samt efterfølgende trepartsforhold, reguleret af gældsbrevsloven**
+**samt efterfølgende trepartsforhold, reguleret af gældsbrevsloven (GBL)**
 
 
 ---
@@ -121,9 +121,9 @@ Definitionen er overensstemmende med definitionerne af forbrugeraftaler/køb i a
 
 **Kreditretlige begreber:**
 
-En **kreditgiveren** forstås som forbrugerens modpart. 
+**kreditgiveren** forstås som forbrugerens modpart. 
 
-Kreditgiver er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. 
+Kreditgiveren er først og fremmest den (typisk juridiske person), der i forhold til forbrugeren yder kredit. 
 
 Ved aftaler om ydelse af pengelån/kredit, der skal tilbagebetales, er långiver kreditgiver. 
 
@@ -131,7 +131,7 @@ Ved aftaler om ydelse af pengelån/kredit, der skal tilbagebetales, er långiver
 
 **Amortisering** betyder	en regelmæssig tilbagebetaling af et lån.
 
-**Betalingsstedet** er normalt fordringshaverens bopæl eller forretningssted. Grundsætningen: **Pengeskyld er bringeskyld**.
+**Betalingsstedet** er normalt fordringshaverens bopæl eller forretningssted. Obligationsretlig grundsætning: **Pengeskyld er bringeskyld**.
 
 Betegnelsen **fordringshaver** er	den, der har noget til gode.
 
@@ -343,17 +343,17 @@ Kreditgiveren ofte vil have et regreskrav mod den formidler, som ikke har opfyld
 
 **2.** Navn og fysisk adresse på kreditgiveren og i givet fald navn og fysisk adresse på den involverede kreditformidler, jf. definitionen i KAL § 4, nr. 6.
 
-**3*. Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden, jf. lovens § 4, nr. 12 om definitionen af det samlede kreditbeløb. Det lånebeløb som forbrugeren kan råde over (låneprovenuet). 
+**3.** Det samlede kreditbeløb og betingelserne for at udnytte kreditmuligheden, jf. lovens § 4, nr. 12 om definitionen af det samlede kreditbeløb. Det lånebeløb som forbrugeren kan råde over (låneprovenuet). 
 
-*4.* Kreditaftalens løbetid. Løbetiden er	den periode, over hvilken et lån afvikles
+**4.*** Kreditaftalens løbetid. Løbetiden er	den periode, over hvilken et lån afvikles
 
-*5*. Ved kredit i form af henstand med betalingen for en specifik vare eller tjenesteydelse og tilknyttede kreditaftaler, varen eller tjenesteydelsen og kontantprisen herfor. 
+**5.** Ved kredit i form af henstand med betalingen for en specifik vare eller tjenesteydelse og tilknyttede kreditaftaler, varen eller tjenesteydelsen og kontantprisen herfor. 
 
-*6*. Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, og tidspunkter, betingelser og procedurer for ændring af debitorrenten. 
+**6.** Debitorrenten, betingelserne for anvendelsen af debitorrenten og et eventuelt indeks eller en eventuel referencesats, der skal anvendes på den oprindelige debitorrente, og tidspunkter, betingelser og procedurer for ændring af debitorrenten. 
 
 Hvis der anvendes forskellige debitorrenter under forskellige omstændigheder, angives de nævnte oplysninger for alle de relevante debitorrenter.
 
-*7*. De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. 
+**7.** De årlige omkostninger i procent og det samlede beløb, som skal betales af forbrugeren, illustreret ved et repræsentativt eksempel, som angiver alle de antagelser, der er lagt til grund for at beregne procentsatsen. 
 
 Hvis forbrugeren har informeret kreditgiveren om et eller flere elementer i den kredit, vedkommende foretrækker, som f.eks. kreditaftalens løbetid og det samlede kreditbeløb, skal kreditgiveren tage hensyn til disse elementer. 
 
@@ -433,7 +433,7 @@ Alle de antagelser, der er lagt til grund ved beregningen af denne procentsats, 
 
 **8.** Størrelse, antal og hyppighed af de betalinger, der skal foretages af forbrugeren, og i givet fald den rækkefølge, hvori betalingerne henføres til forskellige udestående saldi til forskellige debitorrenter med henblik på tilbagebetaling.
 
-**9*. Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. 
+**9.** Forbrugerens ret til på anmodning, til enhver tid i løbet af kreditaftalens varighed uden omkostninger, at modtage en opgørelse i form af en amortiseringsplan, såfremt der er tale om amortisation af kapitalen i forbindelse med en kreditaftale med fast løbetid. 
 
 Amortiseringsplanen skal angive skyldige betalinger, tidspunkter og betingelser for betaling af sådanne beløb. 
 
@@ -465,7 +465,7 @@ Hvis rentesatsen ikke er fast eller de yderligere omkostninger kan ændres i kre
 
 **21.** Hvor det er relevant, andre aftalevilkår og -betingelser.
 
-*22.** Navn og adresse på den kompetente tilsynsmyndighed.
+**22.** Navn og adresse på den kompetente tilsynsmyndighed.
 
 ---
 
@@ -609,7 +609,7 @@ Denne forpligtelse kan ikke opfyldes ved, at forbrugeren fx via adgang til netba
 
 **4.**	Den nye saldo.
 
-**5***	Datoerne for betalinger og betalingernes størrelse.
+**5.**	Datoerne for betalinger og betalingernes størrelse.
 
 **6.**	Den anvendte debitorrente.
 
@@ -724,11 +724,11 @@ Dommen i **U 1960.631 H** tyder på, men fastslår dog ikke udtrykkeligt, at ren
 
 **Lånesituationer med tre parter:**
 
-*1.	Oprindeligt trepartsforhold.
+**1.**	Oprindeligt trepartsforhold.
 
-*2.	Efterfølgende trepartsforhold.
+**2.**	Efterfølgende trepartsforhold.
 
-*3.	Fritstående lån.
+**3.**	Fritstående lån.
 
 ---
 
@@ -1160,13 +1160,13 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 Et gyldigt ejendomsforbehold skal efter KAL § 34, stk. 1 være:
 
-1) det er aftalt senest ved overgivelsen af det købte til forbrugeren,
+**1)** det er aftalt senest ved overgivelsen af det købte til forbrugeren,
 
-2) det samlede beløb, der skal betales, jf. § 8, stk. 2, nr. 7, inklusive den erlagte udbetaling overstiger 2.000 kr.,
+**2)** det samlede beløb, der skal betales, jf. § 8, stk. 2, nr. 7, inklusive den erlagte udbetaling overstiger 2.000 kr.,
 
-3) kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb og
+**3)** kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb og
 
-4) sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 pct. af kontantprisen".
+**4)** sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 pct. af kontantprisen".
 
 
 ---
@@ -1300,13 +1300,13 @@ Ifølge domspraksis fraviges dette udgangspunkt, hvis kreditgiveren har udvist u
 
 Et ejendomsforbehold i forbrugerkøb er som tidligere nævnt kun gyldigt efter lovens § 34, stk. 1, såfremt:
 
-1. Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
+**1.** Det er aftalt senest ved overgivelsen af det købte til forbrugeren,
 
-2. det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
+**2.** Det samlede beløb, der skal betales, jf. § 9, stk. 1, nr. 5, overstiger 2.000 kr.,
 
-3. kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
+**3.** Kreditkøbet ikke er sket i henhold til en aftale om kredit med variabelt lånebeløb, og
 
-4. sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
+**4.** Sælgeren ved overgivelsen af det købte er fyldestgjort for mindst 20 % af kontantprisen.
 
 ---
 
@@ -1382,6 +1382,8 @@ Sælgeren har bevisbyrden for, at der foreligger et ikke-forbrugerkøb, jf. KAL 
 Kravet om en mindsteudbetaling på 20 % af kontantprisen er objektiv og skal tages bogstaveligt. 
 
 Selv om der kun mangler et beskedent beløb førend, at sælgeren er fyldestgjort for 20 % af kontantprisen, er ejendomsforbeholdet ugyldigt.  
+
+20% udbetalingskravet er ikke en betingelse i erhvervsforhold, jf. KAL § 50, stk. 2.
  
 ---
 

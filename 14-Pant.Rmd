@@ -242,19 +242,19 @@ Ejerpantebreve anvendes typisk som sikkerhed for lån i pengeinstitutter med tin
 
 ---
 
-**"Skadesløsbreve"****, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, når størrelsen af gælden ikke er endeligt fastlagt.
+**"Skadesløsbreve"**, hvor en ejer af en fast ejendom giver en bestemt kreditor sikkerhed i sin ejendom, når størrelsen af gælden ikke er endeligt fastlagt.
 
 Skadesløsbrevet kan stilles som sikkerhed for et bestemt engagement - fx en kassekredit eller lignende.
 
 ---
 
-"Sælgerpantebreve", der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til kreditor (sælger).
+**"Sælgerpantebreve"**, der både giver pant i en ejendom og er et gældsbrev, hvor køber erkender at skylde et beløb til kreditor (sælger).
 
 ---
 
 Alle pantebreve skal tinglyses for at pantet gyldigt kan stiftes.
 
-"Tinglysningsafgiften"** for pantebreve er 1,45 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.730. 
+"Tinglysningsafgiften" for pantebreve er 1,45 % af lånets hovedstol oprundet til nærmeste 100 med tillæg af kr.1.730. (2020) 
 
 Tinglysningsafgiften vil normalt blive medfinansieret i lånet.
 
@@ -291,8 +291,6 @@ Har køber ikke mulighed for at opnå sædvanlig finansiering via bank eller rea
 Dette indebærer i praksis, at køber afdrager på lånet direkte til sælger i stedet for banken eller realkreditinstituttet.
 
 
-<a href="https://www.tinglysningsretten.dk/tinglysning/faq/pant" target="_blank">Se spørgsmål og svar om pant, fra tinglysningsrettens hjemmeside Klik her!</a>
-
 ---
 
 **Godt at vide inden man tinglyser:**
@@ -320,12 +318,6 @@ Vær opmærksom på at det er anmelder, der har det juridiske ansvar for indhold
 
 ---
 
-**Hotline:**
-
-Deres hotline kan være behjælpelig, hvis man har tekniske problemer. Tinglysningsretten kan – som domstol – ikke yde juridisk vejledning. Hotline kan kontaktes på tlf. 70 22 18 00.
-
----
- 
 ## Sikringsakt
 
 Pant kræver typisk at der foretages en **"sikringsakt"** for at panthavers ret er sikret mod andre. 
@@ -884,7 +876,7 @@ Dommen i **U 1985.227 V**.
 ---
 
 Man vil dog formentlig stille ret strenge krav til beviset for, at genstanden reelt er bekostet af den anden ægtefælle, ligesom § 38 er anvendelig, hvis den ægtefælle, der har anskaffet genstanden, må antages reelt at være medejer af ejendommen, jf. dommen i **U 1984.620 V.** 
-**<a href="https://pro.karnovgroup.dk/document/7000205229/1" target="_blank">klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000205229/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -917,7 +909,7 @@ Specielt inventar mv. kan i særlige tilfælde være tilstrækkeligt, medens fak
 Ikke hele ejendommen behøver at være indrettet med henblik på erhvervsvirksomheden, når den blot ikke spiller en kun ubetydelig rolle.
 
 Som er varigt indrettet: I tvivlstilfælde kan der ses hen til betydningen for pantesikkerheden, jf. dommen i **U 1934.352.** 
-**<a href="https://pro.karnovgroup.dk/document/7000240490/1" target="_blank">klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000240490/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -945,7 +937,7 @@ Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en
 ---
 
 Se dommen **U 1973.925 H** Et vaskeri drev også virksomhed med udlejning af arbejdstøj, duge og sengelinned mv. Antaget, at disse genstande nærmest måtte sidestilles med et varelager og ikke kunne anses som driftsinventar eller driftsmateriel omfattet af TL § 37. 
-**<a href="https://pro.karnovgroup.dk/document/7000210263/1" target="_blank">klik her!</a>**
+**<a href="https://pro.karnovgroup.dk/document/7000210263/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -1218,7 +1210,7 @@ Pantebrev slettes fra Bilbogen efter 10 år.
 
 ---
 
-**U 2014.1275 V:** Forsikringsselskab, der havde udbetalt erstatning for totalskadet bil til ejeren, der havde kørt spirituskørsel med en promille på 1,84, og til panthaveren, havde krav på tilbagebetaling hos forsikringstageren.
+**U 2014.1275 V:** Forsikringsselskab, der havde udbetalt erstatning for totalskadet bil til ejeren, der havde kørt spirituskørsel med en promille på 1,84, og til panthaveren, havde krav på tilbagebetaling hos forsikringstageren.**<a href="https://pro.karnovgroup.dk/document/7000637990/1" target="_blank">Dommen klik her!</a>**
 
 ---
 
@@ -1586,12 +1578,6 @@ TL § 47d omfatter udelukkende fordringer, som stammer fra salg af varer eller t
 Om køb, erstatning, god skik for finansielle virksomheder, forsikringsret, erstatningsansvarsloven, konkursret, pant og ejendomsforbehold 
 
 
-
----
-
-<br>
-
-
 Jonas Hansen ejer og driver virksomheden Hansen Tæpper ApS, der importerer og sælger ægte tæpper. 
 
 Virksomheden drives fra en ejet ejendom med lager indrettet med læsserampe samt showroom og kontorlokaler mv. i Sorø. 
@@ -1844,6 +1830,91 @@ Kassevognen er købt kontant, men blev d. 28. august, pantsat og tinglyst til si
 
 
 ---
+
+##Eksamensopgave 7 "Morgenbrød og sikkerhedsstillelse"
+
+
+
+Opgave 1 (32 %)
+
+Bagerbrød og cykeluheld
+
+Britta Pedersen, der var på arbejde som ansat i Køge kommune, skulle en morgen, hvor det var lyst, købe feriebrød til sine kollegaer hos bager Svendsen på Torvet i Køge. Britta parkede bilen i en parkeringsbås modsat kørselsretningen, således at bildøren skulle åbnes ud mod cykelstien mellem vejbanen og fortovet. Britta steg ud af bilen, men opdagede, at hun havde glemt sin pung. Britta lagde et knæ på forsædet, mens hun rakte ud efter pungen. Da Britta havde fået fat på pungen, steg hun uden at orientere sig om trafik på cykelstien ud af bilen og lukkede bildøren. Britta havde ikke set cyklist Curt Jensen, der kom kørende på cykelstien, og Curt opdagede først for sent Britta og kunne ikke nå at bremse eller undvige, hvorved Curt påkørte Britta og væltede og kom til skade. Curt anlagde sag mod kommunen med påstand om, at kommunen skulle anerkende at være erstatningsansvarlig for skaderne, idet Curt gjorde gældende, at Britta skulle bære det fulde ansvar for ulykken, og kommunen var erstatningsansvarlig efter Danske Lov 3-19-2. Kommunen påstod frifindelse, subsidiært skyldfordeling, under anbringende af at ansvaret for uheldet påhvilede Curt, der havde kørt for hurtigt, og Curt burde have været opmærksom på den åbne bildør og den bilist, der var skjult bag bildøren.
+
+Spørgsmål 1 (32 %)
+
+Der ønskes en nærmere redegørelse for sagens afgørelse.
+
+Opgave 2 (40 %)
+
+Hurtigt og Godt ApS og sikkerhedsstillelse
+
+Hurtigt & Godt ApS (herefter firmaet) etablerede i 2017 et firma, der sælger daglige frokostanretninger til firmaer, der ikke selv har kantine. Firmaet drives fra en lille erhvervsejendom på Frederiksberg, som firmaet ejer. Ejendommen indeholder et mindre kontor og større industrikøkken indrettet med driftsmateriel/produktionsmaskiner til driften. Erhvervsejendommen er således særlig indrettet med denne type virksomhed for øje. Og den lever op til Fødevarestyrelsens krav til industrikøkkener.  
+
+Selvom firmaet stadig leverer mad ud af huset, er deres omsætning halveret, da mange af de firmaer, som de normalt leverer til dagligt, er lukket midlertidig grundet Covid-19. 
+
+For at klare denne økonomiske krise har firmaet brug for at låne kr. 500.000 i banken.
+
+De har nu booket et møde hos dig, der er deres bankrådgiver for mindre erhvervsvirksomheder. Du har forinden mødet modtaget en række oplysninger, så du kan danne dig et overblik over firmaet aktiver og passiver mv. Firmaet har forinden mødet tilkendegivet over for dig, at de ikke ønsker at indgå i kautionsforhold i forbindelse med et eventuelt lån i banken, men er indstillet på et lån mod pant i ejendommen eller alternativt, i virksomheden. 
+
+Af de fremsendt oplysninger kan du se, at firmaets ejendom er vurderet til kr. 7.000.000 og belånt med realkreditlån på kr. 4.200.000. Der er en restgæld på kr. 3.900.000. Pantebrevet er tinglyst 20. oktober 2017. Der er desuden en privat panthaver, der har en 2. prioritet med et lån på kr. 1. 200.000 med en restgæld på kr. 1.000. 000. Pantebrevet er tinglyst den 25. oktober 2017. Af oplysningerne fremgår det, at der er en del driftsmateriel/produktionsmaskiner samt industrikølerum mv, der er varigt indrettet i bygningen til brug for den daglige produktion. I din gennemgang, kan du tillige se, at der er en separat panthaver, der har pant i et driftsmateriel.  Der er tale om en industrirøremaskine til en pris på kr. 200.000. Denne er købt på kredit, og der er mellem firmaet og kreditsælger oprettet et pantebrev på kr. 200.000 til sikkerhed for betaling af røremaskinen. Pantebrevet er tinglyst den 23. januar 2020, og har en restgæld på kr. kr. 100.000. 
+
+Spørgsmål 2.1 (12 %)
+
+Hvilke overvejelser vil du gøre dig som bankrådgiver, omkring et eventuelt lån til firmaet kr. 500.000 mod sikkerhedsstillelse i firmaets erhvervsejendom?
+
+Besvarelsen skal blandt andet indeholde din vurdering af følgende:  
+
+•	Hvorvidt du mener, at bankens sikkerhed vil være acceptabel, hvis de får pant i ejendommen? 
+•	I hvilet omfang vil firmaets driftsmateriel indgå i pantet, hvis banken låner firmaet kr. 500.000 mod pant i ejendommen?
+
+
+Spørgsmål 2.2 (6 %)
+
+Hvad sker der med det driftsmateriel (industrirøremaskinen), der er separat pant i, efterhånden som gælden afvikles eller betales fuldt ud?
+
+Firmaet har også nævnt, at banken eventuelt kan låne dem de kr. 500.000, mod at banken tager virksomhedspant i firmaet, i stedet for pant i ejendommen. Du vil derfor, som bankrådgiver også forberede et notat til mødet, omkring din/bankens mulighed for at indgå en aftale om virksomhedspant.  
+
+Af de dokumenter, som du har modtaget fra firmaet, kan du se, at der løbende er et meget lille varelager, da der købes varer ind, når der er bestillinger på madleveringer. Der er to indregistrerede varevogne, der bruges til leveringer og vareindkøb. (Der er ingen panthavere i bilerne).  Desuden er der i øjeblikket, under Covid-19, løbende nogle udestående fordringer på ca. kr. 30.000 pr. måned, for leveringer af frokostordninger. Fordringerne opstår, da der løbende gives de faste kunder 30. dages kredit. Dette er, hvad du umiddelbart samlet kan spore af værdier i firmaet ud over ejendommen og driftsmateriellet. Du antager ikke, at der er værdi i form af Goodwill. 
+
+Spørgsmål 2.3 (12 %)
+
+Hvilke overvejelser vil du gøre dig som bankrådgiver, omkring et eventuelt lån til firmaet på kr. 500.000 mod at oprette virksomhedspant, i stedet for pant i ejendomme?
+
+Besvarelsen skal blandt andet indeholde din vurdering af følgende: 
+
+•	Hvorvidt du mener, at bankens sikkerhed, vil være acceptabel, hvis de oprettet virksomhedspant? 
+•	Hvilke aktiver vil kunne høre under pantet. hvis banken låner firmaet kr. 500.000 mod virksomhedspant i firmaet?
+
+
+
+Spørgsmål 2.4. (5 %)
+Hvilke procedurer omkring sikkerhedsstillelsen, skal du som bankrådgiver følge, såfremt du/banken beslutter at låne firmaet de kr. 500.000 mod at få pant i erhvervsejendommen?
+
+Spørgsmål 2.5 (5 %)
+
+Hvilke procedurer omkring sikkerhedsstillelsen, skal du som bankrådgiver følge, såfremt du/banken beslutter at låne firmaet de kr. 500.000 mod at oprette virksomhedspant?
+
+Opgave 3 (28 %)
+
+Konkurs
+I banken, hvor du er ansat som bankrådgiver, har du fået en henvendelse fra en af bankens kunder. Det drejer sig om en kunde, der har en personligt ejet virksomhed (herefter kunden). Der er tale om en tøjbutik. Grundet Covid-19 nedlukninger, ser kunden sig ikke længere i stand til at betale sine kreditorerne. Der er hovedsagelig tale om ubetalte faktura for tøj bestilt på modemessen i efteråret 2019 til levering i maj 2020. På samtlige fakturaer var der 3 måneders kredit. Leveringerne var fordelt på 8 forskellige kreditorer. Da der ikke har været nok salg af tøj fra butikken, er situationen nu så kritisk, at 6 af vareleverandørende endnu ikke er blevet betalt. Det drejer sig om fakturaer til en samlet værdi af ca. kr. 400.000. Banken har over for kunden tilkendegivet, at det ikke er muligt, at banken låner kunden de kr. 400.000 til betaling af fakturaerne. Efter bankens afslag vil kunden gerne vide lidt omkring, hvad der kan ventes at ske fremadrettet, når de udestående fakturaer ikke bliver betalt. Der har været indgået utallige aftaler om henstand med kreditorerne, men der er ikke længere mulighed for at forlænge disse aftaler. Og nogle af kreditorerne har ytret sig om eventuel konkurs. Da kunden ikke rigtig ved noget omkring, hvad der menes med konkurs, har kunden bedt dig om at fortælle lidt omkring, hvad det går ud på. 
+
+Spørgsmål 3.1 (15 %)
+
+A. Hvad er formålet med en konkurs?
+B. Hvad er betingelsen for, at der kan begæres konkurs?
+C. Hvem kan indgive konkursbegæring, og hvor skal begæringen indgives?
+D. Hvilken funktion har fristdagen?
+
+Spørgsmål 3.2 (13 %)
+
+Hvad skal der ske med konkursmassen ved konkursboets afslutning?
+
+
+
+
+---
  
 ## Rettigheder over fondsaktiver 
 
@@ -1897,7 +1968,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 **1. Ejendomsretten går over på køber som følger**
 
-**18.1.1. Løsere og rettigheder (goodwill, patenter, varemærker, ophavsrettigheder, m.v.)**
+**1.1. Løsere og rettigheder (goodwill, patenter, varemærker, ophavsrettigheder, m.v.)**
 
 **1.1.1. Er købet et genus- eller specieskøb**
 
@@ -1934,7 +2005,7 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 
 ---
 
-**18.1.3. Fordringer og gældsbreve**
+**1.3. Fordringer og gældsbreve**
 
 -	Se løsningsmodel ovenfor i kap. 12 – Fordringer og gældsbreve.
 
@@ -2120,7 +2191,7 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 ---
 
-**18.2.4. Udlæg (retspant)**
+**2.4. Udlæg (retspant)**
 
 -  	Kan der foretages udlæg i aktivet – jf. RPL §§ 507 - 515.
 
@@ -2150,7 +2221,7 @@ Om pant og udlæg (Pantehaveres og udlægshaveres beskyttelse)^[Følgende afsnit
 
 ---
 
-**18.3.1.2. Pant for samtidig stiftet gæld**
+**3.1.2. Pant for samtidig stiftet gæld**
 
 - 	Pant for samtidig stiftet gæld omstødes kun, hvis sikringsakten er foretaget senere end 3 mdr. før fristdagen, og denne ikke er sikret uden ugrundet ophold mod retsforfølgning (inden for et par dage) – jf. KL § 70.
 

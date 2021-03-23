@@ -1,16 +1,12 @@
 # Vejledning til løsning af eksamensopgaver for finansøkonomer
 
-<!-- ```{r, echo=FALSE, results='asis'} -->
-<!-- cat(readLines('np.html')) -->
-<!-- ``` -->
+```{r, echo=FALSE, results='asis'}
+cat(readLines('np.html'))
+```
 
 ---
 
-
-
----
-
-## Studieordningen
+## Studieordningen fornErhvervs- og finansjura for finansøkonomer
 
 Det fremgår af studieordningen for Erhvervs- og Finansjura, at faget indeholder relevant juridisk lovning i relation til juridiske problemstillinger inden for ejendomshandel, ejendomsadministration, bank og realkredit, forsikring samt revision og økonomifunktion. 
 

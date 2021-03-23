@@ -117,9 +117,9 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 +	Forbrugeraftalelovens regler om fortrydelsesret.
       
-**U2:** Urimelige aftaler, aftalelovens §§ 38 c, jf. 36
+**U2:** tilsidesættelse af urimelige aftaler, aftalelovens §§ 38 c, jf. 36.
 
-**U3:** "En aftale bliver også ugyldig, hvis den strider mod "Lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683. 
+**U3:** "En aftale bliver også ugyldig, hvis den strider mod "Lov og ærbarhed", jf. allerede Christian 5.s Danske Lov fra 1683, som stadigvæk er retsregler, som er gældende i dag. 
 
 ---
 
@@ -154,7 +154,7 @@ Mundtlige aftaler er lige så bindende som skriftlige, jf. Danske Lov, DL 5–1�
 
 De mundtlige kan bare være sværere at bevise, hvis parterne bliver uenige om aftalens indhold. 
 
-Bevisbyrde - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
+**Bevisbyrde** - Den part der hævder en mundtlig aftale er indgået, har bevisbyrden (som er hovedreglen i dansk ret; en ligefrem bevisbyrde).
 
 En mundtlig aftale kan bevises over for en dommer, hvor man er underlagt, vidne- og partsafhøring under strafansvar.
 
@@ -232,9 +232,9 @@ edges <- data.frame(from = c(1),
 
 ---
 
-Eksempler på indgåelse af juridiske aftaler mellem parter 
+Eksempler på indgåelse af juridiske aftaler mellem parter: 
 
----
+
 
 Ejendomsmægleren tager initiativ til en formidlingsaftale om salg af et hus:  
 
@@ -506,7 +506,7 @@ Man kan derfor ikke ved frafald af accept forpligte adressaten, fx ved uopfordre
 
 ---
 
-Ved forbrugeraftaler er dette særligt reguleret i forbrugeraftalelovens § 6's forbud mod "negativ aftalebinding".
+Ved forbrugeraftaler er dette særligt reguleret i forbrugeraftalelovens § 6's forbud mod **"negativ aftalebinding"**.
 
 Accepten kan ske ved en handling, fx at køre med Metroen eller modtage varen.
 
@@ -516,7 +516,7 @@ Tilbuddet skal være accepteret i rette tid:
 
 Acceptfristen kan være fastsat i tilbuddet efter aftalelovens § 2.
 
-Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1. Den såkaldte **legale acceptfrist**. 
+Er acceptfristen ikke fastsat i tilbuddet, beregnes denne efter aftalelovens § 3, stk. 1. Den såkaldte **"legale acceptfrist"**. 
 
 ---
 
@@ -605,7 +605,7 @@ Lader tilbudsgiver som ingenting, risikerer tilbudsgiver at være bundet	og skal
 
 **Det at give meddelelse** se nærmere aftalelovens § 40:
 
-**Når nogen, som efter denne lov skal »give meddelelse« har indleveret meddelelsen til befordring med telegraf eller post eller, hvor andet forsvarligt befordringsmiddel benyttes, har afgivet den til befordring dermed, går det ikke ud over ham, at meddelelsen forsinkes eller ikke kommer frem.**
+**"Når nogen, som efter denne lov skal »give meddelelse« har indleveret meddelelsen til befordring med telegraf eller post eller, hvor andet forsvarligt befordringsmiddel benyttes, har afgivet den til befordring dermed, går det ikke ud over ham, at meddelelsen forsinkes eller ikke kommer frem".**
 
 
 ---
@@ -647,7 +647,7 @@ Tilbud kan tilbagekaldes af tilbudsgiver, hvis tilbagekaldelsen kommer frem inde
 Svar/accept kan tilbagekaldes af acceptanten, hvis tilbagekaldelsen kommer frem inden eller samtidig med, at accepten kommer til tilbudsgivers kundskab.
 
 
-U: Se den såkaldte **Re integra-reglen** - aftalelovens § 39, 2. pkt.: 
+U: Se den såkaldte **"Re integra-reglen"** - aftalelovens § 39, 2. pkt.: 
 
 Under særlige omstændigheder kan tilbagekaldelse alligevel ske efter fristens udløb, hvis to betingelser er opfyldt:  
 
@@ -879,11 +879,11 @@ Hovedreglen er, at aftalen er bindende, men den kan alligevel bortfalde, hvis af
 
 Ugyldighed som kan ramme aftalen kan opstå pga. bl.a. følgende forhold:
 
-**Tilblivelsesmangler** – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde).
+**"Tilblivelsesmangler"** – omstændigheder ved aftalens indgåelse, fx svig, forfalskning, voldelig tvang, udnyttelse mv. (sondres mellem svage og stærke ugyldighedsgrunde).
 
 ---
 
-**Habilitetsmangler** – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. 
+**"Habilitetsmangler"** – en af parterne mangler habilitet eller evne til at indgå aftaler, fx pga. umyndighed, sindssygdom, demens. 
 
 Hvis man har habilitet, har man evne til at foretage retsgyldige handlinger.
 
@@ -893,7 +893,7 @@ Hvis man har habilitet, har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-**Bristende forudsætninger** - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
+**"Bristende forudsætninger"** - et løfte kan afgives på baggrund af nogle forudsætninger, som ikke nødvendigvis er diskuteret eller udtrykt klart mellem parterne i en aftale.
 
 ---
 
@@ -902,35 +902,35 @@ Hvis man har habilitet, har man evne til at foretage retsgyldige handlinger.
 **Oversigt:**
 
 
-**Umyndige** (under 18 år og under lavværgemål), jf. værgemålsloven § 44.
+**"Umyndige:** (under 18 år og under lavværgemål), jf. værgemålsloven § 44.
 
 ---
 
-**Myndighed** er	evnen til at kunne forpligte sin person eller formue ved retshandler.
+**"Myndighed":** er	evnen til at kunne forpligte sin person eller formue ved retshandler.
 
 ---
 
-**Fornuftsmangel;** – Se værgemålslovens § 46.
+**"Fornuftsmangel":** – Se værgemålslovens § 46.
 
 ---
 
-**Falsk**; tiltrådt uden bemyndigelse.
+**"Falsk":** tiltrådt uden bemyndigelse.
 
 ---
 
-**Forfalskning**; rettet i gyldigt dokument.
+**"Forfalskning":** rettet i gyldigt dokument.
 
 ---
 
-**Voldelig tvang**; vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
+**"Voldelig tvang":** vold eller trussel derom mod løftegiveren, jf. aftalelovens § 28.
 
 ---
 
-**Forvanskning;** løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
+**"Forvanskning":** løftet er undergået forandring, jf. aftalelovens § 32, stk. 2.
 
 ---
 
-**Simpel tvang;** anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
+**"Simpel tvang":** anden tvang end vold mod løftegiver hvis ond tro, jf. aftalelovens § 29.
 
 ---
 
@@ -938,19 +938,19 @@ Hvis man har habilitet, har man evne til at foretage retsgyldige handlinger.
 
 ---
 
-**Udnyttelse/åger;** misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
+**"Udnyttelse/åger";** misforhold ved udnyttelse hvis ond tro, jf. aftalelovens § 31.
 
 ---
 
-**"Fejltagelse"**, løftet har fået et andet indhold end tilsigtet hvis ond tro, jf. aftalelovens § 32, stk. 1.
+**"Fejltagelse":**, løftet har fået et andet indhold end tilsigtet hvis ond tro, jf. aftalelovens § 32, stk. 1.
 
 ---
 
-**Stridende mod almindelig hæderlighed hvis ond tro;** jf. aftalelovens § 33 smhl. med aftalelovens § 39.
+**"Stridende mod almindelig hæderlighed hvis ond tro";** jf. aftalelovens § 33 smhl. med aftalelovens § 39.
 
 ---
 
-**Urimeligt/i strid med redelig handlemåde (generalklausulen)**; jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
+**"Urimeligt/i strid med redelig handlemåde (generalklausulen)":**; jf. aftalelovens § 36 og ved forbrugeraftaler aftalelovens §§ 38a-c.
 
 ---
 
@@ -970,7 +970,7 @@ De stærke ugyldighedsgrunde kan gøres gældende også over for en kontraktpart
 
 ---
 
-**De Stærke ugyldighedsgrunde** er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
+**De stærke ugyldighedsgrunde** er bl.a. forfalskning af indhold eller underskrift, underskriverens mindreårighed eller værgemål samt voldelig tvang. 
 
 ---
 
@@ -1104,7 +1104,7 @@ Om trusselen rent faktisk er båret af en vilje til at udføre den retsstridige 
 
 Også trusselens styrke er principielt uden betydning for dens retsstridighed (men kan influere på adressatens beføjede tro på, at trusselen er alvorligt ment).
 
-Ordene **personlig vold** taler for, at der alene tænkes på vold - eller trussel herom - som er rettet direkte mod erklæringsgiverens person.
+Ordene **"personlig vold"** taler for, at der alene tænkes på vold - eller trussel herom - som er rettet direkte mod erklæringsgiverens person.
 
 ---
 
@@ -1125,7 +1125,7 @@ Mens aftalelovens § 28 omfatter den voldelige kompulsive tvang, omfatter aftale
 
 ---
 
-**Kompulsiv** betyder: Fremkaldt ved trusler.
+**"Kompulsiv"** betyder: Fremkaldt ved trusler.
 
 Kompulsiv tvang	er tvang, der retter sig mod viljen. Modsat mekanisk tvang.
 
@@ -1162,11 +1162,11 @@ Om betydningen her i visse overdragelsestilfælde, se fx gældsbrevsloven (GBL) 
 
 ---
 
-**Handleevne** betyder en persons evne til at forpligte sig ved retshandler fx ved et køb.
+**"Handleevne"** betyder en persons evne til at forpligte sig ved retshandler fx ved et køb.
 
 ---
 
-Ved ikke-voldelig kompulsiv tvang fx **afpresning**, er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til løftemodtagerens kundskab, jf. aftalelovens § 29. 
+Ved ikke-voldelig kompulsiv tvang fx **"afpresning"**, er retshandelen derimod gyldig, hvis løftemodtageren var i god tro, da løftet kom til løftemodtagerens kundskab, jf. aftalelovens § 29. 
 
 Denne bestemmelse i aftalelovens § 29 omhandler en såkaldt svag ugyldighedsgrund, som kan fortabes over for en godtroende erklæringsmodtager, se nærmere nedenfor.
 
@@ -1227,7 +1227,7 @@ Personer over 15 år kan råde over deres egne penge, som de selv har tjent fx v
 
 ---
 
-**Pengereglen:**  
+**"Pengereglen":**  
 
 Pengereglen er en uskreven retsgrundsætning, hvorefter penge, der uberettiget er betalt af en umyndig, ikke kan forlanges tilbagebetalt fra en modtager fx købmanden, der har modtaget pengene i god tro.
 
@@ -1253,7 +1253,7 @@ Kan den umyndige ikke tilbagelevere, og der er tale om en genstand, som har vær
 
 ---
 
-**Nyttereglen:** Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
+**"Nyttereglen":** Bliver en aftale ugyldig, fordi den ene part er umyndig, skal parterne tilbagelevere, hvad de har modtaget, eller, hvis dette ikke er muligt, erstatte dets værdi. Den umyndige skal dog kun yde erstatning i det omfang, det modtagne skønnes at være kommet denne til nytte, jf. værgemålslovens § 45, stk. 1.
 
 ---
 
@@ -1285,7 +1285,7 @@ I **Juridisk Årbog 2000, s. 99**, er refereret en sag om en umyndig forbruger, 
 
 ---
 
-Se endvidere begrebet **ratihabition**; **"efterfølgende godkendelse".** 
+Se endvidere begrebet **"ratihabition"**; **"efterfølgende godkendelse".** 
 
 Anvendes fx på aftaler indgået af mindreårige, som efterfølgende bliver gyldige ved, at den nu myndige opfylder aftalen.
 
@@ -1391,11 +1391,11 @@ Hvis løftemodtager derimod var i god tro, dvs. ikke indså eller burde have ind
 
 ---
 
-* **Svig**, jf. aftalelovens § 30:
+**Svig**, jf. her aftalelovens § 30.
 
 **Hvad er svig?**
 
-**Svig**, se nærmere ordlyden i aftalelovens § 30:
+**"Svig"**, se nærmere ordlyden i aftalelovens § 30:
 
 "En viljeserklæring er ikke bindende for afgiveren, hvis den, til hvem erklæringen er afgivet, har fremkaldt den ved svig eller har indset eller burdet indse, at den var fremkaldt ved svig fra tredjemands side.
 Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige oplysninger om omstændigheder, som kan antages at være af betydning for erklæringen, eller gjort sig skyldig i svigagtig fortielse af sådanne omstændigheder, anses erklæringen for at være fremkaldt ved den således udviste svig, medmindre det gøres antageligt, at denne ikke har indvirket på erklæringen".
@@ -1406,7 +1406,7 @@ Stk. 2. Har den, til hvem erklæringen er afgivet, svigagtigt givet urigtige opl
 
 ---
 
-Ved **svig** forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
+Ved **"svig"** forstås et retsstridigt forhold, bestående i, at en person mod bedre vidende giver urigtige oplysninger eller fortier sandheden med forsæt til derved at fremkalde en viljeserklæring.
 
 Svig, er en form vildledelse med det formål at få nogen til at foretage en juridisk disposition, fx indgå en aftale, på et urigtigt grundlag, så personen lider et tab eller udsættes for en uventet risiko for et tab.
 
@@ -1637,9 +1637,9 @@ Se:
 
 *	Aftalelovens § 33: Hvis aftalen er i **strid med almindelig hæderlighed**.
 
-*	"Generalklausulen", jf. aftalelovens § 36: "Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende". 
+*	**"Generalklausulen"**, jf. aftalelovens § 36: "Aftalen kan tilsidesættes helt eller delvis, hvis det ville være urimeligt eller i strid med redelig handlemåde at gøre den gældende". 
 
-Ved forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2.
+Ved forbrugeraftaler gælder yderligere aftalelovens § 38c, stk. 2: "Ved forbrugeraftaler gælder § 36, stk. 2, med den ændring, at der ikke ved bedømmelsen af de forhold og omstændigheder, som er nævnt i § 36, stk. 2, herunder vilkår i andre aftaler, som hænger sammen med den pågældende aftale  kan tages hensyn til senere indtrufne omstændigheder til skade for forbrugeren med den virkning, at aftalen ikke kan tilsidesættes eller ændres".
 
 ---
 
@@ -1768,17 +1768,17 @@ Se dommen i **U 2019.2389 V.** Andelsboligforening skulle i relation til aftale 
 
 **Fortolkningsprincipper ved tvivl om indholdet af en aftale:**  
 
-* **Koncipistreglen:** Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
+* **"Koncipistreglen":** Aftalen fortolkes til skade for den, som har udarbejdet aftalen, jf. aftalelovens § 38b.
 
-* **Minimumsreglen:** Aftalen fortolkes til fordel for løftegiver. 
+* **"Minimumsreglen":** Aftalen fortolkes til fordel for løftegiver. 
 
-* **Prioritetsreglen:** Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
+* **"Prioritetsreglen":** Aftalen fortolkes til fordel for det specielle vilkår frem for det generelle.  
 
-* **Gyldighedsreglen:** Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
+* **"Gyldighedsreglen":** Aftalen fortolkes med henblik på at opnå en gyldig aftale, som vil kunne gennemføres.  
 
-* **Rimelighedsreglen:** Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
+* **"Rimelighedsreglen":** Aftalen fortolkes i overensstemmelse med, hvad der er rimeligt og hensigtsmæssigt.  
 
-* **Udfyldningsregel:** En regel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
+* **"Udfyldningsregel":** En regel, der finder anvendelse, hvis der ikke er konkrete holdepunkter for ved fortolkning at nå frem til det modsatte resultat.
 
 
 ---
@@ -1843,7 +1843,7 @@ Desuden skal man arbejde gennemsnitligt mere end 8 timer om ugen og være ansat 
 
 ---
 
-**Papir på ansættelsen***
+**Papir på ansættelsen**
 
 Senest en måned efter, man er startet på sit arbejde, og ens gennemsnitlige arbejdstid er på mere end 8 timer om ugen, skal arbejdsgiveren give én et stykke papir med vilkårene for ens ansættelse.
 

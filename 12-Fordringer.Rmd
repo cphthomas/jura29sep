@@ -256,7 +256,7 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/8ufuecp-wXA" target="_blank">Video Hvordan laver du et gældsbrev</a></h4>
+<h4><a href="https://www.youtube.com/embed/8ufuecp-wXA" target="_blank">Video Hvordan udarbejder du et gældsbrev</a></h4>
 
 ---
 
@@ -264,7 +264,7 @@ Selvom der i så fald formelt foreligger en overdragelsessituation, kan der reel
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/PPqd-fYRCg0" target="_blank">Video Hvordan du laver en låneaftale</a></h4>
+<h4><a href="https://www.youtube.com/embed/PPqd-fYRCg0" target="_blank">Video Hvordan du udarbejder en låneaftale</a></h4>
 
 ---
 
@@ -515,9 +515,6 @@ Andreas kan dokumentere, at han på hævningstidpunkteterne var sammen med en af
 
 1. Giv en begrundet redegørelse for, hvordan tabet skal fordeles mellem Andreas og Sparekassen Pecunia (20%).
 
----
-
-**Podcast om svaret på eksamensopgaven**
 
 ---
 
@@ -666,7 +663,7 @@ Dette gælder dog ikke for:
 
 ---
 
-### Sikringsakten ved simple gældsbreve og simple fordringer?
+## Sikringsakten ved simple gældsbreve og simple fordringer?
 
 
 **Begrebet "sikringsakt":**
@@ -706,7 +703,7 @@ Dette er ikke for at iagttage en sikringsakt, men derimod af hensyn til legitima
 
 ---
 
-### Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg
+## Sikringsakt ved overdragelse af simpelt gældsbrev eller simpel fordring, herunder sekundære udlæg
 
 
 Den, der får overdraget et simpelt gældsbrev eller en simpel fordring til eje eller pant, skal derimod foretage en sikringsakt for at være beskyttet mod overdragerens retsforfølgende kreditorer.
@@ -716,7 +713,7 @@ Sikringsakten består i, at fordringsskyldneren får besked om overdragelsen fra
  
 ---
 
-### Dobbeltoverdragelse af fordringen
+## Dobbeltoverdragelse af fordringen
 
 ```{r ,echo=FALSE,fig.height=2, result=TRUE,fig.cap=("Dobbeltoverdragelse")}
 
@@ -761,7 +758,7 @@ Det gælder også, når der er foretaget udlæg i fordringen. Se GBL § 27.
 
 ---
 
-### Legitimationsvirkning  
+## Legitimationsvirkning  
 
 Skyldneren frigøres uanset overdragelsen af det simple gældsbrev eller den simple fordring ved betaling til overdrageren. 
 
@@ -769,7 +766,7 @@ Det gælder dog ikke, hvis skyldneren vidste, at overdrageren ikke længere havd
 
 ---
 
-### Udlæg i borttransporterede fordringer – factoring     
+## Udlæg i borttransporterede fordringer – factoring     
 
 Som et led i finansieringen af en virksomheds drift sker der ofte belåning af debitorerne (den såkaldte **"factoring"-ordning**). 
 
@@ -870,16 +867,16 @@ Se GBL § 11, stk. 2 og TL § 27, stk. 2, § 42g, stk. 3, 2. og 3. pkt., § 42m,
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/uODiLMSn3kg" target="_blank">Video 2 Om gældsbrevsloven</a></h4>
+<h4><a href="https://www.youtube.com/embed/uODiLMSn3kg" target="_blank">Video 2 Videre om gældsbrevsloven</a></h4>
 
 ---
 
-<h4><a href="https://www.youtube.com/embed/nC3Sy7tBCaY" target="_blank">Video 3 Om gældsbrevsloven</a></h4>
+<h4><a href="https://www.youtube.com/embed/nC3Sy7tBCaY" target="_blank">Video 3 Mere om gældsbrevsloven</a></h4>
 
 
 ---
 
-### Tinglysning af simple (ikke-negotiable) pantebreve  
+## Tinglysning af simple (ikke-negotiable) pantebreve  
 
 Et simpelt (ikke-negotiabelt) pantebrev skal dog også tinglyses digitalt for at opnå omsætningsbeskyttelse. 
 
@@ -903,7 +900,7 @@ Reglerne er dog rettet til, fordi sikringsakten nu sker ved tinglysning i modsæ
 
 ---
 
-### Sikringsakten ved de forskellige omsætningsgældsbreve
+## Sikringsakten ved de forskellige omsætningsgældsbreve
 
 Når man foretager udlæg i omsætningsgældsbreve, er sikringsakten forskellig, afhængig af hvilken type omsætningsgældsbrev der er tale om. 
 
@@ -929,7 +926,7 @@ Udlægshavere skal derfor ikke foretage nogen særlig sikringsakt i forhold til 
 
 ---
 
-### Sikringsakt ved udlæg i negotiable pantebreve:  
+## Sikringsakt ved udlæg i negotiable pantebreve:  
 
 Efter den digitale tinglysning er indført, skal stiftelse og ændring af rettigheder over alle pantebreve, der tinglyses digitalt, ske ved tinglysning. 
 
@@ -1030,7 +1027,7 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 ---
 
-### Oversigt over sikringsakter på fordringer, omsætningsgældsbreve og pantebreve
+## Oversigt over sikringsakter på fordringer, omsætningsgældsbreve og pantebreve
 
 **Hvad er en sikringsakt?**
 
@@ -1154,7 +1151,7 @@ Det betyder kun, at der er et krav om, at man kan bevise, at fordringen eksister
 ---
 
 
-### Skyldners indsigelser over for den oprindelige kreditor
+## Skyldners indsigelser over for den oprindelige kreditor
 
 Lovbekendtgørelse nr. 333 af 31. marts 2014 om gældsbreve  
 
@@ -1194,7 +1191,7 @@ Skyldneren bevarer også den indsigelse, at han eller hun ikke har modtaget det 
 
 ---
 
-**Fx følgende indsigelser over for kreditor bevares:**
+**Følgende indsigelser over for kreditor bevares:**
 
 * Indsigelse efter aftaleloven – ugyldighedsgrunde, fx svig.
 
@@ -1208,7 +1205,7 @@ Skyldnerens indsigelsen over for kreditor kan betyde, at skyldner skal betale mi
 
 ---
  
-### Forholdet mellem overdrager og erhverver
+## Forholdet mellem overdrager og erhverver
 
 
 Hvis kreditor overdrager fordringen på debitor til en erhverver, bliver det juridisk karakteriseret som et "efterfølgende trepartsforhold”: 
@@ -1246,7 +1243,7 @@ visNetwork(nodes, edges, width = "100%") %>%
 
 ---
 
-### Efterfølgende trepartsforhold  
+## Efterfølgende trepartsforhold  
 	
 Begrebet **"efterfølgende trepartsforhold"** omfatter de tilfælde, hvor den oprindelige kreditgivers rettigheder i henhold til kreditaftalen tiltransporteres en tredjemand. 
 
@@ -1368,7 +1365,7 @@ Overdrager (bilsælgeren) indestår således ikke for skyldners (bilkøberens) b
 
 ---
 
-### Betalingslegitimation
+## Betalingslegitimation
 
 **Hvad er en ”betalingslegitimation” også kaldet legitimationsvirkningen?**  
 
@@ -1380,7 +1377,7 @@ Som udgangspunkt frigøres debitor ved betaling i god tro, til den der er berett
 
 ---
 
-### Hvem kan skyldner betale til med frigørende virkning, når fordringen er overdraget?  
+## Hvem kan skyldner betale til med frigørende virkning, når fordringen er overdraget?  
 
 
 Betaler skyldner ikke med frigørende virkning, kan han risikere at skulle betale igen  
@@ -1419,7 +1416,7 @@ Løsningen afhænger af, hvilken type krav der er tale om, se nedenfor
 
 ---
  
-### Hvordan løses konflikterne med de forskellige fordringer
+## Hvordan løses konflikterne med de forskellige fordringer
 
 **Løsningen af de forskellige konflikter løses forskelligt afhængigt af fordringens type, der skelnes mellem:**  
 
@@ -1534,7 +1531,7 @@ edges <- data.frame(from = c(1,2,3,4,5,1,2,3,4), to = c(5,5,5,5,6,6,6,6,6),
   
 ---
 
-### Betalingslegitimation
+## Betalingslegitimation
 
 Betaling til overdrager GBL § 29, så længe skyldner er i god tro. 
 
@@ -1606,7 +1603,7 @@ Hvis skyldneren ikke ved, til hvem fordringen er overdraget eller ikke har modta
 
 ---
 
-### Skyldners indsigelser
+## Skyldners indsigelser
 
 **Hvad sker der med skyldners indsigelser, når kreditor har overdraget fordringen til erhverver?**
 
@@ -1676,7 +1673,7 @@ Skyldner kan ikke kræve flere penge tilbage, end erhverver har modtaget, jf. n�
 
 ---
 
-### Konflikt mellem senere erhververe
+## Konflikt mellem senere erhververe
 
 Kædeoverdragelse (se figur \@ref(fig:fordring9))
 
@@ -1850,7 +1847,7 @@ edges <- data.frame(from = c(1,1), to = c(2,3),
 
 
 
-### Udlæg i et simple gældsbrev eller den simple fordring 
+## Udlæg i et simple gældsbrev eller den simple fordring 
 
 Hvis det simple gældsbrev eller den simple fordring er knyttet til et dokument, bør fogeden tage dokumentet i forvaring, jf. RPL (retsplejeloven) § 523, stk. 2. 
 
@@ -1912,7 +1909,7 @@ Hvis gældsbrevet indeholder ordene "ikke til ordre" eller tilsvarende klart for
 
 ---
 
-### Betalingslegitimation
+## Betalingslegitimation
 
 Betaling til den, der har gældsbrevet i hænde (besiddelse), jf. her GBL § 13.
 
@@ -2007,7 +2004,7 @@ Gældsbrevsdebitor bliver ved betaling til udlægshaver frigjort under samme bet
 
 ---
 
-### Skyldners indsigelser
+## Skyldners indsigelser
 
 **Svage indsigelser går tabt for skyldner, når gældsbrevet er overdraget, jf. GBL § 15 hvis:**
 
@@ -2082,7 +2079,7 @@ edges <- data.frame(from = c(1,2,2,1,1), to = c(2,3,4,3,4),
  
 ---
 
-### Konflikt mellem senere erhververe
+## Konflikt mellem senere erhververe
 
 
 **Kædeoverdragelse, jf. nærmere GBL § 14:** 
@@ -2367,7 +2364,7 @@ Medmindre de efter deres indhold er gjort negotiable, jf. tinglysningslovens §�
 
 ---
 
-### Betalingslegitimation
+## Betalingslegitimation
 
 *  Som simple gældsbreve, jf. GBL § 26, stk. 2.
 
@@ -2386,7 +2383,7 @@ Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden.
 
 ---
  
-### Skyldners indsigelser
+## Skyldners indsigelser
 
 *  Som simple gældsbreve, jf. GBL § 26, stk. 2.
 
@@ -2397,7 +2394,7 @@ Gælder både i forhold til ordinære og ekstraordinære afdrag på gælden.
 
 ---
  
-### Konflikt mellem senere erhververe
+## Konflikt mellem senere erhververe
 
 Kædeoverdragelse (se figur \@ref(fig:fordring15))
 
@@ -2480,7 +2477,7 @@ En aftaleerhverver skal være i god tro på tinglysningstidspunktet, jf. TL § 5
 
 ---
 
-### Sikringsakt ved udlæg i simple pantebreve
+## Sikringsakt ved udlæg i simple pantebreve
 
 **Se tinglysningsloven, hvor der står:**  
 
@@ -2559,7 +2556,7 @@ Et tinglyst pantebrev, bortset fra et skadesløsbrev, der giver pant i fast ejen
 
 ---
 
-### Betalingslegitimation
+## Betalingslegitimation
 
 Betaling til den tinglyste kreditor, TL § 29, stk. 1
 
@@ -2575,7 +2572,7 @@ Skyldner kan kræve at pantebrevet bliver nedlyst ved betaling af ekstraordinær
 
 ---
  
-### Skyldners indsigelser
+## Skyldners indsigelser
 
 Som ved omsætningsgældsbreve, jf. TL § 27 a.
 
@@ -2593,7 +2590,7 @@ Skyldner bevarer stærke indsigelser også over for en erhverver i god tro, jf. 
 
 ---
  
-### Konflikt mellem senere erhververe
+## Konflikt mellem senere erhververe
 
 *  Som ved omsætningsgældsbrev, jf. TL § 27b.
 

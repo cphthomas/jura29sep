@@ -14,7 +14,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/eli/lta/2018/502" target="_blank">Databeskyttelsesloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/retsinfo/1683/11000" target="_blank">Danske Lov - sammenskrivning af Kong Christian den femtis danske lov</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2002/227" target="_blank">E-handelsloven</a></h3>
-<h3><a href="https://www.retsinformation.dk/eli/lta/2019/659" target="_blank">Erhvervsvirksomhedsloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/eli/lta/2021/249" target="_blank">Erhvervsvirksomhedsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2018/1070" target="_blank">Erstatningsansvarsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2013/1457" target="_blank">Forbrugeraftaleloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2015/1123" target="_blank">Forbrugerbeskyttelse ved erhvervelse af fast ejendom mv</a></h3>
@@ -25,7 +25,7 @@ cat(readLines('np.html'))
 <h3><a href="https://www.retsinformation.dk/eli/lta/2018/1324" target="_blank">Færdselsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/1953/169" target="_blank">Grundloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2014/333" target="_blank">Gældsbrevsloven</a></h3>
-<h3><a href="https://www.retsinformation.dk/eli/lta/2017/1373" target="_blank">Hundeloven</a></h3>
+<h3><a href="https://www.retsinformation.dk/eli/lta/2021/329" target="_blank">Hundeloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2020/1782" target="_blank">Hvidvaskloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2015/1658" target="_blank">Høstpantebrevsloven</a></h3>
 <h3><a href="https://www.retsinformation.dk/eli/lta/2014/1018" target="_blank">Inkassoloven</a></h3>
