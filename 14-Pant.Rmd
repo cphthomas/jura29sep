@@ -764,6 +764,16 @@ Indlagt løsøre er omfattet af ejendomspantet og særskilt ret over det kan ikk
 
 ---
 
+Fx et solfangeranlæg til bygningens opvarmning opfattes som en bygningsbestanddel og omfattes derfor af pantet i ejendommen, jf. TL § 38.	
+
+Hvidevarer anses for bygningsbestanddele og er derfor omfattet af pantet i ejendommen, jf. TL § 38.
+
+---
+
+Et klimaanlæg som er installeret på ejendom, er at betragte som en bygningsdel, og særskilte rettigheder, og derfor kan der ikke etableres for sælgeren af klimaanlægget som løsørepant i bygningsdelen, jf. TL § 38. Klimaanlægget hører derfor under ejendomspantet og sælgeren mister sin rettighed som løsørepanthaver. 
+
+---
+
 Juridiske begreber ved fast ejendom:
 
 "Afståelsesret" er en	ret for en lejer til at lade en anden indtræde i sit sted på uændrede vilkår.
@@ -927,12 +937,20 @@ Er driftsmateriel og driftsmidler omfattet af ejendomspantet.
 
 ---
 
+Værktøj er en del af virksomhedens driftsmateriel og hører derfor under TL § 37. 
+
+---
+
 Altså - med undtagelse af biler, jf. stk. 3 - alle genstande, der varigt benyttes i driften som grundlag for denne (produktionsmidler), derimod (bortset fra landejendomme) ikke råvarer, halvfabrikata og færdige produkter.
 
 ---
 
 Se hertil dommen **U 1987.586 V** Køkkener, der midlertidigt var opstillet i en køkkenfabrikants detailforretninger for at fremme salget, og som var monteret på nogenlunde samme måde som i et privat hjem, men blev udskiftet ved modelskifte mv., var ikke omfattet af en panthavers panteret efter TL § 37 og TL § 47 b, stk. 2, idet køkkenerne i princippet måtte sidestilles med enhver anden form for demonstrations-/udstillingsvare, der traditionelt henregnes til en virksomheds varelager. 
 **<a href="https://pro.karnovgroup.dk/document/7000206004/1" target="_blank">Dommen klik her!</a>**
+
+---
+
+Fx vil en computer og en printer til firmaets bogholderi være en del af virksomhedens driftsmateriel, og dermed omfattet i pantet i erhvervsejendommen jf. TL § 37.
 
 ---
 
@@ -1210,6 +1228,10 @@ Pantebrev slettes fra Bilbogen efter 10 år.
 
 ---
 
+Hverken ejendomspant eller virksomhedspant omfatter ”motorkøretøjer”, som derfor skal pantsættes via Bilbogen, jf. TL § 42D.
+
+---
+
 **U 2014.1275 V:** Forsikringsselskab, der havde udbetalt erstatning for totalskadet bil til ejeren, der havde kørt spirituskørsel med en promille på 1,84, og til panthaveren, havde krav på tilbagebetaling hos forsikringstageren.**<a href="https://pro.karnovgroup.dk/document/7000637990/1" target="_blank">Dommen klik her!</a>**
 
 ---
@@ -1297,6 +1319,18 @@ Stk. 2. Underpant i ejerpantebreve, der giver pant i løsøre, skal tinglyses fo
 Sikringsakten er således registrering i form af tinglysning, jf. TL § 47, stk. 2.  
 
 TL § 47 omfatter ikke pantebreve, der giver underpant i biler mv., idet rettigheder over biler mv. er reguleret i kap. 6 a. 
+
+---
+
+Virksomhedspant omfatter tilgodehavender fra virksomhedens salg af varer og tjenesteydelser, herunder arbejdsydelser, men ikke tilgodehavender, som ikke stammer fra driften af virksomheden. Kundetilgodehavenderne er således omfattet af virksomhedspantet, hvorimod tilgodehavendet fra salg af fx en tidligere varebil er ikke omfattet, da den ikke mere er en del af driften, jf. TL § 47C stk. 3. nr. 1.
+
+---
+
+Et varelager med fx. byggematerialer indgår i virksomhedspantet, jf. TL § 47c stk. 3 nr. 2: "lagre af råvarer, halvfabrikata og færdigvarer".
+
+---
+
+En maskine er driftsmateriel og er som udgangspunkt omfattet af TL 37. Der kan dog godt etableres særskilte rettigheder i TL § 37 ting, fx hvis sælger, har taget ejendomsforbehold inden levering på ejendommen. Sælgeren har derfor gyldigt ejendomsforbehold i maskinen, hvis kravene i kreditaftalelovens (KAL) § 34 er opfyldt. Kravet om 20 % udbetaling, gælder dog ikke, når der er tale om et erhvervssalg, jf. nærmere KAL § 50.
 
 
 ---
@@ -2050,6 +2084,8 @@ Reglerne om ejendomsrettens overgang er relevant til afgørelse af, om en erhver
 -	Først i tid er bedst i ret, men en senere erhverver kan vinde ret, hvis han tinglyser først i god tro om den første købers ret – jf. TL § 1, stk. 2.
 
 -	Den gode tro skal foreligge ved indleveringen af skødet til tinglysning – TL § 5.
+
+- Med den godtroende aftaleerhververens ekstinktion beskytter TL § 1, den kreditorer, der har ydet kredit i tillid til tingbogslegitimationen. Herved reduceres kreditrisikoen og dermed renten, til gavn for låntageren. Panthavers øgede sikkerhed i de situationer, hvor andres i tid bedre rettigheder ekstingveres, resulterer i, at risikoen forbundet med fordringen, her sælgerpantebrevet, reduceres, det bliver mere omsætteligt, opnår en højere kurs og låneren et billigere lån. 
 
 ---
 
