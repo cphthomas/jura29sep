@@ -1124,6 +1124,8 @@ Fælles for et oprindeligt trepartsforhold og et fritstående lån er, at køber
 
 Ved et gyldigt ejendomsforbehold	har sælger således forbeholdt sig ejendomsretten til det solgte, hvis købesummen ikke betales.
 
+Et gyldigt ejendomsforbehold giver sælgeren ejendomsretten til det solgte, indtil købesummen er betalt. 
+
 ---
 
 Ejendomsforbehold kan være en del af kreditaftalen, men sælger kan også vælge ikke at tage ejendomsforbehold.

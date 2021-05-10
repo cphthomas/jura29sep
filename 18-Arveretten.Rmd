@@ -1036,6 +1036,10 @@ Det koster 500 kr. i retsafgift (2019) at få boet udleveret til uskiftet bo.
 
 ---
 
+At sidde i uskiftet bo betyder nærmere, at arveopgørelsen og arvefordelingen efter afdøde udskydes indtil det tidspunkt, hvor længstlevende dør eller evt. gifter sig på ny, jf. AL § 26. Det er en forudsætning, at længstlevende er solvent, jf. AL § 19, og at afdødes myndige særbørn giver accept, evt. skifteretten på vegne umyndige særbørn, jf. AL § 27. Der må ikke have været fuldstændigt særeje i ægteskabet, jf. AL § 17, men gerne skilsmisse særeje. 
+
+---
+
 **Man kan ikke få boet udleveret til uskiftet bo, hvis:**
 
 1. Afdøde og ægtefællen kun havde særeje.

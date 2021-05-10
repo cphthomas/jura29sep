@@ -125,11 +125,7 @@ visEdges(color = list(color = "lightgrey", highlight = "yellow") )
 
 **Hvad er et løfte**
 
-Et løfte er fx, at man ville betale en anden persons fartbøde ugyldig eller, at et forsikringsselskab skulle udbyde forsikringer mod fartbøder eller, at retssystemet skulle håndhæve mangler ved håndværksydelser i forbindelse med udførelsen af sort arbejde.
-
----
-
-Men en aftale bliver ikke ugyldig, blot fordi der er overtrådt offentligretlige forskrifter, fx i lov om finansielle virksomhed, jf. § 43 om god skik for finansielle virksomheder, men det kan være en medvirkende årsag til, at aftalen bliver ugyldig eller kan tilsidesættes efter aftalelovens § 36, som værende urimelig. 
+Løfte er en tilkendegivelse af, at man lover en anden person noget. Et tilbud defineres som et løfte, som taber sin virkning, hvis det ikke bliver accepteret i rette tid.
 
 ---
 
@@ -1569,6 +1565,61 @@ Se dommen i **U 1972.568 H** 75-årig kvindes underskrivelse på skøde i den tr
 ---
 
 Sammenfattende må det antages, at reglen i aftalelovens § 32, stk. 1 dækker både tilfælde om, hvor løftegiveren har afgivet en viljeserklæring, løftegiver overhovedet ikke ville have afgivet, samt de tilfælde, hvor løftegiveren vel ville afgive viljeserklæringen, men denne ikke har det indhold, løftegiver regnede med.
+
+---
+
+**Fejlprismærkning på pris samt rabatter mv.**
+
+**Prisen på varen**
+
+Når man handler med forbrugere, skal man altid oplyse prisen inklusive moms og alle afgifter. Kunderne skal tydeligt kunne se prisen på alle varerne.
+
+Når kunderne kommer ind i butikken, skal de tydeligt kunne se, hvad alle de varer, der ligger fremme til salg i butikken, koster. Prisen kan enten stå på fx et prismærke på selve varen, på en hyldekant eller på et hængeskilt. Der må ikke være tvivl om, hvilken vare prisen gælder for.
+
+Nogle butikker har ikke prisskilte, men har opsat scannere, så kunderne selv kan scanne prisen i butikken. Det er ikke ulovligt, hvis det er nemt og hurtigt for kunden at tjekke prisen på den måde.
+
+Kunderne skal også let kunne se prisen på de varer, som står i udstillingsvinduet.
+
+---
+
+*Forkerte priser og rabatter mv. i butikken og i brochure mv. **
+
+Kunden kan normalt forlange at købe varen til den pris, der står på prismærket, også selvom det ved en fejl er en forkert pris. Der er dog enkelte undtagelser. Det kan fx være en vare, som en anden kunde har flyttet og fx lagt på et bord med udsalgsvarer.
+
+Kunden kan heller ikke forlange at få varen til den forkerte, lave pris, hvis det er åbenlyst, at der er tale om en fejl. Det kan fx være et prisskilt fra en billig vare, der er faldet ned på en meget dyr vare.
+
+---
+
+**Priser og rabatter mv. i netbutikker**
+
+Kunden har krav på at få prisen på varen oplyst. Man skal også give oplysning om eventuelle leveringsomkostninger, og hvad der ellers måtte løbe på af gebyrer, afgifter og lignende.
+
+Hvis hjemmesiden henvender sig til almindelige forbrugere, skal den oplyste pris altid være inklusive moms og alle afgifter.
+
+---
+
+**Forkerte priser og rabatter mv. i netbutikker**
+
+Hvis man har en netbutik med indkøbsfunktion, vil de oplyste priser normalt være bindende. Det betyder, at kunden har ret til at købe varen til den oplyste pris, også selvom den er forkert.
+
+Der er dog enkelte undtagelser. Kunden kan ikke forlange at få varen til den forkerte, lave pris, hvis det er åbenlyst, at der er tale om en fejl.
+
+Hvis den erhvervsdrivende ved en fejl oplyser en forkert pris på sin hjemmeside, og hjemmesiden blot fungerer som en slags katalog eller tilbudsannonce uden at der er en indkøbsfunktion, og varen skal købes på anden måde, er der blot tale om en "opfordring til tilbud" og reklamen har ingen bindende virkning, dvs den erhvervsdrivende er ikke forpligtet til at sælge til den fejlbehæftet pris på hjemmesiden..
+
+---
+
+**Opfordring til at gøre tilbud**
+
+Hvis erhvervsdrivende vil sikre sig, at det er den korrekte vare til den korrekte pris, den erhvervsdrivende er ved at sælge, kan denne udforme sin hjemmeside sådan, at der ikke bliver indgået en aftale, når kunden lægger varen i kurven. Det kan gøres ved at indsætte en tekst, så kunden klart og tydeligt bliver gjort opmærksom på, at aftalen ikke er indgået, før den erhvervsdrivende har bekræftet den.
+
+---
+
+**Forkerte priser i fysiske annoncer og brochure om rabatter mv.**
+
+Hvis den erhvervsdrivende ved en fejl oplyser en forkert pris, herunder rabat i en trykt annonce, tilbudsavis eller brochure, vil den forkerte pris/rabat ikke være bindende for den erhvervsdrivende, men blot en "opfordring til tilbud". Det er dog en forudsætning, at den erhvervsdrivende retter fejlen, før kunden køber varen, jf. købelovens § 76, stk. 2.
+
+I sådanne tilfælde er tilbudsgiver ikke bundet af fejlskrift med en forkert pris eller rabat mv., jf. Aftl. § 32, stk. 1, medmindre tilbudsmodtager er i god tro.   
+
 
 ---
 
