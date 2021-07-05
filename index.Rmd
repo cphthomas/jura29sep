@@ -42,6 +42,8 @@ cat(readLines('fp.html'))
 
 <!-- --- -->
 
+<h4>***Hvis det driller med at afmelde abonnementet i Paypal eller Stripe, så skriv endelig til info@tepedu.com, så hjælper vi med det :O)***</h4>
+
 <br>
 
 <h4>***Anmeldelser***</h4>
